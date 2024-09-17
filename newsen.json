@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalresearch.ca"
+      },
+      "Author": "Ellen Brown",
+      "Title": "The Florida State Sunshine Bank: How a State-Owned Bank Can Protect Free Speech and Confront “The Weaponization of the Dollar”",
+      "Description": "Fifteen years have passed since the Occupy Wall Street movement focused attention on the inequities and hazards of large Wall Street banks, particularly those risky banks with trillions of dollars in derivatives on their books. “Move your money” was the …\nThe…",
+      "Url": "https://www.globalresearch.ca/florida-state-sunshine-bank-state-owned-bank-protect-free-speech/5867936",
+      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/Jimmy-Patronis.jpeg",
+      "PublishedAt": "2024-09-16T11:38:49Z",
+      "Content": "Fifteen years have passed since the Occupy Wall Street movement focused attention on the inequities and hazards of large Wall Street banks, particularly those risky banks with trillions of dollars in… [+10880 chars]"
+    },
     {
       "Source": {
         "Id": null,

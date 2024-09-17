@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY lunes 16 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 16 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.24 pesos por unidad, con un fortalecimiento del 0.20 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2024-09-16T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 16 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.24 pesos por unidad, con un fortalecimiento de… [+960 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/AI45FVXUVRD2NMFLN6DJGAB7JU.jpeg?smart=true&auth=c2bfc7f8d4ba3fefcd05a4eb5bbfe18b7fa84a4e3894c017f9d356c4ed69ef06&width=1200&height=630",
       "PublishedAt": "2024-09-05T03:34:39Z",
       "Content": "El suspenso no ha terminado para el peso mexicano la noche de este miércoles 4 de septiembre, ya que con la apertura de los mercados en Asia ha alcanzado las 19.9631 unidades por dólar, a casi nada d… [+3782 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso roza las 20 unidades por dólar por avance de reforma judicial",
-      "Description": "Forbes México.\n Peso roza las 20 unidades por dólar por avance de reforma judicial\n\nEl dólar se ubicó en 19.9443 pesos, el mayor nivel para la divisa estadounidense desde finales de octubre de 2022, según Banxico.\nPeso roza las 20 unidades por dólar por avanc…",
-      "Url": "https://www.forbes.com.mx/peso-roza-las-20-unidades-por-dolar-por-avance-de-reforma-judicial/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
-      "PublishedAt": "2024-09-04T22:08:28Z",
-      "Content": "El peso retrocedió este miércoles tras una sesión marcada por fuertes vaivenes después de que la Cámara de Diputados aprobó la polémica reforma judicial impulsada por el gobierno, que desde hace sema… [+2985 chars]"
     }
   ]
 }
