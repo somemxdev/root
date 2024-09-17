@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "US dollar hits more than one-year low versus yen as market eyes aggressive Fed rate cut - Yahoo Finance",
+      "Description": "US dollar hits more than one-year low versus yen as market eyes aggressive Fed rate cutYahoo Finance US Dollar declines as Fed easing expectations intensifyFXStreet Wall Street Revives Big-to-Small Trade on Fed Bets: Markets WrapBloomberg Dollar soft, yen str…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175008521",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-16T19:32:45Z",
+      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+    },
     {
       "Source": {
         "Id": null,
