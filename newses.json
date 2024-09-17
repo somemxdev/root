@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 16 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 13 de septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-16-de-septiembre-nid16092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-16T15:15:42Z",
+      "Content": "Este lunes 16 de septiembre, el precio del dólar en México es de $19,5887, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2547 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/27QU42ELTBAEFIA2KPOWIQT5KI.jpg?smart=true&auth=b72d5d76f2ce9f6408906c30b8fd4e00e6ab7b6d0c488cdb668454eae247d9ba&width=1200&height=630",
       "PublishedAt": "2024-09-05T09:29:07Z",
       "Content": "El tipo de cambio alcanzó los 20 pesos por dólar las primeras horas de este jueves 5 de septiembre, luego de días consecutivos de depreciación de la moneda mexicana frente al billete estadounidense, … [+2486 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Dólar a 20 pesos ‘le respira en la nuca’ a México: Moneda mexicana se deprecia esta noche",
-      "Description": "Tras el cierre de la jornada de este miércoles, el peso mexicano se acerca cada vez más a las 20 unidades por dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/04/peso-mexicano-se-deprecia-tipo-de-cambio-se-acerca-a-20-unidades-por-dolar-mercados-en-asia-hoy/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/AI45FVXUVRD2NMFLN6DJGAB7JU.jpeg?smart=true&auth=c2bfc7f8d4ba3fefcd05a4eb5bbfe18b7fa84a4e3894c017f9d356c4ed69ef06&width=1200&height=630",
-      "PublishedAt": "2024-09-05T03:34:39Z",
-      "Content": "El suspenso no ha terminado para el peso mexicano la noche de este miércoles 4 de septiembre, ya que con la apertura de los mercados en Asia ha alcanzado las 19.9631 unidades por dólar, a casi nada d… [+3782 chars]"
     }
   ]
 }
