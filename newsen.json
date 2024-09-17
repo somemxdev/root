@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/08/bank-close-cash.jpg",
       "PublishedAt": "2024-08-17T20:00:18Z",
       "Content": "Model and self-proclaimed “human barbie doll” Jessica Alves says her bank account has been terminated because she’s on OnlyFans.\r\nAlves says she received an account closure notice from Barclays in th… [+1637 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sostav.ru"
-      },
-      "Author": null,
-      "Title": "Konstantin Tserazov: The euro to dollar exchange rate on external markets has grown over the week",
-      "Description": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last October. At the same time, trading was of a range and low-v…",
-      "Url": "https://www.sostav.ru/blogs/269934/49617",
-      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=49617",
-      "PublishedAt": "2024-08-16T06:13:42Z",
-      "Content": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last… [+4019 chars]"
     }
   ]
 }
