@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "eNCA"
+      },
+      "Author": "Enca",
+      "Title": "Exchange rate | Rand holds firm against US dollar",
+      "Description": "The JSE All Share index was trading at over 82,000 points earlier on Monday.",
+      "Url": "https://www.enca.com/business/exchange-rate-rand-holds-firm-against-us-dollar",
+      "UrlToImage": "https://www.enca.com/sites/default/files/styles/large/public/2024-09/GettyImages-465387114.jpg.webp?itok=kd-0R1Cs",
+      "PublishedAt": "2024-09-16T16:35:40Z",
+      "Content": "JOHANNESBURG - The JSE All Share index was trading at over 82,000 points earlier on Monday. \r\nREAD: South African Rand soars to year high\r\nThe local currency is at R17.64 to the US Dollar. \r\nTom Gale… [+90 chars]"
+    },
     {
       "Source": {
         "Id": null,
