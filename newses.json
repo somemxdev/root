@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 17 de septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-septiembre-nid17092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-17T15:15:13Z",
+      "Content": "Este martes 17 de septiembre, el precio del dólar en México es de $19,2483, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2312 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OVHWDZ5YNVHX7AFI565VFH2HOI.jpg?smart=true&auth=a02a0b76c18e5bd6646fa849181f2647f64e1c245cbacd160745945b69502338&width=1200&height=630",
       "PublishedAt": "2024-09-05T19:29:12Z",
       "Content": "Andrés Manuel López Obrador puede clamar victoria ante Javier Milei... si ambos presidentes estuvieran en una carrera por ver quién tiene la moneda más depreciada ante el dólar en lo que va de 2024.\r… [+2365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Erick Ponce",
-      "Title": "¿Qué le pasó al súper peso? 4 razones por las que el dólar llega a 20 pesos",
-      "Description": "Y después de dos años de mantenerse por debajo de esta cifra, el súper peso se devalúa frente a la moneda de Estados Unidos. Sí, la...\nThe post ¿Qué le pasó al súper peso? 4 razones por las que el dólar llega a 20 pesos appeared first on Sopitas.com.",
-      "Url": "https://www.sopitas.com/noticias/razones-dolar-cuesta-20-pesos-septiembre-2024/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/09/dolar-20-pesos-septiembre-2024.jpg",
-      "PublishedAt": "2024-09-05T17:02:49Z",
-      "Content": "Lo que necesitas saber:\r\nEste jueves 5 de septiembre se reporta que el dólar estadounidense ya vale 20 pesos.\r\nY después de dos años de mantenerse por debajo de esta cifra, el súper peso se devalúa f… [+4080 chars]"
     }
   ]
 }
