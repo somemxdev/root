@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cae tras fortalecimiento global del dólar; BMV avanza",
+      "Description": "Forbes México.\n Peso cae tras fortalecimiento global del dólar; BMV avanza\n\nEl peso cotizaba en 19.4040 unidades, con una pérdida de un 1.03% frente al precio de referencia de Reuters del lunes, cuando retrocedió un 0.10% en sus operaciones en el exterior. El…",
+      "Url": "https://www.forbes.com.mx/peso-cae-tras-fortalecimiento-global-del-dolar-bmv-avanza/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-17T14:19:34Z",
+      "Content": "El peso se depreciaba este martes ante un fortalecimiento global del dólar tras la publicación de cifras mejores a lo previsto de las ventas al por menor en Estados Unidos, en un mercado con la mira … [+1434 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Recupera peso terreno; dólar baja a $19.09",
+      "Description": "En el mercado Forex, el tipo de cambio cerró en $19.09 por dólar, con un avance para la moneda local de 0.60% frente al cierre previo.",
+      "Url": "https://www.reforma.com/recupera-peso-terreno-dolar-baja-a-19-09/ar2874714",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583200.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-09-17T14:05:11Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 septiembre 2024) .-08:02 (Actualización: 15:34 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Recupera peso terreno; dólar baja a $19.10",
+      "Description": "En el mercado Forex, el tipo de cambio cerró en $19.10 por dólar, con un avance para la moneda local de 0.60% frente al cierre previo.",
+      "Url": "https://www.reforma.com/recupera-peso-terreno-dolar-baja-a-19-10/ar2874714",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583200.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-09-17T14:05:11Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (17 septiembre 2024) .-08:02 (Actualización: 15:34 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/09/dolar-20-pesos-septiembre-2024.jpg",
       "PublishedAt": "2024-09-05T17:02:49Z",
       "Content": "Lo que necesitas saber:\r\nEste jueves 5 de septiembre se reporta que el dólar estadounidense ya vale 20 pesos.\r\nY después de dos años de mantenerse por debajo de esta cifra, el súper peso se devalúa f… [+4080 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 5 de septiembre",
-      "Description": "Consulta la cotización del dólar a peso mexicano hoy, jueves 5 de septiembre de 2024, y conoce el resumen completo de la situación económica en México y el valor de la divisa.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-5-de-septiembre-nid05092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-05T14:17:42Z",
-      "Content": "Este jueves 5 de septiembre, el precio del dólar en México es de $19,846, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2229 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Así amanece el peso frente al dólar este jueves 5 de septiembre; supera la barrera de los 20 desde 2022",
-      "Description": "El tipo de cambio de la moneda es variable, por lo que puede modificarse en ventanilla",
-      "Url": "https://www.record.com.mx/contra/asi-amanece-el-peso-frente-al-dolar-este-jueves-5-de-septiembre-supera-la-barrera-de-los-20",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/05/portada_dolar43.jpg",
-      "PublishedAt": "2024-09-05T13:33:50Z",
-      "Content": "Si tienes en mente cambiar tus pesos pordólares este jueves 5 de septiembre de 2024, es buen momento antes que la moneda nacional siga subiendo pues ya pasó la barrera de los 20 pesos, hecho que no s… [+873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso supera la barrera de 20 unidades por dólar tras avance de la reforma judicial de AMLO",
-      "Description": "Forbes México.\n Peso supera la barrera de 20 unidades por dólar tras avance de la reforma judicial de AMLO\n\nEl peso cotizaba en 20.1090 por dólar, con una pérdida de 0.92% frente al precio de referencia de Reuters del miércoles, aunque poco antes llegó a debi…",
-      "Url": "https://www.forbes.com.mx/peso-supera-la-barrera-de-20-unidades-por-dolar-tras-avance-de-la-reforma-judicial-de-amlo/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2024-09-05T13:19:00Z",
-      "Content": "El peso se depreciaba este jueves debido a las preocupaciones por el avance en el Congreso de la reforma al Poder Judicial propuesta por el presidente Andrés Manuel López Obrador, mientras los invers… [+975 chars]"
     }
   ]
 }
