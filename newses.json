@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del dólar 17 de septiembre: El peso mexicano sigue recuperando terreno",
+      "Description": "Nuevamente se inicia la jornada con la cotización del dólar por debajo de los $20 pesos y con tendencia a la baja",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-17-de-septiembre-el-peso-mexicano-sigue-recuperando-terreno",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/17/dolar_1.jpg",
+      "PublishedAt": "2024-09-17T13:38:35Z",
+      "Content": "Este martes 17 de septiembre de 2024 el dólar se cotiza en $19.37 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en c… [+799 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
       "PublishedAt": "2024-09-05T13:19:00Z",
       "Content": "El peso se depreciaba este jueves debido a las preocupaciones por el avance en el Congreso de la reforma al Poder Judicial propuesta por el presidente Andrés Manuel López Obrador, mientras los invers… [+975 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso borra avance de inicio de sesión y cierra en 19.94 por dólar",
-      "Description": "Tras la aprobación de la reforma al Poder Judicial impulsada por el presidente Andrés Manuel López Obrador en la Cámara de Diputados este miércoles, y a la espera de su discusión y aprobación en el Senado, el peso registró ayer una depreciación de 0.37 por ci…",
-      "Url": "https://www.jornada.com.mx/2024/09/05/economia/021n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-09-05T11:33:17Z",
-      "Content": "Periódico La JornadaJueves 5 de septiembre de 2024, p. 21\r\nTras la aprobación de la reforma al Poder Judicial impulsada por el presidente Andrés Manuel López Obrador en la Cámara de Diputados este mi… [+3250 chars]"
     }
   ]
 }
