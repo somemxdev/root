@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 17 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está eldólar HOY martes 17 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.37 pesos por unidad, con un fortalecimiento del 0.76 por ciento, según datos de Bloomberg.Los analistas es…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2024-09-17T11:07:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 17 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.37 pesos por unidad, con un fortalecimiento d… [+808 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-09-05T11:33:17Z",
       "Content": "Periódico La JornadaJueves 5 de septiembre de 2024, p. 21\r\nTras la aprobación de la reforma al Poder Judicial impulsada por el presidente Andrés Manuel López Obrador en la Cámara de Diputados este mi… [+3250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Se rompió el techo: Tipo de cambio supera los 20 pesos por dólar por primera vez desde 2022 en México",
-      "Description": "El tipo de cambio finalmente alcanzó los 20 pesos por dólar, el peor nivel en México desde octubre de 2022.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/05/sube-el-dolar-a-20-pesos-mexicanos-tipo-de-cambio-en-mexico-hoy-5-de-septiembre-en-vivo-devaluacion-peso/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/27QU42ELTBAEFIA2KPOWIQT5KI.jpg?smart=true&auth=b72d5d76f2ce9f6408906c30b8fd4e00e6ab7b6d0c488cdb668454eae247d9ba&width=1200&height=630",
-      "PublishedAt": "2024-09-05T09:29:07Z",
-      "Content": "El tipo de cambio alcanzó los 20 pesos por dólar las primeras horas de este jueves 5 de septiembre, luego de días consecutivos de depreciación de la moneda mexicana frente al billete estadounidense, … [+2486 chars]"
     }
   ]
 }
