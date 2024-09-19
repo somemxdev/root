@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 18 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 18 de septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-18-de-septiembre-nid18092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-18T14:53:23Z",
+      "Content": "Este miércoles 18 de septiembre, el precio del dólar en México es de $19,267, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2474 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-6-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-06T15:40:30Z",
       "Content": "Este viernes 6 de septiembre, el precio del dólar en México es de $20,0028, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Revirtió el peso traspié matutino y cierra con ligera ganancia en 19.93 por dólar",
-      "Description": "El tipo de cambio superó momentáneamente 20 pesos por dólar este jueves. La moneda mexicana siguió atrapada en niveles cercanos a 20 unidades por dólar, nivel no visto desde octubre de 2022, en medio de la cautela de los inversionistas por los acontecimientos…",
-      "Url": "https://www.jornada.com.mx/2024/09/06/economia/023n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-09-06T08:40:19Z",
-      "Content": "Periódico La JornadaViernes 6 de septiembre de 2024, p. 23\r\nEl tipo de cambio superó momentáneamente 20 pesos por dólar este jueves. La moneda mexicana siguió atrapada en niveles cercanos a 20 unidad… [+3767 chars]"
     }
   ]
 }
