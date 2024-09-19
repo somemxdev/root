@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 18 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 18 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.09 pesos por unidad, con una baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se de…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-09-18T11:11:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 18 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.09 pesos por unidad, con una baja del 0.05… [+939 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-09-06T08:40:19Z",
       "Content": "Periódico La JornadaViernes 6 de septiembre de 2024, p. 23\r\nEl tipo de cambio superó momentáneamente 20 pesos por dólar este jueves. La moneda mexicana siguió atrapada en niveles cercanos a 20 unidad… [+3767 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Redacción PERÚ21",
-      "Title": "Tipo de cambio en Perú: Dólar alcanza los S/3.762 durante la jornada",
-      "Description": "En promedio, los principales bancos ofrecen el dólar a S/3.71 para la compra y S/3.86 para la venta. En las principales casas de cambio y Fintech, en promedio, el dólar se cotiza a S/.3.78 la compra y S/3.80 la venta.",
-      "Url": "https://peru21.pe/economia/dolar-hoy-mira-aqui-la-cotizacion-del-tipo-de-cambio-en-peru",
-      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2023-10/OBBIBFOM75B43O62ZRAS4SC2VQ_1.jpg",
-      "PublishedAt": "2024-09-05T20:00:31Z",
-      "Content": "El tipo de cambio se mantiene volátil. Durante la sesión de hoy, el dólar cotizó en S/3.762, registrando una leve baja en comparación con la cotización previa de S/3.797, según el BCR.\r\nMIRA: Persona… [+849 chars]"
     }
   ]
 }
