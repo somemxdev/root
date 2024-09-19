@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New Atlas"
+      },
+      "Author": "Joe Salas",
+      "Title": "The Great Pacific Garbage Patch has a 7.5-billion-dollar price tag",
+      "Description": "The Great Pacific Garbage Patch, or GPGP for short, isn't exactly what you might have heard. It's not a floating garbage land-mass twice the size of Texas that you can settle, even though it kind of already has its own currency (called Debris), a flag, and pa…",
+      "Url": "https://newatlas.com/environment/great-pacific-garbage-patch-ocean-cleanup-price-tag/",
+      "UrlToImage": "https://assets.newatlas.com/dims4/default/feea576/2147483647/strip/true/crop/1720x903+0+150/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2Fd5%2F3063ab104602ad21cd8b9686fd10%2Ftrash-isles-flag-1.jpg&na.image_optimisation=0",
+      "PublishedAt": "2024-09-17T23:30:54Z",
+      "Content": "The Great Pacific Garbage Patch, or GPGP for short, isn't exactly what you might have heard. It's not a floating garbage land-mass twice the size of Texas that you can settle, even though it kind of … [+5336 chars]"
+    },
     {
       "Source": {
         "Id": null,
