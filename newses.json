@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Interrumpe el peso su racha ganadora; cierra en 19.29 por dólar",
+      "Description": "Luego de cuatro cierres consecutivos al alza, la divisa mexicana registró una depreciación de 0.81 por ciento, equivalente a 15.42 centavos, para cerrar en 19.2941 pesos por dólar spot al cierre de una jornada marcada por la decisión de la Reserva Federal de …",
+      "Url": "https://www.jornada.com.mx/2024/09/19/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/09/19/fotos/019n2eco-1.jpg",
+      "PublishedAt": "2024-09-19T11:06:07Z",
+      "Content": "Periódico La JornadaJueves 19 de septiembre de 2024, p. 19\r\nLuego de cuatro cierres consecutivos al alza, la divisa mexicana registró una depreciación de 0.81 por ciento, equivalente a 15.42 centavos… [+2422 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY jueves 19 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 19 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.19 pesos por unidad, con una perdida del 0.49 por ciento, según datos de Bloomberg.El peso mexicano se dep…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-09-19T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 19 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.19 pesos por unidad, con una perdida del 0.49 … [+871 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dinero-peso-dolar-mexico-rts-18062024.jpg",
       "PublishedAt": "2024-09-06T19:21:58Z",
       "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano opera este viernes por segundo día consecutivo por encima de las 20 unidades frente al dólar, mientras la atención del mercado loc… [+1725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "El peso rompe barrera de 20 unidades por dólar; nivel no visto desde 2022",
-      "Description": "Forbes México.\n El peso rompe barrera de 20 unidades por dólar; nivel no visto desde 2022\n\nEl peso ha mostrado una sostenida depreciación desde las elecciones presidenciales de principios de junio, en las que obtuvo la victoria Claudia Sheinbaum, cuando cotiz…",
-      "Url": "https://www.forbes.com.mx/el-peso-rompe-barrera-de-20-unidades-por-dolar-nivel-no-visto-desde-2022/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
-      "PublishedAt": "2024-09-06T18:40:38Z",
-      "Content": "El peso opera este viernes por segundo día consecutivo por encima de las 20 unidades frente al dólar, mientras la atención del mercado local suma a la reforma judicial promovida por el presidente, An… [+2633 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Aquí vamos otra vez: Tipo de cambio supera los 20 pesos por dólar este viernes",
-      "Description": "El peso mexicano sigue siendo 'víctima' de la incertidumbre en los mercados por la reforma al Poder Judicial que será discutida en el Senado la próxima semana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/06/tipo-de-cambio-en-mexico-peso-dolar-hoy-5-de-septiembre-en-vivo/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JUKDTSC72BHZHD4JX4G6MDOGKQ.jpg?smart=true&auth=d2926b60d7e906950e7ad92a469ac64c1bb6103053100781894e3424340b5c85&width=1200&height=630",
-      "PublishedAt": "2024-09-06T16:13:54Z",
-      "Content": "El peso mexicano sufre nuevamente en el cierre de semana ante el dólar, y a pesar de que el tipo de cambio inició la sesión a la baja, cruzó nuevamente el techo psicológico de las 20 unidades este 5 … [+1738 chars]"
     }
   ]
 }
