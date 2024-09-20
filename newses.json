@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 19 de septiembre",
+      "Description": "El tipo de cambio se sitúa en $19,27 pesos mexicanos por dólar, lo que demuestra una ligera apreciación del 0,06% respecto al cierre anterior de $19,28. Simultáneamente, el dólar estadounidense, según el Índice Dólar, experimenta un incremento del 0,09%.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-19-de-septiembre-nid19092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-19T13:50:58Z",
+      "Content": "Este jueves 19 de septiembre, el precio del dólar en México es de $19,3033, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2100 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1157345556.jpg?11565899781725678003",
       "PublishedAt": "2024-09-07T03:00:00Z",
       "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / ARF",
-      "Title": "Peso sufre recaída sobre las 20 unidades por dólar, repite niveles no vistos desde 2022",
-      "Description": "Este viernes, la moneda mexicana alcanzó en el mercado mayorista los 20.09 antes del mediodía, luego de cerrar la sesión del jueves en 19.93 pesos por dólar.",
-      "Url": "https://aristeguinoticias.com/0609/dinero-y-economia/peso-sufre-recaida-sobre-las-20-unidades-por-dolar-repite-niveles-no-vistos-desde-2022/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dinero-peso-dolar-mexico-rts-18062024.jpg",
-      "PublishedAt": "2024-09-06T19:21:58Z",
-      "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano opera este viernes por segundo día consecutivo por encima de las 20 unidades frente al dólar, mientras la atención del mercado loc… [+1725 chars]"
     }
   ]
 }
