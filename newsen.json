@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sostav.ru"
+      },
+      "Author": null,
+      "Title": "Konstantin Tserazov:The euro to dollar exchange rate on external markets has grown over the week.",
+      "Description": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last October. At the same time, trading was of a range and low-v…",
+      "Url": "https://www.sostav.ru/blogs/269934/51272",
+      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=51272",
+      "PublishedAt": "2024-09-19T18:22:31Z",
+      "Content": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last… [+4019 chars]"
+    },
     {
       "Source": {
         "Id": null,
