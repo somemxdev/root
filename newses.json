@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso apenas se ‘inmuta’ en día de Simulacro Nacional: ¿En cuánto cotiza ante el dólar?",
+      "Description": "En ventanillas bancarias, el dólar se vende en 19.77 pesos cada uno, según los datos más recientes de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/19/peso-dolar-precio-hoy-19-de-septiembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/62DUZQ5C65HQHA6ULOH5JGBJDM.jpg?smart=true&auth=ba02e09f696f287ff4ebe77e6f1db9a703ac6574e6c4cbc497c5aacae9f23303&width=1200&height=630",
+      "PublishedAt": "2024-09-19T16:23:10Z",
+      "Content": "El peso mexicano se perfila para otra sesión con pérdidas este 19 de septiembre, día de Simulacro Nacional, mientras el mercado asimila el tijeretazo que la Reserva Federal aplicó a la tasa de interé… [+1825 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/16d8742b82252e2a0ac5048d617c85fa/crop/205x137/1843x1229/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/08/17257876212275.jpg",
       "PublishedAt": "2024-09-08T22:01:07Z",
       "Content": "Sede de BBVA.Eduardo ParraEuropa Press\r\nBBVA sigue ampliando su catálogo de productos y servicios vinculados a criptoactivos. La filial del banco en Suiza acaba de sumar el USDC, una stablecoin vincu… [+577 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Peso mexicano se deprecia un 1,37% ante el dólar y suma 3 semanas de caída",
-      "Description": "CIUDAD DE MÉXICO (Sputnik) — El peso cerró la semana con una depreciación de 1,37%, cotizando alrededor de la barrera de las 20 unidades por dólar, debido a la \"aversión al riesgo\" en los mercados de divisas generada por las reformas constitucionales en march…",
-      "Url": "https://noticiaslatam.lat/20240907/peso-mexicano-se-deprecia-un-137-ante-el-dolar-y-suma-3-semanas-de-caida-1157345556.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1157345556.jpg?11565899781725678003",
-      "PublishedAt": "2024-09-07T03:00:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
     }
   ]
 }
