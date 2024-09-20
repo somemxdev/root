@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "A. Stumpf",
+      "Title": "El dólar ahonda en su debilidad frente al euro",
+      "Description": "No hay alivio para el dólar desde la Reserva Federal. La contundente bajada de los tipos de interés que acometió ayer Jerome Powell, su presidente, significó una nueva estocada para los billetes verdes, que sufrieron una caída superior al 0,5% frente al euro.…",
+      "Url": "https://www.expansion.com/mercados/2024/09/19/66eb4607468aeb58788b45aa.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/58e47a334ba78903a6a3a26a0ea76e18/crop/82x27/2010x1312/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/18/17266950059168.jpg",
+      "PublishedAt": "2024-09-18T23:02:27Z",
+      "Content": "Los mercados, en la imagen durante la jornada de ayer, vigilan de cerca los pasos de la Fed y el dólar.EFE\r\nNo hay alivio para el dólar desde la Reserva Federal. La contundente bajada de los tipos de… [+615 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JUKDTSC72BHZHD4JX4G6MDOGKQ.jpg?smart=true&auth=d2926b60d7e906950e7ad92a469ac64c1bb6103053100781894e3424340b5c85&width=1200&height=630",
       "PublishedAt": "2024-09-06T16:13:54Z",
       "Content": "El peso mexicano sufre nuevamente en el cierre de semana ante el dólar, y a pesar de que el tipo de cambio inició la sesión a la baja, cruzó nuevamente el techo psicológico de las 20 unidades este 5 … [+1738 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 6 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 6 de septiembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-6-de-septiembre-nid06092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-6-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-06T15:40:30Z",
-      "Content": "Este viernes 6 de septiembre, el precio del dólar en México es de $20,0028, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2077 chars]"
     }
   ]
 }
