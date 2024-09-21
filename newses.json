@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Se perfila semana ‘en rojo’ para el peso: ¿En cuánto se cotiza ante el dólar este viernes?",
+      "Description": "La moneda mexicana ha estado con una marcada tendencia a la baja desde que la Fed recortó su tasa de interés el pasado miércoles.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/20/peso-dolar-precio-hoy-20-de-septiembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q6CP35FLMZDBNNDZMXUJPBAKWM.jpg?smart=true&auth=1c56ae857ef198da43329ae11a686067f35b8fbb77d8b64b4e978589a3329b21&width=1200&height=630",
+      "PublishedAt": "2024-09-20T15:13:12Z",
+      "Content": "Semana en rojo para el peso mexicano: Eso es lo que se vislumbra de acuerdo con la apertura de este viernes ante el dólar, esto como parte de la cautela del mercado ante la aversión al riesgo a nivel… [+2004 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JEEZXJPS7BF7NG72AG7HBAATFY.jpg?smart=true&auth=099bc3421a992092becf1749c36acce01e839f2fe49c70189618bc3400873087&width=1200&height=630",
       "PublishedAt": "2024-09-10T14:44:09Z",
       "Content": "El drama de la presión sobre Miguel Ángel Yunes para que revele su voto sobre la reforma judicial hizo estragos en el peso mexicano, y el tipo de cambio inicia arriba del nivel psicológico de las 20 … [+2341 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 10 de septiembre",
-      "Description": "Consulta la cotización del dólar a peso mexicano para este martes 10 de septiembre de 2024 y obtén un resumen completo de la situación económica en México. Descubre cómo los movimientos del mercado afectan el valor de la divisa y mantente informado sobre las …",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-10-de-septiembre-nid10092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-10T14:30:33Z",
-      "Content": "Este martes 10 de septiembre, el precio del dólar en México es de $19,8798, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2255 chars]"
     }
   ]
 }
