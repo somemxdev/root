@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY viernes 20 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 20 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.40 pesos por unidad, con un fortalecimiento del 0.42 por ciento, según datos de Bloomberg.El peso mexican…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-09-20T11:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 20 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.40 pesos por unidad, con un fortalecimiento … [+908 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-09T15:15:20Z",
       "Content": "Este lunes 9 de septiembre, el precio del dólar en México es de $20,0172, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Nicolás M. Sarriés",
-      "Title": "BBVA amplía su negocio de criptos en Suiza y suma una 'stablecoin' vinculada al dólar",
-      "Description": "BBVA sigue ampliando su catálogo de productos y servicios vinculados a criptoactivos. La filial del banco en Suiza acaba de sumar el USDC, una stablecoin vinculada al dólar estadounidense, a la plataforma digital con la que permite operar con criptomonedas a …",
-      "Url": "https://www.expansion.com/empresas/banca/2024/09/09/66dd6e32e5fdea6f2a8b4573.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/16d8742b82252e2a0ac5048d617c85fa/crop/205x137/1843x1229/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/08/17257876212275.jpg",
-      "PublishedAt": "2024-09-08T22:01:07Z",
-      "Content": "Sede de BBVA.Eduardo ParraEuropa Press\r\nBBVA sigue ampliando su catálogo de productos y servicios vinculados a criptoactivos. La filial del banco en Suiza acaba de sumar el USDC, una stablecoin vincu… [+577 chars]"
     }
   ]
 }
