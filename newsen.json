@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoGlobe"
+      },
+      "Author": "CryptoGlobe Writer",
+      "Title": "Canada’s Central Bank Puts on Hold Plans for a Digital Dollar",
+      "Description": "According to a report by Kyle Bakx and Meegan for CBC News, the Bank of Canada has paused its efforts to introduce a digital version of the Canadian dollar.  After years of research, the central bank has decided to step back from the idea, focusing instead on…",
+      "Url": "https://www.cryptoglobe.com/latest/2024/09/canadas-central-bank-puts-on-hold-plans-for-a-digital-dollar/",
+      "UrlToImage": "https://media.cryptoglobe.com/2020/12/sebastiaan-stam-azIO-XUkfok-unsplash-768x512.jpg",
+      "PublishedAt": "2024-09-20T04:51:57Z",
+      "Content": "According to a report by Kyle Bakx and Meegan for CBC News, the Bank of Canada has paused its efforts to introduce a digital version of the Canadian dollar. \r\nAfter years of research, the central ban… [+1751 chars]"
+    },
     {
       "Source": {
         "Id": null,
