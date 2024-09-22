@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 21 de septiembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de septiembre el tipo de cambio interbancario, se ubica en 19.41 pesos por unidad, con una ganancia del 0.49 por ciento, según datos de Bloomberg.Ayer, el peso mexicano retr…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-09-21T11:56:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de septiembre el tipo de cambio interbancario, se ubica en 19.41 pesos por unidad, con una ganancia del 0.49 por … [+979 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-11T14:40:41Z",
       "Content": "Este miércoles 11 de septiembre, el precio del dólar en México es de $20,0583, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibaname… [+2237 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Posible voto de Yunes a favor de reforma judicial dispara el tipo de cambio a los 20.08 pesos por dólar",
-      "Description": "El peso mexicano se deprecia casi 1% en medio de noticias de que Morena 'dobló' al senador Miguel Ángel Yunes para que vote a favor de la reforma al Poder Judicial.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/10/peso-dolar-tipo-de-cambio-en-vivo-hoy-10-septiembre-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JEEZXJPS7BF7NG72AG7HBAATFY.jpg?smart=true&auth=099bc3421a992092becf1749c36acce01e839f2fe49c70189618bc3400873087&width=1200&height=630",
-      "PublishedAt": "2024-09-10T14:44:09Z",
-      "Content": "El drama de la presión sobre Miguel Ángel Yunes para que revele su voto sobre la reforma judicial hizo estragos en el peso mexicano, y el tipo de cambio inicia arriba del nivel psicológico de las 20 … [+2341 chars]"
     }
   ]
 }
