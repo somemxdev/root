@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "Billion-Dollar Bank Paying $27,760,000 Fine for Allegedly Placing Customers’ Access To Employment, Housing and Credit at Risk",
+      "Description": "The Consumer Financial Protection Bureau (CFPB) is accusing TD Bank of repeatedly placing its customers’ ability to access employment, housing and credit at risk. According to the US financial regulator, TD Bank systematically shared “inaccurate, negative inf…",
+      "Url": "https://dailyhodl.com/2024/09/21/billion-dollar-bank-paying-27760000-fine-for-allegedly-placing-customers-access-to-employment-housing-and-credit-at-risk/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/banker-dollar-cash.jpg",
+      "PublishedAt": "2024-09-21T19:31:03Z",
+      "Content": "The Consumer Financial Protection Bureau (CFPB) is accusing TD Bank of repeatedly placing its customers ability to access employment, housing and credit at risk.\r\nAccording to the US financial regula… [+2612 chars]"
+    },
     {
       "Source": {
         "Id": null,
