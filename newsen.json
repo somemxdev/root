@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apollo to Offer Multibillion-Dollar Investment in Intel - Yahoo Finance",
+      "Description": "Apollo to Offer Multibillion-Dollar Investment in IntelYahoo Finance View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175108273",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-22T23:52:32Z",
+      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+    },
     {
       "Source": {
         "Id": null,
