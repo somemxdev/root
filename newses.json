@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 23 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 23 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-09-23T11:07:00Z",
+      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del… [+865 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-09-12T11:23:32Z",
       "Content": "Periódico La JornadaJueves 12 de septiembre de 2024, p. 19\r\nLa moneda mexicana cerró la sesión de ayer con una apreciación diaria de 1.48 por ciento, equivalente a 29.76 centavos, en 19.7935 pesos po… [+2398 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 11 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 11 de septiembre de 202",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-11-de-septiembre-nid11092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-11T14:40:41Z",
-      "Content": "Este miércoles 11 de septiembre, el precio del dólar en México es de $20,0583, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibaname… [+2237 chars]"
     }
   ]
 }
