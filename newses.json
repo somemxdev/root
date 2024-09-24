@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del Dólar hoy, lunes 23 de septiembre de 2024: el peso se deprecia. ¡Infórmate!",
+      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-lunes-23-de-septiembre-de-2024-el-peso-se-deprecia-informate",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/23/proyecto_nuevo_-_2024-09-23t073429.350.jpg",
+      "PublishedAt": "2024-09-23T13:42:19Z",
+      "Content": "Hoy 23 de septiembre de 2024, el tipo de cambio del dólar se sitúa en 19.3559 pesos, con una leve disminución del 0.04%. Sin embargo, el peso mexicano se depreció el 20 de septiembre, cerrando en 19.… [+1284 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0458.jpg",
       "PublishedAt": "2024-09-12T13:52:04Z",
       "Content": "El peso se apreciaba este jueves ante un debilitamiento global del dólar mientras los inversionistas asimilaban cifras de los Precios al Productor (IPP) de Estados Unidos y sobre la situación semanal… [+702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Se recupera el peso frente al dólar: $19.79",
-      "Description": "La moneda mexicana cerró la sesión de ayer con una apreciación diaria de 1.48 por ciento, equivalente a 29.76 centavos, en 19.7935 pesos por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/09/12/economia/019n4eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-09-12T11:23:32Z",
-      "Content": "Periódico La JornadaJueves 12 de septiembre de 2024, p. 19\r\nLa moneda mexicana cerró la sesión de ayer con una apreciación diaria de 1.48 por ciento, equivalente a 29.76 centavos, en 19.7935 pesos po… [+2398 chars]"
     }
   ]
 }
