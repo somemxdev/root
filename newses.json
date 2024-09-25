@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza el precio este martes 24 de septiembre",
+      "Description": "Este martes 24 de septiembre, el precio del dólar en México es de $19,4150, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,275. A continuación, la cotización d…",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-el-precio-este-martes-24-de-septiembre-nid24092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-24T13:51:58Z",
+      "Content": "Este martes 24 de septiembre, el precio del dólar en México es de $19,4150, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2102 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del dólar 24 de septiembre: El peso continúa en plan de recuperación",
+      "Description": "La meta del peso mexicano es bajar la cotización del dólar a menos de $19.00 pesos",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-24-de-septiembre-el-peso-continua-en-plan-de-recuperacion",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/24/dolar_1.jpg",
+      "PublishedAt": "2024-09-24T13:33:18Z",
+      "Content": "Este martes 24 de septiembre de 2024 el dólar se cotiza en $19.33 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en c… [+803 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://es.beincrypto.com/wp-content/uploads/2024/03/BIC_Latin_America_mexico-covers_positive.png.webp",
       "PublishedAt": "2024-09-13T19:22:18Z",
       "Content": "Tras el lanzamiento de su stablecoinMeli Dólar para sus clientes en Brasil, Mercado Libre busca replicar la fórmula en México y Argentina. Los clientes brasileños pueden comprar y vender en stablecoi… [+3205 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso anda en ‘modo patrio’ y gana terreno frente al dólar: Se cotiza en 19.33 unidades este viernes",
-      "Description": "El peso mexicano se aprecia este viernes frente al dólar y se prevé que durante el día cotice entre las 19.30 y 19.55 unidades",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/13/peso-dolar-precio-hoy-13-de-septiembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XCIKADRR6ZBJDB4SRTFRHULOJ4.jpg?smart=true&auth=072f9a54348d87f335cfb20aad898d70c1aad3183b399261522f257270d301b1&width=1200&height=630",
-      "PublishedAt": "2024-09-13T16:22:47Z",
-      "Content": "El peso mexicano sostiene sus ganancias previas, debido a un debilitamiento del dólar, ante la expectativa de que la siguiente semana, la Reserva Federal comenzará a recortar las tasas de interés.\r\nD… [+1536 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 13 de septiembre",
-      "Description": "Consulta la cotización del dólar frente al peso mexicano para este viernes 13 de septiembre de 2024 y obtén un resumen completo sobre la situación económica en México. Descubre el valor de la divisa y las principales tendencias que están afectando el tipo de …",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-13-de-septiembre-nid13092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-13-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-13T16:04:20Z",
-      "Content": "Este viernes 13 de septiembre, el precio del dólar en México es de $19,5887, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2110 chars]"
     }
   ]
 }
