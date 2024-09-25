@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘alegra’ por dato de inflación en México: ¿Cuánto gana al dólar este martes?",
+      "Description": "El peso mexicano se ve favorecido por el dato de inflación de la primera quincena de septiembre que refuerza la posibilidad de que el Banxico recortará su tasa el próximo jueves 26 de septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/24/peso-dolar-precio-hoy-24-de-septiembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ECW2A3EX4FG6BO2FLQHA5YTNCE.jpg?smart=true&auth=c678cd9c1fc1e425dcaef4ec6afc69f0c89a717371967dda1ce872aae89560aa&width=1200&height=630",
+      "PublishedAt": "2024-09-24T15:39:48Z",
+      "Content": "El peso mexicano se perfila para conseguir un martes con ganancias ante el dólar, esto después de la publicación del dato de inflación en la primera quincena de septiembre y del anuncio de estímulos … [+2403 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/5NHR4KD3DNHFDBPDIF7MNKJKNA.jpg?smart=true&auth=05bb2e4b66b3816de6b9bdc9464e0f3cc873a8bf5c468060af98096effd675c8&width=1440",
       "PublishedAt": "2024-09-13T23:49:21Z",
       "Content": "El tipo de cambio del dólar respecto al colón bajó ¢3,14 este viernes 13 de setiembre en comparación con el mismo día de la semana anterior, de acuerdo con las transacciones en el Mercado de Monedas … [+3208 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BeInCrypto"
-      },
-      "Author": "Eduardo Venegas",
-      "Title": "Mercado Libre alista lanzamiento de su stablecoin Meli Dólar en México",
-      "Description": "Juan Vita de Mercado Pago resaltó que Mercado Libre expandirá la operación su stablecoin Meli Dólar hacia México. Opera solo en Brasil, mientras se mantienen los planes en Argentina.\nEl post Mercado Libre alista lanzamiento de su stablecoin Meli Dólar en Méxi…",
-      "Url": "https://es.beincrypto.com/mercado-libre-lanzamiento-stablecoin-meli-dolar-mexico/",
-      "UrlToImage": "https://es.beincrypto.com/wp-content/uploads/2024/03/BIC_Latin_America_mexico-covers_positive.png.webp",
-      "PublishedAt": "2024-09-13T19:22:18Z",
-      "Content": "Tras el lanzamiento de su stablecoinMeli Dólar para sus clientes en Brasil, Mercado Libre busca replicar la fórmula en México y Argentina. Los clientes brasileños pueden comprar y vender en stablecoi… [+3205 chars]"
     }
   ]
 }
