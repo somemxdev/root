@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nuevatribuna.es"
+      },
+      "Author": "Juan Torres López",
+      "Title": "El peligro del dólar como moneda de reserva imperial",
+      "Description": "¿Cómo puede conseguir Estados Unidos que su moneda siga siendo tan utilizada y qué consecuencias tiene eso?",
+      "Url": "https://www.nuevatribuna.es/articulo/global/peligro-dolar-como-moneda-reserva-imperial/20240925093106230908.html",
+      "UrlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/09/25/2024092509290854342.jpg",
+      "PublishedAt": "2024-09-25T07:31:06Z",
+      "Content": "Al acabar la II Guerra Mundial, Estados Unidos tenía un PIB que representaba la mitad del mundial, nueve veces mayor que el del Reino Unido que le seguía en magnitud, y disponía del 80% del oro exist… [+7302 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
       "PublishedAt": "2024-09-16T11:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 16 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.24 pesos por unidad, con un fortalecimiento de… [+960 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio bajó ¢3,14 en el Monex esta semana: dólar tocó su menor precio desde mayo",
-      "Description": "El precio del dólar en el Monex para este viernes 13 de setiembre fue de ¢518,59, frente a los ¢521,73 del mismo día de la semana pasada",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-bajo-314-en-el-monex-esta-semana/6ADJWDZYQJBNDFZ7KRN2H5HHTU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/5NHR4KD3DNHFDBPDIF7MNKJKNA.jpg?smart=true&auth=05bb2e4b66b3816de6b9bdc9464e0f3cc873a8bf5c468060af98096effd675c8&width=1440",
-      "PublishedAt": "2024-09-13T23:49:21Z",
-      "Content": "El tipo de cambio del dólar respecto al colón bajó ¢3,14 este viernes 13 de setiembre en comparación con el mismo día de la semana anterior, de acuerdo con las transacciones en el Mercado de Monedas … [+3208 chars]"
     }
   ]
 }
