@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY miércoles 25 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 25 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.El peso mexic…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-09-25T11:06:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 25 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimient… [+946 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-16T15:15:42Z",
       "Content": "Este lunes 16 de septiembre, el precio del dólar en México es de $19,5887, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2547 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY lunes 16 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 16 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.24 pesos por unidad, con un fortalecimiento del 0.20 por ciento, según datos de Bloomberg.El peso mexicano …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2024-09-16T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 16 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.24 pesos por unidad, con un fortalecimiento de… [+960 chars]"
     }
   ]
 }
