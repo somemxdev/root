@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘pega el botonazo’ ante el dólar: ¿Cuánto se deprecia este miércoles?",
+      "Description": "El peso mexicano había tenido un buen martes tras la publicación del dato de inflación en México, pero esas ganancias ya quedaron borradas este 25 de septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/25/peso-dolar-precio-hoy-25-de-septiembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/6WGVLEJELBA6XFU5W4DUS3KLBM.jpg?smart=true&auth=cdf25a983cfe3a1cc0e7d2cf47aca5e340b976cf20d7522bf0a8e60d23d90b84&width=1200&height=630",
+      "PublishedAt": "2024-09-25T16:28:58Z",
+      "Content": "Y se acabó la racha ganadora para el peso mexicano: La moneda pierde este 25 de septiembre ante el dólar en la previa a la nueva decisión del Banco de México, en la que se prevé que la institución ap… [+1956 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/17/dolar_1.jpg",
       "PublishedAt": "2024-09-17T13:38:35Z",
       "Content": "Este martes 17 de septiembre de 2024 el dólar se cotiza en $19.37 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en c… [+799 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 17 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está eldólar HOY martes 17 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.37 pesos por unidad, con un fortalecimiento del 0.76 por ciento, según datos de Bloomberg.Los analistas es…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-09-17T11:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 17 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.37 pesos por unidad, con un fortalecimiento d… [+808 chars]"
     }
   ]
 }
