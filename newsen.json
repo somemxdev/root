@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Kelly Burch",
+      "Title": "I had $1 million in the bank at 36. When I turned 40, I vowed to pursue my passions instead of running a billion-dollar company.",
+      "Description": "George Appling went from being a CEO to pursuing his passions. At 40, he was determined to live his life authentically.",
+      "Url": "https://www.businessinsider.com/left-ceo-job-pursue-passion-career-change-2024-9",
+      "UrlToImage": "https://i.insider.com/66f31471ce3009a0fac91a8d?width=1200&format=jpeg",
+      "PublishedAt": "2024-09-25T00:16:02Z",
+      "Content": "George Appling decided to pursue his passions and now runs a medieval fair.Courtesy of George Appling\r\n<ul><li>George Appling was a business consultant, then executive at major global companies.</li>… [+4288 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2024-08-28T04:41:03Z",
       "Content": "Independence Bank of Kentucky grew its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 406.7% during the 2nd quarter, HoldingsChannel reports. The fund owned 3,719 shares of the c… [+5190 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Billion-Dollar Bank Apologizes After Accusing Client of Scam in ‘Kafkaesque’ Money Freeze: Report",
-      "Description": "British banking giant Starling Bank has apologized to a client after reportedly blocking his money transfer and forcing him to jump through a series of “absurd” hoops. Academic and professor John MacInnes says Starling froze a transfer of about $16,789 that h…",
-      "Url": "https://dailyhodl.com/2024/08/25/billion-dollar-bank-apologizes-after-accusing-client-of-scam-in-kafkaesque-money-freeze-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/freeze-us-dollar.jpg",
-      "PublishedAt": "2024-08-25T19:58:29Z",
-      "Content": "British banking giant Starling Bank has apologized to a client after reportedly blocking his money transfer and forcing him to jump through a series of “absurd” hoops.\r\nAcademic and professor John Ma… [+2381 chars]"
     }
   ]
 }
