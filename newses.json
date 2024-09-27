@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 26 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 26 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.55 pesos por unidad, con una pérdida del 0.43 por ciento, según datos de Bloomberg.El peso mexicano se dep…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2024-09-26T11:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 26 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.55 pesos por unidad, con una pérdida del 0.43… [+903 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583200.jpg&wm=1&ang=0",
       "PublishedAt": "2024-09-17T14:05:11Z",
       "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (17 septiembre 2024) .-08:02 (Actualización: 15:34 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del dólar 17 de septiembre: El peso mexicano sigue recuperando terreno",
-      "Description": "Nuevamente se inicia la jornada con la cotización del dólar por debajo de los $20 pesos y con tendencia a la baja",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-17-de-septiembre-el-peso-mexicano-sigue-recuperando-terreno",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/17/dolar_1.jpg",
-      "PublishedAt": "2024-09-17T13:38:35Z",
-      "Content": "Este martes 17 de septiembre de 2024 el dólar se cotiza en $19.37 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en c… [+799 chars]"
     }
   ]
 }
