@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 26 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles jueves 26 septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-26-de-septiembre-nid26092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-26T14:17:28Z",
+      "Content": "Este jueves 26 de septiembre, el precio del dólar en México es de $19,5870, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2283 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583200.jpg&wm=1&ang=0",
       "PublishedAt": "2024-09-17T14:05:11Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 septiembre 2024) .-08:02 (Actualización: 15:34 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Recupera peso terreno; dólar baja a $19.10",
-      "Description": "En el mercado Forex, el tipo de cambio cerró en $19.10 por dólar, con un avance para la moneda local de 0.60% frente al cierre previo.",
-      "Url": "https://www.reforma.com/recupera-peso-terreno-dolar-baja-a-19-10/ar2874714",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583200.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-09-17T14:05:11Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (17 septiembre 2024) .-08:02 (Actualización: 15:34 hrs)"
     }
   ]
 }
