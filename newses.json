@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY viernes 27 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 27 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.57 pesos por unidad, con un debilitamiento del 0.28 por ciento, según datos de Bloomberg.El peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-09-27T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 27 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.57 pesos por unidad, con un debilitamiento de… [+980 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-17T15:15:13Z",
       "Content": "Este martes 17 de septiembre, el precio del dólar en México es de $19,2483, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cae tras fortalecimiento global del dólar; BMV avanza",
-      "Description": "Forbes México.\n Peso cae tras fortalecimiento global del dólar; BMV avanza\n\nEl peso cotizaba en 19.4040 unidades, con una pérdida de un 1.03% frente al precio de referencia de Reuters del lunes, cuando retrocedió un 0.10% en sus operaciones en el exterior. El…",
-      "Url": "https://www.forbes.com.mx/peso-cae-tras-fortalecimiento-global-del-dolar-bmv-avanza/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-17T14:19:34Z",
-      "Content": "El peso se depreciaba este martes ante un fortalecimiento global del dólar tras la publicación de cifras mejores a lo previsto de las ventas al por menor en Estados Unidos, en un mercado con la mira … [+1434 chars]"
     }
   ]
 }
