@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 27 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles viernes 27 septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-27-de-septiembre-nid27092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-27T15:44:59Z",
+      "Content": "Este viernes 27 de septiembre, el precio del dólar en México es de $19,6290, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2416 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Inflación en EU ‘desinfla’ al dólar ante el peso: ¿En cuánto se cotiza?",
+      "Description": "El dólar se debilita este viernes debido al dato de inflación en Estados Unidos que se ubicó en su nivel más bajo desde 2021.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/27/peso-dolar-precio-hoy-27-de-septiembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GHFFNPNSMZDSRJO3SPIGXOOX5M.jpg?smart=true&auth=08acb009a3da01876fa114844b5af6156591c19e5cd901a0a4ae659cc76d0fe2&width=1200&height=630",
+      "PublishedAt": "2024-09-27T15:33:09Z",
+      "Content": "El peso mexicano gana terreno frente al dólar en las operaciones de este viernes y podría ligar dos sesiones con avances... pero no le alcanzará y tendrá un balance negativo en la semana.\r\nLa caída g… [+1637 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-18T14:53:23Z",
       "Content": "Este miércoles 18 de septiembre, el precio del dólar en México es de $19,267, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2474 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 18 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 18 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.09 pesos por unidad, con una baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2024-09-18T11:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 18 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.09 pesos por unidad, con una baja del 0.05… [+939 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La curiosa moneda de plata de un dólar que vale más de US$70.000: es del último reino de Hawái",
-      "Description": "Una rara moneda de plata de un dólar del último reino de Hawái, acuñada en 1893 pero con la fecha \"1891\" impresa, ha alcanzado un valor de más de 70,000 dólares. Este ejemplar histórico ha capturado la atención de coleccionistas debido a su conexión con el co…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-curiosa-moneda-de-plata-de-un-dolar-que-vale-mas-de-us70000-es-del-ultimo-reino-de-hawai-nid17092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-de-plata-de-hawai-que-alcanzo-a-venderse-LWTOCSUFGZARXOZDOMVU3XGFS4.jpg?auth=18833bb57827b43281e8e3a562d8e73f96d74ec6f7c6fd1421b73564db852a3c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-17T21:30:29Z",
-      "Content": "Las monedas pueden tener un gran valor por su historia y rareza. Un claro ejemplo es el dólar de plata de la reina Liliuokalani, acuñado en 1893, pero con fecha de 1891. Este detalle, junto con el co… [+2944 chars]"
     }
   ]
 }
