@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Dollar General Co. (NYSE:DG) Shares Purchased by Bank of Montreal Can",
+      "Description": "Bank of Montreal Can raised its holdings in Dollar General Co. (NYSE:DG – Free Report) by 6.3% in the second quarter, according to the company in its most recent disclosure with the SEC. The firm owned 306,840 shares of the company’s stock after acquiring an …",
+      "Url": "https://www.etfdailynews.com/2024/09/27/dollar-general-co-nysedg-shares-purchased-by-bank-of-montreal-can/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2024-09-27T22:03:08Z",
+      "Content": "Bank of Montreal Can raised its holdings in Dollar General Co. (NYSE:DG – Free Report) by 6.3% in the second quarter, according to the company in its most recent disclosure with the SEC. The firm own… [+6689 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2024-08-28T22:53:50Z",
       "Content": "Bank of New York Mellon Corp reduced its position in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.8% during the 2nd quarter, according to the company in its most recent 13F filing wit… [+5367 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sostav.ru"
-      },
-      "Author": null,
-      "Title": "Konstantin Tserazov: dollar and euro exchange rates against the ruble rose by 3.03% and 3.86%, respectively, over the week",
-      "Description": "From August 19 to 23, the Moscow Exchange Index fell by 5.86%, and the RTS Index by 8.63%. The first benchmark closed the week at its lowest level since May 2023, the second - since February 2023, and the difference in their percentage dynamics was due to the…",
-      "Url": "https://www.sostav.ru/blogs/269934/50499",
-      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=50499",
-      "PublishedAt": "2024-08-28T15:17:41Z",
-      "Content": "From August 19 to 23, the Moscow Exchange Index fell by 5.86%, and the RTS Index by 8.63%. The first benchmark closed the week at its lowest level since May 2023, the second - since February 2023, an… [+3582 chars]"
     }
   ]
 }
