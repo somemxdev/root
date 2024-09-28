@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras un debilitamiento global del dólar; perfila pérdida mensual",
+      "Description": "Forbes México.\n Peso avanza tras un debilitamiento global del dólar; perfila pérdida mensual\n\nEl peso cotizaba en 19.5740 por dólar, con una ganancia de 0.19% frente al precio de referencia de Reuters del jueves.\nPeso avanza tras un debilitamiento global del …",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-un-debilitamiento-global-del-dolar-perfila-perdida-mensual/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-27T14:10:02Z",
+      "Content": "El peso se apreciaba este viernes ante un debilitamiento generalizado del dólar, mientras los inversionistas asimilaban un informe clave de la inflación en Estados Unidos que resultó en línea con lo … [+789 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-de-plata-de-hawai-que-alcanzo-a-venderse-LWTOCSUFGZARXOZDOMVU3XGFS4.jpg?auth=18833bb57827b43281e8e3a562d8e73f96d74ec6f7c6fd1421b73564db852a3c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-17T21:30:29Z",
       "Content": "Las monedas pueden tener un gran valor por su historia y rareza. Un claro ejemplo es el dólar de plata de la reina Liliuokalani, acuñado en 1893, pero con fecha de 1891. Este detalle, junto con el co… [+2944 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 17 de septiembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-septiembre-nid17092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-17T15:15:13Z",
-      "Content": "Este martes 17 de septiembre, el precio del dólar en México es de $19,2483, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2312 chars]"
     }
   ]
 }
