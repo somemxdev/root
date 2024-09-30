@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Gareth Hutchens",
+      "Title": "Housing is Australia's multi billion-dollar money maker — if you're selling",
+      "Description": "Housing is creating wealth like never before, with property owners pocketing a record-breaking median nominal profit of $285,000 from resales in the June quarter.",
+      "Url": "https://www.abc.net.au/news/2024-09-29/housing-is-australias-multi-billion-dollar-moneymaker/104405556",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e1f18917450f2d2152d173f56c07b904?impolicy=wcms_watermark_news&cropH=832&cropW=1479&xPos=0&yPos=46&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-09-29T00:15:15Z",
+      "Content": "Australia's housing market is creating wealth like never before.\r\nHere's a stocktake of how things are going.\r\nThe money-making machine\r\nIn the past 10 years (June 2014 to June 2024), the total value… [+8276 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-03T05:32:22Z",
       "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "UMB Bank n.a. Increases Stake in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "UMB Bank n.a. boosted its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 52.0% during the second quarter, Holdings Channel.com reports. The firm owned 535 shares of the company’s stock after buying an additional 183 shares during the period. UMB Ba…",
-      "Url": "https://www.etfdailynews.com/2024/08/31/umb-bank-n-a-increases-stake-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-08-31T12:35:29Z",
-      "Content": "UMB Bank n.a. boosted its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 52.0% during the second quarter, Holdings Channel.com reports. The firm owned 535 shares of the company’s stock aft… [+5279 chars]"
     }
   ]
 }
