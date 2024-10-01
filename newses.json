@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 30 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 30 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.65 pesos por unidad, con una baja del 0.19 por ciento, según datos de Bloomberg.El peso mexicano se aprecia…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-09-30T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 30 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.65 pesos por unidad, con una baja del 0.19 por… [+878 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2024/09/19/fotos/019n2eco-1.jpg",
       "PublishedAt": "2024-09-19T11:06:07Z",
       "Content": "Periódico La JornadaJueves 19 de septiembre de 2024, p. 19\r\nLuego de cuatro cierres consecutivos al alza, la divisa mexicana registró una depreciación de 0.81 por ciento, equivalente a 15.42 centavos… [+2422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY jueves 19 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 19 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.19 pesos por unidad, con una perdida del 0.49 por ciento, según datos de Bloomberg.El peso mexicano se dep…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-09-19T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 19 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.19 pesos por unidad, con una perdida del 0.49 … [+871 chars]"
     }
   ]
 }
