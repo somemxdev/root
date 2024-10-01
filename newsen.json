@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Oluwapelumi Adejumo",
+      "Title": "Ethena Labs proposes decentralized exchange to boost synthetic dollar USDe",
+      "Description": "Ethena Labs, the developer of the “synthetic dollar” USDe, revealed that the community is reviewing a proposal to launch a decentralized crypto exchange to drive the asset’s growth. Ethereal On Sept. 30, Ethena community member Fells0x proposed the launch of …",
+      "Url": "https://cryptoslate.com/ethena-labs-proposes-decentralized-exchange-to-boost-synthetic-dollar-usde/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2024/09/ethena-exchange.jpg",
+      "PublishedAt": "2024-09-30T10:44:15Z",
+      "Content": "Ethena Labs, the developer of the “synthetic dollar” USDe, revealed that the community is reviewing a proposal to launch a decentralized crypto exchange to drive the asset’s growth.\r\nEthereal\r\nOn Sep… [+2988 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=50729",
       "PublishedAt": "2024-09-03T12:12:50Z",
       "Content": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last… [+4019 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Asian Stocks Erase Gains as Dollar, Yen Outperform: Markets Wrap - Yahoo Finance",
-      "Description": "Asian Stocks Erase Gains as Dollar, Yen Outperform: Markets WrapYahoo Finance Asian Equities Advance as Yen Steadies After Drop: Markets WrapBloomberg Stocks tiptoe towards US manufacturing, jobs dataReuters Global benchmarks are mixed in cautious trading ahe…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174903358",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-03T05:32:22Z",
-      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
     }
   ]
 }
