@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 30 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles lunes 30 septiembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-30-de-octubre-nid30092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-para-este-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-30T15:40:01Z",
+      "Content": "Este lunes 30 de septiembre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2314 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/62DUZQ5C65HQHA6ULOH5JGBJDM.jpg?smart=true&auth=ba02e09f696f287ff4ebe77e6f1db9a703ac6574e6c4cbc497c5aacae9f23303&width=1200&height=630",
       "PublishedAt": "2024-09-19T16:23:10Z",
       "Content": "El peso mexicano se perfila para otra sesión con pérdidas este 19 de septiembre, día de Simulacro Nacional, mientras el mercado asimila el tijeretazo que la Reserva Federal aplicó a la tasa de interé… [+1825 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 19 de septiembre",
-      "Description": "El tipo de cambio se sitúa en $19,27 pesos mexicanos por dólar, lo que demuestra una ligera apreciación del 0,06% respecto al cierre anterior de $19,28. Simultáneamente, el dólar estadounidense, según el Índice Dólar, experimenta un incremento del 0,09%.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-19-de-septiembre-nid19092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-19T13:50:58Z",
-      "Content": "Este jueves 19 de septiembre, el precio del dólar en México es de $19,3033, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2100 chars]"
     }
   ]
 }
