@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "El Peso se Debilita: Dólar Alcanza Nuevos Picos este 30 de Septiembre de 2024",
+      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
+      "Url": "https://www.record.com.mx/contra/el-peso-se-debilita-dolar-alcanza-nuevos-picos-este-30-de-septiembre-de-2024",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/30/proyecto_nuevo.jpg",
+      "PublishedAt": "2024-09-30T13:34:17Z",
+      "Content": "Hoy, 30 de septiembre de 2024, el dólar inicia sus operaciones a 19.6354 pesos, mostrando una leve disminución del 0.34%. El viernes 27 de septiembre, el peso sufrió una caída, cerrando en 19.7020 pe… [+1342 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-19T13:50:58Z",
       "Content": "Este jueves 19 de septiembre, el precio del dólar en México es de $19,3033, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2100 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Interrumpe el peso su racha ganadora; cierra en 19.29 por dólar",
-      "Description": "Luego de cuatro cierres consecutivos al alza, la divisa mexicana registró una depreciación de 0.81 por ciento, equivalente a 15.42 centavos, para cerrar en 19.2941 pesos por dólar spot al cierre de una jornada marcada por la decisión de la Reserva Federal de …",
-      "Url": "https://www.jornada.com.mx/2024/09/19/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2024/09/19/fotos/019n2eco-1.jpg",
-      "PublishedAt": "2024-09-19T11:06:07Z",
-      "Content": "Periódico La JornadaJueves 19 de septiembre de 2024, p. 19\r\nLuego de cuatro cierres consecutivos al alza, la divisa mexicana registró una depreciación de 0.81 por ciento, equivalente a 15.42 centavos… [+2422 chars]"
     }
   ]
 }
