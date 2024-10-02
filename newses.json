@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cómo impactó la toma de protesta de Claudia Sheinbaum en el precio del dólar hoy en México",
+      "Description": "Descubre cómo la toma de protesta de Claudia Sheinbaum como presidenta de México impactó el precio del dólar. La divisa mexicana ha fluctuado en este día no laboral en la nación latinoamericana.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/como-impacto-la-toma-de-protesta-de-claudia-sheinbaum-en-el-precio-del-dolar-hoy-en-mexico-nid01102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/claudia-sheinbaum-tomo-juramento-como-nueva-YYNQRCW6INE7DMXC7QJ65GB6LI.JPG?auth=8b1f05bc3d3f1082fd6e079403927274a60cc6c3058e849bbbcba134835a97b6&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-01T21:44:41Z",
+      "Content": "La nueva presidenta mexicana,Claudia Sheinbaum, tomó protesta de su cargo este martes 1° de octubre, en un evento que se realizó en el palacio legislativo de san Lázaro, en la Ciudad de México. Este … [+3337 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-09-21T11:56:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de septiembre el tipo de cambio interbancario, se ubica en 19.41 pesos por unidad, con una ganancia del 0.49 por … [+979 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Se perfila semana ‘en rojo’ para el peso: ¿En cuánto se cotiza ante el dólar este viernes?",
-      "Description": "La moneda mexicana ha estado con una marcada tendencia a la baja desde que la Fed recortó su tasa de interés el pasado miércoles.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/20/peso-dolar-precio-hoy-20-de-septiembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q6CP35FLMZDBNNDZMXUJPBAKWM.jpg?smart=true&auth=1c56ae857ef198da43329ae11a686067f35b8fbb77d8b64b4e978589a3329b21&width=1200&height=630",
-      "PublishedAt": "2024-09-20T15:13:12Z",
-      "Content": "Semana en rojo para el peso mexicano: Eso es lo que se vislumbra de acuerdo con la apertura de este viernes ante el dólar, esto como parte de la cautela del mercado ante la aversión al riesgo a nivel… [+2004 chars]"
     }
   ]
 }
