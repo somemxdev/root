@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY martes 1 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 1 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.69 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano se …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-01T10:59:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 1 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.69 pesos por unidad, con un fortalecimiento del 0… [+880 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-para-este-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-20T13:59:27Z",
       "Content": "Este viernes 20 de septiembre, el precio del dólar en México es de $19,2773, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2345 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY viernes 20 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 20 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.40 pesos por unidad, con un fortalecimiento del 0.42 por ciento, según datos de Bloomberg.El peso mexican…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-09-20T11:03:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 20 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.40 pesos por unidad, con un fortalecimiento … [+908 chars]"
     }
   ]
 }
