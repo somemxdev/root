@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La AFIP comenzó a devolver las percepciones por la compra de dólar oficial y pagos en moneda extranjera",
+      "Description": "De acuerdo con fuentes del fisco y contadores, algunos pagos se adeudaban de 2022, otros de 2023 y los restantes pertenecen a este año; todos están vinculados al impuesto PAIS",
+      "Url": "https://www.lanacion.com.ar/economia/la-afip-comenzo-a-devolver-las-percepciones-por-la-compra-de-dolar-oficial-y-pagos-en-moneda-nid02102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-devoluciones-de-dinero-estan-vinculadas-al-7CYWJZ4VCBBHXKOIN5UAFEMW7I.JPG?auth=4bfbe19fb190473c7af29b2936f3104da6dc272cf79027ac65e5fcffbcaa6623&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-02T16:43:18Z",
+      "Content": "La Administración Federal de Ingresos Públicos (AFIP) comenzó a devolver las percepciones aplicadas a la compra de dólar oficial y a los pagos en moneda extranjera. Es decir, las operaciones alcanzad… [+2651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso da ‘regalazo’ a Sheinbaum: ¿Cuánto gana al dólar este 2 de octubre?",
+      "Description": "Durante su mensaje en el Congreso de la Unión, Claudia Sheinbaum prometió que durante su Presidencia las inversiones estarán seguras en México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SK6VUU5LR5GUVIPSGGJRUTK2CY.jpg?smart=true&auth=34f4bfb3ea660fa61fde37c2e65afd5f05d6766421ca173bc0e65a835c8b10b2&width=1200&height=630",
+      "PublishedAt": "2024-10-02T16:14:43Z",
+      "Content": "El peso mexicano da un regalazo a Claudia Sheinbaum, presidenta de México quien ya se estrenó en las mañaneras, pues abre este 2 de octubre con una fuerte apreciación ante el dólar, esto a pesar de l… [+2036 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f264cbe9ff712b4f41ef7e.jpg",
       "PublishedAt": "2024-09-24T07:05:03Z",
       "Content": "Más información, en breve."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca última semana de AMLO como presidente con ganancias: ¿En cuánto cotiza ante el dólar?",
-      "Description": "La tasa de interés del Banxico y la inflación en México de la primera quincena de septiembre pueden mover al peso mexicano esta semana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/23/peso-dolar-precio-hoy-23-de-septiembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/KQBKYI4UF5HVRPONMLO6Y7GOIA.jpg?smart=true&auth=66f58d41a2194032473fb61d8531f1bf7ff06305ac06bc5d96a05959c13d633b&width=1200&height=630",
-      "PublishedAt": "2024-09-23T15:14:56Z",
-      "Content": "Arranca la última semana de Andrés Manuel López Obrador como presidente, y el peso la inicia con ganancias en medio de declaraciones de funcionarios de la Reserva Federal que se inclinan a que el Ban… [+2442 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 23 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 23 de septiembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-23-de-septiembre-nid23092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-23T15:12:55Z",
-      "Content": "Este lunes 23 de septiembre, el precio del dólar en México es de $19,3725, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2163 chars]"
     }
   ]
 }
