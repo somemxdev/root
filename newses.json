@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 2 de octubre",
+      "Description": "Este miércoles 2 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,605. A continuación, la cotización de…",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-2-de-octubre-nid02102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-02T15:30:35Z",
+      "Content": "Este miércoles 2 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2223 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-23T15:12:55Z",
       "Content": "Este lunes 23 de septiembre, el precio del dólar en México es de $19,3725, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2163 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del Dólar hoy, lunes 23 de septiembre de 2024: el peso se deprecia. ¡Infórmate!",
-      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-lunes-23-de-septiembre-de-2024-el-peso-se-deprecia-informate",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/23/proyecto_nuevo_-_2024-09-23t073429.350.jpg",
-      "PublishedAt": "2024-09-23T13:42:19Z",
-      "Content": "Hoy 23 de septiembre de 2024, el tipo de cambio del dólar se sitúa en 19.3559 pesos, con una leve disminución del 0.04%. Sin embargo, el peso mexicano se depreció el 20 de septiembre, cerrando en 19.… [+1284 chars]"
     }
   ]
 }
