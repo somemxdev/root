@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Melanie Pérez",
+      "Title": "Precio del dólar HOY miércoles 2 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 2 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.53 pesos por unidad, con un pérdida del 0.40 por ciento, según datos de Bloomberg.Ayer, fue un día históric…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2024-10-02T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 2 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.53 pesos por unidad, con un pérdida del 0.40 p… [+361 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-09-23T11:07:00Z",
       "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del… [+865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 21 de septiembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de septiembre el tipo de cambio interbancario, se ubica en 19.41 pesos por unidad, con una ganancia del 0.49 por ciento, según datos de Bloomberg.Ayer, el peso mexicano retr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-09-21T11:56:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de septiembre el tipo de cambio interbancario, se ubica en 19.41 pesos por unidad, con una ganancia del 0.49 por … [+979 chars]"
     }
   ]
 }
