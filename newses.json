@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Recupera peso terreno; cierra dólar en $19.41",
+      "Description": "A un día de que asumiera Sheinbaum como Presidenta, el peso se apreció y cerró en $19.41 por dólar en el mercado internacional.",
+      "Url": "https://www.reforma.com/recupera-peso-terreno-cierra-dolar-en-19-41/ar2883128",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-10-02T13:56:20Z",
+      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (02 octubre 2024) .-07:53 (Actualización: 15:23 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/23/proyecto_nuevo_-_2024-09-23t073429.350.jpg",
       "PublishedAt": "2024-09-23T13:42:19Z",
       "Content": "Hoy 23 de septiembre de 2024, el tipo de cambio del dólar se sitúa en 19.3559 pesos, con una leve disminución del 0.04%. Sin embargo, el peso mexicano se depreció el 20 de septiembre, cerrando en 19.… [+1284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 23 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 23 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-09-23T11:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del… [+865 chars]"
     }
   ]
 }
