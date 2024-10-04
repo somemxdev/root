@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 3 de octubre",
+      "Description": "Este jueves 3 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,605. A continuación, la cotización del día de …",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-3-de-octubre-nid03102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-03T13:53:15Z",
+      "Content": "Este jueves 3 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2030 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ECW2A3EX4FG6BO2FLQHA5YTNCE.jpg?smart=true&auth=c678cd9c1fc1e425dcaef4ec6afc69f0c89a717371967dda1ce872aae89560aa&width=1200&height=630",
       "PublishedAt": "2024-09-24T15:39:48Z",
       "Content": "El peso mexicano se perfila para conseguir un martes con ganancias ante el dólar, esto después de la publicación del dato de inflación en la primera quincena de septiembre y del anuncio de estímulos … [+2403 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza el precio este martes 24 de septiembre",
-      "Description": "Este martes 24 de septiembre, el precio del dólar en México es de $19,4150, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,275. A continuación, la cotización d…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-el-precio-este-martes-24-de-septiembre-nid24092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-24T13:51:58Z",
-      "Content": "Este martes 24 de septiembre, el precio del dólar en México es de $19,4150, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2102 chars]"
     }
   ]
 }
