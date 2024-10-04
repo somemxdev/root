@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Posible ataque de EU e Israel vs. Irán ‘tensa’ al peso: ¿Cuánto pierde ante el dólar?",
+      "Description": "Analistas de CIBanco anticipan que por el resto del día el tipo de cambio operará entre las 19.40 y 19.65 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/03/peso-dolar-precio-hoy-3-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5N7SDRNZL5B2ZCLPPXLLNNMO74.jpg?smart=true&auth=67a3b6412c9e9f501de7a54d2751fc343873b3f3d6b07c9b04447830e54023ac&width=1200&height=630",
+      "PublishedAt": "2024-10-03T16:40:35Z",
+      "Content": "El peso mexicano tiene miedo y retrocede ante el dólar este jueves en medio de una escalada en el conflicto entre Irán e Israel, esto después de que EU dijo que analiza un ataque contra las instalaci… [+1718 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-09-25T11:06:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 25 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimient… [+946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nuevatribuna.es"
-      },
-      "Author": "Juan Torres López",
-      "Title": "El peligro del dólar como moneda de reserva imperial",
-      "Description": "¿Cómo puede conseguir Estados Unidos que su moneda siga siendo tan utilizada y qué consecuencias tiene eso?",
-      "Url": "https://www.nuevatribuna.es/articulo/global/peligro-dolar-como-moneda-reserva-imperial/20240925093106230908.html",
-      "UrlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/09/25/2024092509290854342.jpg",
-      "PublishedAt": "2024-09-25T07:31:06Z",
-      "Content": "Al acabar la II Guerra Mundial, Estados Unidos tenía un PIB que representaba la mitad del mundial, nueve veces mayor que el del Reino Unido que le seguía en magnitud, y disponía del 80% del oro exist… [+7302 chars]"
     }
   ]
 }
