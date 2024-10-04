@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede ante fortalecimiento global del dólar; BMV cae por cuarta jornada al hilo",
+      "Description": "Forbes México.\n Peso retrocede ante fortalecimiento global del dólar; BMV cae por cuarta jornada al hilo\n\nEl peso cotizaba en 19.5460 por dólar, con una pérdida de 0.75% interrumpiendo una racha de tres jornadas consecutivas de ganancias en las que acumuló un…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-fortalecimiento-global-del-dolar-bmv-cae-por-cuarta-jornada-al-hilo/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-economía-FER_0377.webp",
+      "PublishedAt": "2024-10-03T14:37:37Z",
+      "Content": "El peso se depreciaba este jueves ante un avance generalizado del dólar debido a la cautela de los inversionistas por una escalada de las tensiones en Medio Oriente y luego de conocerse un moderado i… [+1442 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/09/25/2024092509290854342.jpg",
       "PublishedAt": "2024-09-25T07:31:06Z",
       "Content": "Al acabar la II Guerra Mundial, Estados Unidos tenía un PIB que representaba la mitad del mundial, nueve veces mayor que el del Reino Unido que le seguía en magnitud, y disponía del 80% del oro exist… [+7302 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘alegra’ por dato de inflación en México: ¿Cuánto gana al dólar este martes?",
-      "Description": "El peso mexicano se ve favorecido por el dato de inflación de la primera quincena de septiembre que refuerza la posibilidad de que el Banxico recortará su tasa el próximo jueves 26 de septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/24/peso-dolar-precio-hoy-24-de-septiembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ECW2A3EX4FG6BO2FLQHA5YTNCE.jpg?smart=true&auth=c678cd9c1fc1e425dcaef4ec6afc69f0c89a717371967dda1ce872aae89560aa&width=1200&height=630",
-      "PublishedAt": "2024-09-24T15:39:48Z",
-      "Content": "El peso mexicano se perfila para conseguir un martes con ganancias ante el dólar, esto después de la publicación del dato de inflación en la primera quincena de septiembre y del anuncio de estímulos … [+2403 chars]"
     }
   ]
 }
