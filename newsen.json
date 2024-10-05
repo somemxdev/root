@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "LW",
+      "Title": "Crawford turned down a million-dollar offer from McGregor: I can make money, but you're not going to kick me",
+      "Description": "At 37 years old, Terence Crawford&apos;s career is coming to an end, and despite being one of the most dominant boxers, with championships in each of the four categories in which h",
+      "Url": "https://www.marca.com/en/boxing/2024/10/04/66ffd3ed22601d7b648b456c.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/f33ad203575a867901b684cac1259e05/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280421711172.png",
+      "PublishedAt": "2024-10-04T11:45:15Z",
+      "Content": "At 37 years old, Terence Crawford's career is coming to an end, and despite being one of the most dominant boxers, with championships in each of the four categories in which he has fought, he needs o… [+1879 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.dw.com/image/69774209_6.jpg",
       "PublishedAt": "2024-09-05T14:34:00Z",
       "Content": "Artificial intelligence (AI) chipmaker Nvidia on August 28 said quarterly sales reached a higher-than-expected $30 billion (27.03 billion) in the last quarter, however, that growth was slower than th… [+7560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar wobbles on rising bets of outsized Fed rate cut - Yahoo Finance",
-      "Description": "Dollar wobbles on rising bets of outsized Fed rate cutYahoo Finance Investor bets shift as dollar weakens with looming Fed rate cutsReuters Softening U.S. dollar largely erases 2024 gain as investors expect Fed rate cutsMarketWatch Dollar strength tied to yie…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174923390",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-05T05:52:15Z",
-      "Content": "Never underestimate the bandwidth of a station wagon full of tapes.\r\n-- Dr. Warren Jackson, Director, UTCS"
     }
   ]
 }

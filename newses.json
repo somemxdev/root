@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Javier Chávez M,Melanie Pérez",
+      "Title": "Precio del dólar HOY viernes 4 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 4 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.26 pesos por unidad, con una caída del 0.43 por ciento, según datos de Bloomberg.Ayer, los analistas financi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2024-10-04T11:09:00Z",
+      "Content": "El peso mexicano se apreció con una ganancia de un 0.31 por ciento, culminando en 19.34 por dólar, este jueves 03 de octubre de 2024.\r\nCon esto, la moneda nacional ha corregido sus pérdidas iniciales… [+548 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-25T14:30:46Z",
       "Content": "Este miércoles 25 de septiembre, el precio del dólar en México es de $19,3562, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibaname… [+2151 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY miércoles 25 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 25 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.El peso mexic…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-09-25T11:06:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 25 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.41 pesos por unidad, con un fortalecimient… [+946 chars]"
     }
   ]
 }
