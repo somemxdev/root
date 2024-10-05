@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y Adriana Arcos",
+      "Title": "Baja dólar a $19.28; peso se aprecia en la semana",
+      "Description": "Entre el 27 de septiembre y 4 de octubre, el peso se apreció 2.12% frente al dólar, que cerró en $19.2841 en el mercado internacional.",
+      "Url": "https://www.reforma.com/baja-dolar-a-19-28-peso-se-aprecia-en-la-semana/ar2884587",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541820.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-10-04T17:22:01Z",
+      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (04 octubre 2024) .-11:20 (Actualización: 15:58 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-26T14:17:28Z",
       "Content": "Este jueves 26 de septiembre, el precio del dólar en México es de $19,5870, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2283 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 26 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 26 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.55 pesos por unidad, con una pérdida del 0.43 por ciento, según datos de Bloomberg.El peso mexicano se dep…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2024-09-26T11:03:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 26 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.55 pesos por unidad, con una pérdida del 0.43… [+903 chars]"
     }
   ]
 }
