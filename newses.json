@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 5 de octubre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.35 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-10-05T11:56:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.35 por cient… [+1491 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-27T14:10:02Z",
       "Content": "El peso se apreciaba este viernes ante un debilitamiento generalizado del dólar, mientras los inversionistas asimilaban un informe clave de la inflación en Estados Unidos que resultó en línea con lo … [+789 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY viernes 27 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 27 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.57 pesos por unidad, con un debilitamiento del 0.28 por ciento, según datos de Bloomberg.El peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-09-27T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 27 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.57 pesos por unidad, con un debilitamiento de… [+980 chars]"
     }
   ]
 }
