@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Termina el peso la semana en 19.25 por dólar, impulsado por informe laboral positivo en EU",
+      "Description": "El peso mexicano se apreció y registró uno de los mejores desempeños en la jornada entre los mercados globales, luego de darse a conocer un sólido reporte de empleo en Estados Unidos.",
+      "Url": "https://www.jornada.com.mx/2024/10/05/economia/016n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/10/05/fotos/016n2eco-1.jpg",
+      "PublishedAt": "2024-10-05T08:18:48Z",
+      "Content": "Periódico La JornadaSábado 5 de octubre de 2024, p. 16\r\nEl peso mexicano se apreció y registró uno de los mejores desempeños en la jornada entre los mercados globales, luego de darse a conocer un sól… [+3372 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-09-27T11:01:00Z",
       "Content": "Si te preguntas a cuánto está eldólar HOY viernes 27 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.57 pesos por unidad, con un debilitamiento de… [+980 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso ‘agarra valor’ previo a decisión del Banxico: ¿Cuánto gana ante el dólar?",
-      "Description": "El mercado nacional estará atento hoy a la decisión del Banxico sobre su tasa de interés. ¿Cuánto bajará?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/26/peso-dolar-tipo-de-cambio-26-de-septiembre-en-vivo-decision-del-banxico/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MLLLSSAKERHSVJ5ZFKGUMVQEAY.jpg?smart=true&auth=3c135ecd0b693f452c8eb4a59531d5241e4d2ef88785a4ec641acd0b5e165b60&width=1200&height=630",
-      "PublishedAt": "2024-09-26T15:47:09Z",
-      "Content": "El peso mexicano, que pegó un botonazo esta semana, abre con ganancias ante el dólar en las horas previas a la nueva decisión del Banco de México (Banxico) sobre su tasa de interés de este jueves.\r\nE… [+2372 chars]"
     }
   ]
 }
