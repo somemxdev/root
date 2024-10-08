@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 7 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 7 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-7-de-octubre-nid07102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-07T14:29:37Z",
+      "Content": "Este lunes 7 de octubre, el precio del dólar en México es de $19,2127, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+3111 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-09-28T11:56:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de septiembre el tipo de cambio interbancario, se ubica en 19.69 pesos por unidad, con una ganancia del 0.30 por … [+1175 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El misterio detrás de la moneda de dólar que se vendió por más de US$600 mil: se cree que fue grabada “a mano”",
-      "Description": "El dólar de plata de 1870, acuñado en la Casa de la Moneda de San Francisco, es conocido por ser una de las más valiosas de la serie Seated Liberty Dollar. Descubre por qué su valor es tan alto.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-misterio-detras-de-la-moneda-de-dolar-que-se-vendio-por-mas-de-us600-mil-se-cree-que-fue-grabada-nid27092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-misterio-detras-de-esta-moneda-aumenta-su-U5NULNHXXFFHPIIU5IYZSQ6EDI.jpg?auth=e1d503f7b26b7661ec4bd45bbf1fbd902e3c7eab3d7a874c5c422add6b1c16eb&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-27T21:37:00Z",
-      "Content": "Una de las monedas más codiciadas entre los coleccionistas es el dólar Seated Liberty de 1870, considerada la pieza de plata de circulación regular más rara que haya sido producida en cualquier casa … [+3656 chars]"
     }
   ]
 }
