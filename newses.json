@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar confirma un doble techo de implicaciones bajistas",
+      "Description": "El euro/dólar experimentó el pasado viernes un fuerte latigazo a la baja tras conocerse la lectura del Informe de Empleo del mes de septiembre, mucho mejor de lo esperado. Las...",
+      "Url": "https://www.expansion.com/mercados/2024/10/07/67039fea468aeb4d5f8b4599.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/b4e053d11dbfc18147f983de91d106f2/crop/619x0/1919x867/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/07/17282907247355.jpg",
+      "PublishedAt": "2024-10-07T12:50:08Z",
+      "Content": "El dato del Informe de Empleo de Estados Unidos el pasado viernes está dando alas al billete verde.El euro/dólar experimentó el pasado viernes un fuerte latigazo a la baja tras conocerse la lectura d… [+345 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-27T15:44:59Z",
       "Content": "Este viernes 27 de septiembre, el precio del dólar en México es de $19,6290, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2416 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Inflación en EU ‘desinfla’ al dólar ante el peso: ¿En cuánto se cotiza?",
-      "Description": "El dólar se debilita este viernes debido al dato de inflación en Estados Unidos que se ubicó en su nivel más bajo desde 2021.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/09/27/peso-dolar-precio-hoy-27-de-septiembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GHFFNPNSMZDSRJO3SPIGXOOX5M.jpg?smart=true&auth=08acb009a3da01876fa114844b5af6156591c19e5cd901a0a4ae659cc76d0fe2&width=1200&height=630",
-      "PublishedAt": "2024-09-27T15:33:09Z",
-      "Content": "El peso mexicano gana terreno frente al dólar en las operaciones de este viernes y podría ligar dos sesiones con avances... pero no le alcanzará y tendrá un balance negativo en la semana.\r\nLa caída g… [+1637 chars]"
     }
   ]
 }
