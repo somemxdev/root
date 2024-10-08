@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Norinchukin Bank Plans First Dollar Bond Since Flagging Losses",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_052dec0c-2500-4d43-8bfd-36213dfa0bfa",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-07T02:31:40Z",
+      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/09/bank-share-sc.jpg",
       "PublishedAt": "2024-09-08T12:54:41Z",
       "Content": "The eighth-largest bank in the US by total assets is accused of secretly collecting personal and financial information from its customers and sharing the data with tech giants.\r\nA new class-action la… [+2595 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Post Nigeria"
-      },
-      "Author": "Ogaga Ariemu",
-      "Title": "Naira nears N2000 per dollar exchange rate at black market",
-      "Description": "The Naira raced to N2,000 per dollar at the black market on Saturday despite the Central Bank of Nigeria's sale of dollars to the Bureau De Change operators. A BDC operator, Dayyabu Ashiru confirmed to DAILY POST that Naira was exchanged for N1,670 per dollar…",
-      "Url": "https://dailypost.ng/2024/09/08/naira-nears-n2000-per-dollar-exchange-rate-at-black-market/",
-      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2023/06/naira-and-dollars.jpg",
-      "PublishedAt": "2024-09-08T06:59:58Z",
-      "Content": "The Naira raced to N2,000 per dollar at the black market on Saturday despite the Central Bank of Nigeria’s sale of dollars to the Bureau De Change operators.\r\nA BDC operator, Dayyabu Ashiru confirmed… [+427 chars]"
     }
   ]
 }
