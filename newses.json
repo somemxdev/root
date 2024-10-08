@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Peso pierde ante el dólar previo a dato de inflación de septiembre: ¿En cuánto se cotiza?",
+      "Description": "El peso mexicano viene de una semana 'estelar' en la que se apreció más de 2%, y la mayoría de esa ganancia vino después de la toma de protesta de la presidenta Claudia Sheinbaum.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QUIRYFM2MFFWHIC4J3P53JBRKE.jpg?smart=true&auth=3c5002cbeb4ded49c97897455f47dd48db9cb478d8de853157c9f8260f1ad887&width=1200&height=630",
+      "PublishedAt": "2024-10-07T17:14:52Z",
+      "Content": "El peso mexicano inicia la segunda semana de octubre con leves pérdidas frente al dólar, luego de una semana con una sólida apreciación de 2.19 por ciento.\r\nLa depreciación del peso mexicano ante el … [+1859 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-09-30T11:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 30 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.65 pesos por unidad, con una baja del 0.19 por… [+878 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 28 de septiembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de septiembre el tipo de cambio interbancario, se ubica en 19.69 pesos por unidad, con una ganancia del 0.30 por ciento, según datos de Bloomberg.Ayer, el Peso Mexicano se a…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-09-28T11:56:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de septiembre el tipo de cambio interbancario, se ubica en 19.69 pesos por unidad, con una ganancia del 0.30 por … [+1175 chars]"
     }
   ]
 }
