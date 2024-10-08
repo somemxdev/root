@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano cae frente al dólar en espera de datos de inflación",
+      "Description": "El peso mexicano se depreció con0.19 por ciento, este lunes 07 de septiembre de 2024, culminando en19.29 unidades por dólar.En medio de la cautela de los inversionistas; se enfrentan a una semana cargada de datos entre los que destacan cifras de inflación a n…",
+      "Url": "https://www.milenio.com/negocios/dolar-cierre-peso-cotiza-19-29-07-septiembre-2024",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2024-10-07T20:47:35Z",
+      "Content": "El peso mexicano se depreció con 0.19 por ciento, este lunes 07 de septiembre de 2024, culminando en 19.29 unidades por dólar. \r\nEn medio de la cautela de los inversionistas; los mercados mexicanos s… [+1073 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/30/proyecto_nuevo.jpg",
       "PublishedAt": "2024-09-30T13:34:17Z",
       "Content": "Hoy, 30 de septiembre de 2024, el dólar inicia sus operaciones a 19.6354 pesos, mostrando una leve disminución del 0.34%. El viernes 27 de septiembre, el peso sufrió una caída, cerrando en 19.7020 pe… [+1342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 30 de septiembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 30 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.65 pesos por unidad, con una baja del 0.19 por ciento, según datos de Bloomberg.El peso mexicano se aprecia…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-septiembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-09-30T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 30 de septiembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.65 pesos por unidad, con una baja del 0.19 por… [+878 chars]"
     }
   ]
 }
