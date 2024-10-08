@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "\"Precio del dólar hoy, 7 de octubre de 2024: El peso se mantiene fuerte\"",
+      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-7-de-octubre-de-2024-el-peso-se-mantiene-fuerte",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/07/proyecto_nuevo_-_2024-10-07t074133.284.jpg",
+      "PublishedAt": "2024-10-07T13:53:41Z",
+      "Content": "El dólar inició operaciones a 19.3499 pesos, registrando un aumento del 0.48%. El viernes 4 de octubre, el peso mexicano tuvo uno de sus mejores desempeños al apreciarse frente al dólar, cerrando en … [+1158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-misterio-detras-de-esta-moneda-aumenta-su-U5NULNHXXFFHPIIU5IYZSQ6EDI.jpg?auth=e1d503f7b26b7661ec4bd45bbf1fbd902e3c7eab3d7a874c5c422add6b1c16eb&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-27T21:37:00Z",
       "Content": "Una de las monedas más codiciadas entre los coleccionistas es el dólar Seated Liberty de 1870, considerada la pieza de plata de circulación regular más rara que haya sido producida en cualquier casa … [+3656 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 27 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles viernes 27 septiembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-27-de-septiembre-nid27092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-27T15:44:59Z",
-      "Content": "Este viernes 27 de septiembre, el precio del dólar en México es de $19,6290, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2416 chars]"
     }
   ]
 }
