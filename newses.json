@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del dólar 8 de octubre: El peso mantiene estabilidad, aunque no baja de los $19.00 pesos por unidad",
+      "Description": "Al inicio de la jornada el dólar estadounidense le ganó unos centavos al peso mexicano",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-8-de-octubre-el-peso-mantiene-estabilidad-aunque-no-baja-de-los-1900-pesos",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/08/dolar_1.jpg",
+      "PublishedAt": "2024-10-08T13:39:20Z",
+      "Content": "Este martes 8 de octubre de 2024 el dólar se cotiza en $19.32 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió ligeramente terreno frente a la divisa estadounidense, toma… [+810 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/R4XL6P53LRHRFFZEEGI5CRH2SY.png?smart=true&auth=47c0631128baa84163ba6bd91138956a453e001ad741c7e2b7aa5102bed7dbcb&width=1200&height=630",
       "PublishedAt": "2024-09-30T21:37:00Z",
       "Content": "Las recientes presiones sobre el tipo de cambio no impidieron que el peso mexicano registre su primer balance positivo para un sexenio, beneficiado por la coyuntura de los últimos años, en donde vari… [+1796 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 30 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles lunes 30 septiembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-30-de-octubre-nid30092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-para-este-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-30T15:40:01Z",
-      "Content": "Este lunes 30 de septiembre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2314 chars]"
     }
   ]
 }
