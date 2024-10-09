@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "‘Cautela’ de la Fed afecta al peso: ¿Cuánto pierde ante el dólar este martes?",
+      "Description": "Los nuevos datos de la economía de EU, que fueron positivos, aumentaron el sentimiento del mercado de que la Fed no recortará su tasa en las próximas reuniones del año.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/7XVELYEMNNAY5DGQUUI5PRXJMI.jpg?smart=true&auth=b70e1f068655c72b515439c3069cb15328be17949710839aec5f51d2bb58a745&width=1200&height=630",
+      "PublishedAt": "2024-10-08T16:48:28Z",
+      "Content": "El peso mexicano cae frente al dólar en las operaciones de este martes ante la posibilidad de que la Reserva Federal se guarde su tijera en las próximas reuniones y sea más cautelosa con la tasa de i… [+2118 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-01T13:34:53Z",
       "Content": "Este martes 1° de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY martes 1 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 1 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.69 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano se …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-01T10:59:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 1 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.69 pesos por unidad, con un fortalecimiento del 0… [+880 chars]"
     }
   ]
 }
