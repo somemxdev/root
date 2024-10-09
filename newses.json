@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY martes 8 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 8 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con una perdida del 0.01 por ciento, según datos de Bloomberg.El peso mexicano se depreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-10-08T10:58:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 8 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con una perdida del 0.01 por… [+857 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-para-este-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
       "PublishedAt": "2024-09-30T15:40:01Z",
       "Content": "Este lunes 30 de septiembre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2314 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "El Peso se Debilita: Dólar Alcanza Nuevos Picos este 30 de Septiembre de 2024",
-      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
-      "Url": "https://www.record.com.mx/contra/el-peso-se-debilita-dolar-alcanza-nuevos-picos-este-30-de-septiembre-de-2024",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/09/30/proyecto_nuevo.jpg",
-      "PublishedAt": "2024-09-30T13:34:17Z",
-      "Content": "Hoy, 30 de septiembre de 2024, el dólar inicia sus operaciones a 19.6354 pesos, mostrando una leve disminución del 0.34%. El viernes 27 de septiembre, el peso sufrió una caída, cerrando en 19.7020 pe… [+1342 chars]"
     }
   ]
 }

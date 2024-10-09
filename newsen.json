@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "CNBC (Business News)",
+      "Title": "FTX [Sam Bankman-Fried] creditors will make money on bankruptcy: $1.19 for every dollar",
+      "Description": "According to the court-approved plan, 98% of FTX's creditors will get 119% of the amount of their allowed claim...The company says it has collected between $14.7 billion and $16.5 billion worth of property for distribution...FTX previously estimated that it o…",
+      "Url": "https://freerepublic.com/focus/f-chat/4269554/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-08T10:06:31Z",
+      "Content": "Skip to comments.\r\nFTX [Sam Bankman-Fried] creditors will make money on bankruptcy: $1.19 for every dollarCNBC (Business News) ^\r\n | 07 October 2024\r\n | MacKenzie Sigalos\r\nPosted on 10/08/2024 3:06:3… [+2164 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/66dee19d7651b7f9cdb1cf38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2024-09-09T12:00:20Z",
       "Content": "LONDON, ENGLAND - JANUARY 20: City workers walk past the Lloyds building in the financial district, ... [+] also known as the Square Mile, on January 20, 2017 in London, England. Following the announ… [+8740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Accused of Secretly Sending Customers’ Personal and Financial Information to Facebook, Google and Microsoft",
-      "Description": "The eighth-largest bank in the US by total assets is accused of secretly collecting personal and financial information from its customers and sharing the data with tech giants. A new class-action lawsuit alleges Capital One engaged in an “outrageous, illegal,…",
-      "Url": "https://dailyhodl.com/2024/09/08/billion-dollar-bank-accused-of-secretly-sending-customers-personal-and-financial-information-to-facebook-google-and-microsoft/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/09/bank-share-sc.jpg",
-      "PublishedAt": "2024-09-08T12:54:41Z",
-      "Content": "The eighth-largest bank in the US by total assets is accused of secretly collecting personal and financial information from its customers and sharing the data with tech giants.\r\nA new class-action la… [+2595 chars]"
     }
   ]
 }
