@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central sorprende al mercado y ya lleva comprados US$551 millones en el mes",
+      "Description": "La entidad se quedó hoy con otros US$120 millones por intervenciones sobre el mercado cambiario, el segundo mayor monto que consigue por esta vía en lo que va del mes",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-sorprende-al-mercado-y-ya-lleva-comprados-us551-millones-en-el-mes-nid09102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-perfomance-compradora-en-lo-que-va-del-mes-del-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-09T21:42:21Z",
+      "Content": "La racha compradora de reservas que, casi sin pausa lleva adelante el Banco Central (BCRA) desde mediados de septiembre en adelante, prosiguió hoy al quedarse la entidad con otros US$120 millones por… [+3458 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
       "PublishedAt": "2024-10-02T13:56:20Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (02 octubre 2024) .-07:53 (Actualización: 15:23 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Melanie Pérez",
-      "Title": "Precio del dólar HOY miércoles 2 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 2 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.53 pesos por unidad, con un pérdida del 0.40 por ciento, según datos de Bloomberg.Ayer, fue un día históric…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2024-10-02T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 2 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.53 pesos por unidad, con un pérdida del 0.40 p… [+361 chars]"
     }
   ]
 }
