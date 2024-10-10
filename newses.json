@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 9 de octubre de 2024",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 9 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-9-de-octubre-de-2024-nid09102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-09T14:09:22Z",
+      "Content": "Este miércoles 9 de octubre, el precio del dólar en México es de $19,3532, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2451 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Milenio"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2024-10-02T11:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 2 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.53 pesos por unidad, con un pérdida del 0.40 p… [+361 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cómo impactó la toma de protesta de Claudia Sheinbaum en el precio del dólar hoy en México",
-      "Description": "Descubre cómo la toma de protesta de Claudia Sheinbaum como presidenta de México impactó el precio del dólar. La divisa mexicana ha fluctuado en este día no laboral en la nación latinoamericana.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/como-impacto-la-toma-de-protesta-de-claudia-sheinbaum-en-el-precio-del-dolar-hoy-en-mexico-nid01102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/claudia-sheinbaum-tomo-juramento-como-nueva-YYNQRCW6INE7DMXC7QJ65GB6LI.JPG?auth=8b1f05bc3d3f1082fd6e079403927274a60cc6c3058e849bbbcba134835a97b6&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-01T21:44:41Z",
-      "Content": "La nueva presidenta mexicana,Claudia Sheinbaum, tomó protesta de su cargo este martes 1° de octubre, en un evento que se realizó en el palacio legislativo de san Lázaro, en la Ciudad de México. Este … [+3337 chars]"
     }
   ]
 }

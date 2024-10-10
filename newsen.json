@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-10T16:41:58Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Josipa Majic Predin, Contributor, \n Josipa Majic Predin, Contributor\n https://www.forbes.com/sites/josipamajic/",
-      "Title": "Rise Of Family Offices: Trillion-Dollar Shadows In Global Finance",
-      "Description": "Family offices are quietly running the world. You won’t hear about them as much, but their moves can be silently massive and even more impressive is the projected growth in assets under management (AUM).",
-      "Url": "https://www.forbes.com/sites/josipamajic/2024/09/09/rise-of-family-offices-trillion-dollar-shadows-in-global-finance/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/66dee19d7651b7f9cdb1cf38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-09-09T12:00:20Z",
-      "Content": "LONDON, ENGLAND - JANUARY 20: City workers walk past the Lloyds building in the financial district, ... [+] also known as the Square Mile, on January 20, 2017 in London, England. Following the announ… [+8740 chars]"
     }
   ]
 }
