@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede 0.76% tras fortalecimiento del dólar",
+      "Description": "Forbes México.\n Peso retrocede 0.76% tras fortalecimiento del dólar\n\nMinutas de la Fed generan la expectativa de que el banco central de EU será cauteloso para seguir ajustando su tasa.\nPeso retrocede 0.76% tras fortalecimiento del dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-0-76-tras-fortalecimiento-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-10-09T22:33:44Z",
+      "Content": "El peso retrocedió este miércoles tras un fortalecimiento del dólar, derivado de la expectativa de que la Reserva Federal de Estados Unidos será cautelosa para seguir ajustando su tasa de interés de … [+3460 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-02T15:30:35Z",
       "Content": "Este miércoles 2 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2223 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Recupera peso terreno; cierra dólar en $19.41",
-      "Description": "A un día de que asumiera Sheinbaum como Presidenta, el peso se apreció y cerró en $19.41 por dólar en el mercado internacional.",
-      "Url": "https://www.reforma.com/recupera-peso-terreno-cierra-dolar-en-19-41/ar2883128",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-10-02T13:56:20Z",
-      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (02 octubre 2024) .-07:53 (Actualización: 15:23 hrs)"
     }
   ]
 }
