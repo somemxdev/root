@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 9 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 9 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.33 pesos por unidad, con un fortalecimiento del 0.10 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-10-09T11:03:07Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 9 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.33 pesos por unidad, con un fortalecimiento de… [+835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/claudia-sheinbaum-tomo-juramento-como-nueva-YYNQRCW6INE7DMXC7QJ65GB6LI.JPG?auth=8b1f05bc3d3f1082fd6e079403927274a60cc6c3058e849bbbcba134835a97b6&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-01T21:44:41Z",
       "Content": "La nueva presidenta mexicana,Claudia Sheinbaum, tomó protesta de su cargo este martes 1° de octubre, en un evento que se realizó en el palacio legislativo de san Lázaro, en la Ciudad de México. Este … [+3337 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 1° de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 1° de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-1-de-octubre-nid01102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-01T13:34:53Z",
-      "Content": "Este martes 1° de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2214 chars]"
     }
   ]
 }
