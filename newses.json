@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Dato de inflación en EU ‘ni le hace cosquillas’ al peso: ¿Cómo cotiza hoy ante el dólar?",
+      "Description": "El comportamiento del tipo de cambio responde a los datos de inflación tanto de Estados Unidos como de México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/10/peso-dolar-precio-hoy-10-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/L6OZM3RO6BHS7PZC4NWZXGK3AE.jpg?smart=true&auth=e9deb0c906c54514ae2831a9de90bea8c29234612d2a7baa3c2dc797952e38c2&width=1200&height=630",
+      "PublishedAt": "2024-10-10T16:27:25Z",
+      "Content": "El peso mexicano está tablas, pero puede llegar a ligar su cuarta jornada con depreciación frente al dólar mientras los mercados reaccionan al dato de inflación en Estados Unidos durante septiembre.\r… [+1879 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 10 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 10 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-10-de-octubre-nid10102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-10T16:15:51Z",
+      "Content": "Este jueves 10 de octubre, el precio del dólar en México es de $19,4175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2483 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JTVTQI26LZDEBE3ALRRMZFO6JU.jpg?smart=true&auth=56f91bfe9dde2abe0f1dd3a7ad5d3cf86011b537ba68d90043978e32fba4c266&width=1200&height=630",
       "PublishedAt": "2024-10-03T03:20:25Z",
       "Content": "Claudia Sheinbaum ya es presidenta de México, y desde el primer día de su mandato ya tiene la misión de evitar que el peso continúe con la depreciación que ha mostrado desde junio, cuando Morena arra… [+1843 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "La AFIP comenzó a devolver las percepciones por la compra de dólar oficial y pagos en moneda extranjera",
-      "Description": "De acuerdo con fuentes del fisco y contadores, algunos pagos se adeudaban de 2022, otros de 2023 y los restantes pertenecen a este año; todos están vinculados al impuesto PAIS",
-      "Url": "https://www.lanacion.com.ar/economia/la-afip-comenzo-a-devolver-las-percepciones-por-la-compra-de-dolar-oficial-y-pagos-en-moneda-nid02102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-devoluciones-de-dinero-estan-vinculadas-al-7CYWJZ4VCBBHXKOIN5UAFEMW7I.JPG?auth=4bfbe19fb190473c7af29b2936f3104da6dc272cf79027ac65e5fcffbcaa6623&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-02T16:43:18Z",
-      "Content": "La Administración Federal de Ingresos Públicos (AFIP) comenzó a devolver las percepciones aplicadas a la compra de dólar oficial y a los pagos en moneda extranjera. Es decir, las operaciones alcanzad… [+2651 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso da ‘regalazo’ a Sheinbaum: ¿Cuánto gana al dólar este 2 de octubre?",
-      "Description": "Durante su mensaje en el Congreso de la Unión, Claudia Sheinbaum prometió que durante su Presidencia las inversiones estarán seguras en México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SK6VUU5LR5GUVIPSGGJRUTK2CY.jpg?smart=true&auth=34f4bfb3ea660fa61fde37c2e65afd5f05d6766421ca173bc0e65a835c8b10b2&width=1200&height=630",
-      "PublishedAt": "2024-10-02T16:14:43Z",
-      "Content": "El peso mexicano da un regalazo a Claudia Sheinbaum, presidenta de México quien ya se estrenó en las mañaneras, pues abre este 2 de octubre con una fuerte apreciación ante el dólar, esto a pesar de l… [+2036 chars]"
     }
   ]
 }
