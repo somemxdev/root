@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/Jimmy-Patronis.jpeg",
       "PublishedAt": "2024-09-16T11:38:49Z",
       "Content": "Fifteen years have passed since the Occupy Wall Street movement focused attention on the inequities and hazards of large Wall Street banks, particularly those risky banks with trillions of dollars in… [+10880 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "NZ dollar, Japan bonds zap trend hedge fund August returns, bank data shows",
-      "Description": "NZ dollar, Japan bonds zap trend hedge fund August returns, bank data shows",
-      "Url": "https://www.investing.com/news/economy-news/nz-dollar-japan-bonds-zap-trend-hedge-fund-august-returns-bank-data-shows-3610004",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
-      "PublishedAt": "2024-09-10T16:45:51Z",
-      "Content": "By Nell Mackenzie\r\nLONDON (Reuters) - Trend-following hedge funds took a hit from their bets on the New Zealand dollar and Japanese stocks and bonds in August, when global markets were rattled by ext… [+2106 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "NZ dollar, Japan bonds zap trend hedge fund August returns, bank data shows",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e35f1af1-e5ce-4f11-a1d9-051bf2d25e54",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-10T16:41:58Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }

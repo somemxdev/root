@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "MaKaNaS",
+      "Title": "Nigeria se aleja del dólar estadounidense y ahora vende petróleo crudo en naira (moneda nigeriana)",
+      "Description": "Nigeria, el mayor productor de petróleo de África, ha dejado oficialmente de vender crudo en dólares estadounidenses. El Consejo Ejecutivo Federal (CEF) ha tomado la decisión estratégica de vender su crudo en nairas, lo que marca un cambio significativo para …",
+      "Url": "https://www.meneame.net/m/mnm/nigeria-aleja-dolar-estadounidense-ahora-vende-petroleo-crudo",
+      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
+      "PublishedAt": "2024-10-10T19:44:36Z",
+      "Content": "#1 Ya se pueden dar prisa, ahora mismo es el sexto país más poblado pero su crecimiento hasta el 2050 sólo se ve superado por la India."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-10-03T10:38:50Z",
       "Content": "Periódico La JornadaJueves 3 de octubre de 2024, p. 22\r\nPese al temor a las restricciones de oferta de petróleo y la incertidumbre por hostilidades entre Irán e Israel, el peso logró cerrar la primer… [+1549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿El peso ‘caerá' frente al dólar con Sheinbaum al final de 2024? Esto pronostican los expertos",
-      "Description": "¿Cómo le irá al peso mexicano en los primeros meses de gobierno de Claudia Sheinbaum? La encuesta de Banxico señala que el tipo de cambio no superará las 20 unidades por dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/02/peso-mexicano-a-dolar-como-cerrara-2024-tipo-de-cambio-con-claudia-sheinbaum/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/JTVTQI26LZDEBE3ALRRMZFO6JU.jpg?smart=true&auth=56f91bfe9dde2abe0f1dd3a7ad5d3cf86011b537ba68d90043978e32fba4c266&width=1200&height=630",
-      "PublishedAt": "2024-10-03T03:20:25Z",
-      "Content": "Claudia Sheinbaum ya es presidenta de México, y desde el primer día de su mandato ya tiene la misión de evitar que el peso continúe con la depreciación que ha mostrado desde junio, cuando Morena arra… [+1843 chars]"
     }
   ]
 }
