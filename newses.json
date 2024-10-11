@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 10 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 10 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.47 pesos por unidad, con una pérdida del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-10T11:07:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOYjueves 10 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.47 pesos por unidad, con una pérdida del 0.10 por … [+936 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SK6VUU5LR5GUVIPSGGJRUTK2CY.jpg?smart=true&auth=34f4bfb3ea660fa61fde37c2e65afd5f05d6766421ca173bc0e65a835c8b10b2&width=1200&height=630",
       "PublishedAt": "2024-10-02T16:14:43Z",
       "Content": "El peso mexicano da un regalazo a Claudia Sheinbaum, presidenta de México quien ya se estrenó en las mañaneras, pues abre este 2 de octubre con una fuerte apreciación ante el dólar, esto a pesar de l… [+2036 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 2 de octubre",
-      "Description": "Este miércoles 2 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,605. A continuación, la cotización de…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-2-de-octubre-nid02102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-02T15:30:35Z",
-      "Content": "Este miércoles 2 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2223 chars]"
     }
   ]
 }
