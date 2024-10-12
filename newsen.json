@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "SI Reporter",
+      "Title": "Aurionpro up 4% on inking multi-million dollar deal with Saudi Arabian bank",
+      "Description": "Aurionpro has signed a multi-million dollar deal with a leading bank in Saudi Arabia to provide it with its transaction banking platform",
+      "Url": "https://www.business-standard.com/markets/news/aurionpro-up-4-on-inking-multi-million-dollar-deal-with-saudi-arabian-bank-124101100190_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/18/thumb/featurecrop/400X400/1726644412-926.jpg",
+      "PublishedAt": "2024-10-11T05:05:49Z",
+      "Content": "Aurionpro Solutions shares climbed as much as 4.4 per cent and logged an intraday high of Rs 1,763.8 per share on BSE. The buying in the stock came after the company secured a multi-million dollar de… [+350 chars]"
+    },
     {
       "Source": {
         "Id": null,
