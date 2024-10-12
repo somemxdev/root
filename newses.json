@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¿Peso le ‘dará la vuelta’ al dólar en la semana? Abre en las 19.43 unidades",
+      "Description": "Las presiones recientes en la inflación subyacente en EU ayudaron al peso mexicano a apreciarse ante el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/11/peso-dolar-precio-hoy-11-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QYKKG2QBYJCKNP7U5GILXM2WNY.jpg?smart=true&auth=92869627aa3f20568f01c177206ab34f2a0e8ee8f762e471006a4d098cb58f56&width=1200&height=630",
+      "PublishedAt": "2024-10-11T16:15:07Z",
+      "Content": "El peso mexicano por fin da una en la semana y arranca con ganancias ante el dólar este viernes, al tiempo que los inversionistas asimilan los datos de inflación al productor para la economía estadou… [+1763 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-economía-FER_0377.webp",
       "PublishedAt": "2024-10-03T14:37:37Z",
       "Content": "El peso se depreciaba este jueves ante un avance generalizado del dólar debido a la cautela de los inversionistas por una escalada de las tensiones en Medio Oriente y luego de conocerse un moderado i… [+1442 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 3 de octubre",
-      "Description": "Este jueves 3 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,605. A continuación, la cotización del día de …",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-3-de-octubre-nid03102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-03T13:53:15Z",
-      "Content": "Este jueves 3 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2030 chars]"
     }
   ]
 }
