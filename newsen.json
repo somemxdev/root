@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Chris Clark",
+      "Title": "Americans have this one ‘billion-dollar blind spot’ when rolling over 401(k)s to IRAs — here’s how to fix it ASAP",
+      "Description": "Are you making this mistake, too?",
+      "Url": "https://finance.yahoo.com/news/americans-one-billion-dollar-blind-111600035.html",
+      "UrlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "PublishedAt": "2024-10-11T11:16:00Z",
+      "Content": "Cold, hard cash its a safe and reliable staple of many investors retirement portfolios. But when Americans roll over their 401(k) plans into IRAs, theyre often unknowingly making a costly mistake by … [+4925 chars]"
+    },
     {
       "Source": {
         "Id": null,
