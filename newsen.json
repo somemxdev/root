@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Decrypt"
+      },
+      "Author": "Murtuza Merchant",
+      "Title": "MicroStrategy Aims to Be ‘Bitcoin Bank’ With Trillion-Dollar Valuation: Michael Saylor",
+      "Description": "With nearly $16 billion worth of Bitcoin in the bank, MicroStrategy's Michael Saylor shares big plans ahead for BTC.",
+      "Url": "https://decrypt.co/285838/microstrategy-bitcoin-bank-trillion-dollar",
+      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/10/saylor-bitcoin-dice-gID_7.png",
+      "PublishedAt": "2024-10-11T18:20:25Z",
+      "Content": "MicroStrategy Inc. is positioning itself to transform how capital is preserved and transferred globally, according to a recent report by Bernstein Researchand the companys outspoken co-founder Michae… [+3042 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.enca.com/sites/default/files/styles/large/public/2024-09/GettyImages-465387114.jpg.webp?itok=kd-0R1Cs",
       "PublishedAt": "2024-09-16T16:35:40Z",
       "Content": "JOHANNESBURG - The JSE All Share index was trading at over 82,000 points earlier on Monday. \r\nREAD: South African Rand soars to year high\r\nThe local currency is at R17.64 to the US Dollar. \r\nTom Gale… [+90 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalresearch.ca"
-      },
-      "Author": "Ellen Brown",
-      "Title": "The Florida State Sunshine Bank: How a State-Owned Bank Can Protect Free Speech and Confront “The Weaponization of the Dollar”",
-      "Description": "Fifteen years have passed since the Occupy Wall Street movement focused attention on the inequities and hazards of large Wall Street banks, particularly those risky banks with trillions of dollars in derivatives on their books. “Move your money” was the …\nThe…",
-      "Url": "https://www.globalresearch.ca/florida-state-sunshine-bank-state-owned-bank-protect-free-speech/5867936",
-      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/Jimmy-Patronis.jpeg",
-      "PublishedAt": "2024-09-16T11:38:49Z",
-      "Content": "Fifteen years have passed since the Occupy Wall Street movement focused attention on the inequities and hazards of large Wall Street banks, particularly those risky banks with trillions of dollars in… [+10880 chars]"
     }
   ]
 }
