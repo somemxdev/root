@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 11 de octubre de 2024: Peso gana en apertura tras dato de inflación en EU",
+      "Description": "El dólar HOY 11 de octubre de 2024 se frenaba cerca de máximos de dos meses, mientras los operadores digieren los últimos datos de inflacióny empleo, en una sesión en la que el aumento del crecimiento económico británico no lograba sacar a la libra esterlina …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-11T13:41:00Z",
+      "Content": "El dólar HOY 11 de octubre de 2024 se frenaba cerca de máximos de dos meses, mientras los operadores digieren los últimos datos de inflación y empleo, en una sesión en la que el aumento del crecimien… [+879 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 11 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 11 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-11-de-octubre-nid11102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-11T13:18:00Z",
+      "Content": "Este viernes 11 de octubre, el precio del dólar en México es de $19,5113, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2114 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-03T13:53:15Z",
       "Content": "Este jueves 3 de octubre, el precio del dólar en México es de $19,6697, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2030 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Melanie Pérez",
-      "Title": "Precio del dólar HOY jueves 3 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 3 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.49 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.Ayer el peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2024-10-03T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólarHOY jueves 3 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.49 pesos por unidad, con un fortalecimiento del 0.… [+256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Al arranque del nuevo gobierno, avanza el peso: 19.41 por dólar",
-      "Description": "Pese al temor a las restricciones de oferta de petróleo y la incertidumbre por hostilidades entre Irán e Israel, el peso logró cerrar la primera sesión de la nueva administración en México con ganancias frente a la divisa estadunidense, la cual se fortaleció …",
-      "Url": "https://www.jornada.com.mx/2024/10/03/economia/022n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-10-03T10:38:50Z",
-      "Content": "Periódico La JornadaJueves 3 de octubre de 2024, p. 22\r\nPese al temor a las restricciones de oferta de petróleo y la incertidumbre por hostilidades entre Irán e Israel, el peso logró cerrar la primer… [+1549 chars]"
     }
   ]
 }

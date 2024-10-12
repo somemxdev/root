@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Decentralized Dog",
+      "Title": "MicroStrategy Aims for Trillion-Dollar Valuation as Bitcoin Bank",
+      "Description": "MicroStrategy, led by founder and executive chairman Michael Saylor, is positioning itself to become a leading player in the Bitcoin banking sector.",
+      "Url": "https://finance.yahoo.com/news/microstrategy-aims-trillion-dollar-valuation-131327106.html",
+      "UrlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "PublishedAt": "2024-10-11T13:13:27Z",
+      "Content": "MicroStrategy, led by founder and executive chairman Michael Saylor, is positioning itself to become a leading player in the Bitcoin banking sector.\r\nIn a recent interview with analysts at Bernstein,… [+1623 chars]"
+    },
     {
       "Source": {
         "Id": null,
