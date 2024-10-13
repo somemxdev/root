@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "El peso mexicano y la BMV se fortalecen ante la debilidad del dólar",
+      "Description": "El peso mexicano se fortaleció este viernes 11 de octubre con una ganancia del 0.9 por ciento, cerrando la semana en 19.27 unidades por dólar.Esto ocurrió durante un una jornada en que la moneda estadunidense se debilitó levemente por las expectativas de que …",
+      "Url": "https://www.milenio.com/negocios/dolar-cierre-peso-cotiza-19-27-11-octubre-2024",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/05/peso-ubicaba-monedas-depreciadas-jornada.jpg",
+      "PublishedAt": "2024-10-12T00:35:33Z",
+      "Content": "El peso mexicano se fortaleció este viernes 11 de octubre con una ganancia del 0.9 por ciento, cerrando la semana en 19.27 unidades por dólar.\r\nEsto ocurrió durante un una jornada en que la moneda es… [+1824 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5N7SDRNZL5B2ZCLPPXLLNNMO74.jpg?smart=true&auth=67a3b6412c9e9f501de7a54d2751fc343873b3f3d6b07c9b04447830e54023ac&width=1200&height=630",
       "PublishedAt": "2024-10-03T16:40:35Z",
       "Content": "El peso mexicano tiene miedo y retrocede ante el dólar este jueves en medio de una escalada en el conflicto entre Irán e Israel, esto después de que EU dijo que analiza un ataque contra las instalaci… [+1718 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante fortalecimiento global del dólar; BMV cae por cuarta jornada al hilo",
-      "Description": "Forbes México.\n Peso retrocede ante fortalecimiento global del dólar; BMV cae por cuarta jornada al hilo\n\nEl peso cotizaba en 19.5460 por dólar, con una pérdida de 0.75% interrumpiendo una racha de tres jornadas consecutivas de ganancias en las que acumuló un…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-fortalecimiento-global-del-dolar-bmv-cae-por-cuarta-jornada-al-hilo/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-economía-FER_0377.webp",
-      "PublishedAt": "2024-10-03T14:37:37Z",
-      "Content": "El peso se depreciaba este jueves ante un avance generalizado del dólar debido a la cautela de los inversionistas por una escalada de las tensiones en Medio Oriente y luego de conocerse un moderado i… [+1442 chars]"
     }
   ]
 }
