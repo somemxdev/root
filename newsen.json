@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fujirumors.com"
+      },
+      "Author": "Patrick",
+      "Title": "US Dollar Price for Fujinon XF16-55mmF2.8 II and XF500mmF5.6",
+      "Description": "We leaked the price for the Fujinon XF16-55mmF2.8 II and the Fujinon XF500mmF5.6 in £ and € already in this article. Well, I have received information about the price in US Dollar, which is not yet multiple checked but I share it anyway, because the announcem…",
+      "Url": "https://www.fujirumors.com/us-dollar-price-for-fujinon-xf16-55mmf2-8-ii-and-xf500mmf5-6/",
+      "UrlToImage": "https://www.fujirumors.com/wp-content/uploads/2024/10/US-Dollar-Price-720x371.jpg",
+      "PublishedAt": "2024-10-13T11:52:40Z",
+      "Content": "We leaked the price for the Fujinon XF16-55mmF2.8 II and the Fujinon XF500mmF5.6 in £ and already in this article.\r\nWell, I have received information about the price in US Dollar, which is not yet mu… [+809 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Czech National Bank Acquires 1,670 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Czech National Bank raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.2% during the third quarter, according to its most recent disclosure with the Securities and Exchange Commission. The institutional investor owned 41,159 shares of t…",
+      "Url": "https://www.etfdailynews.com/2024/10/13/czech-national-bank-acquires-1670-shares-of-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-10-13T10:43:24Z",
+      "Content": "Czech National Bank raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.2% during the third quarter, according to its most recent disclosure with the Securities and Exchange Com… [+5824 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://assets.newatlas.com/dims4/default/feea576/2147483647/strip/true/crop/1720x903+0+150/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2Fd5%2F3063ab104602ad21cd8b9686fd10%2Ftrash-isles-flag-1.jpg&na.image_optimisation=0",
       "PublishedAt": "2024-09-17T23:30:54Z",
       "Content": "The Great Pacific Garbage Patch, or GPGP for short, isn't exactly what you might have heard. It's not a floating garbage land-mass twice the size of Texas that you can settle, even though it kind of … [+5336 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "US dollar hits more than one-year low versus yen as market eyes aggressive Fed rate cut - Yahoo Finance",
-      "Description": "US dollar hits more than one-year low versus yen as market eyes aggressive Fed rate cutYahoo Finance US Dollar declines as Fed easing expectations intensifyFXStreet Wall Street Revives Big-to-Small Trade on Fed Bets: Markets WrapBloomberg Dollar soft, yen str…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175008521",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-16T19:32:45Z",
-      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "eNCA"
-      },
-      "Author": "Enca",
-      "Title": "Exchange rate | Rand holds firm against US dollar",
-      "Description": "The JSE All Share index was trading at over 82,000 points earlier on Monday.",
-      "Url": "https://www.enca.com/business/exchange-rate-rand-holds-firm-against-us-dollar",
-      "UrlToImage": "https://www.enca.com/sites/default/files/styles/large/public/2024-09/GettyImages-465387114.jpg.webp?itok=kd-0R1Cs",
-      "PublishedAt": "2024-09-16T16:35:40Z",
-      "Content": "JOHANNESBURG - The JSE All Share index was trading at over 82,000 points earlier on Monday. \r\nREAD: South African Rand soars to year high\r\nThe local currency is at R17.64 to the US Dollar. \r\nTom Gale… [+90 chars]"
     }
   ]
 }
