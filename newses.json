@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se debilita ante fortalecimiento del dólar por expectativa sobre tasa en EU",
+      "Description": "Forbes México.\n Peso se debilita ante fortalecimiento del dólar por expectativa sobre tasa en EU\n\nLa revalorización del dólar también se da luego de los anuncios de estímulo de China, que inversionistas consideraron decepcionantes.\nPeso se debilita ante forta…",
+      "Url": "https://forbes.com.mx/peso-se-debilita-ante-fortalecimiento-del-dolar-por-expectativa-sobre-tasa-en-eu/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero04.webp",
+      "PublishedAt": "2024-10-14T22:34:28Z",
+      "Content": "El peso se depreció este lunes ante un avance global del dólar por la expectativa de que la Reserva Federal moderará futuros recortes a su tasa de interés, mientras que la Bolsa Mexicana de Valores c… [+1719 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-nueva-presidenta-mexicana-claudia-sheinbaum-ZVCUFRFNKRD7VJL2NJY4UKTIWU.jpg?auth=e542890aa8e444092eb3b8ebdc39cb8acdb3d3317557d2e31cbb76cba79134f6&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-04T21:40:20Z",
       "Content": "La nueva presidenta mexicana, Claudia Sheinbaum, tomó protesta de su cargo este martes 1° de octubre, día en que el tipo de cambio del peso mexicano frente al dólar reaccionó bien, de acuerdo con ana… [+3350 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y Adriana Arcos",
-      "Title": "Baja dólar a $19.28; peso se aprecia en la semana",
-      "Description": "Entre el 27 de septiembre y 4 de octubre, el peso se apreció 2.12% frente al dólar, que cerró en $19.2841 en el mercado internacional.",
-      "Url": "https://www.reforma.com/baja-dolar-a-19-28-peso-se-aprecia-en-la-semana/ar2884587",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541820.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-10-04T17:22:01Z",
-      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (04 octubre 2024) .-11:20 (Actualización: 15:58 hrs)"
     }
   ]
 }
