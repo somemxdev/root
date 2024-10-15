@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Baja liquidez ‘drena’ al peso: ¿Cuánto pierde ante el dólar este lunes?",
+      "Description": "Especialistas apuntan a que el dólar gana ante el peso este lunes ante la perspectiva de que la economía de EU siga desempeñándose mejor de lo esperado.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/14/peso-dolar-precio-hoy-14-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/TNJ6WN3PTFEHDDCX77ADYRIO3U.jpg?smart=true&auth=c647d1308989512d4c1b8c937559c2739a10feefe6c75876992c360e5cfa4c08&width=1200&height=630",
+      "PublishedAt": "2024-10-14T15:38:46Z",
+      "Content": "El peso mexicano opera en terreno de pérdidas ante el dólar durante este lunes 14 de octubre debido a un bajo nivel de liquidez, ante la ausencia de operaciones en el mercado de bonos estadounidense … [+1621 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541820.jpg&wm=1&ang=0",
       "PublishedAt": "2024-10-04T17:22:01Z",
       "Content": "02 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (04 octubre 2024) .-11:20 (Actualización: 15:58 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Es viernes y el peso lo sabe: Se aprecia más de 1% ante el dólar por dato de empleo en EU",
-      "Description": "El peso mexicano se ha estado apreciando paulatinamente ante el dólar desde la toma de posesión de la presidenta Claudia Sheinbaumm.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/04/peso-dolar-precio-hoy-4-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/KHE77PNSFVCI7IOFZ3GTGIBEZM.jpg?smart=true&auth=8a97661f9b628e521ac3a6efad5f6c7cd369514aacf9f7b9945d143dcc0936d5&width=1200&height=630",
-      "PublishedAt": "2024-10-04T15:24:16Z",
-      "Content": "El peso mexicano lidera al grupo de monedas emergentes con más ganancias ante el dólar en la sesión de este 4 de octubre, esto después de que se dio a conocer un aumento superior al esperado en la cr… [+2214 chars]"
     }
   ]
 }
