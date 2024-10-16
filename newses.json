@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 15 de octubre",
+      "Description": "Para los turistas que visitan el país, es importante señalar que la cotización del dólar en casas de cambio del Aeropuerto Internacional Benito Juárez de Ciudad de México, este martes 15 de octubre, se reporta en rangos de $19,29 para la venta.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-15-de-octubre-nid15102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-martes-15-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-15T14:35:29Z",
+      "Content": "© Copyright 2024 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ.Queda prohibida la reproducción… [+36 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-10-05T11:56:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.35 por cient… [+1491 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Termina el peso la semana en 19.25 por dólar, impulsado por informe laboral positivo en EU",
-      "Description": "El peso mexicano se apreció y registró uno de los mejores desempeños en la jornada entre los mercados globales, luego de darse a conocer un sólido reporte de empleo en Estados Unidos.",
-      "Url": "https://www.jornada.com.mx/2024/10/05/economia/016n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2024/10/05/fotos/016n2eco-1.jpg",
-      "PublishedAt": "2024-10-05T08:18:48Z",
-      "Content": "Periódico La JornadaSábado 5 de octubre de 2024, p. 16\r\nEl peso mexicano se apreció y registró uno de los mejores desempeños en la jornada entre los mercados globales, luego de darse a conocer un sól… [+3372 chars]"
     }
   ]
 }
