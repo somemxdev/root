@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee ends a tad stronger, aided by broad based interbank dollar sales",
+      "Description": "Dollar demand from foreign banks, likely on behalf of custodial clients, blunted the positive effects of lower oil prices and gain in most of the rupee's Asian peers, traders said.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-stronger-aided-by-broad-based-interbank-dollar-sales/articleshow/114282825.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-114282854,width-1200,height-630,imgsize-124630,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2024-10-16T10:41:33Z",
+      "Content": "The Indian rupee closed slightly stronger on Wednesday, supported by broad-based interbank dollar sales towards the end of the session after having spent the day locked in a narrow range just shy of … [+1633 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "Billion-Dollar Bank Refuses To Reimburse Customer After $10,000 Stolen From Account – Until the Media Gets Involved: Report",
+      "Description": "America’s 20th-largest bank by total assets is accused of refusing to reimburse a customer who lost money to a scammer impersonating the lender. It started when Thomas McConnell’s wife received a text message claiming to be from USAA asking her to verify a cr…",
+      "Url": "https://dailyhodl.com/2024/10/16/billion-dollar-bank-refuses-to-reimburse-customer-after-10000-stolen-from-account-until-the-media-gets-involved-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/dollar-bank-bars.jpg",
+      "PublishedAt": "2024-10-16T08:04:20Z",
+      "Content": "Americas 20th-largest bank by total assets is accused of refusing to reimburse a customer who lost money to a scammer impersonating the lender.\r\nIt started when Thomas McConnells wife received a text… [+1726 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-09-21T12:08:56Z",
       "Content": "Amalgamated Bank lessened its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 6.5% in the second quarter, according to the company in its most recent Form 13F filing with the Secu… [+6771 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoGlobe"
-      },
-      "Author": "CryptoGlobe Writer",
-      "Title": "Canada’s Central Bank Puts on Hold Plans for a Digital Dollar",
-      "Description": "According to a report by Kyle Bakx and Meegan for CBC News, the Bank of Canada has paused its efforts to introduce a digital version of the Canadian dollar.  After years of research, the central bank has decided to step back from the idea, focusing instead on…",
-      "Url": "https://www.cryptoglobe.com/latest/2024/09/canadas-central-bank-puts-on-hold-plans-for-a-digital-dollar/",
-      "UrlToImage": "https://media.cryptoglobe.com/2020/12/sebastiaan-stam-azIO-XUkfok-unsplash-768x512.jpg",
-      "PublishedAt": "2024-09-20T04:51:57Z",
-      "Content": "According to a report by Kyle Bakx and Meegan for CBC News, the Bank of Canada has paused its efforts to introduce a digital version of the Canadian dollar. \r\nAfter years of research, the central ban… [+1751 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sostav.ru"
-      },
-      "Author": null,
-      "Title": "Konstantin Tserazov:The euro to dollar exchange rate on external markets has grown over the week.",
-      "Description": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last October. At the same time, trading was of a range and low-v…",
-      "Url": "https://www.sostav.ru/blogs/269934/51272",
-      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=51272",
-      "PublishedAt": "2024-09-19T18:22:31Z",
-      "Content": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last… [+4019 chars]"
     }
   ]
 }

@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 16 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 16 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.74 pesos por unidad, con un fortalecimiento del 0.22 por ciento, según datos de Bloomberg.El peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-16T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 16 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.74 pesos por unidad, con un fortalecimiento d… [+854 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Baja el peso 1.56%, a $19.69 por dólar",
+      "Description": "En medio de una caída de los precios del petróleo hasta de 4 por ciento y en medio de una mayor aversión al riesgo sobre el país, el tipo de cambio peso-dólar subió este martes a su nivel máximo en cinco semanas.",
+      "Url": "https://www.jornada.com.mx/2024/10/16/economia/024n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-10-16T10:48:12Z",
+      "Content": "Periódico La JornadaMiércoles 16 de octubre de 2024, p. 24\r\nEn medio de una caída de los precios del petróleo hasta de 4 por ciento y en medio de una mayor aversión al riesgo sobre el país, el tipo d… [+2077 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/b4e053d11dbfc18147f983de91d106f2/crop/619x0/1919x867/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/07/17282907247355.jpg",
       "PublishedAt": "2024-10-07T12:50:08Z",
       "Content": "El dato del Informe de Empleo de Estados Unidos el pasado viernes está dando alas al billete verde.El euro/dólar experimentó el pasado viernes un fuerte latigazo a la baja tras conocerse la lectura d… [+345 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Melanie Pérez",
-      "Title": "Precio del dólar HOY lunes 7 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 7 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.35 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.El viernes pasado,…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-10-07T11:04:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 7 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.35 pesos por unidad, con un fortalecimiento del … [+711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 5 de octubre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.35 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-10-05T11:56:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.35 por cient… [+1491 chars]"
     }
   ]
 }
