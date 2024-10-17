@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 16 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 16 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-16-de-octubre-nid16102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-16T14:47:23Z",
+      "Content": "Este miércoles 16 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2659 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/07/proyecto_nuevo_-_2024-10-07t074133.284.jpg",
       "PublishedAt": "2024-10-07T13:53:41Z",
       "Content": "El dólar inició operaciones a 19.3499 pesos, registrando un aumento del 0.48%. El viernes 4 de octubre, el peso mexicano tuvo uno de sus mejores desempeños al apreciarse frente al dólar, cerrando en … [+1158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "JOSÉ MARÍA RODRÍGUEZ",
-      "Title": "El euro/dólar confirma un doble techo de implicaciones bajistas",
-      "Description": "El euro/dólar experimentó el pasado viernes un fuerte latigazo a la baja tras conocerse la lectura del Informe de Empleo del mes de septiembre, mucho mejor de lo esperado. Las...",
-      "Url": "https://www.expansion.com/mercados/2024/10/07/67039fea468aeb4d5f8b4599.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/b4e053d11dbfc18147f983de91d106f2/crop/619x0/1919x867/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/07/17282907247355.jpg",
-      "PublishedAt": "2024-10-07T12:50:08Z",
-      "Content": "El dato del Informe de Empleo de Estados Unidos el pasado viernes está dando alas al billete verde.El euro/dólar experimentó el pasado viernes un fuerte latigazo a la baja tras conocerse la lectura d… [+345 chars]"
     }
   ]
 }
