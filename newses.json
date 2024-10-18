@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "La ‘4D’ del peso: Se perfila para ligar cuatro días con pérdidas contra el dólar",
+      "Description": "Donald Trump dejó claro que si regresa a la Casa Blanca, aplicará aranceles a productos no hechos en EU, lo que aumentó la aversión al riesgo a nivel global.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/17/peso-dolar-precio-hoy-17-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MG22ZI2V2VD4PF62JZAQ3JH3JY.jpg?smart=true&auth=be68ce1037ab070f0ffe343521797a09a9f5fb8ecaf51ea5cf513a3473dbc426&width=1200&height=630",
+      "PublishedAt": "2024-10-17T17:04:49Z",
+      "Content": "El peso mexicano se perfila para ligar una cuarta jornada con pérdidas ante el dólar debido a que crece la aversión al riesgo global, lo que afecta principalmente a las monedas de mercados emergentes… [+2077 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-08T14:51:20Z",
       "Content": "Este martes 8 de octubre, el precio del dólar en México es de $19,3388, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del dólar 8 de octubre: El peso mantiene estabilidad, aunque no baja de los $19.00 pesos por unidad",
-      "Description": "Al inicio de la jornada el dólar estadounidense le ganó unos centavos al peso mexicano",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-8-de-octubre-el-peso-mantiene-estabilidad-aunque-no-baja-de-los-1900-pesos",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/08/dolar_1.jpg",
-      "PublishedAt": "2024-10-08T13:39:20Z",
-      "Content": "Este martes 8 de octubre de 2024 el dólar se cotiza en $19.32 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió ligeramente terreno frente a la divisa estadounidense, toma… [+810 chars]"
     }
   ]
 }
