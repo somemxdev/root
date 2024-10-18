@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de octubre",
+      "Description": "Este jueves 17 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,405. A continuación, la cotización del …",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-octubre-nid17102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-17T15:25:51Z",
+      "Content": "Este jueves 17 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2865 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/08/dolar_1.jpg",
       "PublishedAt": "2024-10-08T13:39:20Z",
       "Content": "Este martes 8 de octubre de 2024 el dólar se cotiza en $19.32 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió ligeramente terreno frente a la divisa estadounidense, toma… [+810 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY martes 8 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 8 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con una perdida del 0.01 por ciento, según datos de Bloomberg.El peso mexicano se depreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2024-10-08T10:58:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 8 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con una perdida del 0.01 por… [+857 chars]"
     }
   ]
 }
