@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ZyCrypto"
+      },
+      "Author": "Guest Author",
+      "Title": "DTX Exchange (DTX) Outshines PEPE And BNB: Could This Be The Next Multi-Million Dollar Token?",
+      "Description": "As the cryptocurrency market records notable fluctuations, DTX Exchange (DTX) has emerged as a dominant contender, positioning itself as a potential multi-million dollar token. With a presale rapidly collecting over $4.7 million, DTX has attracted holders see…",
+      "Url": "https://zycrypto.com/dtx-exchange-dtx-outshines-pepe-and-bnb-could-this-be-the-next-multi-million-dollar-token/",
+      "UrlToImage": "https://zycrypto.com/wp-content/uploads/2024/10/DTX-Exchange-DTX-Outshines-PEPE-And-BNB-Could-This-Be-The-Next-Multi-Million-Dollar-Token.jpg",
+      "PublishedAt": "2024-10-17T18:37:06Z",
+      "Content": "As the cryptocurrency market records notable fluctuations, DTX Exchange (DTX) has emerged as a dominant contender, positioning itself as a potential multi-million dollar token.\r\nWith a presale rapidl… [+4717 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2024-09-22T11:36:48Z",
       "Content": "Amalgamated Bank trimmed its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.0% during the second quarter, according to the company in its most recent 13F filing with the Securities an… [+6146 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Paying $27,760,000 Fine for Allegedly Placing Customers’ Access To Employment, Housing and Credit at Risk",
-      "Description": "The Consumer Financial Protection Bureau (CFPB) is accusing TD Bank of repeatedly placing its customers’ ability to access employment, housing and credit at risk. According to the US financial regulator, TD Bank systematically shared “inaccurate, negative inf…",
-      "Url": "https://dailyhodl.com/2024/09/21/billion-dollar-bank-paying-27760000-fine-for-allegedly-placing-customers-access-to-employment-housing-and-credit-at-risk/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/banker-dollar-cash.jpg",
-      "PublishedAt": "2024-09-21T19:31:03Z",
-      "Content": "The Consumer Financial Protection Bureau (CFPB) is accusing TD Bank of repeatedly placing its customers ability to access employment, housing and credit at risk.\r\nAccording to the US financial regula… [+2612 chars]"
     }
   ]
 }
