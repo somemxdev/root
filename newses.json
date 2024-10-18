@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cae y rompe barrera de 20 unidades por dólar; BMV también retrocede",
+      "Description": "Forbes México.\n Peso cae y rompe barrera de 20 unidades por dólar; BMV también retrocede\n\nEl peso cotizaba en 19.9710 unidades, con una pérdida de 0.61%, aunque poco antes llegó a debilitarse hasta 20.0310, un nivel no visto desde el 11 de septiembre, también…",
+      "Url": "https://forbes.com.mx/peso-cae-y-rompe-barrera-de-20-unidades-por-dolar-bmv-tambien-retrocede/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
+      "PublishedAt": "2024-10-17T14:32:08Z",
+      "Content": "El peso se depreciaba este jueves por cuarta jornada consecutiva, desafiando la barrera de 20 unidades por dólar, mientras los inversionistas asimilaban una serie de datos mixtos de la economía estad… [+1679 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 17 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 17 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.98 pesos por unidad, con un fortalecimiento del 0.51 por ciento, según datos de Bloomberg.El peso mexicano se…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-17T11:00:51Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 17 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.98 pesos por unidad, con un fortalecimiento del 0… [+905 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Liga el peso tres caídas y se acerca a 20 por dólar",
+      "Description": "Una mayor probabilidad de triunfo de Donald Trump en las elecciones de Estados Unidos, según los mercados de apuestas, así como sus recientes declaraciones defendiendo el incremento de aranceles, llevaron al peso a las puertas de los 20 pesos por dólar.",
+      "Url": "https://www.jornada.com.mx/2024/10/17/economia/022n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-10-17T10:24:36Z",
+      "Content": "Periódico La JornadaJueves 17 de octubre de 2024, p. 22\r\nUna mayor probabilidad de triunfo de Donald Trump en las elecciones de Estados Unidos, según los mercados de apuestas, así como sus recientes … [+2803 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Efecto Trump: el peso ‘araña’ las 20 unidades por dólar",
+      "Description": "Forbes México.\n Efecto Trump: el peso ‘araña’ las 20 unidades por dólar\n\nLa moneda hila tres sesiones con pérdidas y durante la sesión se debilita a niveles no vistos desde el 11 de septiembre; la expectativa de que la Fed será cautelosa para seguir recortand…",
+      "Url": "https://forbes.com.mx/efecto-trump-el-peso-arana-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
+      "PublishedAt": "2024-10-17T00:20:32Z",
+      "Content": "El peso se debilitó durante la sesión de este miércoles a niveles no vistos desde mediados de septiembre y terminó la jornada cerca de los 20 pesos.\r\nEl retroceso de la moneda nacional se dio ante un… [+3829 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -340,58 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2024-10-08T10:58:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 8 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con una perdida del 0.01 por… [+857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano cae frente al dólar en espera de datos de inflación",
-      "Description": "El peso mexicano se depreció con0.19 por ciento, este lunes 07 de septiembre de 2024, culminando en19.29 unidades por dólar.En medio de la cautela de los inversionistas; se enfrentan a una semana cargada de datos entre los que destacan cifras de inflación a n…",
-      "Url": "https://www.milenio.com/negocios/dolar-cierre-peso-cotiza-19-29-07-septiembre-2024",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2024-10-07T20:47:35Z",
-      "Content": "El peso mexicano se depreció con 0.19 por ciento, este lunes 07 de septiembre de 2024, culminando en 19.29 unidades por dólar. \r\nEn medio de la cautela de los inversionistas; los mercados mexicanos s… [+1073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso pierde ante el dólar previo a dato de inflación de septiembre: ¿En cuánto se cotiza?",
-      "Description": "El peso mexicano viene de una semana 'estelar' en la que se apreció más de 2%, y la mayoría de esa ganancia vino después de la toma de protesta de la presidenta Claudia Sheinbaum.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QUIRYFM2MFFWHIC4J3P53JBRKE.jpg?smart=true&auth=3c5002cbeb4ded49c97897455f47dd48db9cb478d8de853157c9f8260f1ad887&width=1200&height=630",
-      "PublishedAt": "2024-10-07T17:14:52Z",
-      "Content": "El peso mexicano inicia la segunda semana de octubre con leves pérdidas frente al dólar, luego de una semana con una sólida apreciación de 2.19 por ciento.\r\nLa depreciación del peso mexicano ante el … [+1859 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 7 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 7 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-7-de-octubre-nid07102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-07T14:29:37Z",
-      "Content": "Este lunes 7 de octubre, el precio del dólar en México es de $19,2127, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+3111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "\"Precio del dólar hoy, 7 de octubre de 2024: El peso se mantiene fuerte\"",
-      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-7-de-octubre-de-2024-el-peso-se-mantiene-fuerte",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/07/proyecto_nuevo_-_2024-10-07t074133.284.jpg",
-      "PublishedAt": "2024-10-07T13:53:41Z",
-      "Content": "El dólar inició operaciones a 19.3499 pesos, registrando un aumento del 0.48%. El viernes 4 de octubre, el peso mexicano tuvo uno de sus mejores desempeños al apreciarse frente al dólar, cerrando en … [+1158 chars]"
     }
   ]
 }
