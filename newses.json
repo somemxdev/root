@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso corta racha negativa y cierra en 19.88 por dólar",
+      "Description": "La moneda mexicana rompió con la racha de tres sesiones de pérdidas frente a la divisa estadunidense, al registrar una apreciación diaria de 0.30 por ciento, para cerrar en los 19.8807 pesos por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/10/18/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-10-18T08:27:57Z",
+      "Content": "Periódico La JornadaViernes 18 de octubre de 2024, p. 19\r\nLa moneda mexicana rompió con la racha de tres sesiones de pérdidas frente a la divisa estadunidense, al registrar una apreciación diaria de … [+3368 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/7XVELYEMNNAY5DGQUUI5PRXJMI.jpg?smart=true&auth=b70e1f068655c72b515439c3069cb15328be17949710839aec5f51d2bb58a745&width=1200&height=630",
       "PublishedAt": "2024-10-08T16:48:28Z",
       "Content": "El peso mexicano cae frente al dólar en las operaciones de este martes ante la posibilidad de que la Reserva Federal se guarde su tijera en las próximas reuniones y sea más cautelosa con la tasa de i… [+2118 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 8 de octubre",
-      "Description": "Consulta aquí el valor del dólar frente al peso mexicano este martes 8 de octubre de 2024, junto con un resumen completo de la situación económica en México y su impacto en la cotización de la divisa.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-8-de-octubre-nid08102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-08T14:51:20Z",
-      "Content": "Este martes 8 de octubre, el precio del dólar en México es de $19,3388, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2395 chars]"
     }
   ]
 }
