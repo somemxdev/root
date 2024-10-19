@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Mercados tienen ‘antojo’ por el peso: ¿Cuánto se aprecia este viernes ante el dólar?",
+      "Description": "El apetito por los activos de riesgo comenzó desde que el Banco Central de China anunció nuevas medidas para reactivar la segunda economía más grande del mundo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/18/mercados-tienen-antojo-por-el-peso-cuanto-se-aprecia-este-viernes-ante-el-dolar/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/UGXQOK3PGNGERJKVAN5KTOZMWI.jpg?smart=true&auth=458701a749a368eb04740bc211ea1548e18c5ef02d2cda297b21d8cbacba0b63&width=1200&height=630",
+      "PublishedAt": "2024-10-18T16:37:49Z",
+      "Content": "El peso mexicano inicia este viernes 18 de octubre con avances frente al dólar gracias a un mayor apetito por activos de riesgo a nivel global.\r\nLa apreciación del peso mexicano es de 0.06 por ciento… [+1625 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-10-09T22:33:44Z",
       "Content": "El peso retrocedió este miércoles tras un fortalecimiento del dólar, derivado de la expectativa de que la Reserva Federal de Estados Unidos será cautelosa para seguir ajustando su tasa de interés de … [+3460 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central sorprende al mercado y ya lleva comprados US$551 millones en el mes",
-      "Description": "La entidad se quedó hoy con otros US$120 millones por intervenciones sobre el mercado cambiario, el segundo mayor monto que consigue por esta vía en lo que va del mes",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-sorprende-al-mercado-y-ya-lleva-comprados-us551-millones-en-el-mes-nid09102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-perfomance-compradora-en-lo-que-va-del-mes-del-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-09T21:42:21Z",
-      "Content": "La racha compradora de reservas que, casi sin pausa lleva adelante el Banco Central (BCRA) desde mediados de septiembre en adelante, prosiguió hoy al quedarse la entidad con otros US$120 millones por… [+3458 chars]"
     }
   ]
 }
