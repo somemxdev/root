@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de octubre",
+      "Description": "Consulta el valor del dólar frente al peso mexicano hoy, viernes 18 de octubre de 2024. Accede a un resumen completo sobre la situación económica en México y el tipo de cambio actual de la divisa.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-octubre-nid18102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-18T14:02:16Z",
+      "Content": "Este viernes 18 de octubre, el precio del dólar en México es de $19,9313, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2657 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-perfomance-compradora-en-lo-que-va-del-mes-del-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-09T21:42:21Z",
       "Content": "La racha compradora de reservas que, casi sin pausa lleva adelante el Banco Central (BCRA) desde mediados de septiembre en adelante, prosiguió hoy al quedarse la entidad con otros US$120 millones por… [+3458 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 9 de octubre de 2024",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 9 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-9-de-octubre-de-2024-nid09102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-09T14:09:22Z",
-      "Content": "Este miércoles 9 de octubre, el precio del dólar en México es de $19,3532, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2451 chars]"
     }
   ]
 }
