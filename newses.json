@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar abre a la baja tras decisión de tasas del Banco Central y por una recuperación del cobre",
+      "Description": "El metal rojo subía en los mercados internacionales ante nuevos movimientos de China para recuperar su economía e inversión interna.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bm88t",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241018/imag/foto_0000001120241018083737/DolarBBG.jpg",
+      "PublishedAt": "2024-10-18T11:50:00Z",
+      "Content": "El precio del dólar en Chile comenzó su jornada de viernes a la baja, tras un recorte de tasas del Banco Central que estuvo dentro de lo esperado por el mercado y tras una recuperación del cobre en l… [+1778 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 18 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 18 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.68 pesos por unidad, con un pérdida del 0.79 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-18T11:30:31Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 18 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.68 pesos por unidad, con un pérdida del 0.79 po… [+861 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-09T14:09:22Z",
       "Content": "Este miércoles 9 de octubre, el precio del dólar en México es de $19,3532, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2451 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 9 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 9 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.33 pesos por unidad, con un fortalecimiento del 0.10 por ciento, según datos de Bloomberg.El peso mexicano …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-10-09T11:03:07Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 9 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.33 pesos por unidad, con un fortalecimiento de… [+835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "‘Cautela’ de la Fed afecta al peso: ¿Cuánto pierde ante el dólar este martes?",
-      "Description": "Los nuevos datos de la economía de EU, que fueron positivos, aumentaron el sentimiento del mercado de que la Fed no recortará su tasa en las próximas reuniones del año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/7XVELYEMNNAY5DGQUUI5PRXJMI.jpg?smart=true&auth=b70e1f068655c72b515439c3069cb15328be17949710839aec5f51d2bb58a745&width=1200&height=630",
-      "PublishedAt": "2024-10-08T16:48:28Z",
-      "Content": "El peso mexicano cae frente al dólar en las operaciones de este martes ante la posibilidad de que la Reserva Federal se guarde su tijera en las próximas reuniones y sea más cautelosa con la tasa de i… [+2118 chars]"
     }
   ]
 }
