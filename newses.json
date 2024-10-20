@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 19 de octubre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de octubre el tipo de cambio interbancario, se ubica en 19.87 pesos por unidad, con una ganancia del 0.18 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose aprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-10-19T12:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de octubre el tipo de cambio interbancario, se ubica en 19.87 pesos por unidad, con una ganancia del 0.18 por cie… [+1467 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-10-10T11:07:00Z",
       "Content": "Si te preguntas a cuánto está eldólar HOYjueves 10 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.47 pesos por unidad, con una pérdida del 0.10 por … [+936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede 0.76% tras fortalecimiento del dólar",
-      "Description": "Forbes México.\n Peso retrocede 0.76% tras fortalecimiento del dólar\n\nMinutas de la Fed generan la expectativa de que el banco central de EU será cauteloso para seguir ajustando su tasa.\nPeso retrocede 0.76% tras fortalecimiento del dólar\nForbes Staff",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-0-76-tras-fortalecimiento-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-10-09T22:33:44Z",
-      "Content": "El peso retrocedió este miércoles tras un fortalecimiento del dólar, derivado de la expectativa de que la Reserva Federal de Estados Unidos será cautelosa para seguir ajustando su tasa de interés de … [+3460 chars]"
     }
   ]
 }
