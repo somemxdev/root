@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es la moneda de un dólar que podría valer hasta US$15 millones: cómo reconocerla",
+      "Description": "Una moneda de un dólar podría valer hasta 15 millones de dólares. Con solo 140 ejemplares conocidos, una de ellas se vendió por 10 millones el año pasado, y su valor sigue en aumento. Descubre cómo reconocer esta codiciada pieza.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-moneda-de-un-dolar-que-podria-valer-hasta-us15-millones-como-reconocerla-nid19102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-un-dolar-podria-valer-varios-O4P2MIRCHFGTVHQV3LZMVRM2AM.jpg?auth=dd49a76a365c7e8899d45097f4ed77c06628fac17dcc7e65ea3ce8df0ea7c5da&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-19T20:54:00Z",
+      "Content": "Las monedas de un dólar, algo cotidiano, pueden tener un valor increíblemente alto para los coleccionistas. Algunas de ellas, debido a su rareza, historia o características especiales de acuñación, p… [+1912 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-10T16:15:51Z",
       "Content": "Este jueves 10 de octubre, el precio del dólar en México es de $19,4175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2483 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 10 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 10 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.47 pesos por unidad, con una pérdida del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-10T11:07:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOYjueves 10 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.47 pesos por unidad, con una pérdida del 0.10 por … [+936 chars]"
     }
   ]
 }
