@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 21 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 21 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-21-de-octubre-nid21102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-21T14:31:00Z",
+      "Content": "Este lunes 21 de octubre, el precio del dólar en México es de $19,9313, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2130 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-11T13:18:00Z",
       "Content": "Este viernes 11 de octubre, el precio del dólar en México es de $19,5113, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2114 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "MaKaNaS",
-      "Title": "Nigeria se aleja del dólar estadounidense y ahora vende petróleo crudo en naira (moneda nigeriana)",
-      "Description": "Nigeria, el mayor productor de petróleo de África, ha dejado oficialmente de vender crudo en dólares estadounidenses. El Consejo Ejecutivo Federal (CEF) ha tomado la decisión estratégica de vender su crudo en nairas, lo que marca un cambio significativo para …",
-      "Url": "https://www.meneame.net/m/mnm/nigeria-aleja-dolar-estadounidense-ahora-vende-petroleo-crudo",
-      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
-      "PublishedAt": "2024-10-10T19:44:36Z",
-      "Content": "#1 Ya se pueden dar prisa, ahora mismo es el sexto país más poblado pero su crecimiento hasta el 2050 sólo se ve superado por la India."
     }
   ]
 }
