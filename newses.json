@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Héctor Cruz",
+      "Title": "Peso cae y desafía barrera de 20 unidades por dólar ante posible victoria de Trump; BMV pierde",
+      "Description": "Forbes México.\n Peso cae y desafía barrera de 20 unidades por dólar ante posible victoria de Trump; BMV pierde\n\nEl peso cotizaba en 19.9963 unidades, con un retroceso de un 0.74% frente al precio de referencia de Reuters del viernes, cuando anotó su peor dese…",
+      "Url": "https://forbes.com.mx/peso-cae-y-desafia-barrera-de-20-unidades-por-dolar-ante-posible-victoria-de-trump-bmv-pierde/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-10-21T21:56:34Z",
+      "Content": "El peso se depreció este lunes desafiando la barrera de 20 unidades, ante un avance global del dólar en medio de crecientes apuestas a una victoria de Donald Trump en las elecciones presidenciales en… [+1997 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QYKKG2QBYJCKNP7U5GILXM2WNY.jpg?smart=true&auth=92869627aa3f20568f01c177206ab34f2a0e8ee8f762e471006a4d098cb58f56&width=1200&height=630",
       "PublishedAt": "2024-10-11T16:15:07Z",
       "Content": "El peso mexicano por fin da una en la semana y arranca con ganancias ante el dólar este viernes, al tiempo que los inversionistas asimilan los datos de inflación al productor para la economía estadou… [+1763 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 11 de octubre de 2024: Peso gana en apertura tras dato de inflación en EU",
-      "Description": "El dólar HOY 11 de octubre de 2024 se frenaba cerca de máximos de dos meses, mientras los operadores digieren los últimos datos de inflacióny empleo, en una sesión en la que el aumento del crecimiento económico británico no lograba sacar a la libra esterlina …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-11T13:41:00Z",
-      "Content": "El dólar HOY 11 de octubre de 2024 se frenaba cerca de máximos de dos meses, mientras los operadores digieren los últimos datos de inflación y empleo, en una sesión en la que el aumento del crecimien… [+879 chars]"
     }
   ]
 }
