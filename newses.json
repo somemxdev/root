@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY lunes 21 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 21 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.97 pesos por unidad, con un fortalecimiento del 0.48 por ciento, según datos de Bloomberg.El peso mexicano se …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2024-10-21T11:06:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 21 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.97 pesos por unidad, con un fortalecimiento del 0… [+914 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-10-10T19:44:36Z",
       "Content": "#1 Ya se pueden dar prisa, ahora mismo es el sexto país más poblado pero su crecimiento hasta el 2050 sólo se ve superado por la India."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Dato de inflación en EU ‘ni le hace cosquillas’ al peso: ¿Cómo cotiza hoy ante el dólar?",
-      "Description": "El comportamiento del tipo de cambio responde a los datos de inflación tanto de Estados Unidos como de México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/10/peso-dolar-precio-hoy-10-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/L6OZM3RO6BHS7PZC4NWZXGK3AE.jpg?smart=true&auth=e9deb0c906c54514ae2831a9de90bea8c29234612d2a7baa3c2dc797952e38c2&width=1200&height=630",
-      "PublishedAt": "2024-10-10T16:27:25Z",
-      "Content": "El peso mexicano está tablas, pero puede llegar a ligar su cuarta jornada con depreciación frente al dólar mientras los mercados reaccionan al dato de inflación en Estados Unidos durante septiembre.\r… [+1879 chars]"
     }
   ]
 }
