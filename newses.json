@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "redaccion@bolsamania.com (Carlos Suárez)",
+      "Title": "El euro se debilita frente al dólar. ¿Cuáles son las expectativas para el cuarto trimestre?",
+      "Description": "Tras el repunte experimentado entre abril y septiembre, que le llevó de los 1,06 a los 1,12, el euro se está volviendo a debilitar frente al dólar, cotizando actualmente por debajo de la cota de la cota de los 1,09.",
+      "Url": "https://www.bolsamania.com/noticias/mercados/el-euro-debilita-frente-dolar-cuales-son-expectativas-para-cuarto-trimestre--17729328.html",
+      "UrlToImage": "https://img5.s3wfg.com/web/img/images_uploaded/6/e/ep_euro_dolar_portada.jpg",
+      "PublishedAt": "2024-10-21T04:00:00Z",
+      "Content": "Tras el repunte experimentado entre abril y septiembre, que le llevó de los 1,06 a los 1,12, el euro se está volviendo a debilitar frente al dólar, cotizando actualmente por debajo de la cota de la c… [+2783 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/L6OZM3RO6BHS7PZC4NWZXGK3AE.jpg?smart=true&auth=e9deb0c906c54514ae2831a9de90bea8c29234612d2a7baa3c2dc797952e38c2&width=1200&height=630",
       "PublishedAt": "2024-10-10T16:27:25Z",
       "Content": "El peso mexicano está tablas, pero puede llegar a ligar su cuarta jornada con depreciación frente al dólar mientras los mercados reaccionan al dato de inflación en Estados Unidos durante septiembre.\r… [+1879 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 10 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 10 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-10-de-octubre-nid10102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-10T16:15:51Z",
-      "Content": "Este jueves 10 de octubre, el precio del dólar en México es de $19,4175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2483 chars]"
     }
   ]
 }
