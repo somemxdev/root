@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY martes 22 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.95 pesos por unidad, con una perdida del 0.14 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2024-10-22T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.95 pesos por unidad, con una perdida del 0.14 po… [+871 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/05/peso-ubicaba-monedas-depreciadas-jornada.jpg",
       "PublishedAt": "2024-10-12T00:35:33Z",
       "Content": "El peso mexicano se fortaleció este viernes 11 de octubre con una ganancia del 0.9 por ciento, cerrando la semana en 19.27 unidades por dólar.\r\nEsto ocurrió durante un una jornada en que la moneda es… [+1824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Peso le ‘dará la vuelta’ al dólar en la semana? Abre en las 19.43 unidades",
-      "Description": "Las presiones recientes en la inflación subyacente en EU ayudaron al peso mexicano a apreciarse ante el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/11/peso-dolar-precio-hoy-11-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QYKKG2QBYJCKNP7U5GILXM2WNY.jpg?smart=true&auth=92869627aa3f20568f01c177206ab34f2a0e8ee8f762e471006a4d098cb58f56&width=1200&height=630",
-      "PublishedAt": "2024-10-11T16:15:07Z",
-      "Content": "El peso mexicano por fin da una en la semana y arranca con ganancias ante el dólar este viernes, al tiempo que los inversionistas asimilan los datos de inflación al productor para la economía estadou… [+1763 chars]"
     }
   ]
 }
