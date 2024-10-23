@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le echa ganas’ y recorta pérdidas ante el dólar: ¿En cuánto se cotiza este martes?",
+      "Description": "Especialistas de CIBanco afirmaron que el tipo de cambio puede ubicarse por debajo del piso de las 19.80 unidades durante este martes 22 de octubre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/22/peso-dolar-precio-hoy-22-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VRUNSQDDH5EYZCQU3AAYZT5DZQ.jpg?smart=true&auth=891fb3b47837bb2cda70c4f89a746a54b39fb85ff68f93389093ecddea320fa9&width=1200&height=630",
+      "PublishedAt": "2024-10-22T16:31:37Z",
+      "Content": "El peso mexicano rebota este martes ante el dólar después de que el tipo de cambio rozó' las 20 unidades en la jornada anterior.\r\nLa apreciación del peso mexicano es de 0.43 por ciento ante el dólar,… [+2082 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano frena su caída; baja de 20 pesos por dólar",
+      "Description": "La moneda nacional llegó a debilitarse el lunes hasta 20.07 unidades, un nivel no visto desde el 11 de septiembre.",
+      "Url": "https://aristeguinoticias.com/2210/dinero-y-economia/peso-mexicano-frena-su-caida-baja-de-20-pesos-por-dolar/?fbclid=IwZXh0bgNhZW0CMTEAAR1BcIMIxLDUFLiXFOnV0s82jjC-etl4tkmdbQEMrxmpri-dVngLmKawsEA_aem_JNTe0bglw8q1sHaznhZBJQ",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/10/peso-dolar-tipo-cambio-moneda-221024.jpg",
+      "PublishedAt": "2024-10-22T16:14:08Z",
+      "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano se apreciaba el martes después de dos jornadas de pérdidas que lo llevaron a cruzar en la víspera la barrera de 20 unidades, mient… [+1300 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero04.webp",
       "PublishedAt": "2024-10-14T22:34:28Z",
       "Content": "El peso se depreció este lunes ante un avance global del dólar por la expectativa de que la Reserva Federal moderará futuros recortes a su tasa de interés, mientras que la Bolsa Mexicana de Valores c… [+1719 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Baja liquidez ‘drena’ al peso: ¿Cuánto pierde ante el dólar este lunes?",
-      "Description": "Especialistas apuntan a que el dólar gana ante el peso este lunes ante la perspectiva de que la economía de EU siga desempeñándose mejor de lo esperado.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/14/peso-dolar-precio-hoy-14-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/TNJ6WN3PTFEHDDCX77ADYRIO3U.jpg?smart=true&auth=c647d1308989512d4c1b8c937559c2739a10feefe6c75876992c360e5cfa4c08&width=1200&height=630",
-      "PublishedAt": "2024-10-14T15:38:46Z",
-      "Content": "El peso mexicano opera en terreno de pérdidas ante el dólar durante este lunes 14 de octubre debido a un bajo nivel de liquidez, ante la ausencia de operaciones en el mercado de bonos estadounidense … [+1621 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 14 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 14 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-14-de-octubre-nid14102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-14T14:20:18Z",
-      "Content": "Este lunes 14 de octubre, el precio del dólar en México es de $19,3983, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2175 chars]"
     }
   ]
 }
