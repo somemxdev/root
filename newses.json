@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana tras desafiar la barrera de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso gana tras desafiar la barrera de las 20 unidades por dólar\n\nEl peso cotizaba en 19.7962 por dólar, con una ganancia de 0.86% frente al precio de referencia de Reuters del lunes, cuando llegó a debilitarse hasta 20.0740 unidades, un nivel …",
+      "Url": "https://forbes.com.mx/peso-gana-tras-desafiar-la-barrera-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1936.jpg",
+      "PublishedAt": "2024-10-22T14:10:18Z",
+      "Content": "El peso se apreciaba este martes después de dos jornadas de pérdidas que lo llevaron a cruzar en la víspera la barrera de 20 unidades, mientras los inversionistas asimilaban un débil reporte de la ac… [+743 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-14T14:20:18Z",
       "Content": "Este lunes 14 de octubre, el precio del dólar en México es de $19,3983, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2175 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 14 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 14 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.26 pesos por unidad, con un fortalecimiento del 0.68 por ciento, según datos de Bloomberg.El peso mexicano se…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-14T11:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 14 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.26 pesos por unidad, con un fortalecimiento del 0… [+946 chars]"
     }
   ]
 }
