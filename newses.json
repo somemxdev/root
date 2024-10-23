@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El error en la moneda de un dólar con el rostro de Eisenhower que hace que valga US$20.000: cómo identificarla",
+      "Description": "Una falla durante el proceso de acuñación la convirtió en una pieza única y altamente valorada en las plataformas de subastas; el ejemplar data de 1973 y despierta gran interés",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-error-en-la-moneda-de-un-dolar-con-el-rostro-de-eisenhower-que-hace-que-valga-us20000-como-nid22102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-extrano-error-de-esta-moneda-que-multiplico-su-YALHECWSTRGHLDW2EXIPIPXOQM.jpg?auth=655b454a0ca1519a3b4128e1c5317d1603f955906a4bb93fbc10b4d94728dae8&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-22T21:31:14Z",
+      "Content": "Lasmonedas, ya sea en circulación o antiguas, tienen el potencial de alcanzar precios elevados en el mercado de subastas, especialmente cuando presentan errores únicos que las convierten en ejemplare… [+4241 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso ‘respira’ y se aleja un poco del nivel de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso ‘respira’ y se aleja un poco del nivel de las 20 unidades por dólar\n\nLa moneda se aprecia 0.14% en medio de un alza de petroprecios, la debilidad del dólar y una menor volatilidad por factores políticos en México y en EU, según analistas.…",
+      "Url": "https://forbes.com.mx/peso-respira-y-se-aleja-un-poco-del-nivel-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-10-22T21:25:28Z",
+      "Content": "El tipo de cambio cerró la sesión de este martes en 19.9478 pesos por dólar, una apreciación de 0.14% para la moneda mexicana respecto al cierre previo, de acuerdo con datos de Banxico.\r\nLuego de dos… [+1984 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-martes-15-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-15T14:35:29Z",
       "Content": "© Copyright 2024 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ.Queda prohibida la reproducción… [+36 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 15 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY martes 15 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.45 pesos por unidad, con un fortalecimiento del 0.38 por ciento, según datos de Bloomberg.El peso mexicano s…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2024-10-15T11:06:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 15 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.45 pesos por unidad, con un fortalecimiento del … [+951 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se debilita ante fortalecimiento del dólar por expectativa sobre tasa en EU",
-      "Description": "Forbes México.\n Peso se debilita ante fortalecimiento del dólar por expectativa sobre tasa en EU\n\nLa revalorización del dólar también se da luego de los anuncios de estímulo de China, que inversionistas consideraron decepcionantes.\nPeso se debilita ante forta…",
-      "Url": "https://forbes.com.mx/peso-se-debilita-ante-fortalecimiento-del-dolar-por-expectativa-sobre-tasa-en-eu/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero04.webp",
-      "PublishedAt": "2024-10-14T22:34:28Z",
-      "Content": "El peso se depreció este lunes ante un avance global del dólar por la expectativa de que la Reserva Federal moderará futuros recortes a su tasa de interés, mientras que la Bolsa Mexicana de Valores c… [+1719 chars]"
     }
   ]
 }
