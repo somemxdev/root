@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del dólar 22 de octubre: El peso mexicano muestra una leve reacción",
+      "Description": "Este día la cotización del dólar arrancó la jornada por debajo de los $20.00 pesos",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-22-de-octubre-el-peso-mexicano-muestra-una-leve-reaccion",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/22/dolar_1.jpg",
+      "PublishedAt": "2024-10-22T13:45:40Z",
+      "Content": "Este martes 22 de octubrede 2024 el dólar se cotiza en $19.81 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó significativamente terreno frente a la divisa estadounidense,… [+807 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 22 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 22 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-22-de-octubre-nid22102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-22T13:42:35Z",
+      "Content": "Este martes 22 de octubre, el precio del dólar en México es de $20,0075, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2542 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-10-14T11:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 14 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.26 pesos por unidad, con un fortalecimiento del 0… [+946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 12 de octubre 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 12 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.93 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se aprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-10-12T12:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 12 de octubre el tipo de cambio interbancario, se ubica en 19.28 pesos por unidad, con una pérdida del 0.93 por cien… [+1035 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "El peso mexicano y la BMV se fortalecen ante la debilidad del dólar",
-      "Description": "El peso mexicano se fortaleció este viernes 11 de octubre con una ganancia del 0.9 por ciento, cerrando la semana en 19.27 unidades por dólar.Esto ocurrió durante un una jornada en que la moneda estadunidense se debilitó levemente por las expectativas de que …",
-      "Url": "https://www.milenio.com/negocios/dolar-cierre-peso-cotiza-19-27-11-octubre-2024",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/05/peso-ubicaba-monedas-depreciadas-jornada.jpg",
-      "PublishedAt": "2024-10-12T00:35:33Z",
-      "Content": "El peso mexicano se fortaleció este viernes 11 de octubre con una ganancia del 0.9 por ciento, cerrando la semana en 19.27 unidades por dólar.\r\nEsto ocurrió durante un una jornada en que la moneda es… [+1824 chars]"
     }
   ]
 }
