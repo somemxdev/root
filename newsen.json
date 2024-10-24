@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
+      "Description": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
+      "Url": "https://www.investing.com/news/economy-news/south-korean-finance-minister-views-dollarwon-near-1400-as-new-normal-yonhap-reports-3676748",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+      "PublishedAt": "2024-10-23T08:10:36Z",
+      "Content": "SEOUL (Reuters) - South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the fi… [+1053 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
+      "Description": "SEOUL : South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the finance ministry later denied the minister made the remark. Choi Sang-mo…",
+      "Url": "https://www.channelnewsasia.com/business/south-korean-finance-minister-views-dollar-won-near-1400-new-normal-yonhap-reports-4696756",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--3BJ7jMZE--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-10-23t080921z_1_lynxmpek9m09a_rtroptp_3_imf-worldbank-trilateral.jpg?itok=oU5QVTxD",
+      "PublishedAt": "2024-10-23T08:09:21Z",
+      "Content": "SEOUL : South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the finance mini… [+1051 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-27T05:55:32Z",
       "Content": "Thursday, September 26, 2024\r\nFor Immediate ReleaseOffice of Public Affairs\r\nJustice Department Seizes Web Domains for Multiple Illicit Crypto Exchanges\r\nThe Justice Department today announced action… [+9333 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Kelly Burch",
-      "Title": "I had $1 million in the bank at 36. When I turned 40, I vowed to pursue my passions instead of running a billion-dollar company.",
-      "Description": "George Appling went from being a CEO to pursuing his passions. At 40, he was determined to live his life authentically.",
-      "Url": "https://www.businessinsider.com/left-ceo-job-pursue-passion-career-change-2024-9",
-      "UrlToImage": "https://i.insider.com/66f31471ce3009a0fac91a8d?width=1200&format=jpeg",
-      "PublishedAt": "2024-09-25T00:16:02Z",
-      "Content": "George Appling decided to pursue his passions and now runs a medieval fair.Courtesy of George Appling\r\n<ul><li>George Appling was a business consultant, then executive at major global companies.</li>… [+4288 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Phys.Org"
-      },
-      "Author": "Micaela Morrissette",
-      "Title": "Colleges barred from offering money to student-athletes are offering them multimillion-dollar coaches instead",
-      "Description": "West Virginia University research has revealed that college football coaches' paychecks influence the quality of the players they're able to recruit.",
-      "Url": "https://phys.org/news/2024-09-colleges-barred-money-student-athletes.html",
-      "UrlToImage": "https://scx2.b-cdn.net/gfx/news/2024/wvu-researchers-say-co.jpg",
-      "PublishedAt": "2024-09-23T21:02:03Z",
-      "Content": "West Virginia University research has revealed that college football coaches' paychecks influence the quality of the players they're able to recruit.\r\n\"College footballcoach salaries at big-time prog… [+5029 chars]"
     }
   ]
 }
