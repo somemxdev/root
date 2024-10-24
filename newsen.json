@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://scx2.b-cdn.net/gfx/news/2024/wvu-researchers-say-co.jpg",
       "PublishedAt": "2024-09-23T21:02:03Z",
       "Content": "West Virginia University research has revealed that college football coaches' paychecks influence the quality of the players they're able to recruit.\r\n\"College footballcoach salaries at big-time prog… [+5029 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apollo to Offer Multibillion-Dollar Investment in Intel - Yahoo Finance",
-      "Description": "Apollo to Offer Multibillion-Dollar Investment in IntelYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175108273",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-22T23:52:32Z",
-      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
     }
   ]
 }
