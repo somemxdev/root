@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tipo de cambio ‘escala’ a los 20 pesos por dólar: ¿Qué debilita a la moneda mexicana?",
+      "Description": "En ventanillas bancarias, el dólar se vende en 20.42 pesos, reportó Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/23/peso-dolar-precio-hoy-23-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
+      "PublishedAt": "2024-10-23T16:30:12Z",
+      "Content": "El tipo de cambio escala nuevamente hacia el techo de los 20 pesos por dólar ante una mayor fortaleza por parte de la divisa estadounidense, mientras los mercados siguen atentos a pronósticos sobre q… [+1846 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
       "PublishedAt": "2024-10-17T00:20:32Z",
       "Content": "El peso se debilitó durante la sesión de este miércoles a niveles no vistos desde mediados de septiembre y terminó la jornada cerca de los 20 pesos.\r\nEl retroceso de la moneda nacional se dio ante un… [+3829 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 16 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 16 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-16-de-octubre-nid16102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-16T14:47:23Z",
-      "Content": "Este miércoles 16 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2659 chars]"
     }
   ]
 }
