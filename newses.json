@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así debe lucir la moneda de cinco centavos de dólar para que valga más de US$32.000: el detalle que la hace única",
+      "Description": "Descubre cuáles son los detalles que hacen que una moneda de cinco centavos de dólar pueda alcanzar la sorprendente cifra de US$32.000 en el mercado de la numismática.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-debe-lucir-la-moneda-de-cinco-centavos-de-dolar-para-que-valga-mas-de-us32000-el-detalle-que-la-nid23102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-se-puede-observar-el-detalle-que-convierte-a-A3F2AQG3CRHLNPGSHXP5XNKQPU.jpg?auth=992267f7b38b7e29bb22178463ac14eaa8c40502e89268d5399ea0147896f26a&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-23T21:27:38Z",
+      "Content": "Las plataformas de subastas están llenas de sorpresas, y uno de los ejemplos más recientes esuna moneda de cinco centavos de 1949 acuñada en la Casa de la Moneda de Denver. Esta pieza se volvió un ob… [+3630 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-10-17T10:24:36Z",
       "Content": "Periódico La JornadaJueves 17 de octubre de 2024, p. 22\r\nUna mayor probabilidad de triunfo de Donald Trump en las elecciones de Estados Unidos, según los mercados de apuestas, así como sus recientes … [+2803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Efecto Trump: el peso ‘araña’ las 20 unidades por dólar",
-      "Description": "Forbes México.\n Efecto Trump: el peso ‘araña’ las 20 unidades por dólar\n\nLa moneda hila tres sesiones con pérdidas y durante la sesión se debilita a niveles no vistos desde el 11 de septiembre; la expectativa de que la Fed será cautelosa para seguir recortand…",
-      "Url": "https://forbes.com.mx/efecto-trump-el-peso-arana-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
-      "PublishedAt": "2024-10-17T00:20:32Z",
-      "Content": "El peso se debilitó durante la sesión de este miércoles a niveles no vistos desde mediados de septiembre y terminó la jornada cerca de los 20 pesos.\r\nEl retroceso de la moneda nacional se dio ante un… [+3829 chars]"
     }
   ]
 }
