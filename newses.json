@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.07 pesos por unidad, con un fortalecimiento del 0.64 por ciento, según datos de Bloomberg.El peso mexicano se…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2024-10-23T11:02:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.07 pesos por unidad, con un fortalecimiento del … [+906 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-10-16T10:48:12Z",
       "Content": "Periódico La JornadaMiércoles 16 de octubre de 2024, p. 24\r\nEn medio de una caída de los precios del petróleo hasta de 4 por ciento y en medio de una mayor aversión al riesgo sobre el país, el tipo d… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 15 de octubre",
-      "Description": "Para los turistas que visitan el país, es importante señalar que la cotización del dólar en casas de cambio del Aeropuerto Internacional Benito Juárez de Ciudad de México, este martes 15 de octubre, se reporta en rangos de $19,29 para la venta.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-15-de-octubre-nid15102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-martes-15-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-15T14:35:29Z",
-      "Content": "© Copyright 2024 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ.Queda prohibida la reproducción… [+36 chars]"
     }
   ]
 }
