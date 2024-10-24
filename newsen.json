@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar Up, Stocks Fluctuate as Fed Path in Focus: Markets Wrap - Yahoo Finance",
+      "Description": "Dollar Up, Stocks Fluctuate as Fed Path in Focus: Markets WrapYahoo Finance Asian Stocks Fluctuate With Fed’s Pace in Focus: Markets WrapBloomberg Dollar hits to 2-1/2-month peak as US rates, election eyedReuters Fed outlook pushes dollar to 2-1/2 month peak;…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175306313",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-23T03:52:16Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": "abc-news-au",
