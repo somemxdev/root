@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "El ‘sube y baja’ del peso: ¿En cuánto se cotiza ante el dólar tras nuevo dato de inflación en México?",
+      "Description": "El peso mexicano inició la jornada de este jueves con pérdidas ante el dólar... para después empezar su recuperación.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/24/peso-dolar-precio-hoy-24-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q4NZI2G2YJDVVKJYHURY7OUARI.jpg?smart=true&auth=5f70aa55439f5195dbf50691003701a29f9b7c3f15bfff880fb2956777d7d5bf&width=1200&height=630",
+      "PublishedAt": "2024-10-24T16:59:31Z",
+      "Content": "El peso mexicano regresó al terreno de las pérdidas ante el dólar... para después recortar la desventaja después de que se reveló el nuevo dato de inflación en México, que mostró una nueva aceleració… [+2081 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-10-17T15:25:51Z",
       "Content": "Este jueves 17 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cae y rompe barrera de 20 unidades por dólar; BMV también retrocede",
-      "Description": "Forbes México.\n Peso cae y rompe barrera de 20 unidades por dólar; BMV también retrocede\n\nEl peso cotizaba en 19.9710 unidades, con una pérdida de 0.61%, aunque poco antes llegó a debilitarse hasta 20.0310, un nivel no visto desde el 11 de septiembre, también…",
-      "Url": "https://forbes.com.mx/peso-cae-y-rompe-barrera-de-20-unidades-por-dolar-bmv-tambien-retrocede/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
-      "PublishedAt": "2024-10-17T14:32:08Z",
-      "Content": "El peso se depreciaba este jueves por cuarta jornada consecutiva, desafiando la barrera de 20 unidades por dólar, mientras los inversionistas asimilaban una serie de datos mixtos de la economía estad… [+1679 chars]"
     }
   ]
 }
