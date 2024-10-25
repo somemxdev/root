@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 24 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 24 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-24-de-octubre-nid24102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-para-este-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-24T14:56:46Z",
+      "Content": "Este jueves 24 de octubre, el precio del dólar en México es de $19,9338, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2768 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
       "PublishedAt": "2024-10-17T14:32:08Z",
       "Content": "El peso se depreciaba este jueves por cuarta jornada consecutiva, desafiando la barrera de 20 unidades por dólar, mientras los inversionistas asimilaban una serie de datos mixtos de la economía estad… [+1679 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 17 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 17 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.98 pesos por unidad, con un fortalecimiento del 0.51 por ciento, según datos de Bloomberg.El peso mexicano se…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-17T11:00:51Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 17 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.98 pesos por unidad, con un fortalecimiento del 0… [+905 chars]"
     }
   ]
 }
