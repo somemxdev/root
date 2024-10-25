@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 24 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 24 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.78 pesos por unidad, con una perdida del 0.31 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-10-24T11:10:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 24 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.78 pesos por unidad, con una perdida del 0.31 po… [+820 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-10-17T11:00:51Z",
       "Content": "Si te preguntas a cuánto está eldólar HOY jueves 17 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.98 pesos por unidad, con un fortalecimiento del 0… [+905 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Liga el peso tres caídas y se acerca a 20 por dólar",
-      "Description": "Una mayor probabilidad de triunfo de Donald Trump en las elecciones de Estados Unidos, según los mercados de apuestas, así como sus recientes declaraciones defendiendo el incremento de aranceles, llevaron al peso a las puertas de los 20 pesos por dólar.",
-      "Url": "https://www.jornada.com.mx/2024/10/17/economia/022n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-10-17T10:24:36Z",
-      "Content": "Periódico La JornadaJueves 17 de octubre de 2024, p. 22\r\nUna mayor probabilidad de triunfo de Donald Trump en las elecciones de Estados Unidos, según los mercados de apuestas, así como sus recientes … [+2803 chars]"
     }
   ]
 }
