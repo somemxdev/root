@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central sigue de compras y muestra su mejor racha de los últimos 15 años",
+      "Description": "La entidad, que sumó hoy otros US$55 millones y sumó más de US$1000 millones en lo que va del mes, la mayor suma desde octubre del 2009",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-sigue-de-compras-y-muestra-su-mejor-racha-de-los-ultimos-15-anos-nid24102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-prolongo-hoy-su-racha-compradora-de-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-24T20:35:12Z",
+      "Content": "El Banco Central (BCRA) sumó hoy otros US$55 millones a sus reservas por medio de intervenciones sobre el mercado cambiario local y ya acopió por esta vía US$1053 millones netos al cabo de las 18 rue… [+2382 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MG22ZI2V2VD4PF62JZAQ3JH3JY.jpg?smart=true&auth=be68ce1037ab070f0ffe343521797a09a9f5fb8ecaf51ea5cf513a3473dbc426&width=1200&height=630",
       "PublishedAt": "2024-10-17T17:04:49Z",
       "Content": "El peso mexicano se perfila para ligar una cuarta jornada con pérdidas ante el dólar debido a que crece la aversión al riesgo global, lo que afecta principalmente a las monedas de mercados emergentes… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de octubre",
-      "Description": "Este jueves 17 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,405. A continuación, la cotización del …",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-octubre-nid17102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-10-17T15:25:51Z",
-      "Content": "Este jueves 17 de octubre, el precio del dólar en México es de $19,6200, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2865 chars]"
     }
   ]
 }
