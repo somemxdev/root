@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 26 de octubre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de octubre el tipo de cambio interbancario, se ubica en 19.98 pesos por unidad, con una ganancia del 0.90 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose depre…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-10-26T11:59:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de octubre el tipo de cambio interbancario, se ubica en 19.98 pesos por unidad, con una ganancia del 0.90 por cie… [+625 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Laura Piedehierro",
+      "Title": "Los BRICS+ disparan la compra de oro mientras preparan una moneda que acabe con el reinado del dólar",
+      "Description": "Rusia compró 3,11 toneladas de esta materia prima y China otras 1,87 durante el primer semestre del año. \nMás información: La cumbre de los BRICS en Rusia acaba con más ruido que nueces: \"No tienen una posición única\".",
+      "Url": "https://www.elespanol.com/invertia/mercados/materias-primas/20241026/brics-disparan-compra-oro-preparan-moneda-acabe-reinado-dolar/896160383_0.html",
+      "UrlToImage": "https://s1.elespanol.com/2024/10/25/invertia/mercados/896170392_250342245_1706x960.jpg",
+      "PublishedAt": "2024-10-26T01:04:43Z",
+      "Content": "El oro se revaloriza un 31,6% en este 2024y su precio roza ya los 2.800 dólares por onza. De entre las varias razones que explican el alza del metal precioso como la incertidumbre geopolítica o las b… [+5379 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Esta moneda de 10 centavos de dólar puede valer más de US$500.000 y revolucionar el mundo de las subastas",
+      "Description": "Descubre cómo una rara moneda de 10 centavos de dólar, oculta desde 1978, podría alcanzar un valor de más de $500,000 en la próxima subasta del 27 de octubre. Esta pieza única está revitalizando el interés por la numismática y promete revolucionar el mundo de…",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-moneda-de-10-centavos-de-dolar-puede-valer-mas-de-us500000-y-revolucionar-el-mundo-de-las-nid25102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-27-de-octubre-se-subastara-esta-pieza-que-AUQAHDIX4BFWBJHQUFUX6QBQGE.jpg?auth=60bddab1e27866e2b0fa88091b42480de8fdfd44fa8e04e2e5c7e0e357032870&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-25T17:29:34Z",
+      "Content": "En el ámbito de la numismática, el valor nominal de una moneda sirve principalmente para su identificación, pero no guarda relación con el precio que puede alcanzar en una subasta. Un claro ejemplo d… [+2900 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso tiene un viernes ‘leeento’: Tipo de cambio se ubica en 19.86 unidades por dólar",
+      "Description": "En ventanillas bancarias, el dólar se cotiza en 20.33 pesos por billete verde, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/25/peso-dolar-hoy-25-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q6CP35FLMZDBNNDZMXUJPBAKWM.jpg?smart=true&auth=1c56ae857ef198da43329ae11a686067f35b8fbb77d8b64b4e978589a3329b21&width=1200&height=630",
+      "PublishedAt": "2024-10-25T15:18:51Z",
+      "Content": "El peso mexicano arranca las operaciones de este viernes con pocos cambios, pero se ubica en terreno de pérdidas mientras los operadores esperan a ver cómo se desenvuelve el conflicto en Medio Orient… [+2042 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 25 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 25 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-25-de-octubre-nid25102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2024-10-25T15:14:27Z",
+      "Content": "Este viernes 25 de octubre, el precio del dólar en México es de $19,8385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2564 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 25 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 25 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.81 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano r…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-10-25T11:10:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 25 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.81 pesos por unidad, con un fortalecimiento del… [+880 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -314,84 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-10-19T12:01:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de octubre el tipo de cambio interbancario, se ubica en 19.87 pesos por unidad, con una ganancia del 0.18 por cie… [+1467 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Mercados tienen ‘antojo’ por el peso: ¿Cuánto se aprecia este viernes ante el dólar?",
-      "Description": "El apetito por los activos de riesgo comenzó desde que el Banco Central de China anunció nuevas medidas para reactivar la segunda economía más grande del mundo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/18/mercados-tienen-antojo-por-el-peso-cuanto-se-aprecia-este-viernes-ante-el-dolar/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/UGXQOK3PGNGERJKVAN5KTOZMWI.jpg?smart=true&auth=458701a749a368eb04740bc211ea1548e18c5ef02d2cda297b21d8cbacba0b63&width=1200&height=630",
-      "PublishedAt": "2024-10-18T16:37:49Z",
-      "Content": "El peso mexicano inicia este viernes 18 de octubre con avances frente al dólar gracias a un mayor apetito por activos de riesgo a nivel global.\r\nLa apreciación del peso mexicano es de 0.06 por ciento… [+1625 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de octubre",
-      "Description": "Consulta el valor del dólar frente al peso mexicano hoy, viernes 18 de octubre de 2024. Accede a un resumen completo sobre la situación económica en México y el tipo de cambio actual de la divisa.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-octubre-nid18102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-18T14:02:16Z",
-      "Content": "Este viernes 18 de octubre, el precio del dólar en México es de $19,9313, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar abre a la baja tras decisión de tasas del Banco Central y por una recuperación del cobre",
-      "Description": "El metal rojo subía en los mercados internacionales ante nuevos movimientos de China para recuperar su economía e inversión interna.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bm88t",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241018/imag/foto_0000001120241018083737/DolarBBG.jpg",
-      "PublishedAt": "2024-10-18T11:50:00Z",
-      "Content": "El precio del dólar en Chile comenzó su jornada de viernes a la baja, tras un recorte de tasas del Banco Central que estuvo dentro de lo esperado por el mercado y tras una recuperación del cobre en l… [+1778 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 18 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 18 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.68 pesos por unidad, con un pérdida del 0.79 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-18T11:30:31Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 18 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.68 pesos por unidad, con un pérdida del 0.79 po… [+861 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso corta racha negativa y cierra en 19.88 por dólar",
-      "Description": "La moneda mexicana rompió con la racha de tres sesiones de pérdidas frente a la divisa estadunidense, al registrar una apreciación diaria de 0.30 por ciento, para cerrar en los 19.8807 pesos por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/10/18/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-10-18T08:27:57Z",
-      "Content": "Periódico La JornadaViernes 18 de octubre de 2024, p. 19\r\nLa moneda mexicana rompió con la racha de tres sesiones de pérdidas frente a la divisa estadunidense, al registrar una apreciación diaria de … [+3368 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "La ‘4D’ del peso: Se perfila para ligar cuatro días con pérdidas contra el dólar",
-      "Description": "Donald Trump dejó claro que si regresa a la Casa Blanca, aplicará aranceles a productos no hechos en EU, lo que aumentó la aversión al riesgo a nivel global.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/17/peso-dolar-precio-hoy-17-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MG22ZI2V2VD4PF62JZAQ3JH3JY.jpg?smart=true&auth=be68ce1037ab070f0ffe343521797a09a9f5fb8ecaf51ea5cf513a3473dbc426&width=1200&height=630",
-      "PublishedAt": "2024-10-17T17:04:49Z",
-      "Content": "El peso mexicano se perfila para ligar una cuarta jornada con pérdidas ante el dólar debido a que crece la aversión al riesgo global, lo que afecta principalmente a las monedas de mercados emergentes… [+2077 chars]"
     }
   ]
 }
