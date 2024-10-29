@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Al peso ‘se le sube el muerto’: Tipo de cambio llega a las 20 unidades ante el dólar",
+      "Description": "La incertidumbre provocada por el factor elecciones en EU puede llevar al tipo de cambio más adentro del terreno de las 20 unidades, pronosticaron analistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/28/peso-dolar-precio-hoy-28-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
+      "PublishedAt": "2024-10-28T15:58:09Z",
+      "Content": "El peso mexicano inicia la recta final de octubre operando en el piso de las 20 unidades ante el dólar debido a la incertidumbre por la elección presidencial en Estados Unidos. Además, los operadores… [+1700 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-21T14:31:00Z",
       "Content": "Este lunes 21 de octubre, el precio del dólar en México es de $19,9313, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2130 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY lunes 21 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 21 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.97 pesos por unidad, con un fortalecimiento del 0.48 por ciento, según datos de Bloomberg.El peso mexicano se …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2024-10-21T11:06:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 21 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.97 pesos por unidad, con un fortalecimiento del 0… [+914 chars]"
     }
   ]
 }
