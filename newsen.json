@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e1f18917450f2d2152d173f56c07b904?impolicy=wcms_watermark_news&cropH=832&cropW=1479&xPos=0&yPos=46&width=862&height=485&imformat=generic",
       "PublishedAt": "2024-09-29T00:15:15Z",
       "Content": "Australia's housing market is creating wealth like never before.\r\nHere's a stocktake of how things are going.\r\nThe money-making machine\r\nIn the past 10 years (June 2014 to June 2024), the total value… [+8276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "BRICS Countries Russia and China Driving Gold Price to Historic Highs Amid Push To Ditch Dollar: Bank of France",
-      "Description": "Russia and China’s desire to ditch the dollar is fueling the price of gold, according to the Bank of France. In a new report, the central bank notes the price of the precious metal has risen to new all-time highs despite global outflows in gold exchange-trade…",
-      "Url": "https://dailyhodl.com/2024/09/28/brics-countries-russia-and-china-driving-gold-price-to-historic-highs-amid-push-to-ditch-dollar-bank-of-france/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/09/brics-gold-dollar.jpg",
-      "PublishedAt": "2024-09-28T21:30:52Z",
-      "Content": "Russia and China’s desire to ditch the dollar is fueling the price of gold, according to the Bank of France.\r\nIn a new report, the central bank notes the price of the precious metal has risen to new … [+1626 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Toronto Dominion Bank Has $11.16 Million Stock Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Toronto Dominion Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 14.7% during the second quarter, Holdings Channel.com reports. The firm owned 104,563 shares of the company’s stock after selling 17,961 shares during the p…",
-      "Url": "https://www.etfdailynews.com/2024/09/28/toronto-dominion-bank-has-11-16-million-stock-position-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-09-28T16:38:02Z",
-      "Content": "Toronto Dominion Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 14.7% during the second quarter, Holdings Channel.com reports. The firm owned 104,563 shares of … [+5174 chars]"
     }
   ]
 }
