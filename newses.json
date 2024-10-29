@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El inusual color en la moneda de diez centavos de dólar que puede hacer que valga hasta US$18.000",
+      "Description": "La “Dime No S” de 1968 es una de las piezas más codiciadas entre los coleccionistas, lo que elevó su precio en subastas; además, tiene un error y otros factores clave que la volvieron una joya preciada en el mercado de la numismática",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-inusual-color-en-la-moneda-de-diez-centavos-de-dolar-que-puede-hacer-que-valga-hasta-us18000-nid28102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-1968-que-aumento-su-valor-debido-a-RDYQ7W6AWNEE5KUHH4LJOPIBBQ.jpg?auth=3244ff492101b27fb0b96889c80bece260044ebd40096ca211fd59af405f039f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-28T18:23:21Z",
+      "Content": "Entrelas monedas que destacan por su valor en el mercado de la numismática, la de diez centavos sin la marca de ceca S de 1968 es una de las que más sorprendió a coleccionistas. Su rareza y un inusua… [+4095 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/FNMUJYUHLZANNDVRKEX67RIBSA.jpg?smart=true&auth=ebc9494275f20a37d6bb7666afa30477b1dff9b0493907b2803fbec2d2fe2f53&width=1200&height=630",
       "PublishedAt": "2024-10-21T16:51:06Z",
       "Content": "Al peso mexicano le llueve sobre mojado este lunes pues el tipo de cambio se ubica arriba de las 20 unidades por dólar debido a una mayor aversión al riesgo a nivel global.\r\nA las 9:50 horas, la depr… [+1527 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 21 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 21 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-21-de-octubre-nid21102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-21T14:31:00Z",
-      "Content": "Este lunes 21 de octubre, el precio del dólar en México es de $19,9313, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2130 chars]"
     }
   ]
 }
