@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY lunes 28 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 28 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una ganancia del 0.08 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-28T13:36:01Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY lunes 28 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una ganancia del 0.08 por… [+917 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-un-dolar-podria-valer-varios-O4P2MIRCHFGTVHQV3LZMVRM2AM.jpg?auth=dd49a76a365c7e8899d45097f4ed77c06628fac17dcc7e65ea3ce8df0ea7c5da&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-19T20:54:00Z",
       "Content": "Las monedas de un dólar, algo cotidiano, pueden tener un valor increíblemente alto para los coleccionistas. Algunas de ellas, debido a su rareza, historia o características especiales de acuñación, p… [+1912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 19 de octubre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de octubre el tipo de cambio interbancario, se ubica en 19.87 pesos por unidad, con una ganancia del 0.18 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose aprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-10-19T12:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de octubre el tipo de cambio interbancario, se ubica en 19.87 pesos por unidad, con una ganancia del 0.18 por cie… [+1467 chars]"
     }
   ]
 }
