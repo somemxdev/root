@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investopedia"
+      },
+      "Author": "Michael Macklon",
+      "Title": "The 5 Most Expensive Stadiums in America: A Look at Their Billion-Dollar Price Tags",
+      "Description": "These cities and franchise owners spared no expense to build world-class stadiums, but not every investment paid off as originally planned.",
+      "Url": "https://www.investopedia.com/most-expensive-stadiums-in-america-8735400",
+      "UrlToImage": "https://www.investopedia.com/thmb/7CoSAr41dGJyBevkB2nugjfdcnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2177752445-5ac36831ac7f4e48b5e13814becc8347.jpg",
+      "PublishedAt": "2024-10-28T17:13:53Z",
+      "Content": "The five most expensive stadiums in America, are also some of the most costly arenas in the world. They include major cities such as New York, Atlanta, and Las Vegas, and big-name sponsors such as So… [+6863 chars]"
+    },
     {
       "Source": {
         "Id": null,
