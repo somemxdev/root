@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "Dólar: las definiciones del nuevo CEO del Banco Supervielle",
+      "Description": "Gustavo Manriquez elogió el rumbo económico y proyectó un crecimiento del crédito en el mercado local",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-las-definiciones-del-nuevo-ceo-del-banco-supervielle-nid28102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gustavo-manriquez-ceo-del-banco-BJPJXZPNUBHEBLZUOZMB2DKQNI.jpeg?auth=7b6be26bf738a8b2f3374e584155df21cc87759b95e1b4663059a54558b1d876&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-28T20:04:02Z",
+      "Content": "En el sector financiero el optimismo permea todas las proyecciones. Luego del shock del primer semestre, los escenarios contemplan recuperación del nivel de actividad, impulsado por el sector de la e… [+5643 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-10-21T21:56:34Z",
       "Content": "El peso se depreció este lunes desafiando la barrera de 20 unidades, ante un avance global del dólar en medio de crecientes apuestas a una victoria de Donald Trump en las elecciones presidenciales en… [+1997 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso le ‘llueve sobre mojado’: Tipo de cambio supera las 20 unidades por dólar",
-      "Description": "Un 'coctel' de problemas, entre los que está la incertidumbre por la elección en EU y el conflicto Israel-Hamás, 'tiró' al peso este lunes al terreno de las 20 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/21/peso-dolar-precio-hoy-21-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/FNMUJYUHLZANNDVRKEX67RIBSA.jpg?smart=true&auth=ebc9494275f20a37d6bb7666afa30477b1dff9b0493907b2803fbec2d2fe2f53&width=1200&height=630",
-      "PublishedAt": "2024-10-21T16:51:06Z",
-      "Content": "Al peso mexicano le llueve sobre mojado este lunes pues el tipo de cambio se ubica arriba de las 20 unidades por dólar debido a una mayor aversión al riesgo a nivel global.\r\nA las 9:50 horas, la depr… [+1527 chars]"
     }
   ]
 }
