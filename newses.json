@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 29 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY martes 29 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se deprecia…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-10-29T12:02:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 29 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 0.16 por c… [+879 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1936.jpg",
       "PublishedAt": "2024-10-22T14:10:18Z",
       "Content": "El peso se apreciaba este martes después de dos jornadas de pérdidas que lo llevaron a cruzar en la víspera la barrera de 20 unidades, mientras los inversionistas asimilaban un débil reporte de la ac… [+743 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del dólar 22 de octubre: El peso mexicano muestra una leve reacción",
-      "Description": "Este día la cotización del dólar arrancó la jornada por debajo de los $20.00 pesos",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-22-de-octubre-el-peso-mexicano-muestra-una-leve-reaccion",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/22/dolar_1.jpg",
-      "PublishedAt": "2024-10-22T13:45:40Z",
-      "Content": "Este martes 22 de octubrede 2024 el dólar se cotiza en $19.81 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó significativamente terreno frente a la divisa estadounidense,… [+807 chars]"
     }
   ]
 }
