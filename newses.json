@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cotiza arriba de 20 unidades por dólar por nerviosismo ante un probable triunfo de Trump",
+      "Description": "Forbes México.\n Peso cotiza arriba de 20 unidades por dólar por nerviosismo ante un probable triunfo de Trump\nEl peso cotizaba en 20.0320 por dólar, con un marginal retroceso de un 0.04% frente al precio de referencia de Reuters del lunes.\nPeso cotiza arriba …",
+      "Url": "https://forbes.com.mx/peso-cotiza-arriba-de-20-unidades-por-dolar-por-nerviosismo-ante-un-probable-triunfo-de-trump/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-29T14:47:53Z",
+      "Content": "El peso se depreciaba ligeramente este martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores que aguardan la elección presidencial del 5 de noviembre e… [+908 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 29 de octubre",
+      "Description": "De acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,975. A continuación, la cotización del día de la fecha.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-29-de-octubre-nid29102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-X6RMNVUCBVEX5IRBEAXK7H5MKA.jpg?auth=0c217ff3003666cbbe29380823c6ff5e56452cc4b826ae9586657e58b3aaef57&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-29T14:31:39Z",
+      "Content": "Este martes 29 de octubre, el precio del dólar en México es de $20,0007, de acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un p… [+2715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VRUNSQDDH5EYZCQU3AAYZT5DZQ.jpg?smart=true&auth=891fb3b47837bb2cda70c4f89a746a54b39fb85ff68f93389093ecddea320fa9&width=1200&height=630",
       "PublishedAt": "2024-10-22T16:31:37Z",
       "Content": "El peso mexicano rebota este martes ante el dólar después de que el tipo de cambio rozó' las 20 unidades en la jornada anterior.\r\nLa apreciación del peso mexicano es de 0.43 por ciento ante el dólar,… [+2082 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano frena su caída; baja de 20 pesos por dólar",
-      "Description": "La moneda nacional llegó a debilitarse el lunes hasta 20.07 unidades, un nivel no visto desde el 11 de septiembre.",
-      "Url": "https://aristeguinoticias.com/2210/dinero-y-economia/peso-mexicano-frena-su-caida-baja-de-20-pesos-por-dolar/?fbclid=IwZXh0bgNhZW0CMTEAAR1BcIMIxLDUFLiXFOnV0s82jjC-etl4tkmdbQEMrxmpri-dVngLmKawsEA_aem_JNTe0bglw8q1sHaznhZBJQ",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/10/peso-dolar-tipo-cambio-moneda-221024.jpg",
-      "PublishedAt": "2024-10-22T16:14:08Z",
-      "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano se apreciaba el martes después de dos jornadas de pérdidas que lo llevaron a cruzar en la víspera la barrera de 20 unidades, mient… [+1300 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana tras desafiar la barrera de las 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso gana tras desafiar la barrera de las 20 unidades por dólar\n\nEl peso cotizaba en 19.7962 por dólar, con una ganancia de 0.86% frente al precio de referencia de Reuters del lunes, cuando llegó a debilitarse hasta 20.0740 unidades, un nivel …",
-      "Url": "https://forbes.com.mx/peso-gana-tras-desafiar-la-barrera-de-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1936.jpg",
-      "PublishedAt": "2024-10-22T14:10:18Z",
-      "Content": "El peso se apreciaba este martes después de dos jornadas de pérdidas que lo llevaron a cruzar en la víspera la barrera de 20 unidades, mientras los inversionistas asimilaban un débil reporte de la ac… [+743 chars]"
     }
   ]
 }
