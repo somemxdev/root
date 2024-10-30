@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Zimbabue aprueba el uso de su moneda respaldada en oro para abandonar la dependencia del dólar",
+      "Description": "Aunque las leyes vigentes en el país dictan que el dólar seguirá siendo de curso legal hasta el 2030, las autoridades aseguran que esto podría cambiar.",
+      "Url": "https://actualidad.rt.com/actualidad/528296-zimbabue-aprobar-uso-moneda-oro-dolar",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6720f28259bf5b5a220d6ee4.jpg",
+      "PublishedAt": "2024-10-29T16:32:55Z",
+      "Content": "El partido gobernante de Zimbabue ha aprobado una resolución para que se adopte la moneda ZiG, respaldada por lingotes de oro, como única divisa de curso legal del país y así abandonar progresivament… [+1066 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano sigue cayendo; se consolida por encima de los 20 por dólar",
+      "Description": "La moneda nacional cotizaba en 20.03 por dólar, con un marginal retroceso de un 0.04% frente al precio de referencia del lunes.",
+      "Url": "https://aristeguinoticias.com/2910/dinero-y-economia/peso-mexicano-sigue-cayendo-se-consolida-por-encima-de-los-20-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
+      "PublishedAt": "2024-10-29T16:26:26Z",
+      "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano se depreciaba ligeramente el martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores… [+1197 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tipo de cambio regresa a las 19 unidades: ¿En cuánto se cotiza el peso ante el dólar?",
+      "Description": "El peso mexicano es de las monedas más 'sensibles' a la incertidumbre provocada por la elección presidencial de EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/29/peso-dolar-precio-hoy-29-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SM5EUJVVJJF7LBMSXKC7LWZZSU.jpg?smart=true&auth=efd223318daec52742a5261511b9e317a72d13274e83db7eab8a8877f7a28052&width=1200&height=630",
+      "PublishedAt": "2024-10-29T16:17:55Z",
+      "Content": "El peso mexicano regresó temporalmente al terreno de las 19 unidades este 29 de octubre a una semana de la elección presidencial en Estados Unidos, un evento que puede desestabilizar al tipo de cambi… [+1565 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2024-10-23T11:02:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.07 pesos por unidad, con un fortalecimiento del … [+906 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El error en la moneda de un dólar con el rostro de Eisenhower que hace que valga US$20.000: cómo identificarla",
-      "Description": "Una falla durante el proceso de acuñación la convirtió en una pieza única y altamente valorada en las plataformas de subastas; el ejemplar data de 1973 y despierta gran interés",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-error-en-la-moneda-de-un-dolar-con-el-rostro-de-eisenhower-que-hace-que-valga-us20000-como-nid22102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-extrano-error-de-esta-moneda-que-multiplico-su-YALHECWSTRGHLDW2EXIPIPXOQM.jpg?auth=655b454a0ca1519a3b4128e1c5317d1603f955906a4bb93fbc10b4d94728dae8&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-22T21:31:14Z",
-      "Content": "Lasmonedas, ya sea en circulación o antiguas, tienen el potencial de alcanzar precios elevados en el mercado de subastas, especialmente cuando presentan errores únicos que las convierten en ejemplare… [+4241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso ‘respira’ y se aleja un poco del nivel de las 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso ‘respira’ y se aleja un poco del nivel de las 20 unidades por dólar\n\nLa moneda se aprecia 0.14% en medio de un alza de petroprecios, la debilidad del dólar y una menor volatilidad por factores políticos en México y en EU, según analistas.…",
-      "Url": "https://forbes.com.mx/peso-respira-y-se-aleja-un-poco-del-nivel-de-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-10-22T21:25:28Z",
-      "Content": "El tipo de cambio cerró la sesión de este martes en 19.9478 pesos por dólar, una apreciación de 0.14% para la moneda mexicana respecto al cierre previo, de acuerdo con datos de Banxico.\r\nLuego de dos… [+1984 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘le echa ganas’ y recorta pérdidas ante el dólar: ¿En cuánto se cotiza este martes?",
-      "Description": "Especialistas de CIBanco afirmaron que el tipo de cambio puede ubicarse por debajo del piso de las 19.80 unidades durante este martes 22 de octubre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/22/peso-dolar-precio-hoy-22-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VRUNSQDDH5EYZCQU3AAYZT5DZQ.jpg?smart=true&auth=891fb3b47837bb2cda70c4f89a746a54b39fb85ff68f93389093ecddea320fa9&width=1200&height=630",
-      "PublishedAt": "2024-10-22T16:31:37Z",
-      "Content": "El peso mexicano rebota este martes ante el dólar después de que el tipo de cambio rozó' las 20 unidades en la jornada anterior.\r\nLa apreciación del peso mexicano es de 0.43 por ciento ante el dólar,… [+2082 chars]"
     }
   ]
 }
