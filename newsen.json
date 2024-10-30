@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2024/09/ethena-exchange.jpg",
       "PublishedAt": "2024-09-30T10:44:15Z",
       "Content": "Ethena Labs, the developer of the “synthetic dollar” USDe, revealed that the community is reviewing a proposal to launch a decentralized crypto exchange to drive the asset’s growth.\r\nEthereal\r\nOn Sep… [+2988 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Gareth Hutchens",
-      "Title": "Housing is Australia's multi billion-dollar money maker — if you're selling",
-      "Description": "Housing is creating wealth like never before, with property owners pocketing a record-breaking median nominal profit of $285,000 from resales in the June quarter.",
-      "Url": "https://www.abc.net.au/news/2024-09-29/housing-is-australias-multi-billion-dollar-moneymaker/104405556",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e1f18917450f2d2152d173f56c07b904?impolicy=wcms_watermark_news&cropH=832&cropW=1479&xPos=0&yPos=46&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-09-29T00:15:15Z",
-      "Content": "Australia's housing market is creating wealth like never before.\r\nHere's a stocktake of how things are going.\r\nThe money-making machine\r\nIn the past 10 years (June 2014 to June 2024), the total value… [+8276 chars]"
     }
   ]
 }
