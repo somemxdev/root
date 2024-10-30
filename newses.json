@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila cuatro jornadas con pérdidas y se mantiene en las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso hila cuatro jornadas con pérdidas y se mantiene en las 20 unidades por dólar\n\nLos riesgos al alza para el tipo de cambio siguen creciendo debido a las apuestas crecientes de que Trump pueda ganar, según el grupo financiero Base.\nPeso hila…",
+      "Url": "https://forbes.com.mx/peso-hila-cuatro-jornadas-con-perdidas-y-se-mantiene-en-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9754.webp",
+      "PublishedAt": "2024-10-29T21:26:12Z",
+      "Content": "El peso hiló este martes cuatro sesiones con depreciaciones y se mantuvo en el nivel de las 20 unidades por dólar al cierre, según datos de Banxico.\r\nEl dólar se ubicó en 20.0845 pesos por dólar, una… [+2010 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-miercoles-23-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-23T15:00:29Z",
       "Content": "Este miércoles 23 de octubre, el precio del dólar en México es de $19,8985, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2597 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante un fortalecimiento global del dólar; acciones de Alsea caen en la BMV",
-      "Description": "Forbes México.\n Peso retrocede ante un fortalecimiento global del dólar; acciones de Alsea caen en la BMV\n\nEl peso cotizaba en 19.9807 por dólar, con una pérdida de 0.16% frente al precio de referencia de Reuters del martes.\nPeso retrocede ante un fortalecimi…",
-      "Url": "https://forbes.com.mx/peso-retrocede-ante-un-fortalecimiento-global-del-dolar-acciones-de-alsea-caen-en-la-bmv/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-10-23T14:36:46Z",
-      "Content": "El peso se depreciaba el miércoles ante un fortalecimiento global del dólar y luego de la divulgación de débiles datos locales de las ventas al por menor.\r\nEl peso cotizaba en 19.9807 por dólar, con … [+1137 chars]"
     }
   ]
 }

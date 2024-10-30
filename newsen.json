@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Man draws the attention of the FBI by depositing duffle bags of cash at bank. Claimed he was making 2 dollar Covid vaccine and coating to protect aircraft, drones, rockets and other vehicles from laser-directed energy weapons [Facepalm]",
+      "Description": "Man draws the attention of the FBI by depositing duffle bags of cash at bank. Claimed he was making 2 dollar Covid vaccine and coating to protect aircraft, drones, rockets and other vehicles from laser-directed energy weapons",
+      "Url": "https://www.fark.com/comments/13444980/Man-draws-attention-of-FBI-by-depositing-duffle-bags-of-cash-at-bank-Claimed-he-was-making-2-dollar-Covid-vaccine-coating-to-protect-aircraft-drones-rockets-other-vehicles-from-laser-directed-energy-weapons",
+      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+      "PublishedAt": "2024-10-29T21:20:17Z",
+      "Content": "winedrinkingman:What is interesting is that an American tech company, although a small one, was making large amounts of fentanyl, inside the US in Virginia and not in Mexico and China like the Republ… [+147 chars]"
+    },
     {
       "Source": {
         "Id": null,
