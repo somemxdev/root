@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso liga tres sesiones a la baja y cierra en más de $20 por dólar",
+      "Description": "Al comienzo de la semana previa a las elecciones en Estados Unidos, el peso cerró arriba de 20 unidades por dólar spot, su peor nivel desde el 10 de septiembre.",
+      "Url": "https://www.jornada.com.mx/2024/10/29/economia/017n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-10-29T09:21:14Z",
+      "Content": "Periódico La JornadaMartes 29 de octubre de 2024, p. 17\r\nAl comienzo de la semana previa a las elecciones en Estados Unidos, el peso cerró arriba de 20 unidades por dólar spot, su peor nivel desde el… [+1884 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/22/dolar_1.jpg",
       "PublishedAt": "2024-10-22T13:45:40Z",
       "Content": "Este martes 22 de octubrede 2024 el dólar se cotiza en $19.81 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó significativamente terreno frente a la divisa estadounidense,… [+807 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 22 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 22 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-22-de-octubre-nid22102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-22T13:42:35Z",
-      "Content": "Este martes 22 de octubre, el precio del dólar en México es de $20,0075, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2542 chars]"
     }
   ]
 }
