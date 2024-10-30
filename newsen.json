@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Bank of Korea board member says dollar liquidity not worrying, media reports",
+      "Description": "Bank of Korea board member says dollar liquidity not worrying, media reports",
+      "Url": "https://www.investing.com/news/economy-news/bank-of-korea-board-member-says-dollar-liquidity-not-worrying-media-reports-3687074",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_5_800x533_L_1412601619.jpg",
+      "PublishedAt": "2024-10-28T23:15:42Z",
+      "Content": "SEOUL (Reuters) - A voting board member at South Korea's central bank said she is not concerned about dollar liquidity conditions in the dollar-won market, Yonhap news agency reported on Tuesday.\r\n\"I… [+658 chars]"
+    },
     {
       "Source": {
         "Id": null,

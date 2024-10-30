@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede y vuelve al nivel de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso retrocede y vuelve al nivel de las 20 unidades por dólar\n\nLa moneda hila tres sesiones con pérdidas y se ve presionada a medida que se acercan las elecciones en EU.\nPeso retrocede y vuelve al nivel de las 20 unidades por dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/peso-retrocede-y-vuelve-al-nivel-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-10-28T23:47:18Z",
+      "Content": "El peso retrocedió por tercera sesión al hilo y volvió al nivel de las 20 unidades por dólar a medida que se acercan las elecciones presidenciales en EU, y en el inicio de una semana marcada por dato… [+2969 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Lucy Sanabria",
+      "Title": "3 cosas sobre el aumento del precio del dólar en México por las elecciones en Estados Unidos",
+      "Description": "¿Ya vieron que el precio del dólar ha ido en aumento en tanto se acercan las elecciones del 5 de noviembre en Estados Unidos? Aunque de...\nThe post 3 cosas sobre el aumento del precio del dólar en México por las elecciones en Estados Unidos appeared first on …",
+      "Url": "https://www.sopitas.com/noticias/dolar-peso-precio-elecciones-estados-unidos/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/10/precio-dolar-peso-mexicano.jpg",
+      "PublishedAt": "2024-10-28T23:12:26Z",
+      "Content": "Lo que necesitas saber:\r\nConforme se acerca el mero día de las elecciones en Estados Unidos, el dólar ha ido agarrando fuerza.\r\n¿Ya vieron que el precio del dólar ha ido en aumento en tanto se acerca… [+3608 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-22T13:42:35Z",
       "Content": "Este martes 22 de octubre, el precio del dólar en México es de $20,0075, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2542 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY martes 22 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.95 pesos por unidad, con una perdida del 0.14 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2024-10-22T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.95 pesos por unidad, con una perdida del 0.14 po… [+871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Héctor Cruz",
-      "Title": "Peso cae y desafía barrera de 20 unidades por dólar ante posible victoria de Trump; BMV pierde",
-      "Description": "Forbes México.\n Peso cae y desafía barrera de 20 unidades por dólar ante posible victoria de Trump; BMV pierde\n\nEl peso cotizaba en 19.9963 unidades, con un retroceso de un 0.74% frente al precio de referencia de Reuters del viernes, cuando anotó su peor dese…",
-      "Url": "https://forbes.com.mx/peso-cae-y-desafia-barrera-de-20-unidades-por-dolar-ante-posible-victoria-de-trump-bmv-pierde/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-10-21T21:56:34Z",
-      "Content": "El peso se depreció este lunes desafiando la barrera de 20 unidades, ante un avance global del dólar en medio de crecientes apuestas a una victoria de Donald Trump en las elecciones presidenciales en… [+1997 chars]"
     }
   ]
 }
