@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central hizo la mayor compra de reservas en más de cinco meses",
+      "Description": "Se alzó con US$193 millones, el monto más alto desde el 16 de mayo; estaría cerrando su mejor octubre de los últimos 15 años",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-hizo-la-mayor-compra-de-reservas-en-mas-de-cinco-meses-nid29102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-29T20:15:52Z",
+      "Content": "El Banco Central (BCRA) concretó hoy la mayor compra de reservas por intervenciones sobre el mercado cambiario oficial de los últimos cinco meses y medio. La entidad, que conduce Santiago Bausili, se… [+3472 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-10-23T14:36:46Z",
       "Content": "El peso se depreciaba el miércoles ante un fortalecimiento global del dólar y luego de la divulgación de débiles datos locales de las ventas al por menor.\r\nEl peso cotizaba en 19.9807 por dólar, con … [+1137 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.07 pesos por unidad, con un fortalecimiento del 0.64 por ciento, según datos de Bloomberg.El peso mexicano se…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-10-23T11:02:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 22 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.07 pesos por unidad, con un fortalecimiento del … [+906 chars]"
     }
   ]
 }
