@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 30 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 30 octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-30-de-octubre-nid30102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-30T15:21:34Z",
+      "Content": "Este miércoles 30 de octubre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2172 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-se-puede-observar-el-detalle-que-convierte-a-A3F2AQG3CRHLNPGSHXP5XNKQPU.jpg?auth=992267f7b38b7e29bb22178463ac14eaa8c40502e89268d5399ea0147896f26a&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-23T21:27:38Z",
       "Content": "Las plataformas de subastas están llenas de sorpresas, y uno de los ejemplos más recientes esuna moneda de cinco centavos de 1949 acuñada en la Casa de la Moneda de Denver. Esta pieza se volvió un ob… [+3630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Tipo de cambio ‘escala’ a los 20 pesos por dólar: ¿Qué debilita a la moneda mexicana?",
-      "Description": "En ventanillas bancarias, el dólar se vende en 20.42 pesos, reportó Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/23/peso-dolar-precio-hoy-23-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
-      "PublishedAt": "2024-10-23T16:30:12Z",
-      "Content": "El tipo de cambio escala nuevamente hacia el techo de los 20 pesos por dólar ante una mayor fortaleza por parte de la divisa estadounidense, mientras los mercados siguen atentos a pronósticos sobre q… [+1846 chars]"
     }
   ]
 }
