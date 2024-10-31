@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Oluwakemi Abimbola",
+      "Title": "Access Bank mulls dollar-denominated securities sale to DFIs",
+      "Description": "Access Bank has revealed that it is considering selling dollar-denominated securities to Development Financial Institutions and on the open market to boost its capital base and fund expansion plans. This was disclosed by the Managing Director, Roosevelt Ogbon…",
+      "Url": "https://punchng.com/access-bank-mulls-dollar-denominated-securities-sale-to-dfis/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/07/15210625/access-bank.jpg",
+      "PublishedAt": "2024-10-30T00:46:24Z",
+      "Content": "Access Bank has revealed that it is considering selling dollar-denominated securities to Development Financial Institutions and on the open market to boost its capital base and fund expansion plans.\r… [+2271 chars]"
+    },
     {
       "Source": {
         "Id": null,
