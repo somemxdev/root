@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Al peso ‘ya lo chupó la bruja’: Se deprecia hasta las 20.18 unidades ante el dólar",
+      "Description": "El peso mexicano operará con cautela al menos de aquí hasta el próximo martes 5 de noviembre, día de las elecciones en EU, apuntaron analistas de CIBanco.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/30/al-peso-ya-lo-chupo-la-bruja-se-deprecia-hasta-las-2018-unidades-ante-el-dolar/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/C2D2VMH2NNE4HEHFWYLNYC4U6M.jpg?smart=true&auth=b92d0178495c02df8777dbd92af3172f57f8e429891c889913e83b47b712b9d0&width=1200&height=630",
+      "PublishedAt": "2024-10-30T17:55:14Z",
+      "Content": "El peso mexicano continúa su semana de terror ante el dólar a medida que los inversionistas asimilan las cifras de crecimiento del PIB de México y EU del tercer trimestre publicadas este 30 de octubr… [+1718 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2024-10-24T11:10:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY jueves 24 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.78 pesos por unidad, con una perdida del 0.31 po… [+820 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así debe lucir la moneda de cinco centavos de dólar para que valga más de US$32.000: el detalle que la hace única",
-      "Description": "Descubre cuáles son los detalles que hacen que una moneda de cinco centavos de dólar pueda alcanzar la sorprendente cifra de US$32.000 en el mercado de la numismática.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-debe-lucir-la-moneda-de-cinco-centavos-de-dolar-para-que-valga-mas-de-us32000-el-detalle-que-la-nid23102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-se-puede-observar-el-detalle-que-convierte-a-A3F2AQG3CRHLNPGSHXP5XNKQPU.jpg?auth=992267f7b38b7e29bb22178463ac14eaa8c40502e89268d5399ea0147896f26a&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-23T21:27:38Z",
-      "Content": "Las plataformas de subastas están llenas de sorpresas, y uno de los ejemplos más recientes esuna moneda de cinco centavos de 1949 acuñada en la Casa de la Moneda de Denver. Esta pieza se volvió un ob… [+3630 chars]"
     }
   ]
 }
