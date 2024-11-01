@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Silvia Rodríguez",
+      "Title": "Dólar puede alcanzar los 20.50 pesos en el corto plazo si Trump gana: Banco BASE",
+      "Description": "Forbes México.\n Dólar puede alcanzar los 20.50 pesos en el corto plazo si Trump gana: Banco BASE\n\nEn el largo plazo, la materialización de cualquiera de las amenazas del republicano podría llevar a México a una recesión y posiblemente a una crisis, según el g…",
+      "Url": "https://forbes.com.mx/dolar-puede-alcanzar-los-20-50-pesos-en-el-corto-plazo-si-trump-gana-banco-base/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/10/todo-el-dinero-de-Trump.png",
+      "PublishedAt": "2024-10-31T21:57:19Z",
+      "Content": "Si Donald Trump gana las próximas elecciones presidenciales en Estados Unidos, el primer impacto de corto plazo será que el tipo de cambio alcance una cotización de 20.50 pesos por dólar, y en el lar… [+3919 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q6CP35FLMZDBNNDZMXUJPBAKWM.jpg?smart=true&auth=1c56ae857ef198da43329ae11a686067f35b8fbb77d8b64b4e978589a3329b21&width=1200&height=630",
       "PublishedAt": "2024-10-25T15:18:51Z",
       "Content": "El peso mexicano arranca las operaciones de este viernes con pocos cambios, pero se ubica en terreno de pérdidas mientras los operadores esperan a ver cómo se desenvuelve el conflicto en Medio Orient… [+2042 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 25 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 25 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-25-de-octubre-nid25102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-10-25T15:14:27Z",
-      "Content": "Este viernes 25 de octubre, el precio del dólar en México es de $19,8385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2564 chars]"
     }
   ]
 }
