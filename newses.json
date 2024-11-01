@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central cerró su mejor octubre, pero sus reservas totales cayeron hoy casi US$1300 millones",
+      "Description": "Compró en el mes US$1530 millones gracias a una serie de factores y la suba de encajes vinculada con el récord de depósitos",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-cerro-su-mejor-octubre-pero-sus-reservas-totales-cayeron-hoy-casi-us1300-nid31102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/bcr-Y6IS4GCNT5HLTPARLFEZKBEL3Q.jpg?auth=2135c3e575c0e8ba5c7c59121846cd819bed510d2d4480abfc703d120efc8709&width=1200&quality=70&smart=false&height=675",
+      "PublishedAt": "2024-10-31T20:56:17Z",
+      "Content": "El Banco Central (BCRA) cerró hoy un octubre soñado, al poder comprar mediante intervenciones sobre el mercado oficial de cambios otros US$19 millones para, de estar manera, acumular ingresos netos p… [+3567 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2024-10-25T15:14:27Z",
       "Content": "Este viernes 25 de octubre, el precio del dólar en México es de $19,8385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 25 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 25 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.81 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.El peso mexicano r…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-10-25T11:10:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 25 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.81 pesos por unidad, con un fortalecimiento del… [+880 chars]"
     }
   ]
 }
