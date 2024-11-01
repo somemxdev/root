@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ya lleva ‘calaverita’: ¿Cuánto se aprecia ante el dólar en Halloween?",
+      "Description": "La especialista Gabriela Siller destacó que la recuperación que el peso mexicano experimenta este jueves 31 de octubre no significa que la tendencia al alza del tipo de cambio haya terminado.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/31/peso-dolar-precio-hoy-31-de-octubre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OSZ4F6NMBFEX5BPZ7HUNQG5URE.jpg?smart=true&auth=c481a26671efd0ae2f91e199a63c0c6731d60b13dcb2819030e1198f2be4f7ae&width=1200&height=630",
+      "PublishedAt": "2024-10-31T17:08:37Z",
+      "Content": "Al peso mexicano ya le dieron su calaverita y abre con ganancias ante el dólar este 31 de octubre tras ubicarse en su nivel más alto desde septiembre de 2022, al tiempo que los participantes del merc… [+1598 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2024-10-25T11:10:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 25 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.81 pesos por unidad, con un fortalecimiento del… [+880 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central sigue de compras y muestra su mejor racha de los últimos 15 años",
-      "Description": "La entidad, que sumó hoy otros US$55 millones y sumó más de US$1000 millones en lo que va del mes, la mayor suma desde octubre del 2009",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-sigue-de-compras-y-muestra-su-mejor-racha-de-los-ultimos-15-anos-nid24102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-prolongo-hoy-su-racha-compradora-de-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-24T20:35:12Z",
-      "Content": "El Banco Central (BCRA) sumó hoy otros US$55 millones a sus reservas por medio de intervenciones sobre el mercado cambiario local y ya acopió por esta vía US$1053 millones netos al cabo de las 18 rue… [+2382 chars]"
     }
   ]
 }
