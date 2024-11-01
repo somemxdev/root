@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 31 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 31 de octubre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-31-de-octubre-nid31102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-31T14:50:33Z",
+      "Content": "Este jueves 31 de octubre, el precio del dólar en México es de $20,1617, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2875 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-prolongo-hoy-su-racha-compradora-de-UTSNE33S5ZCHVPRX33CLTDZV2I.jpg?auth=77bd85bae93176353ad2446bc267a3c6610f381bc4535bfc6cfc71f06e659243&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-24T20:35:12Z",
       "Content": "El Banco Central (BCRA) sumó hoy otros US$55 millones a sus reservas por medio de intervenciones sobre el mercado cambiario local y ya acopió por esta vía US$1053 millones netos al cabo de las 18 rue… [+2382 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "El ‘sube y baja’ del peso: ¿En cuánto se cotiza ante el dólar tras nuevo dato de inflación en México?",
-      "Description": "El peso mexicano inició la jornada de este jueves con pérdidas ante el dólar... para después empezar su recuperación.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/24/peso-dolar-precio-hoy-24-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q4NZI2G2YJDVVKJYHURY7OUARI.jpg?smart=true&auth=5f70aa55439f5195dbf50691003701a29f9b7c3f15bfff880fb2956777d7d5bf&width=1200&height=630",
-      "PublishedAt": "2024-10-24T16:59:31Z",
-      "Content": "El peso mexicano regresó al terreno de las pérdidas ante el dólar... para después recortar la desventaja después de que se reveló el nuevo dato de inflación en México, que mostró una nueva aceleració… [+2081 chars]"
     }
   ]
 }
