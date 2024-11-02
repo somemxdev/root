@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 1 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 1 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una baja del 0.14 por ciento, según datos de Bloomberg.El peso mexicanose aprecia …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2024-11-01T12:10:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 1 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una baja del 0.14 por… [+884 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-27-de-octubre-se-subastara-esta-pieza-que-AUQAHDIX4BFWBJHQUFUX6QBQGE.jpg?auth=60bddab1e27866e2b0fa88091b42480de8fdfd44fa8e04e2e5c7e0e357032870&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-25T17:29:34Z",
       "Content": "En el ámbito de la numismática, el valor nominal de una moneda sirve principalmente para su identificación, pero no guarda relación con el precio que puede alcanzar en una subasta. Un claro ejemplo d… [+2900 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso tiene un viernes ‘leeento’: Tipo de cambio se ubica en 19.86 unidades por dólar",
-      "Description": "En ventanillas bancarias, el dólar se cotiza en 20.33 pesos por billete verde, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/25/peso-dolar-hoy-25-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/Q6CP35FLMZDBNNDZMXUJPBAKWM.jpg?smart=true&auth=1c56ae857ef198da43329ae11a686067f35b8fbb77d8b64b4e978589a3329b21&width=1200&height=630",
-      "PublishedAt": "2024-10-25T15:18:51Z",
-      "Content": "El peso mexicano arranca las operaciones de este viernes con pocos cambios, pero se ubica en terreno de pérdidas mientras los operadores esperan a ver cómo se desenvuelve el conflicto en Medio Orient… [+2042 chars]"
     }
   ]
 }
