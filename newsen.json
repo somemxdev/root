@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
+      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
+      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
+      "Url": "https://abcnews.go.com/Business/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115411194",
+      "UrlToImage": "https://i.abcnewsfe.com/a/90be9b58-c5fd-41f5-8490-9b9bb7b6da24/wirestory_28d023d2ea2d06a8be99add994feb4aa_16x9.jpg?w=1600",
+      "PublishedAt": "2024-11-01T21:02:22Z",
+      "Content": "WASHINGTON -- Next week's presidential election isn't just a referendum on Donald Trump and Kamala Harris. It's also a measure of the influence the world's richest man wields over American democracy.… [+9399 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-marca.unidadeditorial.es/f33ad203575a867901b684cac1259e05/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280421711172.png",
       "PublishedAt": "2024-10-04T11:45:15Z",
       "Content": "At 37 years old, Terence Crawford's career is coming to an end, and despite being one of the most dominant boxers, with championships in each of the four categories in which he has fought, he needs o… [+1879 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Stock market today: World shares slip and the yen weakens against the dollar - Yahoo Finance",
-      "Description": "Stock market today: World shares slip and the yen weakens against the dollarYahoo Finance Stocks rise in Japan while the yen and U.K. pound fall on dovish interest rate talkFortune Japan stocks higher at close of trade; Nikkei 225 up 2.01%MSN Hang Seng Adds t…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175183603",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-03T10:12:23Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
