@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boston Herald"
+      },
+      "Author": "Associated Press",
+      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
+      "Description": "His stature is perhaps one of the most tangible consequences of the Supreme Court’s 2010 Citizens United decision, which eliminated limits on political giving.",
+      "Url": "https://www.bostonherald.com/2024/11/01/elon-musk-politics-trump/",
+      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/11/Election_2024_Trump_74848-1.jpg?w=1024&h=682",
+      "PublishedAt": "2024-11-01T16:15:27Z",
+      "Content": "By BRIAN SLODYSKO, THOMAS BEAUMONT and TOM KRISHER\r\nWASHINGTON (AP) — Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris. It’s also a measure of the influence… [+10105 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-03T10:12:23Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "Sterling plunges 1% against dollar after Bank of England governor's comments on rate policy",
-      "Description": "Sterling was down 1.06% to $1.3126 at 9:22 a.m. in London.",
-      "Url": "https://www.cnbc.com/2024/10/03/sterling-plunges-1percent-after-bailey-suggests-more-aggressive-rate-cuts.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108014874-17225154972024-08-01t120047z_1030069737_rc2079aimn81_rtrmadp_0_britain-boe.jpeg?v=1726766402&w=1920&h=1080",
-      "PublishedAt": "2024-10-03T08:46:00Z",
-      "Content": "The British pound tumbled more than 1% against the U.S. dollar on Thursday after a The Guardian report that Bank of England Governor Andrew Bailey suggested more positive inflation data could lead th… [+1022 chars]"
     }
   ]
 }
