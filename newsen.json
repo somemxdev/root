@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
+      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
+      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
+      "Url": "https://abcnews.go.com/Politics/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115395742",
+      "UrlToImage": "https://i.abcnewsfe.com/a/732be41b-f278-4004-a806-b39e429856d3/wirestory_d6ab6ab796987359ba07da775f4a62e9_16x9.jpg?w=1600",
+      "PublishedAt": "2024-11-01T15:26:28Z",
+      "Content": "WASHINGTON -- Next weeks presidential election isnt just a referendum on Donald Trump and Kamala Harris. Its also a measure of the influence the worlds richest man wields over American democracy. \r\nE… [+6531 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
+      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
+      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
+      "Url": "https://abcnews.go.com/Politics/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115395389",
+      "UrlToImage": "https://i.abcnewsfe.com/a/90be9b58-c5fd-41f5-8490-9b9bb7b6da24/wirestory_28d023d2ea2d06a8be99add994feb4aa_16x9.jpg?w=1600",
+      "PublishedAt": "2024-11-01T15:18:28Z",
+      "Content": "WASHINGTON -- Next week's presidential election isn't just a referendum on Donald Trump and Kamala Harris. It's also a measure of the influence the world's richest man wields over American democracy.… [+9399 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-01T15:08:11Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,19 +392,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108014874-17225154972024-08-01t120047z_1030069737_rc2079aimn81_rtrmadp_0_britain-boe.jpeg?v=1726766402&w=1920&h=1080",
       "PublishedAt": "2024-10-03T08:46:00Z",
       "Content": "The British pound tumbled more than 1% against the U.S. dollar on Thursday after a The Guardian report that Bank of England Governor Andrew Bailey suggested more positive inflation data could lead th… [+1022 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Punch"
-      },
-      "Author": "Our Reporters",
-      "Title": "Yobe partners Islamic bank for multi-billion dollar irrigation project",
-      "Description": "The Yobe State government and the Islamic Development Bank of Saudi Arabia are set to  enter a multi-billion dollar partnership that will lead to the launch of an irrigation scheme aimed at boosting the production of wheat, rice and vegetables in the state. I…",
-      "Url": "https://punchng.com/yobe-partners-islamic-bank-for-multi-billion-dollar-irrigation-project/",
-      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/08/19171015/Islamic-banking.jpg",
-      "PublishedAt": "2024-10-01T00:08:46Z",
-      "Content": "The Yobe State government and the Islamic Development Bank of Saudi Arabia are set to  enter a multi-billion dollar partnership that will lead to the launch of an irrigation scheme aimed at boosting … [+2902 chars]"
     }
   ]
 }

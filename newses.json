@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 1° de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 1° de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-1-de-noviembre-nid01112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-01T15:39:09Z",
+      "Content": "Este viernes 1° de noviembre, el precio del dólar en México es de $20,0378, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2767 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.elespanol.com/2024/10/25/invertia/mercados/896170392_250342245_1706x960.jpg",
       "PublishedAt": "2024-10-26T01:04:43Z",
       "Content": "El oro se revaloriza un 31,6% en este 2024y su precio roza ya los 2.800 dólares por onza. De entre las varias razones que explican el alza del metal precioso como la incertidumbre geopolítica o las b… [+5379 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Esta moneda de 10 centavos de dólar puede valer más de US$500.000 y revolucionar el mundo de las subastas",
-      "Description": "Descubre cómo una rara moneda de 10 centavos de dólar, oculta desde 1978, podría alcanzar un valor de más de $500,000 en la próxima subasta del 27 de octubre. Esta pieza única está revitalizando el interés por la numismática y promete revolucionar el mundo de…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-moneda-de-10-centavos-de-dolar-puede-valer-mas-de-us500000-y-revolucionar-el-mundo-de-las-nid25102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-27-de-octubre-se-subastara-esta-pieza-que-AUQAHDIX4BFWBJHQUFUX6QBQGE.jpg?auth=60bddab1e27866e2b0fa88091b42480de8fdfd44fa8e04e2e5c7e0e357032870&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-25T17:29:34Z",
-      "Content": "En el ámbito de la numismática, el valor nominal de una moneda sirve principalmente para su identificación, pero no guarda relación con el precio que puede alcanzar en una subasta. Un claro ejemplo d… [+2900 chars]"
     }
   ]
 }
