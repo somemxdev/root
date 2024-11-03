@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "$19,800,000 To Be Handed To Apple Customers in Settlement With US Regulator and Trillion-Dollar Bank",
+      "Description": "A US regulator has announced a settlement with Goldman Sachs and Apple that will send nearly $20 million to Apple customers. The Consumer Financial Protection Bureau (CFPB) says Goldman Sachs and Apple “illegally mishandled transaction disputes” from Apple Ca…",
+      "Url": "https://dailyhodl.com/2024/11/02/19800000-to-be-handed-to-apple-customers-in-settlement-with-us-regulators-and-trillion-dollar-bank/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-card-apple.jpg",
+      "PublishedAt": "2024-11-02T20:35:14Z",
+      "Content": "A US regulator has announced a settlement with Goldman Sachs and Apple that will send nearly $20 million to Apple customers.\r\nThe Consumer Financial Protection Bureau (CFPB) says Goldman Sachs and Ap… [+1754 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.radaronline.com/brand-img/mp3FOkTGn/1200x628/garth-brooks-compared-to-sean-diddy-combs-1728063495757.png",
       "PublishedAt": "2024-10-04T17:41:51Z",
       "Content": "RadarOnline.com previously reported Combs accused the lone sex trafficking victim named in his indictment of attempting to extort him. \r\nCombs claimed the alleged victim threatened to release a \"tell… [+652 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "LW",
-      "Title": "Crawford turned down a million-dollar offer from McGregor: I can make money, but you're not going to kick me",
-      "Description": "At 37 years old, Terence Crawford&apos;s career is coming to an end, and despite being one of the most dominant boxers, with championships in each of the four categories in which h",
-      "Url": "https://www.marca.com/en/boxing/2024/10/04/66ffd3ed22601d7b648b456c.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/f33ad203575a867901b684cac1259e05/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280421711172.png",
-      "PublishedAt": "2024-10-04T11:45:15Z",
-      "Content": "At 37 years old, Terence Crawford's career is coming to an end, and despite being one of the most dominant boxers, with championships in each of the four categories in which he has fought, he needs o… [+1879 chars]"
     }
   ]
 }
