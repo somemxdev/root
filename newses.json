@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Richard Henderson",
+      "Title": "Trump y Kamala ‘tumban’ al dólar: Peso mexicano se aprecia 19 centavos esta tarde",
+      "Description": "El peso mexicano se apreció frente al dólar debido a la incertidumbre de las elecciones en Estados Unidos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/03/peso-dolar-precio-hoy-3-noviembre-tipo-de-cambio-se-aprecia-por-elecciones-en-estados-unidos-donald-trump-kamala-harris/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ZB2MTJ5STNEHNKSRB6LT554W5Q.jpeg?smart=true&auth=67c5aa49bec1863ca4db7fe4db5509e00091a12d24c56c54fcfe8f5b2488238d&width=1200&height=630",
+      "PublishedAt": "2024-11-04T01:19:34Z",
+      "Content": "Debido a lo cerradas que van las encuestas en torno a las elecciones presidenciales en Estados Unidos, el dólar se ha depreciado la tarde de este domingo 3 de noviembre, con la apertura de los mercad… [+2482 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-28T14:54:48Z",
       "Content": "El peso se depreciaba este lunes debido a la cautela de los inversores a medida que se acerca la elección presidencial en Estados Unidos, en el inicio de una semana que estará marcada por una serie d… [+891 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 28 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 28 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-28-de-octubre-nid28102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-28T14:06:26Z",
-      "Content": "Este lunes 28 de octubre, el precio del dólar en México es de $19,9303, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2534 chars]"
     }
   ]
 }
