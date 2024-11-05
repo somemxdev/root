@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thechronicle.com.gh"
+      },
+      "Author": "THE CHRONICLE",
+      "Title": "Editorial: The Cedi-Dollar Volatility: So BoG Has The Answers, But Sat Down Unconcerned?",
+      "Description": "The Bank of Ghana (BoG), according to Starrfm.com.gh report, is taking proactive steps to stabilise the cedi by building up its reserves, particularly as the festive season approaches and the demand for foreign exchange surges. Currently, the news portal cont…",
+      "Url": "https://thechronicle.com.gh/editorial-the-cedi-dollar-volatility-so-bog-has-the-answers-but-sat-down-unconcerned/",
+      "UrlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2023/02/Untitled-design-63.jpg",
+      "PublishedAt": "2024-11-04T08:26:50Z",
+      "Content": "The Bank of Ghana (BoG), according to Starrfm.com.gh report, is taking proactive steps to stabilise the cedi by building up its reserves, particularly as the festive season approaches and the demand … [+3542 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-05T10:22:00Z",
       "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Radaronline.com"
-      },
-      "Author": "Haley Gunn",
-      "Title": "Garth Brooks Rape Accuser's Lawyer Sensationally Compares Him to DIDDY — After Country Star Branded Sexual Assault Lawsuit a Multi-Million Dollar 'Blackmail' Money-Grab",
-      "Description": "The lawyer representing Garth Brooks' rape accuser compared the singer to Sean 'Diddy' Combs after he slammed the lawsuit as a money grab.",
-      "Url": "https://radaronline.com/p/garth-brooks-rape-accuser-lawyer-compares-him-sean-diddy-combs/",
-      "UrlToImage": "https://media.radaronline.com/brand-img/mp3FOkTGn/1200x628/garth-brooks-compared-to-sean-diddy-combs-1728063495757.png",
-      "PublishedAt": "2024-10-04T17:41:51Z",
-      "Content": "RadarOnline.com previously reported Combs accused the lone sex trafficking victim named in his indictment of attempting to extort him. \r\nCombs claimed the alleged victim threatened to release a \"tell… [+652 chars]"
     }
   ]
 }
