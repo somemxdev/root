@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Enrique Quintana",
+      "Title": "El incierto futuro de la paridad del peso frente al dólar",
+      "Description": "Si el martes por la noche se confirma el triunfo de Donald Trump, habrá otro ajuste alcista en el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2024/11/04/el-incierto-futuro-de-la-paridad-del-peso-frente-al-dolar/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WQOWXQOMCZEENFWB3ZCOORDCC4.jpg?smart=true&auth=54f9a121f83d015971bc03dfa5c2230f9cfeee09acb00a30c8c768012c37e5c9&width=1200&height=630",
+      "PublishedAt": "2024-11-04T13:06:17Z",
+      "Content": "El dólar cerró el viernes pasado las operaciones financieras en México en 20.28 pesos, lo que significa la cotización más elevada desde el 26 de septiembre del año 2022, hace poco más de 25 meses.\r\nM… [+3665 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-1968-que-aumento-su-valor-debido-a-RDYQ7W6AWNEE5KUHH4LJOPIBBQ.jpg?auth=3244ff492101b27fb0b96889c80bece260044ebd40096ca211fd59af405f039f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-28T18:23:21Z",
       "Content": "Entrelas monedas que destacan por su valor en el mercado de la numismática, la de diez centavos sin la marca de ceca S de 1968 es una de las que más sorprendió a coleccionistas. Su rareza y un inusua… [+4095 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso ‘se le sube el muerto’: Tipo de cambio llega a las 20 unidades ante el dólar",
-      "Description": "La incertidumbre provocada por el factor elecciones en EU puede llevar al tipo de cambio más adentro del terreno de las 20 unidades, pronosticaron analistas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/28/peso-dolar-precio-hoy-28-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
-      "PublishedAt": "2024-10-28T15:58:09Z",
-      "Content": "El peso mexicano inicia la recta final de octubre operando en el piso de las 20 unidades ante el dólar debido a la incertidumbre por la elección presidencial en Estados Unidos. Además, los operadores… [+1700 chars]"
     }
   ]
 }
