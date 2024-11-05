@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "El Banco Central congeló hoy el dólar oficial en medio de rumores en el mercado sobre una posible baja en el ritmo del crawling peg",
+      "Description": "Lo dejó clavado al mismo nivel del cierre del viernes; no es la primera vez que lo hace, pero esta vez fue en medio de crecientes especulaciones surgidas tras la baja de tasas; la entidad sumó hoy reservas por US$30 millones y las tenencias brutas superaron l…",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-congelo-hoy-el-dolar-oficial-en-medio-de-rumores-en-el-mercado-sobre-una-posible-nid04112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-mercado-busca-anticipar-como-se-movera-la-MEI4TWZZGRB4NJUFIW3CCBYEME.JPG?auth=e73f7bdbf40992ca49c44a65be43b0ac83e955a7088f01926282ecc84d8171cb&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-04T21:53:34Z",
+      "Content": "El Banco Central (BCRA) dejó sin cambios hoy la cotización del dólar mayorista, que cerró a $990/993 por unidad para la compra y venta, respectivamente, los mismos valores del cierre del viernes, tal… [+6580 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/10/precio-dolar-peso-mexicano.jpg",
       "PublishedAt": "2024-10-28T23:12:26Z",
       "Content": "Lo que necesitas saber:\r\nConforme se acerca el mero día de las elecciones en Estados Unidos, el dólar ha ido agarrando fuerza.\r\n¿Ya vieron que el precio del dólar ha ido en aumento en tanto se acerca… [+3608 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Dólar: las definiciones del nuevo CEO del Banco Supervielle",
-      "Description": "Gustavo Manriquez elogió el rumbo económico y proyectó un crecimiento del crédito en el mercado local",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-las-definiciones-del-nuevo-ceo-del-banco-supervielle-nid28102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gustavo-manriquez-ceo-del-banco-BJPJXZPNUBHEBLZUOZMB2DKQNI.jpeg?auth=7b6be26bf738a8b2f3374e584155df21cc87759b95e1b4663059a54558b1d876&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-28T20:04:02Z",
-      "Content": "En el sector financiero el optimismo permea todas las proyecciones. Luego del shock del primer semestre, los escenarios contemplan recuperación del nivel de actividad, impulsado por el sector de la e… [+5643 chars]"
     }
   ]
 }
