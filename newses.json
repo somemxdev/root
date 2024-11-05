@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 4 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 4 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 1.31 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-04T12:04:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 4 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 1.31 por c… [+874 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
       "PublishedAt": "2024-10-28T15:58:09Z",
       "Content": "El peso mexicano inicia la recta final de octubre operando en el piso de las 20 unidades ante el dólar debido a la incertidumbre por la elección presidencial en Estados Unidos. Además, los operadores… [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cotiza en la barrera de 20 unidades por dólar ante nerviosismo por las eleciones en EU",
-      "Description": "Forbes México.\n Peso cotiza en la barrera de 20 unidades por dólar ante nerviosismo por las eleciones en EU\n\nEl peso cotizaba en 19.9940 por dólar, con una pérdida de un 0.22% frente al precio de referencia de Reuters del viernes, aunque más temprano llegó a …",
-      "Url": "https://forbes.com.mx/peso-cotiza-en-la-barrera-de-20-unidades-por-dolar-ante-nerviosismo-por-las-eleciones-en-eu/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-28T14:54:48Z",
-      "Content": "El peso se depreciaba este lunes debido a la cautela de los inversores a medida que se acerca la elección presidencial en Estados Unidos, en el inicio de una semana que estará marcada por una serie d… [+891 chars]"
     }
   ]
 }
