@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 4 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 4 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-4-de-noviembre-nid04112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2024-11-04T14:13:26Z",
+      "Content": "Este lunes 4 de noviembre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2153 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "El Financiero"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gustavo-manriquez-ceo-del-banco-BJPJXZPNUBHEBLZUOZMB2DKQNI.jpeg?auth=7b6be26bf738a8b2f3374e584155df21cc87759b95e1b4663059a54558b1d876&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-28T20:04:02Z",
       "Content": "En el sector financiero el optimismo permea todas las proyecciones. Luego del shock del primer semestre, los escenarios contemplan recuperación del nivel de actividad, impulsado por el sector de la e… [+5643 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El inusual color en la moneda de diez centavos de dólar que puede hacer que valga hasta US$18.000",
-      "Description": "La “Dime No S” de 1968 es una de las piezas más codiciadas entre los coleccionistas, lo que elevó su precio en subastas; además, tiene un error y otros factores clave que la volvieron una joya preciada en el mercado de la numismática",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-inusual-color-en-la-moneda-de-diez-centavos-de-dolar-que-puede-hacer-que-valga-hasta-us18000-nid28102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-1968-que-aumento-su-valor-debido-a-RDYQ7W6AWNEE5KUHH4LJOPIBBQ.jpg?auth=3244ff492101b27fb0b96889c80bece260044ebd40096ca211fd59af405f039f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-28T18:23:21Z",
-      "Content": "Entrelas monedas que destacan por su valor en el mercado de la numismática, la de diez centavos sin la marca de ceca S de 1968 es una de las que más sorprendió a coleccionistas. Su rareza y un inusua… [+4095 chars]"
     }
   ]
 }
