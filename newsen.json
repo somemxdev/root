@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -378,19 +378,6 @@
       "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_052dec0c-2500-4d43-8bfd-36213dfa0bfa",
       "UrlToImage": null,
       "PublishedAt": "2024-10-07T02:31:40Z",
-      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "My wife and I lost our multimillion-dollar home in a landslide — but the bank still chases us for our mortgage",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a23298bd-5be7-4f8a-8686-efcbe5cd5f4b",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-05T10:22:00Z",
       "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
