@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "El triunfo de Trump: se fortalece el dólar, retroceden las monedas de la región y el peso enfrenta una presión adicional",
+      "Description": "El fortalecimiento de la moneda norteamericana ya registra correlatos a nivel mundial, que aún no llegan a la divisa argentina; las nuevas presiones desafían la política cambiaria del Gobierno",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/el-triunfo-de-trump-se-fortalece-el-dolar-retroceden-las-monedas-de-la-region-y-el-peso-enfrenta-una-nid06112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/javier-milei-bbc-bbc-mundo-xi-jinping-donald-J6ZJTQLVYNH25APG6IRZW2T5BI.jpg?auth=8ac64423b2952f685a12aff2cf4d3ab46d168b06a3b3a4a73ef14661ae22187c&width=1200&quality=70&smart=false&height=803",
+      "PublishedAt": "2024-11-06T15:47:00Z",
+      "Content": "Confirmado el triunfo de Donald Trump en las elecciones presidenciales de los Estados Unidos, pasó lo que el mercado proyectaba para las principales variables financieras: fortalecimiento del dólar, … [+4199 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "BMV abre con fuerte caída tras victoria de Trump; peso cotiza hasta en 21.13 por dólar, su nivel más alto en dos años",
+      "Description": "Forbes México.\n BMV abre con fuerte caída tras victoria de Trump; peso cotiza hasta en 21.13 por dólar, su nivel más alto en dos años\n\nLa Bolsa Mexicana de Valores caía con fuerza en sus primeras negociaciones tras la victoria de Trump, cuyas políticas comerc…",
+      "Url": "https://forbes.com.mx/bmv-abre-con-fuerte-caida-tras-victoria-electoral-de-trump-peso-cotiza-en-20-63-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
+      "PublishedAt": "2024-11-06T15:44:55Z",
+      "Content": "La Bolsa Mexicana de Valores caía con fuerza en sus primeras negociaciones de este miércoles después de que se diera a conocer la victoria en las elecciones estadounidenses de Donald Trump, cuyas pol… [+1202 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9754.webp",
       "PublishedAt": "2024-10-29T21:26:12Z",
       "Content": "El peso hiló este martes cuatro sesiones con depreciaciones y se mantuvo en el nivel de las 20 unidades por dólar al cierre, según datos de Banxico.\r\nEl dólar se ubicó en 20.0845 pesos por dólar, una… [+2010 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central hizo la mayor compra de reservas en más de cinco meses",
-      "Description": "Se alzó con US$193 millones, el monto más alto desde el 16 de mayo; estaría cerrando su mejor octubre de los últimos 15 años",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-hizo-la-mayor-compra-de-reservas-en-mas-de-cinco-meses-nid29102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-29T20:15:52Z",
-      "Content": "El Banco Central (BCRA) concretó hoy la mayor compra de reservas por intervenciones sobre el mercado cambiario oficial de los últimos cinco meses y medio. La entidad, que conduce Santiago Bausili, se… [+3472 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Zimbabue aprueba el uso de su moneda respaldada en oro para abandonar la dependencia del dólar",
-      "Description": "Aunque las leyes vigentes en el país dictan que el dólar seguirá siendo de curso legal hasta el 2030, las autoridades aseguran que esto podría cambiar.",
-      "Url": "https://actualidad.rt.com/actualidad/528296-zimbabue-aprobar-uso-moneda-oro-dolar",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6720f28259bf5b5a220d6ee4.jpg",
-      "PublishedAt": "2024-10-29T16:32:55Z",
-      "Content": "El partido gobernante de Zimbabue ha aprobado una resolución para que se adopte la moneda ZiG, respaldada por lingotes de oro, como única divisa de curso legal del país y así abandonar progresivament… [+1066 chars]"
     }
   ]
 }
