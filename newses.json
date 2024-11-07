@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Víctor Blanco Moro",
+      "Title": "El euro se hunde frente al dólar y resurgen los fantasmas de la paridad",
+      "Description": "La victoria de Donald Trump en las elecciones estadounidenses ha sentado al mercado como un huracán. No sólo las bolsas están ajustándose a las nuevas expectativas que vienen asociadas a las promesas electorales del nuevo presidente: otros activos, como la re…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13071426/11/24/el-euro-se-hunde-frente-al-dolar-y-resurgen-los-fantasmas-de-la-paridad.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/3825x2088/6/4/a/1200x655_Eurodolar.jpg",
+      "PublishedAt": "2024-11-06T19:19:20Z",
+      "Content": "La victoria de Donald Trump en las elecciones estadounidenses ha sentado al mercado como un huracán. No sólo las bolsas están ajustándose a las nuevas expectativas que vienen asociadas a las promesas… [+4594 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-31T14:50:33Z",
       "Content": "Este jueves 31 de octubre, el precio del dólar en México es de $20,1617, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2875 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Melanie Pérez",
-      "Title": "Precio del dólar HOY jueves 31 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 31 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.09 pesos por unidad, con un debilitamiento del 0.29 por ciento, según datos de Bloomberg.Ayer el peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-31T12:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólarHOY jueves 31 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.09 pesos por unidad, con un debilitamiento del 0.… [+930 chars]"
     }
   ]
 }
