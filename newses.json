@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 6 de noviembre, tras las elecciones en EE.UU.",
+      "Description": "Las elecciones presidenciales en Estados Unidos generaron una considerable incertidumbre en los mercados financieros globales, lo que afectó directamente el tipo de cambio entre el dólar y el peso mexicano.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-6-de-noviembre-tras-las-nid06112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-06T14:07:23Z",
+      "Content": "Este miércoles 6 de noviembre, el precio del dólar en México es de $20,2695, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2858 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6720f28259bf5b5a220d6ee4.jpg",
       "PublishedAt": "2024-10-29T16:32:55Z",
       "Content": "El partido gobernante de Zimbabue ha aprobado una resolución para que se adopte la moneda ZiG, respaldada por lingotes de oro, como única divisa de curso legal del país y así abandonar progresivament… [+1066 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano sigue cayendo; se consolida por encima de los 20 por dólar",
-      "Description": "La moneda nacional cotizaba en 20.03 por dólar, con un marginal retroceso de un 0.04% frente al precio de referencia del lunes.",
-      "Url": "https://aristeguinoticias.com/2910/dinero-y-economia/peso-mexicano-sigue-cayendo-se-consolida-por-encima-de-los-20-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
-      "PublishedAt": "2024-10-29T16:26:26Z",
-      "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano se depreciaba ligeramente el martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores… [+1197 chars]"
     }
   ]
 }
