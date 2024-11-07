@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Oil tumbles with Trump trades aiding dollar as US counts votes - Yahoo Finance",
+      "Description": "Oil tumbles with Trump trades aiding dollar as US counts votesYahoo Finance Oil falls as projected Trump win sends US dollar higherReuters Oil Prices and Clean-Energy Stocks Drop on Likely Trump VictoryThe Wall Street Journal Oil prices hold steady ahead of U…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175415017",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-06T10:52:51Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-08T10:06:31Z",
       "Content": "Skip to comments.\r\nFTX [Sam Bankman-Fried] creditors will make money on bankruptcy: $1.19 for every dollarCNBC (Business News) ^\r\n | 07 October 2024\r\n | MacKenzie Sigalos\r\nPosted on 10/08/2024 3:06:3… [+2164 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Norinchukin Bank Plans First Dollar Bond Since Flagging Losses",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_052dec0c-2500-4d43-8bfd-36213dfa0bfa",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-07T02:31:40Z",
-      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
