@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Karla López",
+      "Title": "Precio del dólar HOY 6 de noviembre 2024: Peso mexicano toca su peor nivel en dos años tras Elecciones en EU",
+      "Description": "El dólar HOY miércoles 6 de noviembrese encaminaba a su mayor alza diaria desde marzo de 2023 frente a sus principales pares, mientras el bitcoin saltó a un máximo histórico, con los operadores cada vez más confiados en una victoria del ex presidente Donald T…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-noviembre-tipo-cambio-tras-elecciones-eu-2024",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-06T13:45:00Z",
+      "Content": "El dólar HOY miércoles 6 de noviembre se encaminaba  a su mayor alza diaria desde marzo de 2023 frente a sus principales pares, mientras el bitcoin saltó a un máximo histórico, con los operadores cad… [+1168 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 6 de noviembre: El peso mexicano se devalúa luego de la elección de Donald Trump",
+      "Description": "La divisa estadounidense aumentó su cotización más de 50 centavos de peso en comparación al día anterior",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-6-de-noviembre-el-peso-mexicano-se-devalua-luego-de-la-eleccion-de-donald",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/06/dolar_1.jpg",
+      "PublishedAt": "2024-11-06T13:34:40Z",
+      "Content": "Este miércoles 6 de noviembre de 2024 el dólar se cotiza en $20.64 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió considerable terreno ente a la divisa estadounidense, … [+1139 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
       "PublishedAt": "2024-10-29T16:26:26Z",
       "Content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl peso mexicano se depreciaba ligeramente el martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores… [+1197 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Tipo de cambio regresa a las 19 unidades: ¿En cuánto se cotiza el peso ante el dólar?",
-      "Description": "El peso mexicano es de las monedas más 'sensibles' a la incertidumbre provocada por la elección presidencial de EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/29/peso-dolar-precio-hoy-29-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SM5EUJVVJJF7LBMSXKC7LWZZSU.jpg?smart=true&auth=efd223318daec52742a5261511b9e317a72d13274e83db7eab8a8877f7a28052&width=1200&height=630",
-      "PublishedAt": "2024-10-29T16:17:55Z",
-      "Content": "El peso mexicano regresó temporalmente al terreno de las 19 unidades este 29 de octubre a una semana de la elección presidencial en Estados Unidos, un evento que puede desestabilizar al tipo de cambi… [+1565 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cotiza arriba de 20 unidades por dólar por nerviosismo ante un probable triunfo de Trump",
-      "Description": "Forbes México.\n Peso cotiza arriba de 20 unidades por dólar por nerviosismo ante un probable triunfo de Trump\nEl peso cotizaba en 20.0320 por dólar, con un marginal retroceso de un 0.04% frente al precio de referencia de Reuters del lunes.\nPeso cotiza arriba …",
-      "Url": "https://forbes.com.mx/peso-cotiza-arriba-de-20-unidades-por-dolar-por-nerviosismo-ante-un-probable-triunfo-de-trump/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-29T14:47:53Z",
-      "Content": "El peso se depreciaba ligeramente este martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores que aguardan la elección presidencial del 5 de noviembre e… [+908 chars]"
     }
   ]
 }
