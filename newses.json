@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso, en 20.70 por dólar, su menor valor desde 2022",
+      "Description": "Ante resultados preliminares que dan ventaja a Donald Trump en las elecciones en Estados Unidos, y luego de que la Suprema Corte de Justicia de la Nación desechó el proyecto para invalidar la reforma al Poder Judicial de la Federación, la moneda nacional se d…",
+      "Url": "https://www.jornada.com.mx/2024/11/06/economia/017n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/11/06/fotos/017n1eco-1.jpg",
+      "PublishedAt": "2024-11-06T11:54:57Z",
+      "Content": "Periódico La JornadaMiércoles 6 de noviembre de 2024, p. 17\r\nAnte resultados preliminares que dan ventaja a Donald Trump en las elecciones en Estados Unidos, y luego de que la Suprema Corte de Justic… [+7253 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-29T14:47:53Z",
       "Content": "El peso se depreciaba ligeramente este martes, apuntando a su tercera jornada consecutiva de pérdidas, debido a la cautela de los inversores que aguardan la elección presidencial del 5 de noviembre e… [+908 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 29 de octubre",
-      "Description": "De acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio de $19,975. A continuación, la cotización del día de la fecha.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-29-de-octubre-nid29102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-X6RMNVUCBVEX5IRBEAXK7H5MKA.jpg?auth=0c217ff3003666cbbe29380823c6ff5e56452cc4b826ae9586657e58b3aaef57&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-29T14:31:39Z",
-      "Content": "Este martes 29 de octubre, el precio del dólar en México es de $20,0007, de acuerdo con el Diario Oficial de la Federación, mientras que el que se vende por las ventanillas del Citibanamex es de un p… [+2715 chars]"
     }
   ]
 }
