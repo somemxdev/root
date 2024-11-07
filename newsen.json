@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Viewfromthewing.com"
+      },
+      "Author": "Gary Leff",
+      "Title": "Bank Of America Credit Cards Earn Two Extra Points Per Dollar On Thursday",
+      "Description": "Bank of America is offering 2 extra points or an additional 2% cash back across its card portfolio. They’re calling Thursday, November 7th “More Rewards Day.”\nContinue reading Bank Of America Credit Cards Earn Two Extra Points Per Dollar On Thursday...",
+      "Url": "https://viewfromthewing.com/bank-of-america-credit-cards-earn-two-extra-points-per-dollar-on-thursday/",
+      "UrlToImage": "https://viewfromthewing.com/wp-content/uploads/2024/11/bank-of-america.jpg",
+      "PublishedAt": "2024-11-05T23:04:15Z",
+      "Content": "Bank of America is offering 2 extra points or an additional 2% cash back across its card portfolio. They’re calling Thursday, November 7th “More Rewards Day.”\r\nThat includes airline cards like Alaska… [+418 chars]"
+    },
     {
       "Source": {
         "Id": null,
