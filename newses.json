@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Lucy Sanabria",
+      "Title": "¿Qué sigue para el peso y el precio del dólar en la cruda de las Elecciones de Estados Unidos?",
+      "Description": "¿Y cómo le fue al peso mexicano tras los resultados de las elecciones en Estados Unidos y la polémica victoria de Donald Trump? La verdad es...\nThe post ¿Qué sigue para el peso y el precio del dólar en la cruda de las Elecciones de Estados Unidos? appeared fi…",
+      "Url": "https://www.sopitas.com/noticias/dolar-precio-peso-mexicano-elecciones-estados-unidos/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/10/dolar-peso-mexicano.jpg",
+      "PublishedAt": "2024-11-06T16:55:59Z",
+      "Content": "Lo que necesitas saber:\r\nEl peso se fue depreciando durante las elecciones en Estados Unidos y se espera un posible reajuste con los días.\r\n¿Y cómo le fue al peso mexicano tras los resultados de las … [+3417 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Gaspar Vela",
+      "Title": "Variación del peso frente al dólar es por elección en EU: Sheinbaum",
+      "Description": "La presidenta Claudia Sheinbaum señaló que la variación del peso frente al dólar se debe, principalmente, a las elecciones presidenciales de Estados Unidos, que se llevaron a cabo ayer.En la conferencia mañanera en Palacio Nacional, la mandataria afirmó que l…",
+      "Url": "https://www.milenio.com/politica/variacion-peso-dolar-eleccion-eu-sheinbaum",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/06/conferencia-mananera-presidenta-sostuvo-peso.jpg",
+      "PublishedAt": "2024-11-06T16:28:04Z",
+      "Content": "La presidenta Claudia Sheinbaum señaló que la variación del peso frente al dólar se debe, principalmente, a las elecciones presidenciales de Estados Unidos, que se llevaron a cabo ayer.\r\nEn la confer… [+1058 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-10-30T15:21:34Z",
       "Content": "Este miércoles 30 de octubre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2172 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 30 de octubre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 30 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del 0.38 por ciento, según datos de Bloomberg.El peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-octubre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-10-30T12:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 30 de octubre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento d… [+947 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso hila cuatro jornadas con pérdidas y se mantiene en las 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso hila cuatro jornadas con pérdidas y se mantiene en las 20 unidades por dólar\n\nLos riesgos al alza para el tipo de cambio siguen creciendo debido a las apuestas crecientes de que Trump pueda ganar, según el grupo financiero Base.\nPeso hila…",
-      "Url": "https://forbes.com.mx/peso-hila-cuatro-jornadas-con-perdidas-y-se-mantiene-en-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9754.webp",
-      "PublishedAt": "2024-10-29T21:26:12Z",
-      "Content": "El peso hiló este martes cuatro sesiones con depreciaciones y se mantuvo en el nivel de las 20 unidades por dólar al cierre, según datos de Banxico.\r\nEl dólar se ubicó en 20.0845 pesos por dólar, una… [+2010 chars]"
     }
   ]
 }
