@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Se le va ‘la cruda’ al peso ante el dólar: Tipo de cambio baja a las 20.24 unidades",
+      "Description": "Donald Trump ganó la Presidencia de Estados Unidos después de llevarse la mayoría de votos en Wisconsin, Pensilvania, Georgia y Carolina del Norte, 4 de los 7 estados 'columpio' que podían definir la elección.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/06/peso-dolar-precio-hoy-6-de-noviembre-de-2024-victoria-de-donald-trump/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XHNXQ4FFIZFO3MJMRYRAH756DU.jpeg?smart=true&auth=14591fddf94fa1c1a59bf3719e19003f7d094ddc5d7b4388620ba91ce2515b71&width=1200&height=630",
+      "PublishedAt": "2024-11-06T17:38:27Z",
+      "Content": "El peso mexicano amanece con cruda electoral tras la victoria de Donald Trump en las elecciones de Estados Unidos, después de depreciarse hasta 3 por ciento durante la noche del martes 5 de noviembre… [+5198 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/C2D2VMH2NNE4HEHFWYLNYC4U6M.jpg?smart=true&auth=b92d0178495c02df8777dbd92af3172f57f8e429891c889913e83b47b712b9d0&width=1200&height=630",
       "PublishedAt": "2024-10-30T17:55:14Z",
       "Content": "El peso mexicano continúa su semana de terror ante el dólar a medida que los inversionistas asimilan las cifras de crecimiento del PIB de México y EU del tercer trimestre publicadas este 30 de octubr… [+1718 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 30 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 30 octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-30-de-octubre-nid30102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-30T15:21:34Z",
-      "Content": "Este miércoles 30 de octubre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2172 chars]"
     }
   ]
 }
