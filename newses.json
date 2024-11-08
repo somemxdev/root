@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "redaccion@bolsamania.com (María Campillo)",
+      "Title": "¿Se desplomará el euro hasta la paridad con el dólar? Esto opinan los analistas",
+      "Description": "La aplastante victoria de Donald Trump en las elecciones presidenciales de EEUU ha disparado al dólar frente a casi todas las monedas del mundo. Y de ellas, el euro ha sido la que peor desempeño ha registrado entre las principales divisas. ¿Alcanzará el cable…",
+      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/desplomara-euro-hasta-paridad-dolar-esto-opinan-analistas--17941984.html",
+      "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
+      "PublishedAt": "2024-11-07T05:00:00Z",
+      "Content": "La aplastante victoria de Donald Trump en las elecciones presidenciales de EEUU ha disparado al dólar frente a casi todas las monedas del mundo. Y de ellas, el euro ha sido la que peor desempeño ha r… [+5085 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OSZ4F6NMBFEX5BPZ7HUNQG5URE.jpg?smart=true&auth=c481a26671efd0ae2f91e199a63c0c6731d60b13dcb2819030e1198f2be4f7ae&width=1200&height=630",
       "PublishedAt": "2024-10-31T17:08:37Z",
       "Content": "Al peso mexicano ya le dieron su calaverita y abre con ganancias ante el dólar este 31 de octubre tras ubicarse en su nivel más alto desde septiembre de 2022, al tiempo que los participantes del merc… [+1598 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 31 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 31 de octubre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-31-de-octubre-nid31102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-10-31T14:50:33Z",
-      "Content": "Este jueves 31 de octubre, el precio del dólar en México es de $20,1617, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2875 chars]"
     }
   ]
 }
