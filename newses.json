@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Banco Central toma nota de alza de tasas y apreciación global del dólar",
+      "Description": "Desde la entidad, explicaron que analizaran los efectos de la elección en el IPoM y reporte financiero.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/banco-central-toma-nota-de-alza-de-tasas-y-apreciacion-global-del-dolar",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241106/imag/foto_0000000120241106200925/CONSEJO-BANCO-CENTRAL-_CON-CLAUDIO-SOTO_-JC.jpg",
+      "PublishedAt": "2024-11-07T07:00:00Z",
+      "Content": "Los resultados de las elecciones presidenciales en Estados Unidos no dejaron indiferente a nadie, y menos al Banco Central de Chile, ya que, según señalaron al ser consultados por Diario Financiero, … [+1885 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/bcr-Y6IS4GCNT5HLTPARLFEZKBEL3Q.jpg?auth=2135c3e575c0e8ba5c7c59121846cd819bed510d2d4480abfc703d120efc8709&width=1200&quality=70&smart=false&height=675",
       "PublishedAt": "2024-10-31T20:56:17Z",
       "Content": "El Banco Central (BCRA) cerró hoy un octubre soñado, al poder comprar mediante intervenciones sobre el mercado oficial de cambios otros US$19 millones para, de estar manera, acumular ingresos netos p… [+3567 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ya lleva ‘calaverita’: ¿Cuánto se aprecia ante el dólar en Halloween?",
-      "Description": "La especialista Gabriela Siller destacó que la recuperación que el peso mexicano experimenta este jueves 31 de octubre no significa que la tendencia al alza del tipo de cambio haya terminado.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/10/31/peso-dolar-precio-hoy-31-de-octubre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OSZ4F6NMBFEX5BPZ7HUNQG5URE.jpg?smart=true&auth=c481a26671efd0ae2f91e199a63c0c6731d60b13dcb2819030e1198f2be4f7ae&width=1200&height=630",
-      "PublishedAt": "2024-10-31T17:08:37Z",
-      "Content": "Al peso mexicano ya le dieron su calaverita y abre con ganancias ante el dólar este 31 de octubre tras ubicarse en su nivel más alto desde septiembre de 2022, al tiempo que los participantes del merc… [+1598 chars]"
     }
   ]
 }
