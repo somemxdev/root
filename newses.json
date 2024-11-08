@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¡Toing! Peso ‘rebota’ al terreno de las 19 unidades: ¿En cuánto se cotiza ante el dólar?",
+      "Description": "Es día de decisión de la Fed y el peso mexicano lo sabe: Abre con una ganancia de más de 30 centavos ante la expectativa de un nuevo recorte a la tasa.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/07/peso-dolar-precio-hoy-7-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/UW2743V7J5GKPLW5D5E6E67S5M.jpeg?smart=true&auth=d648b705dd6f02fce39a3aa048e829d4ca5e896a04251a5bbb97ada0fff3b75d&width=1200&height=630",
+      "PublishedAt": "2024-11-07T17:07:25Z",
+      "Content": "El peso mexicano experimenta un rebototote ante el dólar este jueves 7 de noviembre, previo a que la Reserva Federal dé a conocer su decisión de política monetaria y que el mercado espera sea un nuev… [+1533 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VRSG7GHRKJEL3K7GLVZJL2ONDA.jpg?smart=true&auth=cc14b6a8365077e5789184ff2f665a4635dc4c1d49fd4b66694176d15996859e&width=1200&height=630",
       "PublishedAt": "2024-11-01T16:44:22Z",
       "Content": "El peso mexicano busca revivir en el Día de Muertos y regresar al terreno de las 19 unidades ante el dólar en una jornada en la que el principal catalizador de los mercados es el reporte de empleo en… [+2000 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 1° de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 1° de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-1-de-noviembre-nid01112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-01T15:39:09Z",
-      "Content": "Este viernes 1° de noviembre, el precio del dólar en México es de $20,0378, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2767 chars]"
     }
   ]
 }
