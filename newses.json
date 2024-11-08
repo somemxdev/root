@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y Adriana Arcos",
+      "Title": "Toma peso respiro; dólar se vende $19.80",
+      "Description": "En el mercado Forex, el tipo de cambio cerró en $19.8016 por dólar, con una ganancia para el peso de un 1.23% respecto al miércoles.",
+      "Url": "https://www.reforma.com/toma-peso-respiro-dolar-se-vende-19-80/ar2903141",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-07T14:32:55Z",
+      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (07 noviembre 2024) .-08:28 (Actualización: 11:12 hrs)"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 7 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 7 de noviembre de 2024; infórmate también sobre el impacto en las criptomonedas del triunfo de Donald Trump en EE.UU.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-7-de-noviembre-nid07112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-07T14:31:24Z",
+      "Content": "Este jueves 7 de noviembre, el precio del dólar en México es de $20,3093, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2273 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2024-11-01T12:10:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 1 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una baja del 0.14 por… [+884 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Dólar puede alcanzar los 20.50 pesos en el corto plazo si Trump gana: Banco BASE",
-      "Description": "Forbes México.\n Dólar puede alcanzar los 20.50 pesos en el corto plazo si Trump gana: Banco BASE\n\nEn el largo plazo, la materialización de cualquiera de las amenazas del republicano podría llevar a México a una recesión y posiblemente a una crisis, según el g…",
-      "Url": "https://forbes.com.mx/dolar-puede-alcanzar-los-20-50-pesos-en-el-corto-plazo-si-trump-gana-banco-base/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/10/todo-el-dinero-de-Trump.png",
-      "PublishedAt": "2024-10-31T21:57:19Z",
-      "Content": "Si Donald Trump gana las próximas elecciones presidenciales en Estados Unidos, el primer impacto de corto plazo será que el tipo de cambio alcance una cotización de 20.50 pesos por dólar, y en el lar… [+3919 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central cerró su mejor octubre, pero sus reservas totales cayeron hoy casi US$1300 millones",
-      "Description": "Compró en el mes US$1530 millones gracias a una serie de factores y la suba de encajes vinculada con el récord de depósitos",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-cerro-su-mejor-octubre-pero-sus-reservas-totales-cayeron-hoy-casi-us1300-nid31102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/bcr-Y6IS4GCNT5HLTPARLFEZKBEL3Q.jpg?auth=2135c3e575c0e8ba5c7c59121846cd819bed510d2d4480abfc703d120efc8709&width=1200&quality=70&smart=false&height=675",
-      "PublishedAt": "2024-10-31T20:56:17Z",
-      "Content": "El Banco Central (BCRA) cerró hoy un octubre soñado, al poder comprar mediante intervenciones sobre el mercado oficial de cambios otros US$19 millones para, de estar manera, acumular ingresos netos p… [+3567 chars]"
     }
   ]
 }
