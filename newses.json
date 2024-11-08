@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Finofilipino.org"
+      },
+      "Author": "Fino",
+      "Title": "El euro baja con respecto al dólar tras la victoria de Trump por las expectativas de políticas comerciales proteccionistas, como aranceles, que podrían perjudicar las exportaciones europeas.",
+      "Description": "Ver post completo: El euro baja con respecto al dólar tras la victoria de Trump por las expectativas de políticas comerciales proteccionistas, como aranceles, que podrían perjudicar las exportaciones europeas.",
+      "Url": "https://finofilipino.org/el-euro-baja-con-respecto-al-dolar-tras-la-victoria-de-trump-por-las-expectativas-de-politicas-comerciales-proteccionistas-como-aranceles-que-podrian-perjudicar-las-exportaciones-europeas/",
+      "UrlToImage": "https://finofilipino.org/wp-content/uploads/2024/11/erfqer.jpg",
+      "PublishedAt": "2024-11-07T18:30:23Z",
+      "Content": "Sabéis lo que estoy pensando, así que no voy a decirlo.\r\nVER VÍDEO EN X"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-viernes-1-de-S763KDVMDJDBLIKUFH3ZILNSYM.JPG?auth=8259ecd5499eedd77f823f4cacee184f41b7eb3cc28d28e0f436267b0c4e831b&width=1200&quality=70&smart=false&height=797",
       "PublishedAt": "2024-11-01T16:50:21Z",
       "Content": "Luego de que el Banco Central (BCRA) sorprendiera con una baja de tasas de interés, algo que no ocurría desde mayo, hoy los dólares financieros abrieron al alza. Además, en una rueda positiva a nivel… [+3718 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Día de Muertos para el peso: Busca regresar al ‘altar’ de las 19 unidades ante el dólar",
-      "Description": "El peso podría verse beneficiado por un nuevo recorte de la tasa de la Fed, que ahora se ve más factible debido al reporte de empleo en EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/01/peso-dolar-precio-hoy-1-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VRSG7GHRKJEL3K7GLVZJL2ONDA.jpg?smart=true&auth=cc14b6a8365077e5789184ff2f665a4635dc4c1d49fd4b66694176d15996859e&width=1200&height=630",
-      "PublishedAt": "2024-11-01T16:44:22Z",
-      "Content": "El peso mexicano busca revivir en el Día de Muertos y regresar al terreno de las 19 unidades ante el dólar en una jornada en la que el principal catalizador de los mercados es el reporte de empleo en… [+2000 chars]"
     }
   ]
 }
