@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY 7 de noviembre de 2024: Peso 'toma un respiro' tras inflación; atento al anuncio de la Fed",
+      "Description": "El dólarHOY jueves 7 de noviembreoperaba cerca de máximos de cuatro meses, después de haber anotado su mayor subida diaria en dos años tras la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos, y mientras los inversores se preparaban…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2024-11-07T15:25:42Z",
+      "Content": "El dólar HOY jueves 7 de noviembre operaba cerca de máximos de cuatro meses, después de haber anotado su mayor subida diaria en dos años tras la victoria de Donald Trump en las elecciones presidencia… [+1287 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-01T15:39:09Z",
       "Content": "Este viernes 1° de noviembre, el precio del dólar en México es de $20,0378, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2767 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 1 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 1 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una baja del 0.14 por ciento, según datos de Bloomberg.El peso mexicanose aprecia …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2024-11-01T12:10:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 1 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.00 pesos por unidad, con una baja del 0.14 por… [+884 chars]"
     }
   ]
 }
