@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Environmental Defense Fund"
+      },
+      "Author": "Juan Pablo Hoffmaister",
+      "Title": "To make every dollar count, we must measure the impact of climate finance",
+      "Description": "As countries discuss a new goal on climate finance at the UN climate conference, COP29, we have an opportunity to boost the impact of every dollar we invest in climate action.   In climate finance, impact represents the measurable, positive outcomes achieved …",
+      "Url": "https://blogs.edf.org/climate411/2024/11/08/to-make-every-dollar-count-we-must-measure-the-impact-of-climate-finance/",
+      "UrlToImage": "https://blogs.edf.org/climate411/wp-content/blogs.dir/7/files//The-Evidence-Gap-Fig-1.jpg",
+      "PublishedAt": "2024-11-08T21:59:37Z",
+      "Content": "As countries discuss a new goal on climate finance at the UN climate conference, COP29, we have an opportunity to boost the impact of every dollar we invest in climate action.  \r\nIn climate finance, … [+7079 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "David Sanford, Forbes Listmaker, \n David Sanford, Forbes Listmaker\n https://www.forbes.com/sites/forbes-listmaker/people/davidsanford/",
+      "Title": "Breaking The Bank To Break The Ceiling: The Multi-Million Dollar Case For Equality",
+      "Description": "For many accomplished women, the momentum of their success inexplicably halts for reasons outside of their control and that often manifests in wrongful termination, di...",
+      "Url": "https://www.forbes.com/sites/forbes-listmaker/2024/11/08/breaking-the-bank-to-break-the-ceiling--the-multi-million-dollar-case-for-equality/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/67253d6614619b6de08aed00/0x0.jpg?format=jpg&crop=1554,541,x0,y21,safe&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-11-08T21:59:00Z",
+      "Content": "Women in executive, partner, and physician roles continue to contend with deeply entrenched barriers that can prevent them from reaching and excelling at the highest levels of their organization, des… [+5606 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-10-14T11:59:05Z",
       "Content": "UMB Bank n.a. lowered its position in Dollar General Co. (NYSE:DG – Free Report) by 46.2% in the 3rd quarter, Holdings Channel reports. The firm owned 823 shares of the company’s stock after selling … [+6558 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fujirumors.com"
-      },
-      "Author": "Patrick",
-      "Title": "US Dollar Price for Fujinon XF16-55mmF2.8 II and XF500mmF5.6",
-      "Description": "We leaked the price for the Fujinon XF16-55mmF2.8 II and the Fujinon XF500mmF5.6 in £ and € already in this article. Well, I have received information about the price in US Dollar, which is not yet multiple checked but I share it anyway, because the announcem…",
-      "Url": "https://www.fujirumors.com/us-dollar-price-for-fujinon-xf16-55mmf2-8-ii-and-xf500mmf5-6/",
-      "UrlToImage": "https://www.fujirumors.com/wp-content/uploads/2024/10/US-Dollar-Price-720x371.jpg",
-      "PublishedAt": "2024-10-13T11:52:40Z",
-      "Content": "We leaked the price for the Fujinon XF16-55mmF2.8 II and the Fujinon XF500mmF5.6 in £ and already in this article.\r\nWell, I have received information about the price in US Dollar, which is not yet mu… [+809 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Czech National Bank Acquires 1,670 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Czech National Bank raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.2% during the third quarter, according to its most recent disclosure with the Securities and Exchange Commission. The institutional investor owned 41,159 shares of t…",
-      "Url": "https://www.etfdailynews.com/2024/10/13/czech-national-bank-acquires-1670-shares-of-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-10-13T10:43:24Z",
-      "Content": "Czech National Bank raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.2% during the third quarter, according to its most recent disclosure with the Securities and Exchange Com… [+5824 chars]"
     }
   ]
 }
