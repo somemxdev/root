@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Dólar en 2025: a cuánto cotizará la divisa, según el último REM que publicó el Banco Central",
+      "Description": "Se trata de la edición más reciente de la encuesta que todos los meses realiza el BCRA entre 43 participantes; incluye datos sobre tipo de cambio, inflación, crecimiento y tasas de interés, entre otras proyecciones",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-en-2025-a-cuanto-cotizara-la-divisa-segun-el-ultimo-rem-que-publico-el-banco-central-nid08112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotizara-el-dolar-en-2025-segun-las-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-08T13:59:08Z",
+      "Content": "Los analistas volvieron a rebajar sus proyecciones de inflación para lo que resta del año y para el que viene (del 35% al 31,4%), aunque sus números se mantienen distantes de las previsiones que está… [+3975 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 8 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 8 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-8-de-noviembre-nid08112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-8-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-08T13:59:05Z",
+      "Content": "Este viernes 8 de noviembre, el precio del dólar en México es de $19,8277, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2230 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WQOWXQOMCZEENFWB3ZCOORDCC4.jpg?smart=true&auth=54f9a121f83d015971bc03dfa5c2230f9cfeee09acb00a30c8c768012c37e5c9&width=1200&height=630",
       "PublishedAt": "2024-11-04T13:06:17Z",
       "Content": "El dólar cerró el viernes pasado las operaciones financieras en México en 20.28 pesos, lo que significa la cotización más elevada desde el 26 de septiembre del año 2022, hace poco más de 25 meses.\r\nM… [+3665 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 4 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 4 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 1.31 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-04T12:04:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 4 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.01 pesos por unidad, con una baja del 1.31 por c… [+874 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Richard Henderson",
-      "Title": "Trump y Kamala ‘tumban’ al dólar: Peso mexicano se aprecia 19 centavos esta tarde",
-      "Description": "El peso mexicano se apreció frente al dólar debido a la incertidumbre de las elecciones en Estados Unidos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/03/peso-dolar-precio-hoy-3-noviembre-tipo-de-cambio-se-aprecia-por-elecciones-en-estados-unidos-donald-trump-kamala-harris/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ZB2MTJ5STNEHNKSRB6LT554W5Q.jpeg?smart=true&auth=67c5aa49bec1863ca4db7fe4db5509e00091a12d24c56c54fcfe8f5b2488238d&width=1200&height=630",
-      "PublishedAt": "2024-11-04T01:19:34Z",
-      "Content": "Debido a lo cerradas que van las encuestas en torno a las elecciones presidenciales en Estados Unidos, el dólar se ha depreciado la tarde de este domingo 3 de noviembre, con la apertura de los mercad… [+2482 chars]"
     }
   ]
 }
