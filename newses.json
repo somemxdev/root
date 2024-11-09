@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso vuelve a caer; dólar se vende en $20.27",
+      "Description": "En mercado Forex, peso perdió un 2.4% y dólar se vendió en 20.27 unidades, tras anuncio de Lighthizer como Representante de Comercio de EU.",
+      "Url": "https://www.reforma.com/amplia-peso-perdidas-dolar-se-vende-en-20-17/ar2903746",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-08T14:23:04Z",
+      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (08 noviembre 2024) .-08:12 (Actualización: 12:15 hrs)"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2024-11-04T14:13:26Z",
       "Content": "Este lunes 4 de noviembre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2153 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Enrique Quintana",
-      "Title": "El incierto futuro de la paridad del peso frente al dólar",
-      "Description": "Si el martes por la noche se confirma el triunfo de Donald Trump, habrá otro ajuste alcista en el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2024/11/04/el-incierto-futuro-de-la-paridad-del-peso-frente-al-dolar/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WQOWXQOMCZEENFWB3ZCOORDCC4.jpg?smart=true&auth=54f9a121f83d015971bc03dfa5c2230f9cfeee09acb00a30c8c768012c37e5c9&width=1200&height=630",
-      "PublishedAt": "2024-11-04T13:06:17Z",
-      "Content": "El dólar cerró el viernes pasado las operaciones financieras en México en 20.28 pesos, lo que significa la cotización más elevada desde el 26 de septiembre del año 2022, hace poco más de 25 meses.\r\nM… [+3665 chars]"
     }
   ]
 }
