@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY viernes 8 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 8 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.88 pesos por unidad, con un fortalecimiento del 0.40 por ciento, según datos de Bloomberg.Ayer, el peso me…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2024-11-08T12:09:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 8 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.88 pesos por unidad, con un fortalecimiento de… [+915 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ZB2MTJ5STNEHNKSRB6LT554W5Q.jpeg?smart=true&auth=67c5aa49bec1863ca4db7fe4db5509e00091a12d24c56c54fcfe8f5b2488238d&width=1200&height=630",
       "PublishedAt": "2024-11-04T01:19:34Z",
       "Content": "Debido a lo cerradas que van las encuestas en torno a las elecciones presidenciales en Estados Unidos, el dólar se ha depreciado la tarde de este domingo 3 de noviembre, con la apertura de los mercad… [+2482 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 2 de noviembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de noviembre el tipo de cambio interbancario, se ubica en 20.28 pesos por unidad, con una ganancia del 1.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-11-02T13:45:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de noviembre el tipo de cambio interbancario, se ubica en 20.28 pesos por unidad, con una ganancia del 1.23 por ci… [+1299 chars]"
     }
   ]
 }

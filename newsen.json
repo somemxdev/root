@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Posthaste: Why these 'nail-biting' TD Bank economists are worried about the Canadian dollar",
+      "Description": "the Canadian dollar's prospects are likely to sink TD economists said if Trump begins to wield his arsenal of trade policies. Keep reading.",
+      "Url": "https://financialpost.com/news/td-bank-economists-worried-canadian-dollar",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/11/donald-trump-gs1107.png",
+      "PublishedAt": "2024-11-08T13:00:09Z",
+      "Content": "Impact from Trump tariffs could push loonie below 70 cents U.S.\r\nDonald Trump, left, with Republican vice president-elect J.D. Vance, celebrate election night at the Palm Beach Convention Center, Nov… [+9815 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2024-10-13T10:43:24Z",
       "Content": "Czech National Bank raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.2% during the third quarter, according to its most recent disclosure with the Securities and Exchange Com… [+5824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decrypt"
-      },
-      "Author": "Murtuza Merchant",
-      "Title": "MicroStrategy Aims to Be ‘Bitcoin Bank’ With Trillion-Dollar Valuation: Michael Saylor",
-      "Description": "With nearly $16 billion worth of Bitcoin in the bank, MicroStrategy's Michael Saylor shares big plans ahead for BTC.",
-      "Url": "https://decrypt.co/285838/microstrategy-bitcoin-bank-trillion-dollar",
-      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/10/saylor-bitcoin-dice-gID_7.png",
-      "PublishedAt": "2024-10-11T18:20:25Z",
-      "Content": "MicroStrategy Inc. is positioning itself to transform how capital is preserved and transferred globally, according to a recent report by Bernstein Researchand the companys outspoken co-founder Michae… [+3042 chars]"
     }
   ]
 }
