@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Gulf International Bank UK Ltd Lowers Stock Position in Dollar General Co. (NYSE:DG)",
+      "Description": "Gulf International Bank UK Ltd lessened its holdings in Dollar General Co. (NYSE:DG – Free Report) by 4.3% in the 3rd quarter, according to its most recent filing with the SEC. The firm owned 17,321 shares of the company’s stock after selling 777 shares durin…",
+      "Url": "https://www.etfdailynews.com/2024/11/08/gulf-international-bank-uk-ltd-lowers-stock-position-in-dollar-general-co-nysedg/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2024-11-08T11:24:52Z",
+      "Content": "Gulf International Bank UK Ltd lessened its holdings in Dollar General Co. (NYSE:DG – Free Report) by 4.3% in the 3rd quarter, according to its most recent filing with the SEC. The firm owned 17,321 … [+7183 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/10/saylor-bitcoin-dice-gID_7.png",
       "PublishedAt": "2024-10-11T18:20:25Z",
       "Content": "MicroStrategy Inc. is positioning itself to transform how capital is preserved and transferred globally, according to a recent report by Bernstein Researchand the companys outspoken co-founder Michae… [+3042 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Decentralized Dog",
-      "Title": "MicroStrategy Aims for Trillion-Dollar Valuation as Bitcoin Bank",
-      "Description": "MicroStrategy, led by founder and executive chairman Michael Saylor, is positioning itself to become a leading player in the Bitcoin banking sector.",
-      "Url": "https://finance.yahoo.com/news/microstrategy-aims-trillion-dollar-valuation-131327106.html",
-      "UrlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-      "PublishedAt": "2024-10-11T13:13:27Z",
-      "Content": "MicroStrategy, led by founder and executive chairman Michael Saylor, is positioning itself to become a leading player in the Bitcoin banking sector.\r\nIn a recent interview with analysts at Bernstein,… [+1623 chars]"
     }
   ]
 }
