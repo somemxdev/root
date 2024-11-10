@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 9 de noviembre 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 20.17 pesos por unidad, con una ganancia del 1.90 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-11-09T13:33:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 20.17 pesos por unidad, con una ganancia del 1.90 por ciento… [+1683 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-mercado-busca-anticipar-como-se-movera-la-MEI4TWZZGRB4NJUFIW3CCBYEME.JPG?auth=e73f7bdbf40992ca49c44a65be43b0ac83e955a7088f01926282ecc84d8171cb&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-04T21:53:34Z",
       "Content": "El Banco Central (BCRA) dejó sin cambios hoy la cotización del dólar mayorista, que cerró a $990/993 por unidad para la compra y venta, respectivamente, los mismos valores del cierre del viernes, tal… [+6580 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 4 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 4 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-4-de-noviembre-nid04112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-11-04T14:13:26Z",
-      "Content": "Este lunes 4 de noviembre, el precio del dólar en México es de $20,0208, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2153 chars]"
     }
   ]
 }
