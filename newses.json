@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cae peso; dólar se vende en $20.58",
+      "Description": "En el mercado internacional, el tipo de cambio cotizaba en 20.42 pesos por dólar, con un retroceso de 1.25% para la moneda mexicana.",
+      "Url": "https://www.reforma.com/cae-peso-con-fuerza-dolar-se-vende-en-20-42/ar2905036",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-11T14:22:54Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Cae peso; se vende dólar en $20.33",
+      "Description": "El peso se depreció frente al dólar en el mercado internacional de divisas a $20.34, ante preocupaciones de aranceles por parte de Trump.",
+      "Url": "https://www.reforma.com/inicia-semana-con-dolar-a-20-34-pesos/ar2905036",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-11T14:22:54Z",
+      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cae peso con fuerza; dólar se vende en $20.58",
+      "Description": "En el mercado internacional, el tipo de cambio cotizaba en 20.58 pesos por dólar, con un fuerte retroceso de 2% para la moneda mexicana.",
+      "Url": "https://www.reforma.com/cae-peso-con-fuerza-dolar-se-vende-en-20-58/ar2905036",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-11T14:22:54Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 hrs"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 11 de noviembre",
+      "Description": "Consulta el valor del dólar frente al peso mexicano este lunes 11 de noviembre de 2024 y obtén un resumen completo de la situación económica en México.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-11-de-noviembre-nid11112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-11T14:17:23Z",
+      "Content": "Este lunes 11 de noviembre, el precio del dólar en México es de $20,1332, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2674 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "La pauta bajista del euro/dólar apunta por debajo de los 1,04",
+      "Description": "El incremento de aranceles en Estados Unidos a todas las importaciones que procedan de Europa están generando muchas dudas e incertidumbre en las bolsas del Viejo Continente y en...",
+      "Url": "https://www.expansion.com/mercados/2024/11/11/6731de1de5fdea860d8b4592.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/68348640e7fa2b137c7d7b9687fcd3ae/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/11/17313247060807.jpg",
+      "PublishedAt": "2024-11-11T14:10:42Z",
+      "Content": "La contundente victoria de Trump en las recientes elecciones unida a la debilidad en los últimos trimestres en la eurozona no hace sino presionar al cruce a la baja. El incremento de aranceles en Est… [+412 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-11-06T13:45:00Z",
       "Content": "El dólar HOY miércoles 6 de noviembre se encaminaba  a su mayor alza diaria desde marzo de 2023 frente a sus principales pares, mientras el bitcoin saltó a un máximo histórico, con los operadores cad… [+1168 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 6 de noviembre: El peso mexicano se devalúa luego de la elección de Donald Trump",
-      "Description": "La divisa estadounidense aumentó su cotización más de 50 centavos de peso en comparación al día anterior",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-6-de-noviembre-el-peso-mexicano-se-devalua-luego-de-la-eleccion-de-donald",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/06/dolar_1.jpg",
-      "PublishedAt": "2024-11-06T13:34:40Z",
-      "Content": "Este miércoles 6 de noviembre de 2024 el dólar se cotiza en $20.64 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió considerable terreno ente a la divisa estadounidense, … [+1139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso, en 20.70 por dólar, su menor valor desde 2022",
-      "Description": "Ante resultados preliminares que dan ventaja a Donald Trump en las elecciones en Estados Unidos, y luego de que la Suprema Corte de Justicia de la Nación desechó el proyecto para invalidar la reforma al Poder Judicial de la Federación, la moneda nacional se d…",
-      "Url": "https://www.jornada.com.mx/2024/11/06/economia/017n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2024/11/06/fotos/017n1eco-1.jpg",
-      "PublishedAt": "2024-11-06T11:54:57Z",
-      "Content": "Periódico La JornadaMiércoles 6 de noviembre de 2024, p. 17\r\nAnte resultados preliminares que dan ventaja a Donald Trump en las elecciones en Estados Unidos, y luego de que la Suprema Corte de Justic… [+7253 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Tipo de cambio alcanza los 20.66 pesos por dólar ante flujo de primeros resultados en EU",
-      "Description": "Forbes México.\n Tipo de cambio alcanza los 20.66 pesos por dólar ante flujo de primeros resultados en EU\n\nEl peso se depreciaba más de 2% en operaciones internacionales; su retroceso podría detenerse en alrededor de las 21 unidades por dólar, según el grupo B…",
-      "Url": "https://forbes.com.mx/peso-se-deprecia-1-66-ante-flujo-de-primeros-resultados-electorales-en-eu/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0500.jpg",
-      "PublishedAt": "2024-11-06T02:12:54Z",
-      "Content": "El peso se depreciaba 2.74% en operaciones internacionales ante el flujo de información sobre los primeros resultados de las elecciones presidenciales en Estados Unidos.\r\nEl tipo de cambio se ubicaba… [+2486 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 5 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 5 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-5-de-noviembre-nid05112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-05T14:30:39Z",
-      "Content": "Este martes 5 de noviembre, el precio del dólar en México es de $20,0367, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2750 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY por Elecciones EU 2024 EN VIVO: Peso mexicano 'se repliega' al inicio de la jornada",
-      "Description": "El dólar HOY martes 5 de noviembrecaía antes de lo que se espera sean unas reñidaselecciones presidenciales en Estados Unidos,mientras que la volatilidad de las opciones se disparaba después de que las últimas encuestas redujeran algunas apuestas del mercado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-elecciones-eu-2024-hoy-peso-tipo-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-05T14:30:00Z",
-      "Content": "El dólar HOY martes 5 de noviembre caía antes de lo que se espera sean unas reñidas elecciones presidenciales en Estados Unidos, mientras que la volatilidad de las opciones se disparaba después de qu… [+995 chars]"
     }
   ]
 }
