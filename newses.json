@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 11 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 11 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del 01.18 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2024-11-11T12:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 11 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del… [+911 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-11-05T14:30:00Z",
       "Content": "El dólar HOY martes 5 de noviembre caía antes de lo que se espera sean unas reñidas elecciones presidenciales en Estados Unidos, mientras que la volatilidad de las opciones se disparaba después de qu… [+995 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 5 de noviembre: El peso mexicano sigue perdiendo valor",
-      "Description": "Al inicio de esta jornada, el dólar estadounidense le ganó algunos centavos a la moneda mexicana",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-5-de-noviembre-el-peso-mexicano-sigue-perdiendo-valor",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/05/dolar_1.jpg",
-      "PublishedAt": "2024-11-05T13:17:28Z",
-      "Content": "Este martes 5 de noviembre de 2024 el dólar se cotiza en $20.16 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cue… [+791 chars]"
     }
   ]
 }
