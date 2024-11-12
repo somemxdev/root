@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "redaccion@bolsamania.com (María Campillo)",
+      "Title": "El euro mantiene su tendencia bajista: \"No hay motivos para que el dólar caiga\"",
+      "Description": "El euro mantiene su tendencia bajista frente al dólar tras la victoria de Donald Trump en las elecciones presidenciales de EEUU. La divisa comunitaria se deprecia un 0,40%, hasta los 1,0669 'billetes verdes' y los fantasmas de la paridad empiezan a sobrevolar…",
+      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/euro-mantiene-tendencia-bajista-no-motivos-dolar-caiga--18000506.html",
+      "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/6/9/euro_monedas_dinero.jpg",
+      "PublishedAt": "2024-11-11T10:07:31Z",
+      "Content": "El euro mantiene su tendencia bajista frente al dólar tras la victoria de Donald Trump en las elecciones presidenciales de EEUU. La divisa comunitaria se deprecia un 0,40%, hasta los 1,0669 'billetes… [+2864 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/05/dolar_1.jpg",
       "PublishedAt": "2024-11-05T13:17:28Z",
       "Content": "Este martes 5 de noviembre de 2024 el dólar se cotiza en $20.16 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cue… [+791 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central congeló hoy el dólar oficial en medio de rumores en el mercado sobre una posible baja en el ritmo del crawling peg",
-      "Description": "Lo dejó clavado al mismo nivel del cierre del viernes; no es la primera vez que lo hace, pero esta vez fue en medio de crecientes especulaciones surgidas tras la baja de tasas; la entidad sumó hoy reservas por US$30 millones y las tenencias brutas superaron l…",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-congelo-hoy-el-dolar-oficial-en-medio-de-rumores-en-el-mercado-sobre-una-posible-nid04112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-mercado-busca-anticipar-como-se-movera-la-MEI4TWZZGRB4NJUFIW3CCBYEME.JPG?auth=e73f7bdbf40992ca49c44a65be43b0ac83e955a7088f01926282ecc84d8171cb&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-04T21:53:34Z",
-      "Content": "El Banco Central (BCRA) dejó sin cambios hoy la cotización del dólar mayorista, que cerró a $990/993 por unidad para la compra y venta, respectivamente, los mismos valores del cierre del viernes, tal… [+6580 chars]"
     }
   ]
 }
