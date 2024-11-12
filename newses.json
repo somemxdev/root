@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘tambalea’ frente al dólar: Inicia semana con depreciación de 1.29%",
+      "Description": "El viernes 8 de noviembre, el tipo de cambio registró un pico en su movimiento después de que se conoció que Robert Lighthizer, el negociador del T-MEC, regresará al gabinete de Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/11/peso-dolar-precio-hoy-11-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/PZVFLPXGCJGY7EQK4DY63Y67XA.jpg?smart=true&auth=295402d457364e9916dadb33912fc777df4c2bace0b412d11075c5d3b42d158f&width=1200&height=630",
+      "PublishedAt": "2024-11-11T16:42:30Z",
+      "Content": "El peso mexicano, que se disparó la semana pasada por el regreso de Robert Lighthizer, inicia este lunes 11 de noviembre en terreno de pérdidas ante el dólar a medida que los operadores analizan el p… [+1856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-06T14:07:23Z",
       "Content": "Este miércoles 6 de noviembre, el precio del dólar en México es de $20,2695, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2858 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Karla López",
-      "Title": "Precio del dólar HOY 6 de noviembre 2024: Peso mexicano toca su peor nivel en dos años tras Elecciones en EU",
-      "Description": "El dólar HOY miércoles 6 de noviembrese encaminaba a su mayor alza diaria desde marzo de 2023 frente a sus principales pares, mientras el bitcoin saltó a un máximo histórico, con los operadores cada vez más confiados en una victoria del ex presidente Donald T…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-noviembre-tipo-cambio-tras-elecciones-eu-2024",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-06T13:45:00Z",
-      "Content": "El dólar HOY miércoles 6 de noviembre se encaminaba  a su mayor alza diaria desde marzo de 2023 frente a sus principales pares, mientras el bitcoin saltó a un máximo histórico, con los operadores cad… [+1168 chars]"
     }
   ]
 }
