@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY 12 de noviembre de 2024: Peso cae ante preocupaciones sobre Trump",
+      "Description": "EldólarHOY martes 12 de noviembresubía a un máximo de cuatro meses, mientras que el bitcoinextendía su avance récord a medida que los inversorsionistas siguen acumulando operaciones que podrían beneficiarse de la administración entrante de Donald Trump.La pri…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-11-12T15:00:00Z",
+      "Content": "El dólar HOY martes 12 de noviembre subía a un máximo de cuatro meses, mientras que el bitcoin extendía su avance récord a medida que los inversorsionistas siguen acumulando operaciones que podrían b… [+949 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 12 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 12 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-12-de-noviembre-nid12112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-12T14:03:15Z",
+      "Content": "Este martes 12 de noviembre, el precio del dólar en México es de $20,1332, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2288 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XHNXQ4FFIZFO3MJMRYRAH756DU.jpeg?smart=true&auth=14591fddf94fa1c1a59bf3719e19003f7d094ddc5d7b4388620ba91ce2515b71&width=1200&height=630",
       "PublishedAt": "2024-11-06T17:38:27Z",
       "Content": "El peso mexicano amanece con cruda electoral tras la victoria de Donald Trump en las elecciones de Estados Unidos, después de depreciarse hasta 3 por ciento durante la noche del martes 5 de noviembre… [+5198 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Lucy Sanabria",
-      "Title": "¿Qué sigue para el peso y el precio del dólar en la cruda de las Elecciones de Estados Unidos?",
-      "Description": "¿Y cómo le fue al peso mexicano tras los resultados de las elecciones en Estados Unidos y la polémica victoria de Donald Trump? La verdad es...\nThe post ¿Qué sigue para el peso y el precio del dólar en la cruda de las Elecciones de Estados Unidos? appeared fi…",
-      "Url": "https://www.sopitas.com/noticias/dolar-precio-peso-mexicano-elecciones-estados-unidos/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/10/dolar-peso-mexicano.jpg",
-      "PublishedAt": "2024-11-06T16:55:59Z",
-      "Content": "Lo que necesitas saber:\r\nEl peso se fue depreciando durante las elecciones en Estados Unidos y se espera un posible reajuste con los días.\r\n¿Y cómo le fue al peso mexicano tras los resultados de las … [+3417 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Gaspar Vela",
-      "Title": "Variación del peso frente al dólar es por elección en EU: Sheinbaum",
-      "Description": "La presidenta Claudia Sheinbaum señaló que la variación del peso frente al dólar se debe, principalmente, a las elecciones presidenciales de Estados Unidos, que se llevaron a cabo ayer.En la conferencia mañanera en Palacio Nacional, la mandataria afirmó que l…",
-      "Url": "https://www.milenio.com/politica/variacion-peso-dolar-eleccion-eu-sheinbaum",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/06/conferencia-mananera-presidenta-sostuvo-peso.jpg",
-      "PublishedAt": "2024-11-06T16:28:04Z",
-      "Content": "La presidenta Claudia Sheinbaum señaló que la variación del peso frente al dólar se debe, principalmente, a las elecciones presidenciales de Estados Unidos, que se llevaron a cabo ayer.\r\nEn la confer… [+1058 chars]"
     }
   ]
 }
