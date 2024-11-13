@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "El peso mexicano sigue en retroceso frente al dólar tras el triunfo de Trump en EEUU",
+      "Description": "El peso mexicano registró un retroceso frente al dólar este 11 de noviembre, esto en continuidad con la tendencia a la baja tras las elecciones presidenciales en Estados Unidos en las que Donald Trump obtuvo un triunfo contundente ante su rival demócrata, Kam…",
+      "Url": "https://noticiaslatam.lat/20241112/el-peso-mexicano-sigue-en-retroceso-frente-al-dolar-tras-el-triunfo-de-trump-en-eeuu-1158953926.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1158953926.jpg?10812248231731370444",
+      "PublishedAt": "2024-11-12T00:14:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
       "PublishedAt": "2024-11-06T15:44:55Z",
       "Content": "La Bolsa Mexicana de Valores caía con fuerza en sus primeras negociaciones de este miércoles después de que se diera a conocer la victoria en las elecciones estadounidenses de Donald Trump, cuyas pol… [+1202 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 6 de noviembre, tras las elecciones en EE.UU.",
-      "Description": "Las elecciones presidenciales en Estados Unidos generaron una considerable incertidumbre en los mercados financieros globales, lo que afectó directamente el tipo de cambio entre el dólar y el peso mexicano.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-6-de-noviembre-tras-las-nid06112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-06T14:07:23Z",
-      "Content": "Este miércoles 6 de noviembre, el precio del dólar en México es de $20,2695, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2858 chars]"
     }
   ]
 }
