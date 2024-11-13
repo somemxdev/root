@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cierra a la baja en 20.40 por dólar",
+      "Description": "El peso mexicano extendió ayer las caídas de finales de la semana pasada a su peor nivel desde septiembre de 2022. La divisa mexicana registró una depreciación diaria de 1.04 por ciento, equivalente a 20.94 centavos frente a la moneda estadunidense, para cerr…",
+      "Url": "https://www.jornada.com.mx/2024/11/12/economia/017n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-11-12T09:31:04Z",
+      "Content": "Periódico La JornadaMartes 12 de noviembre de 2024, p. 17\r\nEl peso mexicano extendió ayer las caídas de finales de la semana pasada a su peor nivel desde septiembre de 2022. La divisa mexicana regist… [+3265 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/javier-milei-bbc-bbc-mundo-xi-jinping-donald-J6ZJTQLVYNH25APG6IRZW2T5BI.jpg?auth=8ac64423b2952f685a12aff2cf4d3ab46d168b06a3b3a4a73ef14661ae22187c&width=1200&quality=70&smart=false&height=803",
       "PublishedAt": "2024-11-06T15:47:00Z",
       "Content": "Confirmado el triunfo de Donald Trump en las elecciones presidenciales de los Estados Unidos, pasó lo que el mercado proyectaba para las principales variables financieras: fortalecimiento del dólar, … [+4199 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "BMV abre con fuerte caída tras victoria de Trump; peso cotiza hasta en 21.13 por dólar, su nivel más alto en dos años",
-      "Description": "Forbes México.\n BMV abre con fuerte caída tras victoria de Trump; peso cotiza hasta en 21.13 por dólar, su nivel más alto en dos años\n\nLa Bolsa Mexicana de Valores caía con fuerza en sus primeras negociaciones tras la victoria de Trump, cuyas políticas comerc…",
-      "Url": "https://forbes.com.mx/bmv-abre-con-fuerte-caida-tras-victoria-electoral-de-trump-peso-cotiza-en-20-63-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
-      "PublishedAt": "2024-11-06T15:44:55Z",
-      "Content": "La Bolsa Mexicana de Valores caía con fuerza en sus primeras negociaciones de este miércoles después de que se diera a conocer la victoria en las elecciones estadounidenses de Donald Trump, cuyas pol… [+1202 chars]"
     }
   ]
 }
