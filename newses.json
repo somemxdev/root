@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El detalle que debe tener la moneda de un dólar para que valga US$264 mil: cómo identificarla",
+      "Description": "Una moneda de un dólar con la imagen de Dwight D. Eisenhower y un águila sobre una luna puede valer hasta $264,000 si presenta ciertos detalles raros. Estas piezas son altamente valoradas por los coleccionistas debido a su rareza y características únicas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-detalle-que-debe-tener-la-moneda-de-un-dolar-para-que-valga-us264-mil-como-identificarla-nid12112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-eisenhower-se-ha-convertido-en-una-H57HH6BF6FAW3NGSDUEPA44S5Q.jpg?auth=dabc4e86934123974fbb142d05c46f069ee71cb9c0776061a68be0fa210a0b30&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-12T21:31:07Z",
+      "Content": "Entre las monedas de colección,el dólar de Eisenhower de 1971 se destaca por su valor histórico y su atractivo para los coleccionistas. Esta, que lleva el rostro del 34º presidente de Estados Unidos,… [+3163 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/3825x2088/6/4/a/1200x655_Eurodolar.jpg",
       "PublishedAt": "2024-11-06T19:19:20Z",
       "Content": "La victoria de Donald Trump en las elecciones estadounidenses ha sentado al mercado como un huracán. No sólo las bolsas están ajustándose a las nuevas expectativas que vienen asociadas a las promesas… [+4594 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cómo impactaron las elecciones en EE.UU. en el tipo de cambio de dólar a peso mexicano hoy, 6 de noviembre",
-      "Description": "Las elecciones presidenciales en Estados Unidos generaron una considerable incertidumbre en los mercados financieros globales, lo que afectó directamente el tipo de cambio entre el dólar y el peso mexicano.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/como-impactaron-las-elecciones-en-eeuu-en-el-tipo-de-cambio-de-dolar-a-peso-mexicano-hoy-6-de-nid06112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-11-06T18:36:07Z",
-      "Content": "Este miércoles 6 de noviembre, el precio del dólar en México es de $20,2695, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2858 chars]"
     }
   ]
 }
