@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Arthur Hayes Says Bitcoin Going to $1,000,000 Triggered by Multi-Trillion Dollar Money Printing Spree",
+      "Description": "BitMEX co-founder Arthur Hayes believes that the US is about to go on a massive money printing spree that could send Bitcoin (BTC) soaring to seven figures. In a new essay, Hayes says that incoming president Donald Trump’s administration will launch a massive…",
+      "Url": "https://dailyhodl.com/2024/11/12/arthur-hayes-says-bitcoin-going-to-1000000-triggered-by-multi-trillion-dollar-money-printing-spree/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/01/btc-etf-jay.jpg",
+      "PublishedAt": "2024-11-12T20:55:23Z",
+      "Content": "BitMEX co-founder Arthur Hayes believes that the US is about to go on a massive money printing spree that could send Bitcoin (BTC) soaring to seven figures.\r\nIn a new essay, Hayes says that incoming … [+2074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/dollar-bank-bars.jpg",
       "PublishedAt": "2024-10-16T08:04:20Z",
       "Content": "Americas 20th-largest bank by total assets is accused of refusing to reimburse a customer who lost money to a scammer impersonating the lender.\r\nIt started when Thomas McConnells wife received a text… [+1726 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "pymnts.com"
-      },
-      "Author": "PYMNTS",
-      "Title": "Ripple Names Exchange Partners for US Dollar-Denominated Stablecoin RLUSD",
-      "Description": "Ripple has announced its exchange partners and customers for its U.S. dollar-denominated stablecoin, Ripple USD (RLUSD). The stablecoin will be available globally for institutions and users on exchanges and platforms like Uphold, Bitstamp, Bitso, MoonPay, Ind…",
-      "Url": "https://www.pymnts.com/cryptocurrency/2024/ripple-names-exchange-partners-for-us-dollar-denominated-stablecoin-rlusd/",
-      "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2024/10/Ripple-stablecoin.jpg",
-      "PublishedAt": "2024-10-16T02:03:02Z",
-      "Content": "Ripple has announced its exchange partners and customers for its U.S. dollar-denominated stablecoin, Ripple USD (RLUSD).\r\nThe stablecoin will be available globally for institutions and users on excha… [+2455 chars]"
     }
   ]
 }

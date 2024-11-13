@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Francisco Rivera",
+      "Title": "Dólar toca su mayor nivel frente al peso desde agosto de 2022… por Trump",
+      "Description": "Forbes México.\n Dólar toca su mayor nivel frente al peso desde agosto de 2022… por Trump\n\nEl billete verde alcanza los 20.6702 pesos al cierre de la sesión; el peso es afectado por los más recientes nombramientos de gabinete del republicano.\nDólar toca su may…",
+      "Url": "https://forbes.com.mx/dolar-toca-su-mayor-nivel-frente-al-peso-desde-agosto-de-2022-por-trump/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
+      "PublishedAt": "2024-11-12T20:59:55Z",
+      "Content": "El dólar se ubicó al cierre de la sesión de este martes en 20.6702 pesos, su mayor nivel desde el 2 de agosto de 2022, según datos de Banxico.\r\nEl dato sobre el final de la jornada significó una depr… [+1369 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2024-11-06T18:36:07Z",
       "Content": "Este miércoles 6 de noviembre, el precio del dólar en México es de $20,2695, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2858 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cómo es la moneda de cinco centavos de dólar que se vende por más de tres millones",
-      "Description": "La Liberty Head es uno de los ejemplares más valiosos de la numismática estadounidense; esta pieza histórica atrae a coleccionistas de todo el mundo dispuestos a pagar sumas millonarias.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/como-es-la-moneda-de-cinco-centavos-de-dolar-que-se-vende-por-mas-de-tres-millones-nid06112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/es-posible-que-existan-mas-ejemplares-de-la-SVNXTPLBIJFCZJZX3N4HTXC6LE.jpg?auth=2b98728fcc90397641e6f911c2eb0ffd18e8585d1aba1a447d85a0944cb6d425&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-06T18:31:51Z",
-      "Content": "La moneda decinco centavos Liberty Head de 1913 es uno de los ejemplares más raros y valorados en la historia de la numismática estadounidense. Esta pieza, acuñada en secreto y sin autorización ofici… [+1905 chars]"
     }
   ]
 }
