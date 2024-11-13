@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "Dólar: el “récord” de los depósitos y el plan para levantar el cepo, según el vicepresidente del Banco Central",
+      "Description": "El economista Vladimir Werning se refirió al crecimiento de las reservas y al “trabajo invisible” del organismo para avanzar hacia una eventual salida del cepo",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-record-de-los-depositos-y-el-plan-para-levantar-el-cepo-segun-el-vicepresidente-del-banco-nid12112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/vladimir-werning-vicepresidente-del-T4LAFZUQVNCPXNJA4FJ5F7QR64.JPG?auth=e11c5f6b4b116e36416c31f1b3da947bb21b954e3b33cb25834665d73ab7e24e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-12T15:07:57Z",
+      "Content": "Tendencias favorables en el mercado financiero, trabajo invisible para propiciar la futura salida del cepo, construcción de credibilidad en el Banco Central, una sociedad argentina que está apostando… [+4156 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/es-posible-que-existan-mas-ejemplares-de-la-SVNXTPLBIJFCZJZX3N4HTXC6LE.jpg?auth=2b98728fcc90397641e6f911c2eb0ffd18e8585d1aba1a447d85a0944cb6d425&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-06T18:31:51Z",
       "Content": "La moneda decinco centavos Liberty Head de 1913 es uno de los ejemplares más raros y valorados en la historia de la numismática estadounidense. Esta pieza, acuñada en secreto y sin autorización ofici… [+1905 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Se le va ‘la cruda’ al peso ante el dólar: Tipo de cambio baja a las 20.24 unidades",
-      "Description": "Donald Trump ganó la Presidencia de Estados Unidos después de llevarse la mayoría de votos en Wisconsin, Pensilvania, Georgia y Carolina del Norte, 4 de los 7 estados 'columpio' que podían definir la elección.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/06/peso-dolar-precio-hoy-6-de-noviembre-de-2024-victoria-de-donald-trump/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XHNXQ4FFIZFO3MJMRYRAH756DU.jpeg?smart=true&auth=14591fddf94fa1c1a59bf3719e19003f7d094ddc5d7b4388620ba91ce2515b71&width=1200&height=630",
-      "PublishedAt": "2024-11-06T17:38:27Z",
-      "Content": "El peso mexicano amanece con cruda electoral tras la victoria de Donald Trump en las elecciones de Estados Unidos, después de depreciarse hasta 3 por ciento durante la noche del martes 5 de noviembre… [+5198 chars]"
     }
   ]
 }
