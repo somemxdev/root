@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 12 de noviembre: El peso mexicano muestra signos de recuperación",
+      "Description": "La divisa estadounidense perdió unos centavos al inicio de esta jornada",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-12-de-noviembre-el-peso-mexicano-muestra-signos-de-recuperacion",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/12/dolar_1.jpg",
+      "PublishedAt": "2024-11-12T13:17:37Z",
+      "Content": "Este martes 12 de noviembrede 2024 el dólar se cotiza en $20.40 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó terreno frente a la divisa estadounidense, tomando en cuent… [+793 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/06/conferencia-mananera-presidenta-sostuvo-peso.jpg",
       "PublishedAt": "2024-11-06T16:28:04Z",
       "Content": "La presidenta Claudia Sheinbaum señaló que la variación del peso frente al dólar se debe, principalmente, a las elecciones presidenciales de Estados Unidos, que se llevaron a cabo ayer.\r\nEn la confer… [+1058 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "El triunfo de Trump: se fortalece el dólar, retroceden las monedas de la región y el peso enfrenta una presión adicional",
-      "Description": "El fortalecimiento de la moneda norteamericana ya registra correlatos a nivel mundial, que aún no llegan a la divisa argentina; las nuevas presiones desafían la política cambiaria del Gobierno",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/el-triunfo-de-trump-se-fortalece-el-dolar-retroceden-las-monedas-de-la-region-y-el-peso-enfrenta-una-nid06112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/javier-milei-bbc-bbc-mundo-xi-jinping-donald-J6ZJTQLVYNH25APG6IRZW2T5BI.jpg?auth=8ac64423b2952f685a12aff2cf4d3ab46d168b06a3b3a4a73ef14661ae22187c&width=1200&quality=70&smart=false&height=803",
-      "PublishedAt": "2024-11-06T15:47:00Z",
-      "Content": "Confirmado el triunfo de Donald Trump en las elecciones presidenciales de los Estados Unidos, pasó lo que el mercado proyectaba para las principales variables financieras: fortalecimiento del dólar, … [+4199 chars]"
     }
   ]
 }
