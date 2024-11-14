@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 13 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 13 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.46 pesos por unidad, con un fortalecimiento del 0.62 por ciento, según datos de Bloomberg.El peso mexica…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-13T12:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 13 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.46 pesos por unidad, con un fortalecimiento… [+891 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20241106/imag/foto_0000000120241106200925/CONSEJO-BANCO-CENTRAL-_CON-CLAUDIO-SOTO_-JC.jpg",
       "PublishedAt": "2024-11-07T07:00:00Z",
       "Content": "Los resultados de las elecciones presidenciales en Estados Unidos no dejaron indiferente a nadie, y menos al Banco Central de Chile, ya que, según señalaron al ser consultados por Diario Financiero, … [+1885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "redaccion@bolsamania.com (María Campillo)",
-      "Title": "¿Se desplomará el euro hasta la paridad con el dólar? Esto opinan los analistas",
-      "Description": "La aplastante victoria de Donald Trump en las elecciones presidenciales de EEUU ha disparado al dólar frente a casi todas las monedas del mundo. Y de ellas, el euro ha sido la que peor desempeño ha registrado entre las principales divisas. ¿Alcanzará el cable…",
-      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/desplomara-euro-hasta-paridad-dolar-esto-opinan-analistas--17941984.html",
-      "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
-      "PublishedAt": "2024-11-07T05:00:00Z",
-      "Content": "La aplastante victoria de Donald Trump en las elecciones presidenciales de EEUU ha disparado al dólar frente a casi todas las monedas del mundo. Y de ellas, el euro ha sido la que peor desempeño ha r… [+5085 chars]"
     }
   ]
 }
