@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 13 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 13 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-13-de-noviembre-nid13112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-13T14:13:25Z",
+      "Content": "Este miércoles 13 de noviembre, el precio del dólar en México es de $20,5693, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2796 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-07T14:31:24Z",
       "Content": "Este jueves 7 de noviembre, el precio del dólar en México es de $20,3093, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2273 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Banco Central toma nota de alza de tasas y apreciación global del dólar",
-      "Description": "Desde la entidad, explicaron que analizaran los efectos de la elección en el IPoM y reporte financiero.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/banco-central-toma-nota-de-alza-de-tasas-y-apreciacion-global-del-dolar",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241106/imag/foto_0000000120241106200925/CONSEJO-BANCO-CENTRAL-_CON-CLAUDIO-SOTO_-JC.jpg",
-      "PublishedAt": "2024-11-07T07:00:00Z",
-      "Content": "Los resultados de las elecciones presidenciales en Estados Unidos no dejaron indiferente a nadie, y menos al Banco Central de Chile, ya que, según señalaron al ser consultados por Diario Financiero, … [+1885 chars]"
     }
   ]
 }
