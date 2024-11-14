@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Alejandro Sánchez",
+      "Title": "El 'efecto Trump' acerca la paridad del euro con el dólar",
+      "Description": "Una semana ha bastado para disparar la cotización del dólar a máximos anuales frente al euro. Los analistas, lejos de augurar un freno, coinciden en dar más recorrido alcista al rally de la divisa estadounidense. Leer",
+      "Url": "https://www.expansion.com/mercados/divisas/2024/11/13/67335183e5fdea86608b456f.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/c2ca11fe99938fdd5346da6871ae79d8/crop/0x0/2038x1358/resize/1200/f/webp/assets/multimedia/imagenes/2022/08/22/16611633590249.jpg",
+      "PublishedAt": "2024-11-13T00:07:41Z",
+      "Content": "Montaje con billetes de dólar y monedas de euro entre cotizacionesDREAMSTIMEEXPANSION\r\nUna semana ha bastado para disparar la cotización del dólar a máximos anuales frente al euro. Los analistas, lej… [+547 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
       "PublishedAt": "2024-11-07T05:00:00Z",
       "Content": "La aplastante victoria de Donald Trump en las elecciones presidenciales de EEUU ha disparado al dólar frente a casi todas las monedas del mundo. Y de ellas, el euro ha sido la que peor desempeño ha r… [+5085 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Víctor Blanco Moro",
-      "Title": "El euro se hunde frente al dólar y resurgen los fantasmas de la paridad",
-      "Description": "La victoria de Donald Trump en las elecciones estadounidenses ha sentado al mercado como un huracán. No sólo las bolsas están ajustándose a las nuevas expectativas que vienen asociadas a las promesas electorales del nuevo presidente: otros activos, como la re…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13071426/11/24/el-euro-se-hunde-frente-al-dolar-y-resurgen-los-fantasmas-de-la-paridad.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/3825x2088/6/4/a/1200x655_Eurodolar.jpg",
-      "PublishedAt": "2024-11-06T19:19:20Z",
-      "Content": "La victoria de Donald Trump en las elecciones estadounidenses ha sentado al mercado como un huracán. No sólo las bolsas están ajustándose a las nuevas expectativas que vienen asociadas a las promesas… [+4594 chars]"
     }
   ]
 }
