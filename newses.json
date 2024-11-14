@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Un peso fuerte: a un mes de terminar el año, el dólar blue acumula una suba de apenas 10%",
+      "Description": "El tipo de cambio paralelo cotiza a $1135, un avance de $110 con respecto al 31 de diciembre del año pasado; los factores que colaboraron con la pax cambiaria",
+      "Url": "https://www.lanacion.com.ar/economia/un-peso-fuerte-a-un-mes-de-terminar-el-ano-el-dolar-blue-acumula-una-suba-de-apenas-10-nid13112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-terminos-reales-los-dolares-libres-tocaron-el-CYISRLMWXBCMBCEC4Z766GAOLU.jpg?auth=9dff9040bbf7d61ad0bc62ac229d598407a7b9db6da0ffb1929b7230212017ae&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-13T15:44:50Z",
+      "Content": "Van cuatro meses consecutivos en que los dólares libres cotizan a la baja. Pese a algunos cortocircuitos puntuales (uno en enero y otro entre mayo y julio pasados), este año tanto el blue como los ti… [+5420 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso pausa ‘caída libre' ante el dólar: ¿En cuánto se cotiza hoy ante el dólar?",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/13/peso-dolar-precio-hoy-13-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OVH5DKKNO5AR3EEZ2W4Y54OYDI.jpg?smart=true&auth=a9c477e2310924d0b252c1bbdcfa29b4525e6b8a82c3b2a980438e42493ad21e&width=1200&height=630",
+      "PublishedAt": "2024-11-13T15:27:51Z",
+      "Content": "El peso mexicano pausó las pérdidas ante el dólar, esto después de que tocó su peor nivel desde agosto de 2022, después de que el mercado reaccionó al reporte de inflación en EU. \r\nLa apreciación del… [+2173 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2024-11-07T15:25:42Z",
       "Content": "El dólar HOY jueves 7 de noviembre operaba cerca de máximos de cuatro meses, después de haber anotado su mayor subida diaria en dos años tras la victoria de Donald Trump en las elecciones presidencia… [+1287 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y Adriana Arcos",
-      "Title": "Toma peso respiro; dólar se vende $19.80",
-      "Description": "En el mercado Forex, el tipo de cambio cerró en $19.8016 por dólar, con una ganancia para el peso de un 1.23% respecto al miércoles.",
-      "Url": "https://www.reforma.com/toma-peso-respiro-dolar-se-vende-19-80/ar2903141",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-07T14:32:55Z",
-      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (07 noviembre 2024) .-08:28 (Actualización: 11:12 hrs)"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 7 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 7 de noviembre de 2024; infórmate también sobre el impacto en las criptomonedas del triunfo de Donald Trump en EE.UU.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-7-de-noviembre-nid07112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-07T14:31:24Z",
-      "Content": "Este jueves 7 de noviembre, el precio del dólar en México es de $20,3093, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2273 chars]"
     }
   ]
 }
