@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cotiza dólar en $20.50; mercado espera decisión de Banxico",
+      "Description": "En el mercado internacional, el tipo de cambio cotizaba en $20.50 por dólar, con una pérdida para la moneda mexicana del 0.08%.",
+      "Url": "https://www.reforma.com/cotiza-dolar-en-20-50-mercado-espera-decision-de-banxico/ar2906904",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-14T13:53:38Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (14 noviembre 2024) .-07:50 (Actualización: 11:49 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Sube dólar a $20.63, mercado espera decisión de Banxico",
+      "Description": "En el mercado internacional, el tipo de cambio cotizaba en $20.6340 por dólar, con una pérdida para la moneda mexicana del 0.69%.",
+      "Url": "https://www.reforma.com/sube-dolar-a-20-63-mercado-espera-decision-de-banxico/ar2906904",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-14T13:53:38Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (14 noviembre 2024) .-07:50 hrs"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://finofilipino.org/wp-content/uploads/2024/11/erfqer.jpg",
       "PublishedAt": "2024-11-07T18:30:23Z",
       "Content": "Sabéis lo que estoy pensando, así que no voy a decirlo.\r\nVER VÍDEO EN X"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¡Toing! Peso ‘rebota’ al terreno de las 19 unidades: ¿En cuánto se cotiza ante el dólar?",
-      "Description": "Es día de decisión de la Fed y el peso mexicano lo sabe: Abre con una ganancia de más de 30 centavos ante la expectativa de un nuevo recorte a la tasa.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/07/peso-dolar-precio-hoy-7-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/UW2743V7J5GKPLW5D5E6E67S5M.jpeg?smart=true&auth=d648b705dd6f02fce39a3aa048e829d4ca5e896a04251a5bbb97ada0fff3b75d&width=1200&height=630",
-      "PublishedAt": "2024-11-07T17:07:25Z",
-      "Content": "El peso mexicano experimenta un rebototote ante el dólar este jueves 7 de noviembre, previo a que la Reserva Federal dé a conocer su decisión de política monetaria y que el mercado espera sea un nuev… [+1533 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY 7 de noviembre de 2024: Peso 'toma un respiro' tras inflación; atento al anuncio de la Fed",
-      "Description": "El dólarHOY jueves 7 de noviembreoperaba cerca de máximos de cuatro meses, después de haber anotado su mayor subida diaria en dos años tras la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos, y mientras los inversores se preparaban…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2024-11-07T15:25:42Z",
-      "Content": "El dólar HOY jueves 7 de noviembre operaba cerca de máximos de cuatro meses, después de haber anotado su mayor subida diaria en dos años tras la victoria de Donald Trump en las elecciones presidencia… [+1287 chars]"
     }
   ]
 }
