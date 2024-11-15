@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Grist"
+      },
+      "Author": "Jake Bittle",
+      "Title": "Can you solve the world’s trillion-dollar climate finance puzzle?",
+      "Description": "As countries deadlock at COP29, take Grist’s quiz to find out whose side you’re on.",
+      "Url": "http://grist.org/cop29/can-you-solve-the-worlds-trillion-dollar-climate-finance-puzzle/",
+      "UrlToImage": "https://grist.org/wp-content/uploads/2024/11/1111_COP29Quiz.jpg?quality=75&strip=all",
+      "PublishedAt": "2024-11-14T09:45:01Z",
+      "Content": "As thousands of government ministers and climate activists descend on Baku, Azerbaijan, for the annual United Nations climate summit known as COP29, they have a difficult task ahead of them. Meeting … [+4100 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-114282854,width-1200,height-630,imgsize-124630,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2024-10-16T10:41:33Z",
       "Content": "The Indian rupee closed slightly stronger on Wednesday, supported by broad-based interbank dollar sales towards the end of the session after having spent the day locked in a narrow range just shy of … [+1633 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Refuses To Reimburse Customer After $10,000 Stolen From Account – Until the Media Gets Involved: Report",
-      "Description": "America’s 20th-largest bank by total assets is accused of refusing to reimburse a customer who lost money to a scammer impersonating the lender. It started when Thomas McConnell’s wife received a text message claiming to be from USAA asking her to verify a cr…",
-      "Url": "https://dailyhodl.com/2024/10/16/billion-dollar-bank-refuses-to-reimburse-customer-after-10000-stolen-from-account-until-the-media-gets-involved-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/dollar-bank-bars.jpg",
-      "PublishedAt": "2024-10-16T08:04:20Z",
-      "Content": "Americas 20th-largest bank by total assets is accused of refusing to reimburse a customer who lost money to a scammer impersonating the lender.\r\nIt started when Thomas McConnells wife received a text… [+1726 chars]"
     }
   ]
 }
