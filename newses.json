@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso revierte pérdidas ante el dólar en día de decisión del Banxico: ¿En cuánto cotiza?",
+      "Description": "Se espera que más tarde, el Banco de México recorte su tasa de interés en 25 puntos base.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/14/peso-dolar-precio-hoy-14-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VOVDT6FP6NFIZACAOUF7YXUCKI.jpg?smart=true&auth=9ab7403a009bfec4961a73de6e0a3df66efee0b970099c361b1a507717482ae9&width=1200&height=630",
+      "PublishedAt": "2024-11-14T20:02:49Z",
+      "Content": "El peso mexicano revirtió sus pérdidas ante el dólar en medio del nerviosismo generado tras confirmarse que el presidente electo Donald Trump se llevó el carro completo en las elecciones en EU pues l… [+1768 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
       "PublishedAt": "2024-11-08T12:09:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 8 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.88 pesos por unidad, con un fortalecimiento de… [+915 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Retoma fuerza el peso: 19.86 por dólar",
-      "Description": "El peso regresó a cotizar por debajo de las 20 unidades por dólar, luego de haber cerrado en ocho sesiones consecutivas por encima de dicho nivel.",
-      "Url": "https://www.jornada.com.mx/2024/11/08/economia/017n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-11-08T08:44:24Z",
-      "Content": "Periódico La JornadaViernes 8 de noviembre de 2024, p. 17\r\nEl peso regresó a cotizar por debajo de las 20 unidades por dólar, luego de haber cerrado en ocho sesiones consecutivas por encima de dicho … [+2330 chars]"
     }
   ]
 }
