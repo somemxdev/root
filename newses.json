@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cede peso terreno; dólar se vende en $20.44",
+      "Description": "En el mercado internacional, el tipo de cambio cotiza en $20.44 por dólar, con una caída del 0.20% para la moneda mexicana frente al jueves.",
+      "Url": "https://www.reforma.com/tiene-peso-ligero-avance-dolar-se-vende-en-20-38/ar2907673",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541820.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-11-15T14:44:46Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nNueva York, Estados Unidos (15 noviembre 2024) .-08:40 (Actualización: 15:54 hrs)"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/6/9/euro_monedas_dinero.jpg",
       "PublishedAt": "2024-11-11T10:07:31Z",
       "Content": "El euro mantiene su tendencia bajista frente al dólar tras la victoria de Donald Trump en las elecciones presidenciales de EEUU. La divisa comunitaria se deprecia un 0,40%, hasta los 1,0669 'billetes… [+2864 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 9 de noviembre 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 20.17 pesos por unidad, con una ganancia del 1.90 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-11-09T13:33:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 20.17 pesos por unidad, con una ganancia del 1.90 por ciento… [+1683 chars]"
     }
   ]
 }
