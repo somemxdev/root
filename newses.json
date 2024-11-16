@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 15 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 15 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-15-de-noviembre-nid15112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-15T13:30:01Z",
+      "Content": "Este viernes 15 de noviembre, el precio del dólar en México es de $20,4940, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2178 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-11-09T13:33:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 20.17 pesos por unidad, con una ganancia del 1.90 por ciento… [+1683 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso vuelve a caer; dólar se vende en $20.27",
-      "Description": "En mercado Forex, peso perdió un 2.4% y dólar se vendió en 20.27 unidades, tras anuncio de Lighthizer como Representante de Comercio de EU.",
-      "Url": "https://www.reforma.com/amplia-peso-perdidas-dolar-se-vende-en-20-17/ar2903746",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-08T14:23:04Z",
-      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (08 noviembre 2024) .-08:12 (Actualización: 12:15 hrs)"
     }
   ]
 }
