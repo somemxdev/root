@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "Icelandpeople",
+      "Title": "La elección de Trump cuesta cara a los españoles: el hundimiento del euro frente al dólar encarecerá el precio de la energía",
+      "Description": "La moneda única se desploma a mínimos anuales mientras que el billete verde se dispara a máximos de 13 meses tras la amenaza del líder republicano de implantar aranceles de un 10%etiquetas: energía, eeuu, europa» noticia original (www.infobae.com)",
+      "Url": "https://www.meneame.net/m/actualidad/eleccion-trump-cuesta-cara-espanoles-hundimiento-euro-frente",
+      "UrlToImage": "https://www.meneame.net/backend/media?type=link&id=4000256&version=0&ts=1731662286&image.webp",
+      "PublishedAt": "2024-11-15T09:06:41Z",
+      "Content": "Da igual, la anterior administración Trump perjudicó a Europa, al campo español y al acero asturiano.Que ha pasado? Que la extrema derecha europea acude a las CPAC y le siguen cual corderos por ser e… [+338 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotizara-el-dolar-en-2025-segun-las-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-08T13:59:08Z",
       "Content": "Los analistas volvieron a rebajar sus proyecciones de inflación para lo que resta del año y para el que viene (del 35% al 31,4%), aunque sus números se mantienen distantes de las previsiones que está… [+3975 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 8 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 8 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-8-de-noviembre-nid08112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-8-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-08T13:59:05Z",
-      "Content": "Este viernes 8 de noviembre, el precio del dólar en México es de $19,8277, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2230 chars]"
     }
   ]
 }
