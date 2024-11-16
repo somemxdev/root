@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Riya R Alex",
+      "Title": "SBI set to borrow $1.25 billion, India's largest dollar-denominated bank loan in 2024; details here",
+      "Description": "SBI is set to raise up to $1.25 billion, the largest dollar loan in India, for corporate needs in GIFT City.",
+      "Url": "https://www.livemint.com/companies/sbi-set-to-borrow-1-25-billion-indias-largest-dollar-denominated-bank-loan-in-2024-details-here-11731662922865.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2024/11/15/1600x900/d3ffecfe-ba3e-11eb-b2e0-990fd466194c_1628063694293_1731665900424.jpg",
+      "PublishedAt": "2024-11-15T10:51:13Z",
+      "Content": "The State Bank of India, India's largest public sector bank, is planning to raise up to $1.25 billion, marking the biggest dollar-denominated loan in the country's financial sector.\r\nThe bank is look… [+1764 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-114311768,width-1070,height-580,imgsize-9268,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-10-17T09:21:28Z",
       "Content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee ends a tad stronger, aided by broad based interbank dollar sales",
-      "Description": "Dollar demand from foreign banks, likely on behalf of custodial clients, blunted the positive effects of lower oil prices and gain in most of the rupee's Asian peers, traders said.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-a-tad-stronger-aided-by-broad-based-interbank-dollar-sales/articleshow/114282825.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-114282854,width-1200,height-630,imgsize-124630,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2024-10-16T10:41:33Z",
-      "Content": "The Indian rupee closed slightly stronger on Wednesday, supported by broad-based interbank dollar sales towards the end of the session after having spent the day locked in a narrow range just shy of … [+1633 chars]"
     }
   ]
 }
