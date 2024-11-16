@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Pérez",
+      "Title": "Dólar HOY 14 de noviembre 2024: Peso cae ante alza global del billete verde",
+      "Description": "EldólarHOY miercoles 14 de noviembrecontinúa su avance, alcanzando máximos de un año y acumulando cinco días consecutivos de subidas, impulsado por el incremento en el rendimiento de los bonos del Tesoro y la victoria electoral de Donald Trump en Estados Unid…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-15T00:00:00Z",
+      "Content": "Según el reporte de Banco Base, el tipo de cambio sigue enfrentando riesgos al alza, debido a los siguientes factores:\r\nEl gobierno de Trump probablemente adoptará una postura dura contra México, con… [+1011 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-8-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-08T13:59:05Z",
       "Content": "Este viernes 8 de noviembre, el precio del dólar en México es de $19,8277, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2230 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY viernes 8 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 8 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.88 pesos por unidad, con un fortalecimiento del 0.40 por ciento, según datos de Bloomberg.Ayer, el peso me…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2024-11-08T12:09:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 8 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.88 pesos por unidad, con un fortalecimiento de… [+915 chars]"
     }
   ]
 }
