@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 16 de noviembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 16 de noviembre el tipo de cambio interbancario, se ubica en 20.34 pesos por unidad, con una pérdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose depr…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-11-16T13:30:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 16 de noviembre el tipo de cambio interbancario, se ubica en 20.34 pesos por unidad, con una pérdida del 0.27 por ci… [+748 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
       "PublishedAt": "2024-11-11T14:22:54Z",
       "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 11 de noviembre",
-      "Description": "Consulta el valor del dólar frente al peso mexicano este lunes 11 de noviembre de 2024 y obtén un resumen completo de la situación económica en México.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-11-de-noviembre-nid11112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-11T14:17:23Z",
-      "Content": "Este lunes 11 de noviembre, el precio del dólar en México es de $20,1332, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2674 chars]"
     }
   ]
 }
