@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano se aprecia tras declive global del dólar",
+      "Description": "El peso mexicanose apreció con 0.10 por ciento, cerrando la jornada en 20.38 unidades por dólar, este viernes 15 de noviembre de 2024 ante undeclive global del dólarPor la mañana, se dio a conocer el proyecto del paquete económico 2025, el cual cumplió con la…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-15-noviembre-2024",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/04/dolar-llegaria-pesos-elecciones-eu.jpeg",
+      "PublishedAt": "2024-11-15T23:12:32Z",
+      "Content": "El peso mexicano se apreció con 0.10 por ciento, cerrando la jornada en 20.38 unidades por dólar, este viernes 15 de noviembre de 2024 ante un declive global del dólar\r\nPor la mañana, se dio a conoce… [+750 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Silvia Rodríguez",
+      "Title": "Hacienda espera que el tipo de cambio cierre 2025 en 18.50 pesos por dólar",
+      "Description": "Forbes México.\n Hacienda espera que el tipo de cambio cierre 2025 en 18.50 pesos por dólar\n\nLa previsión implica una depreciación de seis centavos respecto al estimado en el Paquete Económico 2024; pronostica que la tasa de interés de referencia estará en 8% …",
+      "Url": "https://forbes.com.mx/hacienda-espera-que-el-tipo-de-cambio-cierre-2025-en-18-50-pesos-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero02.webp",
+      "PublishedAt": "2024-11-15T23:11:24Z",
+      "Content": "La Secretaría de Hacienda y Crédito Público (SHCP) estimó que al cierre de 2025 la tasa de interés de referencia estará en un nivel de 8%, la inflación en 3.5%, el tipo de cambio en 18.50 pesos por d… [+3498 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-11T14:17:23Z",
       "Content": "Este lunes 11 de noviembre, el precio del dólar en México es de $20,1332, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2674 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "JOSÉ MARÍA RODRÍGUEZ",
-      "Title": "La pauta bajista del euro/dólar apunta por debajo de los 1,04",
-      "Description": "El incremento de aranceles en Estados Unidos a todas las importaciones que procedan de Europa están generando muchas dudas e incertidumbre en las bolsas del Viejo Continente y en...",
-      "Url": "https://www.expansion.com/mercados/2024/11/11/6731de1de5fdea860d8b4592.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/68348640e7fa2b137c7d7b9687fcd3ae/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/11/17313247060807.jpg",
-      "PublishedAt": "2024-11-11T14:10:42Z",
-      "Content": "La contundente victoria de Trump en las recientes elecciones unida a la debilidad en los últimos trimestres en la eurozona no hace sino presionar al cruce a la baja. El incremento de aranceles en Est… [+412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 11 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 11 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del 01.18 por ciento, según datos de Bloomberg.El peso mexicano …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-11-11T12:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 11 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del… [+911 chars]"
     }
   ]
 }
