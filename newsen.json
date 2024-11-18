@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,32 +366,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-23T03:52:16Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Romy Stephens and Sarah McConnell",
-      "Title": "Towns will 'die' without a share of the money made by multi-billion-dollar mining operations, communities say",
-      "Description": "The NSW government last year abolished a program that delivered funding to mining communities that bear the burden of the state's minerals production. Local councils say it is unclear when the money will flow again.",
-      "Url": "https://www.abc.net.au/news/2024-10-18/councils-call-for-resources-for-regions-to-be-restored/104445860",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/57e2e06493410ecae2c5d8d13b2c1e74?impolicy=wcms_watermark_news&cropH=2088&cropW=3712&xPos=0&yPos=348&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-10-17T20:33:50Z",
-      "Content": "Several New South Wales councils say they are missing out on crucial funding that helps them pay for road upgrades and community services that support nearby mines. \r\nSince 2012, mining communities h… [+4478 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ZyCrypto"
-      },
-      "Author": "Guest Author",
-      "Title": "DTX Exchange (DTX) Outshines PEPE And BNB: Could This Be The Next Multi-Million Dollar Token?",
-      "Description": "As the cryptocurrency market records notable fluctuations, DTX Exchange (DTX) has emerged as a dominant contender, positioning itself as a potential multi-million dollar token. With a presale rapidly collecting over $4.7 million, DTX has attracted holders see…",
-      "Url": "https://zycrypto.com/dtx-exchange-dtx-outshines-pepe-and-bnb-could-this-be-the-next-multi-million-dollar-token/",
-      "UrlToImage": "https://zycrypto.com/wp-content/uploads/2024/10/DTX-Exchange-DTX-Outshines-PEPE-And-BNB-Could-This-Be-The-Next-Multi-Million-Dollar-Token.jpg",
-      "PublishedAt": "2024-10-17T18:37:06Z",
-      "Content": "As the cryptocurrency market records notable fluctuations, DTX Exchange (DTX) has emerged as a dominant contender, positioning itself as a potential multi-million dollar token.\r\nWith a presale rapidl… [+4717 chars]"
     }
   ]
 }
