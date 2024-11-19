@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 18 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 18 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-18-de-noviembre-nid18112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-lunes-18-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-18T13:50:42Z",
+      "Content": "Este lunes 18 de noviembre, el precio del dólar en México es de $20,4940, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2829 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
       "PublishedAt": "2024-11-11T14:22:54Z",
       "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Cae peso; se vende dólar en $20.33",
-      "Description": "El peso se depreció frente al dólar en el mercado internacional de divisas a $20.34, ante preocupaciones de aranceles por parte de Trump.",
-      "Url": "https://www.reforma.com/inicia-semana-con-dolar-a-20-34-pesos/ar2905036",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-11T14:22:54Z",
-      "Content": "02 MIN 30 SEG\r\nErnesto Sarabia\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
     }
   ]
 }
