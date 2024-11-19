@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: 15 of 17 foreigners who fled Singapore agree to surrender S$1.85b of assets",
+      "Description": "They have also been barred from returning to Singapore.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-foreigner-suspects-forfeit-assets-state-police-4753766",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8fZCbP8e--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/25/JEM_0059.jpg?itok=lNT_5_Kv",
+      "PublishedAt": "2024-11-18T09:00:48Z",
+      "Content": "SINGAPORE: Fifteen of the 17 foreigners who fled Singapore amid the probe in the S$3 billion money laundering case have agreed to surrender about S$1.85 billion (US$1.37 billion) worth of assets to t… [+1650 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "TNN",
+      "Title": "Delhi crime branch busts dollar exchange scam spanning six states",
+      "Description": "Two men, Neeraj and Karan, were arrested in Ghaziabad for running a currency exchange scam across six states. They would gain victims' trust by using real US dollars for small purchases, then swap the money with worthless paper during the exchange. Police are…",
+      "Url": "https://timesofindia.indiatimes.com/city/delhi/delhi-crime-branch-busts-dollar-exchange-scam-spanning-six-states/articleshow/115410581.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-115410635,width-1070,height-580,imgsize-677470,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-11-18T08:23:27Z",
+      "Content": "10 easy South Indian snacks for Friday evenings"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
       "PublishedAt": "2024-10-23T08:10:36Z",
       "Content": "SEOUL (Reuters) - South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the fi… [+1053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
-      "Description": "SEOUL : South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the finance ministry later denied the minister made the remark. Choi Sang-mo…",
-      "Url": "https://www.channelnewsasia.com/business/south-korean-finance-minister-views-dollar-won-near-1400-new-normal-yonhap-reports-4696756",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--3BJ7jMZE--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-10-23t080921z_1_lynxmpek9m09a_rtroptp_3_imf-worldbank-trilateral.jpg?itok=oU5QVTxD",
-      "PublishedAt": "2024-10-23T08:09:21Z",
-      "Content": "SEOUL : South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the finance mini… [+1051 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar Up, Stocks Fluctuate as Fed Path in Focus: Markets Wrap - Yahoo Finance",
-      "Description": "Dollar Up, Stocks Fluctuate as Fed Path in Focus: Markets WrapYahoo Finance Asian Stocks Fluctuate With Fed’s Pace in Focus: Markets WrapBloomberg Dollar hits to 2-1/2-month peak as US rates, election eyedReuters Fed outlook pushes dollar to 2-1/2 month peak;…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175306313",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-23T03:52:16Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
