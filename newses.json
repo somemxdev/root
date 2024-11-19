@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar sigue a la baja este lunes",
+      "Description": "Nueve bancos comerciales compran la divisa por menos de ¢500, de acuerdo con los precios anunciados en ventanilla, recopilados por el Banco Central",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-sigue-a-la-baja-este/NJZGGQNVFVF6ZETKOXSDIDULYU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/VQTCA2XVNJHAXCCQCBFCFA3HR4.jpg?smart=true&auth=383f23ba7cd5c75c7fdb31c262deafd397020b685da05ce78aed3deab9884d3d&width=1440",
+      "PublishedAt": "2024-11-18T19:30:03Z",
+      "Content": "El tipo de cambio del dólar respecto al colón siguió bajando este lunes 18 de noviembre en el Mercado de Monedas Extranjeras (Monex). Nueve bancos ya compran la divisa por menos de ¢500 en sus ventan… [+967 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/PZVFLPXGCJGY7EQK4DY63Y67XA.jpg?smart=true&auth=295402d457364e9916dadb33912fc777df4c2bace0b412d11075c5d3b42d158f&width=1200&height=630",
       "PublishedAt": "2024-11-11T16:42:30Z",
       "Content": "El peso mexicano, que se disparó la semana pasada por el regreso de Robert Lighthizer, inicia este lunes 11 de noviembre en terreno de pérdidas ante el dólar a medida que los operadores analizan el p… [+1856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cae peso; dólar se vende en $20.58",
-      "Description": "En el mercado internacional, el tipo de cambio cotizaba en 20.42 pesos por dólar, con un retroceso de 1.25% para la moneda mexicana.",
-      "Url": "https://www.reforma.com/cae-peso-con-fuerza-dolar-se-vende-en-20-42/ar2905036",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-11T14:22:54Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
     }
   ]
 }
