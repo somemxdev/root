@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Pérez",
+      "Title": "Precio del dólar HOY lunes 18 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 18 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del 0.34 por ciento, según datos de Bloomberg.El peso mexicano s…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-18T12:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 18 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.41 pesos por unidad, con un fortalecimiento del… [+847 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
       "PublishedAt": "2024-11-11T14:22:54Z",
       "Content": "02 MIN 30 SEG\r\nErnesto Sarabia\r\nMonterrey, México (11 noviembre 2024) .-08:15 (Actualización: 11:51 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cae peso con fuerza; dólar se vende en $20.58",
-      "Description": "En el mercado internacional, el tipo de cambio cotizaba en 20.58 pesos por dólar, con un fuerte retroceso de 2% para la moneda mexicana.",
-      "Url": "https://www.reforma.com/cae-peso-con-fuerza-dolar-se-vende-en-20-58/ar2905036",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-11T14:22:54Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nMonterrey, México (11 noviembre 2024) .-08:15 hrs"
     }
   ]
 }
