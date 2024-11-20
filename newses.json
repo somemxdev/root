@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "El peso mexicano arranca la semana con apreciación frente al dólar",
+      "Description": "El dólar se vendió en 20.29 pesos al cierre de la jornada este 18 de noviembre, en el marco de la reunión del G20 en Brasil a la que acudieron el presidente estadounidense, Joe Bien, y su homóloga mexicana, Claudia Sheinbaum. Ambos mandatarios sostuvieron su …",
+      "Url": "https://noticiaslatam.lat/20241119/el-peso-mexicano-arranca-la-semana-con-apreciacion-frente-al-dolar-1159117468.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159117468.jpg?11486285221731980282",
+      "PublishedAt": "2024-11-19T01:38:00Z",
+      "Content": "\"La corrección en el tipo de cambio podría llevarlo a niveles de 20.22 y 20.15, donde podría encontrar soporte. Además, el análisis indica una posible resistencia en 20.63, nivel que fue difícil de s… [+78 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1158953926.jpg?10812248231731370444",
       "PublishedAt": "2024-11-12T00:14:00Z",
       "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘tambalea’ frente al dólar: Inicia semana con depreciación de 1.29%",
-      "Description": "El viernes 8 de noviembre, el tipo de cambio registró un pico en su movimiento después de que se conoció que Robert Lighthizer, el negociador del T-MEC, regresará al gabinete de Trump.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/11/peso-dolar-precio-hoy-11-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/PZVFLPXGCJGY7EQK4DY63Y67XA.jpg?smart=true&auth=295402d457364e9916dadb33912fc777df4c2bace0b412d11075c5d3b42d158f&width=1200&height=630",
-      "PublishedAt": "2024-11-11T16:42:30Z",
-      "Content": "El peso mexicano, que se disparó la semana pasada por el regreso de Robert Lighthizer, inicia este lunes 11 de noviembre en terreno de pérdidas ante el dólar a medida que los operadores analizan el p… [+1856 chars]"
     }
   ]
 }
