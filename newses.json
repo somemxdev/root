@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae tras 4 sesiones de ganancias! Precio del dólar hoy 19 de noviembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede luego de cuatro jornadas de ganancias, con lo que el precio del dólar hoy 19 de noviembre de 2024 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa div…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-19-noviembre-2024-tipo-cambio-bancos-mexico/1685114",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/11/19/3214405.jpg",
+      "PublishedAt": "2024-11-19T14:15:44Z",
+      "Content": "El peso mexicano retrocede luego de cuatro jornadas de ganancias, con lo que el precio del dólar hoy 19 de noviembre de 2024 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el ti… [+1701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/12/dolar_1.jpg",
       "PublishedAt": "2024-11-12T13:17:37Z",
       "Content": "Este martes 12 de noviembrede 2024 el dólar se cotiza en $20.40 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó terreno frente a la divisa estadounidense, tomando en cuent… [+793 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cierra a la baja en 20.40 por dólar",
-      "Description": "El peso mexicano extendió ayer las caídas de finales de la semana pasada a su peor nivel desde septiembre de 2022. La divisa mexicana registró una depreciación diaria de 1.04 por ciento, equivalente a 20.94 centavos frente a la moneda estadunidense, para cerr…",
-      "Url": "https://www.jornada.com.mx/2024/11/12/economia/017n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-11-12T09:31:04Z",
-      "Content": "Periódico La JornadaMartes 12 de noviembre de 2024, p. 17\r\nEl peso mexicano extendió ayer las caídas de finales de la semana pasada a su peor nivel desde septiembre de 2022. La divisa mexicana regist… [+3265 chars]"
     }
   ]
 }
