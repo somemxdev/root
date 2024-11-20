@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "Estiman que el peso mexicano cotice en 20,35 unidades por dólar al cierre de 2024",
+      "Description": "CIUDAD DE MÉXICO (Sputnik) — El tipo de cambio de la divisa mexicana frente al dólar subiría a 20,35 pesos al cierre de 2024, y en 2025 se moderará a 19,50 unidades, ante las políticas anunciadas por el virtual presidente electo de EEUU, Donald Trump, indica …",
+      "Url": "https://noticiaslatam.lat/20241119/estiman-que-el-peso-mexicano-cotice-en-2035-unidades-por-dolar-al-cierre-de-2024-1159141581.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159141581.jpg?11591419411732055944",
+      "PublishedAt": "2024-11-19T22:39:00Z",
+      "Content": "\"El tipo de cambio ha alcanzado un nuevo máximo en el año de 20,80 pesos por dólar y ha oscilado en un canal entre 20,10 y 20,70 desde que Trump comenzó a confirmar a miembros de su próximo Gobierno\"… [+109 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2024-11-12T15:00:00Z",
       "Content": "El dólar HOY martes 12 de noviembre subía a un máximo de cuatro meses, mientras que el bitcoin extendía su avance récord a medida que los inversorsionistas siguen acumulando operaciones que podrían b… [+949 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 12 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 12 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-12-de-noviembre-nid12112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-12T14:03:15Z",
-      "Content": "Este martes 12 de noviembre, el precio del dólar en México es de $20,1332, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2288 chars]"
     }
   ]
 }
