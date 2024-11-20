@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Asian stocks rise, dollar weak as US yields tick down - Yahoo Finance",
+      "Description": "Asian stocks rise, dollar weak as US yields tick downYahoo Finance Asian Stocks Rise, Following Gains in US Equities: Markets WrapBloomberg Morning Bid: Seeking global steer, watching Fed pendulum swingsReuters Stock market today: World shares are mixed after…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175500669",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-19T10:52:22Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.investopedia.com/thmb/7CoSAr41dGJyBevkB2nugjfdcnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2177752445-5ac36831ac7f4e48b5e13814becc8347.jpg",
       "PublishedAt": "2024-10-28T17:13:53Z",
       "Content": "The five most expensive stadiums in America, are also some of the most costly arenas in the world. They include major cities such as New York, Atlanta, and Las Vegas, and big-name sponsors such as So… [+6863 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
-      "Description": "South Korean finance minister views dollar-won near 1,400 as new normal, Yonhap reports",
-      "Url": "https://www.investing.com/news/economy-news/south-korean-finance-minister-views-dollarwon-near-1400-as-new-normal-yonhap-reports-3676748",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
-      "PublishedAt": "2024-10-23T08:10:36Z",
-      "Content": "SEOUL (Reuters) - South Korea's finance minister said the won's current level near 1,400 per dollar should be regarded as a \"new normal\", the Yonhap news agency reported on Wednesday, although the fi… [+1053 chars]"
     }
   ]
 }
