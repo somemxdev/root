@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "A Zapata no le gusta esto: Peso pierde 18 centavos ante el dólar en día de la Revolución",
+      "Description": "El peso mexicano también reaccionó ante la declaración de Vladimir Putin de estar abierto a un alto al fuego en Ucrania, una propuesta que discutirá con el presidente electo Donald Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/20/peso-dolar-precio-hoy-20-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5C32BX6RDFBT3MQAQLW2CJVPGQ.jpg?smart=true&auth=15d572b3faacc62b5e7a065bea85346c1a93b6fd2fe0da4b4777c059a72f6a84&width=1200&height=630",
+      "PublishedAt": "2024-11-20T16:59:38Z",
+      "Content": "El peso mexicano pierde ante un repunte en el valor del dólar durante este miércoles 20 de noviembre, mientras que los operadores siguen evaluando la tensión geopolítica por el ataque de Ucrania y la… [+2137 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-eisenhower-se-ha-convertido-en-una-H57HH6BF6FAW3NGSDUEPA44S5Q.jpg?auth=dabc4e86934123974fbb142d05c46f069ee71cb9c0776061a68be0fa210a0b30&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-12T21:31:07Z",
       "Content": "Entre las monedas de colección,el dólar de Eisenhower de 1971 se destaca por su valor histórico y su atractivo para los coleccionistas. Esta, que lleva el rostro del 34º presidente de Estados Unidos,… [+3163 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "Dólar toca su mayor nivel frente al peso desde agosto de 2022… por Trump",
-      "Description": "Forbes México.\n Dólar toca su mayor nivel frente al peso desde agosto de 2022… por Trump\n\nEl billete verde alcanza los 20.6702 pesos al cierre de la sesión; el peso es afectado por los más recientes nombramientos de gabinete del republicano.\nDólar toca su may…",
-      "Url": "https://forbes.com.mx/dolar-toca-su-mayor-nivel-frente-al-peso-desde-agosto-de-2022-por-trump/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
-      "PublishedAt": "2024-11-12T20:59:55Z",
-      "Content": "El dólar se ubicó al cierre de la sesión de este martes en 20.6702 pesos, su mayor nivel desde el 2 de agosto de 2022, según datos de Banxico.\r\nEl dato sobre el final de la jornada significó una depr… [+1369 chars]"
     }
   ]
 }
