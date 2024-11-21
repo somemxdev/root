@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 20 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 20 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-20-de-noviembre-nid20112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-20T13:27:57Z",
+      "Content": "Este miércoles 20 de noviembre, el precio del dólar en México es de $20,1848, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2298 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
       "PublishedAt": "2024-11-12T20:59:55Z",
       "Content": "El dólar se ubicó al cierre de la sesión de este martes en 20.6702 pesos, su mayor nivel desde el 2 de agosto de 2022, según datos de Banxico.\r\nEl dato sobre el final de la jornada significó una depr… [+1369 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Dólar: el “récord” de los depósitos y el plan para levantar el cepo, según el vicepresidente del Banco Central",
-      "Description": "El economista Vladimir Werning se refirió al crecimiento de las reservas y al “trabajo invisible” del organismo para avanzar hacia una eventual salida del cepo",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-record-de-los-depositos-y-el-plan-para-levantar-el-cepo-segun-el-vicepresidente-del-banco-nid12112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/vladimir-werning-vicepresidente-del-T4LAFZUQVNCPXNJA4FJ5F7QR64.JPG?auth=e11c5f6b4b116e36416c31f1b3da947bb21b954e3b33cb25834665d73ab7e24e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-12T15:07:57Z",
-      "Content": "Tendencias favorables en el mercado financiero, trabajo invisible para propiciar la futura salida del cepo, construcción de credibilidad en el Banco Central, una sociedad argentina que está apostando… [+4156 chars]"
     }
   ]
 }
