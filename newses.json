@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Sorprende el peso; cierra en 20.11 por dólar",
+      "Description": "En medio de la tensión geopolítica, el peso sorprendió al mercado, al alcanzar su cuarto cierre consecutivo de ganancias frente al dólar. Tras el feriado del lunes, la divisa mexicana registró este martes una apreciación de 1.31 por ciento con respecto al cie…",
+      "Url": "https://www.jornada.com.mx/2024/11/20/economia/018n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/11/20/fotos/018n1eco-1.jpg",
+      "PublishedAt": "2024-11-20T11:11:00Z",
+      "Content": "Periódico La JornadaMiércoles 20 de noviembre de 2024, p. 18\r\nEn medio de la tensión geopolítica, el peso sorprendió al mercado, al alcanzar su cuarto cierre consecutivo de ganancias frente al dólar.… [+2346 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/vladimir-werning-vicepresidente-del-T4LAFZUQVNCPXNJA4FJ5F7QR64.JPG?auth=e11c5f6b4b116e36416c31f1b3da947bb21b954e3b33cb25834665d73ab7e24e&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-12T15:07:57Z",
       "Content": "Tendencias favorables en el mercado financiero, trabajo invisible para propiciar la futura salida del cepo, construcción de credibilidad en el Banco Central, una sociedad argentina que está apostando… [+4156 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY 12 de noviembre de 2024: Peso cae ante preocupaciones sobre Trump",
-      "Description": "EldólarHOY martes 12 de noviembresubía a un máximo de cuatro meses, mientras que el bitcoinextendía su avance récord a medida que los inversorsionistas siguen acumulando operaciones que podrían beneficiarse de la administración entrante de Donald Trump.La pri…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-11-12T15:00:00Z",
-      "Content": "El dólar HOY martes 12 de noviembre subía a un máximo de cuatro meses, mientras que el bitcoin extendía su avance récord a medida que los inversorsionistas siguen acumulando operaciones que podrían b… [+949 chars]"
     }
   ]
 }
