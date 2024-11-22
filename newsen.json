@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Swiss National Bank Lowers Stake in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Swiss National Bank reduced its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.1% in the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 606,081 share…",
+      "Url": "https://www.etfdailynews.com/2024/11/21/swiss-national-bank-lowers-stake-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-11-21T09:40:59Z",
+      "Content": "Swiss National Bank reduced its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.1% in the third quarter, according to the company in its most recent Form 13F filing with the Securities… [+5805 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_5_800x533_L_1412601619.jpg",
       "PublishedAt": "2024-10-28T23:15:42Z",
       "Content": "SEOUL (Reuters) - A voting board member at South Korea's central bank said she is not concerned about dollar liquidity conditions in the dollar-won market, Yonhap news agency reported on Tuesday.\r\n\"I… [+658 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investopedia"
-      },
-      "Author": "Michael Macklon",
-      "Title": "The 5 Most Expensive Stadiums in America: A Look at Their Billion-Dollar Price Tags",
-      "Description": "These cities and franchise owners spared no expense to build world-class stadiums, but not every investment paid off as originally planned.",
-      "Url": "https://www.investopedia.com/most-expensive-stadiums-in-america-8735400",
-      "UrlToImage": "https://www.investopedia.com/thmb/7CoSAr41dGJyBevkB2nugjfdcnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2177752445-5ac36831ac7f4e48b5e13814becc8347.jpg",
-      "PublishedAt": "2024-10-28T17:13:53Z",
-      "Content": "The five most expensive stadiums in America, are also some of the most costly arenas in the world. They include major cities such as New York, Atlanta, and Las Vegas, and big-name sponsors such as So… [+6863 chars]"
     }
   ]
 }
