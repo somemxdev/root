@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 21 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 21 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con un fortalecimiento del 0.26 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-21T12:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 21 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con un fortalecimiento de… [+894 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-13T14:13:25Z",
       "Content": "Este miércoles 13 de noviembre, el precio del dólar en México es de $20,5693, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2796 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 13 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 13 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.46 pesos por unidad, con un fortalecimiento del 0.62 por ciento, según datos de Bloomberg.El peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-13T12:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 13 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.46 pesos por unidad, con un fortalecimiento… [+891 chars]"
     }
   ]
 }
