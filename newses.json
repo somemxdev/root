@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Misil de Rusia a Ucrania ‘bajonea’ al peso: ¿En cuánto se cotiza ante el dólar?",
+      "Description": "Durante esta semana, el peso mexicano ha tenido días muy buenos que luego son seguidos de depreciaciones importantes ante el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/21/peso-dolar-precio-hoy-21-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OPELOPDX2BHQZHPGG23BAYD5L4.jpg?smart=true&auth=027154ea663f736eff2ad5557405b067a8dbd85c3d1b14e86545980d1f9850ba&width=1200&height=630",
+      "PublishedAt": "2024-11-21T15:46:03Z",
+      "Content": "El peso mexicano retrocede ante el dólar este jueves 21 de noviembre mientras el mercado evita los activos de mayor riesgo después de que Rusia lanzó un misil intercontinental contra Ucrania por prim… [+1618 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
       "PublishedAt": "2024-11-14T13:53:38Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (14 noviembre 2024) .-07:50 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Un peso fuerte: a un mes de terminar el año, el dólar blue acumula una suba de apenas 10%",
-      "Description": "El tipo de cambio paralelo cotiza a $1135, un avance de $110 con respecto al 31 de diciembre del año pasado; los factores que colaboraron con la pax cambiaria",
-      "Url": "https://www.lanacion.com.ar/economia/un-peso-fuerte-a-un-mes-de-terminar-el-ano-el-dolar-blue-acumula-una-suba-de-apenas-10-nid13112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-terminos-reales-los-dolares-libres-tocaron-el-CYISRLMWXBCMBCEC4Z766GAOLU.jpg?auth=9dff9040bbf7d61ad0bc62ac229d598407a7b9db6da0ffb1929b7230212017ae&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-13T15:44:50Z",
-      "Content": "Van cuatro meses consecutivos en que los dólares libres cotizan a la baja. Pese a algunos cortocircuitos puntuales (uno en enero y otro entre mayo y julio pasados), este año tanto el blue como los ti… [+5420 chars]"
     }
   ]
 }
