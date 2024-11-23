@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Segundo traspié del peso: cierra en 20.44 unidades por dólar spot",
+      "Description": "Con un dólar en máximos de dos años y con el auge de las criptomonedas, el peso se depreció por segunda jornada consecutiva, ante la aversión al riesgo que se presenta en el escenario geopolítico.",
+      "Url": "https://www.jornada.com.mx/2024/11/22/economia/019n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/11/22/fotos/019n1eco-1.jpg",
+      "PublishedAt": "2024-11-22T08:20:10Z",
+      "Content": "Periódico La JornadaViernes 22 de noviembre de 2024, p. 19\r\nCon un dólar en máximos de dos años y con el auge de las criptomonedas, el peso se depreció por segunda jornada consecutiva, ante la aversi… [+2821 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2024-11-14T14:01:35Z",
       "Content": "Este jueves 14 de noviembre, el precio del dólar en México es de $20,6025, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2179 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cotiza dólar en $20.50; mercado espera decisión de Banxico",
-      "Description": "En el mercado internacional, el tipo de cambio cotizaba en $20.50 por dólar, con una pérdida para la moneda mexicana del 0.08%.",
-      "Url": "https://www.reforma.com/cotiza-dolar-en-20-50-mercado-espera-decision-de-banxico/ar2906904",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/757/5756788.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-11-14T13:53:38Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (14 noviembre 2024) .-07:50 (Actualización: 11:49 hrs)"
     }
   ]
 }
