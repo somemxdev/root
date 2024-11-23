@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 144,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "https://www.facebook.com/lavozdegalicia",
+      "Title": "El euro cae a mínimos de 2 años frente al dólar ante la debilidad económica de la eurozona",
+      "Description": "Alemania revisa a la baja su crecimiento y cerrará el año en recesión",
+      "Url": "https://www.lavozdegalicia.es/noticia/economia/2024/11/22/euro-cae-minimos-2-anos-frente-dolar-ante-debilidad-economica-eurozona/00031732277665487115408.htm",
+      "UrlToImage": "https://img.lavdg.com/sc/8jakY50HMaCcs4RNbiy50Id_rFU=/1280x/2024/11/22/00121732278181275882351/Foto/efe_20240805_120047192.jpg",
+      "PublishedAt": "2024-11-22T12:24:01Z",
+      "Content": "La cotización del euro frente al dólar ha llegado a caer este viernes por debajo del umbral de los 1,04 dólares por primera vez desde finales de noviembre del 2022, después de que la lectura adelanta… [+2141 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY viernes 22 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 22 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.10 por ciento, según datos de Bloomberg.El peso mexican…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-11-22T12:09:37Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 22 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento d… [+1003 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-11-15T11:59:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 15 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.37 pesos por unidad, con un debilitamiento de… [+905 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Icelandpeople",
-      "Title": "La elección de Trump cuesta cara a los españoles: el hundimiento del euro frente al dólar encarecerá el precio de la energía",
-      "Description": "La moneda única se desploma a mínimos anuales mientras que el billete verde se dispara a máximos de 13 meses tras la amenaza del líder republicano de implantar aranceles de un 10%etiquetas: energía, eeuu, europa» noticia original (www.infobae.com)",
-      "Url": "https://www.meneame.net/m/actualidad/eleccion-trump-cuesta-cara-espanoles-hundimiento-euro-frente",
-      "UrlToImage": "https://www.meneame.net/backend/media?type=link&id=4000256&version=0&ts=1731662286&image.webp",
-      "PublishedAt": "2024-11-15T09:06:41Z",
-      "Content": "Da igual, la anterior administración Trump perjudicó a Europa, al campo español y al acero asturiano.Que ha pasado? Que la extrema derecha europea acude a las CPAC y le siguen cual corderos por ser e… [+338 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Melanie Pérez",
-      "Title": "Dólar HOY 14 de noviembre 2024: Peso cae ante alza global del billete verde",
-      "Description": "EldólarHOY miercoles 14 de noviembrecontinúa su avance, alcanzando máximos de un año y acumulando cinco días consecutivos de subidas, impulsado por el incremento en el rendimiento de los bonos del Tesoro y la victoria electoral de Donald Trump en Estados Unid…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-15T00:00:00Z",
-      "Content": "Según el reporte de Banco Base, el tipo de cambio sigue enfrentando riesgos al alza, debido a los siguientes factores:\r\nEl gobierno de Trump probablemente adoptará una postura dura contra México, con… [+1011 chars]"
     }
   ]
 }
