@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Esta moneda de un centavo de dólar puede multiplicar hasta 700 mil veces su precio, el detalle que la hace valiosa",
+      "Description": "Un centavo de 1977 acuñado en Denver puede alcanzar un valor de US$7.000 si cumple ciertas condiciones. Aprende a identificar esta rara pieza y sus características únicas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-moneda-de-un-centavo-de-dolar-puede-multiplicar-hasta-700-mil-veces-su-precio-el-detalle-que-la-nid24112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-centavo-de-lincoln-de-1909-posee-un-valor-para-HOVFAIV23FERJPO6776M2YEYOQ.jpg?auth=61771d6663c7e60582959af6d44dbf8c811e49f9ddf18c246e1c2bb8d7f76d47&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-24T14:03:45Z",
+      "Content": "Una moneda de un centavoacuñada en 1977 puede llegar a valer hasta US$7000 en el mercado, según señala US Coin Guide. De las más de 4 mil millones de monedas producidas en la Casa de Moneda de Denver… [+1543 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541820.jpg&wm=1&ang=0",
       "PublishedAt": "2024-11-15T14:44:46Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nNueva York, Estados Unidos (15 noviembre 2024) .-08:40 (Actualización: 15:54 hrs)"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 15 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 15 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-15-de-noviembre-nid15112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-15T13:30:01Z",
-      "Content": "Este viernes 15 de noviembre, el precio del dólar en México es de $20,4940, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2178 chars]"
     }
   ]
 }
