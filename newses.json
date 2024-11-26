@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso inicia semana con ganancias favorecido por un retroceso del dólar",
+      "Description": "Forbes México.\n Peso inicia semana con ganancias favorecido por un retroceso del dólar\n\nEl peso otizaba en 20.2620 unidades, con un avance del 0.68% frente al precio de referencia de LSEG del viernes.\nPeso inicia semana con ganancias favorecido por un retroce…",
+      "Url": "https://forbes.com.mx/peso-inicia-semana-con-ganancias-favorecido-por-un-retroceso-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
+      "PublishedAt": "2024-11-25T14:20:34Z",
+      "Content": "El peso se apreciaba este lunes después de retroceder durante tres jornadas consecutivas ante un fortalecimiento global del dólar, al inicio de una semana marcada por la difusión de las minutas de la… [+722 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 25 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 25 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-25-de-noviembre-nid25112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2024-11-25T14:03:11Z",
+      "Content": "Este lunes 25 de noviembre, el precio del dólar en México es de $20,1848, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2754 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/04/dolar-llegaria-pesos-elecciones-eu.jpeg",
       "PublishedAt": "2024-11-15T23:12:32Z",
       "Content": "El peso mexicano se apreció con 0.10 por ciento, cerrando la jornada en 20.38 unidades por dólar, este viernes 15 de noviembre de 2024 ante un declive global del dólar\r\nPor la mañana, se dio a conoce… [+750 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Hacienda espera que el tipo de cambio cierre 2025 en 18.50 pesos por dólar",
-      "Description": "Forbes México.\n Hacienda espera que el tipo de cambio cierre 2025 en 18.50 pesos por dólar\n\nLa previsión implica una depreciación de seis centavos respecto al estimado en el Paquete Económico 2024; pronostica que la tasa de interés de referencia estará en 8% …",
-      "Url": "https://forbes.com.mx/hacienda-espera-que-el-tipo-de-cambio-cierre-2025-en-18-50-pesos-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero02.webp",
-      "PublishedAt": "2024-11-15T23:11:24Z",
-      "Content": "La Secretaría de Hacienda y Crédito Público (SHCP) estimó que al cierre de 2025 la tasa de interés de referencia estará en un nivel de 8%, la inflación en 3.5%, el tipo de cambio en 18.50 pesos por d… [+3498 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso gana al dólar en día de presentación del Paquete Económico 2025: ¿En cuánto cotiza?",
-      "Description": "La presidenta Claudia Sheinbaum dijo que el Paquete Económico 2025 incluirá cambios menores en la Miscelánea Fiscal.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/15/peso-dolar-precio-hoy-15-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/UZQDB6TMJZDORIZQ3VRBWYPO5Q.jpg?smart=true&auth=3186f05d2cbc2fcd415761fea14427d9acbf8e4af72155aa73de04734a6c8248&width=1200&height=630",
-      "PublishedAt": "2024-11-15T17:08:11Z",
-      "Content": "El peso mexicano gana ante el dólar en la última sesión previa al feriado de la Revolución Mexicana mientras los inversionistas analizan el cambio que Moodys hizo a la perspectiva de la calificación … [+2287 chars]"
     }
   ]
 }
