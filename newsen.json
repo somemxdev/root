@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Dollar Rallies, Mexican Peso Slumps on Trump’s Tariff Threat",
+      "Description": "The dollar gained, erasing a chunk of Monday’s decline, after President-elect Donald Trump said the US will impose more tariffs on key trading partners.",
+      "Url": "https://financialpost.com/pmn/business-pmn/dollar-rallies-mexican-peso-slumps-on-trumps-tariff-threat",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/11/776051733-1.jpg",
+      "PublishedAt": "2024-11-26T00:47:23Z",
+      "Content": "(Bloomberg) The dollar gained, erasing a chunk of Mondays decline, after President-elect Donald Trump said the US will impose more tariffs on key trading partners. \r\nChinas offshore yuan fell 0.4% ag… [+1285 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/07/15210625/access-bank.jpg",
       "PublishedAt": "2024-10-30T00:46:24Z",
       "Content": "Access Bank has revealed that it is considering selling dollar-denominated securities to Development Financial Institutions and on the open market to boost its capital base and fund expansion plans.\r… [+2271 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Man draws the attention of the FBI by depositing duffle bags of cash at bank. Claimed he was making 2 dollar Covid vaccine and coating to protect aircraft, drones, rockets and other vehicles from laser-directed energy weapons [Facepalm]",
-      "Description": "Man draws the attention of the FBI by depositing duffle bags of cash at bank. Claimed he was making 2 dollar Covid vaccine and coating to protect aircraft, drones, rockets and other vehicles from laser-directed energy weapons",
-      "Url": "https://www.fark.com/comments/13444980/Man-draws-attention-of-FBI-by-depositing-duffle-bags-of-cash-at-bank-Claimed-he-was-making-2-dollar-Covid-vaccine-coating-to-protect-aircraft-drones-rockets-other-vehicles-from-laser-directed-energy-weapons",
-      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-      "PublishedAt": "2024-10-29T21:20:17Z",
-      "Content": "winedrinkingman:What is interesting is that an American tech company, although a small one, was making large amounts of fentanyl, inside the US in Virginia and not in Mexico and China like the Republ… [+147 chars]"
     }
   ]
 }
