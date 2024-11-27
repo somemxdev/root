@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 26 de noviembre",
+      "Description": "El peso mexicano ha mostrado una tendencia al alza durante las primeras horas del lunes 25 de noviembre en el mercado spot, impulsado por un debilitamiento del dólar estadounidense.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-26-de-noviembre-nid26112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-26T14:50:55Z",
+      "Content": "Este martes 26 de noviembre, el precio del dólar en México es de $20,2993, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2627 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-11-19T12:09:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 19 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.26 pesos por unidad, con un fortalecimiento de… [+451 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "El peso mexicano arranca la semana con apreciación frente al dólar",
-      "Description": "El dólar se vendió en 20.29 pesos al cierre de la jornada este 18 de noviembre, en el marco de la reunión del G20 en Brasil a la que acudieron el presidente estadounidense, Joe Bien, y su homóloga mexicana, Claudia Sheinbaum. Ambos mandatarios sostuvieron su …",
-      "Url": "https://noticiaslatam.lat/20241119/el-peso-mexicano-arranca-la-semana-con-apreciacion-frente-al-dolar-1159117468.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159117468.jpg?11486285221731980282",
-      "PublishedAt": "2024-11-19T01:38:00Z",
-      "Content": "\"La corrección en el tipo de cambio podría llevarlo a niveles de 20.22 y 20.15, donde podría encontrar soporte. Además, el análisis indica una posible resistencia en 20.63, nivel que fue difícil de s… [+78 chars]"
     }
   ]
 }
