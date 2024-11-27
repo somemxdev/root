@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 26 de noviembre: El peso sufre importante depreciación",
+      "Description": "El billete verde arrancó la jornada con una cotización de $19.85 pesos a la compra y $20.60 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-26-de-noviembre-el-peso-sufre-importante-depreciacion",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/26/dolar_1.jpg",
+      "PublishedAt": "2024-11-26T13:11:58Z",
+      "Content": "Este martes 26 de noviembre de 2024 el dólar se cotiza en $20.48 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cu… [+783 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159117468.jpg?11486285221731980282",
       "PublishedAt": "2024-11-19T01:38:00Z",
       "Content": "\"La corrección en el tipo de cambio podría llevarlo a niveles de 20.22 y 20.15, donde podría encontrar soporte. Además, el análisis indica una posible resistencia en 20.63, nivel que fue difícil de s… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar sigue a la baja este lunes",
-      "Description": "Nueve bancos comerciales compran la divisa por menos de ¢500, de acuerdo con los precios anunciados en ventanilla, recopilados por el Banco Central",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-sigue-a-la-baja-este/NJZGGQNVFVF6ZETKOXSDIDULYU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/VQTCA2XVNJHAXCCQCBFCFA3HR4.jpg?smart=true&auth=383f23ba7cd5c75c7fdb31c262deafd397020b685da05ce78aed3deab9884d3d&width=1440",
-      "PublishedAt": "2024-11-18T19:30:03Z",
-      "Content": "El tipo de cambio del dólar respecto al colón siguió bajando este lunes 18 de noviembre en el Mercado de Monedas Extranjeras (Monex). Nueve bancos ya compran la divisa por menos de ¢500 en sus ventan… [+967 chars]"
     }
   ]
 }
