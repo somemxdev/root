@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY 26 de noviembre de 2024: Peso cae tras amenazas de aranceles por Trump",
+      "Description": "El dólarHOY martes 26 de noviembre,subía luego de que el presidente electo de Estados Unidos, Donald Trump, dijo que impondría aranceles a los productos procedentes de México, Canadá y China que lleguen a su país, mientras los inversionistas se preparaban par…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2024-11-26T22:00:00Z",
+      "Content": "El dólar HOY martes 26 de noviembre, subía luego de que el presidente electo de Estados Unidos, Donald Trump, dijo que impondría aranceles a los productos procedentes de México, Canadá y China que ll… [+1005 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/P3UXXOFHI5CB3F2JK7LC6JCALM.jpg?smart=true&auth=49e83ccd35cf4af9a4554ac49be60705d57c849fbaf377e79af564e750746cf4&width=1200&height=630",
       "PublishedAt": "2024-11-19T15:51:57Z",
       "Content": "El peso mexicano se ve presionado ante el dólar durante la mañana de este martes 19 de noviembre debido por un menor apetito por los activos de riesgo tras el ataque de Ucrania a Rusia con misiles fa… [+1772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae tras 4 sesiones de ganancias! Precio del dólar hoy 19 de noviembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede luego de cuatro jornadas de ganancias, con lo que el precio del dólar hoy 19 de noviembre de 2024 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa div…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-19-noviembre-2024-tipo-cambio-bancos-mexico/1685114",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/11/19/3214405.jpg",
-      "PublishedAt": "2024-11-19T14:15:44Z",
-      "Content": "El peso mexicano retrocede luego de cuatro jornadas de ganancias, con lo que el precio del dólar hoy 19 de noviembre de 2024 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el ti… [+1701 chars]"
     }
   ]
 }
