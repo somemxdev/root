@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Russian central bank halts US dollar purchases",
+      "Description": "The Russian central bank will suspend its operations on the foreign exchange market starting from Thursday to reduce ruble volatility Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/608301-russia-central-bank-ruble-dollar/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.11/article/67473dfb85f5405b45154333.jpg",
+      "PublishedAt": "2024-11-27T15:38:00Z",
+      "Content": "The Bank of Russia announced on Wednesday it will suspend purchases of foreign currency on the domestic exchange from November 28 until the end of the year, to reduce market volatility.\r\nThe announce… [+503 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-11-01T15:08:11Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Punch"
-      },
-      "Author": "Oluwakemi Abimbola",
-      "Title": "Access Bank mulls dollar-denominated securities sale to DFIs",
-      "Description": "Access Bank has revealed that it is considering selling dollar-denominated securities to Development Financial Institutions and on the open market to boost its capital base and fund expansion plans. This was disclosed by the Managing Director, Roosevelt Ogbon…",
-      "Url": "https://punchng.com/access-bank-mulls-dollar-denominated-securities-sale-to-dfis/",
-      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/07/15210625/access-bank.jpg",
-      "PublishedAt": "2024-10-30T00:46:24Z",
-      "Content": "Access Bank has revealed that it is considering selling dollar-denominated securities to Development Financial Institutions and on the open market to boost its capital base and fund expansion plans.\r… [+2271 chars]"
     }
   ]
 }
