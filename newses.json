@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso amplía pérdidas! Precio del dólar hoy 27 de noviembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano abre a la baja y amplía las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 27 de noviembre de 2024 actualmete cotiza en 20.73 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en banc…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-27-noviembre-2024-tipo-cambio-bancos-mexico/1686584",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/11/27/3219059.jpg",
+      "PublishedAt": "2024-11-27T14:19:53Z",
+      "Content": "El peso mexicano abre a la baja y amplía las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 27 de noviembre de 2024 actualmete cotiza en 20.73 unidades por cada billete verde; con… [+1527 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 27 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 27 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-27-de-noviembre-nid27112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-miercoles-27-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-27T14:07:15Z",
+      "Content": "Este miércoles 27 de noviembre, el precio del dólar en México es de $20,7185, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2480 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5C32BX6RDFBT3MQAQLW2CJVPGQ.jpg?smart=true&auth=15d572b3faacc62b5e7a065bea85346c1a93b6fd2fe0da4b4777c059a72f6a84&width=1200&height=630",
       "PublishedAt": "2024-11-20T16:59:38Z",
       "Content": "El peso mexicano pierde ante un repunte en el valor del dólar durante este miércoles 20 de noviembre, mientras que los operadores siguen evaluando la tensión geopolítica por el ataque de Ucrania y la… [+2137 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 20 de noviembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 20 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-20-de-noviembre-nid20112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-20T13:27:57Z",
-      "Content": "Este miércoles 20 de noviembre, el precio del dólar en México es de $20,1848, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Sorprende el peso; cierra en 20.11 por dólar",
-      "Description": "En medio de la tensión geopolítica, el peso sorprendió al mercado, al alcanzar su cuarto cierre consecutivo de ganancias frente al dólar. Tras el feriado del lunes, la divisa mexicana registró este martes una apreciación de 1.31 por ciento con respecto al cie…",
-      "Url": "https://www.jornada.com.mx/2024/11/20/economia/018n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2024/11/20/fotos/018n1eco-1.jpg",
-      "PublishedAt": "2024-11-20T11:11:00Z",
-      "Content": "Periódico La JornadaMiércoles 20 de noviembre de 2024, p. 18\r\nEn medio de la tensión geopolítica, el peso sorprendió al mercado, al alcanzar su cuarto cierre consecutivo de ganancias frente al dólar.… [+2346 chars]"
     }
   ]
 }
