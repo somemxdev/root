@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Cae el peso a su menor nivel desde 2022 tras amenazas; $20.68 por dólar",
+      "Description": "El peso mexicano fue este martes la divisa más depreciada frente al dólar, un día después que Donald Trump amenazó con imponer aranceles a los productos mexicanos, canadienses y chinos.",
+      "Url": "https://www.jornada.com.mx/2024/11/27/politica/007n2pol",
+      "UrlToImage": "https://www.jornada.com.mx/2024/11/27/fotos/007n2pol-1.jpg",
+      "PublishedAt": "2024-11-27T10:13:22Z",
+      "Content": "Periódico La JornadaMiércoles 27 de noviembre de 2024, p. 7\r\nEl peso mexicano fue este martes la divisa más depreciada frente al dólar, un día después que Donald Trump amenazó con imponer aranceles a… [+1706 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159141581.jpg?11591419411732055944",
       "PublishedAt": "2024-11-19T22:39:00Z",
       "Content": "\"El tipo de cambio ha alcanzado un nuevo máximo en el año de 20,80 pesos por dólar y ha oscilado en un canal entre 20,10 y 20,70 desde que Trump comenzó a confirmar a miembros de su próximo Gobierno\"… [+109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘huele el peligro’ por ataque de Rusia a Ucrania: ¿En cuánto se cotiza ante el dólar?",
-      "Description": "El peso mexicano es uno de los activos de riesgos de los cuales los operadores están huyendo, esto después de que Ucrania utilizó armas de EU por primera vez en su ofensiva contra Rusia.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/19/peso-dolar-precio-hoy-19-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/P3UXXOFHI5CB3F2JK7LC6JCALM.jpg?smart=true&auth=49e83ccd35cf4af9a4554ac49be60705d57c849fbaf377e79af564e750746cf4&width=1200&height=630",
-      "PublishedAt": "2024-11-19T15:51:57Z",
-      "Content": "El peso mexicano se ve presionado ante el dólar durante la mañana de este martes 19 de noviembre debido por un menor apetito por los activos de riesgo tras el ataque de Ucrania a Rusia con misiles fa… [+1772 chars]"
     }
   ]
 }
