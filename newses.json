@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 28 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 28 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-28-de-noviembre-nid28112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-28T13:44:33Z",
+      "Content": "Este jueves 28 de noviembre, el precio del dólar en México es de $20,6418, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2963 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-11-21T12:00:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY jueves 21 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con un fortalecimiento de… [+894 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "El dólar avanza y presiona al peso; mercados atentos a Trump y la Fed",
-      "Description": "Forbes México.\n El dólar avanza y presiona al peso; mercados atentos a Trump y la Fed\n\nEl peso retrocedió 1.06%, mientras los operadores analizan señales de la Fed y el futuro gabinete de Trump.\nEl dólar avanza y presiona al peso; mercados atentos a Trump y l…",
-      "Url": "https://forbes.com.mx/el-dolar-avanza-y-presiona-al-peso-mercados-atentos-a-trump-y-la-fed/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-1.webp",
-      "PublishedAt": "2024-11-20T22:15:44Z",
-      "Content": "El peso lideró el miércoles los descensos de las monedas de la región, en un respiro de la divisa tras cinco sesiones consecutivas de avances, ante las expectativas de los operadores sobre las próxim… [+3883 chars]"
     }
   ]
 }
