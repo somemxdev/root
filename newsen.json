@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Russian central bank intervenes as rouble tumbles past 110 to the dollar - Reuters",
+      "Description": "Russian central bank intervenes as rouble tumbles past 110 to the dollarReuters Russian Ruble Collapses As Putin's Economy in TroubleNewsweek Russia’s rouble plunges to lowest rate since early weeks of Ukraine warThe Guardian Russian Central Bank Halts Curren…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175555873",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-28T00:32:56Z",
+      "Content": "Nothing is rich but the inexhaustible wealth of nature.\r\nShe shows us only surfaces, but she is a million fathoms deep.\r\n-- Ralph Waldo Emerson"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.abcnewsfe.com/a/90be9b58-c5fd-41f5-8490-9b9bb7b6da24/wirestory_28d023d2ea2d06a8be99add994feb4aa_16x9.jpg?w=1600",
       "PublishedAt": "2024-11-01T15:18:28Z",
       "Content": "WASHINGTON -- Next week's presidential election isn't just a referendum on Donald Trump and Kamala Harris. It's also a measure of the influence the world's richest man wields over American democracy.… [+9399 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-01T15:08:11Z",
-      "Content": "[Removed]"
     }
   ]
 }
