@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 29 de noviembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 29 de noviembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-29-de-noviembre-nid29112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-29T15:23:37Z",
+      "Content": "Este viernes 29 de noviembre, el precio del dólar en México es de $20,4173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2799 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/LEDLLU7SZJDKNPHBEGJAS5BE6A.jpg?smart=true&auth=f87bd10e16ccc52a31b3ad940fb74705d81caf22694b4e61f76c257e4af40510&width=1440",
       "PublishedAt": "2024-11-21T21:56:46Z",
       "Content": "El tipo de cambio del dólar respecto al colón enfrenta mayores presiones a la baja hacia el final del año, debido a un aumento en la oferta de divisas. Esta dinámica impacta el valor en el Mercado de… [+6875 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Misil de Rusia a Ucrania ‘bajonea’ al peso: ¿En cuánto se cotiza ante el dólar?",
-      "Description": "Durante esta semana, el peso mexicano ha tenido días muy buenos que luego son seguidos de depreciaciones importantes ante el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/21/peso-dolar-precio-hoy-21-de-noviembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OPELOPDX2BHQZHPGG23BAYD5L4.jpg?smart=true&auth=027154ea663f736eff2ad5557405b067a8dbd85c3d1b14e86545980d1f9850ba&width=1200&height=630",
-      "PublishedAt": "2024-11-21T15:46:03Z",
-      "Content": "El peso mexicano retrocede ante el dólar este jueves 21 de noviembre mientras el mercado evita los activos de mayor riesgo después de que Rusia lanzó un misil intercontinental contra Ucrania por prim… [+1618 chars]"
     }
   ]
 }
