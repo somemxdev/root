@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘expande’ ganancias frente al dólar: ¿En cuánto cotiza este viernes?",
+      "Description": "El peso mexicano ronda en los 20.3586 pesos por dólar este viernes 29 de noviembre, de acuerdo con las cifras reportadas por Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/11/29/peso-dolar-hoy-29-de-noviembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/P3UXXOFHI5CB3F2JK7LC6JCALM.jpg?smart=true&auth=49e83ccd35cf4af9a4554ac49be60705d57c849fbaf377e79af564e750746cf4&width=1200&height=630",
+      "PublishedAt": "2024-11-29T16:31:45Z",
+      "Content": "El peso mexicano consigue ampliar sus avances frente al dólar dada la escasez de referencias económicas, ya que esta será una jornada corta para los mercados en Estados Unidos.\r\nLa cotización de la m… [+1559 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2024/11/22/fotos/019n1eco-1.jpg",
       "PublishedAt": "2024-11-22T08:20:10Z",
       "Content": "Periódico La JornadaViernes 22 de noviembre de 2024, p. 19\r\nCon un dólar en máximos de dos años y con el auge de las criptomonedas, el peso se depreció por segunda jornada consecutiva, ante la aversi… [+2821 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio enfrenta presiones a la baja hacia fin de año: ¿qué fuerzas están detrás del dólar?",
-      "Description": "Durante la temporada de fin de año suele aumentar el volumen de divisas en la economía, lo que presiona a la baja el precio del dólar.",
-      "Url": "https://www.nacion.com/economia/finanzas/tipo-de-cambio-enfrenta-presiones-a-la-baja-hacia/V7TKB3HXTJCCZGXPISPFDSBYQ4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/LEDLLU7SZJDKNPHBEGJAS5BE6A.jpg?smart=true&auth=f87bd10e16ccc52a31b3ad940fb74705d81caf22694b4e61f76c257e4af40510&width=1440",
-      "PublishedAt": "2024-11-21T21:56:46Z",
-      "Content": "El tipo de cambio del dólar respecto al colón enfrenta mayores presiones a la baja hacia el final del año, debido a un aumento en la oferta de divisas. Esta dinámica impacta el valor en el Mercado de… [+6875 chars]"
     }
   ]
 }
