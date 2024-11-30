@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante un debilitamiento global del dólar",
+      "Description": "Forbes México.\n Peso avanza ante un debilitamiento global del dólar\n\nEl peso cotizaba en 20.3856 por dólar, con una ganancia del 0.12% frente al precio de referencia de LSEG del jueves.\nPeso avanza ante un debilitamiento global del dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/peso-avanza-ante-un-debilitamiento-global-del-dolar-2/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-11-29T14:07:28Z",
+      "Content": "El peso se apreciaba levemente el viernes, mientras los inversores evaluaban la aprobación de una reforma constitucional por parte del Senado, y en medio de un descenso del dólar a nivel global.\r\nEl … [+1027 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/OPELOPDX2BHQZHPGG23BAYD5L4.jpg?smart=true&auth=027154ea663f736eff2ad5557405b067a8dbd85c3d1b14e86545980d1f9850ba&width=1200&height=630",
       "PublishedAt": "2024-11-21T15:46:03Z",
       "Content": "El peso mexicano retrocede ante el dólar este jueves 21 de noviembre mientras el mercado evita los activos de mayor riesgo después de que Rusia lanzó un misil intercontinental contra Ucrania por prim… [+1618 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 21 de noviembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 22 de noviembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-21-de-noviembre-nid21112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-21T14:18:43Z",
-      "Content": "Este jueves 21 de noviembre, el precio del dólar en México es de $20,1848, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2222 chars]"
     }
   ]
 }
