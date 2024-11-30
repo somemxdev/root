@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 29 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 29 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.42 pesos por unidad, con un debilitamiento del 0.03 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-29-noviembre-2024-vivo-tipo-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-11-29T12:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 29 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.42 pesos por unidad, con un debilitamiento de… [+943 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-21T14:18:43Z",
       "Content": "Este jueves 21 de noviembre, el precio del dólar en México es de $20,1848, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2222 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 21 de noviembre: El peso mexicano recayó ante el billete verde",
-      "Description": "En esta ocasión el dólar recuperó unos centavos para cotizarse en $19.79 pesos a la compra y $20.54 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-21-de-noviembre-el-peso-mexicano-recayo-ante-el-billete-verde",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/21/dolar_1.jpg",
-      "PublishedAt": "2024-11-21T13:47:31Z",
-      "Content": "Este jueves 21 de noviembrede 2024 el dólar se cotiza en $20.33 pesos al inicio de la jornada, lo que significa que la moneda mexicana ahora perdió terreno frente a la divisa estadounidense, tomando … [+823 chars]"
     }
   ]
 }
