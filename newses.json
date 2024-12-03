@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿Por qué la caída del tipo de cambio del peso frente al dólar puede ser una buena noticia para México?",
+      "Description": "La depreciación del tipo de cambio del peso frente al dólar podría fortalecer las finanzas públicas de México en 2025 gracias a los remanentes del Banco de México, explica Enrique Quintana.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/02/por-que-la-caida-del-tipo-de-cambio-del-peso-frente-al-dolar-puede-ser-una-buena-noticia-para-mexico/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MWTKIFVXRNCARNGX45AUKTKGYE.jpg?smart=true&auth=b98ecbe1623c2bd53c37769ffb575fb4ddfd7f0c4a2ee95ff838d607eb82851c&width=1200&height=630",
+      "PublishedAt": "2024-12-02T20:21:48Z",
+      "Content": "Los mexicanos sabemos que la desgracia de unos es la fortuna de otros y eso aplica también en la economía. La depreciación del tipo de cambio del peso frente al dólar, un fenómeno que tradicionalment… [+3337 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/30/peso-gana-frente-dolar-pierde.jpeg",
       "PublishedAt": "2024-11-25T23:29:30Z",
       "Content": "El peso mexicano se apreció con 0.59 por ciento, culminando la jornada de este lunes 25 de noviembre de 2024 en 20.28 unidades por dólar. \r\nEste contexto sucedió por una jornada marcada por los activ… [+1011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana terreno ante repliegue del dólar en el inicio de la semana",
-      "Description": "Forbes México.\n Peso gana terreno ante repliegue del dólar en el inicio de la semana\n\nEl peso avanza luego de tres sesiones al hilo con caídas, en una jornada marcada por un mayor apetito por activos de riesgo.\nPeso gana terreno ante repliegue del dólar en el…",
-      "Url": "https://forbes.com.mx/peso-gana-terreno-ante-repliegue-del-dolar-en-el-inicio-de-la-semana/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-11-25T23:28:00Z",
-      "Content": "El peso se apreció luego de tres sesiones al hilo con caídas, en una jornada marcada por un mayor apetito por activos de riesgo y el repliegue global del dólar, tras el optimismo despertado por el pe… [+2396 chars]"
     }
   ]
 }
