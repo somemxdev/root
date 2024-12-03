@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 2 de diciembre: Comienza la semana con golpe al peso mexicano",
+      "Description": "La divisa americana al inicio de la jornada se cotiza en $19.88 pesos a la compra y $20.66 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-2-de-diciembre-comienza-la-semana-con-golpe-al-peso-mexicano",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/02/2_dic_dolar_1.jpg",
+      "PublishedAt": "2024-12-02T13:48:14Z",
+      "Content": "Este lunes 2 de diciembre de 2024 el dólar se cotiza en $20.55 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cuen… [+824 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.lavdg.com/sc/8jakY50HMaCcs4RNbiy50Id_rFU=/1280x/2024/11/22/00121732278181275882351/Foto/efe_20240805_120047192.jpg",
       "PublishedAt": "2024-11-22T12:24:01Z",
       "Content": "La cotización del euro frente al dólar ha llegado a caer este viernes por debajo del umbral de los 1,04 dólares por primera vez desde finales de noviembre del 2022, después de que la lectura adelanta… [+2141 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY viernes 22 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 22 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.10 por ciento, según datos de Bloomberg.El peso mexican…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-11-22T12:09:37Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 22 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento d… [+1003 chars]"
     }
   ]
 }
