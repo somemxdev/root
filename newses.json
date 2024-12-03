@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "redaccion@bolsamania.com (María Campillo)",
+      "Title": "El euro cae ante la tensión política en Francia mientras el dólar mantiene su \"atractivo\"",
+      "Description": "Cara y cruz en el mercado de divisas. Mientras el dólar estadounidense sigue dando muestras de fortaleza desde la victoria de Donald Trump en las elecciones presidenciales de EEUU, el euro se mantiene bajo presión ante los múltiples desafíos que asolan al Vie…",
+      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/euro-cae-tension-politica-francia-mientras-dolar-mantiene-atractivo--18230424.html",
+      "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
+      "PublishedAt": "2024-12-02T10:22:41Z",
+      "Content": "Cara y cruz en el mercado de divisas. Mientras el dólar estadounidense sigue dando muestras de fortaleza desde la victoria de Donald Trump en las elecciones presidenciales de EEUU, el euro se mantien… [+2526 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-11-22T12:09:37Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 22 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento d… [+1003 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Bloomberg",
-      "Title": "El euro cae frente al dólar a mínimos en dos años en medio de las apuestas de baja de tasas del BCE",
-      "Description": "Las probabilidades implícitas en el mercado de un recorte de tasas de medio punto el mes que viene subieron al 50%, frente al 15% del jueves.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/el-euro-cae-frente-al-dolar-a-minimos-en-dos-anos-en-medio-de-las",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241122/imag/foto_0000000320241122073532/Euro1.jpg",
-      "PublishedAt": "2024-11-22T10:33:00Z",
-      "Content": "El euro cayó a su nivel más bajo en dos años y los operadores aumentaron las apuestas a un recorte de las tasas de interés por parte del Banco Central Europeo, después de que los indicadores de la ac… [+814 chars]"
     }
   ]
 }
