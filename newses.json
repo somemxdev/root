@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "‘Black Christmas’ para el dólar: Donald Trump y la FED pondrán a ‘temblar’ a la moneda",
+      "Description": "Los nuevos anuncios de políticas económicas de Donald Trump podrían representar perdidas para dólar durante el cierre del año.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/02/black-christmas-para-el-dolar-donald-trump-y-la-fed-pondran-a-temblar-a-la-moneda/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/O3GAOKXQ5ZBWXJR6VWIIYFLFHA.jpg?smart=true&auth=365313a0be07f47b41ca90e40ce60a6873a738b4f2b77959bf3572e6cda6c439&width=1200&height=630",
+      "PublishedAt": "2024-12-02T07:23:20Z",
+      "Content": "Los alcistas del dólar, envalentonados por la victoria de Donald Trump, están entrando en un mes que históricamente ha castigado al dólar.\r\nLa moneda estadounidense ha avanzado alrededor de un 2 por … [+5373 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20241122/imag/foto_0000000320241122073532/Euro1.jpg",
       "PublishedAt": "2024-11-22T10:33:00Z",
       "Content": "El euro cayó a su nivel más bajo en dos años y los operadores aumentaron las apuestas a un recorte de las tasas de interés por parte del Banco Central Europeo, después de que los indicadores de la ac… [+814 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Alejandro Sánchez",
-      "Title": "El pinchazo económico acerca el euro a la paridad con el dólar",
-      "Description": "Las turbulencias agitan por segunda vez en la semana el mercado de divisas. En esta ocasión, sin embargo, las referencias macroeconómicas se convierten en el origen de las mayores presiones bajistas sobre el euro, más cerca ya de la paridad con el dólar. Leer",
-      "Url": "https://www.expansion.com/mercados/divisas/2024/11/22/67405c78468aeb4a3a8b45a3.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/22aac0edc3bc32808ae3ab500b2c2545/crop/0x0/1948x1299/resize/1200/f/webp/assets/multimedia/imagenes/2020/07/27/15958404602226.jpg",
-      "PublishedAt": "2024-11-22T10:27:13Z",
-      "Content": "Moneda de un euro sobre billete de dólarDREAMSTIMEEXPANSION\r\nLas turbulencias agitan por segunda vez en la semana el mercado de divisas. En esta ocasión, sin embargo, las referencias macroeconómicas … [+529 chars]"
     }
   ]
 }
