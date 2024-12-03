@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano se deprecia ante el avance global del dólar",
+      "Description": "El peso mexicano se depreció con 0.16 por ciento, culminando la sesión en 20.39 unidades por dólar, este lunes 02 de diciembre de 2024, ante el avance global de la divisa estadunidense.¿Por qué el dólar tiene un avance global?El dólar a nivel global .DXY repu…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-02-diciembre-2024",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/30/peso-gana-frente-dolar-pierde.jpeg",
+      "PublishedAt": "2024-12-02T22:17:00Z",
+      "Content": "El peso mexicano se depreció con 0.16 por ciento, culminando la sesión en 20.39 unidades por dólar, este lunes 02 de diciembre de 2024, ante el avance global de la divisa estadunidense. \r\n¿Por qué el… [+2696 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/26/dolar_1.jpg",
       "PublishedAt": "2024-11-26T13:11:58Z",
       "Content": "Este martes 26 de noviembre de 2024 el dólar se cotiza en $20.48 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cu… [+783 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fundación Thomson Reuters",
-      "Title": "Peso mexicano se aprecia tras debilitamiento del dólar",
-      "Description": "El peso mexicano se apreció con 0.59 por ciento, culminando la jornada de este lunes 25 de noviembre de 2024 en 20.28 unidades por dólar.Este contexto sucedió por una jornada marcada por los activos de riesgo y el repliegue global del dólar, tras el optimismo…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-25-noviembre-2024",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/30/peso-gana-frente-dolar-pierde.jpeg",
-      "PublishedAt": "2024-11-25T23:29:30Z",
-      "Content": "El peso mexicano se apreció con 0.59 por ciento, culminando la jornada de este lunes 25 de noviembre de 2024 en 20.28 unidades por dólar. \r\nEste contexto sucedió por una jornada marcada por los activ… [+1011 chars]"
     }
   ]
 }
