@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,58 +340,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-card-apple.jpg",
       "PublishedAt": "2024-11-02T20:35:14Z",
       "Content": "A US regulator has announced a settlement with Goldman Sachs and Apple that will send nearly $20 million to Apple customers.\r\nThe Consumer Financial Protection Bureau (CFPB) says Goldman Sachs and Ap… [+1754 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
-      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
-      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
-      "Url": "https://abcnews.go.com/Business/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115411194",
-      "UrlToImage": "https://i.abcnewsfe.com/a/90be9b58-c5fd-41f5-8490-9b9bb7b6da24/wirestory_28d023d2ea2d06a8be99add994feb4aa_16x9.jpg?w=1600",
-      "PublishedAt": "2024-11-01T21:02:22Z",
-      "Content": "WASHINGTON -- Next week's presidential election isn't just a referendum on Donald Trump and Kamala Harris. It's also a measure of the influence the world's richest man wields over American democracy.… [+9399 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Boston Herald"
-      },
-      "Author": "Associated Press",
-      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
-      "Description": "His stature is perhaps one of the most tangible consequences of the Supreme Court’s 2010 Citizens United decision, which eliminated limits on political giving.",
-      "Url": "https://www.bostonherald.com/2024/11/01/elon-musk-politics-trump/",
-      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/11/Election_2024_Trump_74848-1.jpg?w=1024&h=682",
-      "PublishedAt": "2024-11-01T16:15:27Z",
-      "Content": "By BRIAN SLODYSKO, THOMAS BEAUMONT and TOM KRISHER\r\nWASHINGTON (AP) — Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris. It’s also a measure of the influence… [+10105 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
-      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
-      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
-      "Url": "https://abcnews.go.com/Politics/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115395742",
-      "UrlToImage": "https://i.abcnewsfe.com/a/732be41b-f278-4004-a806-b39e429856d3/wirestory_d6ab6ab796987359ba07da775f4a62e9_16x9.jpg?w=1600",
-      "PublishedAt": "2024-11-01T15:26:28Z",
-      "Content": "WASHINGTON -- Next weeks presidential election isnt just a referendum on Donald Trump and Kamala Harris. Its also a measure of the influence the worlds richest man wields over American democracy. \r\nE… [+6531 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "BRIAN SLODYSKO Associated Press, THOMAS BEAUMONT Associated Press, TOM KRISHER Associated Press",
-      "Title": "Musk tests the role of money in U.S. politics with multimillion-dollar effort to back Trump",
-      "Description": "Next week’s presidential election isn’t just a referendum on Donald Trump and Kamala Harris",
-      "Url": "https://abcnews.go.com/Politics/wireStory/musk-tests-role-money-us-politics-multimillion-dollar-115395389",
-      "UrlToImage": "https://i.abcnewsfe.com/a/90be9b58-c5fd-41f5-8490-9b9bb7b6da24/wirestory_28d023d2ea2d06a8be99add994feb4aa_16x9.jpg?w=1600",
-      "PublishedAt": "2024-11-01T15:18:28Z",
-      "Content": "WASHINGTON -- Next week's presidential election isn't just a referendum on Donald Trump and Kamala Harris. It's also a measure of the influence the world's richest man wields over American democracy.… [+9399 chars]"
     }
   ]
 }
