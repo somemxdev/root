@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso regresa al terreno de pérdidas frente al dólar: ¿En cuánto cotiza HOY 2 de diciembre?",
+      "Description": "El tipo de cambio opera cerca de las 20.5352 unidades por billete verde, lo que representa una depreciación de 0.86 por ciento o 17.41 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/02/peso-dolar-hoy-2-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/KHE77PNSFVCI7IOFZ3GTGIBEZM.jpg?smart=true&auth=8a97661f9b628e521ac3a6efad5f6c7cd369514aacf9f7b9945d143dcc0936d5&width=1200&height=630",
+      "PublishedAt": "2024-12-02T17:14:01Z",
+      "Content": "El peso mexicano opera este lunes 2 de diciembre nuevamente en terreno de pérdidas, mientras los operadores están a la espera de conocer más reportes económicos durante la primera semana bursátil de … [+1566 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
       "PublishedAt": "2024-11-25T16:12:17Z",
       "Content": "El peso mexicano inicia sus operaciones con ganancias, al tiempo que los inversionistas asimilan que Donald Trump, que tomará la Presidencia de Estados Unidos en enero próximo, ha nombrado a su nuevo… [+1625 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso inicia semana con ganancias favorecido por un retroceso del dólar",
-      "Description": "Forbes México.\n Peso inicia semana con ganancias favorecido por un retroceso del dólar\n\nEl peso otizaba en 20.2620 unidades, con un avance del 0.68% frente al precio de referencia de LSEG del viernes.\nPeso inicia semana con ganancias favorecido por un retroce…",
-      "Url": "https://forbes.com.mx/peso-inicia-semana-con-ganancias-favorecido-por-un-retroceso-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
-      "PublishedAt": "2024-11-25T14:20:34Z",
-      "Content": "El peso se apreciaba este lunes después de retroceder durante tres jornadas consecutivas ante un fortalecimiento global del dólar, al inicio de una semana marcada por la difusión de las minutas de la… [+722 chars]"
     }
   ]
 }
