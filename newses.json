@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera y avanza! Precio del dólar hoy 3 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recuperó ligeramente al apreciarse en el arranque de la jornada de este martes, con lo que el precio del dólar hoy 3 de diciembre de 2024 cotiza en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cam…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-3-diciembre-2024-tipo-cambio-bancos-mexico/1687619",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/03/3222290.jpg",
+      "PublishedAt": "2024-12-03T14:51:52Z",
+      "Content": "El peso mexicano se recuperó ligeramente al apreciarse en el arranque de la jornada de este martes, con lo que el precio del dólar hoy 3 de diciembre de 2024 cotiza en 20.34 unidades por cada billete… [+1543 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante la depreciación mundial del dólar",
+      "Description": "Forbes México.\n Peso avanza ante la depreciación mundial del dólar\n\nEl peso reducía sus alzas previas y cotizaba en 20,3492 por dólar, con una ganancia de 0.14% frente al precio de referencia de LSEG del lunes.\nPeso avanza ante la depreciación mundial del dól…",
+      "Url": "https://forbes.com.mx/peso-avanza-ante-la-depreciacion-mundial-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
+      "PublishedAt": "2024-12-03T14:33:56Z",
+      "Content": "El peso se apreciaba levemente en los primeros negocios del martes, respaldado por un retroceso global del dólar tras el avance del billete verde en la víspera y datos sobre el desempleo en México.\r\n… [+1323 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
       "PublishedAt": "2024-11-27T12:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 27 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en  20.70 pesos por unidad, con un fortalecimient… [+936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cae el peso a su menor nivel desde 2022 tras amenazas; $20.68 por dólar",
-      "Description": "El peso mexicano fue este martes la divisa más depreciada frente al dólar, un día después que Donald Trump amenazó con imponer aranceles a los productos mexicanos, canadienses y chinos.",
-      "Url": "https://www.jornada.com.mx/2024/11/27/politica/007n2pol",
-      "UrlToImage": "https://www.jornada.com.mx/2024/11/27/fotos/007n2pol-1.jpg",
-      "PublishedAt": "2024-11-27T10:13:22Z",
-      "Content": "Periódico La JornadaMiércoles 27 de noviembre de 2024, p. 7\r\nEl peso mexicano fue este martes la divisa más depreciada frente al dólar, un día después que Donald Trump amenazó con imponer aranceles a… [+1706 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY 26 de noviembre de 2024: Peso cae tras amenazas de aranceles por Trump",
-      "Description": "El dólarHOY martes 26 de noviembre,subía luego de que el presidente electo de Estados Unidos, Donald Trump, dijo que impondría aranceles a los productos procedentes de México, Canadá y China que lleguen a su país, mientras los inversionistas se preparaban par…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-noviembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2024-11-26T22:00:00Z",
-      "Content": "El dólar HOY martes 26 de noviembre, subía luego de que el presidente electo de Estados Unidos, Donald Trump, dijo que impondría aranceles a los productos procedentes de México, Canadá y China que ll… [+1005 chars]"
     }
   ]
 }
