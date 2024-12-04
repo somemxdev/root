@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 3 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 3 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con una baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se deprecia…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-03T12:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 3 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con una baja del 0.16 por … [+866 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5YZSXVXHINCDTJGE6KMVPX6HLE.jpeg?smart=true&auth=c8ae94d92f0ca03b0b24a314360b35e54d3831c4d14d6713e91622f62fbfa754&width=1200&height=630",
       "PublishedAt": "2024-11-26T16:33:43Z",
       "Content": "El peso mexicano opera la mañana de este martes 26 de noviembre en terreno de pérdidas, como resultado del anuncio de Donald Trump de ayer por la tarde, sobre imponer aranceles del 25 por ciento a to… [+1492 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 26 de noviembre",
-      "Description": "El peso mexicano ha mostrado una tendencia al alza durante las primeras horas del lunes 25 de noviembre en el mercado spot, impulsado por un debilitamiento del dólar estadounidense.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-26-de-noviembre-nid26112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-26T14:50:55Z",
-      "Content": "Este martes 26 de noviembre, el precio del dólar en México es de $20,2993, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2627 chars]"
     }
   ]
 }
