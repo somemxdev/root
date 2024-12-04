@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2023/02/Untitled-design-63.jpg",
       "PublishedAt": "2024-11-04T08:26:50Z",
       "Content": "The Bank of Ghana (BoG), according to Starrfm.com.gh report, is taking proactive steps to stabilise the cedi by building up its reserves, particularly as the festive season approaches and the demand … [+3542 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "$19,800,000 To Be Handed To Apple Customers in Settlement With US Regulator and Trillion-Dollar Bank",
-      "Description": "A US regulator has announced a settlement with Goldman Sachs and Apple that will send nearly $20 million to Apple customers. The Consumer Financial Protection Bureau (CFPB) says Goldman Sachs and Apple “illegally mishandled transaction disputes” from Apple Ca…",
-      "Url": "https://dailyhodl.com/2024/11/02/19800000-to-be-handed-to-apple-customers-in-settlement-with-us-regulators-and-trillion-dollar-bank/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-card-apple.jpg",
-      "PublishedAt": "2024-11-02T20:35:14Z",
-      "Content": "A US regulator has announced a settlement with Goldman Sachs and Apple that will send nearly $20 million to Apple customers.\r\nThe Consumer Financial Protection Bureau (CFPB) says Goldman Sachs and Ap… [+1754 chars]"
     }
   ]
 }
