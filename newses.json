@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Rusia: el dólar pierde atractivo como moneda de reserva",
+      "Description": "Moscú. El dólar comienza a perder su atractivo como moneda de reserva para muchos países y el mundo se encuentra ante un proceso de erosión de dicha divisa que está en marcha y gana fuerza, señaló ayer el portavoz del Kremlin, Dimitri Peskov.",
+      "Url": "https://www.jornada.com.mx/2024/12/03/economia/020n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-12-03T09:21:24Z",
+      "Content": "Periódico La JornadaMartes 3 de diciembre de 2024, p. 20\r\nMoscú. El dólar comienza a perder su atractivo como moneda de reserva para muchos países y el mundo se encuentra ante un proceso de erosión d… [+1223 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-26T14:50:55Z",
       "Content": "Este martes 26 de noviembre, el precio del dólar en México es de $20,2993, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2627 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 26 de noviembre: El peso sufre importante depreciación",
-      "Description": "El billete verde arrancó la jornada con una cotización de $19.85 pesos a la compra y $20.60 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-26-de-noviembre-el-peso-sufre-importante-depreciacion",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/26/dolar_1.jpg",
-      "PublishedAt": "2024-11-26T13:11:58Z",
-      "Content": "Este martes 26 de noviembre de 2024 el dólar se cotiza en $20.48 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cu… [+783 chars]"
     }
   ]
 }
