@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se aferra’ a mantener ganancias frente al dólar: Se cotiza en 20.31 unidades este miércoles",
+      "Description": "El dólar estadounidense se venda este miércoles 4 de diciembre en 20.88 pesos cada uno en ventanillas bancarias, según lo indican los datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/04/peso-dolar-hoy-4-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WQGULUPJAFBFZFBLX5CYY5FWZY.jpg?smart=true&auth=31030b372ad05931657461f07886254a4aa834b267f281eb474d2413ef56a91f&width=1200&height=630",
+      "PublishedAt": "2024-12-04T16:15:52Z",
+      "Content": "El peso mexicano regresa a terreno de ganancias este miércoles 4 de diciembre, mientras los inversionistas estaban a la espera de la intervención del presidente de la Fed, a la par que asimilan cifra… [+1553 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2024-11-29T12:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 29 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.42 pesos por unidad, con un debilitamiento de… [+943 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "A cuánto podría cerrar el dólar en México en 2024 y el pronóstico para 2025 con Trump",
-      "Description": "El gobierno mexicano y los principales analistas de mercado lanzaron sus pronósticos respecto al tipo de cambio durante el año próximo, con el regreso del republicano al poder",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/a-cuanto-podria-cerrar-el-dolar-en-mexico-en-2024-y-el-pronostico-para-2025-con-trump-nid28112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-se-espera-que-cotice-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-11-28T22:04:13Z",
-      "Content": "El dólar estadounidense mostró fluctuaciones significativas frente al peso mexicano en los últimos meses. La tensión entre ambas monedas por el reciente anunció de Donald Trump de nuevos aranceles pa… [+3182 chars]"
     }
   ]
 }
