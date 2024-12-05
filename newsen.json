@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,19 +327,6 @@
       "UrlToImage": "https://viewfromthewing.com/wp-content/uploads/2024/11/bank-of-america.jpg",
       "PublishedAt": "2024-11-05T23:04:15Z",
       "Content": "Bank of America is offering 2 extra points or an additional 2% cash back across its card portfolio. They’re calling Thursday, November 7th “More Rewards Day.”\r\nThat includes airline cards like Alaska… [+418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thechronicle.com.gh"
-      },
-      "Author": "THE CHRONICLE",
-      "Title": "Editorial: The Cedi-Dollar Volatility: So BoG Has The Answers, But Sat Down Unconcerned?",
-      "Description": "The Bank of Ghana (BoG), according to Starrfm.com.gh report, is taking proactive steps to stabilise the cedi by building up its reserves, particularly as the festive season approaches and the demand for foreign exchange surges. Currently, the news portal cont…",
-      "Url": "https://thechronicle.com.gh/editorial-the-cedi-dollar-volatility-so-bog-has-the-answers-but-sat-down-unconcerned/",
-      "UrlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2023/02/Untitled-design-63.jpg",
-      "PublishedAt": "2024-11-04T08:26:50Z",
-      "Content": "The Bank of Ghana (BoG), according to Starrfm.com.gh report, is taking proactive steps to stabilise the cedi by building up its reserves, particularly as the festive season approaches and the demand … [+3542 chars]"
     }
   ]
 }
