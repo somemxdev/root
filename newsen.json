@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Dominick Reuter",
+      "Title": "Dollar Tree CEO says 'pressured' Americans are hosting smaller parties to save money",
+      "Description": "Dollar Tree shoppers are holding off on purchases — like foil pans for Thanksgiving — until right before they plan to use them.",
+      "Url": "https://www.businessinsider.com/americans-hosting-smaller-parties-save-money-dollar-tree-earnings-2024-12",
+      "UrlToImage": "https://i.insider.com/6750bd26ef9a5d904789f149?width=1200&format=jpeg",
+      "PublishedAt": "2024-12-04T21:39:33Z",
+      "Content": "Dollar Tree says its shoppers this holiday are \"buying for need and then buying closer to the need.\"Gabbi Shaw/Business Insider\r\n<ul><li>Dollar Tree \"pressured\" shoppers are looking for more ways to … [+2254 chars]"
+    },
     {
       "Source": {
         "Id": null,
