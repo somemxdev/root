@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 5 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 5 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-05T13:12:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 5 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del… [+873 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 5 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 5 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-5-de-diciembre-nid05122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-jueves-5-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-05T13:09:20Z",
+      "Content": "Este jueves 5 de diciembre, el precio del dólar en México es de $20,3233, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2084 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-11-29T15:23:37Z",
       "Content": "Este viernes 29 de noviembre, el precio del dólar en México es de $20,4173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2799 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante un debilitamiento global del dólar",
-      "Description": "Forbes México.\n Peso avanza ante un debilitamiento global del dólar\n\nEl peso cotizaba en 20.3856 por dólar, con una ganancia del 0.12% frente al precio de referencia de LSEG del jueves.\nPeso avanza ante un debilitamiento global del dólar\nForbes Staff",
-      "Url": "https://forbes.com.mx/peso-avanza-ante-un-debilitamiento-global-del-dolar-2/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-11-29T14:07:28Z",
-      "Content": "El peso se apreciaba levemente el viernes, mientras los inversores evaluaban la aprobación de una reforma constitucional por parte del Senado, y en medio de un descenso del dólar a nivel global.\r\nEl … [+1027 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 29 de noviembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 29 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.42 pesos por unidad, con un debilitamiento del 0.03 por ciento, según datos de Bloomberg.El peso mexicano …",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-29-noviembre-2024-vivo-tipo-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2024-11-29T12:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 29 de noviembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.42 pesos por unidad, con un debilitamiento de… [+943 chars]"
     }
   ]
 }
