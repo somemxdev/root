@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Infosecurity Magazine"
+      },
+      "Author": "Phil Muncaster",
+      "Title": "UK’s NCA Disrupts Multibillion-Dollar Russian Money Launderers",
+      "Description": "The National Crime Agency has made scores of arrests in a bid to bring down two major Russian money laundering networks",
+      "Url": "https://www.infosecurity-magazine.com/news/nca-multibilliondollar-russian/",
+      "UrlToImage": "https://assets.infosecurity-magazine.com/webpage/og/b2bf4588-c491-4106-ac2f-648258bfbe35.jpg",
+      "PublishedAt": "2024-12-05T09:45:00Z",
+      "Content": "UK investigators say they have sent a clear message that the country is “not a safe haven for money laundering,” after making scores of arrests and seizing millions from two major Russian criminal ne… [+4051 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
