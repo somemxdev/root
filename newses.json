@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza por segundo día! Precio del dólar hoy 6 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano registra un leve avance por segunda jornada consecutiva ante un debilitamiento global de la divisa estadunidense, con lo que el precio del dólar hoy 6 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; con…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-6-diciembre-2024-tipo-cambio-bancos-mexico/1688254",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/06/3224291.jpg",
+      "PublishedAt": "2024-12-06T15:44:32Z",
+      "Content": "El peso mexicano registra un leve avance por segunda jornada consecutiva ante un debilitamiento global de la divisa estadunidense, con lo que el precio del dólar hoy 6 de diciembre de 2024 cotiza en … [+1252 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘frena’ racha positiva frente al dólar: Se cotiza en 20.21 unidades este viernes",
+      "Description": "El tipo de cambio ronda en los 20.2147 pesos por dólar, una depreciación de apenas 0.05 por ciento o 1.04 centavos durante este viernes 6 de diciembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/06/peso-dolar-hoy-6-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/R37QXARDHFBCRKEXVG2Q5M7A5I.jpg?smart=true&auth=c9d1bb990b74df14bbaa07f9727116535aeaedf5a8acdafcf8d7e3958ce2991b&width=1200&height=630",
+      "PublishedAt": "2024-12-06T15:30:48Z",
+      "Content": "El peso mexicano reporta un ligero retroceso frente al dólar este viernes 6 de diciembre, en el inicio de una jornada en la que se están asimilando los datos de empleo para la economía estadounidense… [+1646 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639610.jpg&wm=1&ang=0",
       "PublishedAt": "2024-12-02T14:03:36Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (02 diciembre 2024) .-08:00 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 2 de diciembre: Comienza la semana con golpe al peso mexicano",
-      "Description": "La divisa americana al inicio de la jornada se cotiza en $19.88 pesos a la compra y $20.66 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-2-de-diciembre-comienza-la-semana-con-golpe-al-peso-mexicano",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/02/2_dic_dolar_1.jpg",
-      "PublishedAt": "2024-12-02T13:48:14Z",
-      "Content": "Este lunes 2 de diciembre de 2024 el dólar se cotiza en $20.55 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió terreno frente a la divisa estadounidense, tomando en cuen… [+824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "redaccion@bolsamania.com (María Campillo)",
-      "Title": "El euro cae ante la tensión política en Francia mientras el dólar mantiene su \"atractivo\"",
-      "Description": "Cara y cruz en el mercado de divisas. Mientras el dólar estadounidense sigue dando muestras de fortaleza desde la victoria de Donald Trump en las elecciones presidenciales de EEUU, el euro se mantiene bajo presión ante los múltiples desafíos que asolan al Vie…",
-      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/euro-cae-tension-politica-francia-mientras-dolar-mantiene-atractivo--18230424.html",
-      "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
-      "PublishedAt": "2024-12-02T10:22:41Z",
-      "Content": "Cara y cruz en el mercado de divisas. Mientras el dólar estadounidense sigue dando muestras de fortaleza desde la victoria de Donald Trump en las elecciones presidenciales de EEUU, el euro se mantien… [+2526 chars]"
     }
   ]
 }
