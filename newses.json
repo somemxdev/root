@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 6 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 6 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.19 pesos por unidad, con una perdida del 0.02 por ciento, según datos de Bloomberg.El peso mexicano cotizab…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-06T12:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 6 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.19 pesos por unidad, con una perdida del 0.02 … [+896 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/O3GAOKXQ5ZBWXJR6VWIIYFLFHA.jpg?smart=true&auth=365313a0be07f47b41ca90e40ce60a6873a738b4f2b77959bf3572e6cda6c439&width=1200&height=630",
       "PublishedAt": "2024-12-02T07:23:20Z",
       "Content": "Los alcistas del dólar, envalentonados por la victoria de Donald Trump, están entrando en un mes que históricamente ha castigado al dólar.\r\nLa moneda estadounidense ha avanzado alrededor de un 2 por … [+5373 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "AP",
-      "Title": "No solo México: Trump amenaza a países del BRICS con arancel de 100% si intentan sustituir al dólar",
-      "Description": "El presidente electo, Donald Trump, amenazó con imponer aranceles de 100% a un bloque de nueve naciones si actúan para sustituir al dólar estadounidense.",
-      "Url": "https://www.elfinanciero.com.mx/mundo/2024/11/30/no-solo-mexico-trump-amenaza-a-paises-del-brics-con-arancel-de-100-si-intentan-sustituir-al-dolar/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/KYCJJCRBE5HQ7H7ATOBPKH54VU.jpg?smart=true&auth=e6bf503bc812e87fc19a558e0c9e20909f5b478affc06a20efcb9fadb3af60de&width=1200&height=630",
-      "PublishedAt": "2024-11-30T20:52:57Z",
-      "Content": "El presidente electo, Donald Trump, amenazó este sábado con imponer aranceles de 100 por ciento a un bloque de nueve naciones si actúan para sustituir al dólar estadounidense.\r\nTrump dirigió su amena… [+1681 chars]"
     }
   ]
 }
