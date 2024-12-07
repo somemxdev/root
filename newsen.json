@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Nikhil Agarwal",
+      "Title": "FIIs fixing billion-dollar blunder, bank stocks on top of buying list",
+      "Description": "Foreign institutional investors (FIIs) are returning to the Indian stock market after a period of selling.  They've invested heavily in financials, particularly HDFC Bank, boosting its market cap.  While some analysts are optimistic about this revival, others…",
+      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-fixing-billion-dollar-blunder-bank-stocks-on-top-of-buying-list/articleshow/116028909.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-116028895,width-1200,height-630,imgsize-655876,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2024-12-06T03:56:29Z",
+      "Content": "Foreign institutional investors (FIIs), who started fleeing India after Nifty hit record high in September-end, are now on a course correction path. After selling Indian stocks worth Rs 116,437 crore… [+3131 chars]"
+    },
     {
       "Source": {
         "Id": null,
