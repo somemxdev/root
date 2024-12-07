@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es la moneda de 25 centavos de dólar de Pensilvania que vale hasta US$8750: podrías tenerla en el bolsillo sin saberlo",
+      "Description": "Un ejemplar raro de 1999, en perfecto estado, alcanza altos valores en el mercado numismático; su condición y detalles únicos la convierten en una pieza codiciada por los coleccionistas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-moneda-de-25-centavos-de-dolar-de-pensilvania-que-vale-hasta-us8750-podrias-tenerla-en-el-nid06122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/moneda-de-25-centavos-HJQFYH23FJD4PPZRUEKT4GEUN4.jpg?auth=57bf9a542697c2d29960ae80be519b0928f6bbbfa1791751380de029f9d67da6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-06T19:07:10Z",
+      "Content": "En la numismática, pocas piezas despiertan tanto interés como las monedas históricas que no salieron a circulación. Este es el caso de lamoneda de 25 centavos acuñada en 1999 en la Casa de la Moneda … [+2468 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639610.jpg&wm=1&ang=0",
       "PublishedAt": "2024-12-02T14:03:36Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (02 diciembre 2024) .-08:00 (Actualización: 15:33 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cae peso; dólar se vende $20.52",
-      "Description": "En el mercado internacional, el tipo de cambio cotizaba en $20.52 por dólar, con una pérdida del 0.82% para el peso respecto al viernes.",
-      "Url": "https://www.reforma.com/cae-peso-dolar-se-vende-20-52/ar2916418",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639610.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-12-02T14:03:36Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (02 diciembre 2024) .-08:00 hrs"
     }
   ]
 }
