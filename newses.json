@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 6 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 6 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-6-de-diciembre-nid06122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-06T14:01:09Z",
+      "Content": "Este viernes 6 de diciembre, el precio del dólar en México es de $20,3233, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2894 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/c/5/euro_dolar_cb.gif",
       "PublishedAt": "2024-12-02T10:22:41Z",
       "Content": "Cara y cruz en el mercado de divisas. Mientras el dólar estadounidense sigue dando muestras de fortaleza desde la victoria de Donald Trump en las elecciones presidenciales de EEUU, el euro se mantien… [+2526 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "‘Black Christmas’ para el dólar: Donald Trump y la FED pondrán a ‘temblar’ a la moneda",
-      "Description": "Los nuevos anuncios de políticas económicas de Donald Trump podrían representar perdidas para dólar durante el cierre del año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/02/black-christmas-para-el-dolar-donald-trump-y-la-fed-pondran-a-temblar-a-la-moneda/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/O3GAOKXQ5ZBWXJR6VWIIYFLFHA.jpg?smart=true&auth=365313a0be07f47b41ca90e40ce60a6873a738b4f2b77959bf3572e6cda6c439&width=1200&height=630",
-      "PublishedAt": "2024-12-02T07:23:20Z",
-      "Content": "Los alcistas del dólar, envalentonados por la victoria de Donald Trump, están entrando en un mes que históricamente ha castigado al dólar.\r\nLa moneda estadounidense ha avanzado alrededor de un 2 por … [+5373 chars]"
     }
   ]
 }
