@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,32 +366,6 @@
       "UrlToImage": "https://media.radaronline.com/brand-img/oICg4NEw-/1200x628/donald-trump-election-record-stocks-dollar-soaring-kamala-harris-2-1730996248626.jpg",
       "PublishedAt": "2024-11-07T16:50:18Z",
       "Content": "Source: MEGADonald Trump's election win has led to record-setting stocks.\r\nArticle continues below advertisement\r\nSource: MEGAThe stock market has seen a substantial rise following Trump's victory in… [+3687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar Tree, discount retailers fall on possible Trump tariffs - Yahoo Finance",
-      "Description": "Dollar Tree, discount retailers fall on possible Trump tariffsYahoo Finance Trump's proposed tariffs could raise prices for consumers and slow spendingCNBC Everything we know about Trump’s policies on tariffs, trade, and taxesFortune The world prepares for a …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175420759",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-06T23:33:32Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Oil tumbles with Trump trades aiding dollar as US counts votes - Yahoo Finance",
-      "Description": "Oil tumbles with Trump trades aiding dollar as US counts votesYahoo Finance Oil falls as projected Trump win sends US dollar higherReuters Oil Prices and Clean-Energy Stocks Drop on Likely Trump VictoryThe Wall Street Journal Oil prices hold steady ahead of U…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175415017",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-06T10:52:51Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
