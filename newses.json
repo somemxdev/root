@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 7 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de diciembre el tipo de cambio interbancario, se ubica en 20.18 pesos por unidad, con una pérdida del-0.03 por ciento, según datos de Bloomberg.Ayer, el peso mexicano cotizab…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-12-07T14:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de diciembre el tipo de cambio interbancario, se ubica en 20.18 pesos por unidad, con una pérdida del -0.03 por ci… [+1081 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-02T14:07:23Z",
       "Content": "Este lunes 2 de diciembre, el precio del dólar en México es de $20,4173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Recorta peso pérdidas; dólar se vende $20.39",
-      "Description": "En el mercado internacional, el tipo de cambio cotizaba en $20.39 por dólar, con una pérdida del 0.16% para el peso respecto al viernes.",
-      "Url": "https://www.reforma.com/recorta-peso-perdidas-dolar-se-vende-20-39/ar2916418",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639610.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-12-02T14:03:36Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (02 diciembre 2024) .-08:00 (Actualización: 15:33 hrs)"
     }
   ]
 }
