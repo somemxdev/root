@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso arranca con ganancias! Precio del dólar hoy 9 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza durante la jornada de este lunes luego de darse a conocer los datos de la inflación, con lo que el precio del dólar hoy 9 de diciembre de 2024 cotiza en 20.11 unidades por cada billete verde; conoce aquí cuál es el ti…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-9-diciembre-2024-tipo-cambio-bancos-mexico/1688654",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/09/3225463.jpg",
+      "PublishedAt": "2024-12-09T14:50:47Z",
+      "Content": "El peso mexicano avanza durante la jornada de este lunes luego de darse a conocer los datos de la inflación, con lo que el precio del dólar hoy 9 de diciembre de 2024 cotiza en 20.11 unidades por cad… [+1221 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Mario Becedas, Vicente Nieves",
+      "Title": "Ni oro ni moneda BRICS: China quiere destruir el dólar desde dentro",
+      "Description": "A lo mejor en la guerra contra el todopoderoso dólar no se puede vencer del todo, pero es vital ir ganando batallas. Ese parece ser el pensamiento de China, Rusia y otras economías del llamado grupo de los emergentes que buscan con ahínco acabar con la hegemo…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13125189/12/24/ni-oro-ni-moneda-brics-china-quiere-destruir-el-dolar-desde-dentro.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/6016x3283/0/b/2/1200x655_2H35NWA.jpg",
+      "PublishedAt": "2024-12-09T14:32:17Z",
+      "Content": "A lo mejor en la guerra contra el todopoderoso dólar no se puede vencer del todo, pero es vital ir ganando batallas. Ese parece ser el pensamiento de China, Rusia y otras economías del llamado grupo … [+12450 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 9 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 9 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-9-de-diciembre-nid09122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-09T14:21:37Z",
+      "Content": "Este lunes 9 de diciembre, el precio del dólar en México es de $20,2275, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2231 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MWTKIFVXRNCARNGX45AUKTKGYE.jpg?smart=true&auth=b98ecbe1623c2bd53c37769ffb575fb4ddfd7f0c4a2ee95ff838d607eb82851c&width=1200&height=630",
       "PublishedAt": "2024-12-02T20:21:48Z",
       "Content": "Los mexicanos sabemos que la desgracia de unos es la fortuna de otros y eso aplica también en la economía. La depreciación del tipo de cambio del peso frente al dólar, un fenómeno que tradicionalment… [+3337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Miguel Moscossa",
-      "Title": "Un dólar más caro: ¿Llegará a las 21 unidades en 2025? Esto prevé la encuesta de Banxico",
-      "Description": "Pese a un mayor dinamismo en la actividad económica, los analistas ven un dólar más caro para 2025.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/02/un-dolar-mas-caro-llegara-a-las-21-unidades-en-2025-esto-preve-la-encuesta-de-banxico/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WIE5AXMOFBDWVKB7EIGCC55JRQ.jpg?smart=true&auth=4500a4494a3e8c371e52f0ef6cad091ea4329f4b119173c86f67b2c1833dbd91&width=1200&height=630",
-      "PublishedAt": "2024-12-02T18:35:45Z",
-      "Content": "El mayor dinamismo de la actividad económica en la recta final del año llevó a los analistas a mejorar sus expectativas del PIB para el 2024 y el 2025... pero ven un dólar más caro, de acuerdo con la… [+2642 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El error por el que este brillo azul en tu moneda de dólar podría valer más de 205 mil: cómo identificarlo",
-      "Description": "Las monedas acuñadas en Estados Unidos captan la atención de coleccionistas de todo el mundo debido a su historia, diseño y rareza. Sin embargo, un aspecto que puede aumentar exponencialmente su valor es la existencia de errores.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-error-por-el-que-este-brillo-azul-en-tu-moneda-de-dolar-podria-valer-mas-de-205-mil-como-nid02122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-1841-presenta-un-detalle-que-la-hace-SD3CDUNRWJGCNEKKF7TNLIC4WI.jpg?auth=70c901bba34780b33668eff7ae26e88e79185e7620bd60a6291af0241e366cbd&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-02T18:21:35Z",
-      "Content": "Las monedas acuñadas en Estados Unidos captan la atención de coleccionistas de todo el mundo debido a su historia, diseño y rareza. Sin embargo, un aspecto que puede aumentar exponencialmente su valo… [+2318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso regresa al terreno de pérdidas frente al dólar: ¿En cuánto cotiza HOY 2 de diciembre?",
-      "Description": "El tipo de cambio opera cerca de las 20.5352 unidades por billete verde, lo que representa una depreciación de 0.86 por ciento o 17.41 centavos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/02/peso-dolar-hoy-2-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/KHE77PNSFVCI7IOFZ3GTGIBEZM.jpg?smart=true&auth=8a97661f9b628e521ac3a6efad5f6c7cd369514aacf9f7b9945d143dcc0936d5&width=1200&height=630",
-      "PublishedAt": "2024-12-02T17:14:01Z",
-      "Content": "El peso mexicano opera este lunes 2 de diciembre nuevamente en terreno de pérdidas, mientras los operadores están a la espera de conocer más reportes económicos durante la primera semana bursátil de … [+1566 chars]"
     }
   ]
 }
