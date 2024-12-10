@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza ante el dólar: Tipo de cambio se ubica en 20.15 unidades este lunes",
+      "Description": "El dólar se vende en 20.68 pesos por billete verde en ventanillas bancarias, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/09/peso-dolar-tipo-de-cambio-hoy-9-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3IHHZ5EK6FDSRADQJRBMTTB4M4.jpg?smart=true&auth=2e24372977bb110102441273a1d06ba93e14d8fab0ded07e560447e753b7a2e8&width=1200&height=630",
+      "PublishedAt": "2024-12-09T15:25:10Z",
+      "Content": "El peso mexicano inicia la semana registrando avances frente al dólar, mientras el mercado asimila las cifras de inflación en México en noviembre.\r\nDe acuerdo con Bloomberg, la moneda mexicana regist… [+1690 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/30/peso-gana-frente-dolar-pierde.jpeg",
       "PublishedAt": "2024-12-02T22:17:00Z",
       "Content": "El peso mexicano se depreció con 0.16 por ciento, culminando la sesión en 20.39 unidades por dólar, este lunes 02 de diciembre de 2024, ante el avance global de la divisa estadunidense. \r\n¿Por qué el… [+2696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿Por qué la caída del tipo de cambio del peso frente al dólar puede ser una buena noticia para México?",
-      "Description": "La depreciación del tipo de cambio del peso frente al dólar podría fortalecer las finanzas públicas de México en 2025 gracias a los remanentes del Banco de México, explica Enrique Quintana.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/02/por-que-la-caida-del-tipo-de-cambio-del-peso-frente-al-dolar-puede-ser-una-buena-noticia-para-mexico/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MWTKIFVXRNCARNGX45AUKTKGYE.jpg?smart=true&auth=b98ecbe1623c2bd53c37769ffb575fb4ddfd7f0c4a2ee95ff838d607eb82851c&width=1200&height=630",
-      "PublishedAt": "2024-12-02T20:21:48Z",
-      "Content": "Los mexicanos sabemos que la desgracia de unos es la fortuna de otros y eso aplica también en la economía. La depreciación del tipo de cambio del peso frente al dólar, un fenómeno que tradicionalment… [+3337 chars]"
     }
   ]
 }
