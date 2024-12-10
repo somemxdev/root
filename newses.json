@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 9 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 9 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con una pérdida del 0.17 por ciento, según datos de Bloomberg.El peso mexicano cotizaba …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2024-12-09T12:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 9 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con una pérdida del 0.17 po… [+908 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero04.webp",
       "PublishedAt": "2024-12-02T14:33:53Z",
       "Content": "El peso se depreciaba este lunes, en el inicio del último mes del año para el mercado, presionado por el avance del dólar a nivel externo tras comentarios del presidente electo de Estados Unidos, Don… [+828 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 2 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 2 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-2-de-diciembre-nid02122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-02T14:07:23Z",
-      "Content": "Este lunes 2 de diciembre, el precio del dólar en México es de $20,4173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2564 chars]"
     }
   ]
 }
