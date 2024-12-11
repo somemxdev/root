@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso recupera terreno! Precio del dólar hoy 10 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano recupera terreno al apreciarse en el arranque de la jornada de este martes, con lo que el precio del dólar hoy 10 de diciembre de 2024 cotiza en 20.17 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-10-diciembre-2024-tipo-cambio-bancos-mexico/1688815",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/10/3225903.jpg",
+      "PublishedAt": "2024-12-10T13:43:00Z",
+      "Content": "El peso mexicano recupera terreno al apreciarse en el arranque de la jornada de este martes, con lo que el precio del dólar hoy 10 de diciembre de 2024 cotiza en 20.17 unidades por cada billete verde… [+1352 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 10 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 10 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-10-de-diciembre-nid10122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-10T13:37:42Z",
+      "Content": "Este martes 10 de diciembre, el precio del dólar en México es de $20,1547, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 10 de diciembre 2024: El billete verde no cede ante el peso mexicano",
+      "Description": "La divisa estadounidense se cotiza en $19.70 pesos a la compra y $20.46 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-10-de-diciembre-2024-el-billete-verde-no-cede-ante-el-peso-mexicano",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/10/dolar_1.jpg",
+      "PublishedAt": "2024-12-10T13:31:16Z",
+      "Content": "Este martes 10 de diciembrede 2024 el dólar se cotiza en $20.19 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió algunos centavos frente a la divisa estadounidense, toman… [+827 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
       "PublishedAt": "2024-12-03T14:33:56Z",
       "Content": "El peso se apreciaba levemente en los primeros negocios del martes, respaldado por un retroceso global del dólar tras el avance del billete verde en la víspera y datos sobre el desempleo en México.\r\n… [+1323 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Tiene peso leve mejoría; dólar se vende en $20.34",
-      "Description": "El tipo de cambio cotizaba en $20.34 por dólar en el mercado internacional, con una ganancia del 0.14% para el peso respecto al lunes.",
-      "Url": "https://www.reforma.com/tiene-peso-leve-mejoria-dolar-se-vende-en-20-34/ar2917005",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/851/5850729.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-12-03T13:52:01Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (03 diciembre 2024) .-07:49 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 3 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 3 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con una baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se deprecia…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-03T12:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 3 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con una baja del 0.16 por … [+866 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Rusia: el dólar pierde atractivo como moneda de reserva",
-      "Description": "Moscú. El dólar comienza a perder su atractivo como moneda de reserva para muchos países y el mundo se encuentra ante un proceso de erosión de dicha divisa que está en marcha y gana fuerza, señaló ayer el portavoz del Kremlin, Dimitri Peskov.",
-      "Url": "https://www.jornada.com.mx/2024/12/03/economia/020n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-12-03T09:21:24Z",
-      "Content": "Periódico La JornadaMartes 3 de diciembre de 2024, p. 20\r\nMoscú. El dólar comienza a perder su atractivo como moneda de reserva para muchos países y el mundo se encuentra ante un proceso de erosión d… [+1223 chars]"
     }
   ]
 }
