@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso reduce pérdidas iniciales! Precio del dólar hoy 11 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano reduce las pérdidas con las que inició la jornada del miércoles, con lo que el precio del dólar hoy 11 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-11-diciembre-2024-tipo-cambio-bancos-mexico/1689058",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/11/3226630.jpg",
+      "PublishedAt": "2024-12-11T14:22:04Z",
+      "Content": "El peso mexicano reduce las pérdidas con las que inició la jornada del miércoles, con lo que el precio del dólar hoy 11 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aq… [+1374 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/CM7EN2ZRZFHR7D7MZXFIIC4N6Y.jpg?smart=true&auth=67c39bcacc264b00997c459b237df478ad1cb9ce81fd5484616c7fa6d8855c85&width=1200&height=630",
       "PublishedAt": "2024-12-03T16:47:46Z",
       "Content": "El peso mexicano inició la sesión de este martes 3 de diciembre en terreno de ganancias, después de que se presentó un debilitamiento en la cotización del dólar, pues el mercado espera que la Fed sig… [+1718 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 3 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 3 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-3-de-diciembre-nid03122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-12-03T15:13:14Z",
-      "Content": "Este martes 3 de diciembre, el precio del dólar en México es de $20,4173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2896 chars]"
     }
   ]
 }
