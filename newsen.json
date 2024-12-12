@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,19 +301,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/01/btc-etf-jay.jpg",
       "PublishedAt": "2024-11-12T20:55:23Z",
       "Content": "BitMEX co-founder Arthur Hayes believes that the US is about to go on a massive money printing spree that could send Bitcoin (BTC) soaring to seven figures.\r\nIn a new essay, Hayes says that incoming … [+2074 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Amalgamated Bank Decreases Holdings in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Amalgamated Bank decreased its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.9% during the 3rd quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm owned 40,768 shares of the company…",
-      "Url": "https://www.etfdailynews.com/2024/11/11/amalgamated-bank-decreases-holdings-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-11-11T09:50:57Z",
-      "Content": "Amalgamated Bank decreased its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.9% during the 3rd quarter, according to the company in its most recent disclosure with the Securities &amp; … [+5288 chars]"
     }
   ]
 }
