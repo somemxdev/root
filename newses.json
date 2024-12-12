@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 11 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 11 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.22 pesos por unidad, con un fortalecimiento del 0.27 por ciento, según datos de Bloomberg.El peso mexica…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-11T12:12:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 11 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.22 pesos por unidad, con un fortalecimiento… [+938 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/03/3222290.jpg",
       "PublishedAt": "2024-12-03T14:51:52Z",
       "Content": "El peso mexicano se recuperó ligeramente al apreciarse en el arranque de la jornada de este martes, con lo que el precio del dólar hoy 3 de diciembre de 2024 cotiza en 20.34 unidades por cada billete… [+1543 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante la depreciación mundial del dólar",
-      "Description": "Forbes México.\n Peso avanza ante la depreciación mundial del dólar\n\nEl peso reducía sus alzas previas y cotizaba en 20,3492 por dólar, con una ganancia de 0.14% frente al precio de referencia de LSEG del lunes.\nPeso avanza ante la depreciación mundial del dól…",
-      "Url": "https://forbes.com.mx/peso-avanza-ante-la-depreciacion-mundial-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
-      "PublishedAt": "2024-12-03T14:33:56Z",
-      "Content": "El peso se apreciaba levemente en los primeros negocios del martes, respaldado por un retroceso global del dólar tras el avance del billete verde en la víspera y datos sobre el desempleo en México.\r\n… [+1323 chars]"
     }
   ]
 }
