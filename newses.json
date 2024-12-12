@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, ‘da un pasito’ para atrás frente al dólar: Se cotiza en 20.18 unidades este miércoles",
+      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 20.71 pesos cada uno este miércoles 11 de diciembre",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/11/peso-dolar-precio-hoy-11-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/EWSL7BVJVBCTRJTINQ3KPH2MJI.jpg?smart=true&auth=0701353b3641ba2361d7ab7037b6058639450aa6cd7389d76400fe92c3919c64&width=1200&height=630",
+      "PublishedAt": "2024-12-11T17:18:43Z",
+      "Content": "El peso mexicano inicia la jornada con movimientos laterales, luego de que las cifras de inflación correspondientes a noviembre en Estados Unidos salieron conforme a lo anticipado, lo que incrementa … [+1405 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-12-03T22:38:36Z",
       "Content": "El peso avanzó el martes en medio de una leve debilidad del dólar a nivel global, al tiempo que la Bolsa Mexicana de Valores subió en línea con índices externos, con inversores analizando cifras de e… [+2887 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘aprovecha’ debilidad del dólar: ¿Cuánto le gana a la moneda de EU? Así cotiza este martes",
-      "Description": "El tipo de cambio presenta una tendencia bajista gracias al retroceso del dólar y a las cifras económicas mixtas en México, apuntan expertos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/03/peso-dolar-hoy-3-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/CM7EN2ZRZFHR7D7MZXFIIC4N6Y.jpg?smart=true&auth=67c39bcacc264b00997c459b237df478ad1cb9ce81fd5484616c7fa6d8855c85&width=1200&height=630",
-      "PublishedAt": "2024-12-03T16:47:46Z",
-      "Content": "El peso mexicano inició la sesión de este martes 3 de diciembre en terreno de ganancias, después de que se presentó un debilitamiento en la cotización del dólar, pues el mercado espera que la Fed sig… [+1718 chars]"
     }
   ]
 }
