@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘va para atrás’ en el Día de la Virgen de Guadalupe: Así cotiza ante el dólar",
+      "Description": "El dólar se cotiza en 20.72 pesos por billete en ventanillas, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/12/peso-dolar-tipo-de-cambio-hoy-12-de-diciembre-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3HBQPY53MBEBVG7PLVWTZXENFM.jpg?smart=true&auth=1a2bedcacc089fd3df327217bc9cb44426e2c8c5259fd844e9a0de6083406742&width=1200&height=630",
+      "PublishedAt": "2024-12-12T15:41:40Z",
+      "Content": "Después de haberse beneficiado de la expectativa de menores tasas de interés de la Fed en Estados Unidos, el peso mexicano inicia la penúltima jornada de la semana operando con retrocesos frente al d… [+1639 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/WQGULUPJAFBFZFBLX5CYY5FWZY.jpg?smart=true&auth=31030b372ad05931657461f07886254a4aa834b267f281eb474d2413ef56a91f&width=1200&height=630",
       "PublishedAt": "2024-12-04T16:15:52Z",
       "Content": "El peso mexicano regresa a terreno de ganancias este miércoles 4 de diciembre, mientras los inversionistas estaban a la espera de la intervención del presidente de la Fed, a la par que asimilan cifra… [+1553 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 4 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 4 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-4-de-diciembre-nid04122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-04T14:58:59Z",
-      "Content": "Este martes 3 de diciembre, el precio del dólar en México es de $20,3233, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2568 chars]"
     }
   ]
 }
