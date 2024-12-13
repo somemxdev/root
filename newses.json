@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 12 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 12 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en20.11 pesos por unidad, con una baja del 0.11 por ciento, según datos de Bloomberg.El peso mexicano reducía sus…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-12T12:14:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 12 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.11 pesos por unidad, con una baja del 0.11 por … [+922 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-04T12:03:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 4 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.33 pesos por unidad, con un fortalecimiento … [+873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "El peso avanza en medio de una leve debilidad del dólar",
-      "Description": "Forbes México.\n El peso avanza en medio de una leve debilidad del dólar\n\nLos mercados están a la expectativa de más datos de empleo de EU esta semana y comentarios de autoridades de la Reserva Federal.\nEl peso avanza en medio de una leve debilidad del dólar\nF…",
-      "Url": "https://forbes.com.mx/el-peso-avanza-en-medio-de-una-leve-debilidad-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-12-03T22:38:36Z",
-      "Content": "El peso avanzó el martes en medio de una leve debilidad del dólar a nivel global, al tiempo que la Bolsa Mexicana de Valores subió en línea con índices externos, con inversores analizando cifras de e… [+2887 chars]"
     }
   ]
 }
