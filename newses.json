@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae en la apertura! Precio del dólar hoy 12 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ligeramente en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 12 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-12-diciembre-2024-tipo-cambio-bancos-mexico/1689305",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/12/3227436.jpg",
+      "PublishedAt": "2024-12-12T14:51:03Z",
+      "Content": "El peso mexicano retrocede ligeramente en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 12 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce … [+1163 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-04T14:58:59Z",
       "Content": "Este martes 3 de diciembre, el precio del dólar en México es de $20,3233, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2568 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso opera casi estable! Precio del dólar hoy 4 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano opera casi estable en el arranque de la jornada de este miércoles, con lo que el precio del dólar hoy 4 de diciembre de 2024 cotiza en 20.30 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-4-diciembre-2024-tipo-cambio-bancos-mexico/1687833",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/04/3222927.jpg",
-      "PublishedAt": "2024-12-04T14:45:56Z",
-      "Content": "El peso mexicano opera casi estable en el arranque de la jornada de este miércoles, con lo que el precio del dólar hoy 4 de diciembre de 2024 cotiza en 20.30 unidades por cada billete verde; conoce a… [+1178 chars]"
     }
   ]
 }
