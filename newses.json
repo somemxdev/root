@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se enfría’ ante el dólar: Tipo de cambio cotiza en 20.19 unidades",
+      "Description": "El dólar se vende en 20.74 unidades por dólar en ventanillas bancarias, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/13/peso-dolar-tipo-de-cambio-hoy-13-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MIANIPRDGVC7NPW3UAASV5P7FE.jpg?smart=true&auth=3cdb178839b728a07bb48ed7879bb5cbc29e6c5cbbbc061142d64a9613857576&width=1200&height=630",
+      "PublishedAt": "2024-12-13T15:31:22Z",
+      "Content": "Con los inversionistas aún sopesando las expectativas sobre los siguientes movimientos de la Reserva Federal (Fed) de Estados Unidos, el peso mexicano opera la sesión de este viernes con un retroceso… [+1722 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-06T12:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 6 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.19 pesos por unidad, con una perdida del 0.02 … [+896 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso aventaja al dólar a la espera de datos de empleo en EU: ¿En cuánto cotiza HOY jueves?",
-      "Description": "En ventanillas bancarias, el dólar ya se vende en un precio de 20.74 pesos cada uno este jueves 5 de diciembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/05/peso-dolar-hoy-5-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VOVDT6FP6NFIZACAOUF7YXUCKI.jpg?smart=true&auth=9ab7403a009bfec4961a73de6e0a3df66efee0b970099c361b1a507717482ae9&width=1200&height=630",
-      "PublishedAt": "2024-12-05T16:47:21Z",
-      "Content": "Con la atención de los inversionistas puesta aún en datos de empleo en Estados Unidos, los cuales seguirán moldeando las expectativas sobre la política monetaria, el peso mexicano anticipa otra jorna… [+1532 chars]"
     }
   ]
 }
