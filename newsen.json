@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,19 +301,6 @@
       "UrlToImage": "https://grist.org/wp-content/uploads/2024/11/1111_COP29Quiz.jpg?quality=75&strip=all",
       "PublishedAt": "2024-11-14T09:45:01Z",
       "Content": "As thousands of government ministers and climate activists descend on Baku, Azerbaijan, for the annual United Nations climate summit known as COP29, they have a difficult task ahead of them. Meeting … [+4100 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Arthur Hayes Says Bitcoin Going to $1,000,000 Triggered by Multi-Trillion Dollar Money Printing Spree",
-      "Description": "BitMEX co-founder Arthur Hayes believes that the US is about to go on a massive money printing spree that could send Bitcoin (BTC) soaring to seven figures. In a new essay, Hayes says that incoming president Donald Trump’s administration will launch a massive…",
-      "Url": "https://dailyhodl.com/2024/11/12/arthur-hayes-says-bitcoin-going-to-1000000-triggered-by-multi-trillion-dollar-money-printing-spree/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/01/btc-etf-jay.jpg",
-      "PublishedAt": "2024-11-12T20:55:23Z",
-      "Content": "BitMEX co-founder Arthur Hayes believes that the US is about to go on a massive money printing spree that could send Bitcoin (BTC) soaring to seven figures.\r\nIn a new essay, Hayes says that incoming … [+2074 chars]"
     }
   ]
 }
