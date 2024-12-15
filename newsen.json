@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": "https://www.livemint.com/lm-img/img/2024/11/15/1600x900/d3ffecfe-ba3e-11eb-b2e0-990fd466194c_1628063694293_1731665900424.jpg",
       "PublishedAt": "2024-11-15T10:51:13Z",
       "Content": "The State Bank of India, India's largest public sector bank, is planning to raise up to $1.25 billion, marking the biggest dollar-denominated loan in the country's financial sector.\r\nThe bank is look… [+1764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Grist"
-      },
-      "Author": "Jake Bittle",
-      "Title": "Can you solve the world’s trillion-dollar climate finance puzzle?",
-      "Description": "As countries deadlock at COP29, take Grist’s quiz to find out whose side you’re on.",
-      "Url": "http://grist.org/cop29/can-you-solve-the-worlds-trillion-dollar-climate-finance-puzzle/",
-      "UrlToImage": "https://grist.org/wp-content/uploads/2024/11/1111_COP29Quiz.jpg?quality=75&strip=all",
-      "PublishedAt": "2024-11-14T09:45:01Z",
-      "Content": "As thousands of government ministers and climate activists descend on Baku, Azerbaijan, for the annual United Nations climate summit known as COP29, they have a difficult task ahead of them. Meeting … [+4100 chars]"
     }
   ]
 }
