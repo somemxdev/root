@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -275,19 +275,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-11-17T06:46:45Z",
       "Content": "Dollar General (NYSE:DG – Get Free Report) had its price target lowered by equities researchers at Bernstein Bank from $98.00 to $94.00 in a research report issued on Friday. Bernstein Bank’s price o… [+5938 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Riya R Alex",
-      "Title": "SBI set to borrow $1.25 billion, India's largest dollar-denominated bank loan in 2024; details here",
-      "Description": "SBI is set to raise up to $1.25 billion, the largest dollar loan in India, for corporate needs in GIFT City.",
-      "Url": "https://www.livemint.com/companies/sbi-set-to-borrow-1-25-billion-indias-largest-dollar-denominated-bank-loan-in-2024-details-here-11731662922865.html",
-      "UrlToImage": "https://www.livemint.com/lm-img/img/2024/11/15/1600x900/d3ffecfe-ba3e-11eb-b2e0-990fd466194c_1628063694293_1731665900424.jpg",
-      "PublishedAt": "2024-11-15T10:51:13Z",
-      "Content": "The State Bank of India, India's largest public sector bank, is planning to raise up to $1.25 billion, marking the biggest dollar-denominated loan in the country's financial sector.\r\nThe bank is look… [+1764 chars]"
     }
   ]
 }
