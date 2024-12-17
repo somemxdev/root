@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 16 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 16 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-16-de-diciembre-nid16122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-16T13:51:37Z",
+      "Content": "Este lunes 16 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2341 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/06/3224291.jpg",
       "PublishedAt": "2024-12-06T15:44:32Z",
       "Content": "El peso mexicano registra un leve avance por segunda jornada consecutiva ante un debilitamiento global de la divisa estadunidense, con lo que el precio del dólar hoy 6 de diciembre de 2024 cotiza en … [+1252 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘frena’ racha positiva frente al dólar: Se cotiza en 20.21 unidades este viernes",
-      "Description": "El tipo de cambio ronda en los 20.2147 pesos por dólar, una depreciación de apenas 0.05 por ciento o 1.04 centavos durante este viernes 6 de diciembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/06/peso-dolar-hoy-6-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/R37QXARDHFBCRKEXVG2Q5M7A5I.jpg?smart=true&auth=c9d1bb990b74df14bbaa07f9727116535aeaedf5a8acdafcf8d7e3958ce2991b&width=1200&height=630",
-      "PublishedAt": "2024-12-06T15:30:48Z",
-      "Content": "El peso mexicano reporta un ligero retroceso frente al dólar este viernes 6 de diciembre, en el inicio de una jornada en la que se están asimilando los datos de empleo para la economía estadounidense… [+1646 chars]"
     }
   ]
 }
