@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso arranca con pérdidas! Precio del dólar hoy 16 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la semana con retrocesos, con lo que el precio del dólar hoy 16 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-16-diciembre-2024-tipo-cambio-bancos-mexico/1689921",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/16/3229367.jpg",
+      "PublishedAt": "2024-12-16T15:46:25Z",
+      "Content": "El peso mexicano arranca la semana con retrocesos, con lo que el precio del dólar hoy 16 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1641 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso inicia la semana con el ‘pie izquierdo’: ¿Cuánto pierde frente al dólar? Así cotiza este lunes",
+      "Description": "En ventanillas bancarias, el precio del dólar se ubica en los 20.62 pesos este lunes 16 de diciembre, según datos publicados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/16/peso-dolar-tipo-de-cambio-hoy-16-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ONV7PSECZFBQXIYQGLTZR7CTWY.jpg?smart=true&auth=3696fae54c4e643390cba97e8a7921a3f7264894a8980ea5e976826b7d02bc49&width=1200&height=630",
+      "PublishedAt": "2024-12-16T15:33:09Z",
+      "Content": "El peso mexicano inició este lunes 16 de diciembre en terreno de pérdidas, semana en la que la atención de los operadores estará puesta en la decisión de política monetaria que va a emitir la Reserva… [+1468 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2024-12-07T14:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de diciembre el tipo de cambio interbancario, se ubica en 20.18 pesos por unidad, con una pérdida del -0.03 por ci… [+1081 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así es la moneda de 25 centavos de dólar de Pensilvania que vale hasta US$8750: podrías tenerla en el bolsillo sin saberlo",
-      "Description": "Un ejemplar raro de 1999, en perfecto estado, alcanza altos valores en el mercado numismático; su condición y detalles únicos la convierten en una pieza codiciada por los coleccionistas",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-moneda-de-25-centavos-de-dolar-de-pensilvania-que-vale-hasta-us8750-podrias-tenerla-en-el-nid06122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/moneda-de-25-centavos-HJQFYH23FJD4PPZRUEKT4GEUN4.jpg?auth=57bf9a542697c2d29960ae80be519b0928f6bbbfa1791751380de029f9d67da6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-06T19:07:10Z",
-      "Content": "En la numismática, pocas piezas despiertan tanto interés como las monedas históricas que no salieron a circulación. Este es el caso de lamoneda de 25 centavos acuñada en 1999 en la Casa de la Moneda … [+2468 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza por segundo día! Precio del dólar hoy 6 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano registra un leve avance por segunda jornada consecutiva ante un debilitamiento global de la divisa estadunidense, con lo que el precio del dólar hoy 6 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; con…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-6-diciembre-2024-tipo-cambio-bancos-mexico/1688254",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/06/3224291.jpg",
-      "PublishedAt": "2024-12-06T15:44:32Z",
-      "Content": "El peso mexicano registra un leve avance por segunda jornada consecutiva ante un debilitamiento global de la divisa estadunidense, con lo que el precio del dólar hoy 6 de diciembre de 2024 cotiza en … [+1252 chars]"
     }
   ]
 }
