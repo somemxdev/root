@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 16 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 16 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del 0.13 por ciento, según datos de Bloomberg.El peso mexicano …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2024-12-16T12:11:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 16 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del… [+981 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/R37QXARDHFBCRKEXVG2Q5M7A5I.jpg?smart=true&auth=c9d1bb990b74df14bbaa07f9727116535aeaedf5a8acdafcf8d7e3958ce2991b&width=1200&height=630",
       "PublishedAt": "2024-12-06T15:30:48Z",
       "Content": "El peso mexicano reporta un ligero retroceso frente al dólar este viernes 6 de diciembre, en el inicio de una jornada en la que se están asimilando los datos de empleo para la economía estadounidense… [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 6 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 6 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-6-de-diciembre-nid06122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-06T14:01:09Z",
-      "Content": "Este viernes 6 de diciembre, el precio del dólar en México es de $20,3233, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2894 chars]"
     }
   ]
 }
