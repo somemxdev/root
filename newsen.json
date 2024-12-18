@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-11-18T06:14:25Z",
       "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Bernstein Bank Issues Pessimistic Forecast for Dollar General (NYSE:DG) Stock Price",
-      "Description": "Dollar General (NYSE:DG – Get Free Report) had its price target lowered by equities researchers at Bernstein Bank from $98.00 to $94.00 in a research report issued on Friday. Bernstein Bank’s price objective would suggest a potential upside of 23.88% from the…",
-      "Url": "https://www.etfdailynews.com/2024/11/17/bernstein-bank-issues-pessimistic-forecast-for-dollar-general-nysedg-stock-price/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-11-17T06:46:45Z",
-      "Content": "Dollar General (NYSE:DG – Get Free Report) had its price target lowered by equities researchers at Bernstein Bank from $98.00 to $94.00 in a research report issued on Friday. Bernstein Bank’s price o… [+5938 chars]"
     }
   ]
 }
