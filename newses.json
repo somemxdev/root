@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 17 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY martes 17 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.10 pesos por unidad, con una baja del 0.17 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2024-12-17T12:09:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 17 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.10 pesos por unidad, con una baja del 0.17 por… [+954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2024-12-09T12:00:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 9 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con una pérdida del 0.17 po… [+908 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 7 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de diciembre el tipo de cambio interbancario, se ubica en 20.18 pesos por unidad, con una pérdida del-0.03 por ciento, según datos de Bloomberg.Ayer, el peso mexicano cotizab…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-12-07T14:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de diciembre el tipo de cambio interbancario, se ubica en 20.18 pesos por unidad, con una pérdida del -0.03 por ci… [+1081 chars]"
     }
   ]
 }
