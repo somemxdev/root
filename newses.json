@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 17 de diciembre 2024: El peso mexicano le pone cara al billete verde",
+      "Description": "La divisa estadounidense se cotiza en $19.66 pesos a la compra y $20.41 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-17-de-diciembre-2024-el-peso-mexicano-le-pone-cara-al-billete-verde",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/17/dolar_1.jpg",
+      "PublishedAt": "2024-12-17T13:14:00Z",
+      "Content": "Este martes 17 de diciembre de 2024 el dólar se cotiza en $20.11 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó ligeramente frente a la divisa estadounidense, tomando en … [+819 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/09/9dic_dolar_1.jpg",
       "PublishedAt": "2024-12-09T13:54:42Z",
       "Content": "Este lunes 9 de diciembre de 2024 el dólar se cotiza en $20.13 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó algunos centavos frente a la divisa estadounidense, tomando … [+818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 9 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 9 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con una pérdida del 0.17 por ciento, según datos de Bloomberg.El peso mexicano cotizaba …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2024-12-09T12:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 9 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con una pérdida del 0.17 po… [+908 chars]"
     }
   ]
 }
