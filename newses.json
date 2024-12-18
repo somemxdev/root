@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Esta rara moneda de dólar está en circulación y se vende por más de US$500 mil: cómo reconocerla",
+      "Description": "La serie Morgan de 1893 acuñada en San Francisco alcanzó precios elevados en el mercado de subastas; con una producción limitada de solo 100 mil piezas, su valor sigue en ascenso",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-rara-moneda-de-dolar-esta-en-circulacion-y-se-vende-por-mas-de-us500-mil-como-reconocerla-nid17122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/estas-monedas-pueden-alcanzar-valores-elevados-en-VJVIVEA5ANFWXCYD7BSRYN6LWM.jpg?auth=c139f06bd9f12cd7f535ce59311510b4afe4fdb5c0c74d0af8f0d3cc7feb0001&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-17T19:57:18Z",
+      "Content": "El mercado de subastas numismáticas fue escenario de la venta de una moneda de dólar Morgan de 1893 acuñada en San Francisco por más de 500 mil dólares. La pieza, considerada una de las más raras, co… [+2842 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/09/3225463.jpg",
       "PublishedAt": "2024-12-09T14:50:47Z",
       "Content": "El peso mexicano avanza durante la jornada de este lunes luego de darse a conocer los datos de la inflación, con lo que el precio del dólar hoy 9 de diciembre de 2024 cotiza en 20.11 unidades por cad… [+1221 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Mario Becedas, Vicente Nieves",
-      "Title": "Ni oro ni moneda BRICS: China quiere destruir el dólar desde dentro",
-      "Description": "A lo mejor en la guerra contra el todopoderoso dólar no se puede vencer del todo, pero es vital ir ganando batallas. Ese parece ser el pensamiento de China, Rusia y otras economías del llamado grupo de los emergentes que buscan con ahínco acabar con la hegemo…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13125189/12/24/ni-oro-ni-moneda-brics-china-quiere-destruir-el-dolar-desde-dentro.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/6016x3283/0/b/2/1200x655_2H35NWA.jpg",
-      "PublishedAt": "2024-12-09T14:32:17Z",
-      "Content": "A lo mejor en la guerra contra el todopoderoso dólar no se puede vencer del todo, pero es vital ir ganando batallas. Ese parece ser el pensamiento de China, Rusia y otras economías del llamado grupo … [+12450 chars]"
     }
   ]
 }
