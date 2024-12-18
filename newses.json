@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 17 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-diciembre-nid17122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-17T14:23:16Z",
+      "Content": "Este martes 17 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2180 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "El dólar sigue batiendo récords en Brasil: pese a la intervención del Banco Central continúa la devaluación del real",
+      "Description": "La autoridad monetaria hizo tres subastas consecutivas, en su mayor intervención desde 2020, pero la moneda norteamericana alcanzó un nuevo máximo y superó la barrera de los 6,15",
+      "Url": "https://www.lanacion.com.ar/el-mundo/el-dolar-sigue-batiendo-records-en-brasil-pese-a-la-intervencion-del-banco-central-continua-la-nid17122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/luiz-inacio-lula-da-CSPTOZL2NNAYTA3FYJFBZQ6OCY.JPG?auth=5ab096d72c292089ceda41e0f32ff6a987d92e90400a7f553be265e2d9de60bb&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-17T14:09:01Z",
+      "Content": "BRASILIA.- El dólar comercial abrió al alza este martes en Brasil, cotizando a 6,14 reales, un aumento del 0,81% respecto al cierre de la jornada anterior. La moneda estadounidense ya había renovado … [+5270 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-09T14:21:37Z",
       "Content": "Este lunes 9 de diciembre, el precio del dólar en México es de $20,2275, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2231 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Revierte peso avance; dólar cierra en $20.25",
-      "Description": "En el mercado internacional, el tipo de cambio cotiza en $20.25 por dólar, con una baja de 0.32% para la moneda mexicana frente al viernes.",
-      "Url": "https://www.reforma.com/revierte-peso-avance-dolar-cierra-en-20-25/ar2920126",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/855/5854753.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-12-09T13:56:35Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (09 diciembre 2024) .-07:55 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 9 de diciembre 2024: El peso mexicano arranca la semana con ganancia",
-      "Description": "La divisa estadounidense se cotiza en $19.66 pesos a la compra y en $20.45 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-9-de-diciembre-2024-el-peso-mexicano-arranca-la-semana-con-ganancia",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/09/9dic_dolar_1.jpg",
-      "PublishedAt": "2024-12-09T13:54:42Z",
-      "Content": "Este lunes 9 de diciembre de 2024 el dólar se cotiza en $20.13 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó algunos centavos frente a la divisa estadounidense, tomando … [+818 chars]"
     }
   ]
 }
