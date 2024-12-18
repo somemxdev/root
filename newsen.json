@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (VOA Persian)",
+      "Title": "VOA Persian: Record-breaking surge in dollar exchange rate in Iran",
+      "Description": "Amid growing dissatisfaction over power outages and widespread forced closures of schools, offices and industries, the U.S. dollar exchange rate in the Iranian market has hit a new record, surpassing 76,000 tomans as of Monday.\n\n\nThis surge in the foreign cur…",
+      "Url": "https://www.voanews.com/a/voa-persian-record-breaking-surge-in-dollar-exchange-rate-in-iran/7903871.html",
+      "UrlToImage": "https://gdb.voanews.com/F71CFEDC-3A42-43CF-957B-5ADE2B0DA594.jpg",
+      "PublishedAt": "2024-12-17T01:24:57Z",
+      "Content": "Amid growing dissatisfaction over power outages and widespread forced closures of schools, offices and industries, the U.S. dollar exchange rate in the Iranian market has hit a new record, surpassing… [+233 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
