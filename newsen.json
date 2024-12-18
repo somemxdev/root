@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "European shares waver, dollar firms ahead of central bank meetings",
+      "Description": "European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cut and the Bank of Japan stand pat for now.",
+      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-waver-dollar-firms-ahead-of-central-bank-meetings/articleshow/116396757.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-116396813,width-1200,height-630,imgsize-57988,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2024-12-17T09:39:05Z",
+      "Content": "European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cut and th… [+3741 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "European shares waver, dollar firms ahead of central bank meetings",
+      "Description": "LONDON :European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cut and the Bank of Japan stand pat for now.The pan-continenta…",
+      "Url": "https://www.channelnewsasia.com/business/european-shares-waver-dollar-firms-ahead-central-bank-meetings-4810886",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--GfR1iFzJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-12-17t091922z_1_lynxmpekbg08n_rtroptp_3_europe-stocks.jpg?itok=_LED3ZKk",
+      "PublishedAt": "2024-12-17T09:18:27Z",
+      "Content": "LONDON :European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cu… [+3867 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "European shares waver, dollar firms ahead of central bank meetings",
+      "Description": "LONDON :European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cut and the Bank of Japan stand pat for now.The pan-continenta…",
+      "Url": "https://www.channelnewsasia.com/business/european-shares-soft-dollar-firms-ahead-central-bank-meetings-4810886",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--GfR1iFzJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-12-17t091922z_1_lynxmpekbg08n_rtroptp_3_europe-stocks.jpg?itok=_LED3ZKk",
+      "PublishedAt": "2024-12-17T09:18:27Z",
+      "Content": "LONDON :European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cu… [+3867 chars]"
+    },
     {
       "Source": {
         "Id": null,
