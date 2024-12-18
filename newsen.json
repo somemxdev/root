@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Asian shares drift, dollar firms ahead of central bank meetings",
+      "Description": "Asian shares drift, dollar firms ahead of central bank meetings",
+      "Url": "https://www.investing.com/news/economy-news/asian-shares-drift-dollar-firms-ahead-of-central-bank-meetings-3775937",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
+      "PublishedAt": "2024-12-17T02:35:37Z",
+      "Content": "By Ankur Banerjee\r\nSINGAPORE (Reuters) - Asian stocks edged higher and the dollar held firm on Tuesday as traders braced for a slate of central banks meetings this week that is likely to see the U.S.… [+3693 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Reuters",
+      "Title": "European shares waver, dollar firms ahead of central bank meetings",
+      "Description": "LONDON (Reuters) -European shares wobbled while the dollar held firm on Tuesday as traders braced for a slate of central bank meetings this week that is likely to see the U.S. Federal Reserve deliver a rate cut and the Bank of Japan stand pat for now. Germany…",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2b53532-0caa-43c3-9446-b0044a0ec191",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-17T02:29:31Z",
+      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AOL"
+      },
+      "Author": "Ankur Banerjee",
+      "Title": "Asian shares drift, dollar firms ahead of central bank meetings",
+      "Description": "Asian stocks edged higher and the dollar held firm on Tuesday as traders braced for a slate of central banks meetings this week that is likely to see the U.S...",
+      "Url": "https://www.aol.com/news/asian-shares-drift-dollar-firms-022931005.html",
+      "UrlToImage": "https://media.zenfs.com/en/aol_reuters_29/11c4fcc882a60941e040eee58bc73971",
+      "PublishedAt": "2024-12-17T02:29:31Z",
+      "Content": "By Ankur Banerjee\r\nSINGAPORE (Reuters) - Asian stocks edged higher and the dollar held firm on Tuesday as traders braced for a slate of central banks meetings this week that is likely to see the U.S.… [+3757 chars]"
+    },
     {
       "Source": {
         "Id": null,
