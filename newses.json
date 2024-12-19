@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se 'sacude' las pérdidas! Precio del dólar hoy 18 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera tras dos jornadas de pérdidas, con lo que el precio del dólar hoy 18 de diciembre de 2024 cotiza en 20.10 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa me…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-18-diciembre-2024-tipo-cambio-bancos-mexico/1690288",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/18/3230458.jpg",
+      "PublishedAt": "2024-12-18T15:21:29Z",
+      "Content": "El peso mexicano se recupera tras dos jornadas de pérdidas, con lo que el precio del dólar hoy 18 de diciembre de 2024 cotiza en 20.10 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1592 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-10T13:37:42Z",
       "Content": "Este martes 10 de diciembre, el precio del dólar en México es de $20,1547, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 10 de diciembre 2024: El billete verde no cede ante el peso mexicano",
-      "Description": "La divisa estadounidense se cotiza en $19.70 pesos a la compra y $20.46 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-10-de-diciembre-2024-el-billete-verde-no-cede-ante-el-peso-mexicano",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/10/dolar_1.jpg",
-      "PublishedAt": "2024-12-10T13:31:16Z",
-      "Content": "Este martes 10 de diciembrede 2024 el dólar se cotiza en $20.19 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió algunos centavos frente a la divisa estadounidense, toman… [+827 chars]"
     }
   ]
 }
