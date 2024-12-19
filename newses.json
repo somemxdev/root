@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 18 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 18 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del 0.12 por ciento, según datos de Bloomberg.El peso mexica…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-12-18T12:11:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY miércoles 18 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento … [+940 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-10T12:07:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 10 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una baja del 0.30 por… [+821 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso avanza ante el dólar: Tipo de cambio se ubica en 20.15 unidades este lunes",
-      "Description": "El dólar se vende en 20.68 pesos por billete verde en ventanillas bancarias, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/09/peso-dolar-tipo-de-cambio-hoy-9-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3IHHZ5EK6FDSRADQJRBMTTB4M4.jpg?smart=true&auth=2e24372977bb110102441273a1d06ba93e14d8fab0ded07e560447e753b7a2e8&width=1200&height=630",
-      "PublishedAt": "2024-12-09T15:25:10Z",
-      "Content": "El peso mexicano inicia la semana registrando avances frente al dólar, mientras el mercado asimila las cifras de inflación en México en noviembre.\r\nDe acuerdo con Bloomberg, la moneda mexicana regist… [+1690 chars]"
     }
   ]
 }
