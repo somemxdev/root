@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 18 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 18 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-18-de-diciembre-nid18122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-18T14:15:43Z",
+      "Content": "Este miércoles 18 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2308 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/10/dolar_1.jpg",
       "PublishedAt": "2024-12-10T13:31:16Z",
       "Content": "Este martes 10 de diciembrede 2024 el dólar se cotiza en $20.19 pesos al inicio de la jornada, lo que significa que la moneda mexicana perdió algunos centavos frente a la divisa estadounidense, toman… [+827 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 10 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY martes 10 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicano se aprecia…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-10T12:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 10 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una baja del 0.30 por… [+821 chars]"
     }
   ]
 }
