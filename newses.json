@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar abre plano tras baja de tasas del Banco Central y antes del IPoM y tasas de la Fed",
+      "Description": "La preocupación demostrada por el ente local ante la inflación a corto plazo, lo que podría generar una pausa en los ajustes a la tasa, alivió parte de las presiones alcistas de la divisa frente al peso.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-g8gtg",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241218/imag/foto_0000000120241218083845/dolar.jpg",
+      "PublishedAt": "2024-12-18T11:50:00Z",
+      "Content": "El precio del dólar en Chile comenzó su jornada de miércoles sin mayores variaciones y rondaba los $ 990, tras la baja de tasas del Banco Central chileno y a la espera tanto del IPoM de diciembre, co… [+1556 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3IHHZ5EK6FDSRADQJRBMTTB4M4.jpg?smart=true&auth=2e24372977bb110102441273a1d06ba93e14d8fab0ded07e560447e753b7a2e8&width=1200&height=630",
       "PublishedAt": "2024-12-09T15:25:10Z",
       "Content": "El peso mexicano inicia la semana registrando avances frente al dólar, mientras el mercado asimila las cifras de inflación en México en noviembre.\r\nDe acuerdo con Bloomberg, la moneda mexicana regist… [+1690 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso arranca con ganancias! Precio del dólar hoy 9 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza durante la jornada de este lunes luego de darse a conocer los datos de la inflación, con lo que el precio del dólar hoy 9 de diciembre de 2024 cotiza en 20.11 unidades por cada billete verde; conoce aquí cuál es el ti…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-9-diciembre-2024-tipo-cambio-bancos-mexico/1688654",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/09/3225463.jpg",
-      "PublishedAt": "2024-12-09T14:50:47Z",
-      "Content": "El peso mexicano avanza durante la jornada de este lunes luego de darse a conocer los datos de la inflación, con lo que el precio del dólar hoy 9 de diciembre de 2024 cotiza en 20.11 unidades por cad… [+1221 chars]"
     }
   ]
 }
