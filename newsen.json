@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Japan Today"
+      },
+      "Author": null,
+      "Title": "Yen drops to 155 against dollar as Bank of Japan maintains key interest rate",
+      "Description": "The yen weakened against the dollar Thursday after the Bank of Japan kept borrowing costs unchanged, extending a retreat for the currency that came after the Federal Reserve forecast fewer rate cuts. The BoJ said after a two-day policy meeting that it would h…",
+      "Url": "https://japantoday.com/category/business/yen-drops-as-bank-of-japan-maintains-key-interest-rate",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-19T03:59:56Z",
+      "Content": "The yen weakened against the dollar Thursday after the Bank of Japan kept borrowing costs unchanged, extending a retreat for the currency that came after the Federal Reserve forecast fewer rate cuts.… [+1931 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -314,58 +327,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-11-19T10:52:22Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: 15 of 17 foreigners who fled Singapore agree to surrender S$1.85b of assets",
-      "Description": "They have also been barred from returning to Singapore.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-foreigner-suspects-forfeit-assets-state-police-4753766",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8fZCbP8e--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/25/JEM_0059.jpg?itok=lNT_5_Kv",
-      "PublishedAt": "2024-11-18T09:00:48Z",
-      "Content": "SINGAPORE: Fifteen of the 17 foreigners who fled Singapore amid the probe in the S$3 billion money laundering case have agreed to surrender about S$1.85 billion (US$1.37 billion) worth of assets to t… [+1650 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TNN",
-      "Title": "Delhi crime branch busts dollar exchange scam spanning six states",
-      "Description": "Two men, Neeraj and Karan, were arrested in Ghaziabad for running a currency exchange scam across six states. They would gain victims' trust by using real US dollars for small purchases, then swap the money with worthless paper during the exchange. Police are…",
-      "Url": "https://timesofindia.indiatimes.com/city/delhi/delhi-crime-branch-busts-dollar-exchange-scam-spanning-six-states/articleshow/115410581.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-115410635,width-1070,height-580,imgsize-677470,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-11-18T08:23:27Z",
-      "Content": "10 easy South Indian snacks for Friday evenings"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Crypto exchange OKX launches Singapore dollar funds transfer service for local customers",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7fb6f71f-b43a-4c0a-9c96-d81fc209ecf5",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-18T06:14:25Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Crypto exchange OKX launches Singapore dollar funds transfer service for local customers",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cef8223a-452a-47fe-816f-0fc94aba1d54",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-18T06:14:25Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
