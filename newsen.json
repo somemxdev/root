@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "National Bank of Canada FI Takes Position in Invesco CurrencyShares Canadian Dollar Trust (NYSEARCA:FXC)",
+      "Description": "National Bank of Canada FI bought a new stake in Invesco CurrencyShares Canadian Dollar Trust (NYSEARCA:FXC – Free Report) during the third quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The …",
+      "Url": "https://www.etfdailynews.com/2024/12/19/national-bank-of-canada-fi-takes-position-in-invesco-currencyshares-canadian-dollar-trust-nysearcafxc/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/invesco-currencyshares-canadian-dollar-trust-logo-1200x675.png?v=20231009080207&w=240&h=240&zc=2",
+      "PublishedAt": "2024-12-19T08:58:54Z",
+      "Content": "National Bank of Canada FI bought a new stake in Invesco CurrencyShares Canadian Dollar Trust (NYSEARCA:FXC – Free Report) during the third quarter, according to the company in its most recent disclo… [+2057 chars]"
+    },
     {
       "Source": {
         "Id": null,
