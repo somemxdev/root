@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Sterling softens after Bank of England maintains rate; Dollar and Yen outlooks shift",
+      "Description": "Sterling softens after Bank of England maintains rate; Dollar and Yen outlooks shift",
+      "Url": "https://www.investing.com/news/forex-news/sterling-softens-after-bank-of-england-maintains-rate-dollar-and-yen-outlooks-shift-93CH-3782094",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/dollars_800x533_L_1411902913.jpg",
+      "PublishedAt": "2024-12-19T13:42:59Z",
+      "Content": "Investing.com -- The sterling trimmed its gains against the dollar and fell against the euro after the Bank of England (BOE) decided to keep its bank rate steady at 4.75%. This move was anticipated, … [+1275 chars]"
+    },
     {
       "Source": {
         "Id": null,
