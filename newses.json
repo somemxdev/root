@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 20 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 20 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-20-de-diciembre-nid20122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-20T14:09:22Z",
+      "Content": "Este viernes 20 de diciembre, el precio del dólar en México es de $20,4402, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2232 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/EWSL7BVJVBCTRJTINQ3KPH2MJI.jpg?smart=true&auth=0701353b3641ba2361d7ab7037b6058639450aa6cd7389d76400fe92c3919c64&width=1200&height=630",
       "PublishedAt": "2024-12-11T17:18:43Z",
       "Content": "El peso mexicano inicia la jornada con movimientos laterales, luego de que las cifras de inflación correspondientes a noviembre en Estados Unidos salieron conforme a lo anticipado, lo que incrementa … [+1405 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso reduce pérdidas iniciales! Precio del dólar hoy 11 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano reduce las pérdidas con las que inició la jornada del miércoles, con lo que el precio del dólar hoy 11 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-11-diciembre-2024-tipo-cambio-bancos-mexico/1689058",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/11/3226630.jpg",
-      "PublishedAt": "2024-12-11T14:22:04Z",
-      "Content": "El peso mexicano reduce las pérdidas con las que inició la jornada del miércoles, con lo que el precio del dólar hoy 11 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aq… [+1374 chars]"
     }
   ]
 }
