@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso recibe su ‘aguinaga’: Se acerca a las 19 unidades ante el dólar",
+      "Description": "El peso mexicano busca regresar al terreno de las 19 unidades antes de fin de año y previo a que Donald Trump regrese a la Presidencia de EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/20/peso-dolar-precio-hoy-20-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
+      "PublishedAt": "2024-12-20T17:15:27Z",
+      "Content": "El peso mexicano amplía sus ganancias ante el dólar este viernes 20 de diciembre con los inversionistas ampliando la oleada de anuncios de política monetaria de bancos centrales como la Fed y el Banx… [+1835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-12T13:55:58Z",
       "Content": "Este jueves 12 de diciembre, el precio del dólar en México es de $20,2485, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2405 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 12 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 12 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en20.11 pesos por unidad, con una baja del 0.11 por ciento, según datos de Bloomberg.El peso mexicano reducía sus…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-12T12:14:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 12 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.11 pesos por unidad, con una baja del 0.11 por … [+922 chars]"
     }
   ]
 }
