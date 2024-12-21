@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "A 30 años del ‘error de diciembre’: Cuando el peso se devaluó 62% frente al dólar en 1 semana",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/20/a-30-anos-del-error-de-diciembre-cuando-el-peso-se-devaluo-62-frente-al-dolar-en-1-semana/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QIJ7BXAD5ZCFHHMQV2VZPTNVAI.jpg?smart=true&auth=5f4d3dc334ebd24e270bef083f72c84b40301aa6a1b018e0d487e151c3371182&width=1200&height=630",
+      "PublishedAt": "2024-12-20T18:08:41Z",
+      "Content": "Era un lunes 19 de diciembre, pero en 1994, solo habían pasado unas semanas desde que Ernesto Zedillo tomó posesión como presidente de México, tras el mandato de Carlos Salinas de Gortari. Fue la mis… [+3352 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/12/3227436.jpg",
       "PublishedAt": "2024-12-12T14:51:03Z",
       "Content": "El peso mexicano retrocede ligeramente en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 12 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce … [+1163 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 12 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 12 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-12-de-diciembre-nid12122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-12T13:55:58Z",
-      "Content": "Este jueves 12 de diciembre, el precio del dólar en México es de $20,2485, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2405 chars]"
     }
   ]
 }
