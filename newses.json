@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 21 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 20.07pesos por unidad, con una pérdida del0.24por ciento, según datos de Bloomberg.Ayer, elpeso se apreciaba por se…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2024-12-21T13:24:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 1.18 por c… [+1374 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0500.jpg",
       "PublishedAt": "2024-12-12T20:06:51Z",
       "Content": "Un grupo de economistas del Instituto Mexicano de Ejecutivos de Finanzas (IMEF) pronostica que el tipo de cambio continuará depreciándose en 2025, año en que estiman una cotización de 20.90 pesos por… [+2369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘va para atrás’ en el Día de la Virgen de Guadalupe: Así cotiza ante el dólar",
-      "Description": "El dólar se cotiza en 20.72 pesos por billete en ventanillas, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/12/peso-dolar-tipo-de-cambio-hoy-12-de-diciembre-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3HBQPY53MBEBVG7PLVWTZXENFM.jpg?smart=true&auth=1a2bedcacc089fd3df327217bc9cb44426e2c8c5259fd844e9a0de6083406742&width=1200&height=630",
-      "PublishedAt": "2024-12-12T15:41:40Z",
-      "Content": "Después de haberse beneficiado de la expectativa de menores tasas de interés de la Fed en Estados Unidos, el peso mexicano inicia la penúltima jornada de la semana operando con retrocesos frente al d… [+1639 chars]"
     }
   ]
 }

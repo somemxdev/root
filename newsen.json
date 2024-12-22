@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,19 +327,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-115539831,width-1200,height-630,imgsize-207072,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2024-11-21T18:49:56Z",
       "Content": "Baku: \"Unacceptable\", \"problematic\", \"dissatisfied\" were the commonly used words as country after country took the floor at the Qurultay, a traditional open assembly, organised by Azerbaijan for a fr… [+4188 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Swiss National Bank Lowers Stake in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Swiss National Bank reduced its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.1% in the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 606,081 share…",
-      "Url": "https://www.etfdailynews.com/2024/11/21/swiss-national-bank-lowers-stake-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-11-21T09:40:59Z",
-      "Content": "Swiss National Bank reduced its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.1% in the third quarter, according to the company in its most recent Form 13F filing with the Securities… [+5805 chars]"
     }
   ]
 }
