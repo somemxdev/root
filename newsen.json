@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "8,358 Bank Customers Exposed As Billion-Dollar Lender Reveals Data Breach, Warns Social Security Numbers and Account Details at Risk",
+      "Description": "A billion-dollar US bank is warning thousands of customers of a major data breach. According to a filing with the Office of the Maine Attorney General, 8,358 customers at Citizens Bank – which is the 16th-largest bank in the US by total assets – are impacted.…",
+      "Url": "https://dailyhodl.com/2024/12/21/8358-bank-customers-exposed-as-billion-dollar-lender-reveals-data-breach-warns-social-security-numbers-and-account-details-at-risk/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/12/fdic-bank-dollar.jpg",
+      "PublishedAt": "2024-12-21T15:30:34Z",
+      "Content": "A billion-dollar US bank is warning thousands of customers of a major data breach.\r\nAccording to a filing with the Office of the Maine Attorney General, 8,358 customers at Citizens Bank which is the … [+1047 chars]"
+    },
     {
       "Source": {
         "Id": null,
