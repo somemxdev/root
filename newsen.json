@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,19 +327,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/11/776051733-1.jpg",
       "PublishedAt": "2024-11-26T00:47:23Z",
       "Content": "(Bloomberg) The dollar gained, erasing a chunk of Mondays decline, after President-elect Donald Trump said the US will impose more tariffs on key trading partners. \r\nChinas offshore yuan fell 0.4% ag… [+1285 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Urmi Goswami",
-      "Title": "Where's the money? Leaders at climate summit debate trillion-dollar question",
-      "Description": "At the Qurultay assembly in Baku, nations expressed dissatisfaction with draft climate finance texts.  Backroom talks are underway, with the EU and China taking the lead as the US prepares to exit the Paris Agreement.  A key sticking point is getting developi…",
-      "Url": "https://economictimes.indiatimes.com/news/international/world-news/wheres-the-money-leaders-at-climate-summit-debate-trillion-dollar-question/articleshow/115539823.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-115539831,width-1200,height-630,imgsize-207072,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2024-11-21T18:49:56Z",
-      "Content": "Baku: \"Unacceptable\", \"problematic\", \"dissatisfied\" were the commonly used words as country after country took the floor at the Qurultay, a traditional open assembly, organised by Azerbaijan for a fr… [+4188 chars]"
     }
   ]
 }
