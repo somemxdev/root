@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Stocks Rise on Fed Cut Bets; Dollar Stabilizes: Markets Wrap - Yahoo Finance",
+      "Description": "Stocks Rise on Fed Cut Bets; Dollar Stabilizes: Markets WrapYahoo Finance View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175737901",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-23T05:33:06Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
