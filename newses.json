@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Pablo Gallén",
+      "Title": "Divisas y materias primas en 2025: oro al alza y potencial paridad del euro-dólar",
+      "Description": "Donald Trump vuelve a ser protagonista de estos dos mercados, en los que el inversor minorista no tiene tanta presencia pero que repercuten en el día a día de la economía real. La reelección del empresario neoyorquino como presidente se sintió en la cotizació…",
+      "Url": "https://www.elperiodico.com/es/economia/20241223/donde-invertir-2025-divisas-materias-primas-112783785",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/7092b224-8e2e-492b-a45c-097066fa6e45_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-12-23T03:59:29Z",
+      "Content": "Donald Trump vuelve a ser protagonista de estos dos mercados, en los que el inversor minorista no tiene tanta presencia pero que repercuten en el día a día de la economía real. La reelección del empr… [+3250 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¿El regreso del ‘superpeso’? Tipo de cambio peso dólar acumula cuatro semanas de recuperación",
+      "Description": "El peso mexicano suma cuatro semanas recortándole terreno al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/22/cotizacion-del-peso-dolar-diciembre-proyeccion-para-enero-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/2GPJDCR24RABXEGLQ22W26574I.jpg?smart=true&auth=bbe3b24f579444e7fcf282f41414ea83ff3cff98400ba893b4bb48e41475d7d3&width=1200&height=630",
+      "PublishedAt": "2024-12-23T03:09:55Z",
+      "Content": "El superpeso avisa que está de vuelta... ¿O acaso ha sido mera coincidencia? Y es que los niveles de cotización del tipo de cambio se mantuvieron en la senda de la recuperación frente al dólar por cu… [+2163 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-13-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-13T14:16:18Z",
       "Content": "Este viernes 13 de diciembre, el precio del dólar en México es de $20,1647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2651 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 13 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 13 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.20 pesos por unidad, con un perdida del 0.06 por ciento, según datos de Bloomberg.El peso mexicano descend…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2024-12-13T12:01:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 13 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.20 pesos por unidad, con un perdida del 0.06 p… [+831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Enrique Hernández",
-      "Title": "Economistas del IMEF estiman que el peso cotizará en 20.90 por dólar en 2025",
-      "Description": "Forbes México.\n Economistas del IMEF estiman que el peso cotizará en 20.90 por dólar en 2025\n\nLa encuesta del IMEF, que recoge las expectativas de 39 analistas, también pronostica que el tipo de cambio terminará en 20.35 pesos por dólar en 2024, año en que du…",
-      "Url": "https://forbes.com.mx/economistas-del-imef-estiman-que-el-peso-cotizara-en-20-90-por-dolar-en-2025/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0500.jpg",
-      "PublishedAt": "2024-12-12T20:06:51Z",
-      "Content": "Un grupo de economistas del Instituto Mexicano de Ejecutivos de Finanzas (IMEF) pronostica que el tipo de cambio continuará depreciándose en 2025, año en que estiman una cotización de 20.90 pesos por… [+2369 chars]"
     }
   ]
 }
