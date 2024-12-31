@@ -1,8 +1,281 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 28 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de diciembre el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con una pérdida del 0.48 por ciento para la moneda mexicana, según datos de Bloomberg.El pes…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-28T13:26:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de diciembre el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con una pérdida del 0.48 por cie… [+708 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso perfila semana de pérdidas! Precio del dólar hoy 27 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se deprecia en la jornada de este viernes y se perfila a concluir la semana con retrocesos, con lo que el precio del dólar hoy 27 de diciembre de 2024 cotiza en 20.30 unidades por cada billete verde; conoce aquí cuál es el t…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-27-diciembre-2024-tipo-cambio-bancos-mexico/1691587",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/27/3234320.jpg",
+      "PublishedAt": "2024-12-27T17:12:48Z",
+      "Content": "El peso mexicano se deprecia en la jornada de este viernes y se perfila a concluir la semana con retrocesos, con lo que el precio del dólar hoy 27 de diciembre de 2024 cotiza en 20.30 unidades por ca… [+1469 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Leeeeenta’ depreciación del peso ante el dólar: ¿Cómo está el tipo de cambio hoy?",
+      "Description": "Se prevé que la tendencia de pocas modificaciones en el tipo de cambio continúe en los próximos días a menos que ocurra un hecho importante en la política nacional o del extranjero.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/27/peso-dolar-precio-hoy-27-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MIANIPRDGVC7NPW3UAASV5P7FE.jpg?smart=true&auth=3cdb178839b728a07bb48ed7879bb5cbc29e6c5cbbbc061142d64a9613857576&width=1200&height=630",
+      "PublishedAt": "2024-12-27T16:58:08Z",
+      "Content": "El peso mexicano inicia la jornada de este viernes 27 de diciembre con pérdidas ante el dólar como parte de la aversión al riesgo derivada por los conflictos geopolíticos en Medio Oriente.\r\nLa deprec… [+1558 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Anya Andrianova y Carter Johnson",
+      "Title": "Peso ‘muerde el polvo’ ante el dólar: Moneda de EU tiene su mejor año desde 2015",
+      "Description": "La expectativa de que la Fed recortará menos la tasa de interés en 2025 solo incrementó los pronósticos de que el dólar se fortalecerá todavía más en los próximos meses.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/27/tipo-de-cambio-dolar-tiene-su-mejor-ano-desde-2015/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/NYMECLEQVZDIVEEMGTPQ73SPWY.jpg?smart=true&auth=16f2d455bfaefd9ca2f05110b7feb17d8a450105df04764b2bea7326e9e93394&width=1200&height=630",
+      "PublishedAt": "2024-12-27T16:15:09Z",
+      "Content": "El superpeso no pudo contra el dólar: La moneda estadounidense se encamina a su mejor año en casi una década, ya que la fortaleza económica de Estados Unidos frena las expectativas sobre el ciclo de … [+2547 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 27 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 27 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-27-de-diciembre-nid27122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-27T13:50:31Z",
+      "Content": "Este viernes 27 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2215 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Ariadna",
+      "Title": "Precio del dólar HOY viernes 27 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 27 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en20.23 pesos por unidad, con un fortalecimiento del 0.03por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-27T12:20:32Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 27 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.23 pesos por unidad, con un fortalecimiento d… [+896 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Martín Nicolás Parolari",
+      "Title": "¿El fin del dólar como moneda dominante?: Rusia adopta las criptomonedas para pagos internacionales",
+      "Description": "Ante las sanciones económicas impuestas por Occidente, Rusia ha comenzado a utilizar Bitcoin y otras criptomonedas en acuerdos internacionales. Este movimiento estratégico busca reducir la dependencia del dólar y fortalecer los lazos comerciales con aliados c…",
+      "Url": "https://es.gizmodo.com/el-fin-del-dolar-como-moneda-dominante-rusia-adopta-las-criptomonedas-para-pagos-internacionales-2000140903",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/12/Diseno-sin-titulo-8-19.jpg",
+      "PublishedAt": "2024-12-27T11:40:02Z",
+      "Content": "Rusia ha iniciado un cambio estratégico en el comercio global con el uso oficial de criptomonedas para pagos internacionales. Este avance responde a sanciones económicas que restringen su acceso a lo… [+2675 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza ligeramente! Precio del dólar hoy 26 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza ligeramente tras el feriado por la Navidad, con lo que el precio del dólar hoy 26 de diciembre de 2024 cotiza en 20.13 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-26-diciembre-2024-tipo-cambio-bancos-mexico/1691434",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/26/3233866.jpg",
+      "PublishedAt": "2024-12-26T14:43:48Z",
+      "Content": "El peso mexicano avanza ligeramente tras el feriado por la Navidad, con lo que el precio del dólar hoy 26 de diciembre de 2024 cotiza en 20.13 unidades por cada billete verde; conoce aquí cuál es el … [+1562 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 26 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este  jueves 26 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-26-de-diciembre-nid26122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-26T13:25:10Z",
+      "Content": "Este jueves 26 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2593 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY jueves 26 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de diciembre el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una ganancia del 0.09 por ciento, según datos de Bloomberg.El peso se apreció el martes …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
+      "PublishedAt": "2024-12-26T12:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de diciembre el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una ganancia del 0.09 por ci… [+520 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Feliz Navidad para el peso: Tipo de cambio opera en las 20.16 unidades por dólar",
+      "Description": "Las cifras de Bloomberg indican que el tipo de cambio opera alrededor de los 20.1645 pesos por dólar, lo que representa una apreciación de 0.16 por ciento o 3.17 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/25/feliz-navidad-para-el-peso-tipo-de-cambio-opera-en-las-2016-unidades-por-dolar/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/BH2LX53I7JAQHDZ6QGB35IJFUY.jpg?smart=true&auth=064a888040e19384eb4beaa6cc056d4c5c6c2bc7894a0b461393a9c26090bb69&width=1200&height=630",
+      "PublishedAt": "2024-12-25T15:48:45Z",
+      "Content": "En una jornada caracterizada por una baja liquidez, ya que la mayoría de los mercados financieros alrededor del mundo se encuentran cerrados por el feriado de Navidad, la moneda mexicana consigue amp… [+1566 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY miércoles 25 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de diciembre el tipo de cambio interbancario, se ubica en 20.15 pesos por unidad, con una pérdida del 0.08 por ciento, según datos de Reuters.El peso mexicano se apreció el …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2024-12-25T13:17:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de diciembre el tipo de cambio interbancario, se ubica en 20.15 pesos por unidad, con una pérdida del 0.08 por ci… [+780 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 24 de diciembre",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 24 de diciembre de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-24-de-diciembre-nid24122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-24T17:53:03Z",
+      "Content": "Este martes 24 de diciembre, el precio del dólar en México es de $20,1948, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2035 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza en Nochebuena! Precio del dólar hoy 24 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de Nochebuena, con lo que el precio del dólar hoy 24 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-24-diciembre-2024-tipo-cambio-bancos-mexico/1691210",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/24/3233129.jpg",
+      "PublishedAt": "2024-12-24T15:24:05Z",
+      "Content": "El peso mexicano avanza en la jornada de Nochebuena, con lo que el precio del dólar hoy 24 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1953 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar hoy, 24 de diciembre de 2024: el peso retrocede",
+      "Description": "El tipo de cambio del peso frente al dólar varía entre bancos y se actualiza diariamente",
+      "Url": "https://www.record.com.mx/index.php/contra/precio-del-dolar-hoy-24-de-diciembre-de-2024-el-peso-retrocede",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/24/Proyecto%20nuevo%20%2839%29.jpg",
+      "PublishedAt": "2024-12-24T13:28:06Z",
+      "Content": "El tipo de cambio constituye un indicador económico fundamental en México, reflejando el valor del peso mexicano en relación con otras divisas, en particular el dólar estadounidense. \r\nEl 24 de dicie… [+1439 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Ariadna",
+      "Title": "Precio del dólar HOY martes 24 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto estáel dólar HOY martes 24 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un debilitamiento del 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-24T12:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 24 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un debilitamiento del… [+874 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano pierde fuerza tras datos locales de inflación; ya se ubica en 20.21 por dólar",
+      "Description": "Los inversionistas también consideraron comentarios de Donald Trump, sobre designar a los cárteles mexicanos de la droga como organizaciones terroristas.",
+      "Url": "https://aristeguinoticias.com/2312/dinero-y-economia/peso-mexicano-pierde-fuerza-tras-datos-locales-de-inflacion-ya-se-ubica-en-20-21-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
+      "PublishedAt": "2024-12-23T18:22:29Z",
+      "Content": "El peso mexicano y la Bolsa Mexicana de Valores retrocedían el lunes ante un fortalecimiento global del dólar, mientras los inversionistas asimilaban un reporte local de inflación y su impacto en las… [+1755 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar quiere ‘arruinar la cena de Navidad’ del peso: Se cotiza en las 20.17 unidades",
+      "Description": "El peso mexicano acumula ya casi un mes de apreciación ante el dólar, esto antes de la entrada del nuevo Gobierno de Donald Trump, un hecho que 'promete' desestabilizar de nuevo al tipo de cambio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/23/peso-dolar-precio-hoy-23-de-diciembre/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/YW33NLCBQZB6DKDSZDJ7Z5GHHY.jpg?smart=true&auth=381ba6fe28ed7d9ce72c6eae491e6f1827fe153ec38479ba65e61a76dbd3cfaa&width=1200&height=630",
+      "PublishedAt": "2024-12-23T16:34:03Z",
+      "Content": "A pesar de que el último anuncio del Banco de México (Banxico) dio un empujón al peso mexicano, la moneda nacional arranca esta semana en el terreno de pérdidas ante el dólar, mientras en el mercado … [+1577 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 23 de diciembre",
+      "Description": "El precio del dólar frente al peso mexicano muestra un incremento durante las primeras horas del 23 de diciembre, en un contexto de fortalecimiento de la divisa estadounidense. El tipo de cambio se ubica en 20,18 pesos por dólar.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-23-de-diciembre-nid23122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-lunes-23-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-23T14:16:34Z",
+      "Content": "Este lunes 23 de diciembre, el precio del dólar en México es de $20,4402, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2554 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso retrocede! Precio del dólar hoy 23 de diciembre de 2024",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede tras dar a conocer el dat de la inflación local, con lo que el precio del dólar hoy 23 de diciembre de 2024 cotiza en 20.21 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-23-diciembre-2024-tipo-cambio-bancos-mexico/1691043",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/23/3232657.jpg",
+      "PublishedAt": "2024-12-23T14:02:54Z",
+      "Content": "El peso mexicano retrocede tras dar a conocer el dat de la inflación local, con lo que el precio del dólar hoy 23 de diciembre de 2024 cotiza en 20.21 unidades por cada billete verde; conoce aquí cuá… [+1414 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Torres",
+      "Title": "Precio del dólar HOY lunes 23 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 23 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.El viernes, el pe…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-23T12:02:00Z",
+      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del … [+907 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -119,279 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-20T12:04:00Z",
       "Content": "Si te preguntas a cuánto está eldólar HOY viernes 20 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.25 pesos por unidad, con una perdida del 0.27 … [+830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza! Precio del dólar hoy 19 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia luego de tres jornadas de pérdidas, con lo que el precio del dólar hoy 19 de diciembre de 2024 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divis…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-19-diciembre-2024-tipo-cambio-bancos-mexico/1690496",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/19/3231095.jpg",
-      "PublishedAt": "2024-12-19T14:14:00Z",
-      "Content": "El peso mexicano se aprecia luego de tres jornadas de pérdidas, con lo que el precio del dólar hoy 19 de diciembre de 2024cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo … [+1166 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 19 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 19 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-19-de-diciembre-nid19122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-12-19T13:59:44Z",
-      "Content": "Este miércoles 18 de diciembre, el precio del dólar en México es de $20,1395, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2257 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 19 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 19 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con una baja del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se aprecia…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-19T12:08:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY jueves 19 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con una baja del 0.12 por … [+917 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se 'sacude' las pérdidas! Precio del dólar hoy 18 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera tras dos jornadas de pérdidas, con lo que el precio del dólar hoy 18 de diciembre de 2024 cotiza en 20.10 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa me…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-18-diciembre-2024-tipo-cambio-bancos-mexico/1690288",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/18/3230458.jpg",
-      "PublishedAt": "2024-12-18T15:21:29Z",
-      "Content": "El peso mexicano se recupera tras dos jornadas de pérdidas, con lo que el precio del dólar hoy 18 de diciembre de 2024 cotiza en 20.10 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1592 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 18 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 18 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-18-de-diciembre-nid18122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-18T14:15:43Z",
-      "Content": "Este miércoles 18 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 18 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 18 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del 0.12 por ciento, según datos de Bloomberg.El peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2024-12-18T12:11:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY miércoles 18 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento … [+940 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar abre plano tras baja de tasas del Banco Central y antes del IPoM y tasas de la Fed",
-      "Description": "La preocupación demostrada por el ente local ante la inflación a corto plazo, lo que podría generar una pausa en los ajustes a la tasa, alivió parte de las presiones alcistas de la divisa frente al peso.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-g8gtg",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20241218/imag/foto_0000000120241218083845/dolar.jpg",
-      "PublishedAt": "2024-12-18T11:50:00Z",
-      "Content": "El precio del dólar en Chile comenzó su jornada de miércoles sin mayores variaciones y rondaba los $ 990, tras la baja de tasas del Banco Central chileno y a la espera tanto del IPoM de diciembre, co… [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Esta rara moneda de dólar está en circulación y se vende por más de US$500 mil: cómo reconocerla",
-      "Description": "La serie Morgan de 1893 acuñada en San Francisco alcanzó precios elevados en el mercado de subastas; con una producción limitada de solo 100 mil piezas, su valor sigue en ascenso",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-rara-moneda-de-dolar-esta-en-circulacion-y-se-vende-por-mas-de-us500-mil-como-reconocerla-nid17122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/estas-monedas-pueden-alcanzar-valores-elevados-en-VJVIVEA5ANFWXCYD7BSRYN6LWM.jpg?auth=c139f06bd9f12cd7f535ce59311510b4afe4fdb5c0c74d0af8f0d3cc7feb0001&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-17T19:57:18Z",
-      "Content": "El mercado de subastas numismáticas fue escenario de la venta de una moneda de dólar Morgan de 1893 acuñada en San Francisco por más de 500 mil dólares. La pieza, considerada una de las más raras, co… [+2842 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy 17 diciembre 2024. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se mantiene en terreno negativo al depreciarse por segunda jornada consecutiva, con lo que el precio del dólar hoy 17 de diciembre de 2024 cotiza en 20.16 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-17-diciembre-2024-tipo-cambio-bancos-mexico/1690084",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/17/3229841.jpg",
-      "PublishedAt": "2024-12-17T15:17:37Z",
-      "Content": "El peso mexicano se mantiene en terreno negativo al depreciarse por segunda jornada consecutiva, con lo que el precio del dólar hoy 17 de diciembre de 2024cotiza en 20.16 unidades por cada billete ve… [+1408 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 17 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-diciembre-nid17122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-17T14:23:16Z",
-      "Content": "Este martes 17 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2180 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "El dólar sigue batiendo récords en Brasil: pese a la intervención del Banco Central continúa la devaluación del real",
-      "Description": "La autoridad monetaria hizo tres subastas consecutivas, en su mayor intervención desde 2020, pero la moneda norteamericana alcanzó un nuevo máximo y superó la barrera de los 6,15",
-      "Url": "https://www.lanacion.com.ar/el-mundo/el-dolar-sigue-batiendo-records-en-brasil-pese-a-la-intervencion-del-banco-central-continua-la-nid17122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/luiz-inacio-lula-da-CSPTOZL2NNAYTA3FYJFBZQ6OCY.JPG?auth=5ab096d72c292089ceda41e0f32ff6a987d92e90400a7f553be265e2d9de60bb&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-17T14:09:01Z",
-      "Content": "BRASILIA.- El dólar comercial abrió al alza este martes en Brasil, cotizando a 6,14 reales, un aumento del 0,81% respecto al cierre de la jornada anterior. La moneda estadounidense ya había renovado … [+5270 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 17 de diciembre 2024: El peso mexicano le pone cara al billete verde",
-      "Description": "La divisa estadounidense se cotiza en $19.66 pesos a la compra y $20.41 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-17-de-diciembre-2024-el-peso-mexicano-le-pone-cara-al-billete-verde",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/17/dolar_1.jpg",
-      "PublishedAt": "2024-12-17T13:14:00Z",
-      "Content": "Este martes 17 de diciembre de 2024 el dólar se cotiza en $20.11 pesos al inicio de la jornada, lo que significa que la moneda mexicana ganó ligeramente frente a la divisa estadounidense, tomando en … [+819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 17 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY martes 17 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.10 pesos por unidad, con una baja del 0.17 por ciento, según datos de Bloomberg.El peso mexicano se deprec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-12-17T12:09:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 17 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.10 pesos por unidad, con una baja del 0.17 por… [+954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso arranca con pérdidas! Precio del dólar hoy 16 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la semana con retrocesos, con lo que el precio del dólar hoy 16 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-16-diciembre-2024-tipo-cambio-bancos-mexico/1689921",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/16/3229367.jpg",
-      "PublishedAt": "2024-12-16T15:46:25Z",
-      "Content": "El peso mexicano arranca la semana con retrocesos, con lo que el precio del dólar hoy 16 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1641 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso inicia la semana con el ‘pie izquierdo’: ¿Cuánto pierde frente al dólar? Así cotiza este lunes",
-      "Description": "En ventanillas bancarias, el precio del dólar se ubica en los 20.62 pesos este lunes 16 de diciembre, según datos publicados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/16/peso-dolar-tipo-de-cambio-hoy-16-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/ONV7PSECZFBQXIYQGLTZR7CTWY.jpg?smart=true&auth=3696fae54c4e643390cba97e8a7921a3f7264894a8980ea5e976826b7d02bc49&width=1200&height=630",
-      "PublishedAt": "2024-12-16T15:33:09Z",
-      "Content": "El peso mexicano inició este lunes 16 de diciembre en terreno de pérdidas, semana en la que la atención de los operadores estará puesta en la decisión de política monetaria que va a emitir la Reserva… [+1468 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 16 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 16 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-16-de-diciembre-nid16122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-16T13:51:37Z",
-      "Content": "Este lunes 16 de diciembre, el precio del dólar en México es de $20,142, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2341 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 16 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 16 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del 0.13 por ciento, según datos de Bloomberg.El peso mexicano …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2024-12-16T12:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 16 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.15 pesos por unidad, con un fortalecimiento del… [+981 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 14 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy14 de diciembre el tipo de cambio interbancario, se ubica en 20.12 pesos por unidad, con una pérdida del 0.46 por ciento, según datos de Bloomberg.Ayer, el peso mexicano subió, …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2024-12-14T13:37:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de diciembre el tipo de cambio interbancario, se ubica en 20.12 pesos por unidad, con una pérdida del 0.46 por ci… [+1268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se enfría’ ante el dólar: Tipo de cambio cotiza en 20.19 unidades",
-      "Description": "El dólar se vende en 20.74 unidades por dólar en ventanillas bancarias, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/13/peso-dolar-tipo-de-cambio-hoy-13-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MIANIPRDGVC7NPW3UAASV5P7FE.jpg?smart=true&auth=3cdb178839b728a07bb48ed7879bb5cbc29e6c5cbbbc061142d64a9613857576&width=1200&height=630",
-      "PublishedAt": "2024-12-13T15:31:22Z",
-      "Content": "Con los inversionistas aún sopesando las expectativas sobre los siguientes movimientos de la Reserva Federal (Fed) de Estados Unidos, el peso mexicano opera la sesión de este viernes con un retroceso… [+1722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cotiza estable! Precio del dólar hoy 13 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada de este viernes con pocos cambios, con lo que el precio del dólar hoy 13 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nL…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-13-diciembre-2024-tipo-cambio-bancos-mexico/1689519",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/13/3228162.jpg",
-      "PublishedAt": "2024-12-13T14:26:56Z",
-      "Content": "El peso mexicano arranca la jornada de este viernes con pocos cambios, con lo que el precio del dólar hoy 13 de diciembre de 2024 cotiza en 20.18 unidades por cada billete verde; conoce aquí cuál es … [+1382 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 13 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 13 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-13-de-diciembre-nid13122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-13-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-13T14:16:18Z",
-      "Content": "Este viernes 13 de diciembre, el precio del dólar en México es de $20,1647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2651 chars]"
     }
   ]
 }

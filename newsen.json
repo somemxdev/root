@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Katherine Tangalakis-Lippert",
+      "Title": "I left my multimillion-dollar career as a producer in Hollywood to start a longevity business. I make less money but haven't looked back.",
+      "Description": "Gary Binkow was an Emmy award-winning producer who is happier now that he's left his multimillion-dollar Hollywood career to start a longevity business.",
+      "Url": "https://www.businessinsider.com/gary-binkow-producer-left-hollywood-pursue-second-career-longevity-wellness-2024-12",
+      "UrlToImage": "https://i.insider.com/6760893fd0de6a4f27d3367c?width=1200&format=jpeg",
+      "PublishedAt": "2024-12-23T13:00:02Z",
+      "Content": "Gary Binkow was a Hollywood producer before he sold his media company and pivoted to a new business in the wellness industry.Gary Binkow\r\n<ul><li>Gary Binkow was an Emmy award-winning and Academy Awa… [+4917 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,45 +314,6 @@
       "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_candlestick_usd.jpg?extension=webp&hash=581C9DB4E93E992045AEE743525E8CAD&w=1200&h=630",
       "PublishedAt": "2024-12-03T06:28:00Z",
       "Content": "US Dollar Talking Points:\r\nThe last week of November finally showed some pullback for the US Dollar in a bullish trend that had priced-in aggressively from the Q4 open. From the weekly DXY chart, the… [+6846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Russian central bank intervenes as rouble tumbles past 110 to the dollar - Reuters",
-      "Description": "Russian central bank intervenes as rouble tumbles past 110 to the dollarReuters Russian Ruble Collapses As Putin's Economy in TroubleNewsweek Russia’s rouble plunges to lowest rate since early weeks of Ukraine warThe Guardian Russian Central Bank Halts Curren…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175555873",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-28T00:32:56Z",
-      "Content": "Nothing is rich but the inexhaustible wealth of nature.\r\nShe shows us only surfaces, but she is a million fathoms deep.\r\n-- Ralph Waldo Emerson"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Russian central bank halts US dollar purchases",
-      "Description": "The Russian central bank will suspend its operations on the foreign exchange market starting from Thursday to reduce ruble volatility Read Full Article at RT.com",
-      "Url": "https://www.rt.com/business/608301-russia-central-bank-ruble-dollar/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.11/article/67473dfb85f5405b45154333.jpg",
-      "PublishedAt": "2024-11-27T15:38:00Z",
-      "Content": "The Bank of Russia announced on Wednesday it will suspend purchases of foreign currency on the domestic exchange from November 28 until the end of the year, to reduce market volatility.\r\nThe announce… [+503 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Dollar Rallies, Mexican Peso Slumps on Trump’s Tariff Threat",
-      "Description": "The dollar gained, erasing a chunk of Monday’s decline, after President-elect Donald Trump said the US will impose more tariffs on key trading partners.",
-      "Url": "https://financialpost.com/pmn/business-pmn/dollar-rallies-mexican-peso-slumps-on-trumps-tariff-threat",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/11/776051733-1.jpg",
-      "PublishedAt": "2024-11-26T00:47:23Z",
-      "Content": "(Bloomberg) The dollar gained, erasing a chunk of Mondays decline, after President-elect Donald Trump said the US will impose more tariffs on key trading partners. \r\nChinas offshore yuan fell 0.4% ag… [+1285 chars]"
     }
   ]
 }
