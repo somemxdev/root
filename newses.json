@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Melanie Ariadna",
+      "Title": "Precio del dólar HOY lunes 30 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 30 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36pesos por unidad, con un fortalecimiento del 0.17por ciento, según datos de Bloomberg.El viernes,el peso …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-30T12:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 30 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con un fortalecimiento del … [+888 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-20T14:09:22Z",
       "Content": "Este viernes 20 de diciembre, el precio del dólar en México es de $20,4402, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2232 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 20 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 20 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.25 pesos por unidad, con una perdida del 0.27 por ciento, según datos de Bloomberg.El peso mexicano se apr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-20T12:04:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 20 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.25 pesos por unidad, con una perdida del 0.27 … [+830 chars]"
     }
   ]
 }
