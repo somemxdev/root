@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Peso ‘se pone nervioso’ al despedir el 2024: Cotiza en 20.74 unidades por dólar",
+      "Description": "El dólar se cotiza en 21.27 pesos por billete verde en ventanillas bancarias, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/31/peso-dolar-hoy-31-de-diciembre-de-2024/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/6UK3G42TMJBGDDL3DJR4SBACBY.jpeg?smart=true&auth=131b9ee2dee0582d2daa34826d04a52a926fa2ecfc015670bc7fc4f2624ae1c5&width=1200&height=630",
+      "PublishedAt": "2024-12-31T16:14:07Z",
+      "Content": "En el último día de operaciones del año, el peso mexicano se perfila a depreciarse frente al dólar estadounidense, aunque en menor medida que el lunes, ante una agenda económica escasa pues hoy se co… [+1692 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QIJ7BXAD5ZCFHHMQV2VZPTNVAI.jpg?smart=true&auth=5f4d3dc334ebd24e270bef083f72c84b40301aa6a1b018e0d487e151c3371182&width=1200&height=630",
       "PublishedAt": "2024-12-20T18:08:41Z",
       "Content": "Era un lunes 19 de diciembre, pero en 1994, solo habían pasado unas semanas desde que Ernesto Zedillo tomó posesión como presidente de México, tras el mandato de Carlos Salinas de Gortari. Fue la mis… [+3352 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso recibe su ‘aguinaga’: Se acerca a las 19 unidades ante el dólar",
-      "Description": "El peso mexicano busca regresar al terreno de las 19 unidades antes de fin de año y previo a que Donald Trump regrese a la Presidencia de EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/20/peso-dolar-precio-hoy-20-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
-      "PublishedAt": "2024-12-20T17:15:27Z",
-      "Content": "El peso mexicano amplía sus ganancias ante el dólar este viernes 20 de diciembre con los inversionistas ampliando la oleada de anuncios de política monetaria de bancos centrales como la Fed y el Banx… [+1835 chars]"
     }
   ]
 }
