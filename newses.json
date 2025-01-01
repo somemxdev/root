@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 31 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY martes 31 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del 0.49 por ciento, según datos de Bloomberg.Ayer, el peso me…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-12-31T12:04:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY martes 31 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del… [+842 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/5X3Z3RNSDJHCLF3MFV4QXNPY7M.jpg?smart=true&auth=6877bab9a42217c14d88ab4f81a19bdeb3829dea01836023ab2344d7d91f075f&width=1200&height=630",
       "PublishedAt": "2024-12-20T17:15:27Z",
       "Content": "El peso mexicano amplía sus ganancias ante el dólar este viernes 20 de diciembre con los inversionistas ampliando la oleada de anuncios de política monetaria de bancos centrales como la Fed y el Banx… [+1835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza por segundo día! Precio del dólar hoy 20 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza este viernes por segunda jornada consecutiva, con lo que el precio del dólar hoy 20 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-20-diciembre-2024-tipo-cambio-bancos-mexico/1690683",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/20/3231638.jpg",
-      "PublishedAt": "2024-12-20T15:06:35Z",
-      "Content": "El peso mexicano avanza este viernes por segunda jornada consecutiva, con lo que el precio del dólar hoy 20 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es e… [+1687 chars]"
     }
   ]
 }
