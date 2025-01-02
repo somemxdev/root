@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 1° de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 1° de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-1-de-enero-nid01012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-01T14:34:23Z",
+      "Content": "Este miércoles 1° de enero, el precio del dólar en México es de $20,5103, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2493 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2024-12-21T13:24:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 1.18 por c… [+1374 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "El peso mexicano cierra la semana con recuperación frente al dólar",
-      "Description": "El peso mexicano cerró la semana este 20 de diciembre cotizando en 20,03 unidades por dólar, una mejora respecto a la jornada previa, en la que finalizó las operaciones en 20,29 unidades.",
-      "Url": "https://noticiaslatam.lat/20241220/el-peso-mexicano-cierra-la-semana-con-recuperacion-frente-al-dolar-1159933845.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159933845.jpg?11482065411734730620",
-      "PublishedAt": "2024-12-20T21:37:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
     }
   ]
 }
