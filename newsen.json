@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Mexican peso posts biggest annual drop versus US dollar in 16 years",
+      "Description": "Mexican peso posts biggest annual drop versus US dollar in 16 years",
+      "Url": "https://www.investing.com/news/forex-news/mexican-peso-posts-biggest-annual-drop-versus-us-dollar-in-16-years-3793068",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEH71103_L.jpg",
+      "PublishedAt": "2024-12-31T23:06:07Z",
+      "Content": "MEXICO CITY (Reuters) - Mexico's peso weakened nearly 23% this year to close the final day of trading at 20.82 pesos per U.S. dollar on Tuesday, the currency's deepest drop against the greenback sinc… [+1028 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
