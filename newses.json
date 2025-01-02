@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 1 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 1 de enero, debes saber que al iniciar operaciones, el tipo de cambio interbancario se ubica en 20.82 pesos por unidad, con una baja del 0.03 por ciento, según datos de Bloomberg.El peso, que inició 2024 co…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2025-01-01T13:52:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 1 de enero, debes saber que al iniciar operaciones, el tipo de cambio interbancario se ubica en 20.82 pesos por unidad, con una baja del 0.03 por … [+1068 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1159933845.jpg?11482065411734730620",
       "PublishedAt": "2024-12-20T21:37:00Z",
       "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "A 30 años del ‘error de diciembre’: Cuando el peso se devaluó 62% frente al dólar en 1 semana",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/20/a-30-anos-del-error-de-diciembre-cuando-el-peso-se-devaluo-62-frente-al-dolar-en-1-semana/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QIJ7BXAD5ZCFHHMQV2VZPTNVAI.jpg?smart=true&auth=5f4d3dc334ebd24e270bef083f72c84b40301aa6a1b018e0d487e151c3371182&width=1200&height=630",
-      "PublishedAt": "2024-12-20T18:08:41Z",
-      "Content": "Era un lunes 19 de diciembre, pero en 1994, solo habían pasado unas semanas desde que Ernesto Zedillo tomó posesión como presidente de México, tras el mandato de Carlos Salinas de Gortari. Fue la mis… [+3352 chars]"
     }
   ]
 }
