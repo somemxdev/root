@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 2 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 2 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.70 pesos por unidad, con una baja del 0.57 por ciento, según datos de Bloomberg.Durante 2024, el peso mexicanos…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2025-01-02T12:06:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 2 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.70 pesos por unidad, con una baja del 0.57 por cien… [+888 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/2GPJDCR24RABXEGLQ22W26574I.jpg?smart=true&auth=bbe3b24f579444e7fcf282f41414ea83ff3cff98400ba893b4bb48e41475d7d3&width=1200&height=630",
       "PublishedAt": "2024-12-23T03:09:55Z",
       "Content": "El superpeso avisa que está de vuelta... ¿O acaso ha sido mera coincidencia? Y es que los niveles de cotización del tipo de cambio se mantuvieron en la senda de la recuperación frente al dólar por cu… [+2163 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 21 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 20.07pesos por unidad, con una pérdida del0.24por ciento, según datos de Bloomberg.Ayer, elpeso se apreciaba por se…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2024-12-21T13:24:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 1.18 por c… [+1374 chars]"
     }
   ]
 }
