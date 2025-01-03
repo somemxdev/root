@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 02 de enero 2025: Al peso mexicano le urge recuperarse",
+      "Description": "La divisa estadounidense se cotiza en $20.30 pesos a la compra y $21.10 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-02-de-enero-2025-al-peso-mexicano-le-urge-recuperarse",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/01/02/2%20ENE%20DOLAR%201.jpg",
+      "PublishedAt": "2025-01-02T13:24:59Z",
+      "Content": "Este jueves02 de enero de 2025 el dólar se cotiza en $20.77 pesos al inicio de la jornada, lo que significa que la moneda mexicana no avanzó ni retrocedió frente a la divisa estadounidense, tomando e… [+888 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/7092b224-8e2e-492b-a45c-097066fa6e45_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-12-23T03:59:29Z",
       "Content": "Donald Trump vuelve a ser protagonista de estos dos mercados, en los que el inversor minorista no tiene tanta presencia pero que repercuten en el día a día de la economía real. La reelección del empr… [+3250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿El regreso del ‘superpeso’? Tipo de cambio peso dólar acumula cuatro semanas de recuperación",
-      "Description": "El peso mexicano suma cuatro semanas recortándole terreno al dólar.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/12/22/cotizacion-del-peso-dolar-diciembre-proyeccion-para-enero-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/2GPJDCR24RABXEGLQ22W26574I.jpg?smart=true&auth=bbe3b24f579444e7fcf282f41414ea83ff3cff98400ba893b4bb48e41475d7d3&width=1200&height=630",
-      "PublishedAt": "2024-12-23T03:09:55Z",
-      "Content": "El superpeso avisa que está de vuelta... ¿O acaso ha sido mera coincidencia? Y es que los niveles de cotización del tipo de cambio se mantuvieron en la senda de la recuperación frente al dólar por cu… [+2163 chars]"
     }
   ]
 }
