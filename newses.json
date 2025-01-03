@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 2 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 2 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-2-de-enero-de-2025-nid02012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-02T17:00:57Z",
+      "Content": "Este jueves 2 de enero, el precio del dólar en México es de $20,7862, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nDe acuerdo con el si… [+2077 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Peso arranca 2025 ‘con pie derecho’: Así avanza ante el dólar",
+      "Description": "El dólar se cotiza arriba de los 21 pesos por billete verde en ventanillas, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/02/peso-dolar-hoy-2-de-enero-de-2025-tipo-de-cambio/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/4CF5ZLKWJ5AQLIHVJ3VJST7QX4.jpeg?smart=true&auth=fea54be953e21d3fe765d2f2ba1411659eaa3689782489fe5a8b3d12744cbd81&width=1200&height=630",
+      "PublishedAt": "2025-01-02T16:34:47Z",
+      "Content": "El peso mexicano inicia con el pie derecho el 2025 frente al dólar estadounidense y busca poner fin a una racha de cuatro sesiones con pérdidas en que llegó a repuntar hasta las 20.88 unidades.\r\nEn l… [+1941 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se 'sacude' 5 jornadas de pérdidas! Precio del dólar hoy 2 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera tras cinco jornadas continuas de retrocesos, con lo que el precio del dólar hoy 2 de enero de 2025 cotiza en 20.77 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-2-enero-2025-tipo-cambio-bancos-mexico/1692295",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/02/3236306.jpg",
+      "PublishedAt": "2025-01-02T16:24:31Z",
+      "Content": "El peso mexicano se recupera tras cinco jornadas continuas de retrocesos, con lo que el precio del dólar hoy 2 de enero de 2025 cotiza en 20.77 unidades por cada billete verde; conoce aquí cuál es el… [+1248 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
       "PublishedAt": "2024-12-23T18:22:29Z",
       "Content": "El peso mexicano y la Bolsa Mexicana de Valores retrocedían el lunes ante un fortalecimiento global del dólar, mientras los inversionistas asimilaban un reporte local de inflación y su impacto en las… [+1755 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar quiere ‘arruinar la cena de Navidad’ del peso: Se cotiza en las 20.17 unidades",
-      "Description": "El peso mexicano acumula ya casi un mes de apreciación ante el dólar, esto antes de la entrada del nuevo Gobierno de Donald Trump, un hecho que 'promete' desestabilizar de nuevo al tipo de cambio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/23/peso-dolar-precio-hoy-23-de-diciembre/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/YW33NLCBQZB6DKDSZDJ7Z5GHHY.jpg?smart=true&auth=381ba6fe28ed7d9ce72c6eae491e6f1827fe153ec38479ba65e61a76dbd3cfaa&width=1200&height=630",
-      "PublishedAt": "2024-12-23T16:34:03Z",
-      "Content": "A pesar de que el último anuncio del Banco de México (Banxico) dio un empujón al peso mexicano, la moneda nacional arranca esta semana en el terreno de pérdidas ante el dólar, mientras en el mercado … [+1577 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 23 de diciembre",
-      "Description": "El precio del dólar frente al peso mexicano muestra un incremento durante las primeras horas del 23 de diciembre, en un contexto de fortalecimiento de la divisa estadounidense. El tipo de cambio se ubica en 20,18 pesos por dólar.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-23-de-diciembre-nid23122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-lunes-23-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-23T14:16:34Z",
-      "Content": "Este lunes 23 de diciembre, el precio del dólar en México es de $20,4402, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2554 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso retrocede! Precio del dólar hoy 23 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede tras dar a conocer el dat de la inflación local, con lo que el precio del dólar hoy 23 de diciembre de 2024 cotiza en 20.21 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-23-diciembre-2024-tipo-cambio-bancos-mexico/1691043",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/23/3232657.jpg",
-      "PublishedAt": "2024-12-23T14:02:54Z",
-      "Content": "El peso mexicano retrocede tras dar a conocer el dat de la inflación local, con lo que el precio del dólar hoy 23 de diciembre de 2024 cotiza en 20.21 unidades por cada billete verde; conoce aquí cuá… [+1414 chars]"
     }
   ]
 }
