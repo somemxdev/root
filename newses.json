@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Alice Atkins",
+      "Title": "Euro cae a su nivel más bajo frente al dólar desde 2022",
+      "Description": "El débil crecimiento de la economía en Reino Unido ha debilitado al euro y la libra esterlina.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2025/01/02/euro-cae-a-su-nivel-mas-bajo-frente-al-dolar-desde-2022/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/LUV45NMCVRFJLDFQB4MF2MPZMI.jpeg?smart=true&auth=804d1b7fcfd0abe3e64976e893f9469c10b0b5b976c9496bf18d113391d55a50&width=1200&height=630",
+      "PublishedAt": "2025-01-02T15:34:39Z",
+      "Content": "El euro cayó a su nivel más débil frente al dólar en más de dos años y la libra se deslizó a un mínimo de ocho meses en medio de continuas preocupaciones sobre la economía europea.\r\nLa moneda común l… [+3195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/23/3232657.jpg",
       "PublishedAt": "2024-12-23T14:02:54Z",
       "Content": "El peso mexicano retrocede tras dar a conocer el dat de la inflación local, con lo que el precio del dólar hoy 23 de diciembre de 2024 cotiza en 20.21 unidades por cada billete verde; conoce aquí cuá… [+1414 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Melanie Torres",
-      "Title": "Precio del dólar HOY lunes 23 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 23 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.El viernes, el pe…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-23T12:02:00Z",
-      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del … [+907 chars]"
     }
   ]
 }
