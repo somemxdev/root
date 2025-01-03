@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Shayan Ghosh",
+      "Title": "Dollar trade finance dips as demand for local currencies rises: JPMorgan's Zhang",
+      "Description": "Given the interest rate differentials, there is a preference for using Chinese Yuan or Japanese Yen as financing currencies at the back end, says Zhang.",
+      "Url": "https://www.livemint.com/industry/banking/dollar-trade-finance-dips-as-demand-for-local-currencies-rises-jpmorgan-charley-zhang-11735729236720.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/01/01/1600x900/Charley_Zhang_1735729634718_1735747870930.jpg",
+      "PublishedAt": "2025-01-02T00:10:09Z",
+      "Content": "Mumbai: There has been a mild decline in the use of US dollars for trade finance in the Asia Pacific region on the back of higher interest rates, with demand for local currency financing increasing t… [+4467 chars]"
+    },
     {
       "Source": {
         "Id": null,
