@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Europa Press",
+      "Title": "El euro se debilita frente al dólar hasta alcanzar mínimos desde noviembre de 2022",
+      "Description": "El euro acumula una caída superior al 5% respecto del dólar desde el pasado 4 de noviembre, antes de la victoria electoral de Donald Trump como presidente de EEUU",
+      "Url": "https://www.elconfidencial.com/mercados/2025-01-02/euro-se-debilita-frente-al-dolar-alcanzar-minimos_4035588/",
+      "UrlToImage": "https://images.ecestaticos.com/eScsoxfj2pU_JfhwFDv7QCGLgV4=/0x0:1280x853/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/941/6b8/a8c/9416b8a8cc3890fe5f5f8c5421291c65.jpg",
+      "PublishedAt": "2025-01-02T14:05:00Z",
+      "Content": "El tipo de cambio del euro frente al dólar llegaba a caer este jueves a su nivel más bajo desde noviembre de 2022 ante la perspectiva de una creciente divergencia entre la política monetaria que apli… [+1599 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-23T12:02:00Z",
       "Content": "Si te preguntas a cuánto está el dólarHOY lunes 23 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un fortalecimiento del … [+907 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Pablo Gallén",
-      "Title": "Divisas y materias primas en 2025: oro al alza y potencial paridad del euro-dólar",
-      "Description": "Donald Trump vuelve a ser protagonista de estos dos mercados, en los que el inversor minorista no tiene tanta presencia pero que repercuten en el día a día de la economía real. La reelección del empresario neoyorquino como presidente se sintió en la cotizació…",
-      "Url": "https://www.elperiodico.com/es/economia/20241223/donde-invertir-2025-divisas-materias-primas-112783785",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/7092b224-8e2e-492b-a45c-097066fa6e45_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-12-23T03:59:29Z",
-      "Content": "Donald Trump vuelve a ser protagonista de estos dos mercados, en los que el inversor minorista no tiene tanta presencia pero que repercuten en el día a día de la economía real. La reelección del empr… [+3250 chars]"
     }
   ]
 }
