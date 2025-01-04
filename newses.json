@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Peso cae ante el dólar al cierre de la semana: Así cotiza este viernes 3 de enero",
+      "Description": "El dólar se cotiza en por arriba de los 21 pesos por billete verde en ventanillas, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/03/peso-cae-ante-el-dolar-al-cierre-de-la-semana-asi-cotiza-este-viernes-3-de-enero/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QNSFYIMNH5DEROJRJPOICNVNIY.jpg?smart=true&auth=c12a3d8d93993e578adb0e53a86ef2041082d387ea35ecc0a409c8ed115d8e54&width=1200&height=630",
+      "PublishedAt": "2025-01-03T16:43:34Z",
+      "Content": "El peso mexicano cae ligeramente frente al dólar al cierre de la semana, luego de apreciarse con fuerza en la sesión del jueves.\r\nEn las operaciones de este viernes, la moneda mexicana se deprecia 0.… [+1621 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-26T13:25:10Z",
       "Content": "Este jueves 26 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2593 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY jueves 26 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de diciembre el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una ganancia del 0.09 por ciento, según datos de Bloomberg.El peso se apreció el martes …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
-      "PublishedAt": "2024-12-26T12:03:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de diciembre el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una ganancia del 0.09 por ci… [+520 chars]"
     }
   ]
 }
