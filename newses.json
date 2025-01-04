@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 3 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 3 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-3-de-enero-de-2025-nid03012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-HETRVNK6FFEFTFDSREGNTUWCJM.jpg?auth=5f1dc6951872e69937aa277390377131ac9fd58ad028b30d227afb88ea7e71f0&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-03T15:21:46Z",
+      "Content": "Este viernes 3 de enero, el precio del dólar en México es de $20,6917, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nEl sitio de finanza… [+2031 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/27/peso-pierde-frente-dolar-avance.jpeg",
       "PublishedAt": "2024-12-26T12:03:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de diciembre el tipo de cambio interbancario se ubica en 20.18 pesos por unidad, con una ganancia del 0.09 por ci… [+520 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Feliz Navidad para el peso: Tipo de cambio opera en las 20.16 unidades por dólar",
-      "Description": "Las cifras de Bloomberg indican que el tipo de cambio opera alrededor de los 20.1645 pesos por dólar, lo que representa una apreciación de 0.16 por ciento o 3.17 centavos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/25/feliz-navidad-para-el-peso-tipo-de-cambio-opera-en-las-2016-unidades-por-dolar/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/BH2LX53I7JAQHDZ6QGB35IJFUY.jpg?smart=true&auth=064a888040e19384eb4beaa6cc056d4c5c6c2bc7894a0b461393a9c26090bb69&width=1200&height=630",
-      "PublishedAt": "2024-12-25T15:48:45Z",
-      "Content": "En una jornada caracterizada por una baja liquidez, ya que la mayoría de los mercados financieros alrededor del mundo se encuentran cerrados por el feriado de Navidad, la moneda mexicana consigue amp… [+1566 chars]"
     }
   ]
 }
