@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El euro se debilita frente al dólar y se aproxima a la paridad",
+      "Description": "El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace más de dos años y refuerza la expectativa de que se alcance la paridad entre ambas monedas por…",
+      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-debilita-frente-dolar-aproxima-paridad-20250103113931.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250103113931_1200.jpg",
+      "PublishedAt": "2025-01-03T10:39:31Z",
+      "Content": "MADRID 3 Ene. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace … [+2765 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/24/3233129.jpg",
       "PublishedAt": "2024-12-24T15:24:05Z",
       "Content": "El peso mexicano avanza en la jornada de Nochebuena, con lo que el precio del dólar hoy 24 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1953 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar hoy, 24 de diciembre de 2024: el peso retrocede",
-      "Description": "El tipo de cambio del peso frente al dólar varía entre bancos y se actualiza diariamente",
-      "Url": "https://www.record.com.mx/index.php/contra/precio-del-dolar-hoy-24-de-diciembre-de-2024-el-peso-retrocede",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/24/Proyecto%20nuevo%20%2839%29.jpg",
-      "PublishedAt": "2024-12-24T13:28:06Z",
-      "Content": "El tipo de cambio constituye un indicador económico fundamental en México, reflejando el valor del peso mexicano en relación con otras divisas, en particular el dólar estadounidense. \r\nEl 24 de dicie… [+1439 chars]"
     }
   ]
 }
