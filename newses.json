@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY viernes 3 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 3 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.07 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se aprec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2025-01-03T12:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY viernes 3 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.07 por cie… [+926 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2024-12-25T13:17:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de diciembre el tipo de cambio interbancario, se ubica en 20.15 pesos por unidad, con una pérdida del 0.08 por ci… [+780 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 24 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este martes 24 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-24-de-diciembre-nid24122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-24T17:53:03Z",
-      "Content": "Este martes 24 de diciembre, el precio del dólar en México es de $20,1948, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2035 chars]"
     }
   ]
 }
