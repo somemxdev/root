@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "David Taylor",
+      "Title": "Risks are rising for Reserve Bank intervention on the Australian dollar",
+      "Description": "The Australian dollar has come under a lot of pressure over the past two weeks, raising the question is the Reserve Bank close to stepping into the currency market to support the Australian dollar?",
+      "Url": "https://www.abc.net.au/news/2025-01-04/reserve-bank-intervention-on-australian-dollar/104782724",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
+      "PublishedAt": "2025-01-03T20:01:25Z",
+      "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6655 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "David Taylor",
+      "Title": "Risks are rising for Reserve Bank intervention of the Australian dollar",
+      "Description": "The Australian dollar has come under a lot of pressure over the past two weeks, raising the question is the Reserve Bank close to stepping into the currency market to support the Australian dollar?",
+      "Url": "https://www.abc.net.au/news/2025-01-04/reserve-bank-intervention-of-australian-dollar/104782724",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
+      "PublishedAt": "2025-01-03T20:01:25Z",
+      "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6650 chars]"
+    },
     {
       "Source": {
         "Id": null,
