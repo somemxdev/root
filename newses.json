@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "EP",
+      "Title": "El euro cae a mínimos de más dos años con el dólar y se aproxima a la paridad",
+      "Description": "Los expertos esperan que la combinación de políticas de Trump desencadene un mayor fortalecimiento del dólar, presionando al euro en particular",
+      "Url": "https://www.elconfidencial.com/mercados/2025-01-03/cotizacion-euro-dolar-minimos-paridad-trump_4036093/",
+      "UrlToImage": "https://images.ecestaticos.com/P0-KEfMz6yfrBklEKZJvJwm3hdY=/0x0:2272x1706/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/573/be3/679/573be367943a26a66198274065703469.jpg",
+      "PublishedAt": "2025-01-03T11:06:00Z",
+      "Content": "El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace más de dos años y refuerza la expe… [+2729 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2024-12-24T17:53:03Z",
       "Content": "Este martes 24 de diciembre, el precio del dólar en México es de $20,1948, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2035 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza en Nochebuena! Precio del dólar hoy 24 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de Nochebuena, con lo que el precio del dólar hoy 24 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-24-diciembre-2024-tipo-cambio-bancos-mexico/1691210",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/24/3233129.jpg",
-      "PublishedAt": "2024-12-24T15:24:05Z",
-      "Content": "El peso mexicano avanza en la jornada de Nochebuena, con lo que el precio del dólar hoy 24 de diciembre de 2024 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1953 chars]"
     }
   ]
 }
