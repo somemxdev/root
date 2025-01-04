@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar inicia 2025 por debajo de ¢510",
+      "Description": "El precio del dólar fue de ¢509,74 este jueves 2 de enero, en la que fue la primera sesión del Monex en este 2025.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-inicia-2025-por-debajo-de/W3TA4BNLTRCDRP2ETMSC5E5KTQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/VN52YWAUMJEWHG3RJ3GACEIX4U.jpg?smart=true&auth=1b7778ae139e48bec67de4b1d6cc483f6ed3b462d3374e702368198896db1e0e&width=1440",
+      "PublishedAt": "2025-01-02T23:17:40Z",
+      "Content": "El tipo de cambio del dólar respecto al colón inició este 2025 por debajo de los ¢510 en el Mercado de Monedas Extranjeras (Monex), tras cerrar 2024 por encima de ese nivel luego de registrar cinco j… [+2401 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-24T12:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 24 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un debilitamiento del… [+874 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano pierde fuerza tras datos locales de inflación; ya se ubica en 20.21 por dólar",
-      "Description": "Los inversionistas también consideraron comentarios de Donald Trump, sobre designar a los cárteles mexicanos de la droga como organizaciones terroristas.",
-      "Url": "https://aristeguinoticias.com/2312/dinero-y-economia/peso-mexicano-pierde-fuerza-tras-datos-locales-de-inflacion-ya-se-ubica-en-20-21-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/cuanto-vale-peso-dolar-tipo-de-cambio-lunes-5-de-agosto.jpg",
-      "PublishedAt": "2024-12-23T18:22:29Z",
-      "Content": "El peso mexicano y la Bolsa Mexicana de Valores retrocedían el lunes ante un fortalecimiento global del dólar, mientras los inversionistas asimilaban un reporte local de inflación y su impacto en las… [+1755 chars]"
     }
   ]
 }
