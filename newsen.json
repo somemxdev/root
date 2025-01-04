@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,19 +327,6 @@
       "UrlToImage": "https://i.insider.com/6750bd26ef9a5d904789f149?width=1200&format=jpeg",
       "PublishedAt": "2024-12-04T21:39:33Z",
       "Content": "Dollar Tree says its shoppers this holiday are \"buying for need and then buying closer to the need.\"Gabbi Shaw/Business Insider\r\n<ul><li>Dollar Tree \"pressured\" shoppers are looking for more ways to … [+2254 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cityindex.com"
-      },
-      "Author": "James Stanley",
-      "Title": "US Dollar Price Action Setups: EUR/USD, USD/JPY",
-      "Description": "The US Dollar finally pulled back from its aggressive Q4 breakout move, and this was fueled by the strongest weekly outing in EUR/USD in two years with last week’s bounce.",
-      "Url": "https://www.cityindex.com/en-uk/news-and-analysis/us-dollar-price-action-setups-video-eurusd-usdjpy-12-3-24/",
-      "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_candlestick_usd.jpg?extension=webp&hash=581C9DB4E93E992045AEE743525E8CAD&w=1200&h=630",
-      "PublishedAt": "2024-12-03T06:28:00Z",
-      "Content": "US Dollar Talking Points:\r\nThe last week of November finally showed some pullback for the US Dollar in a bullish trend that had priced-in aggressively from the Q4 open. From the weekly DXY chart, the… [+6846 chars]"
     }
   ]
 }
