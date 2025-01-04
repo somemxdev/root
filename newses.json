@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Alejandro Sánchez",
+      "Title": "El dólar, a un paso ya de la paridad con el euro",
+      "Description": "El dólar se quedó sin rival en 2024, y según recalcan los analistas, en pleno arranque de 2025 \"sigue avanzando frente a todas las divisas\". Su escalada, a las puertas del inicio de la nueva era Trump, deja al dólar en máximos de más de dos años, y a un paso …",
+      "Url": "https://www.expansion.com/mercados/divisas/2025/01/03/6777a7eb468aeba8678b4593.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/a0d4fe52900f65ffab6f4c6ca6d7f6b5/crop/2x0/2016x1343/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/03/17358948961386.jpg",
+      "PublishedAt": "2025-01-03T09:04:52Z",
+      "Content": "Cotizaciones con billetes de dólar y monedas de euroDREAMSTIMEEXPANSION\r\nEl dólar se quedó sin rival en 2024, y según recalcan los analistas, en pleno arranque de 2025 \"sigue avanzando frente a todas… [+607 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/12/24/Proyecto%20nuevo%20%2839%29.jpg",
       "PublishedAt": "2024-12-24T13:28:06Z",
       "Content": "El tipo de cambio constituye un indicador económico fundamental en México, reflejando el valor del peso mexicano en relación con otras divisas, en particular el dólar estadounidense. \r\nEl 24 de dicie… [+1439 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Melanie Ariadna",
-      "Title": "Precio del dólar HOY martes 24 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto estáel dólar HOY martes 24 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un debilitamiento del 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-24T12:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 24 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.14 pesos por unidad, con un debilitamiento del… [+874 chars]"
     }
   ]
 }
