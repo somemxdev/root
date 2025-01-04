@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza por segunda jornada! Precio del dólar hoy 3 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano suma dos jornadas de avances, con lo que el precio del dólar hoy 3 de enero de 2025 cotiza en 20.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra un…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-3-enero-2025-tipo-cambio-bancos-mexico/1692427",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/03/3236707.jpg",
+      "PublishedAt": "2025-01-03T14:35:48Z",
+      "Content": "El peso mexicano suma dos jornadas de avances, con lo que el precio del dólar hoy 3 de enero de 2025 cotiza en 20.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d… [+1409 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/BH2LX53I7JAQHDZ6QGB35IJFUY.jpg?smart=true&auth=064a888040e19384eb4beaa6cc056d4c5c6c2bc7894a0b461393a9c26090bb69&width=1200&height=630",
       "PublishedAt": "2024-12-25T15:48:45Z",
       "Content": "En una jornada caracterizada por una baja liquidez, ya que la mayoría de los mercados financieros alrededor del mundo se encuentran cerrados por el feriado de Navidad, la moneda mexicana consigue amp… [+1566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY miércoles 25 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de diciembre el tipo de cambio interbancario, se ubica en 20.15 pesos por unidad, con una pérdida del 0.08 por ciento, según datos de Reuters.El peso mexicano se apreció el …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2024-12-25T13:17:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de diciembre el tipo de cambio interbancario, se ubica en 20.15 pesos por unidad, con una pérdida del 0.08 por ci… [+780 chars]"
     }
   ]
 }
