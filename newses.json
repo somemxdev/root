@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY sábado 4 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY sábado 4 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.63 pesos por unidad, con un fortalecimiento del 0.14 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2025-01-04T14:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY sábado 4 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.63 pesos por unidad, con un fortalecimiento del 0.1… [+795 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/12/Diseno-sin-titulo-8-19.jpg",
       "PublishedAt": "2024-12-27T11:40:02Z",
       "Content": "Rusia ha iniciado un cambio estratégico en el comercio global con el uso oficial de criptomonedas para pagos internacionales. Este avance responde a sanciones económicas que restringen su acceso a lo… [+2675 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza ligeramente! Precio del dólar hoy 26 de diciembre de 2024",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza ligeramente tras el feriado por la Navidad, con lo que el precio del dólar hoy 26 de diciembre de 2024 cotiza en 20.13 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-26-diciembre-2024-tipo-cambio-bancos-mexico/1691434",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/26/3233866.jpg",
-      "PublishedAt": "2024-12-26T14:43:48Z",
-      "Content": "El peso mexicano avanza ligeramente tras el feriado por la Navidad, con lo que el precio del dólar hoy 26 de diciembre de 2024 cotiza en 20.13 unidades por cada billete verde; conoce aquí cuál es el … [+1562 chars]"
     }
   ]
 }
