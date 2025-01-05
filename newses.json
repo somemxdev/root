@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "David Lefin",
+      "Title": "Dólar sobre $1.000: Banco Central afirma que mira el desarrollo de los mercados y su implicancia en la economía y la inflación",
+      "Description": "El instituto emisor atribuyó el alza del dólar a la incertidumbre en los mercados globales, la fortaleza de la economía de Estados Unidos y expectativas de mayor debilidad de China y su impacto en el cobre.",
+      "Url": "https://www.df.cl/senal-df/factor-economico/dolar-sobre-1-000-banco-central-afirma-que-mira-el-desarrollo-de-los",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250103/imag/foto_0000000120250103195226/Consejo-Banco-Central-_1.jpg",
+      "PublishedAt": "2025-01-04T07:00:00Z",
+      "Content": "Recién está partiendo y ya el año 2025 no se avizora fácil para el Banco Central. La autoridad monetaria proyecta que la inflación seguirá subiendo hasta ubicarse en torno a 5% en el primer semestre,… [+6087 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/26/3233866.jpg",
       "PublishedAt": "2024-12-26T14:43:48Z",
       "Content": "El peso mexicano avanza ligeramente tras el feriado por la Navidad, con lo que el precio del dólar hoy 26 de diciembre de 2024 cotiza en 20.13 unidades por cada billete verde; conoce aquí cuál es el … [+1562 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 26 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este  jueves 26 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-26-de-diciembre-nid26122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-26T13:25:10Z",
-      "Content": "Este jueves 26 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2593 chars]"
     }
   ]
 }
