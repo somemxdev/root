@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/6fc6fea20e5e99f53a820d8aa763a003?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=14&width=862&height=485&imformat=generic",
       "PublishedAt": "2024-12-05T06:09:27Z",
       "Content": "An international investigation has exposed an alleged Russian billion-dollar money laundering network whose reach is said to have spanned more than 30 countries.\r\nThe investigation, dubbed Operation … [+6811 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Dominick Reuter",
-      "Title": "Dollar Tree CEO says 'pressured' Americans are hosting smaller parties to save money",
-      "Description": "Dollar Tree shoppers are holding off on purchases — like foil pans for Thanksgiving — until right before they plan to use them.",
-      "Url": "https://www.businessinsider.com/americans-hosting-smaller-parties-save-money-dollar-tree-earnings-2024-12",
-      "UrlToImage": "https://i.insider.com/6750bd26ef9a5d904789f149?width=1200&format=jpeg",
-      "PublishedAt": "2024-12-04T21:39:33Z",
-      "Content": "Dollar Tree says its shoppers this holiday are \"buying for need and then buying closer to the need.\"Gabbi Shaw/Business Insider\r\n<ul><li>Dollar Tree \"pressured\" shoppers are looking for more ways to … [+2254 chars]"
     }
   ]
 }
