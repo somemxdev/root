@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Nicolás Castillo Arévalo",
+      "Title": "Tipo de cambio: Dólar cierra en S/3.764 y desciende ligeramente",
+      "Description": "Por su parte, los indicadores de la Bolsa de Valores de Lima se encuentran en positivo en línea con los indicadores bursátiles americanos.",
+      "Url": "https://peru21.pe/economia/tipo-de-cambio-dolar-cierra-en-s3764-y-desciende-ligeramente",
+      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2025-01/tipo-de-cambio-andina.jpg",
+      "PublishedAt": "2025-01-06T20:04:08Z",
+      "Content": "El tipo de cambió cerró hoy lunes 6 de enero en S/3.764 por dólar, ligeramente inferior (-0.13%) respecto a la jornada del viernes.\r\nDurante la sesión, la oferta de dólares provino por parte del Banc… [+1444 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/27/3234320.jpg",
       "PublishedAt": "2024-12-27T17:12:48Z",
       "Content": "El peso mexicano se deprecia en la jornada de este viernes y se perfila a concluir la semana con retrocesos, con lo que el precio del dólar hoy 27 de diciembre de 2024 cotiza en 20.30 unidades por ca… [+1469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Leeeeenta’ depreciación del peso ante el dólar: ¿Cómo está el tipo de cambio hoy?",
-      "Description": "Se prevé que la tendencia de pocas modificaciones en el tipo de cambio continúe en los próximos días a menos que ocurra un hecho importante en la política nacional o del extranjero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/27/peso-dolar-precio-hoy-27-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MIANIPRDGVC7NPW3UAASV5P7FE.jpg?smart=true&auth=3cdb178839b728a07bb48ed7879bb5cbc29e6c5cbbbc061142d64a9613857576&width=1200&height=630",
-      "PublishedAt": "2024-12-27T16:58:08Z",
-      "Content": "El peso mexicano inicia la jornada de este viernes 27 de diciembre con pérdidas ante el dólar como parte de la aversión al riesgo derivada por los conflictos geopolíticos en Medio Oriente.\r\nLa deprec… [+1558 chars]"
     }
   ]
 }
