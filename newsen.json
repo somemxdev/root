@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,45 +301,6 @@
       "UrlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/12/00-Trump.png",
       "PublishedAt": "2024-12-06T16:09:39Z",
       "Content": "Yves here. Richard Koo, famed for his creation of the balance sheet recession to explain Japan’s lost decades of growth, offers a fresh angle on why US and Japanese voters have gone into “Throw the i… [+34124 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Nikhil Agarwal",
-      "Title": "FIIs fixing billion-dollar blunder, bank stocks on top of buying list",
-      "Description": "Foreign institutional investors (FIIs) are returning to the Indian stock market after a period of selling.  They've invested heavily in financials, particularly HDFC Bank, boosting its market cap.  While some analysts are optimistic about this revival, others…",
-      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-fixing-billion-dollar-blunder-bank-stocks-on-top-of-buying-list/articleshow/116028909.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-116028895,width-1200,height-630,imgsize-655876,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2024-12-06T03:56:29Z",
-      "Content": "Foreign institutional investors (FIIs), who started fleeing India after Nifty hit record high in September-end, are now on a course correction path. After selling Indian stocks worth Rs 116,437 crore… [+3131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Infosecurity Magazine"
-      },
-      "Author": "Phil Muncaster",
-      "Title": "UK’s NCA Disrupts Multibillion-Dollar Russian Money Launderers",
-      "Description": "The National Crime Agency has made scores of arrests in a bid to bring down two major Russian money laundering networks",
-      "Url": "https://www.infosecurity-magazine.com/news/nca-multibilliondollar-russian/",
-      "UrlToImage": "https://assets.infosecurity-magazine.com/webpage/og/b2bf4588-c491-4106-ac2f-648258bfbe35.jpg",
-      "PublishedAt": "2024-12-05T09:45:00Z",
-      "Content": "UK investigators say they have sent a clear message that the country is “not a safe haven for money laundering,” after making scores of arrests and seizing millions from two major Russian criminal ne… [+4051 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Ahmed Yussuf",
-      "Title": "Global investigation dismantles alleged billion-dollar money laundering scheme linked to rich Russians and cybercriminals",
-      "Description": "An international investigation exposes an alleged Russian billion-dollar money laundering network whose reach is said to have spanned more than 30 countries.",
-      "Url": "https://www.abc.net.au/news/2024-12-05/alleged-billion-dollar-russian-networks-exposed-investigation/104687738",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/6fc6fea20e5e99f53a820d8aa763a003?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=14&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-12-05T06:09:27Z",
-      "Content": "An international investigation has exposed an alleged Russian billion-dollar money laundering network whose reach is said to have spanned more than 30 countries.\r\nThe investigation, dubbed Operation … [+6811 chars]"
     }
   ]
 }
