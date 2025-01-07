@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 6 de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 6 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-6-de-enero-nid06012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-06T17:15:46Z",
+      "Content": "Este lunes 6 de enero, el precio del dólar en México es de $20,6708, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, el… [+2148 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/MIANIPRDGVC7NPW3UAASV5P7FE.jpg?smart=true&auth=3cdb178839b728a07bb48ed7879bb5cbc29e6c5cbbbc061142d64a9613857576&width=1200&height=630",
       "PublishedAt": "2024-12-27T16:58:08Z",
       "Content": "El peso mexicano inicia la jornada de este viernes 27 de diciembre con pérdidas ante el dólar como parte de la aversión al riesgo derivada por los conflictos geopolíticos en Medio Oriente.\r\nLa deprec… [+1558 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Anya Andrianova y Carter Johnson",
-      "Title": "Peso ‘muerde el polvo’ ante el dólar: Moneda de EU tiene su mejor año desde 2015",
-      "Description": "La expectativa de que la Fed recortará menos la tasa de interés en 2025 solo incrementó los pronósticos de que el dólar se fortalecerá todavía más en los próximos meses.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/27/tipo-de-cambio-dolar-tiene-su-mejor-ano-desde-2015/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/NYMECLEQVZDIVEEMGTPQ73SPWY.jpg?smart=true&auth=16f2d455bfaefd9ca2f05110b7feb17d8a450105df04764b2bea7326e9e93394&width=1200&height=630",
-      "PublishedAt": "2024-12-27T16:15:09Z",
-      "Content": "El superpeso no pudo contra el dólar: La moneda estadounidense se encamina a su mejor año en casi una década, ya que la fortaleza económica de Estados Unidos frena las expectativas sobre el ciclo de … [+2547 chars]"
     }
   ]
 }
