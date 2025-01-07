@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Brazil's finance minister rules out hiking taxes to curb dollar outflow",
+      "Description": "Brazil's finance minister rules out hiking taxes to curb dollar outflow",
+      "Url": "https://www.investing.com/news/forex-news/brazils-finance-minister-rules-out-hiking-taxes-to-curb-dollar-outflow-3798097",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEIAE024_L.jpg",
+      "PublishedAt": "2025-01-06T16:47:31Z",
+      "Content": "BRASILIA (Reuters) - Brazil's Finance Minister Fernando Haddad said on Monday that the government has no plans to raise the financial transactions tax, known as IOF, to address U.S. dollar outflow fo… [+974 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
