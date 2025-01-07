@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Qué hay detrás de la suba del dólar en Chile y cómo impacta en el peso argentino",
+      "Description": "La depreciación del peso chileno vuelve más convenientes las compras y consumos en ese país",
+      "Url": "https://www.lanacion.com.ar/economia/que-hay-detras-de-la-suba-del-dolar-en-chile-y-como-impacta-en-el-peso-argentino-nid06012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-teleferico-de-santiago-que-sube-al-cerro-san-OFOLY47PCVA5LGKJ7UZUY3KQI4.jpg?auth=9a620326543e62a4bb302c8edd9d9ae64111a4d781aef0a82db9c47c85c9dbab&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-06T15:05:31Z",
+      "Content": "Las noticias económicas en Chile generan sonrisas para los viajeros argentinos, que en creciente número deciden cruzar la Cordillera de Los Andes para sus vacaciones, escapadas de fin de semana y tou… [+2787 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/NYMECLEQVZDIVEEMGTPQ73SPWY.jpg?smart=true&auth=16f2d455bfaefd9ca2f05110b7feb17d8a450105df04764b2bea7326e9e93394&width=1200&height=630",
       "PublishedAt": "2024-12-27T16:15:09Z",
       "Content": "El superpeso no pudo contra el dólar: La moneda estadounidense se encamina a su mejor año en casi una década, ya que la fortaleza económica de Estados Unidos frena las expectativas sobre el ciclo de … [+2547 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 27 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 27 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-27-de-diciembre-nid27122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-12-27T13:50:31Z",
-      "Content": "Este viernes 27 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2215 chars]"
     }
   ]
 }
