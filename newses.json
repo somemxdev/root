@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 6 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 6 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.40 pesos por unidad, con una baja del 1.11 por ciento, según datos de Bloomberg.El viernes, el peso mexicano se a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2025-01-06T12:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 6 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.40 pesos por unidad, con una baja del 1.11 por cient… [+831 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-27T12:20:32Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 27 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.23 pesos por unidad, con un fortalecimiento d… [+896 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Martín Nicolás Parolari",
-      "Title": "¿El fin del dólar como moneda dominante?: Rusia adopta las criptomonedas para pagos internacionales",
-      "Description": "Ante las sanciones económicas impuestas por Occidente, Rusia ha comenzado a utilizar Bitcoin y otras criptomonedas en acuerdos internacionales. Este movimiento estratégico busca reducir la dependencia del dólar y fortalecer los lazos comerciales con aliados c…",
-      "Url": "https://es.gizmodo.com/el-fin-del-dolar-como-moneda-dominante-rusia-adopta-las-criptomonedas-para-pagos-internacionales-2000140903",
-      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/12/Diseno-sin-titulo-8-19.jpg",
-      "PublishedAt": "2024-12-27T11:40:02Z",
-      "Content": "Rusia ha iniciado un cambio estratégico en el comercio global con el uso oficial de criptomonedas para pagos internacionales. Este avance responde a sanciones económicas que restringen su acceso a lo… [+2675 chars]"
     }
   ]
 }
