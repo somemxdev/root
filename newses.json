@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Melanie Ariadna",
+      "Title": "Precio del dólar HOY martes 7 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY martes 7 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.30 pesos por unidad, con un debilitamiento del 0.06 por ciento para el billete verde, según datos de Bloomberg.…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-01-07T12:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólarHOY martes 7 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.30 pesos por unidad, con un debilitamiento del 0.06 … [+862 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-30T12:00:00Z",
       "Content": "Si te preguntas a cuánto está el dólarHOY lunes 30 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con un fortalecimiento del … [+888 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 28 de diciembre de 2024 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de diciembre el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con una pérdida del 0.48 por ciento para la moneda mexicana, según datos de Bloomberg.El pes…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-28T13:26:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de diciembre el tipo de cambio interbancario se ubica en 20.32 pesos por unidad, con una pérdida del 0.48 por cie… [+708 chars]"
     }
   ]
 }
