@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 7 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 7 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-7-de-enero-de-2025-nid07012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-peso-cerro-la-sesion-del-lunes-con-una-5RN6DVK3FFH47IL6RWYMUENUUU.jpg?auth=75d6dd631e487f14628a3bd91b68492aae5602cc2d814c4cf4644293946c01b2&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-07T14:40:52Z",
+      "Content": "Este martes 7 de enero, el precio del dólar en México es de $20,3195, de acuerdo con el Diario Oficial de la Federación (DOF).A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, El… [+2027 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso pierde! Precio del dólar hoy 7 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este martes, con lo que el precio del dólar hoy 7 de enero de 2025 cotiza en 20.33 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana p…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-7-enero-2025-tipo-cambio-bancos-mexico/1692959",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/07/3238277.jpg",
+      "PublishedAt": "2025-01-07T14:19:44Z",
+      "Content": "El peso mexicano retrocede en la jornada de este martes, con lo que el precio del dólar hoy 7 de enero de 2025 cotiza en 20.33 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1405 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-12-31T12:04:00Z",
       "Content": "Si te preguntas a cuánto está eldólar HOY martes 31 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del… [+842 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 30 de diciembre",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 30 de diciembre de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-30-de-diciembre-nid30122024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2024-12-30T13:40:28Z",
-      "Content": "Este lunes 30 de diciembre, el precio del dólar en México es de $20,1558, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2689 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Melanie Ariadna",
-      "Title": "Precio del dólar HOY lunes 30 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 30 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36pesos por unidad, con un fortalecimiento del 0.17por ciento, según datos de Bloomberg.El viernes,el peso …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-30T12:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólarHOY lunes 30 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.36 pesos por unidad, con un fortalecimiento del … [+888 chars]"
     }
   ]
 }
