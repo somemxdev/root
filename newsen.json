@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bluetracker.gg"
+      },
+      "Author": "Blue Tracker",
+      "Title": "[US] Upcoming Australian and New Zealand Dollar Price Changes for World of Warcraft Services and Subscriptions",
+      "Description": "[Blue Topic] We’re making some adjustments to Australian and New Zealand Dollar pricing for World of Warcraft services and subscriptions.\nBlizzard regularly conducts reviews of pricing in the many regions and currencies where World of Warcraft is available. F…",
+      "Url": "https://www.bluetracker.gg/wow/topic/us-en/2040710-upcoming-australian-and-new-zealand-dollar-price-changes-for-world-of-warcraft-services-and-subscriptions/",
+      "UrlToImage": "https://www.bluetracker.gg/static/images/logo.webp",
+      "PublishedAt": "2025-01-07T00:00:37Z",
+      "Content": "Were making some adjustments to Australian and New Zealand Dollar pricing for World of Warcraft services and subscriptions.\r\nBlizzard regularly conducts reviews of pricing in the many regions and cur… [+2358 chars]"
+    },
     {
       "Source": {
         "Id": null,
