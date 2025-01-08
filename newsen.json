@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Stocks rise, dollar drops after Trump denies tariff policy pullback - Yahoo Canada Finance",
+      "Description": "Stocks rise, dollar drops after Trump denies tariff policy pullbackYahoo Canada Finance Trump aides ready ‘universal’ tariff plans — with one key changeThe Washington Post A battle is brewing over tariffs among Trump’s teamCNN Dollar edges down towards one-we…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175843969",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-07T07:52:21Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cityindex.com"
+      },
+      "Author": "James Stanley",
+      "Title": "U.S. Dollar Price Action Setups: EUR/USD, USD/CAD, SPX",
+      "Description": "The U.S. Dollar just finished its strongest quarter in nine years, and stock prices remain elevated, as well. This sets the stage for a volatile 2025 as explained in this webinar.",
+      "Url": "https://www.cityindex.com/en-uk/news-and-analysis/us-dollar-price-action-setups-eurusd-usdcad-spx-1725/",
+      "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_candlestick_usd.jpg?extension=webp&hash=581C9DB4E93E992045AEE743525E8CAD&w=1200&h=630",
+      "PublishedAt": "2025-01-07T07:15:00Z",
+      "Content": "U.S. Dollar Talking Points:\r\n- It was a strong Q4 for the U.S. Dollar and at this point there’s no sign of bulls letting up yet. \r\n- As I shared in the webinar, I think it’s unlikely that both USD an… [+15198 chars]"
+    },
     {
       "Source": {
         "Id": null,
