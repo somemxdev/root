@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,32 +327,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-12-08T10:56:46Z",
       "Content": "Dollar General (NYSE:DG – Get Free Report) was upgraded by research analysts at Bank of America from an “underperform” rating to a “buy” rating in a report released on Friday, MarketBeat Ratings repo… [+5952 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Canadian dollar slumps to near 5-year low as traders bet on big Bank of Canada cut",
-      "Description": "The loonie fell 0.9% against the U.S. dollar to $1.4147, which would mark the currency’s weakest closing level since April 2020. Read on.",
-      "Url": "https://financialpost.com/news/economy/canadian-dollar-slumps-big-bank-of-canada-rate-cut",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/12/Canadian_dollar-gs1206.png",
-      "PublishedAt": "2024-12-06T16:59:40Z",
-      "Content": "The loonie dropped some 0.9 per cent against its U.S. counterpart on Friday to $1.4147, which would mark the currencys weakest closing level since April 2020. Two-year Canadian government bonds led a… [+2664 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nakedcapitalism.com"
-      },
-      "Author": "Yves Smith",
-      "Title": "Trump, Tariffs, Exchange Rates, and the Strong Dollar Problem: The Message of Elections in the US and Japan",
-      "Description": "Trump's win highlights popular anger in the US, Japan, and Europe over the economy despite high stock prices and low unemployment",
-      "Url": "https://www.nakedcapitalism.com/2024/12/trump-tariffs-exchange-rates-and-the-strong-dollar-problem-the-message-of-elections-in-the-us-and-japan.html",
-      "UrlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/12/00-Trump.png",
-      "PublishedAt": "2024-12-06T16:09:39Z",
-      "Content": "Yves here. Richard Koo, famed for his creation of the balance sheet recession to explain Japan’s lost decades of growth, offers a fresh angle on why US and Japanese voters have gone into “Throw the i… [+34124 chars]"
     }
   ]
 }
