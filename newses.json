@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 8 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 8 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.44 pesos por unidad, con un fortalecimiento del 0.58 por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-08T12:12:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 8 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.44 pesos por unidad, con un fortalecimiento del … [+942 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/6UK3G42TMJBGDDL3DJR4SBACBY.jpeg?smart=true&auth=131b9ee2dee0582d2daa34826d04a52a926fa2ecfc015670bc7fc4f2624ae1c5&width=1200&height=630",
       "PublishedAt": "2024-12-31T16:14:07Z",
       "Content": "En el último día de operaciones del año, el peso mexicano se perfila a depreciarse frente al dólar estadounidense, aunque en menor medida que el lunes, ante una agenda económica escasa pues hoy se co… [+1692 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 31 de diciembre de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY martes 31 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del 0.49 por ciento, según datos de Bloomberg.Ayer, el peso me…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-diciembre-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-12-31T12:04:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY martes 31 de diciembre, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del… [+842 chars]"
     }
   ]
 }
