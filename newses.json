@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy 8 enero 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano suma su segunda jornada de retrocesos, con lo que el precio del dólar hoy 8 de enero de 2025 cotiza en 20.43 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-8-enero-2025-tipo-cambio-bancos-mexico/1693186",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/08/3238953.jpg",
+      "PublishedAt": "2025-01-08T14:59:55Z",
+      "Content": "El peso mexicano suma su segunda jornada de retrocesos, con lo que el precio del dólar hoy 8 de enero de 2025 cotiza en 20.43 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1873 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘resiente’ amenazas de Trump a México: ¿Cuánto cede hoy ante el dólar?",
+      "Description": "Los mercados en Estados Unidos también resintieron las amenazas arancelarias de Trump contra México y Canadá, dos de sus mayores socios comerciales, por lo que Wall Street abrió a la baja.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/08/cuanto-pierde-el-peso-contra-el-dolar-por-amenazas-de-trump-hoy-8-de-enero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SHOZGIULZJHRBGP5YFQO6YD67Q.jpg?smart=true&auth=7f92bd17aff1f0eb82daa45097160d6b582988c8ab19d14f3b08dc1ece8a0e62&width=1200&height=630",
+      "PublishedAt": "2025-01-08T14:35:20Z",
+      "Content": "El peso se ve afectado por las amenazas de aranceles de Donald Trump que insiste se aplicarán a México cuando tome protesta como presidente de Estados Unidos, por lo que el tipo de cambio se mueve al… [+2527 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 8 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 8 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-8-de-enero-de-2025-nid08012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-sesion-del-martes-el-peso-avanzo-pero-cerro-652EAX7PTFBVRBCQSNPATM54ZM.jpg?auth=208d6e66cbb731299ce410c189d1b49c548d99b9ae1ea1c79de96e9259595814&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-08T14:29:37Z",
+      "Content": "Este miércoles 8 de enero de 2025, el precio del dólar en México es de $20,3440, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloombe… [+2428 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2025-01-02T12:06:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY jueves 2 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.70 pesos por unidad, con una baja del 0.57 por cien… [+888 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 1° de enero",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este miércoles 1° de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-1-de-enero-nid01012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-01T14:34:23Z",
-      "Content": "Este miércoles 1° de enero, el precio del dólar en México es de $20,5103, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2493 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 1 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 1 de enero, debes saber que al iniciar operaciones, el tipo de cambio interbancario se ubica en 20.82 pesos por unidad, con una baja del 0.03 por ciento, según datos de Bloomberg.El peso, que inició 2024 co…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2025-01-01T13:52:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 1 de enero, debes saber que al iniciar operaciones, el tipo de cambio interbancario se ubica en 20.82 pesos por unidad, con una baja del 0.03 por … [+1068 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso ‘se pone nervioso’ al despedir el 2024: Cotiza en 20.74 unidades por dólar",
-      "Description": "El dólar se cotiza en 21.27 pesos por billete verde en ventanillas bancarias, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/12/31/peso-dolar-hoy-31-de-diciembre-de-2024/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/6UK3G42TMJBGDDL3DJR4SBACBY.jpeg?smart=true&auth=131b9ee2dee0582d2daa34826d04a52a926fa2ecfc015670bc7fc4f2624ae1c5&width=1200&height=630",
-      "PublishedAt": "2024-12-31T16:14:07Z",
-      "Content": "En el último día de operaciones del año, el peso mexicano se perfila a depreciarse frente al dólar estadounidense, aunque en menor medida que el lunes, ante una agenda económica escasa pues hoy se co… [+1692 chars]"
     }
   ]
 }
