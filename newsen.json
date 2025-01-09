@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_map_eye.jpg?extension=webp&hash=A91EE2CD8F4133ECE8E1908FA1115591&w=1200&h=630",
       "PublishedAt": "2024-12-10T07:00:00Z",
       "Content": "US Dollar Talking Points:\r\n<ul><li>The US Dollar found support at the 105.44 level looked at in last week’s webinar around the NFP release on Friday, and that has since helped to drive a bounce in DX… [+7313 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar General (NYSE:DG) Rating Increased to Buy at Bank of America",
-      "Description": "Dollar General (NYSE:DG – Get Free Report) was upgraded by research analysts at Bank of America from an “underperform” rating to a “buy” rating in a report released on Friday, MarketBeat Ratings reports. The brokerage presently has a $95.00 price objective on…",
-      "Url": "https://www.etfdailynews.com/2024/12/08/dollar-general-nysedg-rating-increased-to-buy-at-bank-of-america/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-12-08T10:56:46Z",
-      "Content": "Dollar General (NYSE:DG – Get Free Report) was upgraded by research analysts at Bank of America from an “underperform” rating to a “buy” rating in a report released on Friday, MarketBeat Ratings repo… [+5952 chars]"
     }
   ]
 }
