@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso hila 3 jornadas de pérdidas! Precio del dólar hoy 9 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano hila su tercera jornada de retrocesos, con lo que el precio del dólar hoy 9 de enero de 2025 cotiza en 20.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-9-enero-2025-tipo-cambio-bancos-mexico/1693402",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/09/3239566.jpg",
+      "PublishedAt": "2025-01-09T14:15:02Z",
+      "Content": "El peso mexicano hila su tercera jornada de retrocesos, con lo que el precio del dólar hoy 9 de enero de 2025 cotiza en 20.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1700 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 9 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 9 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-9-de-enero-de-2025-nid09012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-jornada-del-9-de-enero-no-fue-positiva-para-el-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-09T14:13:27Z",
+      "Content": "Este jueves 9 de enero, el precio del dólar en México es de $20,3823, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, e… [+2195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/02/3236306.jpg",
       "PublishedAt": "2025-01-02T16:24:31Z",
       "Content": "El peso mexicano se recupera tras cinco jornadas continuas de retrocesos, con lo que el precio del dólar hoy 2 de enero de 2025 cotiza en 20.77 unidades por cada billete verde; conoce aquí cuál es el… [+1248 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Alice Atkins",
-      "Title": "Euro cae a su nivel más bajo frente al dólar desde 2022",
-      "Description": "El débil crecimiento de la economía en Reino Unido ha debilitado al euro y la libra esterlina.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2025/01/02/euro-cae-a-su-nivel-mas-bajo-frente-al-dolar-desde-2022/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/LUV45NMCVRFJLDFQB4MF2MPZMI.jpeg?smart=true&auth=804d1b7fcfd0abe3e64976e893f9469c10b0b5b976c9496bf18d113391d55a50&width=1200&height=630",
-      "PublishedAt": "2025-01-02T15:34:39Z",
-      "Content": "El euro cayó a su nivel más débil frente al dólar en más de dos años y la libra se deslizó a un mínimo de ocho meses en medio de continuas preocupaciones sobre la economía europea.\r\nLa moneda común l… [+3195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Europa Press",
-      "Title": "El euro se debilita frente al dólar hasta alcanzar mínimos desde noviembre de 2022",
-      "Description": "El euro acumula una caída superior al 5% respecto del dólar desde el pasado 4 de noviembre, antes de la victoria electoral de Donald Trump como presidente de EEUU",
-      "Url": "https://www.elconfidencial.com/mercados/2025-01-02/euro-se-debilita-frente-al-dolar-alcanzar-minimos_4035588/",
-      "UrlToImage": "https://images.ecestaticos.com/eScsoxfj2pU_JfhwFDv7QCGLgV4=/0x0:1280x853/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/941/6b8/a8c/9416b8a8cc3890fe5f5f8c5421291c65.jpg",
-      "PublishedAt": "2025-01-02T14:05:00Z",
-      "Content": "El tipo de cambio del euro frente al dólar llegaba a caer este jueves a su nivel más bajo desde noviembre de 2022 ante la perspectiva de una creciente divergencia entre la política monetaria que apli… [+1599 chars]"
     }
   ]
 }
