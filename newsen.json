@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Quartz India"
+      },
+      "Author": "Madeline Fitzgerald",
+      "Title": "5 multi-million dollar mansions that sat on the market for years",
+      "Description": "Owning a mansion might seem like a dream come true for the average person – who among us hasn’t spent an afternoon browsing Zillow (ZG) listings and imagining what life might be like living on a palatial property?Read more...",
+      "Url": "https://qz.com/unsold-mansions-michael-jordan-kylie-jenner-1851735598",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0cd3ec2187f3b422cbca1210f454511a.jpg",
+      "PublishedAt": "2025-01-09T10:00:00Z",
+      "Content": "Alec Baldwin purchased this property for $1.75 million in 1996. Decades later, the actor has spent years trying to sell his clearly beloved property.\r\nI fell in love with this place the moment I came… [+1115 chars]"
+    },
     {
       "Source": {
         "Id": null,
