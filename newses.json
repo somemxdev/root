@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede ante dólar fortalecido y datos de inflación en México",
+      "Description": "Forbes México.\n Peso retrocede ante dólar fortalecido y datos de inflación en México\n\nEn el mercado local crecen las expectativas de que Banxico seguirá reduciendo su tasa de interés clave tras la desaceleración de los precios al cierre de 2024. \nPeso retroce…",
+      "Url": "https://forbes.com.mx/peso-retrocede-ante-dolar-fortalecido-y-datos-de-inflacion-en-mexico/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-FER_0412.webp",
+      "PublishedAt": "2025-01-09T22:43:32Z",
+      "Content": "El peso retrocedió este jueves por un avance global del dólar y luego de la publicación de cifras de inflación en México al cierre de 2024, que fortalecieron expectativas de que Banco de México segui… [+2434 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/4CF5ZLKWJ5AQLIHVJ3VJST7QX4.jpeg?smart=true&auth=fea54be953e21d3fe765d2f2ba1411659eaa3689782489fe5a8b3d12744cbd81&width=1200&height=630",
       "PublishedAt": "2025-01-02T16:34:47Z",
       "Content": "El peso mexicano inicia con el pie derecho el 2025 frente al dólar estadounidense y busca poner fin a una racha de cuatro sesiones con pérdidas en que llegó a repuntar hasta las 20.88 unidades.\r\nEn l… [+1941 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se 'sacude' 5 jornadas de pérdidas! Precio del dólar hoy 2 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera tras cinco jornadas continuas de retrocesos, con lo que el precio del dólar hoy 2 de enero de 2025 cotiza en 20.77 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-2-enero-2025-tipo-cambio-bancos-mexico/1692295",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/02/3236306.jpg",
-      "PublishedAt": "2025-01-02T16:24:31Z",
-      "Content": "El peso mexicano se recupera tras cinco jornadas continuas de retrocesos, con lo que el precio del dólar hoy 2 de enero de 2025 cotiza en 20.77 unidades por cada billete verde; conoce aquí cuál es el… [+1248 chars]"
     }
   ]
 }
