@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 9 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 9 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-09T12:14:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 9 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.1… [+905 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/eScsoxfj2pU_JfhwFDv7QCGLgV4=/0x0:1280x853/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/941/6b8/a8c/9416b8a8cc3890fe5f5f8c5421291c65.jpg",
       "PublishedAt": "2025-01-02T14:05:00Z",
       "Content": "El tipo de cambio del euro frente al dólar llegaba a caer este jueves a su nivel más bajo desde noviembre de 2022 ante la perspectiva de una creciente divergencia entre la política monetaria que apli… [+1599 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 02 de enero 2025: Al peso mexicano le urge recuperarse",
-      "Description": "La divisa estadounidense se cotiza en $20.30 pesos a la compra y $21.10 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-02-de-enero-2025-al-peso-mexicano-le-urge-recuperarse",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/01/02/2%20ENE%20DOLAR%201.jpg",
-      "PublishedAt": "2025-01-02T13:24:59Z",
-      "Content": "Este jueves02 de enero de 2025 el dólar se cotiza en $20.77 pesos al inicio de la jornada, lo que significa que la moneda mexicana no avanzó ni retrocedió frente a la divisa estadounidense, tomando e… [+888 chars]"
     }
   ]
 }
