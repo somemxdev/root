@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Esta moneda de un dólar puede multiplicar su valor por un detalle particular",
+      "Description": "Un ejemplar con rostro de mujer que fue confeccionado en 1980 puede atraer ofertas superiores a los US$2.000",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-moneda-de-un-dolar-puede-multiplicar-su-valor-por-un-detalle-particular-nid10012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-de-susan-b-anthony-de-1980-imagen-del-3MT2WZ3O3VG6NLHNRWEPUZJETE.jpg?auth=d2f146d32bbc5219bdd211f9f9e7fe41fead1297e268688d7231e9c12cb21b4c&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-10T13:07:23Z",
+      "Content": "El mercado de las monedas viejas crece cada vez más. Aquellas de ediciones limitadas con detalles particulares, o que tuvieron un error específico en su acuñación, puede llevar a grandes ofrecimiento… [+1849 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/VN52YWAUMJEWHG3RJ3GACEIX4U.jpg?smart=true&auth=1b7778ae139e48bec67de4b1d6cc483f6ed3b462d3374e702368198896db1e0e&width=1440",
       "PublishedAt": "2025-01-02T23:17:40Z",
       "Content": "El tipo de cambio del dólar respecto al colón inició este 2025 por debajo de los ¢510 en el Mercado de Monedas Extranjeras (Monex), tras cerrar 2024 por encima de ese nivel luego de registrar cinco j… [+2401 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 2 de enero de 2025",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este jueves 2 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-2-de-enero-de-2025-nid02012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-02T17:00:57Z",
-      "Content": "Este jueves 2 de enero, el precio del dólar en México es de $20,7862, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nDe acuerdo con el si… [+2077 chars]"
     }
   ]
 }
