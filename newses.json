@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Y todavía no llega Trump... Peso se deprecia más de 1% contra el dólar tras reporte de empleo en EU",
+      "Description": "Los mercados 'temen' que en 2025, los miembros de la Reserva Federal serán más precavidos y por ello hagan menos recortes a la tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/10/peso-dolar-precio-hoy-10-de-enero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QIFDOESONRC3JKPCMPDP5QMUBA.jpg?smart=true&auth=6720c676c037bcdc3f6cc798e9dcbd83d1dcb57d72b769a3e99f1d5ecfaf4cfe&width=1200&height=630",
+      "PublishedAt": "2025-01-10T17:09:41Z",
+      "Content": "El peso mexicano, que teme la llegada de Donald Trump, cae ante el dólar en la sesión de este viernes 10 de enero tras el reporte de empleo en Estados Unidos, cuyos datos refuerzan la expectativa de … [+1987 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250103113931_1200.jpg",
       "PublishedAt": "2025-01-03T10:39:31Z",
       "Content": "MADRID 3 Ene. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace … [+2765 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Alejandro Sánchez",
-      "Title": "El dólar, a un paso ya de la paridad con el euro",
-      "Description": "El dólar se quedó sin rival en 2024, y según recalcan los analistas, en pleno arranque de 2025 \"sigue avanzando frente a todas las divisas\". Su escalada, a las puertas del inicio de la nueva era Trump, deja al dólar en máximos de más de dos años, y a un paso …",
-      "Url": "https://www.expansion.com/mercados/divisas/2025/01/03/6777a7eb468aeba8678b4593.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/a0d4fe52900f65ffab6f4c6ca6d7f6b5/crop/2x0/2016x1343/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/03/17358948961386.jpg",
-      "PublishedAt": "2025-01-03T09:04:52Z",
-      "Content": "Cotizaciones con billetes de dólar y monedas de euroDREAMSTIMEEXPANSION\r\nEl dólar se quedó sin rival en 2024, y según recalcan los analistas, en pleno arranque de 2025 \"sigue avanzando frente a todas… [+607 chars]"
     }
   ]
 }
