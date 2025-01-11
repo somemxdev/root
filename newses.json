@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy 10 enero 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano suma su cuarta jornada de pérdidas, con lo que el precio del dólar hoy 10 de enero de 2025 cotiza en 20.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana regi…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-10-enero-2025-tipo-cambio-bancos-mexico/1693605",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/10/3240205.jpg",
+      "PublishedAt": "2025-01-10T14:13:46Z",
+      "Content": "El peso mexicano suma su cuarta jornada de pérdidas, con lo que el precio del dólar hoy 10 de enero de 2025 cotiza en 20.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en b… [+1640 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/a0d4fe52900f65ffab6f4c6ca6d7f6b5/crop/2x0/2016x1343/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/03/17358948961386.jpg",
       "PublishedAt": "2025-01-03T09:04:52Z",
       "Content": "Cotizaciones con billetes de dólar y monedas de euroDREAMSTIMEEXPANSION\r\nEl dólar se quedó sin rival en 2024, y según recalcan los analistas, en pleno arranque de 2025 \"sigue avanzando frente a todas… [+607 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar inicia 2025 por debajo de ¢510",
-      "Description": "El precio del dólar fue de ¢509,74 este jueves 2 de enero, en la que fue la primera sesión del Monex en este 2025.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-inicia-2025-por-debajo-de/W3TA4BNLTRCDRP2ETMSC5E5KTQ/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/VN52YWAUMJEWHG3RJ3GACEIX4U.jpg?smart=true&auth=1b7778ae139e48bec67de4b1d6cc483f6ed3b462d3374e702368198896db1e0e&width=1440",
-      "PublishedAt": "2025-01-02T23:17:40Z",
-      "Content": "El tipo de cambio del dólar respecto al colón inició este 2025 por debajo de los ¢510 en el Mercado de Monedas Extranjeras (Monex), tras cerrar 2024 por encima de ese nivel luego de registrar cinco j… [+2401 chars]"
     }
   ]
 }
