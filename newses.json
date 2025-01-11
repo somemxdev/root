@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY viernes 10 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 10 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.51 pesos por unidad, con un fortalecimiento del 0.03 por ciento, según datos de Bloomberg.Ayer, el peso mexic…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-10T12:05:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 10 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.51 pesos por unidad, con un fortalecimiento del 0.… [+895 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-02T17:00:57Z",
       "Content": "Este jueves 2 de enero, el precio del dólar en México es de $20,7862, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nDe acuerdo con el si… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso arranca 2025 ‘con pie derecho’: Así avanza ante el dólar",
-      "Description": "El dólar se cotiza arriba de los 21 pesos por billete verde en ventanillas, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/02/peso-dolar-hoy-2-de-enero-de-2025-tipo-de-cambio/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/4CF5ZLKWJ5AQLIHVJ3VJST7QX4.jpeg?smart=true&auth=fea54be953e21d3fe765d2f2ba1411659eaa3689782489fe5a8b3d12744cbd81&width=1200&height=630",
-      "PublishedAt": "2025-01-02T16:34:47Z",
-      "Content": "El peso mexicano inicia con el pie derecho el 2025 frente al dólar estadounidense y busca poner fin a una racha de cuatro sesiones con pérdidas en que llegó a repuntar hasta las 20.88 unidades.\r\nEn l… [+1941 chars]"
     }
   ]
 }
