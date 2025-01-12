@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/12/canadian-dollar-gs1211.png",
       "PublishedAt": "2024-12-12T13:00:44Z",
       "Content": "How the loonie reacted to another 50 basis point cut might surprise you\r\nThe Canadian dollar is down 6.5 per cent so far this year.Photo by Norm Betts /Bloomberg News\r\nArticle content\r\nYou might have… [+8723 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cityindex.com"
-      },
-      "Author": "James Stanley",
-      "Title": "US Dollar Price Action into CPI, FOMC: EUR/USD, USD/JPY, Gold",
-      "Description": "The US Dollar showed a strong support bounce since last Friday’s NFP report, setting the stage for resistance tests into tomorrow’s CPI and next week’s FOMC.",
-      "Url": "https://www.cityindex.com/en-uk/news-and-analysis/us-dollar-price-action-into-cpi-fomc-eurusd-usdjpy-gold-xauusd/",
-      "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_map_eye.jpg?extension=webp&hash=A91EE2CD8F4133ECE8E1908FA1115591&w=1200&h=630",
-      "PublishedAt": "2024-12-10T07:00:00Z",
-      "Content": "US Dollar Talking Points:\r\n<ul><li>The US Dollar found support at the 105.44 level looked at in last week’s webinar around the NFP release on Friday, and that has since helped to drive a bounce in DX… [+7313 chars]"
     }
   ]
 }
