@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 11 de enero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 11 de enero el tipo de cambio interbancario, se ubica en 20.71 pesos por unidad, con una ganancia del 1.00 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose depreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-01-11T13:38:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 11 de enero el tipo de cambio interbancario, se ubica en 20.71 pesos por unidad, con una ganancia del 1.00 por cient… [+1966 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/P0-KEfMz6yfrBklEKZJvJwm3hdY=/0x0:2272x1706/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/573/be3/679/573be367943a26a66198274065703469.jpg",
       "PublishedAt": "2025-01-03T11:06:00Z",
       "Content": "El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace más de dos años y refuerza la expe… [+2729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "El euro se debilita frente al dólar y se aproxima a la paridad",
-      "Description": "El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace más de dos años y refuerza la expectativa de que se alcance la paridad entre ambas monedas por…",
-      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-debilita-frente-dolar-aproxima-paridad-20250103113931.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250103113931_1200.jpg",
-      "PublishedAt": "2025-01-03T10:39:31Z",
-      "Content": "MADRID 3 Ene. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace … [+2765 chars]"
     }
   ]
 }
