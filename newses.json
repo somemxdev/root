@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así se ve la moneda de cinco centavos de dólar que podría valer hasta US$1000: podrías tenerla en el bolsillo sin saberlo",
+      "Description": "Aunque a simple vista parece una pieza común y corriente, un ejemplar de 1983 año sorprende a los coleccionistas y expertos en numismática",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-se-ve-la-moneda-de-cinco-centavos-de-dolar-que-podria-valer-hasta-us1000-podrias-tenerla-en-el-nid11012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-numismatica-disciplina-que-estudia-y-XRWRUVBSVNGHHKSCASC6JXWXFQ.jpg?auth=1a77256f5d34bb7b2170bb394a4ec9ba4d326102ad167ddc7c3f465f2ddce1d4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-11T16:43:00Z",
+      "Content": "Una moneda de cinco centavos acuñada en 1983 está causando revuelo entre coleccionistas y curiosos. Aunque parece una moneda ordinaria, su precio en subastas puede alcanzar cifras sorprendentes, lleg… [+2262 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
       "PublishedAt": "2025-01-03T12:03:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY viernes 3 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.07 por cie… [+926 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "EP",
-      "Title": "El euro cae a mínimos de más dos años con el dólar y se aproxima a la paridad",
-      "Description": "Los expertos esperan que la combinación de políticas de Trump desencadene un mayor fortalecimiento del dólar, presionando al euro en particular",
-      "Url": "https://www.elconfidencial.com/mercados/2025-01-03/cotizacion-euro-dolar-minimos-paridad-trump_4036093/",
-      "UrlToImage": "https://images.ecestaticos.com/P0-KEfMz6yfrBklEKZJvJwm3hdY=/0x0:2272x1706/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/573/be3/679/573be367943a26a66198274065703469.jpg",
-      "PublishedAt": "2025-01-03T11:06:00Z",
-      "Content": "El tipo de cambio del euro frente al dólar se mantenía este viernes por debajo de los 1,03 dólares, lo que supone su peor cruce frente al 'billete verde' desde hace más de dos años y refuerza la expe… [+2729 chars]"
     }
   ]
 }
