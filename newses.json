@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tasa de la Fed ‘juega’ contra el peso: ¿Cuánto se deprecia contra el dólar este lunes?",
+      "Description": "El tipo de cambio podría fluctuar entre las 20.65 y 20.85 unidades spot por la expectativa del mercado sobre la tasa de interés de la Fed, de acuerdo con analistas de CI Banco.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/13/peso-dolar-precio-hoy-13-de-enero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/A7TEK5IMXNBCXOBHOIDYTGXQLU.jpg?smart=true&auth=f9063bd1655bcd8eaf3bdf62a6bad667de733f1ccaba7baac6fa317b065ecd89&width=1200&height=630",
+      "PublishedAt": "2025-01-13T16:43:43Z",
+      "Content": "13 de mala suerte para el peso mexicano afectado por Donald Trump: La moneda abre este lunes con pérdidas ante el dólar a medida que los mercados dan por hecho que la Reserva Federal no recortará su … [+2376 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20250103/imag/foto_0000000120250103195226/Consejo-Banco-Central-_1.jpg",
       "PublishedAt": "2025-01-04T07:00:00Z",
       "Content": "Recién está partiendo y ya el año 2025 no se avizora fácil para el Banco Central. La autoridad monetaria proyecta que la inflación seguirá subiendo hasta ubicarse en torno a 5% en el primer semestre,… [+6087 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso cae ante el dólar al cierre de la semana: Así cotiza este viernes 3 de enero",
-      "Description": "El dólar se cotiza en por arriba de los 21 pesos por billete verde en ventanillas, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/03/peso-cae-ante-el-dolar-al-cierre-de-la-semana-asi-cotiza-este-viernes-3-de-enero/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QNSFYIMNH5DEROJRJPOICNVNIY.jpg?smart=true&auth=c12a3d8d93993e578adb0e53a86ef2041082d387ea35ecc0a409c8ed115d8e54&width=1200&height=630",
-      "PublishedAt": "2025-01-03T16:43:34Z",
-      "Content": "El peso mexicano cae ligeramente frente al dólar al cierre de la semana, luego de apreciarse con fuerza en la sesión del jueves.\r\nEn las operaciones de este viernes, la moneda mexicana se deprecia 0.… [+1621 chars]"
     }
   ]
 }

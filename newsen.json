@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "list.metadata.agency",
+      "Title": "Bank of India seeks first dollar syndicated loan worth $400 million in more than a decade: Report",
+      "Description": "Bank of India said it is marketing its first dollar syndicated loan since 2012 of as much as $400 million. That comes at a time when more Indian borrowers are tapping global credit markets.",
+      "Url": "https://www.livemint.com/industry/banking/bank-of-india-seeks-first-dollar-syndicated-loan-worth-400-million-in-more-than-a-decade-report-11736785924136.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/01/13/1600x900/bank_of_india_1736785980671_1736785981000.jpg",
+      "PublishedAt": "2025-01-13T16:36:47Z",
+      "Content": "Bank of India said it is marketing its first dollar syndicated loan since 2012 of as much as $400 million. That comes at a time when more Indian borrowers are tapping global credit markets. The lende… [+1983 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
