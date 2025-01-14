@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://gdb.voanews.com/F71CFEDC-3A42-43CF-957B-5ADE2B0DA594.jpg",
       "PublishedAt": "2024-12-17T01:24:57Z",
       "Content": "Amid growing dissatisfaction over power outages and widespread forced closures of schools, offices and industries, the U.S. dollar exchange rate in the Iranian market has hit a new record, surpassing… [+233 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Gigi Suhanic",
-      "Title": "Posthaste: What the Bank of Canada's second jumbo rate cut means for the Canadian dollar",
-      "Description": "You might have thought the Bank of Canada's latest rate cut would have sent the loonie plunging, but you were wrong if you did. Read more.",
-      "Url": "https://financialpost.com/news/economy/bank-of-canada-interest-rate-cut-means-canadian-dollar",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/12/canadian-dollar-gs1211.png",
-      "PublishedAt": "2024-12-12T13:00:44Z",
-      "Content": "How the loonie reacted to another 50 basis point cut might surprise you\r\nThe Canadian dollar is down 6.5 per cent so far this year.Photo by Norm Betts /Bloomberg News\r\nArticle content\r\nYou might have… [+8723 chars]"
     }
   ]
 }
