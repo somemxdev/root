@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Bloomberg",
+      "Title": "Bank of India seeks its first dollar loan in more than a decade",
+      "Description": "Bank of India is raising up to $400 million in its first dollar syndicated loan since 2012, via its Gujarat branch. Reliance Industries, Shriram Finance, and State Bank of India are also pursuing significant foreign currency loans, contributing to an expected…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-seeks-its-first-dollar-loan-in-more-than-a-decade/articleshow/117199214.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-117199213,width-1200,height-630,imgsize-13334,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2025-01-13T09:15:22Z",
+      "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
+    },
+    {
+      "Source": {
+        "Id": "bloomberg",
+        "Name": "Bloomberg"
+      },
+      "Author": "Bloomberg",
+      "Title": "Bank of India seeks its first dollar loan in more than a decade",
+      "Description": "An external media representative for Bank of India confirmed the receipt of an email requesting comment, but wasn’t immediately able to give further details",
+      "Url": "https://www.bloomberg.com/news/articles/2025-01-13/bank-of-india-seeks-its-first-dollar-loan-in-more-than-a-decade",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/rujkdk/article69093007.ece/alternates/LANDSCAPE_1200/IMG_Po12_MF_2_1_QSDR8DIS.jpg",
+      "PublishedAt": "2025-01-13T09:14:10Z",
+      "Content": "Bank of India is marketing its first dollar syndicated loan since 2012 of as much as $400 million, people familiar with the matter said, at a time when more Indian borrowers are tapping global credit… [+2131 chars]"
+    },
     {
       "Source": {
         "Id": null,
