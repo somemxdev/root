@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso extiende pérdidas! Precio del dólar hoy 13 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arrancó la semana con su quinta sesión de pérdidas, con lo que el precio del dólar hoy 13 de enero de 2025 cotiza en 20.78 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divi…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-13-enero-2025-tipo-cambio-bancos-mexico/1693997",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/13/3241372.jpg",
+      "PublishedAt": "2025-01-13T13:55:19Z",
+      "Content": "El peso mexicano arrancó la semana con su quinta sesión de pérdidas, con lo que el precio del dólar hoy 13 de enero de 2025 cotiza en 20.78 unidades por cada billete verde; conoce aquí cuál es el tip… [+1303 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-HETRVNK6FFEFTFDSREGNTUWCJM.jpg?auth=5f1dc6951872e69937aa277390377131ac9fd58ad028b30d227afb88ea7e71f0&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-03T15:21:46Z",
       "Content": "Este viernes 3 de enero, el precio del dólar en México es de $20,6917, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nEl sitio de finanza… [+2031 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza por segunda jornada! Precio del dólar hoy 3 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano suma dos jornadas de avances, con lo que el precio del dólar hoy 3 de enero de 2025 cotiza en 20.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra un…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-3-enero-2025-tipo-cambio-bancos-mexico/1692427",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/03/3236707.jpg",
-      "PublishedAt": "2025-01-03T14:35:48Z",
-      "Content": "El peso mexicano suma dos jornadas de avances, con lo que el precio del dólar hoy 3 de enero de 2025 cotiza en 20.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d… [+1409 chars]"
     }
   ]
 }
