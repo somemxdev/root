@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Pamela Heaven",
+      "Title": "Posthaste: Why a weak Canadian dollar won't stop the Bank of Canada from cutting rates",
+      "Description": "Bank of Canada won't stop cutting interest rates because of a weak Canadian dollar, says RBC. Read more",
+      "Url": "https://financialpost.com/news/canadian-dollar-will-not-stop-bank-of-canada-rate-cuts-rbc",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/canadian-dollar-0113.jpg",
+      "PublishedAt": "2025-01-13T13:01:37Z",
+      "Content": "Interest rates and the loonie are heading lower, predicts RBC\r\nRBC expects the Canadian dollar to fade further to 68.96 cents U.S. by the second quarter as the gap between the Fed and Bank of Canada … [+9185 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
