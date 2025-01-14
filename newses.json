@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 13 de enero de 2025",
+      "Description": "El tipo de cambio cotiza en $20,76 pesos mexicanos por unidad, lo que representa una depreciación de 0,23% de la moneda de México respecto al cierre del pasado viernes 10, cuando la paridad entre la divisa mexicana y de EE.UU. se ubicó en $20,71.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-13-de-enero-de-2025-nid13012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-sube-frente-al-peso-mexicano-durante-las-4PIEV32BNNANPEIZMBMM6OLXTY.jpg?auth=1fb25f45094e5d9bf9b8566baaa987ab944871c8bd549643c065a499840da096&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-13T15:05:07Z",
+      "Content": "Este lunes 13 de enero, el precio del dólar en México es de $20,7045, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún Bloomberg Línea, en las pr… [+2374 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QNSFYIMNH5DEROJRJPOICNVNIY.jpg?smart=true&auth=c12a3d8d93993e578adb0e53a86ef2041082d387ea35ecc0a409c8ed115d8e54&width=1200&height=630",
       "PublishedAt": "2025-01-03T16:43:34Z",
       "Content": "El peso mexicano cae ligeramente frente al dólar al cierre de la semana, luego de apreciarse con fuerza en la sesión del jueves.\r\nEn las operaciones de este viernes, la moneda mexicana se deprecia 0.… [+1621 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 3 de enero de 2025",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este viernes 3 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-3-de-enero-de-2025-nid03012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-HETRVNK6FFEFTFDSREGNTUWCJM.jpg?auth=5f1dc6951872e69937aa277390377131ac9fd58ad028b30d227afb88ea7e71f0&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-03T15:21:46Z",
-      "Content": "Este viernes 3 de enero, el precio del dólar en México es de $20,6917, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día de la fecha.\r\nEl sitio de finanza… [+2031 chars]"
     }
   ]
 }
