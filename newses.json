@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 14 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 14 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-14-de-enero-de-2025-nid14012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-14T14:00:33Z",
+      "Content": "Este martes 14 de enero, el precio del dólar en México es de $20,8012, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2092 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2025-01-06T12:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 6 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.40 pesos por unidad, con una baja del 1.11 por cient… [+831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY sábado 4 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY sábado 4 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.63 pesos por unidad, con un fortalecimiento del 0.14 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2025-01-04T14:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY sábado 4 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.63 pesos por unidad, con un fortalecimiento del 0.1… [+795 chars]"
     }
   ]
 }
