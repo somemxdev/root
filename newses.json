@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El Banco Central bajará al 1% mensual el ritmo de ajuste del dólar oficial",
+      "Description": "Se trata del primer cambio en la política cambiaria desde mediados de diciembre de 2023; busca profundizar la baja de la inflación",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/el-banco-central-confirmo-que-baja-al-1-mensual-el-ritmo-de-ajuste-del-dolar-oficial-nid14012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-confirmo-que-reduce-el-ritmo-de-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-14T20:24:07Z",
+      "Content": "Luego de que se conociera que la inflación de diciembre fue del 2,7% mensual, el Banco Central confirmó que reducirá el ritmo de devaluación del dólar oficial mayorista del 2% al 1% mensual a partir … [+1037 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-teleferico-de-santiago-que-sube-al-cerro-san-OFOLY47PCVA5LGKJ7UZUY3KQI4.jpg?auth=9a620326543e62a4bb302c8edd9d9ae64111a4d781aef0a82db9c47c85c9dbab&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-06T15:05:31Z",
       "Content": "Las noticias económicas en Chile generan sonrisas para los viajeros argentinos, que en creciente número deciden cruzar la Cordillera de Los Andes para sus vacaciones, escapadas de fin de semana y tou… [+2787 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso recorta pérdidas! Precio del dólar hoy 6 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en el arranque del Día de Reyes, con lo que el precio del dólar hoy 6 de enero de 2025 cotiza en 20.25 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexica…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-6-enero-2025-tipo-cambio-bancos-mexico/1692800",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/06/3237772.jpg",
-      "PublishedAt": "2025-01-06T14:48:50Z",
-      "Content": "El peso mexicano se aprecia en el arranque del Día de Reyes, con lo que el precio del dólar hoy 6 de enero de 2025 cotiza en 20.25 unidades por cada billete verde; conoce aquí cuál es el tipo de camb… [+1784 chars]"
     }
   ]
 }
