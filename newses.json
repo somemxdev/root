@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 14 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY martes 14 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.64 pesos por unidad, con un fortalecimiento del 0.05 por ciento, según datos de Bloomberg.Ayer, el peso mexica…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-14T12:08:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 14 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.64 pesos por unidad, con un fortalecimiento del 0.… [+905 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2025-01-04T14:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY sábado 4 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.63 pesos por unidad, con un fortalecimiento del 0.1… [+795 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "David Lefin",
-      "Title": "Dólar sobre $1.000: Banco Central afirma que mira el desarrollo de los mercados y su implicancia en la economía y la inflación",
-      "Description": "El instituto emisor atribuyó el alza del dólar a la incertidumbre en los mercados globales, la fortaleza de la economía de Estados Unidos y expectativas de mayor debilidad de China y su impacto en el cobre.",
-      "Url": "https://www.df.cl/senal-df/factor-economico/dolar-sobre-1-000-banco-central-afirma-que-mira-el-desarrollo-de-los",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250103/imag/foto_0000000120250103195226/Consejo-Banco-Central-_1.jpg",
-      "PublishedAt": "2025-01-04T07:00:00Z",
-      "Content": "Recién está partiendo y ya el año 2025 no se avizora fácil para el Banco Central. La autoridad monetaria proyecta que la inflación seguirá subiendo hasta ubicarse en torno a 5% en el primer semestre,… [+6087 chars]"
     }
   ]
 }
