@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 15 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 15 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.01 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-15T12:09:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 15 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.01 por … [+943 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-06T17:15:46Z",
       "Content": "Este lunes 6 de enero, el precio del dólar en México es de $20,6708, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, el… [+2148 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Qué hay detrás de la suba del dólar en Chile y cómo impacta en el peso argentino",
-      "Description": "La depreciación del peso chileno vuelve más convenientes las compras y consumos en ese país",
-      "Url": "https://www.lanacion.com.ar/economia/que-hay-detras-de-la-suba-del-dolar-en-chile-y-como-impacta-en-el-peso-argentino-nid06012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-teleferico-de-santiago-que-sube-al-cerro-san-OFOLY47PCVA5LGKJ7UZUY3KQI4.jpg?auth=9a620326543e62a4bb302c8edd9d9ae64111a4d781aef0a82db9c47c85c9dbab&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-06T15:05:31Z",
-      "Content": "Las noticias económicas en Chile generan sonrisas para los viajeros argentinos, que en creciente número deciden cruzar la Cordillera de Los Andes para sus vacaciones, escapadas de fin de semana y tou… [+2787 chars]"
     }
   ]
 }
