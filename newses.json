@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘desplaza’ al dólar tras cifras de inflación de EU: ¿Cómo cotiza HOY 15 de enero?",
+      "Description": "La moneda mexicana amplió sus ganancias frente a la moneda estadounidense este miércoles 15 de enero.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/15/precio-del-dolar-este-miercoles-15-de-enero-tipo-de-cambio/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3N6UAIULYZCJVMOXL3N45EFEUE.jpg?smart=true&auth=b6cd173f54d475cea18d51b85abfa20ca9abbb9b719c0f8254b9329e50578c90&width=1200&height=630",
+      "PublishedAt": "2025-01-15T17:30:17Z",
+      "Content": "La moneda mexicana amplió sus ganancias frente a la moneda estadounidense luego de que se dio a conocer que, la inflación, durante el mes de diciembre en Estados Unidos, se ubicó en una tasa anual de… [+1599 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-01-07T12:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólarHOY martes 7 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.30 pesos por unidad, con un debilitamiento del 0.06 … [+862 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Aprovecha el peso la debilidad del dólar y gana 36 centavos",
-      "Description": "El peso mexicano celebró ayer la supuesta posibilidad de que los planes arancelarios del próximo presidente de Estados Unidos, Donald Trump, sean menos agresivos de lo que prometió en su campaña, lo que el propio magnate ya desmintió.",
-      "Url": "https://www.jornada.com.mx/2025/01/07/economia/015n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-01-07T09:30:28Z",
-      "Content": "Periódico La JornadaMartes 7 de enero de 2025, p. 15\r\nEl peso mexicano celebró ayer la supuesta posibilidad de que los planes arancelarios del próximo presidente de Estados Unidos, Donald Trump, sean… [+2045 chars]"
     }
   ]
 }
