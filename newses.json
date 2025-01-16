@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 15 de enero de 2025",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 15 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-15-de-enero-de-2025-nid15012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-precio-del-dolar-frente-al-peso-mexicano-cae-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-15T14:24:51Z",
+      "Content": "Este miércoles 15 de enero de 2025, el precio del dólar en México es de $20,482, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloombe… [+2158 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso apunta a tercera jornada de ganancias! Precio del dólar hoy 15 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se mantiene en terreno positivo al apreciarse en la jornada de este miércoles, con lo que el precio del dólar hoy 15 de enero de 2025 cotiza en 20.37 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-15-enero-2025-tipo-cambio-bancos-mexico/1694396",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/15/3242596.jpg",
+      "PublishedAt": "2025-01-15T14:15:23Z",
+      "Content": "El peso mexicano se mantiene en terreno positivo al apreciarse en la jornada de este miércoles, con lo que el precio del dólar hoy 15 de enero de 2025 cotiza en 20.37 unidades por cada billete verde;… [+1422 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-01-07T09:30:28Z",
       "Content": "Periódico La JornadaMartes 7 de enero de 2025, p. 15\r\nEl peso mexicano celebró ayer la supuesta posibilidad de que los planes arancelarios del próximo presidente de Estados Unidos, Donald Trump, sean… [+2045 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Nicolás Castillo Arévalo",
-      "Title": "Tipo de cambio: Dólar cierra en S/3.764 y desciende ligeramente",
-      "Description": "Por su parte, los indicadores de la Bolsa de Valores de Lima se encuentran en positivo en línea con los indicadores bursátiles americanos.",
-      "Url": "https://peru21.pe/economia/tipo-de-cambio-dolar-cierra-en-s3764-y-desciende-ligeramente",
-      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2025-01/tipo-de-cambio-andina.jpg",
-      "PublishedAt": "2025-01-06T20:04:08Z",
-      "Content": "El tipo de cambió cerró hoy lunes 6 de enero en S/3.764 por dólar, ligeramente inferior (-0.13%) respecto a la jornada del viernes.\r\nDurante la sesión, la oferta de dólares provino por parte del Banc… [+1444 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 6 de enero",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 6 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-6-de-enero-nid06012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-06T17:15:46Z",
-      "Content": "Este lunes 6 de enero, el precio del dólar en México es de $20,6708, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, el… [+2148 chars]"
     }
   ]
 }
