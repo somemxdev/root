@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae previo a investidura de Trump! Precio del dólar hoy 16 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano regresa a terreno negativo luego de tres jornadas de ganancias, con lo que el precio del dólar hoy 16 de enero de 2025 cotiza en 20.60 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxic…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-16-enero-2025-tipo-cambio-bancos-mexico/1694637",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/16/3243313.jpg",
+      "PublishedAt": "2025-01-16T14:39:42Z",
+      "Content": "El peso mexicano regresa a terreno negativo luego de tres jornadas de ganancias, con lo que el precio del dólar hoy 16 de enero de 2025 cotiza en 20.60 unidades por cada billete verde; conoce aquí cu… [+1692 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-sesion-del-martes-el-peso-avanzo-pero-cerro-652EAX7PTFBVRBCQSNPATM54ZM.jpg?auth=208d6e66cbb731299ce410c189d1b49c548d99b9ae1ea1c79de96e9259595814&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-08T14:29:37Z",
       "Content": "Este miércoles 8 de enero de 2025, el precio del dólar en México es de $20,3440, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloombe… [+2428 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 8 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY miércoles 8 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.44 pesos por unidad, con un fortalecimiento del 0.58 por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-08T12:12:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 8 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.44 pesos por unidad, con un fortalecimiento del … [+942 chars]"
     }
   ]
 }
