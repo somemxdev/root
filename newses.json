@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 16 de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 16 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-16-de-enero-nid16012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-jueves-16-de-enero-el-peso-se-ve-afectado-por-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-16T13:53:52Z",
+      "Content": "Este jueves 16 de enero, el precio del dólar en México es de $20,4875, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2106 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-08T12:12:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 8 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.44 pesos por unidad, con un fortalecimiento del … [+942 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 7 de enero de 2025",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 7 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-7-de-enero-de-2025-nid07012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-peso-cerro-la-sesion-del-lunes-con-una-5RN6DVK3FFH47IL6RWYMUENUUU.jpg?auth=75d6dd631e487f14628a3bd91b68492aae5602cc2d814c4cf4644293946c01b2&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-07T14:40:52Z",
-      "Content": "Este martes 7 de enero, el precio del dólar en México es de $20,3195, de acuerdo con el Diario Oficial de la Federación (DOF).A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, El… [+2027 chars]"
     }
   ]
 }
