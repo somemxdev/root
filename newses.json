@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Tipo de cambio se acerca de nuevo a los 21 pesos por dólar",
+      "Description": "Forbes México.\n Tipo de cambio se acerca de nuevo a los 21 pesos por dólar\n\nEl peso se deprecia 1.60%, la pérdida más amplia desde finales de diciembre; Trump y expectativas sobre la tasa en Japón, entre las causas. \nTipo de cambio se acerca de nuevo a los 21…",
+      "Url": "https://forbes.com.mx/tipo-de-cambio-se-acerca-de-nuevo-a-los-21-pesos-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-01-16T20:53:30Z",
+      "Content": "El peso tuvo este jueves su retroceso más amplio desde el 30 de diciembre, mientras crece la cautela de inversionistas a medida que se acerca el regreso de Trump a la Casa Blanca.\r\nEl dólar se ubicó … [+2236 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Fabiana Sanchez",
+      "Title": "Dólar hoy: Tipo de cambio cerró en S/3.76",
+      "Description": "Moneda de Estados Unidos retrocedió | Billete verde | Economía | Banco Central de Reserva | Renta4 SAB | PBI | Venta | Compra",
+      "Url": "https://peru21.pe/economia/dolar-hoy-tipo-de-cambio-cerro-en-s376",
+      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/6ADROSDDJVBWNEBNXQH3VAEDEM_1.jpg?itok=I3o4-Qq_",
+      "PublishedAt": "2025-01-16T20:06:35Z",
+      "Content": "El dólar cerró la jornada de hoy cotizándose en S/3.760, por debajo de los S/3.764 de un día anterior, según cifras del Banco Central de Reserva (BCR). Con este resultado, el billete verde acumula un… [+1509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2025-01/dolar-andina.jpg",
       "PublishedAt": "2025-01-08T19:38:31Z",
       "Content": "El precio del tipo de cambio continuó descendiendo. La cotización del dólar cerró la sesión de hoy miércoles 8 de enero en S/3.775, ligeramente por debajo de la víspera, cuando cerró en S/ 3.778.\r\nDu… [+1060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy 8 enero 2025. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano suma su segunda jornada de retrocesos, con lo que el precio del dólar hoy 8 de enero de 2025 cotiza en 20.43 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-8-enero-2025-tipo-cambio-bancos-mexico/1693186",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/08/3238953.jpg",
-      "PublishedAt": "2025-01-08T14:59:55Z",
-      "Content": "El peso mexicano suma su segunda jornada de retrocesos, con lo que el precio del dólar hoy 8 de enero de 2025 cotiza en 20.43 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘resiente’ amenazas de Trump a México: ¿Cuánto cede hoy ante el dólar?",
-      "Description": "Los mercados en Estados Unidos también resintieron las amenazas arancelarias de Trump contra México y Canadá, dos de sus mayores socios comerciales, por lo que Wall Street abrió a la baja.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/08/cuanto-pierde-el-peso-contra-el-dolar-por-amenazas-de-trump-hoy-8-de-enero-de-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SHOZGIULZJHRBGP5YFQO6YD67Q.jpg?smart=true&auth=7f92bd17aff1f0eb82daa45097160d6b582988c8ab19d14f3b08dc1ece8a0e62&width=1200&height=630",
-      "PublishedAt": "2025-01-08T14:35:20Z",
-      "Content": "El peso se ve afectado por las amenazas de aranceles de Donald Trump que insiste se aplicarán a México cuando tome protesta como presidente de Estados Unidos, por lo que el tipo de cambio se mueve al… [+2527 chars]"
     }
   ]
 }
