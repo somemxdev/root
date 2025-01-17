@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘rebota gacho’ ante el dólar: ¿Cuánto pierde HOY 16 de enero?",
+      "Description": "El peso mexicano venía acumulando una ganancia sostenida contra el dólar durante esta semana, pero ya borró todo lo avanzado en apenas una sesión.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/16/peso-dolar-precio-hoy-16-de-enero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/M4SDGN7OMFF4BI3QC5CBMQ2UDM.jpg?smart=true&auth=a14e4fa69aa6899496eb7d7ffa0243715b3e568c63b3118dd296bd46f8e22726&width=1200&height=630",
+      "PublishedAt": "2025-01-16T16:57:06Z",
+      "Content": "El peso mexicano se contrae muy fuerte ante el dólar este jueves 16 de enero como parte de una corrección después de los avances de las sesiones de esta semana y por el reporte de inflación en Estado… [+1515 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/SHOZGIULZJHRBGP5YFQO6YD67Q.jpg?smart=true&auth=7f92bd17aff1f0eb82daa45097160d6b582988c8ab19d14f3b08dc1ece8a0e62&width=1200&height=630",
       "PublishedAt": "2025-01-08T14:35:20Z",
       "Content": "El peso se ve afectado por las amenazas de aranceles de Donald Trump que insiste se aplicarán a México cuando tome protesta como presidente de Estados Unidos, por lo que el tipo de cambio se mueve al… [+2527 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 8 de enero de 2025",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 8 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-8-de-enero-de-2025-nid08012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-sesion-del-martes-el-peso-avanzo-pero-cerro-652EAX7PTFBVRBCQSNPATM54ZM.jpg?auth=208d6e66cbb731299ce410c189d1b49c548d99b9ae1ea1c79de96e9259595814&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-08T14:29:37Z",
-      "Content": "Este miércoles 8 de enero de 2025, el precio del dólar en México es de $20,3440, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloombe… [+2428 chars]"
     }
   ]
 }
