@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
+      "Title": "¿Dólar o euro? La divisa más fuerte en 2005 por la debilidad global y su estatus de refugio",
+      "Description": "La debilidad global y su estatus de refugio seguro hará que esta divisa sea la que destacará este año, según las proyecciones de Ebury. Auguran una perspectiva bajista para el euro, pero prevén la posición del dólar como divisa fuerte en 2005.",
+      "Url": "https://www.bolsamania.com/noticias/pulsos-materias-primas/dolar-euro-divisa-fuerte-2005-debilidad-global-estatus-refugio--18569226.html",
+      "UrlToImage": "https://img5.s3wfg.com/web/img/images_uploaded/6/e/ep_euro_dolar_portada.jpg",
+      "PublishedAt": "2025-01-17T05:00:00Z",
+      "Content": "La debilidad global y su estatus de refugio seguro hará que esta divisa sea la que destacará este año, según las proyecciones de Ebury. Auguran una perspectiva bajista para el euro, pero prevén la po… [+4202 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-09T12:14:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY jueves 9 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.1… [+905 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Nicolás Castillo Arévalo",
-      "Title": "Tipo de cambio: Dólar cierra en S/3.775",
-      "Description": "Los mercados muestran cautela mientras esperan los más recientes datos de empleo y la publicación de las minutas de la reunión de política monetaria de la FED.",
-      "Url": "https://peru21.pe/economia/tipo-de-cambio-dolar-cierra-en-s3775",
-      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2025-01/dolar-andina.jpg",
-      "PublishedAt": "2025-01-08T19:38:31Z",
-      "Content": "El precio del tipo de cambio continuó descendiendo. La cotización del dólar cerró la sesión de hoy miércoles 8 de enero en S/3.775, ligeramente por debajo de la víspera, cuando cerró en S/ 3.778.\r\nDu… [+1060 chars]"
     }
   ]
 }
