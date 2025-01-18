@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 17 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 17 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con una perdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se d…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2025-01-17T12:03:00Z",
+      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 17 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con una perdida del 0.27 por … [+893 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-jornada-del-9-de-enero-no-fue-positiva-para-el-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-09T14:13:27Z",
       "Content": "Este jueves 9 de enero, el precio del dólar en México es de $20,3823, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, e… [+2195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 9 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 9 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-09T12:14:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 9 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.43 pesos por unidad, con un fortalecimiento del 0.1… [+905 chars]"
     }
   ]
 }
