@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Khabarhub.com"
+      },
+      "Author": "Khabarhub",
+      "Title": "US dollar hits new high: Today’s foreign currency exchange rates",
+      "Description": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak. The dollar continues its upward trend, showing an increase again today. Other major currencies, including the Euro, British Pound Sterling, Swis…",
+      "Url": "https://english.khabarhub.com/2025/17/428748/",
+      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX.webp",
+      "PublishedAt": "2025-01-17T01:45:32Z",
+      "Content": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak.\r\nThe dollar continues its upward trend, showing an increase again today.\r\nOther majo… [+1602 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.zenfs.com/en/aol_reuters_29/11c4fcc882a60941e040eee58bc73971",
       "PublishedAt": "2024-12-17T02:29:31Z",
       "Content": "By Ankur Banerjee\r\nSINGAPORE (Reuters) - Asian stocks edged higher and the dollar held firm on Tuesday as traders braced for a slate of central banks meetings this week that is likely to see the U.S.… [+3757 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (VOA Persian)",
-      "Title": "VOA Persian: Record-breaking surge in dollar exchange rate in Iran",
-      "Description": "Amid growing dissatisfaction over power outages and widespread forced closures of schools, offices and industries, the U.S. dollar exchange rate in the Iranian market has hit a new record, surpassing 76,000 tomans as of Monday.\n\n\nThis surge in the foreign cur…",
-      "Url": "https://www.voanews.com/a/voa-persian-record-breaking-surge-in-dollar-exchange-rate-in-iran/7903871.html",
-      "UrlToImage": "https://gdb.voanews.com/F71CFEDC-3A42-43CF-957B-5ADE2B0DA594.jpg",
-      "PublishedAt": "2024-12-17T01:24:57Z",
-      "Content": "Amid growing dissatisfaction over power outages and widespread forced closures of schools, offices and industries, the U.S. dollar exchange rate in the Iranian market has hit a new record, surpassing… [+233 chars]"
     }
   ]
 }
