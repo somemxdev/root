@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Bank of America flags dollar longs as crowded, eyes global inflation concerns",
+      "Description": "Bank of America flags dollar longs as crowded, eyes global inflation concerns",
+      "Url": "https://www.investing.com/news/forex-news/bank-of-america-flags-dollar-longs-as-crowded-eyes-global-inflation-concerns-93CH-3818488",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB1M100_L.jpg",
+      "PublishedAt": "2025-01-17T10:34:42Z",
+      "Content": "Bank of America (BofA) analysts highlighted a shift in market sentiment, identifying long U.S. dollar positions as the most crowded trade, and now a significant headwind for the currency. This perspe… [+1434 chars]"
+    },
     {
       "Source": {
         "Id": "the-jerusalem-post",
