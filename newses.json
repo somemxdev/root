@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra por debajo de ¢505",
+      "Description": "Esta semana el precio del dólar se aproximó a los ¢500, pero repuntó en las últimas dos sesiones del Monex hasta acercarse a ¢505.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-por-debajo-de-505/D2ANMYOJEJEARHVVYS5ZP3G6HM/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/JRHZ3DXVB5ARDAGZBCAJ6D7VXE.jpg?smart=true&auth=226f44d2701bf37264231d8f5c899baf4613a3a60dcfc579422a79d1145687d6&width=1440",
+      "PublishedAt": "2025-01-17T21:30:51Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró este viernes por debajo de los ¢505 en el Mercado de Monedas Extranjeras (Monex), en una semana donde la moneda se acercó a los ¢500.Este viernes 1… [+2556 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-10T12:05:00Z",
       "Content": "Si te preguntas a cuánto está eldólar HOY viernes 10 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.51 pesos por unidad, con un fortalecimiento del 0.… [+895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante dólar fortalecido y datos de inflación en México",
-      "Description": "Forbes México.\n Peso retrocede ante dólar fortalecido y datos de inflación en México\n\nEn el mercado local crecen las expectativas de que Banxico seguirá reduciendo su tasa de interés clave tras la desaceleración de los precios al cierre de 2024. \nPeso retroce…",
-      "Url": "https://forbes.com.mx/peso-retrocede-ante-dolar-fortalecido-y-datos-de-inflacion-en-mexico/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-FER_0412.webp",
-      "PublishedAt": "2025-01-09T22:43:32Z",
-      "Content": "El peso retrocedió este jueves por un avance global del dólar y luego de la publicación de cifras de inflación en México al cierre de 2024, que fortalecieron expectativas de que Banco de México segui… [+2434 chars]"
     }
   ]
 }
