@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Khabarhub.com"
+      },
+      "Author": "Khabarhub",
+      "Title": "US Dollar becomes costlier: Today’s foreign currency exchange rates",
+      "Description": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak. The dollar has reached a new record high, alongside increases in the exchange rates of other major currencies such as the Euro, British Pound St…",
+      "Url": "https://english.khabarhub.com/2025/18/428961/",
+      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX.webp",
+      "PublishedAt": "2025-01-18T00:45:02Z",
+      "Content": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak.\r\nThe dollar has reached a new record high, alongside increases in the exchange rates… [+1407 chars]"
+    },
     {
       "Source": {
         "Id": null,
