@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 18 de enero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 18 de enero el tipo de cambio interbancario, se ubica en 20.78 pesos por unidad, con una pérdida del 0.28 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose apreció …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-01-18T13:40:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 18 de enero el tipo de cambio interbancario, se ubica en 20.78 pesos por unidad, con una pérdida del 0.28 por ciento… [+1996 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-de-susan-b-anthony-de-1980-imagen-del-3MT2WZ3O3VG6NLHNRWEPUZJETE.jpg?auth=d2f146d32bbc5219bdd211f9f9e7fe41fead1297e268688d7231e9c12cb21b4c&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-10T13:07:23Z",
       "Content": "El mercado de las monedas viejas crece cada vez más. Aquellas de ediciones limitadas con detalles particulares, o que tuvieron un error específico en su acuñación, puede llevar a grandes ofrecimiento… [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY viernes 10 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 10 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.51 pesos por unidad, con un fortalecimiento del 0.03 por ciento, según datos de Bloomberg.Ayer, el peso mexic…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-10T12:05:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 10 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.51 pesos por unidad, con un fortalecimiento del 0.… [+895 chars]"
     }
   ]
 }
