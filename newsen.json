@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar drifts ahead of Trump's return to the White House - Yahoo Finance",
+      "Description": "Dollar drifts ahead of Trump's return to the White HouseYahoo Finance Dollar dips, stocks creep higher as second Trump term dawnsReuters Hong Kong stocks lead gains in Asia-Pacific ahead of Donald Trump's inaugurationCNBC Stock market today: Asian shares gain…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175978645",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-20T08:33:05Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
