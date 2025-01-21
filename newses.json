@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano el día de la toma de posesión de Trump: a cuánto cotiza este lunes 20 de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este lunes 20 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-el-dia-de-la-toma-de-posesion-de-trump-a-cuanto-cotiza-este-lunes-20-de-nid20012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-lunes-los-mercados-accionarios-en-eeuu-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-01-20T15:13:23Z",
+      "Content": "Este lunes 20 de enero, el precio del dólar en México es de $20,718, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día que está marcado por la investidura… [+2529 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-01-11T13:38:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 11 de enero el tipo de cambio interbancario, se ubica en 20.71 pesos por unidad, con una ganancia del 1.00 por cient… [+1966 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Y todavía no llega Trump... Peso se deprecia más de 1% contra el dólar tras reporte de empleo en EU",
-      "Description": "Los mercados 'temen' que en 2025, los miembros de la Reserva Federal serán más precavidos y por ello hagan menos recortes a la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/10/peso-dolar-precio-hoy-10-de-enero-de-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/QIFDOESONRC3JKPCMPDP5QMUBA.jpg?smart=true&auth=6720c676c037bcdc3f6cc798e9dcbd83d1dcb57d72b769a3e99f1d5ecfaf4cfe&width=1200&height=630",
-      "PublishedAt": "2025-01-10T17:09:41Z",
-      "Content": "El peso mexicano, que teme la llegada de Donald Trump, cae ante el dólar en la sesión de este viernes 10 de enero tras el reporte de empleo en Estados Unidos, cuyos datos refuerzan la expectativa de … [+1987 chars]"
     }
   ]
 }
