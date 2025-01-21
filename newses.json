@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "elEconomista.es",
+      "Title": "El dólar vive su peor sesión frente al euro en meses ante el posible giro en la política comercial de Trump",
+      "Description": "El dólar está cayendo un 1,2% frente al euro, un descenso pronunciado, teniendo en cuenta que es el mayor desde noviembre de 2023 y que, habitualmente, los movimientos son más contenidos en el mercado de divisas. En el día en el que Donald Trump toma posesión…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13180004/01/25/el-dolar-vive-su-peor-sesion-frente-al-euro-en-14-meses-tras-el-giro-en-la-politica-comercial-de-trump.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/6235x3403/2/d/5/1200x655_investidura-Trump-bloomberg.jpg",
+      "PublishedAt": "2025-01-20T17:26:04Z",
+      "Content": "El dólar está cayendo un 1,2% frente al euro, un descenso pronunciado, teniendo en cuenta que es el mayor desde noviembre de 2023 y que, habitualmente, los movimientos son más contenidos en el mercad… [+2854 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-numismatica-disciplina-que-estudia-y-XRWRUVBSVNGHHKSCASC6JXWXFQ.jpg?auth=1a77256f5d34bb7b2170bb394a4ec9ba4d326102ad167ddc7c3f465f2ddce1d4&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-11T16:43:00Z",
       "Content": "Una moneda de cinco centavos acuñada en 1983 está causando revuelo entre coleccionistas y curiosos. Aunque parece una moneda ordinaria, su precio en subastas puede alcanzar cifras sorprendentes, lleg… [+2262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 11 de enero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 11 de enero el tipo de cambio interbancario, se ubica en 20.71 pesos por unidad, con una ganancia del 1.00 por ciento, según datos de Bloomberg.Ayer, el peso mexicanose depreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-01-11T13:38:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 11 de enero el tipo de cambio interbancario, se ubica en 20.71 pesos por unidad, con una ganancia del 1.00 por cient… [+1966 chars]"
     }
   ]
 }
