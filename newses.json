@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Políticas de Trump arrastran al peso! Precio del dólar hoy 21 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada con pérdidas tras el discurso y la serie de medidas anunciadas por Donald Trump, con lo que actualmente el precio del dólar hoy 21 de enero de 2025 cotiza en 20.75 unidades por cada billete verde; conoce a…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-21-enero-2025-tipo-cambio-bancos-mexico/1695459",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/21/3245923.jpg",
+      "PublishedAt": "2025-01-21T14:35:54Z",
+      "Content": "El peso mexicano arranca la jornada con pérdidas tras el discurso y la serie de medidas anunciadas por Donald Trump, con lo que actualmente el precio del dólar hoy 21 de enero de 2025 cotiza en 20.75… [+1602 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-sube-frente-al-peso-mexicano-durante-las-4PIEV32BNNANPEIZMBMM6OLXTY.jpg?auth=1fb25f45094e5d9bf9b8566baaa987ab944871c8bd549643c065a499840da096&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-13T15:05:07Z",
       "Content": "Este lunes 13 de enero, el precio del dólar en México es de $20,7045, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún Bloomberg Línea, en las pr… [+2374 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso extiende pérdidas! Precio del dólar hoy 13 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arrancó la semana con su quinta sesión de pérdidas, con lo que el precio del dólar hoy 13 de enero de 2025 cotiza en 20.78 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-13-enero-2025-tipo-cambio-bancos-mexico/1693997",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/13/3241372.jpg",
-      "PublishedAt": "2025-01-13T13:55:19Z",
-      "Content": "El peso mexicano arrancó la semana con su quinta sesión de pérdidas, con lo que el precio del dólar hoy 13 de enero de 2025 cotiza en 20.78 unidades por cada billete verde; conoce aquí cuál es el tip… [+1303 chars]"
     }
   ]
 }
