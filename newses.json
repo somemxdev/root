@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "Dólar: el Banco Central ya usó US$1602 millones para comprar bonos en dólares y contener la brecha cambiaria",
+      "Description": "El dato, que corresponde al acumulado desde que se inició el programa, fue presentado por el vicepresidente de la entidad, Vladimir Werning, en una exposición ante inversores en Londres; solo en la primera quincena de enero, el monto asciende a US$619 millones",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-banco-central-ya-uso-us1602-millones-para-comprar-bonos-en-dolares-y-contener-la-brecha-nid21012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-usa-dolares-de-sus-reservas-para-bajar-la-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-01-21T20:53:59Z",
+      "Content": "El Banco Central oficializó los números de su intervención en el mercado financiero. En un contexto de calma de los tipos de cambio libres, el ente monetario destina parte de sus reservas a operacion… [+3865 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/14/3241868.jpg",
       "PublishedAt": "2025-01-14T14:24:56Z",
       "Content": "El peso mexicano recompuso el camino al apreciarse en la jornada de este martes, con lo que el precio del dólar hoy 14 de enero de 2025 cotiza en 20.59 unidades por cada billete verde; conoce aquí cu… [+1747 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 14 de enero de 2025",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 14 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-14-de-enero-de-2025-nid14012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-14T14:00:33Z",
-      "Content": "Este martes 14 de enero, el precio del dólar en México es de $20,8012, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2092 chars]"
     }
   ]
 }
