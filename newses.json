@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 21 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 21 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del 1.14 por ciento, según datos de Bloomberg.Ayer, el peso mexican…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2025-01-21T12:14:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 21 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del 1.… [+928 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/13/3241372.jpg",
       "PublishedAt": "2025-01-13T13:55:19Z",
       "Content": "El peso mexicano arrancó la semana con su quinta sesión de pérdidas, con lo que el precio del dólar hoy 13 de enero de 2025 cotiza en 20.78 unidades por cada billete verde; conoce aquí cuál es el tip… [+1303 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 13 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY lunes 13 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con un fortalecimiento del 0.34 por ciento, según datos de Bloomberg.El viernes, el peso m…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-13T12:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 13 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con un fortalecimiento del 0.3… [+942 chars]"
     }
   ]
 }
