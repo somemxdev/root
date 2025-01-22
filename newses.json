@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Vaivén del peso ante un fortalecido dólar con nuevo gobierno",
+      "Description": "La incertidumbre se prolongó para México. No pasaron ni 12 horas de su segunda toma de posesión, cuando las declaraciones de Donald Trump, presidente de Estados Unidos, volvieron a golpear al peso mexicano, esta vez, con el anuncio de imponer aranceles de 25 …",
+      "Url": "https://www.jornada.com.mx/2025/01/21/politica/014n2pol",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-01-21T09:19:03Z",
+      "Content": "Periódico La JornadaMartes 21 de enero de 2025, p. 14\r\nLa incertidumbre se prolongó para México. No pasaron ni 12 horas de su segunda toma de posesión, cuando las declaraciones de Donald Trump, presi… [+1950 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-13T12:07:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 13 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con un fortalecimiento del 0.3… [+942 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así se ve la moneda de cinco centavos de dólar que podría valer hasta US$1000: podrías tenerla en el bolsillo sin saberlo",
-      "Description": "Aunque a simple vista parece una pieza común y corriente, un ejemplar de 1983 año sorprende a los coleccionistas y expertos en numismática",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-se-ve-la-moneda-de-cinco-centavos-de-dolar-que-podria-valer-hasta-us1000-podrias-tenerla-en-el-nid11012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-numismatica-disciplina-que-estudia-y-XRWRUVBSVNGHHKSCASC6JXWXFQ.jpg?auth=1a77256f5d34bb7b2170bb394a4ec9ba4d326102ad167ddc7c3f465f2ddce1d4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-11T16:43:00Z",
-      "Content": "Una moneda de cinco centavos acuñada en 1983 está causando revuelo entre coleccionistas y curiosos. Aunque parece una moneda ordinaria, su precio en subastas puede alcanzar cifras sorprendentes, lleg… [+2262 chars]"
     }
   ]
 }
