@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Dólar, migrantes y aranceles: México el 'día después' de Trump",
+      "Description": "El país deberá negociar por segunda vez con el mandatario estadounidense y enfrentará grandes retos sobre todo a nivel económico.",
+      "Url": "https://actualidad.rt.com/actualidad/537878-dolar-migrantes-aranceles-mexico-despues-trump",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.01/article/678fbfcee9ff7118c1664628.jpg",
+      "PublishedAt": "2025-01-21T18:22:38Z",
+      "Content": "La toma de posesión de Donald Trump como presidente de los EE.UU. en un segundo mandato ha dejado una gran resaca en todo el mundo. México es uno de los países que más se juega con el cambio en la ad… [+4870 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SCHRIBVMK5APLFNYJIOEU3FO6Q.jpg?auth=88f0f6b5f60e26403009ae4347efed4ed523b6a0f7e6c3336a822ba8c31ffdbe&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-14T14:00:33Z",
       "Content": "Este martes 14 de enero, el precio del dólar en México es de $20,8012, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2092 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 14 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY martes 14 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.64 pesos por unidad, con un fortalecimiento del 0.05 por ciento, según datos de Bloomberg.Ayer, el peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-14T12:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY martes 14 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.64 pesos por unidad, con un fortalecimiento del 0.… [+905 chars]"
     }
   ]
 }
