@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Canadian Dollar, Mexican Peso drop amid Trump's tariff threats",
+      "Description": "Canadian Dollar, Mexican Peso drop amid Trump's tariff threats",
+      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-mexican-peso-drop-amid-trumps-tariff-threats-3820888",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NK_L.jpg",
+      "PublishedAt": "2025-01-21T04:50:07Z",
+      "Content": "Investing.com-- The Canadian dollar and the Mexican peso declined on Tuesday following U.S. President Donald Trump's inauguration, during which he indicated plans to impose new tariffs on imports fro… [+1123 chars]"
+    },
     {
       "Source": {
         "Id": null,
