@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este 22 de enero y cómo impactan las medidas de Trump",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa americana este 22 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-22-de-enero-y-como-impactan-las-medidas-nid22012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-peso-mexicano-gana-terreno-frente-al-dolar-RSZCLQB5S5CWXG6P5NA2MI242U.jpg?auth=0300a0c93e6815c44518e0e17567f57ecf9bc48b07f8f708683d2fd9dea1d142&width=1200&quality=70&smart=false&height=798",
+      "PublishedAt": "2025-01-22T14:01:11Z",
+      "Content": "Este miércoles 22 de enero de 2025, el precio del dólar en México es de $20,6358, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día tras laasunción de Don… [+2266 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-15T12:09:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 15 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con una baja del 0.01 por … [+943 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El Banco Central bajará al 1% mensual el ritmo de ajuste del dólar oficial",
-      "Description": "Se trata del primer cambio en la política cambiaria desde mediados de diciembre de 2023; busca profundizar la baja de la inflación",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/el-banco-central-confirmo-que-baja-al-1-mensual-el-ritmo-de-ajuste-del-dolar-oficial-nid14012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-confirmo-que-reduce-el-ritmo-de-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-14T20:24:07Z",
-      "Content": "Luego de que se conociera que la inflación de diciembre fue del 2,7% mensual, el Banco Central confirmó que reducirá el ritmo de devaluación del dólar oficial mayorista del 2% al 1% mensual a partir … [+1037 chars]"
     }
   ]
 }
