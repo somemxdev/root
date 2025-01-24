@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man charged with falsifying accounts, forgery",
+      "Description": "Wang Junjie is the second Singaporean to be charged in the case.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-wang-junjie-charged-forgery-falsifying-accounts-4891006",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--r6Rmhr81--/c_crop,h_900,w_1600,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/01/23/IMG_9211.jpg?itok=wpWeOfAY",
+      "PublishedAt": "2025-01-23T03:47:00Z",
+      "Content": "SINGAPORE: A man was charged on Thursday (Jan 23) with 15 offences, including forgery and falsifying accounts, in a S$3 billion (US$2.2 billion) money laundering case.\r\nWang Junjie, 42, is the second… [+1214 chars]"
+    },
     {
       "Source": {
         "Id": null,
