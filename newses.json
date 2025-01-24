@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana tras dato de la inflación! Precio del dólar hoy 23 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia tras el reporte de la inflación, con lo que actualmente el precio del dólar hoy 23 de enero de 2025 cotiza en 20.46 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-23-enero-2025-tipo-cambio-bancos-mexico/1695886",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/23/3247210.jpg",
+      "PublishedAt": "2025-01-23T14:15:21Z",
+      "Content": "El peso mexicano se aprecia tras el reporte de la inflación, con lo que actualmente el precio del dólar hoy 23 de enero de 2025 cotiza en 20.46 unidades por cada billete verde; conoce aquí cuál es el… [+1658 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 23 de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 23 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-23-de-enero-nid23012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-23-de-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-23T14:10:01Z",
+      "Content": "Este jueves 23 de enero, el precio del dólar en México es de $20,5397, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2265 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-jueves-16-de-enero-el-peso-se-ve-afectado-por-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-16T13:53:52Z",
       "Content": "Este jueves 16 de enero, el precio del dólar en México es de $20,4875, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2106 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY jueves 16 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 16 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.60 pesos por unidad, con un fortalecimiento del 0.68 por ciento, según datos de Bloomberg.Ayer, el peso mexica…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2025-01-16T12:04:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 16 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.60 pesos por unidad, con un fortalecimiento del 0.… [+930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar se aproxima a los ¢500 en el Monex",
-      "Description": "El precio de la divisa en el Monex fue de ¢502,20 este miércoles 15 de enero, ¢3,74 menos que el mismo día de la semana pasada.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-se-aproxima-a-los-500-en/Z5U46A7NQVET5FM44CVH4XGCTQ/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/TCHQZ3OAOVBUNEZDNLXF6MXMXQ.jpg?smart=true&auth=6052cbecc22b4e7e1adfaea6ab28755c8b356f503b0b27efc8c63c60cf9cf36b&width=1440",
-      "PublishedAt": "2025-01-15T21:07:20Z",
-      "Content": "El tipo de cambio del dólar respecto al colón se aproxima a los ¢500 en el Mercado de Monedas Extranjeras (Monex). Actualmente, la economía de Costa Rica está en la temporada alta de divisas, lo que … [+3148 chars]"
     }
   ]
 }
