@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 23 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY jueves 23 de eneroinicia operaciones con el tipo de cambio interbancarioen 20.50 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.Ayer, el peso mexicano repuntaba ante un declive global del dólar, mientras los…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2025-01-23T12:13:00Z",
+      "Content": "Eldólar HOY jueves 23 de enero inicia operaciones con el tipo de cambio interbancario en 20.50 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.\r\nAyer, el peso m… [+856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/TCHQZ3OAOVBUNEZDNLXF6MXMXQ.jpg?smart=true&auth=6052cbecc22b4e7e1adfaea6ab28755c8b356f503b0b27efc8c63c60cf9cf36b&width=1440",
       "PublishedAt": "2025-01-15T21:07:20Z",
       "Content": "El tipo de cambio del dólar respecto al colón se aproxima a los ¢500 en el Mercado de Monedas Extranjeras (Monex). Actualmente, la economía de Costa Rica está en la temporada alta de divisas, lo que … [+3148 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘desplaza’ al dólar tras cifras de inflación de EU: ¿Cómo cotiza HOY 15 de enero?",
-      "Description": "La moneda mexicana amplió sus ganancias frente a la moneda estadounidense este miércoles 15 de enero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/15/precio-del-dolar-este-miercoles-15-de-enero-tipo-de-cambio/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/3N6UAIULYZCJVMOXL3N45EFEUE.jpg?smart=true&auth=b6cd173f54d475cea18d51b85abfa20ca9abbb9b719c0f8254b9329e50578c90&width=1200&height=630",
-      "PublishedAt": "2025-01-15T17:30:17Z",
-      "Content": "La moneda mexicana amplió sus ganancias frente a la moneda estadounidense luego de que se dio a conocer que, la inflación, durante el mes de diciembre en Estados Unidos, se ubicó en una tasa anual de… [+1599 chars]"
     }
   ]
 }
