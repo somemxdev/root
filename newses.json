@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central no pudo comprar reservas, que perforaron los US$30.000 millones",
+      "Description": "La entidad lleva tres ruedas consecutivas sin sumar divisas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-bcra-no-pudo-comprar-y-las-reservas-brutas-perforaron-los-us30000-millones-nid23012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-23T20:21:28Z",
+      "Content": "El Banco Central (BCRA) no pudo comprar reservas por tercer día consecutivo, pese a la brusca reducción que mostró el monto de negocios operados por la plaza cambiaria oficial. Eso colaboró para que … [+3609 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/M4SDGN7OMFF4BI3QC5CBMQ2UDM.jpg?smart=true&auth=a14e4fa69aa6899496eb7d7ffa0243715b3e568c63b3118dd296bd46f8e22726&width=1200&height=630",
       "PublishedAt": "2025-01-16T16:57:06Z",
       "Content": "El peso mexicano se contrae muy fuerte ante el dólar este jueves 16 de enero como parte de una corrección después de los avances de las sesiones de esta semana y por el reporte de inflación en Estado… [+1515 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae previo a investidura de Trump! Precio del dólar hoy 16 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano regresa a terreno negativo luego de tres jornadas de ganancias, con lo que el precio del dólar hoy 16 de enero de 2025 cotiza en 20.60 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxic…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-16-enero-2025-tipo-cambio-bancos-mexico/1694637",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/16/3243313.jpg",
-      "PublishedAt": "2025-01-16T14:39:42Z",
-      "Content": "El peso mexicano regresa a terreno negativo luego de tres jornadas de ganancias, con lo que el precio del dólar hoy 16 de enero de 2025 cotiza en 20.60 unidades por cada billete verde; conoce aquí cu… [+1692 chars]"
     }
   ]
 }
