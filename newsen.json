@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEH71103_L.jpg",
       "PublishedAt": "2024-12-31T23:06:07Z",
       "Content": "MEXICO CITY (Reuters) - Mexico's peso weakened nearly 23% this year to close the final day of trading at 20.82 pesos per U.S. dollar on Tuesday, the currency's deepest drop against the greenback sinc… [+1028 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Katherine Tangalakis-Lippert",
-      "Title": "I left my multimillion-dollar career as a producer in Hollywood to start a longevity business. I make less money but haven't looked back.",
-      "Description": "Gary Binkow was an Emmy award-winning producer who is happier now that he's left his multimillion-dollar Hollywood career to start a longevity business.",
-      "Url": "https://www.businessinsider.com/gary-binkow-producer-left-hollywood-pursue-second-career-longevity-wellness-2024-12",
-      "UrlToImage": "https://i.insider.com/6760893fd0de6a4f27d3367c?width=1200&format=jpeg",
-      "PublishedAt": "2024-12-23T13:00:02Z",
-      "Content": "Gary Binkow was a Hollywood producer before he sold his media company and pivoted to a new business in the wellness industry.Gary Binkow\r\n<ul><li>Gary Binkow was an Emmy award-winning and Academy Awa… [+4917 chars]"
     }
   ]
 }

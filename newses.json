@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY viernes 24 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY viernes 24 de eneroinició operaciones con el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreciaba mientras los inversionistas asi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2025-01-23T21:25:22Z",
+      "Content": "El dólar HOY viernes 24 de enero inició operaciones con el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.\r\nAyer… [+873 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/6ADROSDDJVBWNEBNXQH3VAEDEM_1.jpg?itok=I3o4-Qq_",
       "PublishedAt": "2025-01-16T20:06:35Z",
       "Content": "El dólar cerró la jornada de hoy cotizándose en S/3.760, por debajo de los S/3.764 de un día anterior, según cifras del Banco Central de Reserva (BCR). Con este resultado, el billete verde acumula un… [+1509 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘rebota gacho’ ante el dólar: ¿Cuánto pierde HOY 16 de enero?",
-      "Description": "El peso mexicano venía acumulando una ganancia sostenida contra el dólar durante esta semana, pero ya borró todo lo avanzado en apenas una sesión.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/16/peso-dolar-precio-hoy-16-de-enero-de-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/M4SDGN7OMFF4BI3QC5CBMQ2UDM.jpg?smart=true&auth=a14e4fa69aa6899496eb7d7ffa0243715b3e568c63b3118dd296bd46f8e22726&width=1200&height=630",
-      "PublishedAt": "2025-01-16T16:57:06Z",
-      "Content": "El peso mexicano se contrae muy fuerte ante el dólar este jueves 16 de enero como parte de una corrección después de los avances de las sesiones de esta semana y por el reporte de inflación en Estado… [+1515 chars]"
     }
   ]
 }
