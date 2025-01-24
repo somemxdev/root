@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘relaja’ tras discurso de Trump en Davos: ¿Cuánto gana al dólar HOY?",
+      "Description": "Donald Trump reiteró sus planes de utilizar aranceles para regresar trabajos de manufactura a Estados Unidos, pero no mencionó directamente a México en su discurso en Davos. ¿Cómo reaccionó el peso?",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/23/tipo-de-cambio-en-vivo-hoy-23-de-enero-de-2025-discurso-de-trump-en-davos/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GT77NWIXJVH5ZJVE55HZ5V446A.jpeg?smart=true&auth=bd3e43dc3fea511fff94d6d0d90c21e0fe893c5d299cfd9704bb52535319585b&width=1200&height=630",
+      "PublishedAt": "2025-01-23T17:10:53Z",
+      "Content": "El peso mexicano gana al dólar en una sesión que estará marcada por el discurso del presidente Donald Trump en el Foro Económico de Davos 2025, en donde se prevé que haga anuncios sobre la política c… [+2750 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/16/3243313.jpg",
       "PublishedAt": "2025-01-16T14:39:42Z",
       "Content": "El peso mexicano regresa a terreno negativo luego de tres jornadas de ganancias, con lo que el precio del dólar hoy 16 de enero de 2025 cotiza en 20.60 unidades por cada billete verde; conoce aquí cu… [+1692 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 16 de enero",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 16 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-16-de-enero-nid16012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-jueves-16-de-enero-el-peso-se-ve-afectado-por-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-16T13:53:52Z",
-      "Content": "Este jueves 16 de enero, el precio del dólar en México es de $20,4875, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2106 chars]"
     }
   ]
 }
