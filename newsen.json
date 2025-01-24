@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://i.insider.com/6760893fd0de6a4f27d3367c?width=1200&format=jpeg",
       "PublishedAt": "2024-12-23T13:00:02Z",
       "Content": "Gary Binkow was a Hollywood producer before he sold his media company and pivoted to a new business in the wellness industry.Gary Binkow\r\n<ul><li>Gary Binkow was an Emmy award-winning and Academy Awa… [+4917 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Stocks Rise on Fed Cut Bets; Dollar Stabilizes: Markets Wrap - Yahoo Finance",
-      "Description": "Stocks Rise on Fed Cut Bets; Dollar Stabilizes: Markets WrapYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175737901",
-      "UrlToImage": null,
-      "PublishedAt": "2024-12-23T05:33:06Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
