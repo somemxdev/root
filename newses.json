@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 24 de enero",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 24 de enero de 2025",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-24-de-enero-nid24012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-cierre-de-la-sesion-del-jueves-los-tres-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-01-24T15:08:34Z",
+      "Content": "Este viernes 24 de enero, el precio del dólar en México es de $20,3943, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea,… [+2457 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/17/3244051.jpg",
       "PublishedAt": "2025-01-17T14:31:18Z",
       "Content": "El peso mexicano se recuperó tras haber tocado su peor nivel desde 2022, con lo que el precio del dólar hoy 17 de enero de 2025 cotiza en 20.80 unidades por cada billete verde; conoce aquí cuál es el… [+1365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 17 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY viernes 17 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con una perdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2025-01-17T12:03:00Z",
-      "Content": "Si te preguntas a cuánto está eldólar HOY viernes 17 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.78 pesos por unidad, con una perdida del 0.27 por … [+893 chars]"
     }
   ]
 }
