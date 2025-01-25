@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y Adriana Arcos",
+      "Title": "Tiene peso mayor plusvalía en 19 semanas; cae dólar a 20.26",
+      "Description": "El peso mexicano registró su mejor resultado en 19 semanas, cortando una racha negativa de cuatro semanas y a pesar del regreso de Trump.",
+      "Url": "https://www.reforma.com/tiene-peso-mayor-plusvalia-en-19-semanas-cae-dolar-a-20-26/ar2942509",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/855/5854753.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-01-24T20:49:41Z",
+      "Content": "04 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (24 enero 2025) .-14:45 hrs"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central volvió a vender reservas y cerró su peor semana en un mes",
+      "Description": "Se desprendió de otros US$4 millones y así cedió por esta vía US$119 millones esta semana, tras haber comprado US$639 millones en la anterior",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-volvio-a-vender-reservas-y-cerro-su-peor-semana-en-un-mes-nid24012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-reservas-del-bcra-cayeron-por-debajo-de-los-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-24T20:02:36Z",
+      "Content": "El Banco Central (BCRA) cerró su peor semana del año en materia de intervenciones sobre la plaza cambiaria oficial, al tener que asistir con hoy otros US$4 millones al mercado. De esta manera el sald… [+2821 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-01-18T13:40:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 18 de enero el tipo de cambio interbancario, se ubica en 20.78 pesos por unidad, con una pérdida del 0.28 por ciento… [+1996 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra por debajo de ¢505",
-      "Description": "Esta semana el precio del dólar se aproximó a los ¢500, pero repuntó en las últimas dos sesiones del Monex hasta acercarse a ¢505.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-por-debajo-de-505/D2ANMYOJEJEARHVVYS5ZP3G6HM/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/JRHZ3DXVB5ARDAGZBCAJ6D7VXE.jpg?smart=true&auth=226f44d2701bf37264231d8f5c899baf4613a3a60dcfc579422a79d1145687d6&width=1440",
-      "PublishedAt": "2025-01-17T21:30:51Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró este viernes por debajo de los ¢505 en el Mercado de Monedas Extranjeras (Monex), en una semana donde la moneda se acercó a los ¢500.Este viernes 1… [+2556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Miguel Moscosa",
-      "Title": "Peso se recupera del ‘portazo’ del dólar: ¿Cuánto se aprecia HOY 17 de enero?",
-      "Description": "Monex advirtió que en un escenario muy pesimista, el tipo de cambio se podría disparar hasta las 21.30 unidades el próximo lunes 20 de enero tras la toma de protesta de Donald Trump en EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/17/peso-dolar-precio-hoy-17-de-enero-de-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GOVIOF3XERHCPGUVNXGWYGH5TE.jpg?smart=true&auth=e2c6a37cb3b53627cea99e8cadb0c69851e4a74c86d2f57cb327c44dbed90896&width=1200&height=630",
-      "PublishedAt": "2025-01-17T16:56:14Z",
-      "Content": "El peso mexicano, que se descalabró ante el dólar, abre la sesión de este viernes 17 de enero con ganancias en la última sesión previa a la toma de protesta de Donald Trump como presidente de Estados… [+1818 chars]"
     }
   ]
 }
