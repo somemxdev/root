@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Una moneda de 25 centavos de dólar se vende por US$48.300: cómo saber si la que tengo es valiosa",
+      "Description": "El ejemplar conocido como “Standing Liberty” alcanza precios elevados en el mercado de subastas; su historia, diseño y baja tirada captan la atención de coleccionistas en todo el mundo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/una-moneda-de-25-centavos-de-dolar-se-vende-por-us48300-como-saber-si-la-que-tengo-es-valiosa-nid24012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-de-25-centavo-que-logran-un-precio-R6VHPARFYFFCLPUQGANK7PXSWE.jpg?auth=29354a37d66891a798a0ee44919e06ab54e99cf0202776842a883dc203920051&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-24T16:37:33Z",
+      "Content": "La Casa de la Moneda de Estados Unidos ha producido piezas únicas a lo largo de su historia, pero pocas han generado tanto interés como la moneda de 25 centavos Standing Liberty de 1916. Aunque su va… [+3306 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GOVIOF3XERHCPGUVNXGWYGH5TE.jpg?smart=true&auth=e2c6a37cb3b53627cea99e8cadb0c69851e4a74c86d2f57cb327c44dbed90896&width=1200&height=630",
       "PublishedAt": "2025-01-17T16:56:14Z",
       "Content": "El peso mexicano, que se descalabró ante el dólar, abre la sesión de este viernes 17 de enero con ganancias en la última sesión previa a la toma de protesta de Donald Trump como presidente de Estados… [+1818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera tras tocar peor nivel desde 2022! Precio del dólar hoy 17 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recuperó tras haber tocado su peor nivel desde 2022, con lo que el precio del dólar hoy 17 de enero de 2025 cotiza en 20.80 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-17-enero-2025-tipo-cambio-bancos-mexico/1694852",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/17/3244051.jpg",
-      "PublishedAt": "2025-01-17T14:31:18Z",
-      "Content": "El peso mexicano se recuperó tras haber tocado su peor nivel desde 2022, con lo que el precio del dólar hoy 17 de enero de 2025 cotiza en 20.80 unidades por cada billete verde; conoce aquí cuál es el… [+1365 chars]"
     }
   ]
 }
