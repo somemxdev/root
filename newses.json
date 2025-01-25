@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Carla Quiroga",
+      "Title": "Créditos hipotecarios: el Banco Central obliga a los bancos a informar la comisión que cobran al vender dólar MEP",
+      "Description": "Durante el año pasado se otorgaron US$830 millones en créditos hipotecarios UVA, de los cuales US$240 millones fueron dados en diciembre, el máximo desde mayo de 2018",
+      "Url": "https://www.lanacion.com.ar/propiedades/creditos-hipotecarios-el-banco-central-obliga-a-los-bancos-a-informar-la-comision-que-cobran-al-nid23012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/creditos-hipotecarios-el-banco-central-obligara-a-X6T53YJ4QNGS7BFMWRR6MME2TI.jpg?auth=d10c96afae4587f9a0d65e23b06956afc715a82b8f64cbcb77b3a13c281c10d1&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-24T00:47:58Z",
+      "Content": "El sector inmobiliario cerró el tercer mejor diciembre en 17 años en la compraventa de propiedades de la ciudad de Buenos Aires.\r\nEn el balance anual, los números también son alentadores:con casi 55.… [+3815 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-01-16T20:53:30Z",
       "Content": "El peso tuvo este jueves su retroceso más amplio desde el 30 de diciembre, mientras crece la cautela de inversionistas a medida que se acerca el regreso de Trump a la Casa Blanca.\r\nEl dólar se ubicó … [+2236 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Fabiana Sanchez",
-      "Title": "Dólar hoy: Tipo de cambio cerró en S/3.76",
-      "Description": "Moneda de Estados Unidos retrocedió | Billete verde | Economía | Banco Central de Reserva | Renta4 SAB | PBI | Venta | Compra",
-      "Url": "https://peru21.pe/economia/dolar-hoy-tipo-de-cambio-cerro-en-s376",
-      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/6ADROSDDJVBWNEBNXQH3VAEDEM_1.jpg?itok=I3o4-Qq_",
-      "PublishedAt": "2025-01-16T20:06:35Z",
-      "Content": "El dólar cerró la jornada de hoy cotizándose en S/3.760, por debajo de los S/3.764 de un día anterior, según cifras del Banco Central de Reserva (BCR). Con este resultado, el billete verde acumula un… [+1509 chars]"
     }
   ]
 }
