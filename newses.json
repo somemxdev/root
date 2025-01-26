@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY sábado 25 de enero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 20.26 pesos por unidad, con una pérdida del 0.58 por ciento, según datos de Bloomberg.Ayer, el peso mexicanoy la bolsa …",
+      "Url": "https://www.milenio.com/internacional/precio-del-dolar-hoy-25-enero-2024-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-01-25T13:36:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 20.26 pesos por unidad, con una pérdida del 0.58 por ciento… [+1587 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/4V4LZCYX6JFRRCFUT2C2GF6M7E.jpeg?smart=true&auth=b950c87e9d1378a369330c86591826bcb3b1784bdd17cca07c128d1447fda3c8&width=1200&height=630",
       "PublishedAt": "2025-01-20T14:12:56Z",
       "Content": "El Día D para el peso mexicano llegó: La toma de protesta de Donald Trump como presidente de Estados Unidos es hoy y la moneda nacional abre con apreciación frente al dólar. \r\nEl peso mexicano es una… [+2111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae previo a investidura de Trump! Precio del dólar hoy 20 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede previo a la toma de posesión de Donald Trump, con lo que el precio del dólar hoy 20 de enero de 2025 cotiza en 20.84 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-20-enero-2025-tipo-cambio-bancos-mexico/1695282",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/20/3245306.jpg",
-      "PublishedAt": "2025-01-20T13:51:38Z",
-      "Content": "El peso mexicano retrocede previo a la toma de posesión de Donald Trump, con lo que el precio del dólar hoy 20 de enero de 2025 cotiza en 20.84 unidades por cada billete verde; conoce aquí cuál es el… [+2014 chars]"
     }
   ]
 }
