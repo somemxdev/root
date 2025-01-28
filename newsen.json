@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Mexican peso slides, Canadian dollar weakens as Trump imposes tariffs on Colombia",
+      "Description": "Mexican peso slides, Canadian dollar weakens as Trump imposes tariffs on Colombia",
+      "Url": "https://www.investing.com/news/forex-news/mexican-peso-slides-canadian-dollar-weakens-as-trump-imposes-tariffs-on-colombia-3830990",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NK_L.jpg",
+      "PublishedAt": "2025-01-26T23:51:54Z",
+      "Content": "Investing.com-- The Mexican peso weakened sharply on Sunday, while the Canadian dollar softened amid heightened fears that U.S. President Donald Trump will deliver on his tariff threats, after he imp… [+1247 chars]"
+    },
     {
       "Source": {
         "Id": null,
