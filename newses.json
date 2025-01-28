@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 27 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 27 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con un fortalecimiento del 1.19 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2025-01-27T12:25:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 27 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con un fortalecimiento del 1.1… [+879 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-lunes-los-mercados-accionarios-en-eeuu-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-01-20T15:13:23Z",
       "Content": "Este lunes 20 de enero, el precio del dólar en México es de $20,718, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día que está marcado por la investidura… [+2529 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso gana al dólar en día de la toma de protesta de Trump: ¿Cómo va HOY EN VIVO?",
-      "Description": "El peso mexicano es una de las monedas que más se han depreciado por la victoria de Donald Trump en las elecciones presidenciales de EU... y las expectativas son que el tipo de cambio tenga un comportamiento volátil este lunes 20 de enero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/20/precio-del-dolar-en-vivo-hoy-20-de-enero-de-2025-por-toma-de-protesta-de-trump/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/4V4LZCYX6JFRRCFUT2C2GF6M7E.jpeg?smart=true&auth=b950c87e9d1378a369330c86591826bcb3b1784bdd17cca07c128d1447fda3c8&width=1200&height=630",
-      "PublishedAt": "2025-01-20T14:12:56Z",
-      "Content": "El Día D para el peso mexicano llegó: La toma de protesta de Donald Trump como presidente de Estados Unidos es hoy y la moneda nacional abre con apreciación frente al dólar. \r\nEl peso mexicano es una… [+2111 chars]"
     }
   ]
 }
