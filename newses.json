@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 28 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY martes 28 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una baja del 0.02 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depre…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-01-28T12:06:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY martes 28 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una baja del 0.02 por cie… [+917 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2025-01-21T12:14:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY martes 21 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.73 pesos por unidad, con un fortalecimiento del 1.… [+928 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Vaivén del peso ante un fortalecido dólar con nuevo gobierno",
-      "Description": "La incertidumbre se prolongó para México. No pasaron ni 12 horas de su segunda toma de posesión, cuando las declaraciones de Donald Trump, presidente de Estados Unidos, volvieron a golpear al peso mexicano, esta vez, con el anuncio de imponer aranceles de 25 …",
-      "Url": "https://www.jornada.com.mx/2025/01/21/politica/014n2pol",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-01-21T09:19:03Z",
-      "Content": "Periódico La JornadaMartes 21 de enero de 2025, p. 14\r\nLa incertidumbre se prolongó para México. No pasaron ni 12 horas de su segunda toma de posesión, cuando las declaraciones de Donald Trump, presi… [+1950 chars]"
     }
   ]
 }

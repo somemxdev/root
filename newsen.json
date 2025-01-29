@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GlobeNewswire"
+      },
+      "Author": "Guardforce AI Co., Ltd.",
+      "Title": "Guardforce AI Secures Long-Term Partnership and Revenue Base Through 3-year, Multi-Million Dollar Contracts with Government Savings Bank in Thailand",
+      "Description": "NEW YORK, NY, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security, AI and Robot-as-a-Service (RaaS) provider, today announced that Guardforce Cash Solutions Security (Th…",
+      "Url": "https://www.globenewswire.com/news-release/2025/01/28/3016306/0/en/Guardforce-AI-Secures-Long-Term-Partnership-and-Revenue-Base-Through-3-year-Multi-Million-Dollar-Contracts-with-Government-Savings-Bank-in-Thailand.html",
+      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/7a955544-12ff-4c31-93d2-f47a50aa092d",
+      "PublishedAt": "2025-01-28T13:00:00Z",
+      "Content": "NEW YORK, NY, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Guardforce AI Co., Limited (Guardforce AI or the Company) (NASDAQ: GFAI, GFAIW), an integrated security, AI and Robot-as-a-Service (RaaS) provider, tod… [+4170 chars]"
+    },
     {
       "Source": {
         "Id": null,
