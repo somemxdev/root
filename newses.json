@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso corrige ante el dólar tras desplome del lunes por ‘miedo’ a aranceles: ¿Cuánto se aprecia HOY?",
+      "Description": "Los mercados y el peso mexicano estarán atentos a si el presidente Donald Trump hace un nuevo anuncio de aranceles o si da más detalle de su programa de impuestos a socios comerciales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/28/peso-dolar-precio-hoy-28-de-enero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VKHAH43TIBCX5D52OCIQ2C6GNI.jpg?smart=true&auth=9eb8aa8a3c1403b49071fa1ce20b215ea723c54d2d68ccb71869a9247192dcff&width=1200&height=630",
+      "PublishedAt": "2025-01-28T16:53:02Z",
+      "Content": "El peso, que perdió las ganancias de una semana en un día, tiene ligeras correcciones ante el dólar este martes 28 de enero.\r\nLos operadores se mantienen atentos a nuevos comentarios por parte de Don… [+1839 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/851/5850170.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
       "PublishedAt": "2025-01-21T15:24:39Z",
       "Content": "01 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (21 enero 2025) .-09:23 (Actualización: 15:13 hrs)"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 21 de enero tras la asunción de Donald Trump",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 21 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-21-de-enero-tras-la-asuncion-de-nid21012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-el-peso-se-ve-presionado-tras-las-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-21T15:15:58Z",
-      "Content": "Este martes 21 de enero, el precio del dólar en México es de $20,543, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día que está marcado por la asunción d… [+2202 chars]"
     }
   ]
 }
