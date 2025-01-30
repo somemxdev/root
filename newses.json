@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 29 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY miércoles 29 de eneroinició operaciones con el tipo de cambio interbancario cotizando en 20.51 pesos por unidad, con un decremento del 0.20 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzaba después de registrar su peor sesión de…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-29T12:08:00Z",
+      "Content": "El dólar HOY miércoles 29 de enero inició operaciones con el tipo de cambio interbancario cotizando en 20.51 pesos por unidad, con un decremento del 0.20 por ciento, según datos de Bloomberg.\r\nAyer, … [+850 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2025-01-22T12:10:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 22 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.57 pesos por unidad, con una baja del 0.27 por … [+860 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Dólar: el Banco Central ya usó US$1602 millones para comprar bonos en dólares y contener la brecha cambiaria",
-      "Description": "El dato, que corresponde al acumulado desde que se inició el programa, fue presentado por el vicepresidente de la entidad, Vladimir Werning, en una exposición ante inversores en Londres; solo en la primera quincena de enero, el monto asciende a US$619 millones",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-banco-central-ya-uso-us1602-millones-para-comprar-bonos-en-dolares-y-contener-la-brecha-nid21012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-usa-dolares-de-sus-reservas-para-bajar-la-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-01-21T20:53:59Z",
-      "Content": "El Banco Central oficializó los números de su intervención en el mercado financiero. En un contexto de calma de los tipos de cambio libres, el ente monetario destina parte de sus reservas a operacion… [+3865 chars]"
     }
   ]
 }
