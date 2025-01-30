@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Carter Johnson, Naomi Tajitsu y Ruth Carson",
+      "Title": "Dólar se pone ‘fortachón’ con amenazas arancelarias de Trump: Esto ganó al peso, euro y yen",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/28/dolar-se-pone-fortachon-con-amenazas-arancelarias-de-trump-esto-gano-al-peso-euro-y-yen/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XATUG6FVGFAPJI3YBP6AIJA77M.jpeg?smart=true&auth=7c57e13b39718947eb2cea90ca6681357ded4ad634927cc9e54293e842f18ef3&width=1200&height=630",
+      "PublishedAt": "2025-01-28T23:44:51Z",
+      "Content": "El dólar vuelve a demostrar que se ha convertido en una forma popular de negociar las amenazas arancelarias de Donald Trump, y se apreció después de que el presidente de Estados Unidos declaró que es… [+4970 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-usa-dolares-de-sus-reservas-para-bajar-la-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-01-21T20:53:59Z",
       "Content": "El Banco Central oficializó los números de su intervención en el mercado financiero. En un contexto de calma de los tipos de cambio libres, el ente monetario destina parte de sus reservas a operacion… [+3865 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Dólar, migrantes y aranceles: México el 'día después' de Trump",
-      "Description": "El país deberá negociar por segunda vez con el mandatario estadounidense y enfrentará grandes retos sobre todo a nivel económico.",
-      "Url": "https://actualidad.rt.com/actualidad/537878-dolar-migrantes-aranceles-mexico-despues-trump",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.01/article/678fbfcee9ff7118c1664628.jpg",
-      "PublishedAt": "2025-01-21T18:22:38Z",
-      "Content": "La toma de posesión de Donald Trump como presidente de los EE.UU. en un segundo mandato ha dejado una gran resaca en todo el mundo. México es uno de los países que más se juega con el cambio en la ad… [+4870 chars]"
     }
   ]
 }
