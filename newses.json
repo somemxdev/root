@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza previo a anuncio de la Fed! Precio del dólar hoy 29 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia por segunda jornada consecutiva previo al anuncio de la política monetaria de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 29 de enero de 2025 cotiza en 20.48 unidades por cada billete …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-29-enero-2025-tipo-cambio-bancos-mexico/1696892",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/29/3250024.jpg",
+      "PublishedAt": "2025-01-29T14:15:42Z",
+      "Content": "El peso mexicano se aprecia por segunda jornada consecutiva previo al anuncio de la política monetaria de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 29 de enero de 2025 … [+1650 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 29 de enero",
+      "Description": "Este 29 de enero, el precio del dólar en México es de $20,5668, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-29-de-enero-nid29012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-29T14:08:29Z",
+      "Content": "Este miércoles 29 de enero de 2025, el precio del dólar en México es de $20,5668, de acuerdo con el Diario Oficial de la Federación (DOF). Según el sitio Bloomberg Línea,la divisa gana terreno frente… [+2259 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/22/3246623.jpg",
       "PublishedAt": "2025-01-22T14:09:41Z",
       "Content": "El peso mexicano repunta en la jornada de este miércoles, con lo que actualmente el precio del dólar hoy 22 de enero de 2025 cotiza en 20.54 unidades por cada billete verde; conoce aquí cuál es el ti… [+2142 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este 22 de enero y cómo impactan las medidas de Trump",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa americana este 22 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-22-de-enero-y-como-impactan-las-medidas-nid22012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-peso-mexicano-gana-terreno-frente-al-dolar-RSZCLQB5S5CWXG6P5NA2MI242U.jpg?auth=0300a0c93e6815c44518e0e17567f57ecf9bc48b07f8f708683d2fd9dea1d142&width=1200&quality=70&smart=false&height=798",
-      "PublishedAt": "2025-01-22T14:01:11Z",
-      "Content": "Este miércoles 22 de enero de 2025, el precio del dólar en México es de $20,6358, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día tras laasunción de Don… [+2266 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 22 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY miércoles 22 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.57 pesos por unidad, con una baja del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2025-01-22T12:10:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY miércoles 22 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.57 pesos por unidad, con una baja del 0.27 por … [+860 chars]"
     }
   ]
 }
