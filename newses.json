@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Milenio Negocios",
+      "Title": "Precio del dólar HOY jueves 30 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 30 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.48 pesos por unidad, con una bajadel 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-30T12:11:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 30 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.48 pesos por unidad, con una baja del 0.15 por cie… [+885 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
       "PublishedAt": "2025-01-23T12:13:00Z",
       "Content": "Eldólar HOY jueves 23 de enero inicia operaciones con el tipo de cambio interbancario en 20.50 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.\r\nAyer, el peso m… [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘toma aire’ en día 3 de Trump como presidente de EU: ¿Cuánto gana al dólar HOY?",
-      "Description": "El peso mexicano poco a poco ha ido recortando las pérdidas que tuvo contra el dólar después de que el presidente Donald Trump confirmó que sí aplicará aranceles a México en menos de 10 días.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/22/tipo-de-cambio-en-vivo-hoy-22-de-enero-de-2025-dia-3-de-trump-como-presidente/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XHGYMSJQKBENLGZWOOU5A5CFKA.jpeg?smart=true&auth=d72a1547576067c9d1d0a3c9897c36335e33818736122922d8930c3a97b7e812&width=1200&height=630",
-      "PublishedAt": "2025-01-22T14:39:39Z",
-      "Content": "El peso se llevó las palmas por ser la moneda emergente que más se depreció ante el dólar, pero en la jornada de este miércoles 22 de enero la divisa mexicana ya acumula ganancias.\r\nEl tipo de cambio… [+2565 chars]"
     }
   ]
 }
