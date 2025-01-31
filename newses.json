@@ -5,6 +5,32 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 30 de enero",
+      "Description": "Este 30 de enero, el precio del dólar en México es de $20,5677, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-30-de-enero-nid30012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-jornada-del-miercoles-29-de-enero-el-peso-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-01-30T14:40:22Z",
+      "Content": "Este jueves 30 de enero, el precio del dólar en México es de $20,5677, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana coincide con una caída … [+2117 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae tras datos del PIB de México! Precio del dólar hoy 30 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede luego de dos jornadas de ganancias y tras darse a conocer el informe del Producto Interno Bruto (PIB) a nivel local, con lo que el precio del dólar hoy 30 de enero de 2025 cotiza en 20.52 unidades por cada billete …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-30-enero-2025-tipo-cambio-bancos-mexico/1697104",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/30/3250633.jpg",
+      "PublishedAt": "2025-01-30T14:08:23Z",
+      "Content": "El peso mexicano retrocede luego de dos jornadas de ganancias y tras darse a conocer el informe del Producto Interno Bruto (PIB) a nivel local, con lo que el precio del dólar hoy 30 de enero de 2025 … [+1184 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Milenio"
       },
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/23/3247210.jpg",
       "PublishedAt": "2025-01-23T14:15:21Z",
       "Content": "El peso mexicano se aprecia tras el reporte de la inflación, con lo que actualmente el precio del dólar hoy 23 de enero de 2025 cotiza en 20.46 unidades por cada billete verde; conoce aquí cuál es el… [+1658 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 23 de enero",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 23 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-23-de-enero-nid23012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-23-de-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-23T14:10:01Z",
-      "Content": "Este jueves 23 de enero, el precio del dólar en México es de $20,5397, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea, … [+2265 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 23 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY jueves 23 de eneroinicia operaciones con el tipo de cambio interbancarioen 20.50 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.Ayer, el peso mexicano repuntaba ante un declive global del dólar, mientras los…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2025-01-23T12:13:00Z",
-      "Content": "Eldólar HOY jueves 23 de enero inicia operaciones con el tipo de cambio interbancario en 20.50 pesos por unidad, con un fortalecimiento del 0.02 por ciento, según datos de Bloomberg.\r\nAyer, el peso m… [+856 chars]"
     }
   ]
 }
