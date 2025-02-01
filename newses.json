@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso perfila semana de pérdidas! Precio del dólar hoy 31 de enero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en la jornada de este viernes, pero se perfila a cerrar la semana con pérdidas, con lo que el precio del dólar hoy 31 de enero de 2025 cotiza actualmente en 20.65 unidades por cada billete verde; conoce aquí cuál …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-31-enero-2025-tipo-cambio-bancos-mexico/1697304",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/31/3251209.jpg",
+      "PublishedAt": "2025-01-31T13:29:36Z",
+      "Content": "El peso mexicano se aprecia en la jornada de este viernes, pero se perfila a cerrar la semana con pérdidas, con lo que el precio del dólar hoy 31 de enero de 2025 cotiza actualmente en 20.65 unidades… [+2016 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/creditos-hipotecarios-el-banco-central-obligara-a-X6T53YJ4QNGS7BFMWRR6MME2TI.jpg?auth=d10c96afae4587f9a0d65e23b06956afc715a82b8f64cbcb77b3a13c281c10d1&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-24T00:47:58Z",
       "Content": "El sector inmobiliario cerró el tercer mejor diciembre en 17 años en la compraventa de propiedades de la ciudad de Buenos Aires.\r\nEn el balance anual, los números también son alentadores:con casi 55.… [+3815 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY viernes 24 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY viernes 24 de eneroinició operaciones con el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreciaba mientras los inversionistas asi…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2025-01-23T21:25:22Z",
-      "Content": "El dólar HOY viernes 24 de enero inició operaciones con el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.\r\nAyer… [+873 chars]"
     }
   ]
 }
