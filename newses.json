@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Anuncio de la Casa Blanca presiona el tipo de cambio; el peso llega a 20.71 por dólar",
+      "Description": "El peso revirtió por la tarde una jornada que había sido de ganancias y en operaciones internacionales resintió una depreciación que lo llevó a cotizar arriba de 20.71 pesos por dólar, a partir de que el presidente de Estados Unidos, Donald Trump, reiteró est…",
+      "Url": "https://www.jornada.com.mx/2025/01/31/economia/014n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/2025/01/31/fotos/014n2eco-1.jpg",
+      "PublishedAt": "2025-01-31T10:02:19Z",
+      "Content": "Periódico La JornadaViernes 31 de enero de 2025, p. 14\r\nEl peso revirtió por la tarde una jornada que había sido de ganancias y en operaciones internacionales resintió una depreciación que lo llevó a… [+2795 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-23T20:21:28Z",
       "Content": "El Banco Central (BCRA) no pudo comprar reservas por tercer día consecutivo, pese a la brusca reducción que mostró el monto de negocios operados por la plaza cambiaria oficial. Eso colaboró para que … [+3609 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘relaja’ tras discurso de Trump en Davos: ¿Cuánto gana al dólar HOY?",
-      "Description": "Donald Trump reiteró sus planes de utilizar aranceles para regresar trabajos de manufactura a Estados Unidos, pero no mencionó directamente a México en su discurso en Davos. ¿Cómo reaccionó el peso?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/23/tipo-de-cambio-en-vivo-hoy-23-de-enero-de-2025-discurso-de-trump-en-davos/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GT77NWIXJVH5ZJVE55HZ5V446A.jpeg?smart=true&auth=bd3e43dc3fea511fff94d6d0d90c21e0fe893c5d299cfd9704bb52535319585b&width=1200&height=630",
-      "PublishedAt": "2025-01-23T17:10:53Z",
-      "Content": "El peso mexicano gana al dólar en una sesión que estará marcada por el discurso del presidente Donald Trump en el Foro Económico de Davos 2025, en donde se prevé que haga anuncios sobre la política c… [+2750 chars]"
     }
   ]
 }
