@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY viernes 31 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY viernes 31 de eneroinició operaciones el tipo de cambio interbancario se ubica en 20.71 pesos por unidad, con una perdida del 0.08 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreciaba después de dos sesiones continuas de gana…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-enero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-01-31T12:02:00Z",
+      "Content": "El dólar HOY viernes 31 de enero inició operaciones el tipo de cambio interbancario se ubica en 20.71 pesos por unidad, con una perdida del 0.08 por ciento, según datos de Bloomberg.\r\nAyer, el peso m… [+780 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2025-01-23T21:25:22Z",
       "Content": "El dólar HOY viernes 24 de enero inició operaciones con el tipo de cambio interbancario se ubica en 19.28 pesos por unidad, con un fortalecimiento del 0.46 por ciento, según datos de Bloomberg.\r\nAyer… [+873 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central no pudo comprar reservas, que perforaron los US$30.000 millones",
-      "Description": "La entidad lleva tres ruedas consecutivas sin sumar divisas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-bcra-no-pudo-comprar-y-las-reservas-brutas-perforaron-los-us30000-millones-nid23012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-23T20:21:28Z",
-      "Content": "El Banco Central (BCRA) no pudo comprar reservas por tercer día consecutivo, pese a la brusca reducción que mostró el monto de negocios operados por la plaza cambiaria oficial. Eso colaboró para que … [+3609 chars]"
     }
   ]
 }
