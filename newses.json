@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El truco para saber si tu moneda de un centavo de dólar es de cobre: podrías tener US$370.000 sin saberlo",
+      "Description": "Una pieza de 1943 fabricada a base de la aleación de cobre y estaño fue subastada; la fecha y un error de acuñación la hacen extremadamente valiosa",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-truco-para-saber-si-tu-moneda-de-un-centavo-de-dolar-es-de-cobre-podrias-tener-us370000-sin-nid01022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/perteneciente-a-la-serie-lincoln-esta-moneda-se-64UN5NIXBZGPXCSQGTITLYF2KQ.jpg?auth=5968648020dbebd6b9630cf2043cfae700fc49cb538b6ef5a2779f9b97be6538&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-01T18:58:00Z",
+      "Content": "Un error de acuñación durante la Segunda Guerra Mundial transformó un simple centavo estadounidense en una de las monedas más codiciadas por los coleccionistas. Perteneciente a la serie Lincoln, la p… [+2647 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-reservas-del-bcra-cayeron-por-debajo-de-los-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-24T20:02:36Z",
       "Content": "El Banco Central (BCRA) cerró su peor semana del año en materia de intervenciones sobre la plaza cambiaria oficial, al tener que asistir con hoy otros US$4 millones al mercado. De esta manera el sald… [+2821 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Una moneda de 25 centavos de dólar se vende por US$48.300: cómo saber si la que tengo es valiosa",
-      "Description": "El ejemplar conocido como “Standing Liberty” alcanza precios elevados en el mercado de subastas; su historia, diseño y baja tirada captan la atención de coleccionistas en todo el mundo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/una-moneda-de-25-centavos-de-dolar-se-vende-por-us48300-como-saber-si-la-que-tengo-es-valiosa-nid24012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-de-25-centavo-que-logran-un-precio-R6VHPARFYFFCLPUQGANK7PXSWE.jpg?auth=29354a37d66891a798a0ee44919e06ab54e99cf0202776842a883dc203920051&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-24T16:37:33Z",
-      "Content": "La Casa de la Moneda de Estados Unidos ha producido piezas únicas a lo largo de su historia, pero pocas han generado tanto interés como la moneda de 25 centavos Standing Liberty de 1916. Aunque su va… [+3306 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Allegedly Loses $15,500,000 To Criminals in ‘Shocking’ Display of Incompetence and Negligence: Report",
+      "Description": "A New York-based bank is reportedly facing a new lawsuit after thieves allegedly looted $15.5 million from an account that belonged to a public utility firm. Garden City Park Water and Fire is suing First National Bank of Long Island for gross negligence amid…",
+      "Url": "https://dailyhodl.com/2025/02/01/billion-dollar-bank-allegedly-loses-15500000-to-criminals-in-shocking-display-of-incompetence-and-negligence-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/06/banks-unload-dollar.jpg",
+      "PublishedAt": "2025-02-01T18:58:50Z",
+      "Content": "A New York-based bank is reportedly facing a new lawsuit after thieves allegedly looted $15.5 million from an account that belonged to a public utility firm.\r\nGarden City Park Water and Fire is suing… [+2478 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
       "PublishedAt": "2025-01-03T20:01:25Z",
       "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6650 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Shayan Ghosh",
-      "Title": "Dollar trade finance dips as demand for local currencies rises: JPMorgan's Zhang",
-      "Description": "Given the interest rate differentials, there is a preference for using Chinese Yuan or Japanese Yen as financing currencies at the back end, says Zhang.",
-      "Url": "https://www.livemint.com/industry/banking/dollar-trade-finance-dips-as-demand-for-local-currencies-rises-jpmorgan-charley-zhang-11735729236720.html",
-      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/01/01/1600x900/Charley_Zhang_1735729634718_1735747870930.jpg",
-      "PublishedAt": "2025-01-02T00:10:09Z",
-      "Content": "Mumbai: There has been a mild decline in the use of US dollars for trade finance in the Asia Pacific region on the back of higher interest rates, with demand for local currency financing increasing t… [+4467 chars]"
     }
   ]
 }
