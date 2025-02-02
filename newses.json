@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La letra “extra” en esta moneda de 25 centavos de dólar que hace que valga más de US$500.000",
+      "Description": "Acuñada en la década de 1970, la marca de la ceca la convierte en una pieza especial; se fabricó en conmemoración del 200 aniversario de la independencia de EE.UU.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-letra-extra-en-esta-moneda-de-25-centavos-de-dolar-que-hace-que-valga-mas-de-us500000-nid01022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-actualmente-en-circulacion-se-lanzo-ISQOSKUWNJAWVOLVJ4ROVNGIPA.jpg?auth=1c513eec98aeb095e7c1b5c1268bef0496d3b5dcfb70eaa110927d4170ef5e95&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-01T08:44:00Z",
+      "Content": "Por distintos motivos hay monedas antiguas que tienen valores increíbles en las subastas. Por detalles inéditos, por pocos ejemplares o por un error de acuñación, los coleccionistas están dispuestos … [+1376 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-cierre-de-la-sesion-del-jueves-los-tres-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-01-24T15:08:34Z",
       "Content": "Este viernes 24 de enero, el precio del dólar en México es de $20,3943, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea,… [+2457 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso aumenta ganancias! Precio del dólar hoy 24 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por tercera jornada consecutiva y se encamina a cerrar la semana con ganancias, con lo que actualmente el precio del dólar hoy 24 de enero de 2025 cotiza en 20.20 unidades por cada billete verde; conoce aquí cuál es e…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-24-enero-2025-tipo-cambio-bancos-mexico/1696107",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/24/3247830.jpg",
-      "PublishedAt": "2025-01-24T14:21:57Z",
-      "Content": "El peso mexicano avanza por tercera jornada consecutiva y se encamina a cerrar la semana con ganancias, con lo que actualmente el precio del dólar hoy 24 de enero de 2025 cotiza en 20.20 unidades por… [+1378 chars]"
     }
   ]
 }
