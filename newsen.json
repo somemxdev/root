@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "Billion-Dollar Bank Says Account Numbers, Names and Other Sensitive Info Exposed As Insider Triggers New Data Breach",
+      "Description": "The tenth-largest bank in the US by total assets just disclosed a new cybersecurity incident that’s affecting customers’ data. In a filing with the Massachusetts state government, TD Bank says it recently discovered that a former employee accessed and shared …",
+      "Url": "https://dailyhodl.com/2025/02/01/billion-dollar-bank-says-account-numbers-names-and-other-sensitive-info-exposed-as-insider-triggers-new-data-breach/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/counterfeit-cash-dollar.jpg",
+      "PublishedAt": "2025-02-01T16:00:32Z",
+      "Content": "The tenth-largest bank in the US by total assets just disclosed a new cybersecurity incident that’s affecting customers data.\r\nIn a filing with the Massachusetts state government, TD Bank says it rec… [+1606 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.livemint.com/lm-img/img/2025/01/01/1600x900/Charley_Zhang_1735729634718_1735747870930.jpg",
       "PublishedAt": "2025-01-02T00:10:09Z",
       "Content": "Mumbai: There has been a mild decline in the use of US dollars for trade finance in the Asia Pacific region on the back of higher interest rates, with demand for local currency financing increasing t… [+4467 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Mexican peso posts biggest annual drop versus US dollar in 16 years",
-      "Description": "Mexican peso posts biggest annual drop versus US dollar in 16 years",
-      "Url": "https://www.investing.com/news/forex-news/mexican-peso-posts-biggest-annual-drop-versus-us-dollar-in-16-years-3793068",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEH71103_L.jpg",
-      "PublishedAt": "2024-12-31T23:06:07Z",
-      "Content": "MEXICO CITY (Reuters) - Mexico's peso weakened nearly 23% this year to close the final day of trading at 20.82 pesos per U.S. dollar on Tuesday, the currency's deepest drop against the greenback sinc… [+1028 chars]"
     }
   ]
 }
