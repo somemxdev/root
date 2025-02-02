@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twistedsifter.com"
+      },
+      "Author": "Heather Hall",
+      "Title": "Sister Asks For Grocery Money, But Refuses Help When She’s Offered Food From The Dollar Tree Instead",
+      "Description": "What an entitled sister!",
+      "Url": "http://twistedsifter.com/2025/02/sister-asks-for-grocery-money-but-refuses-help-when-shes-offered-food-from-the-dollar-tree-instead/",
+      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2025/01/Dollar-Tree-Thumb.jpg",
+      "PublishedAt": "2025-02-01T07:21:41Z",
+      "Content": "Helping out family isnt always as simple as it sounds.\r\nWhat would you do if a relative asked for financial help but had a history of never paying you back? Would you give them the money and hope for… [+2342 chars]"
+    },
     {
       "Source": {
         "Id": "buzzfeed",
