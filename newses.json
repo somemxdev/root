@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY 1 de febrero de 2025 en México: ¿Cómo va el tipo de cambio ante amenaza de aranceles?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de febrero el tipo de cambio interbancario, se ubica en 20.67 pesos por unidad, con una pérdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicanoavanzó mar…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-1-febrero-2025-tipo-de-cambio-peso-mexicano",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-02-01T13:37:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de febrero el tipo de cambio interbancario, se ubica en 20.67 pesos por unidad, con una pérdida del 0.27 por cient… [+3149 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-de-25-centavo-que-logran-un-precio-R6VHPARFYFFCLPUQGANK7PXSWE.jpg?auth=29354a37d66891a798a0ee44919e06ab54e99cf0202776842a883dc203920051&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-01-24T16:37:33Z",
       "Content": "La Casa de la Moneda de Estados Unidos ha producido piezas únicas a lo largo de su historia, pero pocas han generado tanto interés como la moneda de 25 centavos Standing Liberty de 1916. Aunque su va… [+3306 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 24 de enero",
-      "Description": "Aquí puedes consultar un resumen completo de la situación económica en México y el valor de la divisa este 24 de enero de 2025",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-24-de-enero-nid24012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-cierre-de-la-sesion-del-jueves-los-tres-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-01-24T15:08:34Z",
-      "Content": "Este viernes 24 de enero, el precio del dólar en México es de $20,3943, de acuerdo con el Diario Oficial de la Federación (DOF). A continuación, la cotización del día.\r\nSegún el sitioBloomberg Línea,… [+2457 chars]"
     }
   ]
 }
