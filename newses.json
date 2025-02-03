@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Aranceles ‘le pegan’ al peso: Tipo de cambio ‘rompe techo’ y supera las 21 unidades por dólar este domingo",
+      "Description": "El tipo de cambio podría verse afectado en México desde este domingo con la apertura de mercados en Asia.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/02/tipo-de-cambio-en-vivo-precio-del-dolar-peso-mexicano-hoy-2-de-febrero-aranceles-de-donald-trump-a-mexico/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/B3Q2RCEWNRDQBJQDCQX2P2OTGU.jpg?smart=true&auth=db93b2304855a0b63c9aa92b9ab4e116bee65f2696fecefa19a28f22532c5e0f&width=1200&height=630",
+      "PublishedAt": "2025-02-02T22:18:19Z",
+      "Content": "El dólar subió frente a la mayoría de sus pares del Grupo de los 10 en las primeras operaciones, ya que el presidente estadounidense Donald Trump impuso aranceles a los tres socios comerciales más im… [+3144 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-01-25T13:36:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 20.26 pesos por unidad, con una pérdida del 0.58 por ciento… [+1587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Peso cierra la semana apreciándose 2.48% frente al dólar",
-      "Description": "El peso cerró la semana, este viernes 24 de enero, con una apreciación de 2.48 por ciento o 51.6 centavos, cotizando alrededor de 20.27 pesos por dólar. Con esto, la divisa mexicana rompe una racha en la que acumuló cuatro semanas consecutivas de depreciación…",
-      "Url": "https://www.milenio.com/negocios/peso-cierra-la-semana-apreciandose-2-48-frente-al-dolar",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/01/peso-mexicano-registra-ano-crisis.jpeg",
-      "PublishedAt": "2025-01-25T00:11:00Z",
-      "Content": "El peso cerró la semana, este viernes 24 de enero, con una apreciación de 2.48 por ciento o 51.6 centavos, cotizando alrededor de 20.27 pesos por dólar. \r\nCon esto, la divisa mexicana rompe una racha… [+3449 chars]"
     }
   ]
 }

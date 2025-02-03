@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Benny Johnson on Twitter X",
+      "Title": "Immediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall.",
+      "Description": "Benny Johnson @bennyjohnson Immediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall. Don’t mess with the United States of America. 3:55 PM · Feb 2, 2025",
+      "Url": "https://freerepublic.com/focus/f-news/4294426/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-02T22:49:41Z",
+      "Content": "Skip to comments.\r\nImmediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall.Benny Johnson on Twitter X ^\r\n | February 2, 2025\r\n | … [+1339 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
       "PublishedAt": "2025-01-03T20:01:25Z",
       "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6655 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "David Taylor",
-      "Title": "Risks are rising for Reserve Bank intervention of the Australian dollar",
-      "Description": "The Australian dollar has come under a lot of pressure over the past two weeks, raising the question is the Reserve Bank close to stepping into the currency market to support the Australian dollar?",
-      "Url": "https://www.abc.net.au/news/2025-01-04/reserve-bank-intervention-of-australian-dollar/104782724",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
-      "PublishedAt": "2025-01-03T20:01:25Z",
-      "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6650 chars]"
     }
   ]
 }
