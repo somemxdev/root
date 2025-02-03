@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY domingo 2 de febrero en México: ¿Cómo está el peso mexicano tras aranceles de Trump?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de febrero el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una ganancia para la moneda mexicana de 0.27 por ciento, según datos de Bloomberg.La moneda…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2025-02-02T14:34:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de febrero el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una ganancia para la moneda mex… [+1149 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/01/peso-mexicano-registra-ano-crisis.jpeg",
       "PublishedAt": "2025-01-25T00:11:00Z",
       "Content": "El peso cerró la semana, este viernes 24 de enero, con una apreciación de 2.48 por ciento o 51.6 centavos, cotizando alrededor de 20.27 pesos por dólar. \r\nCon esto, la divisa mexicana rompe una racha… [+3449 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y Adriana Arcos",
-      "Title": "Tiene peso mayor plusvalía en 19 semanas; cae dólar a 20.26",
-      "Description": "El peso mexicano registró su mejor resultado en 19 semanas, cortando una racha negativa de cuatro semanas y a pesar del regreso de Trump.",
-      "Url": "https://www.reforma.com/tiene-peso-mayor-plusvalia-en-19-semanas-cae-dolar-a-20-26/ar2942509",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/855/5854753.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-01-24T20:49:41Z",
-      "Content": "04 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (24 enero 2025) .-14:45 hrs"
     }
   ]
 }
