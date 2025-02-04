@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "https://www.thegatewaypundit.com",
+      "Title": "Canadian Dollar and Mexican Peso Fall, Canadian Dollar Plummets to Lowest Level Since 2003 After President Trump Unleashes Tariffs",
+      "Description": "Canada’s dollar and Mexico’s peso took a hit Saturday, with Canada’s dollar sliding to its lowest level since 2003, one day after President Trump imposed tariffs on the two nations. The Canadian dollar dropped 1.4% to roughly C$1.47 against one U.S. dollar. B…",
+      "Url": "https://freerepublic.com/focus/f-news/4294491/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-03T02:42:53Z",
+      "Content": "Skip to comments.\r\nCanadian Dollar and Mexican Peso Fall, Canadian Dollar Plummets to Lowest Level Since 2003 After President Trump Unleashes Tariffshttps://www.thegatewaypundit.com ^\r\n | 2/2/2025\r\n … [+4274 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_candlestick_usd.jpg?extension=webp&hash=581C9DB4E93E992045AEE743525E8CAD&w=1200&h=630",
       "PublishedAt": "2025-01-07T07:15:00Z",
       "Content": "U.S. Dollar Talking Points:\r\n- It was a strong Q4 for the U.S. Dollar and at this point there’s no sign of bulls letting up yet. \r\n- As I shared in the webinar, I think it’s unlikely that both USD an… [+15198 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bluetracker.gg"
-      },
-      "Author": "Blue Tracker",
-      "Title": "[US] Upcoming Australian and New Zealand Dollar Price Changes for World of Warcraft Services and Subscriptions",
-      "Description": "[Blue Topic] We’re making some adjustments to Australian and New Zealand Dollar pricing for World of Warcraft services and subscriptions.\nBlizzard regularly conducts reviews of pricing in the many regions and currencies where World of Warcraft is available. F…",
-      "Url": "https://www.bluetracker.gg/wow/topic/us-en/2040710-upcoming-australian-and-new-zealand-dollar-price-changes-for-world-of-warcraft-services-and-subscriptions/",
-      "UrlToImage": "https://www.bluetracker.gg/static/images/logo.webp",
-      "PublishedAt": "2025-01-07T00:00:37Z",
-      "Content": "Were making some adjustments to Australian and New Zealand Dollar pricing for World of Warcraft services and subscriptions.\r\nBlizzard regularly conducts reviews of pricing in the many regions and cur… [+2358 chars]"
     }
   ]
 }
