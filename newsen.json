@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Yuan hits record low, Mexican peso, Canadian dollar tumble on Trump tariffs",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60b7a96f-6021-466b-9f70-f7573866a480",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-02T23:41:55Z",
+      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEIAE024_L.jpg",
       "PublishedAt": "2025-01-06T16:47:31Z",
       "Content": "BRASILIA (Reuters) - Brazil's Finance Minister Fernando Haddad said on Monday that the government has no plans to raise the financial transactions tax, known as IOF, to address U.S. dollar outflow fo… [+974 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "David Taylor",
-      "Title": "Risks are rising for Reserve Bank intervention on the Australian dollar",
-      "Description": "The Australian dollar has come under a lot of pressure over the past two weeks, raising the question is the Reserve Bank close to stepping into the currency market to support the Australian dollar?",
-      "Url": "https://www.abc.net.au/news/2025-01-04/reserve-bank-intervention-on-australian-dollar/104782724",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/e663ba796fa564133d21e093c9fcb244?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485&imformat=generic",
-      "PublishedAt": "2025-01-03T20:01:25Z",
-      "Content": "Is the Reserve Bank close to stepping into the currency market to support the Australian dollar and, if so, what does this mean for millions of Australians?\r\nWhile it's a rare event, it's been done b… [+6655 chars]"
     }
   ]
 }

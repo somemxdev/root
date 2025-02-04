@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cotiza en más de 21 unidades por dólar tras anuncio de aranceles de Trump",
+      "Description": "Forbes México.\n Peso cotiza en más de 21 unidades por dólar tras anuncio de aranceles de Trump\n\nEl tipo de cambio se ubica en 21.16 pesos por dólar, lo que representa una depreciación del 2.18% del peso en comparación con el cierre del viernes, cuando el dóla…",
+      "Url": "https://forbes.com.mx/peso-cotiza-en-mas-de-21-unidades-por-dolar-tras-imposicion-de-aranceles-de-trump/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/MG_7308.jpg",
+      "PublishedAt": "2025-02-02T23:14:40Z",
+      "Content": "El peso se depreciaba este domingo frente al dólar en los primeros minutos de la jornada en los mercados asiáticos, tras la decisión del presidente de Estados Unidos, Donald Trump, de imponer un aran… [+1596 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2025-01-27T12:25:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY lunes 27 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con un fortalecimiento del 1.1… [+879 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY sábado 25 de enero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 20.26 pesos por unidad, con una pérdida del 0.58 por ciento, según datos de Bloomberg.Ayer, el peso mexicanoy la bolsa …",
-      "Url": "https://www.milenio.com/internacional/precio-del-dolar-hoy-25-enero-2024-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-01-25T13:36:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 20.26 pesos por unidad, con una pérdida del 0.58 por ciento… [+1587 chars]"
     }
   ]
 }
