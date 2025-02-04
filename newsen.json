@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Yuan hits record low, Mexican peso, Canadian dollar tumble on Trump tariffs",
+      "Description": "China's yuan hit a record low after the US imposed tariffs on China, Canada, and Mexico, sparking fears of a trade war. The US dollar surged against global currencies including the euro and the Swiss franc, while retaliatory measures were promised by affected…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/yuan-hits-record-low-mexican-peso-canadian-dollar-tumble-on-trump-tariffs/articleshow/117872549.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-117872562,width-1200,height-630,imgsize-115514,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-02-03T01:59:50Z",
+      "Content": "China's yuan slumped to a record low in offshore trading on Monday, while Mexico's peso and Canada's dollar tumbled to multi-year troughs after U.S. President Donald Trump slapped the countries with … [+2232 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.bluetracker.gg/static/images/logo.webp",
       "PublishedAt": "2025-01-07T00:00:37Z",
       "Content": "Were making some adjustments to Australian and New Zealand Dollar pricing for World of Warcraft services and subscriptions.\r\nBlizzard regularly conducts reviews of pricing in the many regions and cur… [+2358 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Brazil's finance minister rules out hiking taxes to curb dollar outflow",
-      "Description": "Brazil's finance minister rules out hiking taxes to curb dollar outflow",
-      "Url": "https://www.investing.com/news/forex-news/brazils-finance-minister-rules-out-hiking-taxes-to-curb-dollar-outflow-3798097",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEIAE024_L.jpg",
-      "PublishedAt": "2025-01-06T16:47:31Z",
-      "Content": "BRASILIA (Reuters) - Brazil's Finance Minister Fernando Haddad said on Monday that the government has no plans to raise the financial transactions tax, known as IOF, to address U.S. dollar outflow fo… [+974 chars]"
     }
   ]
 }
