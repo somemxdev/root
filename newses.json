@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 3 de febrero de 2025: ¿Cuál es el tipo de cambio en México ante aranceles?",
+      "Description": "El dólarHOY lunes 3 de febreroinició operaciones con el tipo de cambio interbancario en 21.04 pesos por unidad, con una ganancia del 1.76 por ciento, según datos de Bloomberg.El viernes, el peso mexicano se apreciaba, aunque se encaminaba a culminar una seman…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-02-03T12:15:00Z",
+      "Content": "El dólar HOY lunes 3 de febrero inició operaciones con el tipo de cambio interbancario en 21.04 pesos por unidad, con una ganancia del 1.76 por ciento, según datos de Bloomberg.\r\nEl viernes, el peso … [+795 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/27/3248877.jpg",
       "PublishedAt": "2025-01-27T14:01:48Z",
       "Content": "El peso mexicano arranca la jornada con retrocesos, con lo que el precio del dólar hoy 27 de enero de 2025 cotiza en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en ba… [+1330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 27 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY lunes 27 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con un fortalecimiento del 1.19 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2025-01-27T12:25:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY lunes 27 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.50 pesos por unidad, con un fortalecimiento del 1.1… [+879 chars]"
     }
   ]
 }

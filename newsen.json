@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Weak Dollar, Money Printing and Other ‘Massive Changes’ To Bring Bitcoin to $1,000,000: Arthur Hayes",
+      "Description": "BitMEX founder Arthur Hayes says that a global, multi-polar macro shift will likely lead to a large expansion of the monetary supply which will push Bitcoin (BTC) and crypto to much higher valuations. In a new interview with Scott Melker, Hayes says that in o…",
+      "Url": "https://dailyhodl.com/2025/02/03/weak-dollar-money-printing-and-other-massive-changes-to-bring-bitcoin-to-1000000-arthur-hayes/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bitcoin-may-while-get.jpg",
+      "PublishedAt": "2025-02-03T12:45:59Z",
+      "Content": "BitMEX founder Arthur Hayes says that a global, multi-polar macro shift will likely lead to a large expansion of the monetary supply which will push Bitcoin (BTC) and crypto to much higher valuations… [+2220 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0cd3ec2187f3b422cbca1210f454511a.jpg",
       "PublishedAt": "2025-01-09T10:00:00Z",
       "Content": "Alec Baldwin purchased this property for $1.75 million in 1996. Decades later, the actor has spent years trying to sell his clearly beloved property.\r\nI fell in love with this place the moment I came… [+1115 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Stocks rise, dollar drops after Trump denies tariff policy pullback - Yahoo Canada Finance",
-      "Description": "Stocks rise, dollar drops after Trump denies tariff policy pullbackYahoo Canada Finance Trump aides ready ‘universal’ tariff plans — with one key changeThe Washington Post A battle is brewing over tariffs among Trump’s teamCNN Dollar edges down towards one-we…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175843969",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-07T07:52:21Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
