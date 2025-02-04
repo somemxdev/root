@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thegatewithbriancohen.com"
+      },
+      "Author": "Brian Cohen",
+      "Title": "Tariffs Tumble Canadian Dollar and Mexican Peso to Lowest Levels in Years Against the United States Dollar",
+      "Description": "Tariffs tumble the Canadian Dollar and the Mexican Peso to their lowest levels in years against the United States Dollar, as the current president of the United States implemented an additional tariff of 25 percent on imported goods from both Canada and — as …",
+      "Url": "https://thegatewithbriancohen.com/tariffs-tumble-canadian-dollar-and-mexican-peso-to-lowest-levels-in-years-against-the-united-states-dollar/",
+      "UrlToImage": "https://thegatewithbriancohen.com/wp-content/uploads/2017/06/IMG_2909.jpg",
+      "PublishedAt": "2025-02-03T03:37:05Z",
+      "Content": "Tariffs tumble the Canadian Dollar and the Mexican Peso to their lowest levels in years against the United States Dollar, as the current president of the United States implemented an additional tarif… [+3274 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-01-07T07:52:21Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cityindex.com"
-      },
-      "Author": "James Stanley",
-      "Title": "U.S. Dollar Price Action Setups: EUR/USD, USD/CAD, SPX",
-      "Description": "The U.S. Dollar just finished its strongest quarter in nine years, and stock prices remain elevated, as well. This sets the stage for a volatile 2025 as explained in this webinar.",
-      "Url": "https://www.cityindex.com/en-uk/news-and-analysis/us-dollar-price-action-setups-eurusd-usdcad-spx-1725/",
-      "UrlToImage": "https://www.cityindex.com/en-uk/-/media/research/global/news-analysis/featured-image/banners/nanda-banner-us_flag_candlestick_usd.jpg?extension=webp&hash=581C9DB4E93E992045AEE743525E8CAD&w=1200&h=630",
-      "PublishedAt": "2025-01-07T07:15:00Z",
-      "Content": "U.S. Dollar Talking Points:\r\n- It was a strong Q4 for the U.S. Dollar and at this point there’s no sign of bulls letting up yet. \r\n- As I shared in the webinar, I think it’s unlikely that both USD an… [+15198 chars]"
     }
   ]
 }
