@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central compró sólo US$17 millones en el debut del crawling peg al 1% mensual",
+      "Description": "Se alzó así con el 4% de las divisas operadas en el mercado; arrancó hoy la anunciada reducción a la mitad en el ritmo de ajuste del tipo de cambio oficial",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-magra-compra-del-banco-central-en-el-debut-del-crawling-peg-al-1-mensual-nid03022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-bajo-a-dollar1929-a-la-espera-del-IPBGZ7SGMFAV7DJRROTVTGBHYY.jpg?auth=397045dd8a044b04e6ff6c0517d5f69b90fe9bb908aa7d8f83ca66d489789abd&width=1200&quality=70&smart=false&height=675",
+      "PublishedAt": "2025-02-03T20:00:10Z",
+      "Content": "La anunciada reducción a la mitad en el ritmo de ajuste del tipo de cambio oficial, que comenzó a regir en los hechos desde hoy, tuvo un debut algo tormentoso. Se puso en marcha en una jornada en que… [+2892 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VKHAH43TIBCX5D52OCIQ2C6GNI.jpg?smart=true&auth=9eb8aa8a3c1403b49071fa1ce20b215ea723c54d2d68ccb71869a9247192dcff&width=1200&height=630",
       "PublishedAt": "2025-01-28T16:53:02Z",
       "Content": "El peso, que perdió las ganancias de una semana en un día, tiene ligeras correcciones ante el dólar este martes 28 de enero.\r\nLos operadores se mantienen atentos a nuevos comentarios por parte de Don… [+1839 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 28 de enero",
-      "Description": "La moneda mexicana registra un beneficio marginal 0,05% frente al dólar, con un tipo de cambio de 20,67 pesos por dólar. En tanto, el Índice Dólar (DXY), un indicador ponderado que mide el valor de la divisa estadounidense frente a una canasta de monedas, sub…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-28-de-enero-nid28012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-el-peso-recorta-parte-del-retroceso-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-28T14:30:18Z",
-      "Content": "Según el sitio Bloomberg Línea, el peso mexicano ganaba marginalmente ante el dólar durante la mañana de este martes 28 a la espera de datos del mercado estadounidense, principalmente la decisión de … [+1964 chars]"
     }
   ]
 }
