@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Canadian dollar, Mexican peso steady after sharp rebound on tariff reprieves",
+      "Description": "The Canadian dollar, Mexican peso, and euro remained steady against the U.S. dollar on Tuesday after a tumultuous Monday. The stabilization followed President Trump's suspension of tariffs on Canada and Mexico. The Chinese yuan also firmed in offshore trading…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/canadian-dollar-mexican-peso-steady-after-sharp-rebound-on-tariff-reprieves/articleshow/117899740.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-117899832,width-1200,height-630,imgsize-18814,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-02-04T02:39:57Z",
+      "Content": "The Canadian dollar, Mexican peso and euro were steady against the U.S. dollar on Tuesday following a wild ride on Monday when they rebounded sharply from multi-year lows after U.S. President Donald … [+3321 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-117199213,width-1200,height-630,imgsize-13334,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2025-01-13T09:15:22Z",
       "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
-    },
-    {
-      "Source": {
-        "Id": "bloomberg",
-        "Name": "Bloomberg"
-      },
-      "Author": "Bloomberg",
-      "Title": "Bank of India seeks its first dollar loan in more than a decade",
-      "Description": "An external media representative for Bank of India confirmed the receipt of an email requesting comment, but wasn’t immediately able to give further details",
-      "Url": "https://www.bloomberg.com/news/articles/2025-01-13/bank-of-india-seeks-its-first-dollar-loan-in-more-than-a-decade",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/rujkdk/article69093007.ece/alternates/LANDSCAPE_1200/IMG_Po12_MF_2_1_QSDR8DIS.jpg",
-      "PublishedAt": "2025-01-13T09:14:10Z",
-      "Content": "Bank of India is marketing its first dollar syndicated loan since 2012 of as much as $400 million, people familiar with the matter said, at a time when more Indian borrowers are tapping global credit… [+2131 chars]"
     }
   ]
 }
