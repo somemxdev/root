@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Karla Vázquez,Milenio Negocios",
+      "Title": "Precio del dólar HOY martes 4 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY martes 4 de febreroinició operaciones con el tipo de cambio interbancarion 20.43 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.Ayer, la presidenta Claudia Sheinbaum anunció queEstados Unidos pausó por un me…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-02-04T12:06:00Z",
+      "Content": "Eldólar HOY martes 4 de febrero inició operaciones con el tipo de cambio interbancario n 20.43 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.\r\nAyer,  la presi… [+831 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/10/peso-mexicano.jpg",
       "PublishedAt": "2025-01-28T22:34:00Z",
       "Content": "El peso mexicano se apreció el martes 28 de enero después de sufrir su peor caída en siete meses, en una jornada errática marcada por crecientes preocupaciones sobre las amenazas arancelarias del pre… [+3225 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso corrige ante el dólar tras desplome del lunes por ‘miedo’ a aranceles: ¿Cuánto se aprecia HOY?",
-      "Description": "Los mercados y el peso mexicano estarán atentos a si el presidente Donald Trump hace un nuevo anuncio de aranceles o si da más detalle de su programa de impuestos a socios comerciales.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/28/peso-dolar-precio-hoy-28-de-enero-de-2025/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/VKHAH43TIBCX5D52OCIQ2C6GNI.jpg?smart=true&auth=9eb8aa8a3c1403b49071fa1ce20b215ea723c54d2d68ccb71869a9247192dcff&width=1200&height=630",
-      "PublishedAt": "2025-01-28T16:53:02Z",
-      "Content": "El peso, que perdió las ganancias de una semana en un día, tiene ligeras correcciones ante el dólar este martes 28 de enero.\r\nLos operadores se mantienen atentos a nuevos comentarios por parte de Don… [+1839 chars]"
     }
   ]
 }
