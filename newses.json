@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 4 de febrero",
+      "Description": "Este 4 de febrero, el precio del dólar en México es de $20,6068, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-4-de-febrero-nid04022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-02-04T14:32:48Z",
+      "Content": "Este martes 4 de febrero, el precio del dólar en México es de $20,6068, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana se ve impactada por los recientes anun… [+2318 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Retrocede peso; dólar cotiza en $20.47",
+      "Description": "En el mercado internacional, el tipo de cambio cotiza en $20.4710 por dólar, luego de que el lunes cerró con una ganancia de 1.7%.",
+      "Url": "https://www.reforma.com/retrocede-peso-dolar-cotiza-en-20-47/ar2948192",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-02-04T14:28:55Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (04 febrero 2025) .-08:24 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Amplía peso pérdidas; dólar cotiza en $20.56",
+      "Description": "En el mercado internacional, el tipo de cambio cotiza en $20.56 por dólar, con una pérdida para el peso de 1%.",
+      "Url": "https://www.reforma.com/amplia-peso-perdidas-dolar-cotiza-en-20-56/ar2948192",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-02-04T14:28:55Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (04 febrero 2025) .-08:24 (Actualización: 12:55 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Amplía peso pérdidas; dólar cotiza en $20.53",
+      "Description": "En el mercado internacional, el tipo de cambio cotiza en $20.53 por dólar, con una pérdida para el peso de 1%.",
+      "Url": "https://www.reforma.com/amplia-peso-perdidas-dolar-cotiza-en-20-53/ar2948192",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-02-04T14:28:55Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (04 febrero 2025) .-08:24 (Actualización: 12:55 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/29/3250024.jpg",
       "PublishedAt": "2025-01-29T14:15:42Z",
       "Content": "El peso mexicano se aprecia por segunda jornada consecutiva previo al anuncio de la política monetaria de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 29 de enero de 2025 … [+1650 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 29 de enero",
-      "Description": "Este 29 de enero, el precio del dólar en México es de $20,5668, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-29-de-enero-nid29012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-29T14:08:29Z",
-      "Content": "Este miércoles 29 de enero de 2025, el precio del dólar en México es de $20,5668, de acuerdo con el Diario Oficial de la Federación (DOF). Según el sitio Bloomberg Línea,la divisa gana terreno frente… [+2259 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 29 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY miércoles 29 de eneroinició operaciones con el tipo de cambio interbancario cotizando en 20.51 pesos por unidad, con un decremento del 0.20 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzaba después de registrar su peor sesión de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-29T12:08:00Z",
-      "Content": "El dólar HOY miércoles 29 de enero inició operaciones con el tipo de cambio interbancario cotizando en 20.51 pesos por unidad, con un decremento del 0.20 por ciento, según datos de Bloomberg.\r\nAyer, … [+850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Carter Johnson, Naomi Tajitsu y Ruth Carson",
-      "Title": "Dólar se pone ‘fortachón’ con amenazas arancelarias de Trump: Esto ganó al peso, euro y yen",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/01/28/dolar-se-pone-fortachon-con-amenazas-arancelarias-de-trump-esto-gano-al-peso-euro-y-yen/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/XATUG6FVGFAPJI3YBP6AIJA77M.jpeg?smart=true&auth=7c57e13b39718947eb2cea90ca6681357ded4ad634927cc9e54293e842f18ef3&width=1200&height=630",
-      "PublishedAt": "2025-01-28T23:44:51Z",
-      "Content": "El dólar vuelve a demostrar que se ha convertido en una forma popular de negociar las amenazas arancelarias de Donald Trump, y se apreció después de que el presidente de Estados Unidos declaró que es… [+4970 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se recupera frente al dólar tras sufrir su peor caída en meses: ¿en cuánto cotiza?",
-      "Description": "El peso mexicano se apreció el martes 28 de enero después de sufrir su peor caída en siete meses, en una jornada errática marcada por crecientes preocupaciones sobre las amenazas arancelarias del presidente estadunidense, Donald Trump.Los inversores también a…",
-      "Url": "https://www.milenio.com/negocios/peso-mexicano-se-recupera-frente-al-dola",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/10/peso-mexicano.jpg",
-      "PublishedAt": "2025-01-28T22:34:00Z",
-      "Content": "El peso mexicano se apreció el martes 28 de enero después de sufrir su peor caída en siete meses, en una jornada errática marcada por crecientes preocupaciones sobre las amenazas arancelarias del pre… [+3225 chars]"
     }
   ]
 }
