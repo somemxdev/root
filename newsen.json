@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Copper Advances on Lower Dollar as US and China Exchange Blows",
+      "Description": "Copper rose as the dollar pushed lower after US President Donald Trump imposed a 10% tariff on goods from China and Beijing responded with a range of measures of its own.",
+      "Url": "https://financialpost.com/pmn/business-pmn/copper-advances-on-lower-dollar-as-us-and-china-exchange-blows",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/776126133.jpg",
+      "PublishedAt": "2025-02-04T16:35:40Z",
+      "Content": "Copper a proxy for global growth traded higher in London, while a gauge of the greenback fell as much as 0.8%. A weaker dollar makes copper cheaper for buyers in other currencies. Moments after Trump… [+1086 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/canadian-dollar-0113.jpg",
       "PublishedAt": "2025-01-13T13:01:37Z",
       "Content": "Interest rates and the loonie are heading lower, predicts RBC\r\nRBC expects the Canadian dollar to fade further to 68.96 cents U.S. by the second quarter as the gap between the Fed and Bank of Canada … [+9185 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Bloomberg",
-      "Title": "Bank of India seeks its first dollar loan in more than a decade",
-      "Description": "Bank of India is raising up to $400 million in its first dollar syndicated loan since 2012, via its Gujarat branch. Reliance Industries, Shriram Finance, and State Bank of India are also pursuing significant foreign currency loans, contributing to an expected…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-seeks-its-first-dollar-loan-in-more-than-a-decade/articleshow/117199214.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-117199213,width-1200,height-630,imgsize-13334,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2025-01-13T09:15:22Z",
-      "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
     }
   ]
 }
