@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano pierde ante el dólar en medio de inestabilidad creada por amenaza arancelaria de Trump",
+      "Description": "El peso mexicano y la bolsa retrocedieron el miércoles 5 de febrero arrastrados por un débil entorno para los activos de riesgo debido a las amenazas y medidas arancelarias del presidente estadunidense, Donald Trump, contra varias naciones.Si bien el mandatar…",
+      "Url": "https://www.milenio.com/negocios/peso-mexicano-pierde-ante-el-dolar-por-amenazas-arancelarias-de-trump",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-02-05T22:50:00Z",
+      "Content": "El peso mexicano y la bolsa retrocedieron el miércoles 5 de febrero arrastrados por un débil entorno para los activos de riesgo debido a las amenazas y medidas arancelarias del presidente estaduniden… [+2672 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-31T12:02:00Z",
       "Content": "El dólar HOY viernes 31 de enero inició operaciones el tipo de cambio interbancario se ubica en 20.71 pesos por unidad, con una perdida del 0.08 por ciento, según datos de Bloomberg.\r\nAyer, el peso m… [+780 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Anuncio de la Casa Blanca presiona el tipo de cambio; el peso llega a 20.71 por dólar",
-      "Description": "El peso revirtió por la tarde una jornada que había sido de ganancias y en operaciones internacionales resintió una depreciación que lo llevó a cotizar arriba de 20.71 pesos por dólar, a partir de que el presidente de Estados Unidos, Donald Trump, reiteró est…",
-      "Url": "https://www.jornada.com.mx/2025/01/31/economia/014n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2025/01/31/fotos/014n2eco-1.jpg",
-      "PublishedAt": "2025-01-31T10:02:19Z",
-      "Content": "Periódico La JornadaViernes 31 de enero de 2025, p. 14\r\nEl peso revirtió por la tarde una jornada que había sido de ganancias y en operaciones internacionales resintió una depreciación que lo llevó a… [+2795 chars]"
     }
   ]
 }
