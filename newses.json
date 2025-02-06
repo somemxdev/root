@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 5 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY miércoles 5 de febreroinició operaciones con el tipo de cambio interbancarioen 20.58 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreciaba por un ajuste de posiciones tras una j…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2025-02-05T12:40:00Z",
+      "Content": "El dólar HOY miércoles 5 de febrero inició operaciones con el tipo de cambio interbancario en 20.58 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.\r\nAyer, el p… [+913 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-01-30T12:11:00Z",
       "Content": "Si te preguntas a cuánto está el dólar HOY jueves 30 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.48 pesos por unidad, con una baja del 0.15 por cie… [+885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se recupera frente al dólar tras jornada complicada en los mercados: ¿En cuánto cerró?",
-      "Description": "Elpeso mexicano y la bolsa avanzaron el miércoles 29 de enero tras una jornada errática, después de que la Reserva Federal estadunidense mantuvo los tipos de interés y su presidente, Jerome Powell, ofreció comentarios tranquilizadores sobre la mayor economía …",
-      "Url": "https://www.milenio.com/negocios/peso-mexicano-se-recupera-frente-al-dolar-tras-jornada-complicada",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/03/01/dinero-extra-circula-elecciones-ano.jpeg",
-      "PublishedAt": "2025-01-29T23:03:00Z",
-      "Content": "El peso mexicano  y la bolsa avanzaron el miércoles 29 de enero tras una jornada errática, después de que la Reserva Federal estadunidense mantuvo los tipos de interés y su presidente, Jerome Powell,… [+3056 chars]"
     }
   ]
 }
