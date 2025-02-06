@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Se debilita peso; dólar se vende en $20.64",
+      "Description": "El tipo de cambio cotiza en $20.6426 por dólar, con un retroceso para la moneda mexicana de un 0.74% respecto al martes.",
+      "Url": "https://www.reforma.com/se-debilita-peso-dolar-se-vende-en-20-64/ar2948861",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-02-05T14:29:53Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (05 febrero 2025) .-07:56 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae por segundo día! Precio del dólar hoy 5 de febrero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano cae por segunda jornada consecutiva ante preocupaciones por las amenazas arancelarias, con lo que el precio del dólar hoy 5 de febrero de 2025 cotiza en 20.64 unidades por cada billete verde; conoce aquí cuál es el tipo de c…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-5-febrero-2025-tipo-cambio-bancos-mexico/1698119",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/05/3253618.jpg",
+      "PublishedAt": "2025-02-05T14:18:55Z",
+      "Content": "El peso mexicano cae por segunda jornada consecutiva ante preocupaciones por las amenazas arancelarias, con lo que el precio del dólar hoy 5 de febrero de 2025 cotiza en 20.64 unidades por cada bille… [+1422 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 5 de febrero",
+      "Description": "Este 5 de febrero, el precio del dólar en México es de $20,4268, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-5-de-febrero-nid05022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-05T14:14:58Z",
+      "Content": "Este miércoles 5 de febrero de 2025, el precio del dólar en México es de $20,4268, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana sigue impactada por el acue… [+2147 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/21/fluctuaciones-peso-mexicano-frente-dolar.jpg",
       "PublishedAt": "2025-01-30T21:58:00Z",
       "Content": "Tras el anuncio de Donald Trump  sobre si concretará los aranceles previstos para México y Canadá, el peso cerró la sesión con una depreciación de 1.01% o 20.7 centavos, cotizando alrededor de 20.72 … [+2146 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 30 de enero",
-      "Description": "Este 30 de enero, el precio del dólar en México es de $20,5677, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-30-de-enero-nid30012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-jornada-del-miercoles-29-de-enero-el-peso-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-01-30T14:40:22Z",
-      "Content": "Este jueves 30 de enero, el precio del dólar en México es de $20,5677, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana coincide con una caída … [+2117 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae tras datos del PIB de México! Precio del dólar hoy 30 de enero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede luego de dos jornadas de ganancias y tras darse a conocer el informe del Producto Interno Bruto (PIB) a nivel local, con lo que el precio del dólar hoy 30 de enero de 2025 cotiza en 20.52 unidades por cada billete …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-30-enero-2025-tipo-cambio-bancos-mexico/1697104",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/30/3250633.jpg",
-      "PublishedAt": "2025-01-30T14:08:23Z",
-      "Content": "El peso mexicano retrocede luego de dos jornadas de ganancias y tras darse a conocer el informe del Producto Interno Bruto (PIB) a nivel local, con lo que el precio del dólar hoy 30 de enero de 2025 … [+1184 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez,Milenio Negocios",
-      "Title": "Precio del dólar HOY jueves 30 de enero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólarHOY jueves 30 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.48 pesos por unidad, con una bajadel 0.15 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-enero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-01-30T12:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 30 de enero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.48 pesos por unidad, con una baja del 0.15 por cie… [+885 chars]"
     }
   ]
 }
