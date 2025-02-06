@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Ganancias del peso tras pausa a aranceles de Trump se ‘evaporan’: ¿En cuánto cotiza HOY el dólar?",
+      "Description": "El peso mexicano recuperó más de 80 centavos después de que se confirmó la pausa de un mes a los aranceles de Donald Trump contra México, pero desde entonces ha venido a la baja.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/05/peso-dolar-precio-hoy-5-de-febrero-de-2025/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/IOCJLRHGFRCH3BDLR3YFXBZRAU.jpg?smart=true&auth=4bfd269264eb34ba42bfe7f0dc6d6c6c4ef99cc31716080482beaf77ffce3614&width=1200&height=630",
+      "PublishedAt": "2025-02-05T15:05:03Z",
+      "Content": "El peso mexicano, que recuperó terreno tras pausa a aranceles de Trump, arranca con pérdidas ante el dólar en la sesión de este miércoles 5 de febrero. \r\nLos mercados analizan la evolución de los con… [+1779 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2025/01/31/fotos/014n2eco-1.jpg",
       "PublishedAt": "2025-01-31T10:02:19Z",
       "Content": "Periódico La JornadaViernes 31 de enero de 2025, p. 14\r\nEl peso revirtió por la tarde una jornada que había sido de ganancias y en operaciones internacionales resintió una depreciación que lo llevó a… [+2795 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Peso pierde frente al dólar en medio de amagos de Trump sobre imponer aranceles a México",
-      "Description": "Tras el anuncio de Donald Trump sobre si concretará, durante la noche del jueves 30 de enero, los aranceles previstos para México y Canadá, el peso cerró la sesión con una depreciación de 1.01% o 20.7 centavos, cotizando alrededor de 20.72 pesos por dólar. Lo…",
-      "Url": "https://www.milenio.com/negocios/peso-pierde-frente-al-dolar-en-medio-de-la-polemica-de-los-aranceles",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/21/fluctuaciones-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2025-01-30T21:58:00Z",
-      "Content": "Tras el anuncio de Donald Trump  sobre si concretará los aranceles previstos para México y Canadá, el peso cerró la sesión con una depreciación de 1.01% o 20.7 centavos, cotizando alrededor de 20.72 … [+2146 chars]"
     }
   ]
 }
