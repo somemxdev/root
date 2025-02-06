@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Ashley Coutinho",
+      "Title": "Rupee to slide towards 88 against the dollar: Bank of America’s Rahul Namjoshi",
+      "Description": "Markets expect universal tariffs to ultimately feed into higher US inflation, higher US rates and a stronger USD, says Bank of America’s Rahul Namjoshi",
+      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-to-slide-towards-88-against-the-dollar-bank-of-americas-rahul-namjoshi/article69182721.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/n7u1ze/article69182792.ece/alternates/LANDSCAPE_1200/2025-01-28T080255Z_248505409_RC2IJBABFQQE_RTRMADP_3_INDIA-RBI-DIGITAL-CURRENCY.JPG",
+      "PublishedAt": "2025-02-05T05:44:43Z",
+      "Content": "Any possibility of tariffs, however low, on Indian exports will have a further negative impact on INR, said Rahul Namjoshi, Head of India FICC (Fixed Income, Currencies and Commodities) Sales, Bank o… [+5652 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.livemint.com/lm-img/img/2025/01/13/1600x900/bank_of_india_1736785980671_1736785981000.jpg",
       "PublishedAt": "2025-01-13T16:36:47Z",
       "Content": "Bank of India said it is marketing its first dollar syndicated loan since 2012 of as much as $400 million. That comes at a time when more Indian borrowers are tapping global credit markets. The lende… [+1983 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Pamela Heaven",
-      "Title": "Posthaste: Why a weak Canadian dollar won't stop the Bank of Canada from cutting rates",
-      "Description": "Bank of Canada won't stop cutting interest rates because of a weak Canadian dollar, says RBC. Read more",
-      "Url": "https://financialpost.com/news/canadian-dollar-will-not-stop-bank-of-canada-rate-cuts-rbc",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/canadian-dollar-0113.jpg",
-      "PublishedAt": "2025-01-13T13:01:37Z",
-      "Content": "Interest rates and the loonie are heading lower, predicts RBC\r\nRBC expects the Canadian dollar to fade further to 68.96 cents U.S. by the second quarter as the gap between the Fed and Bank of Canada … [+9185 chars]"
     }
   ]
 }
