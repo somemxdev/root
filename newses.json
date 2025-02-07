@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central recuperó poder de compra, pero sus reservas totales no dejan de caer",
+      "Description": "La entidad adquirió hoy US$326 millones, el mayor monto en 10 meses, pero sus tenencia cayó en otros US$612 millones al concretarse un pago de intereses al FMI",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-recupero-poder-de-compra-pero-sus-reservas-totales-no-dejan-de-caer-nid06022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banqueros-economia-comunidad-de-negocios-banco-QFEATI3JUJABDD5A4MNXEQGHT4.JPG?auth=4822f44ed7e8dd63aa5d48f3717ed55fc87a7d88713e46325596fa5f6c31dd17&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-06T20:15:58Z",
+      "Content": "El Banco Central (BCRA) sorprendió al mercado al comprar hoy US$326 millones por intervenciones sobre la plaza cambiaria oficial. Es el mayor monto en 10 meses, en una jornada en la que sus reservas … [+3799 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/perteneciente-a-la-serie-lincoln-esta-moneda-se-64UN5NIXBZGPXCSQGTITLYF2KQ.jpg?auth=5968648020dbebd6b9630cf2043cfae700fc49cb538b6ef5a2779f9b97be6538&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-01T18:58:00Z",
       "Content": "Un error de acuñación durante la Segunda Guerra Mundial transformó un simple centavo estadounidense en una de las monedas más codiciadas por los coleccionistas. Perteneciente a la serie Lincoln, la p… [+2647 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY 1 de febrero de 2025 en México: ¿Cómo va el tipo de cambio ante amenaza de aranceles?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de febrero el tipo de cambio interbancario, se ubica en 20.67 pesos por unidad, con una pérdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso mexicanoavanzó mar…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-1-febrero-2025-tipo-de-cambio-peso-mexicano",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-02-01T13:37:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de febrero el tipo de cambio interbancario, se ubica en 20.67 pesos por unidad, con una pérdida del 0.27 por cient… [+3149 chars]"
     }
   ]
 }
