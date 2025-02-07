@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza la espera del recorte a tasa del Banxico: ¿En cuánto se cotiza el dólar HOY?",
+      "Description": "El peso lleva una tendencia alcista ante el dólar desde que el presidente Donald Trump pausó por un mes los aranceles de 25% a México, una medida que pactó con Claudia Sheinbaum después de que recibió garantías de un reforzamiento de la vigilancia de la front…",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/06/peso-dolar-precio-hoy-6-de-febrero-de-2025-decision-del-banxico/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/HC4KIQPWCFH7HFAJEJEO33A23E.jpg?smart=true&auth=343f2d14d6935787cdb5908ef48f1950883fd54aefa069bc8773c2721ca187d9&width=1200&height=630",
+      "PublishedAt": "2025-02-06T17:08:48Z",
+      "Content": "El peso mexicano espera por el Banxico (que ya tiene Junta de Gobierno completa) y se aprecia ligeramente ante el dólar ante la primera decisión de política monetaria de 2025. \r\nEspecialistas pronost… [+2227 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-02-01T13:37:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de febrero el tipo de cambio interbancario, se ubica en 20.67 pesos por unidad, con una pérdida del 0.27 por cient… [+3149 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La letra “extra” en esta moneda de 25 centavos de dólar que hace que valga más de US$500.000",
-      "Description": "Acuñada en la década de 1970, la marca de la ceca la convierte en una pieza especial; se fabricó en conmemoración del 200 aniversario de la independencia de EE.UU.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-letra-extra-en-esta-moneda-de-25-centavos-de-dolar-que-hace-que-valga-mas-de-us500000-nid01022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-actualmente-en-circulacion-se-lanzo-ISQOSKUWNJAWVOLVJ4ROVNGIPA.jpg?auth=1c513eec98aeb095e7c1b5c1268bef0496d3b5dcfb70eaa110927d4170ef5e95&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-01T08:44:00Z",
-      "Content": "Por distintos motivos hay monedas antiguas que tienen valores increíbles en las subastas. Por detalles inéditos, por pocos ejemplares o por un error de acuñación, los coleccionistas están dispuestos … [+1376 chars]"
     }
   ]
 }
