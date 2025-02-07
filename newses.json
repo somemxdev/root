@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 6 de febrero",
+      "Description": "El precio del dólar en México es de $20,6363, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-6-de-febrero-nid06022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hoy-el-peso-es-afectado-por-el-avance-matutino-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-06T14:03:34Z",
+      "Content": "Este jueves 6 de febrero, el precio del dólar en México es de $20,6363, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana es afectado por el ava… [+2524 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-actualmente-en-circulacion-se-lanzo-ISQOSKUWNJAWVOLVJ4ROVNGIPA.jpg?auth=1c513eec98aeb095e7c1b5c1268bef0496d3b5dcfb70eaa110927d4170ef5e95&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-01T08:44:00Z",
       "Content": "Por distintos motivos hay monedas antiguas que tienen valores increíbles en las subastas. Por detalles inéditos, por pocos ejemplares o por un error de acuñación, los coleccionistas están dispuestos … [+1376 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar hoy: el blue y los financieros terminan el mes en baja tras la baja de tasas del Banco Central",
-      "Description": "El cambio en la política monetaria no generó grandes movimientos en el mercado; bajaron las acciones y los bonos argentinos",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-blue-y-los-financieros-terminan-el-mes-en-baja-tras-la-baja-de-tasas-del-banco-central-nid31012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-viernes-31-de-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-31T19:41:44Z",
-      "Content": "Tal como esperaba el mercado, anoche el Banco Central (BCRA) comunicó una baja de 300 puntos básicos de la tasa de interés de la política monetaria, al 29% nominal anual (TNA). Para analistas, con su… [+5194 chars]"
     }
   ]
 }
