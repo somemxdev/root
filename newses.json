@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 7 de febrero",
+      "Description": "El precio del dólar en México es de $20,5125, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-7-de-febrero-nid07022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-02-07T13:58:00Z",
+      "Content": "Este viernes 7 de febrero, el precio del dólar en México es de $20,5125, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana es afectado por el av… [+2257 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2025-02-02T14:34:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de febrero el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una ganancia para la moneda mex… [+1149 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / MDS",
-      "Title": "S&P advierte que aranceles de Trump podrían llevar a México a la recesión y al dólar a $22.28",
-      "Description": "Uno de los efectos esperados es el aumento en la tasa de desempleo, impulsado por la desaceleración del sector manufacturero.",
-      "Url": "https://aristeguinoticias.com/0202/dinero-y-economia/sp-advierte-que-aranceles-de-trump-podrian-llevar-a-mexico-a-la-recesion-y-al-dolar-a-22-28/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2025/02/donald-trump-tipo-cambio-peso-dolar-02022025.jpg",
-      "PublishedAt": "2025-02-02T08:26:24Z",
-      "Content": "La imposición de un arancel del 25 % a las exportaciones mexicanas por parte de Estados Unidos podría empujar a la economía de México a una recesión en 2025, advirtió un informe de S&amp;P Global Int… [+2940 chars]"
     }
   ]
 }
