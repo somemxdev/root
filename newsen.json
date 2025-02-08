@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "americafirstreport.com",
+      "Title": "Democrats Cry as “Liberal Supply Chains” Are Wiped Out and Their Favorite Multi-Billion Dollar Money Machine Is Shut Down",
+      "Description": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year? The corruption that is being uncovered at USAID is truly historic. USAID has a …",
+      "Url": "https://freerepublic.com/focus/f-chat/4295757/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-07T16:23:16Z",
+      "Content": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year? The corruption that… [+3854 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX.webp",
       "PublishedAt": "2025-01-17T01:45:32Z",
       "Content": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak.\r\nThe dollar continues its upward trend, showing an increase again today.\r\nOther majo… [+1602 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Czech National Bank Has $3.62 Million Position in Dollar General Co. (NYSE:DG)",
-      "Description": "Czech National Bank increased its stake in shares of Dollar General Co. (NYSE:DG – Free Report) by 6.4% in the 4th quarter, HoldingsChannel.com reports. The firm owned 47,682 shares of the company’s stock after buying an additional 2,888 shares during the qua…",
-      "Url": "https://www.etfdailynews.com/2025/01/16/czech-national-bank-has-3-62-million-position-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-01-16T08:47:27Z",
-      "Content": "Czech National Bank increased its stake in shares of Dollar General Co. (NYSE:DG – Free Report) by 6.4% in the 4th quarter, HoldingsChannel.com reports. The firm owned 47,682 shares of the company’s … [+6618 chars]"
     }
   ]
 }
