@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "$735,000 To Be Handed Out After Billion-Dollar Firm Allegedly Froze Bank Accounts, Forced Customers To Pay ‘Outrageous’ Fees",
+      "Description": "A billion-dollar fintech firm is preparing to send a total of $735,000 to tens of thousands of customers in a major settlement with regulators. New York Attorney General Letitia James says she’s secured more than $1 million from Netspend. The AG’s office says…",
+      "Url": "https://dailyhodl.com/2025/02/07/735000-to-be-handed-out-after-billion-dollar-firm-allegedly-froze-bank-accounts-forced-customers-to-pay-outrageous-fees/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-settle-dollars.jpg",
+      "PublishedAt": "2025-02-07T17:04:34Z",
+      "Content": "A billion-dollar fintech firm is preparing to send a total of $735,000 to tens of thousands of customers in a major settlement with regulators.\r\nNew York Attorney General Letitia James says she’s sec… [+1415 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/529376",
       "PublishedAt": "2025-01-17T02:31:57Z",
       "Content": "The US dollar ended 2024 with strong momentum, particularly against emerging market currencies (EMFX), with the trend accelerating in the fourth quarter.\r\nHedge funds took notably aggressive position… [+3090 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Khabarhub.com"
-      },
-      "Author": "Khabarhub",
-      "Title": "US dollar hits new high: Today’s foreign currency exchange rates",
-      "Description": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak. The dollar continues its upward trend, showing an increase again today. Other major currencies, including the Euro, British Pound Sterling, Swis…",
-      "Url": "https://english.khabarhub.com/2025/17/428748/",
-      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX.webp",
-      "PublishedAt": "2025-01-17T01:45:32Z",
-      "Content": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak.\r\nThe dollar continues its upward trend, showing an increase again today.\r\nOther majo… [+1602 chars]"
     }
   ]
 }
