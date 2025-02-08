@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Melanie Ariadna",
+      "Title": "Precio del dólar HOY viernes 7 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY viernes 7 de febrero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.49 pesos por unidad, con un fortalecimiento del 0.18 por ciento, según datos de Bloomberg.Ayer, elpeso mexic…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-02-07T12:07:00Z",
+      "Content": "Si te preguntas a cuánto está el dólarHOY viernes 7 de febrero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.49 pesos por unidad, con un fortalecimiento del 0… [+827 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2025/02/donald-trump-tipo-cambio-peso-dolar-02022025.jpg",
       "PublishedAt": "2025-02-02T08:26:24Z",
       "Content": "La imposición de un arancel del 25 % a las exportaciones mexicanas por parte de Estados Unidos podría empujar a la economía de México a una recesión en 2025, advirtió un informe de S&amp;P Global Int… [+2940 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El truco para saber si tu moneda de un centavo de dólar es de cobre: podrías tener US$370.000 sin saberlo",
-      "Description": "Una pieza de 1943 fabricada a base de la aleación de cobre y estaño fue subastada; la fecha y un error de acuñación la hacen extremadamente valiosa",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-truco-para-saber-si-tu-moneda-de-un-centavo-de-dolar-es-de-cobre-podrias-tener-us370000-sin-nid01022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/perteneciente-a-la-serie-lincoln-esta-moneda-se-64UN5NIXBZGPXCSQGTITLYF2KQ.jpg?auth=5968648020dbebd6b9630cf2043cfae700fc49cb538b6ef5a2779f9b97be6538&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-01T18:58:00Z",
-      "Content": "Un error de acuñación durante la Segunda Guerra Mundial transformó un simple centavo estadounidense en una de las monedas más codiciadas por los coleccionistas. Perteneciente a la serie Lincoln, la p… [+2647 chars]"
     }
   ]
 }
