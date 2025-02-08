@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso retrocede tras dato de la inflación! Precio del dólar hoy 7 de febrero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede luego de haberse recuperado en la jornada anterior, con lo que el precio del dólar hoy 7 de febrero de 2025 cotiza en 20.53 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-7-febrero-2025-tipo-cambio-bancos-mexico/1698582",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/07/3254933.jpg",
+      "PublishedAt": "2025-02-07T14:04:42Z",
+      "Content": "El peso mexicano retrocede luego de haberse recuperado en la jornada anterior, con lo que el precio del dólar hoy 7 de febrero de 2025 cotiza en 20.53 unidades por cada billete verde; conoce aquí cuá… [+1352 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/B3Q2RCEWNRDQBJQDCQX2P2OTGU.jpg?smart=true&auth=db93b2304855a0b63c9aa92b9ab4e116bee65f2696fecefa19a28f22532c5e0f&width=1200&height=630",
       "PublishedAt": "2025-02-02T22:18:19Z",
       "Content": "El dólar subió frente a la mayoría de sus pares del Grupo de los 10 en las primeras operaciones, ya que el presidente estadounidense Donald Trump impuso aranceles a los tres socios comerciales más im… [+3144 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY domingo 2 de febrero en México: ¿Cómo está el peso mexicano tras aranceles de Trump?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de febrero el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una ganancia para la moneda mexicana de 0.27 por ciento, según datos de Bloomberg.La moneda…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2025-02-02T14:34:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de febrero el tipo de cambio interbancario se ubica en 20.67 pesos por unidad, con una ganancia para la moneda mex… [+1149 chars]"
     }
   ]
 }
