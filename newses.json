@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Nicolás Castillo Arévalo",
+      "Title": "Dólar hoy: Tipo de cambio sube a S/3.719",
+      "Description": "La economía americana presentó una imagen positiva a pesar de haber añadido menos trabajos de los esperados. Las revisiones y el crecimiento salarial sorprendieron al alza, aumentando las expectativas de inflación y presionando a los mercados.",
+      "Url": "https://peru21.pe/economia/dolar-hoy-en-peru-tipo-de-cambio-sube-s3719/",
+      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2024-07/dolares.jpg?itok=pQdohX4L",
+      "PublishedAt": "2025-02-07T20:13:24Z",
+      "Content": "La cotización del dólar cerró la sesión de este viernes 7 de febrero en S/3.719, registrando un incremento de 20 puntos básicos (dos milésimas) en comparación con el cierre del jueves, cuando se ubic… [+2819 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/MG_7308.jpg",
       "PublishedAt": "2025-02-02T23:14:40Z",
       "Content": "El peso se depreciaba este domingo frente al dólar en los primeros minutos de la jornada en los mercados asiáticos, tras la decisión del presidente de Estados Unidos, Donald Trump, de imponer un aran… [+1596 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Aranceles ‘le pegan’ al peso: Tipo de cambio ‘rompe techo’ y supera las 21 unidades por dólar este domingo",
-      "Description": "El tipo de cambio podría verse afectado en México desde este domingo con la apertura de mercados en Asia.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/02/tipo-de-cambio-en-vivo-precio-del-dolar-peso-mexicano-hoy-2-de-febrero-aranceles-de-donald-trump-a-mexico/",
-      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/B3Q2RCEWNRDQBJQDCQX2P2OTGU.jpg?smart=true&auth=db93b2304855a0b63c9aa92b9ab4e116bee65f2696fecefa19a28f22532c5e0f&width=1200&height=630",
-      "PublishedAt": "2025-02-02T22:18:19Z",
-      "Content": "El dólar subió frente a la mayoría de sus pares del Grupo de los 10 en las primeras operaciones, ya que el presidente estadounidense Donald Trump impuso aranceles a los tres socios comerciales más im… [+3144 chars]"
     }
   ]
 }
