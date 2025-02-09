@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "Peso mexicano registra una apreciación del 0,72% al cierre de la semana ante la posición del dólar",
+      "Description": "CIUDAD DE MÉXICO (Sputnik) — La moneda mexicana cerró la semana cotizando en 20,52 unidades por divisa estadounidense, una apreciación de 0,72%.",
+      "Url": "https://noticiaslatam.lat/20250208/peso-mexicano-registra-una-apreciacion-del-072-al-cierre-de-la-semana-ante-la-posicion-del-dolar-1161061173.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1161061173.jpg?11602021801738989421",
+      "PublishedAt": "2025-02-08T04:37:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-02-03T12:15:00Z",
       "Content": "El dólar HOY lunes 3 de febrero inició operaciones con el tipo de cambio interbancario en 21.04 pesos por unidad, con una ganancia del 1.76 por ciento, según datos de Bloomberg.\r\nEl viernes, el peso … [+795 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cotiza en más de 21 unidades por dólar tras anuncio de aranceles de Trump",
-      "Description": "Forbes México.\n Peso cotiza en más de 21 unidades por dólar tras anuncio de aranceles de Trump\n\nEl tipo de cambio se ubica en 21.16 pesos por dólar, lo que representa una depreciación del 2.18% del peso en comparación con el cierre del viernes, cuando el dóla…",
-      "Url": "https://forbes.com.mx/peso-cotiza-en-mas-de-21-unidades-por-dolar-tras-imposicion-de-aranceles-de-trump/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/MG_7308.jpg",
-      "PublishedAt": "2025-02-02T23:14:40Z",
-      "Content": "El peso se depreciaba este domingo frente al dólar en los primeros minutos de la jornada en los mercados asiáticos, tras la decisión del presidente de Estados Unidos, Donald Trump, de imponer un aran… [+1596 chars]"
     }
   ]
 }
