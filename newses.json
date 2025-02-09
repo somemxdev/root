@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 8 de febrero de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de febrero el tipo de cambio interbancario, se ubica en 20.56 pesos por unidad, con una ganancia del 0.53 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depre…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2025-02-08T13:28:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de febrero el tipo de cambio interbancario, se ubica en 20.56 pesos por unidad, con una ganancia del 0.53 por cien… [+2138 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/02/03/3%20FEB%20DOLAR%201.jpg",
       "PublishedAt": "2025-02-03T13:27:30Z",
       "Content": "Este lunes 3 de febrero de 2025 el dólar se cotiza al inicio de la jornada en $20.93 pesos, unos centavos por arriba de su máximo valor interbancario del pasado viernes que fue de $20.75 pesos por un… [+1344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 3 de febrero de 2025: ¿Cuál es el tipo de cambio en México ante aranceles?",
-      "Description": "El dólarHOY lunes 3 de febreroinició operaciones con el tipo de cambio interbancario en 21.04 pesos por unidad, con una ganancia del 1.76 por ciento, según datos de Bloomberg.El viernes, el peso mexicano se apreciaba, aunque se encaminaba a culminar una seman…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-02-03T12:15:00Z",
-      "Content": "El dólar HOY lunes 3 de febrero inició operaciones con el tipo de cambio interbancario en 21.04 pesos por unidad, con una ganancia del 1.76 por ciento, según datos de Bloomberg.\r\nEl viernes, el peso … [+795 chars]"
     }
   ]
 }
