@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Poco conocida: la moneda de 20 centavos de dólar que puede valer hasta US$870.000",
+      "Description": "La acuñación de estas piezas tuvo lugar en 1876 en la Casa de la Moneda de Carson City, pero tiempo después salieron de circulación y una gran parte de los ejemplares se fundieron",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/poco-conocida-la-moneda-de-20-centavos-de-dolar-que-puede-valer-hasta-us870000-nid09022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-20-centavos-de-dolar-que-se-subasto-77G4IJPJSBFXZGK2SJWVRBGQKE.jpg?auth=23a1ea18a4a194508c016c8bb8c9a7531df5b80744a6c6f96e302c1b12ec18ec&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-09T15:25:00Z",
+      "Content": "Las monedas de colección en Estados Unidos generan interés por sus altos valores en subastas, donde piezas de circulación limitada pueden alcanzarcifras inesperadas debido a características particula… [+2222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/03/3252377.jpg",
       "PublishedAt": "2025-02-03T13:59:42Z",
       "Content": "El peso mexicano recorta las pérdidas del fin de semana luego de que Donald Trump impusiera aranceles a México, con lo que el precio del dólar hoy 3 de febrero de 2025 cotiza en 20.90 unidades por ca… [+1291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 3 de febrero 2025: El peso mexicano se deprecia producto de los aranceles",
-      "Description": "El billete verde se cotiza en $20.19 pesos a la compra y $20.98 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-3-de-febrero-2025-el-peso-mexicano-se-deprecia-producto-de-los-aranceles",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/02/03/3%20FEB%20DOLAR%201.jpg",
-      "PublishedAt": "2025-02-03T13:27:30Z",
-      "Content": "Este lunes 3 de febrero de 2025 el dólar se cotiza al inicio de la jornada en $20.93 pesos, unos centavos por arriba de su máximo valor interbancario del pasado viernes que fue de $20.75 pesos por un… [+1344 chars]"
     }
   ]
 }
