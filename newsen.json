@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "New American Prophet",
+      "Title": "Democrats Cry As “Liberal Supply Chains” Are Wiped Out and Their Favorite Multi-Billion Dollar Money Machine Is Shut Down",
+      "Description": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year? The corruption that is being uncovered at USAID is truly historic. USAID has a …",
+      "Url": "https://freerepublic.com/focus/f-chat/4296180/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-09T11:57:37Z",
+      "Content": "Skip to comments.\r\nDemocrats Cry As Liberal Supply Chains Are Wiped Out and Their Favorite Multi-Billion Dollar Money Machine Is Shut DownNew American Prophet ^\r\n | Febrrrrrrrrrrrrrrrrrrrruary 9, 202… [+2163 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB1M100_L.jpg",
       "PublishedAt": "2025-01-17T10:34:42Z",
       "Content": "Bank of America (BofA) analysts highlighted a shift in market sentiment, identifying long U.S. dollar positions as the most crowded trade, and now a significant headwind for the currency. This perspe… [+1434 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-jerusalem-post",
-        "Name": "The Jerusalem Post"
-      },
-      "Author": "BY JERUSALEM POST STAFF",
-      "Title": "Foreign exchange market analysis report shows dollar ended 2024 on high note",
-      "Description": "The US dollar surged in Q4 2024, backed by aggressive hedge fund positioning and widespread emerging market currency selloffs, while showing particular strength against major peers.",
-      "Url": "https://www.jpost.com/business-and-innovation/article-837951",
-      "UrlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/529376",
-      "PublishedAt": "2025-01-17T02:31:57Z",
-      "Content": "The US dollar ended 2024 with strong momentum, particularly against emerging market currencies (EMFX), with the trend accelerating in the fourth quarter.\r\nHedge funds took notably aggressive position… [+3090 chars]"
     }
   ]
 }
