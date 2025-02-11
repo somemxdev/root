@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El detalle en una moneda común de un dólar que hace que valga más de US$13.000",
+      "Description": "El Servicio Profesional de Calificación de Monedas estimó el valor de estos ejemplares que fueron producidos en 1971 en honor al presidente Dwight D. Eisenhower y la misión Apolo 11",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-detalle-en-una-moneda-comun-de-un-dolar-que-hace-que-valga-mas-de-us13000-nid10022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-se-ve-la-moneda-de-un-centavo-de-dolar-que-7SY6W7NVDBCSZOVZ4HWSWLEJLY.jpg?auth=456691c47a7ccbb09038c2a8f931f68f24d7e8d96f59c4f020e8ff4c8fbe2121&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-10T16:44:39Z",
+      "Content": "En el mundo del coleccionismo, ciertos billetes y monedas adquieren un valor superior al nominal. Factores como errores de acuñación, rareza e incluso su estado de conservación pueden influir en la c… [+2301 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-02-04T12:06:00Z",
       "Content": "Eldólar HOY martes 4 de febrero inició operaciones con el tipo de cambio interbancario n 20.43 pesos por unidad, con un fortalecimiento del 0.35 por ciento, según datos de Bloomberg.\r\nAyer,  la presi… [+831 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central compró sólo US$17 millones en el debut del crawling peg al 1% mensual",
-      "Description": "Se alzó así con el 4% de las divisas operadas en el mercado; arrancó hoy la anunciada reducción a la mitad en el ritmo de ajuste del tipo de cambio oficial",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-magra-compra-del-banco-central-en-el-debut-del-crawling-peg-al-1-mensual-nid03022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-bajo-a-dollar1929-a-la-espera-del-IPBGZ7SGMFAV7DJRROTVTGBHYY.jpg?auth=397045dd8a044b04e6ff6c0517d5f69b90fe9bb908aa7d8f83ca66d489789abd&width=1200&quality=70&smart=false&height=675",
-      "PublishedAt": "2025-02-03T20:00:10Z",
-      "Content": "La anunciada reducción a la mitad en el ritmo de ajuste del tipo de cambio oficial, que comenzó a regir en los hechos desde hoy, tuvo un debut algo tormentoso. Se puso en marcha en una jornada en que… [+2892 chars]"
     }
   ]
 }
