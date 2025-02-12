@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "seattlepi.com"
+      },
+      "Author": "By DÁNICA COTO, Associated Press",
+      "Title": "Lawsuit accuses owners of Puerto Rico-based international bank of a multimillion-dollar fraud scheme",
+      "Description": "An international bank based in Puerto Rico has been sued for fraud in an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting hundreds of clients in the U.S., Venezuela and elsewhere. One of the owners of Nodus Int…",
+      "Url": "https://www.seattlepi.com/news/world/article/lawsuit-accuses-owners-of-puerto-rico-based-20161360.php",
+      "UrlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
+      "PublishedAt": "2025-02-11T21:33:50Z",
+      "Content": "SAN JUAN, Puerto Rico (AP) An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting… [+2778 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "The Associated Press",
+      "Title": "Lawsuit accuses owners of Puerto Rico-based international bank of a multimillion-dollar fraud scheme",
+      "Description": "SAN JUAN, Puerto Rico (AP) — An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting hundreds of clients in the U.S., Venezuela and elsewhere.…",
+      "Url": "https://financialpost.com/pmn/lawsuit-accuses-owners-of-puerto-rico-based-international-bank-of-a-multimillion-dollar-fraud-scheme",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-11T21:02:55Z",
+      "Content": "SAN JUAN, Puerto Rico (AP) An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting… [+2586 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-01-20T08:33:05Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Khabarhub.com"
-      },
-      "Author": "Khabarhub",
-      "Title": "US Dollar becomes costlier: Today’s foreign currency exchange rates",
-      "Description": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak. The dollar has reached a new record high, alongside increases in the exchange rates of other major currencies such as the Euro, British Pound St…",
-      "Url": "https://english.khabarhub.com/2025/18/428961/",
-      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX.webp",
-      "PublishedAt": "2025-01-18T00:45:02Z",
-      "Content": "KATHMANDU: Nepal Rastra Bank has set the foreign exchange rates for today, with the US dollar reaching a new peak.\r\nThe dollar has reached a new record high, alongside increases in the exchange rates… [+1407 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bank of America flags dollar longs as crowded, eyes global inflation concerns",
-      "Description": "Bank of America flags dollar longs as crowded, eyes global inflation concerns",
-      "Url": "https://www.investing.com/news/forex-news/bank-of-america-flags-dollar-longs-as-crowded-eyes-global-inflation-concerns-93CH-3818488",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB1M100_L.jpg",
-      "PublishedAt": "2025-01-17T10:34:42Z",
-      "Content": "Bank of America (BofA) analysts highlighted a shift in market sentiment, identifying long U.S. dollar positions as the most crowded trade, and now a significant headwind for the currency. This perspe… [+1434 chars]"
     }
   ]
 }
