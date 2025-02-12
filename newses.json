@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Europa Press",
+      "Title": "Trump ordena a EEUU retirar la moneda de un centavo de dólar: \"¡Es un despilfarro!\"",
+      "Description": "A través de la red Truth Social, el presidente ha asegurado que \"durante demasiado tiempo, EEUU ha acuñado centavos que literalmente nos cuestan más de dos centavos\"",
+      "Url": "https://www.elconfidencial.com/economia/2025-02-11/trump-ordena-a-eeuu-abandonar-la-moneda-centavo_4062547/",
+      "UrlToImage": "https://images.ecestaticos.com/rD-pliC3CBJRMNHR9C7IgSYt600=/0x0:2272x1584/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/951/5a3/80e/9515a380ee582fa9b227036a238856c9.jpg",
+      "PublishedAt": "2025-02-11T16:46:00Z",
+      "Content": "El presidente de Estados Unidos, Donald Trump, ha ordenado al Departamento del Tesoro que se dejen de acuñar monedas de un centavo de dólar por el \"despilfarro\" que supone su producción, ya que el va… [+1194 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/04/3252939.jpg",
       "PublishedAt": "2025-02-04T15:57:18Z",
       "Content": "El peso mexicano se deprecia en la jornada de este martes por un ajuste de posiciones tras una jornada previa de fuerte volatilidad, con lo que el precio del dólar hoy 4 de febrero de 2025 cotiza en … [+1369 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 4 de febrero",
-      "Description": "Este 4 de febrero, el precio del dólar en México es de $20,6068, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-4-de-febrero-nid04022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-02-04T14:32:48Z",
-      "Content": "Este martes 4 de febrero, el precio del dólar en México es de $20,6068, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana se ve impactada por los recientes anun… [+2318 chars]"
     }
   ]
 }
