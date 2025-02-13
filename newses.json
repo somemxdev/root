@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 12 de febrero",
+      "Description": "El precio del dólar en México es de $20,568, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-12-de-febrero-nid12022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-12-de-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-12T14:33:38Z",
+      "Content": "Este miércoles 12 de febrero de 2025, el precio del dólar en México es de $20,568, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana se ve beneficiada por un re… [+2302 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2025-02-05T12:40:00Z",
       "Content": "El dólar HOY miércoles 5 de febrero inició operaciones con el tipo de cambio interbancario en 20.58 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.\r\nAyer, el p… [+913 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Las dos estrellas “escondidas” en la moneda de un dólar que la hacen una pieza única: se vende hasta por US$168.000",
-      "Description": "Un detalle en la acuñación de la serie Draped Bust de 1799 lo convirtió en una pieza codiciada por coleccionistas, lo que la llevó a alcanzar un valor récord en una subasta",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/las-dos-estrellas-escondidas-en-la-moneda-de-un-dolar-que-la-hacen-una-pieza-unica-se-vende-hasta-nid04022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-fue-acunada-en-1799-y-presenta-errores-EXO33MY24RDIRHGEV4RCD7C3F4.jpg?auth=04b874f47a93df9390db09fedb68d598cd7881adf105cd1ba23a9b39cc2d177d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-04T17:54:57Z",
-      "Content": "La serie de monedas Draped Bustse ha consolidado como una de las más buscadas por los coleccionistas, debido a su historia, diseño y fallas durante el proceso de acuñación que las convierten en pieza… [+3115 chars]"
     }
   ]
 }
