@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "US Tariffs Will Weaken Dollar If Nations Strike Back, Bank of America Says",
+      "Description": "US President Donald Trump tariff policies will eventually be a drag on the dollar despite providing an initial boost, according to Bank of America Corp.",
+      "Url": "https://financialpost.com/pmn/business-pmn/us-tariffs-will-weaken-dollar-if-nations-strike-back-bank-of-america-says",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/tariff-plans-support-the-dollar-greenback-has-been-rising-o.jpg",
+      "PublishedAt": "2025-02-12T22:36:17Z",
+      "Content": "(Bloomberg) US President Donald Trump tariff policies will eventually be a drag on the dollar despite providing an initial boost, according to Bank of America Corp. \r\nThe dollar may not like tariffs … [+1917 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB1M100_L.jpg",
       "PublishedAt": "2025-01-21T14:25:19Z",
       "Content": "Investing.com -- The Canadian dollar and Mexican peso may be at risk of further depreciation against the U.S. dollar, should U.S. President Trump decide to implement his proposed 25% tariffs on impor… [+871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bank of America says some tariff risk premium is likely to remain in US dollar",
-      "Description": "Bank of America says some tariff risk premium is likely to remain in US dollar",
-      "Url": "https://www.investing.com/news/forex-news/bank-of-america-says-some-tariff-risk-premium-is-likely-to-remain-in-us-dollar-93CH-3822272",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC1P1M1_L.jpg",
-      "PublishedAt": "2025-01-21T14:21:25Z",
-      "Content": "BofA strategists highlighted the current state of the US dollar, noting that while there is no trade deficit emergency prompting immediate tariffs, a partial reduction in the risk premium implied by … [+2299 chars]"
     }
   ]
 }
