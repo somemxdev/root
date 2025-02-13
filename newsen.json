@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Naturalnews.com"
+      },
+      "Author": "News Editors",
+      "Title": "Democrats cry as “liberal supply chains” are wiped out and their favorite multi-billion dollar money machine is shut down",
+      "Description": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year?  The corruption that is being uncovered at USAID is truly historic.  USAID has …",
+      "Url": "https://www.naturalnews.com/2025-02-12-democrats-cry-as-liberal-supply-chains-are-wiped-out.html",
+      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/Cash-Money-Flow-Bill-Us-Loan-Pay.jpg",
+      "PublishedAt": "2025-02-12T06:00:00Z",
+      "Content": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year?  The corruption tha… [+6332 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -378,19 +391,6 @@
       "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175979103",
       "UrlToImage": null,
       "PublishedAt": "2025-01-20T10:52:21Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar drifts ahead of Trump's return to the White House - Yahoo Finance",
-      "Description": "Dollar drifts ahead of Trump's return to the White HouseYahoo Finance Dollar dips, stocks creep higher as second Trump term dawnsReuters Hong Kong stocks lead gains in Asia-Pacific ahead of Donald Trump's inaugurationCNBC Stock market today: Asian shares gain…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175978645",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-20T08:33:05Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
