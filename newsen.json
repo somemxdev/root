@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "GlobeNewswire",
+      "Title": "Introducing the American Federation Dollar (AFD): A Gold-Backed Digital Currency Transforming Global Finance",
+      "Description": "WILMINGTON, Del., Feb. 12, 2025 (GLOBE NEWSWIRE) — The American Federation Treasury proudly announces the official launch of the American Federation Dollar (AFD), a groundbreaking gold-backed digital currency engineered to provide a stable, secure, and transp…",
+      "Url": "https://financialpost.com/globe-newswire/introducing-the-american-federation-dollar-afd-a-gold-backed-digital-currency-transforming-global-finance",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-12T13:07:13Z",
+      "Content": "Author of the article:\r\nArticle content\r\nWILMINGTON, Del., Feb. 12, 2025 (GLOBE NEWSWIRE) The American Federation Treasury proudly announces the official launch of the American Federation Dollar (AFD… [+6518 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC1P1M1_L.jpg",
       "PublishedAt": "2025-01-21T14:21:25Z",
       "Content": "BofA strategists highlighted the current state of the US dollar, noting that while there is no trade deficit emergency prompting immediate tariffs, a partial reduction in the risk premium implied by … [+2299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Canadian Dollar, Mexican Peso drop amid Trump's tariff threats",
-      "Description": "Canadian Dollar, Mexican Peso drop amid Trump's tariff threats",
-      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-mexican-peso-drop-amid-trumps-tariff-threats-3820888",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NK_L.jpg",
-      "PublishedAt": "2025-01-21T04:50:07Z",
-      "Content": "Investing.com-- The Canadian dollar and the Mexican peso declined on Tuesday following U.S. President Donald Trump's inauguration, during which he indicated plans to impose new tariffs on imports fro… [+1123 chars]"
     }
   ]
 }
