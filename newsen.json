@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GlobeNewswire"
+      },
+      "Author": "Saint Crown Industrial Loan Company Bank",
+      "Title": "Introducing the American Federation Dollar (AFD): A Gold-Backed Digital Currency Transforming Global Finance",
+      "Description": "The American Federation Treasury proudly announces the official launch of the American Federation Dollar (AFD). ......",
+      "Url": "https://www.globenewswire.com/news-release/2025/02/12/3025015/0/en/Introducing-the-American-Federation-Dollar-AFD-A-Gold-Backed-Digital-Currency-Transforming-Global-Finance.html",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-12T13:03:00Z",
+      "Content": "WILMINGTON, Del., Feb. 12, 2025 (GLOBE NEWSWIRE) -- The American Federation Treasury proudly announces the official launch of the American Federation Dollar (AFD), a groundbreaking gold-backed digita… [+3686 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NK_L.jpg",
       "PublishedAt": "2025-01-21T04:50:07Z",
       "Content": "Investing.com-- The Canadian dollar and the Mexican peso declined on Tuesday following U.S. President Donald Trump's inauguration, during which he indicated plans to impose new tariffs on imports fro… [+1123 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar dips, stocks creep higher as second Trump term dawns - Yahoo Finance",
-      "Description": "Dollar dips, stocks creep higher as second Trump term dawnsYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175979103",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-20T10:52:21Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
