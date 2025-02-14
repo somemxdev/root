@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez,Rafael Mejía Fernández de Lara",
+      "Title": "Así avanza el precio del dólar HOY miércoles 12 de febrero AL CIERRE: ¿Cómo le fue al peso mexicano?",
+      "Description": "El dolar HOY 12 de febrero,se mantiene estable frente a las principales divisas antes del informe de inflación en Estados Unidos, aunque sube 0.7 por ciento frente al yen, alcanzando 153.53 yenes. Su cotización frente al euro es de 1.03 dólares, mientras que …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2025-02-12T23:45:00Z",
+      "Content": "El dolar HOY 12 de febrero, se mantiene estable frente a las principales divisas antes del informe de inflación en Estados Unidos, aunque sube 0.7 por ciento frente al yen, alcanzando 153.53 yenes. S… [+925 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-05T14:14:58Z",
       "Content": "Este miércoles 5 de febrero de 2025, el precio del dólar en México es de $20,4268, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana sigue impactada por el acue… [+2147 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 5 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY miércoles 5 de febreroinició operaciones con el tipo de cambio interbancarioen 20.58 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreciaba por un ajuste de posiciones tras una j…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2025-02-05T12:40:00Z",
-      "Content": "El dólar HOY miércoles 5 de febrero inició operaciones con el tipo de cambio interbancario en 20.58 pesos por unidad, con un fortalecimiento del 0.41 por ciento, según datos de Bloomberg.\r\nAyer, el p… [+913 chars]"
     }
   ]
 }
