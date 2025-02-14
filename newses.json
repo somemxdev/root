@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 13 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar HOY jueves 13 de febrero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.62 pesos por unidad, con un fortalecimiento del 0.42 por ciento, según datos de Bloomberg.Ayer, el peso mexi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2025-02-13T12:41:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar HOY jueves 13 de febrero, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.62 pesos por unidad, con un fortalecimiento del … [+970 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/05/3253618.jpg",
       "PublishedAt": "2025-02-05T14:18:55Z",
       "Content": "El peso mexicano cae por segunda jornada consecutiva ante preocupaciones por las amenazas arancelarias, con lo que el precio del dólar hoy 5 de febrero de 2025 cotiza en 20.64 unidades por cada bille… [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 5 de febrero",
-      "Description": "Este 5 de febrero, el precio del dólar en México es de $20,4268, de acuerdo con el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-5-de-febrero-nid05022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-del-peso-mexicano-ante-el-dolar-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-05T14:14:58Z",
-      "Content": "Este miércoles 5 de febrero de 2025, el precio del dólar en México es de $20,4268, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana sigue impactada por el acue… [+2147 chars]"
     }
   ]
 }
