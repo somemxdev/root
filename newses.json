@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 13 de febrero",
+      "Description": "El precio del dólar en México es de $20,4917, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-13-de-febrero-nid13022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-13T14:20:29Z",
+      "Content": "Este jueves 13 de febrero, el precio del dólar en México es de $20,4917, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana es afectado ante el p… [+2083 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/IOCJLRHGFRCH3BDLR3YFXBZRAU.jpg?smart=true&auth=4bfd269264eb34ba42bfe7f0dc6d6c6c4ef99cc31716080482beaf77ffce3614&width=1200&height=630",
       "PublishedAt": "2025-02-05T15:05:03Z",
       "Content": "El peso mexicano, que recuperó terreno tras pausa a aranceles de Trump, arranca con pérdidas ante el dólar en la sesión de este miércoles 5 de febrero. \r\nLos mercados analizan la evolución de los con… [+1779 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Se debilita peso; dólar se vende en $20.64",
-      "Description": "El tipo de cambio cotiza en $20.6426 por dólar, con un retroceso para la moneda mexicana de un 0.74% respecto al martes.",
-      "Url": "https://www.reforma.com/se-debilita-peso-dolar-se-vende-en-20-64/ar2948861",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-02-05T14:29:53Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (05 febrero 2025) .-07:56 hrs"
     }
   ]
 }
