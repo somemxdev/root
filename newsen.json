@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": null,
+      "Title": "Block's Bitkey rolls out bitcoin inheritance fix for 'multibillion-dollar problem waiting to happen'",
+      "Description": "After announcing its bitcoin inheritance product in November, Block's Bitkey is rolling out the offering on Wednesday.",
+      "Url": "https://www.cnbc.com/2025/02/26/blocks-bitkey-rolls-out-fix-for-bitcoin-inheritance-problem.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108083195-1736275090096-gettyimages-2191588295-raa-bitcoinp250102_npxGk.jpeg?v=1740447663&w=1920&h=1080",
+      "PublishedAt": "2025-02-26T16:00:01Z",
+      "Content": "For over a decade, bitcoin has been lauded as a revolutionary financial asset decentralized, self-sovereign and resistant to confiscation all contributing to an astronomical increase in value.\r\nBut o… [+2961 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Properties and vehicles among assets liquidated",
+      "Description": "About S$1.8 million has been paid into the government’s consolidated fund as of December 2024, with another S$390 million pending.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-assets-property-cars-country-club-liquidated-4961496",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--eHyERZFR--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/25/JEM_0102 (1).jpg?itok=i2KE5HJB",
+      "PublishedAt": "2025-02-26T10:59:13Z",
+      "Content": "SINGAPORE: Assets surrendered to the state as part of the S$3 billion money laundering case are progressively being liquidated and returned to government coffers. \r\nA total of 54 properties, 33 vehic… [+1630 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Atmadip Ray",
+      "Title": "India's foreign exchange reserves fall by $2.5 billion amid aggressive dollar sales by RBI",
+      "Description": "India's foreign exchange reserves decreased by $2.5 billion in the week ending February 14, ending a three-week surge. The drop came after the Reserve Bank of India sold dollars aggressively to prevent the rupee from sliding beyond the 88-mark against the US …",
+      "Url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-foreign-exchange-reserves-fall-by-2-5-billion-amid-aggressive-dollar-sales-by-rbi/articleshow/118455011.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-118455041,width-1200,height-630,imgsize-8564,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2025-02-21T13:58:04Z",
+      "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Chantz Martin",
+      "Title": "D.C. Mayor Bowser open to using public money to help fund multibillion-dollar Commanders stadium at RFK site",
+      "Description": "Last year, Washington Commanders owner Josh Harris said 2030 was a \"reasonable target\" date for construction to finish on new stadium for the NFL franchise.",
+      "Url": "https://www.foxnews.com/sports/d-c-mayor-bowser-says-taxpayer-dollars-could-help-fund-potential-multi-billion-commanders-stadium-rfk-site",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/rfk-stadium-exterior.jpg",
+      "PublishedAt": "2025-02-15T23:04:18Z",
+      "Content": "Washington's NFL franchise has spent the last 28 seasons playing home games in Maryland. The Commanders currently call Northwest Stadium, formerly FedEx Field, home. \r\nThe stadium opened in time for … [+4679 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -340,58 +392,6 @@
       "UrlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-01/27/22/enhanced/dd50ca83866d/original-418-1738016812-2.jpg?crop=2999:1573;0,0%26downsize=1250:*",
       "PublishedAt": "2025-01-29T04:31:02Z",
       "Content": "\"I couldn't believe it; it was the same ball as his! And then I saw it had a name engraved on it Margie...my name. I was in shock and too surprised to speak; as I opened a side zipper, I found a pair… [+174 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
-      },
-      "Author": "Guardforce AI Co., Ltd.",
-      "Title": "Guardforce AI Secures Long-Term Partnership and Revenue Base Through 3-year, Multi-Million Dollar Contracts with Government Savings Bank in Thailand",
-      "Description": "NEW YORK, NY, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security, AI and Robot-as-a-Service (RaaS) provider, today announced that Guardforce Cash Solutions Security (Th…",
-      "Url": "https://www.globenewswire.com/news-release/2025/01/28/3016306/0/en/Guardforce-AI-Secures-Long-Term-Partnership-and-Revenue-Base-Through-3-year-Multi-Million-Dollar-Contracts-with-Government-Savings-Bank-in-Thailand.html",
-      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/7a955544-12ff-4c31-93d2-f47a50aa092d",
-      "PublishedAt": "2025-01-28T13:00:00Z",
-      "Content": "NEW YORK, NY, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Guardforce AI Co., Limited (Guardforce AI or the Company) (NASDAQ: GFAI, GFAIW), an integrated security, AI and Robot-as-a-Service (RaaS) provider, tod… [+4170 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Mexican peso slides, Canadian dollar weakens as Trump imposes tariffs on Colombia",
-      "Description": "Mexican peso slides, Canadian dollar weakens as Trump imposes tariffs on Colombia",
-      "Url": "https://www.investing.com/news/forex-news/mexican-peso-slides-canadian-dollar-weakens-as-trump-imposes-tariffs-on-colombia-3830990",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NK_L.jpg",
-      "PublishedAt": "2025-01-26T23:51:54Z",
-      "Content": "Investing.com-- The Mexican peso weakened sharply on Sunday, while the Canadian dollar softened amid heightened fears that U.S. President Donald Trump will deliver on his tariff threats, after he imp… [+1247 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Man charged with falsifying accounts, forgery",
-      "Description": "Wang Junjie is the second Singaporean to be charged in the case.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-wang-junjie-charged-forgery-falsifying-accounts-4891006",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--r6Rmhr81--/c_crop,h_900,w_1600,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/01/23/IMG_9211.jpg?itok=wpWeOfAY",
-      "PublishedAt": "2025-01-23T03:47:00Z",
-      "Content": "SINGAPORE: A man was charged on Thursday (Jan 23) with 15 offences, including forgery and falsifying accounts, in a S$3 billion (US$2.2 billion) money laundering case.\r\nWang Junjie, 42, is the second… [+1214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Canadian dollar and Mexican peso at risk of further depreciation against US dollar- analyst",
-      "Description": "Canadian dollar and Mexican peso at risk of further depreciation against US dollar- analyst",
-      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-and-mexican-peso-at-risk-of-further-depreciation-against-us-dollar-analyst-93CH-3822293",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB1M100_L.jpg",
-      "PublishedAt": "2025-01-21T14:25:19Z",
-      "Content": "Investing.com -- The Canadian dollar and Mexican peso may be at risk of further depreciation against the U.S. dollar, should U.S. President Trump decide to implement his proposed 25% tariffs on impor… [+871 chars]"
     }
   ]
 }
