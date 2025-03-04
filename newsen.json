@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": "nbc-news",
+        "Name": "NBC News"
+      },
+      "Author": "Sarah Whitten, CNBC",
+      "Title": "How a $5 million fix turned Paramount Pictures' 'Sonic' into a billion-dollar franchise",
+      "Description": "Sonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.",
+      "Url": "https://www.nbcnews.com/business/business-news/5-million-fix-turned-paramount-pictures-sonic-billion-dollar-franchise-rcna194602",
+      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250303-sonic-film-3-knuckles-character-ac-523p-fe4894.jpg",
+      "PublishedAt": "2025-03-03T22:25:43Z",
+      "Content": "Sonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\nA less-than-three-minute trailer released early that year to tea… [+7422 chars]"
+    },
     {
       "Source": {
         "Id": null,
