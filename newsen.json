@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "24,041 Americans Affected As Billion-Dollar Bank Suffers Data Breach",
+      "Description": "A billion-dollar bank says sensitive data belonging to thousands of customers is at risk of exposure following a major data breach. In a new filing with the Office of the Maine Attorney General, the Massachusetts-based lender Reading Cooperative Bank (RCB) sa…",
+      "Url": "https://dailyhodl.com/2025/03/02/24041-americans-affected-as-billion-dollar-bank-suffers-data-breach/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-breach-dollars.jpg",
+      "PublishedAt": "2025-03-02T14:30:33Z",
+      "Content": "A billion-dollar bank says sensitive data belonging to thousands of customers is at risk of exposure following a major data breach.\r\nIn a new filing with the Office of the Maine Attorney General, the… [+1360 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": null,
+      "Title": "How a $5 million fix turned Paramount Pictures' 'Sonic' into a billion-dollar franchise",
+      "Description": "Paramount Picture's redesign of the titular character in its \"Sonic the Hedgehog\" film has resulted in a $1.2 billion franchise five years later.",
+      "Url": "https://www.cnbc.com/2025/03/01/paramount-sonic-fix-billion-dollar-franchise.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/106240761-1573590837131sonic-the-hedgehog.jpg?v=1573590922&w=1920&h=1080",
+      "PublishedAt": "2025-03-01T13:00:01Z",
+      "Content": "Paramount Pictures revamped version of Sonic the Hedgehog (r).\r\nSonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\n… [+7645 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Bank Indonesia intervenes after rupiah falls to 5-year low against dollar",
+      "Description": "JAKARTA : Indonesia's central bank conducted a \"bold\" intervention in the foreign exchange market on Friday, an official said, after the rupiah fell to its lowest level against the U.S. dollar since March 2020. Edi Susianto, Bank Indonesia's head of monetary …",
+      "Url": "https://www.channelnewsasia.com/business/bank-indonesia-intervenes-after-rupiah-falls-5-year-low-against-dollar-4966951",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--UIJmn9O4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-02-28t063614z_1_lynxnpel1r05j_rtroptp_3_indonesia-markets.jpg?itok=r17YrMfd",
+      "PublishedAt": "2025-02-28T06:36:14Z",
+      "Content": "JAKARTA : Indonesia's central bank conducted a \"bold\" intervention in the foreign exchange market on Friday, an official said, after the rupiah fell to its lowest level against the U.S. dollar since … [+165 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Livemint",
+      "Title": "Standard Chartered chosen as dollar settlement bank in global finance hub at GIFT City: How will this help you?",
+      "Description": "Standard Chartered is India's dollar settlement bank. The move aims to speed up trades and support plans by Prime Minister Narendra Modi to bring rupee-related trading onshore.",
+      "Url": "https://www.livemint.com/industry/banking/standard-chartered-chosen-as-dollar-settlement-bank-in-global-finance-hub-at-gift-city-how-will-this-help-you-11740651436462.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/02/27/1600x900/T_1740652324152_1740652324380.JPG",
+      "PublishedAt": "2025-02-27T11:08:18Z",
+      "Content": "Standard Chartered Plc has been picked as the bank for real-time settlement of all dollar-denominated trades in the countrys only global financial center, likely slated for end-June. According to Blo… [+1161 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crikey"
+      },
+      "Author": "Bernard Keane",
+      "Title": "Labor’s billion-dollar splash in Victoria is a waste of taxpayers’ money",
+      "Description": "The Commonwealth is committed to giving Victoria $7 billion for a rail line to Tullamarine. It's a terrible investment.\nThe post Labor’s billion-dollar splash in Victoria is a waste of taxpayers’ money appeared first on Crikey.",
+      "Url": "http://www.crikey.com.au/2025/02/27/tullamarine-rail-line-airport-victoria-labor-billion-investment-infrastructure/",
+      "UrlToImage": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/02/20240509133666050208-original-copy.jpg?quality=70&w=1024",
+      "PublishedAt": "2025-02-27T00:19:48Z",
+      "Content": "Desperate to shore up their fading support in Melbourne, the federal and Victorian governments are as widely anticipated now throwing money at infrastructure in the citys western suburbs.\r\nYesterday,… [+4523 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -249,149 +314,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-02-04T01:38:41Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Weak Dollar, Money Printing and Other ‘Massive Changes’ To Bring Bitcoin to $1,000,000: Arthur Hayes",
-      "Description": "BitMEX founder Arthur Hayes says that a global, multi-polar macro shift will likely lead to a large expansion of the monetary supply which will push Bitcoin (BTC) and crypto to much higher valuations. In a new interview with Scott Melker, Hayes says that in o…",
-      "Url": "https://dailyhodl.com/2025/02/03/weak-dollar-money-printing-and-other-massive-changes-to-bring-bitcoin-to-1000000-arthur-hayes/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bitcoin-may-while-get.jpg",
-      "PublishedAt": "2025-02-03T12:45:59Z",
-      "Content": "BitMEX founder Arthur Hayes says that a global, multi-polar macro shift will likely lead to a large expansion of the monetary supply which will push Bitcoin (BTC) and crypto to much higher valuations… [+2220 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Dollar strength more worrying to Asian markets than Trump's China tariffs: Hang Seng Bank",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cc4cddb-b752-4c29-b3ce-9ba3190a7513",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-03T09:30:00Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thegatewithbriancohen.com"
-      },
-      "Author": "Brian Cohen",
-      "Title": "Tariffs Tumble Canadian Dollar and Mexican Peso to Lowest Levels in Years Against the United States Dollar",
-      "Description": "Tariffs tumble the Canadian Dollar and the Mexican Peso to their lowest levels in years against the United States Dollar, as the current president of the United States implemented an additional tariff of 25 percent on imported goods from both Canada and — as …",
-      "Url": "https://thegatewithbriancohen.com/tariffs-tumble-canadian-dollar-and-mexican-peso-to-lowest-levels-in-years-against-the-united-states-dollar/",
-      "UrlToImage": "https://thegatewithbriancohen.com/wp-content/uploads/2017/06/IMG_2909.jpg",
-      "PublishedAt": "2025-02-03T03:37:05Z",
-      "Content": "Tariffs tumble the Canadian Dollar and the Mexican Peso to their lowest levels in years against the United States Dollar, as the current president of the United States implemented an additional tarif… [+3274 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "https://www.thegatewaypundit.com",
-      "Title": "Canadian Dollar and Mexican Peso Fall, Canadian Dollar Plummets to Lowest Level Since 2003 After President Trump Unleashes Tariffs",
-      "Description": "Canada’s dollar and Mexico’s peso took a hit Saturday, with Canada’s dollar sliding to its lowest level since 2003, one day after President Trump imposed tariffs on the two nations. The Canadian dollar dropped 1.4% to roughly C$1.47 against one U.S. dollar. B…",
-      "Url": "https://freerepublic.com/focus/f-news/4294491/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-03T02:42:53Z",
-      "Content": "Skip to comments.\r\nCanadian Dollar and Mexican Peso Fall, Canadian Dollar Plummets to Lowest Level Since 2003 After President Trump Unleashes Tariffshttps://www.thegatewaypundit.com ^\r\n | 2/2/2025\r\n … [+4274 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Yuan hits record low, Mexican peso, Canadian dollar tumble on Trump tariffs",
-      "Description": "China's yuan hit a record low after the US imposed tariffs on China, Canada, and Mexico, sparking fears of a trade war. The US dollar surged against global currencies including the euro and the Swiss franc, while retaliatory measures were promised by affected…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/yuan-hits-record-low-mexican-peso-canadian-dollar-tumble-on-trump-tariffs/articleshow/117872549.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-117872562,width-1200,height-630,imgsize-115514,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-02-03T01:59:50Z",
-      "Content": "China's yuan slumped to a record low in offshore trading on Monday, while Mexico's peso and Canada's dollar tumbled to multi-year troughs after U.S. President Donald Trump slapped the countries with … [+2232 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Yuan hits record low, Mexican peso, Canadian dollar tumble on Trump tariffs",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60b7a96f-6021-466b-9f70-f7573866a480",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-02T23:41:55Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Benny Johnson on Twitter X",
-      "Title": "Immediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall.",
-      "Description": "Benny Johnson @bennyjohnson Immediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall. Don’t mess with the United States of America. 3:55 PM · Feb 2, 2025",
-      "Url": "https://freerepublic.com/focus/f-news/4294426/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-02T22:49:41Z",
-      "Content": "Skip to comments.\r\nImmediately following Trump's tariff announcement, the value of both the Canadian dollar and the Mexican peso are in freefall.Benny Johnson on Twitter X ^\r\n | February 2, 2025\r\n | … [+1339 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Allegedly Loses $15,500,000 To Criminals in ‘Shocking’ Display of Incompetence and Negligence: Report",
-      "Description": "A New York-based bank is reportedly facing a new lawsuit after thieves allegedly looted $15.5 million from an account that belonged to a public utility firm. Garden City Park Water and Fire is suing First National Bank of Long Island for gross negligence amid…",
-      "Url": "https://dailyhodl.com/2025/02/01/billion-dollar-bank-allegedly-loses-15500000-to-criminals-in-shocking-display-of-incompetence-and-negligence-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/06/banks-unload-dollar.jpg",
-      "PublishedAt": "2025-02-01T18:58:50Z",
-      "Content": "A New York-based bank is reportedly facing a new lawsuit after thieves allegedly looted $15.5 million from an account that belonged to a public utility firm.\r\nGarden City Park Water and Fire is suing… [+2478 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Says Account Numbers, Names and Other Sensitive Info Exposed As Insider Triggers New Data Breach",
-      "Description": "The tenth-largest bank in the US by total assets just disclosed a new cybersecurity incident that’s affecting customers’ data. In a filing with the Massachusetts state government, TD Bank says it recently discovered that a former employee accessed and shared …",
-      "Url": "https://dailyhodl.com/2025/02/01/billion-dollar-bank-says-account-numbers-names-and-other-sensitive-info-exposed-as-insider-triggers-new-data-breach/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/counterfeit-cash-dollar.jpg",
-      "PublishedAt": "2025-02-01T16:00:32Z",
-      "Content": "The tenth-largest bank in the US by total assets just disclosed a new cybersecurity incident that’s affecting customers data.\r\nIn a filing with the Massachusetts state government, TD Bank says it rec… [+1606 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Heather Hall",
-      "Title": "Sister Asks For Grocery Money, But Refuses Help When She’s Offered Food From The Dollar Tree Instead",
-      "Description": "What an entitled sister!",
-      "Url": "http://twistedsifter.com/2025/02/sister-asks-for-grocery-money-but-refuses-help-when-shes-offered-food-from-the-dollar-tree-instead/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2025/01/Dollar-Tree-Thumb.jpg",
-      "PublishedAt": "2025-02-01T07:21:41Z",
-      "Content": "Helping out family isnt always as simple as it sounds.\r\nWhat would you do if a relative asked for financial help but had a history of never paying you back? Would you give them the money and hope for… [+2342 chars]"
-    },
-    {
-      "Source": {
-        "Id": "buzzfeed",
-        "Name": "Buzzfeed"
-      },
-      "Author": "Mike Spohr",
-      "Title": "\"15 Years Later I Received The Same Dollar Bill From A Bank Teller!\": 25 Coincidences That Defy All Odds But Actually Happened To People",
-      "Description": "I'm not saying we live in a simulation, but I'm not not saying we live in one.View Entire Post ›",
-      "Url": "https://www.buzzfeed.com/mikespohr/25-mind-blowing-coincidences-that-defy-all-odds",
-      "UrlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-01/27/22/enhanced/dd50ca83866d/original-418-1738016812-2.jpg?crop=2999:1573;0,0%26downsize=1250:*",
-      "PublishedAt": "2025-01-29T04:31:02Z",
-      "Content": "\"I couldn't believe it; it was the same ball as his! And then I saw it had a name engraved on it Margie...my name. I was in shock and too surprised to speak; as I opened a side zipper, I found a pair… [+174 chars]"
     }
   ]
 }

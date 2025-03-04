@@ -1,8 +1,151 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 3 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-3-de-marzo-nid03032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-03T14:06:05Z",
+      "Content": "Este lunes 3 de marzo, el precio del dólar en México es de $20,508, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por una posibi… [+2298 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Precio del dólar 3 de marzo 2025: El peso arranca la semana ganando unos centavos",
+      "Description": "La divisa estadounidense se cotiza en $20.02 pesos a la compra y $20.84 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-3-de-marzo-2025-el-peso-arranca-la-semana-ganando-unos-centavos",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/03/03/precio-del-dolar-3-de-marzo-2025-el-peso-arranca-la-semana-ganando-unos-centavos.jpg",
+      "PublishedAt": "2025-03-03T13:23:31Z",
+      "Content": "Este lunes 3 de marzo de 2025 el dólar se cotiza al inicio de la jornada en $20.49 pesos, unos centavos por debajo de su valor al cierre del pasado viernes que fue de $20.57 pesos por unidad. \r\nPor o… [+739 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 3 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY lunes 3 de febrero inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un debilitamiento del 0.40 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreciaba a la espera de noticias s…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-03T12:18:00Z",
+      "Content": "El dólar HOY lunes 3 de febrero inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un debilitamiento del 0.40 por ciento, según datos de Bloomberg.… [+883 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Pedro Morini",
+      "Title": "Con el dólar en calma, el Banco Central volvió a comprar reservas",
+      "Description": "Pese a los efectos todavía presentes del criptogate, las cotizaciones del dólar MEP y CCL mostraron menos volatilidad en la semana; el aumento de las liquidaciones de exportaciones por parte del agro permitió al BCRA cerrar el mes con compras netas",
+      "Url": "https://www.lanacion.com.ar/economia/con-el-dolar-en-calma-el-banco-central-volvio-a-comprar-reservas-nid02032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-logro-comprar-reservas-en-42NH43WVBFFJFL66XKGBFNEHZY.jpg?auth=9ddbc6c4586b696d8e4b2fa84edca6f634e328965ca314ddc3df9e005714e32a&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-02T13:12:59Z",
+      "Content": "Luego de lo que podríamos catalogar como el peor error no forzado del gobierno, parecería que el mercado apuesta al olvido. Esta semana, los dólares financieros (MEP y CCL) mostraron menos volatilida… [+2159 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 1 de marzo 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de marzo el tipo de cambio interbancario, se ubica en 20.55 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano,se apreciab…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-03-01T13:34:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de marzo el tipo de cambio interbancario, se ubica en 20.55 pesos por unidad, con una pérdida del 0.23 por ciento,… [+2326 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra esta semana por debajo de ¢505",
+      "Description": "El precio del dólar en Monex no se situaba por debajo de este umbral desde el 22 de enero.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-esta-semana-por/WT2YU4HRLFGGTH7TUEGCFCCDWA/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
+      "PublishedAt": "2025-02-28T23:02:51Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana por debajo de los ¢505 en el Mercado de Monedas Extranjeras (Monex), y alcanzó su valor más bajo en más de un mes.Este viernes 28 de fe… [+2620 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "No fue mucho, pero sí honesto: Peso derrota al dólar en febrero, mes de incertidumbre por aranceles",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/28/peso-dolar-precio-hoy-28-de-febero-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T6RJPYUA2VBHLMOJVG4X5VWE7A.jpg?smart=true&auth=0397a63055dabd4e408e2cf93a3174d796d9711b8a79ac82b2e5a232ead21c26&width=1200&height=630",
+      "PublishedAt": "2025-02-28T21:11:50Z",
+      "Content": "El peso mexicano perdió ante el dólar en la última sesión de febrero, con la atención de los inversionistas aún centrada en cómo evolucionan las amenazas de aranceles de Trump y aumentan el nerviosis… [+1857 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 28 de febrero de 2025: Peso mexicano 'se recupera' atento a negociación sobre aranceles",
+      "Description": "El dólarhoyviernes 28 de febrerose fortalecía ante la perspectiva de que el presidente de Estados Unidos, Donald Trump, impondrá a los aranceles, aunado con una oleada de ventas que afectaba a divisas sensibles al riesgo, así como al bitcoin, la criptomoneda …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-02-28T21:00:00Z",
+      "Content": "El dólar hoy viernes 28 de febrero se fortalecía ante la perspectiva de que el presidente de Estados Unidos, Donald Trump, impondrá a los aranceles, aunado con una oleada de ventas que afectaba a div… [+1323 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 28 de febrero",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-28-de-febrero-nid28022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-28-de-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-28T14:29:40Z",
+      "Content": "Este viernes 28 de febrero, el precio del dólar en México es de $20,4722, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por los … [+2349 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 27 de febrero",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-27-de-febrero-nid27022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-27T14:10:44Z",
+      "Content": "Este jueves 27 de febrero, el precio del dólar en México es de $20,4277, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado por la… [+2310 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Trump tambalea al peso! Precio del dólar hoy 27 de febrero de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano revirtió las ganancias iniciales de la jornada de este jueves, con lo que el precio del dólar hoy 27 de febrero de 2025 cotiza en 20.51 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxi…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-27-febrero-2025-tipo-cambio-bancos-mexico/1702212",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/27/3265633.jpg",
+      "PublishedAt": "2025-02-27T14:03:34Z",
+      "Content": "El peso mexicano revirtió las ganancias iniciales de la jornada de este jueves, con lo que el precio del dólar hoy 27 de febrero de 2025 cotiza en 20.51 unidades por cada billete verde; conoce aquí c… [+1195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -249,149 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SSUGHSWRWJBVJFYEIXKYYXZSAQ.jpg?smart=true&auth=f5cdbfafb970fe69a49071ebb146a5c0052894eef8d99c21246816b77517bad5&width=1200&height=630",
       "PublishedAt": "2025-02-20T21:16:19Z",
       "Content": "La mayoría de las divisas emergentes, entre ellas el peso mexicano, registraron una sesión de ganancias, aprovechando el debilitamiento que refleja el índice ponderado dólar. \r\nEste jueves, la moneda… [+3165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Invertir en… ¿rublos? Por esta razón la moneda de Rusia ‘brillará’ más que el dólar en 2025",
-      "Description": "La moneda de Rusia ha ganado terreno frente al dólar debido a un cambio dramático en la política de Estados Unidos hacia Vladimir Putin.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/20/invertir-en-rublos-por-esta-razon-la-moneda-de-rusia-brillara-mas-que-el-dolar-en-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/FTUC4JKWYZH7DG667H524GERIA.jpg?smart=true&auth=c3392c4d3615793415548f7a2834c586e2f683b3791b8871c5c09e443ad50a5e&width=1200&height=630",
-      "PublishedAt": "2025-02-20T18:32:28Z",
-      "Content": "El rublo, la moneda de Rusia, ha ganado terreno frente al dólar debido a un cambio dramático en la política de Estados Unidos hacia el país gobernado por Vladimir Putin en los primeros días de la adm… [+1655 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 20 de febrero",
-      "Description": "El precio del dólar en México es de $20,4208, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-20-de-febrero-nid20022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-20-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-20T15:07:40Z",
-      "Content": "Este jueves 20 de febrero, el precio del dólar en México es de $20,4208, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño de la divisa mexicana se ve impactado por l… [+2235 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y Adriana Arcos",
-      "Title": "Cierra dólar en $20.31 y peso repone terreno",
-      "Description": "El dólar cerró la jornada de este jueves con una cotiza de $20.3178; cifra 12.92 centavos menor a la registrado el miércoles pasado.",
-      "Url": "https://www.reforma.com/cierra-dolar-en-20-31-y-peso-repone-terreno/ar2957285",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-02-20T14:08:26Z",
-      "Content": "03 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (20 febrero 2025) .-08:03 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 20 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY jueves 20 de febrero inició operaciones con el tipo de cambio interbancario en 20.37 pesos por unidad, con un debilitamiento del 0.36 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se depreciaba después de seis jornadas seguidas de g…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-02-20T12:04:00Z",
-      "Content": "El dólar HOYjueves 20 de febrero se debilitaba frente a varias divisas, mientras los inversionistas asimilaban los últimos planes arancelarios del presidente de Estados Unidos, Donald Trump, y el yen… [+1075 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Enrique Quintana",
-      "Title": "¿Regresa la volatilidad del peso frente al dólar?",
-      "Description": "El estilo de Trump no cambiará. Su mandato continuará por al menos cuatro años más, lo que obliga a México a desarrollar estrategias para reducir los puntos de presión que pueda utilizar en futuras negociaciones.",
-      "Url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2025/02/20/regresa-la-volatilidad-del-peso-frente-al-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/A7X7Z6IFHVCS3OBXGTQ3KZOC4U.jpg?smart=true&auth=83b3b971454be2f62e46d21b7339b30509230facf85e813e0aae337a0f7997a5&width=1200&height=630",
-      "PublishedAt": "2025-02-20T10:26:32Z",
-      "Content": "La cotización del peso frente al dólar se ha convertido en un claro indicador de la incertidumbre que generan tanto el entorno externo como el local.\r\nA pesar de las constantes amenazas de Donald Tru… [+3072 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 19 de febrero",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-19-de-febrero-nid19022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-19T14:50:21Z",
-      "Content": "Este miércoles 19 de febrero de 2025, el precio del dólar en México es de $20,2617, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana se ve afectada por nuevas … [+2241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 19 de febrero de 2025: Peso retrocede, atento a Fed y a amenazas arancelarias Trump",
-      "Description": "El dolarHOY 19 de febrero,se mantenía estable, con su índice en 107.06, registrando un leve aumento del 0.047 por ciento tras haber caído 1.2 por ciento la semana pasada. Los inversionistas seguían de cerca las negociaciones de paz en Ucrania y las nuevas ame…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2025-02-19T14:50:00Z",
-      "Content": "El dolar HOY 19 de febrero se mantenía estable frente a una serie de divisas, mientras que el yen se fortalecía, debido a que los inversionistas se centraron en las conversaciones sobre un alto el fu… [+989 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cede ante amenazas de Trump! Precio del dólar hoy 19 de febrero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en el inicio de la jornada de este miércoles, con lo que el precio del dólar hoy 19 de febrero de 2025 cotiza en 20.35 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nL…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-19-febrero-2025-tipo-cambio-bancos-mexico/1700680",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/19/3261095.jpg",
-      "PublishedAt": "2025-02-19T14:30:09Z",
-      "Content": "El peso mexicano retrocede en el inicio de la jornada de este miércoles, con lo que el precio del dólar hoy 19 de febrero de 2025 cotiza en 20.35 unidades por cada billete verde; conoce aquí cuál es … [+1822 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 19 de febrero 2025: Le descuentan unos centavos al peso mexicano",
-      "Description": "La divisa estadounidense se cotiza en $19.85 pesos a la compra y $20.59 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-19-de-febrero-2025-le-descuentan-unos-centavos-al-peso-mexicano",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/02/19/precio-del-dolar-19-de-febrero-2025-le-descuentan-unos-centavos-al-peso-mexicano.jpg",
-      "PublishedAt": "2025-02-19T12:49:52Z",
-      "Content": "Este miércoles 18 de febrero de 2025 el dólar se cotiza al inicio de la jornada en $20.34 pesos, unos centavos por arriba de su valor al cierre del día anterior que fue de $20.27 pesos por unidad. \r\n… [+722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Trump le ‘baja’ a sus anuncios arancelarios... y el peso gana al dólar: ¿En cuánto se cotiza hoy?",
-      "Description": "Esta semana ha estado libre (por ahora) de anuncios arancelarios por parte del presidente Donald Trump. ¿Cómo se beneficia el peso?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/18/peso-dolar-precio-hoy-18-de-febrero-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2RU4VXUALNHOFKYHVVA7WWBPDM.jpg?smart=true&auth=7926f583465ecaac0d73a2982abfc0df8dc3265cd9ca57b6d9526ac66c21f1b0&width=1200&height=630",
-      "PublishedAt": "2025-02-18T16:41:24Z",
-      "Content": "El peso mexicano se prepara para ligar una nueva sesión de ganancias frente al dólar a medida que la aversión al riesgo sobre México disminuye, esto después de semanas con amenazas de aranceles del p… [+1932 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 18 de febrero",
-      "Description": "El precio del dólar en México es de $20,283, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-18-de-febrero-nid18022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-02-18T14:54:00Z",
-      "Content": "Este martes 18 de febrero, el precio del dólar en México es de $20,283, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, la moneda mexicana se ve impactada por el asueto de este … [+2247 chars]"
     }
   ]
 }
