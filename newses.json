@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Jordan Saucedo",
+      "Title": "De entrar en vigor los aranceles sin modificaciones, el peso superaría las 21 unidades por dólar: analistas",
+      "Description": "A raíz de la confirmación del presidente de Estados Unidos, Donald Trump, de imponer aranceles del 25 por ciento a México y Canadá a partir del 4 de marzo, el tipo de cambio será uno de los principales afectados, pues el peso mexicano podría superar las 21 un…",
+      "Url": "https://www.milenio.com/negocios/entrar-vigor-aranceles-peso-llegaria-21-unidades-dolar",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/28/peso-mexicano-registra-caida-meses.jpeg",
+      "PublishedAt": "2025-03-04T00:16:37Z",
+      "Content": "A raíz de la confirmación del presidente de Estados Unidos, Donald Trump, de imponeraranceles del 25 por ciento a México y Canadá a partir del 4 de marzo, el tipo de cambio será uno de los principale… [+2256 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-02-21T14:06:47Z",
       "Content": "Este viernes 21 de febrero, el precio del dólar en México es de $20,3733, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por las … [+2418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Cierra dólar en $20.42; se deprecia peso",
-      "Description": "Entre el 14 y 21 de febrero, dólar repuntó 11.01 centavos a $20.4231, por lo que la divisa nacional interrumpió dos semanas con apreciación.",
-      "Url": "https://www.reforma.com/cierra-dolar-en-20-42-se-deprecia-peso/ar2957963",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/863/5862557.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-02-21T13:35:50Z",
-      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia\r\nCd. de México (21 febrero 2025) .-07:31 hrs"
     }
   ]
 }
