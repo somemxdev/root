@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters ,Fernanda Murillo",
+      "Title": "¿Por qué los aranceles de Trump 'empujan' al peso mexicano cerca de los $21.00 por dólar?",
+      "Description": "El peso mexicano caía por cuarto día consecutivo y se acercaba a a los 21.00 unidades por dólar hoydespués de que entraron en vigor los aranceles del 25 por cientoque impulsó el presidente de Estados Unidos, Donald Trump.La economía de México, dependiente del…",
+      "Url": "https://www.milenio.com/negocios/por-que-cayo-el-peso-mexicano-ante-dolar-hoy-por-aranceles-trump",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-03-04T16:42:00Z",
+      "Content": "El peso mexicano caía por cuarto día consecutivo y se acercaba a a los 21.00 unidades por dólar hoy después de que entraron en vigor los aranceles del 25 por ciento que impulsó el presidente de Estad… [+5452 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-02-24T12:15:51Z",
       "Content": "El dólar hoy 5 de febrero inició con un tipo de cambio interbancario en 20.41 pesos mexicanos por billete verde, con un debilitamiento del 0.02 por ciento, según datos de Bloomberg.\r\nLa semana pasada… [+796 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así sería la moneda de un dólar con el rostro de Steve Jobs que proponen en California",
-      "Description": "El gobernador Gavin Newsom nominó a Steve Jobs, cofundador de Apple, para aparecer en la pieza de US$1 bajo el programa de Innovación Estadounidense",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/california/asi-seria-la-moneda-de-un-dolar-con-el-rostro-de-steve-jobs-que-proponen-en-california-nid21022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/steve-jobs-fue-cofundador-y-presidente-ejecutivo-OSWBFHUQVVF6ZKZZNI74V6BFFQ.jpg?auth=d44d8640c74ede2f557fd3bdc0951d35503f90c04f085b08971b03d8eb831bfa&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-22T01:11:00Z",
-      "Content": "El gobernador de California, Gavin Newsom, propuso que Steve Jobssea el rostro de la moneda de un dólar de Innovación Estadounidense. Esta iniciativa forma parte de un programa nacional lanzado en 20… [+3458 chars]"
     }
   ]
 }
