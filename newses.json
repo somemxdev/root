@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cae tras anuncio de Sheinbaum sobre aranceles; toca brevemente barrera de 21 unidades por dólar",
+      "Description": "Forbes México.\n Peso cae tras anuncio de Sheinbaum sobre aranceles; toca brevemente barrera de 21 unidades por dólar\n\nEl peso en 20.9360 por dólar, con una depreciación de un 1.2%, ampliando sus pérdidas iniciales.\nPeso cae tras anuncio de Sheinbaum sobre ara…",
+      "Url": "https://forbes.com.mx/peso-cae-tras-anuncio-de-sheinbaum-sobre-aranceles-toca-brevemente-barrera-de-21-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0087-1.jpg",
+      "PublishedAt": "2025-03-04T14:32:05Z",
+      "Content": "El peso extendía el martes sus pérdidas después de que la presidenta Claudia Sheinbaum dijo que el domingo anunciará en un acto público medidas arancelarias y no arancelarias, en respuesta a las tari… [+2543 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso roza las 21 unidades! Precio del dólar hoy 4 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano extiende las pérdidas que empezaron desde la jornada de ayer por los aranceles, con lo que el precio del dólar hoy 4 de marzo de 2025 cotiza en 20.93 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-4-marzo-2025-tipo-cambio-bancos-mexico/1703077",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/04/3268165.jpg",
+      "PublishedAt": "2025-03-04T14:09:15Z",
+      "Content": "El peso mexicano extiende las pérdidas que empezaron desde la jornada de ayer por los aranceles, con lo que el precio del dólar hoy 4 de marzo de 2025 cotiza en 20.93 unidades por cada billete verde;… [+1280 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/steve-jobs-fue-cofundador-y-presidente-ejecutivo-OSWBFHUQVVF6ZKZZNI74V6BFFQ.jpg?auth=d44d8640c74ede2f557fd3bdc0951d35503f90c04f085b08971b03d8eb831bfa&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-22T01:11:00Z",
       "Content": "El gobernador de California, Gavin Newsom, propuso que Steve Jobssea el rostro de la moneda de un dólar de Innovación Estadounidense. Esta iniciativa forma parte de un programa nacional lanzado en 20… [+3458 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante malos datos sobre economía mexicana y avance global del dólar",
-      "Description": "Forbes México.\n Peso retrocede ante malos datos sobre economía mexicana y avance global del dólar\n\nLa moneda se deprecia 0.49% este viernes y en el acumulado semanal cede 0.54%, según Banxico; la bolsa también pierde y Televisa tiene mayor caída desde finales…",
-      "Url": "https://forbes.com.mx/peso-retrocede-ante-malos-datos-sobre-economia-mexicana-y-avance-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-02-21T22:54:17Z",
-      "Content": "El peso y la bolsa retrocedieron el viernes después de conocerse que la economía del país se contrajo durante el último trimestre de 2024 en línea con lo calculado inicialmente por el Inegi, apuntala… [+3239 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Aversión al riesgo le ‘juega mala pasada’ al peso: Así cerró ante el dólar este viernes",
-      "Description": "La economía de México avanzó solo 0.5% en 2024, un dato menor a lo estimado por el Inegi, y además se confirmó la contracción en el último trimestre del año pasado.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/21/peso-dolar-precio-hoy-21-de-febrero-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KV3WX7VFKVGSHDP32JU4ST3JYE.jpg?smart=true&auth=64e0d47f27a2e703fed9be5db6e1bc2aaf8a1084eb79cc6c39edc036774d5fb6&width=1200&height=630",
-      "PublishedAt": "2025-02-21T20:49:22Z",
-      "Content": "El peso mexicano perdió la semana frente al dólar debido a una mayor aversión al riesgo en el mercado yt después de publicarse que el PIB de México avanzó 0.5 por ciento en 2024, menos de lo estimado… [+1868 chars]"
     }
   ]
 }
