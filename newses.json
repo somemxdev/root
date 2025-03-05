@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar: Así va el tipo de cambio tras entrar en vigor aranceles de Trump a México",
+      "Description": "El dólar HOY martes 4 marzo inicia operaciones con el tipo de cambio interbancario en 20.75pesos mexicanos por billete verde, con un fortalecimiento de 0.33 por ciento, según datos de Bloomberg.El peso mexicano se ha mostrado con altibajos ante la amenaza de …",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-4-marzo-2025-tipo-de-cambio-peso-mexicano",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/28/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-03-04T12:17:00Z",
+      "Content": "El dólar HOY martes 4 marzo inicia operaciones con el tipo de cambio interbancario en 20.75 pesos mexicanos por billete verde, con un fortalecimiento de 0.33 por ciento, según datos de Bloomberg.\r\nEl… [+1055 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-02-21T14:30:00Z",
       "Content": "El dólar HOY viernes 21 de febrero, se encaminaba a su tercera caída semanal consecutiva, debido a que inversionistas analizaban el inicio del segundo mandato de Donald Trump con noticias sobre aranc… [+887 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 21 de febrero",
-      "Description": "El precio del dólar en México es de $20,3733, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-21-de-febrero-nid21022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-02-21T14:06:47Z",
-      "Content": "Este viernes 21 de febrero, el precio del dólar en México es de $20,3733, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por las … [+2418 chars]"
     }
   ]
 }
