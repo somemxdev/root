@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 4 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-4-de-marzo-nid04032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-04T14:00:22Z",
+      "Content": "Este martes 4 de marzo de 2025, el precio del dólar en México es de $20,4333, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por … [+2222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KV3WX7VFKVGSHDP32JU4ST3JYE.jpg?smart=true&auth=64e0d47f27a2e703fed9be5db6e1bc2aaf8a1084eb79cc6c39edc036774d5fb6&width=1200&height=630",
       "PublishedAt": "2025-02-21T20:49:22Z",
       "Content": "El peso mexicano perdió la semana frente al dólar debido a una mayor aversión al riesgo en el mercado yt después de publicarse que el PIB de México avanzó 0.5 por ciento en 2024, menos de lo estimado… [+1868 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY viernes 21 de febrero de 2025: Peso retrocede tras confirmarse crecimiento económico débil",
-      "Description": "El dólar HOY viernes 21 de febrero,se encaminaba a su tercera caída semanal consecutiva, debido a que inversionistas analizaban el inicio del segundo mandato de Donald Trumpcon noticias sobre aranceles, pero sin materializarse, mientras el yen retrocedía desd…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-02-21T14:30:00Z",
-      "Content": "El dólar HOY viernes 21 de febrero, se encaminaba a su tercera caída semanal consecutiva, debido a que inversionistas analizaban el inicio del segundo mandato de Donald Trump con noticias sobre aranc… [+887 chars]"
     }
   ]
 }
