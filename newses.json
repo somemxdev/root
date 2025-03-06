@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera! Precio del dólar hoy 5 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recuperó luego de una jornada en la que se acercó a los $21.00, con lo que el precio del dólar hoy 5 de marzo de 2025 cotiza en 20.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méx…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-5-marzo-2025-tipo-cambio-bancos-mexico/1703322",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/05/3268880.jpg",
+      "PublishedAt": "2025-03-05T14:27:04Z",
+      "Content": "El peso mexicano se recuperó luego de una jornada en la que se acercó a los $21.00, con lo que el precio del dólar hoy 5 de marzo de 2025 cotiza en 20.47 unidades por cada billete verde; conoce aquí … [+1110 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 5 de marzo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-5-de-marzo-de-2025-nid05032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-05T14:11:34Z",
+      "Content": "Este miércoles 5 de marzo de 2025, el precio del dólar en México es de $20,8518, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se ve impactado por el retroces… [+2648 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/79ab37f143e6322b02f3d8225361b11d/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/24/17404231444230.jpg",
       "PublishedAt": "2025-02-24T19:41:42Z",
       "Content": "La moneda única ha rebotado en febrero por Ucrania, Alemania y la aparente moderación fiscal en Estados Unidos. Pero los aranceles de Trump pueden invertir la tendencia.Uno de los Trump trades que co… [+1971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "¿Repunte de inflación da ‘punch’ al dólar? Así cotiza el tipo de cambio HOY",
-      "Description": "El plazo para que expire la pausa a los aranceles a México vence en una semana. La presidenta Claudia Sheinbaum habló sobre en qué van las negociaciones. ¿Esto afecta al peso?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/24/peso-dolar-precio-hoy-24-de-febrero-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GQU3RWPXGJFKNM7QF6QKUA5GLI.jpg?smart=true&auth=540e1d450950f9b7d6a49d2e9cd241f2ad3394e8dc1101c2c5ebdde27c87bb28&width=1200&height=630",
-      "PublishedAt": "2025-02-24T18:29:31Z",
-      "Content": "La aversión al riesgo afecta al peso mexicano que arranca la última semana de febrero con pérdidas ante el dólar, mientras el mercado asimila el dato de inflación en la primera quincena de febrero. \r… [+1884 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 24 de febrero",
-      "Description": "El precio del dólar en México es de $20,3448, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-24-de-febrero-nid24022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-24T15:01:48Z",
-      "Content": "Este lunes 24 de febrero, el precio del dólar en México es de $20,3448, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado por la … [+2387 chars]"
     }
   ]
 }

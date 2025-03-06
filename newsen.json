@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Techreport.com"
+      },
+      "Author": "Alpa Somaiya",
+      "Title": "24K Customers at Risk After Billion-Dollar Bank Hit by Cyberattack",
+      "Description": "The Reading Cooperative Bank (RCB) was recently hit by a phishing attack that exposed the personal data of more than 24,041 customers. The attack happened somewhere between August 2024 and January 2025. The exact date remains unknown as of now. According to i…",
+      "Url": "https://techreport.com/news/24k-customers-at-risk-after-billion-dollar-bank-hit-by-cyberattack/",
+      "UrlToImage": "https://techreport.com/wp-content/uploads/2025/03/24k-customers-at-risk-after-billion-dollar-bank-hit-by-cyberattack-e1741186607678.jpg?_t=1741186634",
+      "PublishedAt": "2025-03-05T14:56:51Z",
+      "Content": "Key Takeaways\r\n<ul><li>The Reading Cooperative Bank (RCB) was recently hit by a phishing attack that exposed the personal data of more than 24,041 customers.</li><li>The attack happened somewhere bet… [+3177 chars]"
+    },
     {
       "Source": {
         "Id": "the-wall-street-journal",
