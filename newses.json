@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Recorta pérdidas el peso y se aleja de 21 unidades por dólar",
+      "Description": "Tras los comentarios del secretario de Comercio de Estados Unidos, Howard Lutnick, de que la administración de Donald Trump aún podría encontrar este miércoles una “posición común” con México y Canadá respecto a los aranceles, el peso, en operaciones electrón…",
+      "Url": "https://www.jornada.com.mx/2025/03/05/economia/025n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2025/03/05/fotos/025n1eco-1.jpg",
+      "PublishedAt": "2025-03-05T10:12:01Z",
+      "Content": "Periódico La JornadaMiércoles 5 de marzo de 2025, p. 25\r\nTras los comentarios del secretario de Comercio de Estados Unidos, Howard Lutnick, de que la administración de Donald Trump aún podría encontr… [+3244 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/24/3263692.jpg",
       "PublishedAt": "2025-02-24T14:48:27Z",
       "Content": "El peso mexicano retrocede luego de darse a conocer el dato de la inflación en el país, con lo que el precio del dólar hoy 24 de febrero de 2025 cotiza en 20.45 unidades por cada billete verde; conoc… [+1418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 24 de febrero de 2025: ¿Cuál es el tipo de cambio del peso en México?",
-      "Description": "El dólarhoy 5 de febrero inició con un tipo de cambio interbancario en 20.41pesos mexicanos por billete verde, con un debilitamiento del 0.02 por ciento, según datos de Bloomberg.La semana pasada el peso mexicano retrocedíay se dirigía a acumular pérdidas, de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-02-24T12:15:51Z",
-      "Content": "El dólar hoy 5 de febrero inició con un tipo de cambio interbancario en 20.41 pesos mexicanos por billete verde, con un debilitamiento del 0.02 por ciento, según datos de Bloomberg.\r\nLa semana pasada… [+796 chars]"
     }
   ]
 }

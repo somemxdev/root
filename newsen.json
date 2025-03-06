@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-wall-street-journal",
+        "Name": "The Wall Street Journal"
+      },
+      "Author": "Vipal Monga",
+      "Title": "Resilience of Mexican Peso, Canadian Dollar Point to Higher Prices for U.S. Consumers",
+      "Description": "The relative resilience of Canada and Mexico's currencies for now means much of the cost of 25% tariffs likely will get passed on to U.S. buyers.Analysts broadly have expected the currencies would fall more, making Mexican and Canadian goods cheaper to buy an…",
+      "Url": "https://www.wsj.com/livecoverage/trump-tariffs-canada-mexico-china-stock-market-today-03-04-2025/card/strength-of-canadian-and-mexican-currencies-points-to-higher-prices-for-u-s-consumers-gyhwykjEDdE8txF4PDKE",
+      "UrlToImage": "https://images.wsj.net/im-06698388/social",
+      "PublishedAt": "2025-03-04T16:30:02Z",
+      "Content": "The relative resilience of Canada and Mexico's currencies for now means much of the cost of 25% tariffs likely will get passed on to U.S. buyers.\r\nAnalysts broadly have expected the currencies would … [+317 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -301,32 +314,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-02-07T11:37:45Z",
       "Content": "<table><tr><td>This thread has been pulled.</td></tr><tr><td>\r\nPulled on 02/07/2025 3:49:24 AM PST\r\nby Admin Moderator,\r\nreason:blog pimp\r\n</td></tr></table>Okay"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Ashley Coutinho",
-      "Title": "Rupee to slide towards 88 against the dollar: Bank of America’s Rahul Namjoshi",
-      "Description": "Markets expect universal tariffs to ultimately feed into higher US inflation, higher US rates and a stronger USD, says Bank of America’s Rahul Namjoshi",
-      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-to-slide-towards-88-against-the-dollar-bank-of-americas-rahul-namjoshi/article69182721.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/n7u1ze/article69182792.ece/alternates/LANDSCAPE_1200/2025-01-28T080255Z_248505409_RC2IJBABFQQE_RTRMADP_3_INDIA-RBI-DIGITAL-CURRENCY.JPG",
-      "PublishedAt": "2025-02-05T05:44:43Z",
-      "Content": "Any possibility of tariffs, however low, on Indian exports will have a further negative impact on INR, said Rahul Namjoshi, Head of India FICC (Fixed Income, Currencies and Commodities) Sales, Bank o… [+5652 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Copper Advances on Lower Dollar as US and China Exchange Blows",
-      "Description": "Copper rose as the dollar pushed lower after US President Donald Trump imposed a 10% tariff on goods from China and Beijing responded with a range of measures of its own.",
-      "Url": "https://financialpost.com/pmn/business-pmn/copper-advances-on-lower-dollar-as-us-and-china-exchange-blows",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/776126133.jpg",
-      "PublishedAt": "2025-02-04T16:35:40Z",
-      "Content": "Copper a proxy for global growth traded higher in London, while a gauge of the greenback fell as much as 0.8%. A weaker dollar makes copper cheaper for buyers in other currencies. Moments after Trump… [+1086 chars]"
     }
   ]
 }
