@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central compró hoy US$245 millones",
+      "Description": "Es su mayor adquisición en un mes y las reservas brutas se volvieron a colocar levemente por encima de los US$28.000 millones; recuperó así el 70% del monto que tuvo que vender el viernes",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-hoy-us245-millones-nid05032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-adquirio-hoy-usdollar245-X6T53YJ4QNGS7BFMWRR6MME2TI.jpg?auth=d10c96afae4587f9a0d65e23b06956afc715a82b8f64cbcb77b3a13c281c10d1&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-05T20:39:33Z",
+      "Content": "El Banco Central (BCRA) pudo recomprar hoy, en la primera rueda de marzo, 7 de cada 10 dólares que había tenido que vender el viernes, en la última jornada de febrero. La entidad que conduce Santiago… [+2883 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/25/3264177.jpg",
       "PublishedAt": "2025-02-25T14:31:20Z",
       "Content": "El peso mexicano arranca la jornada del martes con altibajos, con lo que el precio del dólar hoy 25 de febrero de 2025 cotiza en 20.47 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 25 de febrero de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY martes 25de febrero inició con untipo de cambio interbancario en 20.51 pesos por unidad, con un fortalecimiento del 0.18 por ciento, según datos de Bloomberg.Ayer, elpeso mexicano se depreciaba luego de darse a conocer los datos deinflación durant…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-02-25T12:17:00Z",
-      "Content": "El dólar HOY martes 25 de febrero inició con un tipo de cambio interbancario en 20.51 pesos por unidad, con un fortalecimiento del 0.18 por ciento, según datos de Bloomberg.\r\nAyer, el peso mexicano s… [+827 chars]"
     }
   ]
 }
