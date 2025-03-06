@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se ‘emociona’ por posible ‘tregua’ en aranceles de Trump: Gana casi 1% al dólar",
+      "Description": "El peso mexicano estuvo a nada de cruzar la barrera de las 21 unidades por la aplicación de aranceles a México, pero ha recortado las pérdidas ante la expectativa de que Trump declarará un 'alivio' para las tarifas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/05/peso-dolar-precio-hoy-5-de-marzo-de-2025-tregua-aranceles-de-trump/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/P4VK6KOCIVBDLP4DUPBUKOOHVQ.jpg?smart=true&auth=83416fcddf0ee8885f0ceced1c63a49654085fdde318848a7a229d3a33f695f3&width=1200&height=630",
+      "PublishedAt": "2025-03-05T15:05:31Z",
+      "Content": "El peso mexicano aumenta sus ganancias ante el dólar durante la mañana de este miércoles 5 de marzo ante la expectativa de que el presidente Donald Trump acordará un alivio para los aranceles a Méxic… [+2354 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-02-25T12:17:00Z",
       "Content": "El dólar HOY martes 25 de febrero inició con un tipo de cambio interbancario en 20.51 pesos por unidad, con un fortalecimiento del 0.18 por ciento, según datos de Bloomberg.\r\nAyer, el peso mexicano s… [+827 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Roberto Casado",
-      "Title": "Los fans de la paridad entre el euro y el dólar dan un paso atrás",
-      "Description": "La moneda única ha rebotado en febrero por Ucrania, Alemania y la aparente moderación fiscal en Estados Unidos. Pero los aranceles de Trump pueden invertir la tendencia. Leer",
-      "Url": "https://www.expansion.com/mercados/2025/02/24/67bcbf70e5fdea1b208b458f.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/79ab37f143e6322b02f3d8225361b11d/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/24/17404231444230.jpg",
-      "PublishedAt": "2025-02-24T19:41:42Z",
-      "Content": "La moneda única ha rebotado en febrero por Ucrania, Alemania y la aparente moderación fiscal en Estados Unidos. Pero los aranceles de Trump pueden invertir la tendencia.Uno de los Trump trades que co… [+1971 chars]"
     }
   ]
 }
