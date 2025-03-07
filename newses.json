@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 6 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-6-de-marzo-nid06032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-06T14:07:03Z",
+      "Content": "Este jueves 6 de marzo de 2025, el precio del dólar en México es de $20,3893, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+2224 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-26T14:19:15Z",
       "Content": "Este miércoles 26 de febrero de 2025, el precio del dólar en México es de $20,4683, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano recorta el retroceso de la s… [+2412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elmercurio.com.ec"
-      },
-      "Author": "Redacción El Mercurio",
-      "Title": "Asamblea Nacional tratará una enmienda a la Constitución para declarar al dólar como moneda oficial",
-      "Description": "El Consejo de Administración Legislativa (CAL) de la Asamblea Nacional (Parlamento) de Ecuador aprobó este 25 de febrero de 2025 una resolución para que el pleno del hemiciclo cree una comisión que tratará un proyecto de enmienda constitucional para reconocer…",
-      "Url": "https://www.elmercurio.com.ec/2025/02/25/asamblea-enmienda-dolar-moneda-oficial/",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-25T17:57:18Z",
-      "Content": "El Consejo de Administración Legislativa (CAL) de la Asamblea Nacional (Parlamento) de Ecuador aprobó este 25 de febrero de 2025 una resolución para que el pleno del hemiciclo cree una comisión que t… [+1871 chars]"
     }
   ]
 }
