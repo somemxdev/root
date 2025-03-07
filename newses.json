@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se pone ‘machuchón’ por pausa en aranceles de Trump a México: ¿Cuánto gana al dólar?",
+      "Description": "Donald Trump pausó los aranceles de 25% a México al menos hasta el próximo 2 de abril. La presidenta Claudia Sheinbaum dio detalles de cómo se logró el acuerdo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/06/peso-dolar-precio-hoy-6-de-marzo-de-2025-pausa-en-aranceles-de-trump/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Q7IKFCWBXBHOLG4S675CDTQ7VA.jpg?smart=true&auth=a402f4993b170d704d65c93690e7899615f2cd3d860431ee2c39333bf075a800&width=1200&height=630",
+      "PublishedAt": "2025-03-06T17:52:50Z",
+      "Content": "El peso extiende sus ganancias ante el dólar después de que el presidente Donald Trump pausó los aranceles de 25 por ciento a México al menos hasta el próximo 2 de abril. \r\nLo hice como una forma de … [+2126 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/26/3264905.jpg",
       "PublishedAt": "2025-02-26T14:26:27Z",
       "Content": "El peso mexicano se deprecia en la jornada de este miércoles, con lo que el precio del dólar hoy 26 de febrero de 2025 cotiza en 20.48 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1167 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 26 de febrero",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-26-de-febrero-nid26022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-26T14:19:15Z",
-      "Content": "Este miércoles 26 de febrero de 2025, el precio del dólar en México es de $20,4683, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano recorta el retroceso de la s… [+2412 chars]"
     }
   ]
 }
