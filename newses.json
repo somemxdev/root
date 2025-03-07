@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza por segundo día! Precio del dólar hoy 6 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 6 de marzo de 2025 cotiza en 20.37 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-6-marzo-2025-tipo-cambio-bancos-mexico/1703553",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/06/3269550.jpg",
+      "PublishedAt": "2025-03-06T13:42:37Z",
+      "Content": "El peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 6 de marzo de 2025 cotiza en 20.37 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1262 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-02-25T17:57:18Z",
       "Content": "El Consejo de Administración Legislativa (CAL) de la Asamblea Nacional (Parlamento) de Ecuador aprobó este 25 de febrero de 2025 una resolución para que el pleno del hemiciclo cree una comisión que t… [+1871 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 25 de febrero",
-      "Description": "El precio del dólar en México es de $20,464, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-25-de-febrero-nid25022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-02-25T14:49:06Z",
-      "Content": "Este martes 25 de febrero, el precio del dólar en México es de $20,464, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por el dato… [+2086 chars]"
     }
   ]
 }
