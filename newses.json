@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Pausa a los aranceles: ¿Cuánto se apreció el peso y el dólar canadiense tras acuerdos con Donald Trump?",
+      "Description": "El peso mexicano y el dólar canadiense se apreciaron tras la pausa a los aranceles de Donald Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/07/pausa-a-los-aranceles-de-donald-trump-peso-se-aprecia-precio-del-dolar-estadounidense-tipo-de-cambio-dolar-canadiense/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/6W65WXBV5RBQLCLW6DZX6ROL5Y.jpg?smart=true&auth=ce8875a17e4821f1cdcf440fa07df97f970f4193eb08074f715c5e0962312b27&width=1200&height=630",
+      "PublishedAt": "2025-03-07T08:35:57Z",
+      "Content": "Los aranceles de Donald Trump a México y Canadá fueron postergados durante un mes más, por lo que al menos hasta abril no subirán los precios de las importaciones de productos mexicanos y canadienses… [+2765 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2025-02-26T14:45:00Z",
       "Content": "Eldólar HOY miércoles 26 de febrero, subía desde niveles cercanos a su mínimo de 11 semanas, mientras que los rendimientos de los bonos del Tesoro de Estados Unidos se recuperaban tras las recientes … [+1056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con pérdida marginal! Precio del dólar hoy 26 de febrero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se deprecia en la jornada de este miércoles, con lo que el precio del dólar hoy 26 de febrero de 2025 cotiza en 20.48 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa me…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-26-febrero-2025-tipo-cambio-bancos-mexico/1701989",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/26/3264905.jpg",
-      "PublishedAt": "2025-02-26T14:26:27Z",
-      "Content": "El peso mexicano se deprecia en la jornada de este miércoles, con lo que el precio del dólar hoy 26 de febrero de 2025 cotiza en 20.48 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1167 chars]"
     }
   ]
 }
