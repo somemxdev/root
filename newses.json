@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 7 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY viernes 7 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.18 por ciento, según datos de Bloomberg.El peso mexicano mantenía ganancias en torno a 50 por ciento, tras …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2025-03-07T12:03:00Z",
+      "Content": "El dólar HOY viernes 7 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.18 por ciento, según datos de Bloomberg.\r\nEl p… [+876 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/27/3265633.jpg",
       "PublishedAt": "2025-02-27T14:03:34Z",
       "Content": "El peso mexicano revirtió las ganancias iniciales de la jornada de este jueves, con lo que el precio del dólar hoy 27 de febrero de 2025 cotiza en 20.51 unidades por cada billete verde; conoce aquí c… [+1195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 26 de febrero de 2025: Peso mexicano retrocede atento a aranceles",
-      "Description": "El dólarHOY miércoles 26 de febrero,subía desde niveles cercanos a su mínimo de 11 semanas, mientras que los rendimientos de los bonos del Tesoro de Estados Unidos se recuperaban tras las recientes caídas en medio de datos económicos débiles y la incertidumbr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2025-02-26T14:45:00Z",
-      "Content": "Eldólar HOY miércoles 26 de febrero, subía desde niveles cercanos a su mínimo de 11 semanas, mientras que los rendimientos de los bonos del Tesoro de Estados Unidos se recuperaban tras las recientes … [+1056 chars]"
     }
   ]
 }
