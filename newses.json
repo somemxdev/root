@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘engarrota’ ante el dólar tras semana ‘movidita’ por aranceles: ¿En cuánto cotiza HOY?",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/07/peso-dolar-precio-hoy-7-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TVIIMQX5GJAWTAJQC5OXU6YB6Q.jpg?smart=true&auth=ced8016dfeb85cbf622787a40eec853e83d4c16afb5c8120a3f213df4c7fb5b6&width=1200&height=630",
+      "PublishedAt": "2025-03-07T16:34:03Z",
+      "Content": "El peso abre la última sesión de la semana con una ligera pérdida ante el dólar, esto en medio de declaraciones de Donald Trump sobre que los aranceles a México y Canadá podrían aumentar con el tiemp… [+2033 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T6RJPYUA2VBHLMOJVG4X5VWE7A.jpg?smart=true&auth=0397a63055dabd4e408e2cf93a3174d796d9711b8a79ac82b2e5a232ead21c26&width=1200&height=630",
       "PublishedAt": "2025-02-28T21:11:50Z",
       "Content": "El peso mexicano perdió ante el dólar en la última sesión de febrero, con la atención de los inversionistas aún centrada en cómo evolucionan las amenazas de aranceles de Trump y aumentan el nerviosis… [+1857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 28 de febrero de 2025: Peso mexicano 'se recupera' atento a negociación sobre aranceles",
-      "Description": "El dólarhoyviernes 28 de febrerose fortalecía ante la perspectiva de que el presidente de Estados Unidos, Donald Trump, impondrá a los aranceles, aunado con una oleada de ventas que afectaba a divisas sensibles al riesgo, así como al bitcoin, la criptomoneda …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-febrero-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-02-28T21:00:00Z",
-      "Content": "El dólar hoy viernes 28 de febrero se fortalecía ante la perspectiva de que el presidente de Estados Unidos, Donald Trump, impondrá a los aranceles, aunado con una oleada de ventas que afectaba a div… [+1323 chars]"
     }
   ]
 }
