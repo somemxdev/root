@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Europa Press",
+      "Title": "El euro vive su mejor semana frente al dólar desde 2009 y vuelve a niveles de noviembre",
+      "Description": "Durante este viernes, el euro llegaba a alcanzar un cambio de 1,0871 dólares, un 0,8% por encima del cierre de ayer y un 4,8% más que hace una semana",
+      "Url": "https://www.elconfidencial.com/mercados/2025-03-07/euro-vive-su-mejor-semana-frente-al-dolar-de-2009_4081272/",
+      "UrlToImage": "https://images.ecestaticos.com/I-uZPfBZND--7Wza-dGd6BFfq4Q=/0x0:2272x1487/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/e7f/e11/61d/e7fe1161ddd9d976f483a19cf5e0ecfa.jpg",
+      "PublishedAt": "2025-03-07T14:58:00Z",
+      "Content": "El tipo de cambio del euro frente al dólar prosigue su recuperación este viernes, que podría llevar a la moneda común a recuperar niveles similares a los de principios del pasado mes de noviembre, co… [+2842 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Inflación impacta al peso! Precio del dólar hoy 7 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocedió tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 7 de marzo de 2025 cotiza en 20.31 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-7-marzo-2025-tipo-cambio-bancos-mexico/1703788",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/07/3270260.jpg",
+      "PublishedAt": "2025-03-07T14:45:55Z",
+      "Content": "El peso mexicano retrocedió tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 7 de marzo de 2025 cotiza en 20.31 unidades por cada billete verde; conoce aquí cuál es el… [+1826 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-28-de-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-02-28T14:29:40Z",
       "Content": "Este viernes 28 de febrero, el precio del dólar en México es de $20,4722, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por los … [+2349 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 27 de febrero",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-27-de-febrero-nid27022025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-02-27T14:10:44Z",
-      "Content": "Este jueves 27 de febrero, el precio del dólar en México es de $20,4277, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado por la… [+2310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Trump tambalea al peso! Precio del dólar hoy 27 de febrero de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano revirtió las ganancias iniciales de la jornada de este jueves, con lo que el precio del dólar hoy 27 de febrero de 2025 cotiza en 20.51 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-27-febrero-2025-tipo-cambio-bancos-mexico/1702212",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/27/3265633.jpg",
-      "PublishedAt": "2025-02-27T14:03:34Z",
-      "Content": "El peso mexicano revirtió las ganancias iniciales de la jornada de este jueves, con lo que el precio del dólar hoy 27 de febrero de 2025 cotiza en 20.51 unidades por cada billete verde; conoce aquí c… [+1195 chars]"
     }
   ]
 }
