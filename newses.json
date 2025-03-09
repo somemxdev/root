@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 8 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de marzo el tipo de cambio interbancario, se ubica en 20.25 pesos por unidad, con una pérdida del -0.18 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-08T13:16:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de marzo el tipo de cambio interbancario, se ubica en 20.25 pesos por unidad, con una pérdida del -0.18 por ciento… [+2854 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
       "PublishedAt": "2025-02-28T23:02:51Z",
       "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana por debajo de los ¢505 en el Mercado de Monedas Extranjeras (Monex), y alcanzó su valor más bajo en más de un mes.Este viernes 28 de fe… [+2620 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "No fue mucho, pero sí honesto: Peso derrota al dólar en febrero, mes de incertidumbre por aranceles",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/02/28/peso-dolar-precio-hoy-28-de-febero-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T6RJPYUA2VBHLMOJVG4X5VWE7A.jpg?smart=true&auth=0397a63055dabd4e408e2cf93a3174d796d9711b8a79ac82b2e5a232ead21c26&width=1200&height=630",
-      "PublishedAt": "2025-02-28T21:11:50Z",
-      "Content": "El peso mexicano perdió ante el dólar en la última sesión de febrero, con la atención de los inversionistas aún centrada en cómo evolucionan las amenazas de aranceles de Trump y aumentan el nerviosis… [+1857 chars]"
     }
   ]
 }
