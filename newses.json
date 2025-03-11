@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 10 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY lunes 10 de marzo inicia operaciones con el tipo de cambio interbancario en 20.23 pesos mexicanos por billete verde, con un debilitamiento del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, aunque se perfilaba a culmina…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-marzo-de-2025-en-vivo-peso-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2025-03-10T11:59:00Z",
+      "Content": "El dólar HOY lunes 10 de marzo inicia operaciones con el tipo de cambio interbancario en 20.23 pesos mexicanos por billete verde, con un debilitamiento del 0.12 por ciento, según datos de Bloomberg.\r… [+884 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-03-01T13:34:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de marzo el tipo de cambio interbancario, se ubica en 20.55 pesos por unidad, con una pérdida del 0.23 por ciento,… [+2326 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra esta semana por debajo de ¢505",
-      "Description": "El precio del dólar en Monex no se situaba por debajo de este umbral desde el 22 de enero.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-esta-semana-por/WT2YU4HRLFGGTH7TUEGCFCCDWA/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
-      "PublishedAt": "2025-02-28T23:02:51Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana por debajo de los ¢505 en el Mercado de Monedas Extranjeras (Monex), y alcanzó su valor más bajo en más de un mes.Este viernes 28 de fe… [+2620 chars]"
     }
   ]
 }
