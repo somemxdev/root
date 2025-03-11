@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con ligero retroceso! Precio del dólar hoy 10 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ligeramente en la jornada de este lunes, con lo que el precio del dólar hoy 10 de marzo de 2025 cotiza en 20.24 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divis…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-marzo-2025-tipo-cambio-bancos-mexico/1704203",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/10/3271610.jpg",
+      "PublishedAt": "2025-03-10T14:42:56Z",
+      "Content": "El peso mexicano retrocede ligeramente en la jornada de este lunes, con lo que el precio del dólar hoy 10 de marzo de 2025 cotiza en 20.24 unidades por cada billete verde; conoce aquí cuál es el tipo… [+1561 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 10 de marzo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-10-de-marzo-de-2025-nid10032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-03-10T14:24:19Z",
+      "Content": "Este lunes 10 de marzo, el precio del dólar en México es de $20,283, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por el retroc… [+2227 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-03T12:18:00Z",
       "Content": "El dólar HOY lunes 3 de febrero inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un debilitamiento del 0.40 por ciento, según datos de Bloomberg.… [+883 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Pedro Morini",
-      "Title": "Con el dólar en calma, el Banco Central volvió a comprar reservas",
-      "Description": "Pese a los efectos todavía presentes del criptogate, las cotizaciones del dólar MEP y CCL mostraron menos volatilidad en la semana; el aumento de las liquidaciones de exportaciones por parte del agro permitió al BCRA cerrar el mes con compras netas",
-      "Url": "https://www.lanacion.com.ar/economia/con-el-dolar-en-calma-el-banco-central-volvio-a-comprar-reservas-nid02032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-logro-comprar-reservas-en-42NH43WVBFFJFL66XKGBFNEHZY.jpg?auth=9ddbc6c4586b696d8e4b2fa84edca6f634e328965ca314ddc3df9e005714e32a&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-02T13:12:59Z",
-      "Content": "Luego de lo que podríamos catalogar como el peor error no forzado del gobierno, parecería que el mercado apuesta al olvido. Esta semana, los dólares financieros (MEP y CCL) mostraron menos volatilida… [+2159 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 1 de marzo 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de marzo el tipo de cambio interbancario, se ubica en 20.55 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano,se apreciab…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-03-01T13:34:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de marzo el tipo de cambio interbancario, se ubica en 20.55 pesos por unidad, con una pérdida del 0.23 por ciento,… [+2326 chars]"
     }
   ]
 }
