@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 11 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-11-de-marzo-nid11032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-11T15:09:04Z",
+      "Content": "Este martes 11 de marzo de 2025, el precio del dólar en México es de $20,2922, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2259 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/28/peso-mexicano-registra-caida-meses.jpeg",
       "PublishedAt": "2025-03-04T00:16:37Z",
       "Content": "A raíz de la confirmación del presidente de Estados Unidos, Donald Trump, de imponeraranceles del 25 por ciento a México y Canadá a partir del 4 de marzo, el tipo de cambio será uno de los principale… [+2256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Trump hace perder al peso! Precio del dólar hoy 3 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano reaccionó a las recientes declaraciones de Donald Trump y revirtió las ganancias iniciales, con lo que el precio del dólar hoy 3 de marzo de 2025 cotiza en 20.74 unidades por cada billete verde; conoce aquí cuál es el tipo d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-3-marzo-2025-tipo-cambio-bancos-mexico/1702938",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/03/3267813.jpg",
-      "PublishedAt": "2025-03-03T20:46:28Z",
-      "Content": "El peso mexicano reaccionó a las recientes declaraciones de Donald Trump y revirtió las ganancias iniciales, con lo que el precio del dólar hoy 3 de marzo de 2025 cotiza en 20.74 unidades por cada bi… [+1232 chars]"
     }
   ]
 }
