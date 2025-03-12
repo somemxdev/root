@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘resiste’ frente al dólar pese a posible recesión en EU: ¿En cuánto cotiza HOY?",
+      "Description": "El tipo de cambio opera en los 20.3457 pesos por dólar, lo que representa una apreciación de 0.08 por ciento para este martes 11 de marzo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/11/peso-dolar-precio-hoy-11-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OYV3Y47BUNGEBAHL6V4ENVL6AY.jpg?smart=true&auth=f5a9d68211d1410bf6f3df67200ba6daf9a043e64041271e6f204a0a8a2495f6&width=1200&height=630",
+      "PublishedAt": "2025-03-11T18:14:55Z",
+      "Content": "El peso mexicano inició la sesión de este martes 11 de marzo con ligeros avances frente al dólar a medida que los inversionistas siguen asimilando la posibilidad de ver un enfriamiento en la activida… [+1667 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-04T14:00:22Z",
       "Content": "Este martes 4 de marzo de 2025, el precio del dólar en México es de $20,4333, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por … [+2222 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar: Así va el tipo de cambio tras entrar en vigor aranceles de Trump a México",
-      "Description": "El dólar HOY martes 4 marzo inicia operaciones con el tipo de cambio interbancario en 20.75pesos mexicanos por billete verde, con un fortalecimiento de 0.33 por ciento, según datos de Bloomberg.El peso mexicano se ha mostrado con altibajos ante la amenaza de …",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-4-marzo-2025-tipo-de-cambio-peso-mexicano",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/28/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-03-04T12:17:00Z",
-      "Content": "El dólar HOY martes 4 marzo inicia operaciones con el tipo de cambio interbancario en 20.75 pesos mexicanos por billete verde, con un fortalecimiento de 0.33 por ciento, según datos de Bloomberg.\r\nEl… [+1055 chars]"
     }
   ]
 }
