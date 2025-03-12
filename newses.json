@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza tras caída en jornada previa! Precio del dólar hoy 11 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de este martes ante una depreciación global de la divisa estadunidense, con lo que el precio del dólar hoy 11 de marzo de 2025 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-11-marzo-2025-tipo-cambio-bancos-mexico/1704375",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/11/3272102.jpg",
+      "PublishedAt": "2025-03-11T14:05:13Z",
+      "Content": "El peso mexicano avanza en la jornada de este martes ante una depreciación global de la divisa estadunidense, con lo que el precio del dólar hoy 11 de marzo de 2025 cotiza en 20.32 unidades por cada … [+1669 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/03/3267813.jpg",
       "PublishedAt": "2025-03-03T20:46:28Z",
       "Content": "El peso mexicano reaccionó a las recientes declaraciones de Donald Trump y revirtió las ganancias iniciales, con lo que el precio del dólar hoy 3 de marzo de 2025 cotiza en 20.74 unidades por cada bi… [+1232 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 3 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-3-de-marzo-nid03032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-03T14:06:05Z",
-      "Content": "Este lunes 3 de marzo, el precio del dólar en México es de $20,508, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por una posibi… [+2298 chars]"
     }
   ]
 }
