@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El euro supera las políticas de Trump y aleja el fantasma de la paridad con el dólar",
+      "Description": "El euro se fortalece frente al dólar, y la esperada paridad que los analistas parecía que descontaban tras la victoria de Donald Trump en las elecciones de Estados Unidos se aleja cada vez más. La moneda europea se cambia ya a 1,09 dólares por primera vez des…",
+      "Url": "https://www.abc.es/economia/euro-supera-109-dolares-primera-vez-victoria-20250311145529-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/11/crisLefe-U40702206236DZZ-1024x512@diario_abc.jpg",
+      "PublishedAt": "2025-03-11T16:08:58Z",
+      "Content": "El euro se fortalece frente al dólar, y la esperada paridad que los analistas parecía que descontaban tras la victoria de Donald Trump en las elecciones de Estados Unidos se aleja cada vez más. La mo… [+6508 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/28/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-03-04T12:17:00Z",
       "Content": "El dólar HOY martes 4 marzo inicia operaciones con el tipo de cambio interbancario en 20.75 pesos mexicanos por billete verde, con un fortalecimiento de 0.33 por ciento, según datos de Bloomberg.\r\nEl… [+1055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Jordan Saucedo",
-      "Title": "De entrar en vigor los aranceles sin modificaciones, el peso superaría las 21 unidades por dólar: analistas",
-      "Description": "A raíz de la confirmación del presidente de Estados Unidos, Donald Trump, de imponer aranceles del 25 por ciento a México y Canadá a partir del 4 de marzo, el tipo de cambio será uno de los principales afectados, pues el peso mexicano podría superar las 21 un…",
-      "Url": "https://www.milenio.com/negocios/entrar-vigor-aranceles-peso-llegaria-21-unidades-dolar",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/28/peso-mexicano-registra-caida-meses.jpeg",
-      "PublishedAt": "2025-03-04T00:16:37Z",
-      "Content": "A raíz de la confirmación del presidente de Estados Unidos, Donald Trump, de imponeraranceles del 25 por ciento a México y Canadá a partir del 4 de marzo, el tipo de cambio será uno de los principale… [+2256 chars]"
     }
   ]
 }
