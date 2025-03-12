@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY 11 de marzo de 2025: ¿Cuál es el tipo de cambio del peso en México?",
+      "Description": "El dólar HOY 11 de marzo de 2025, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con un debilitamiento del 0.09 por ciento, según datos de Bloomberg.El peso mexicano retrocedía ligeramente tras cuatr…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2025-03-11T12:03:00Z",
+      "Content": "El dólar HOY 11 de marzo de 2025, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con un debilitamiento del 0.09 por ciento, según datos de … [+788 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-03T14:06:05Z",
       "Content": "Este lunes 3 de marzo, el precio del dólar en México es de $20,508, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por una posibi… [+2298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar 3 de marzo 2025: El peso arranca la semana ganando unos centavos",
-      "Description": "La divisa estadounidense se cotiza en $20.02 pesos a la compra y $20.84 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-3-de-marzo-2025-el-peso-arranca-la-semana-ganando-unos-centavos",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/03/03/precio-del-dolar-3-de-marzo-2025-el-peso-arranca-la-semana-ganando-unos-centavos.jpg",
-      "PublishedAt": "2025-03-03T13:23:31Z",
-      "Content": "Este lunes 3 de marzo de 2025 el dólar se cotiza al inicio de la jornada en $20.49 pesos, unos centavos por debajo de su valor al cierre del pasado viernes que fue de $20.57 pesos por unidad. \r\nPor o… [+739 chars]"
     }
   ]
 }
