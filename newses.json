@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso rompe barrera de 20 por dólar en frontera",
+      "Description": "El optimismo que desató la pausa a la aplicación de aranceles de productos y servicios nacionales a Estados Unidos produjo un avance del peso en el intenso mercado cambiario de Tijuana. Por primera vez en varias semanas, la moneda estadunidense bajó a menos d…",
+      "Url": "https://www.jornada.com.mx/2025/03/11/politica/006n3pol",
+      "UrlToImage": "https://www.jornada.com.mx/2025/03/11/fotos/006n3pol-1.jpg",
+      "PublishedAt": "2025-03-11T08:03:02Z",
+      "Content": "Periódico La JornadaMartes 11 de marzo de 2025, p. 6\r\nEl optimismo que desató la pausa a la aplicación de aranceles de productos y servicios nacionales a Estados Unidos produjo un avance del peso en … [+200 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/03/03/precio-del-dolar-3-de-marzo-2025-el-peso-arranca-la-semana-ganando-unos-centavos.jpg",
       "PublishedAt": "2025-03-03T13:23:31Z",
       "Content": "Este lunes 3 de marzo de 2025 el dólar se cotiza al inicio de la jornada en $20.49 pesos, unos centavos por debajo de su valor al cierre del pasado viernes que fue de $20.57 pesos por unidad. \r\nPor o… [+739 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 3 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY lunes 3 de febrero inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un debilitamiento del 0.40 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreciaba a la espera de noticias s…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-03T12:18:00Z",
-      "Content": "El dólar HOY lunes 3 de febrero inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un debilitamiento del 0.40 por ciento, según datos de Bloomberg.… [+883 chars]"
     }
   ]
 }
