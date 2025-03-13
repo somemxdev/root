@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 12 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY miércoles 12 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer ante un declive generalizado …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/11/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-03-12T11:59:00Z",
+      "Content": "El dólar HOY miércoles 12 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.05 por ciento, según datos de Bloomberg.\r\nE… [+821 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/04/3268165.jpg",
       "PublishedAt": "2025-03-04T14:09:15Z",
       "Content": "El peso mexicano extiende las pérdidas que empezaron desde la jornada de ayer por los aranceles, con lo que el precio del dólar hoy 4 de marzo de 2025 cotiza en 20.93 unidades por cada billete verde;… [+1280 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 4 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-4-de-marzo-nid04032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-04T14:00:22Z",
-      "Content": "Este martes 4 de marzo de 2025, el precio del dólar en México es de $20,4333, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por … [+2222 chars]"
     }
   ]
 }
