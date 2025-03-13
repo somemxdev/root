@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thechronicle.com.gh"
+      },
+      "Author": "admin",
+      "Title": "Naira defies Central Bank policies, continues slump against dollar",
+      "Description": "The naira defied the Central Bank of Nigeria’s policy interventions as it depreciated against the dollar at the official foreign exchange market to start the week. CBN data showed that the naira fell to N1,530.15 per dollar on Monday, from N1,517.24 last Frid…",
+      "Url": "https://thechronicle.com.gh/naira-defies-central-bank-policies-continues-slump-against-dollar/",
+      "UrlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/03/Naira-slumps-against-dollar.jpg",
+      "PublishedAt": "2025-03-12T02:19:46Z",
+      "Content": "The naira defied the Central Bank of Nigerias policy interventions as it depreciated against the dollar at the official foreign exchange market to start the week.CBN data showed that the naira fell t… [+460 chars]"
+    },
     {
       "Source": {
         "Id": null,
