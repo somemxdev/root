@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza pese a nuevos aranceles! Precio del dólar hoy 12 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza levemente tras entrada en vigor de aranceles al acero y aluminio, con lo que el precio del dólar hoy 12 de marzo de 2025 cotiza en 20.20 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-12-marzo-2025-tipo-cambio-bancos-mexico/1704612",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/12/3272862.jpg",
+      "PublishedAt": "2025-03-12T14:03:18Z",
+      "Content": "El peso mexicano avanza levemente tras entrada en vigor de aranceles al acero y aluminio, con lo que el precio del dólar hoy 12 de marzo de 2025 cotiza en 20.20 unidades por cada billete verde; conoc… [+1456 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-03-04T16:42:00Z",
       "Content": "El peso mexicano caía por cuarto día consecutivo y se acercaba a a los 21.00 unidades por dólar hoy después de que entraron en vigor los aranceles del 25 por ciento que impulsó el presidente de Estad… [+5452 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cae tras anuncio de Sheinbaum sobre aranceles; toca brevemente barrera de 21 unidades por dólar",
-      "Description": "Forbes México.\n Peso cae tras anuncio de Sheinbaum sobre aranceles; toca brevemente barrera de 21 unidades por dólar\n\nEl peso en 20.9360 por dólar, con una depreciación de un 1.2%, ampliando sus pérdidas iniciales.\nPeso cae tras anuncio de Sheinbaum sobre ara…",
-      "Url": "https://forbes.com.mx/peso-cae-tras-anuncio-de-sheinbaum-sobre-aranceles-toca-brevemente-barrera-de-21-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0087-1.jpg",
-      "PublishedAt": "2025-03-04T14:32:05Z",
-      "Content": "El peso extendía el martes sus pérdidas después de que la presidenta Claudia Sheinbaum dijo que el domingo anunciará en un acto público medidas arancelarias y no arancelarias, en respuesta a las tari… [+2543 chars]"
     }
   ]
 }
