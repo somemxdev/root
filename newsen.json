@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 20,
   "Articles": [
     {
       "Source": {
@@ -262,45 +262,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-02-12T13:03:00Z",
       "Content": "WILMINGTON, Del., Feb. 12, 2025 (GLOBE NEWSWIRE) -- The American Federation Treasury proudly announces the official launch of the American Federation Dollar (AFD), a groundbreaking gold-backed digita… [+3686 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Naturalnews.com"
-      },
-      "Author": "News Editors",
-      "Title": "Democrats cry as “liberal supply chains” are wiped out and their favorite multi-billion dollar money machine is shut down",
-      "Description": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year?  The corruption that is being uncovered at USAID is truly historic.  USAID has …",
-      "Url": "https://www.naturalnews.com/2025-02-12-democrats-cry-as-liberal-supply-chains-are-wiped-out.html",
-      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/Cash-Money-Flow-Bill-Us-Loan-Pay.jpg",
-      "PublishedAt": "2025-02-12T06:00:00Z",
-      "Content": "How much power would you have if you had a giant money machine that showered your political allies and political causes that you favor with tens of billions of dollars every year?  The corruption tha… [+6332 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "seattlepi.com"
-      },
-      "Author": "By DÁNICA COTO, Associated Press",
-      "Title": "Lawsuit accuses owners of Puerto Rico-based international bank of a multimillion-dollar fraud scheme",
-      "Description": "An international bank based in Puerto Rico has been sued for fraud in an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting hundreds of clients in the U.S., Venezuela and elsewhere. One of the owners of Nodus Int…",
-      "Url": "https://www.seattlepi.com/news/world/article/lawsuit-accuses-owners-of-puerto-rico-based-20161360.php",
-      "UrlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
-      "PublishedAt": "2025-02-11T21:33:50Z",
-      "Content": "SAN JUAN, Puerto Rico (AP) An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting… [+2778 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "The Associated Press",
-      "Title": "Lawsuit accuses owners of Puerto Rico-based international bank of a multimillion-dollar fraud scheme",
-      "Description": "SAN JUAN, Puerto Rico (AP) — An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting hundreds of clients in the U.S., Venezuela and elsewhere.…",
-      "Url": "https://financialpost.com/pmn/lawsuit-accuses-owners-of-puerto-rico-based-international-bank-of-a-multimillion-dollar-fraud-scheme",
-      "UrlToImage": null,
-      "PublishedAt": "2025-02-11T21:02:55Z",
-      "Content": "SAN JUAN, Puerto Rico (AP) An international bank based in Puerto Rico has been sued for fraud over an alleged scheme that attorneys say led to the loss of more than $90 million in deposits, affecting… [+2586 chars]"
     }
   ]
 }
