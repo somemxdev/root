@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Canadian dollar looks through Bank of Canada rate cut and tariff mayhem — for now",
+      "Description": "There are voices in the investor community who think tariffs will win out over inflation, making more rate cuts likely",
+      "Url": "https://financialpost.com/news/economy/canadian-dollar-looks-through-bank-of-canada-rate-cut-and-tariff-mayhem-for-now",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/0313-mg-loonie.jpg",
+      "PublishedAt": "2025-03-12T20:40:41Z",
+      "Content": "There are voices in the investor community who think tariffs will win out over inflation, making more rate cuts likely\r\nSome economists have cautioned that the loonie, weakened by lower rates, will a… [+6612 chars]"
+    },
     {
       "Source": {
         "Id": null,
