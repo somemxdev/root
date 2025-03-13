@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Roomy Khan, Contributor, \n Roomy Khan, Contributor\n https://www.forbes.com/sites/roomykhan/",
+      "Title": "Trillion-Dollar Fusion: AI And Crypto Rewiring Finance",
+      "Description": "Before the world wakes, artificial intelligence (AI) driven systems are already scanning markets, seizing opportunities, and securing profits.",
+      "Url": "https://www.forbes.com/sites/roomykhan/2025/03/12/trillion-dollar-fusion-ai-and-crypto-rewiring-finance/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d1946d92916bbe4d6d3bb6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2025-03-12T14:11:03Z",
+      "Content": "human hand taking bitcoin from robotic hand\r\ngetty\r\nYour money never sleeps. Before the world wakes, artificial intelligence (AI) driven systems are already scanning markets, seizing opportunities, a… [+10786 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
