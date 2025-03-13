@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "PTI",
+      "Title": "Delhi Police arrests 4 illegal Bangladeshi immigrants for running fake dollar exchange scheme",
+      "Description": "Delhi Police have dismantled the 'Dollar Gang,' arresting four illegal immigrants from Bangladesh involved in multiple fraud cases. The gang targeted victims with fake currency schemes. Authorities recovered fake identification documents, counterfeit currency…",
+      "Url": "https://timesofindia.indiatimes.com/india/delhi-police-arrests-4-illegal-bangladeshi-immigrants-for-running-fake-dollar-exchange-scheme/articleshow/118938792.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-118939006,width-1070,height-580,imgsize-750505,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2025-03-12T13:42:59Z",
+      "Content": "Baby names that mean miracle"
+    },
     {
       "Source": {
         "Id": null,
