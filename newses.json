@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 13 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY jueves 13 de marzo inicia operaciones con el tipo de cambio interbancario en 20.16 pesos mexicanos por billete verde, con una ligera baja del 0.08 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba levemente ayer, en una jornada e…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2025-03-13T12:41:32Z",
+      "Content": "El dólar HOY jueves 13 de marzo inicia operaciones con el tipo de cambio interbancario en 20.16 pesos mexicanos por billete verde, con una ligera baja del 0.08 por ciento, según datos de Bloomberg. \r… [+855 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2025-03-05T12:03:00Z",
       "Content": "El dólar HOY miércoles 5 de marzo inicia operaciones con el tipo de cambio interbancario en 20.56 pesos mexicanos por billete verde, con una perdida del 0.13 por ciento, según datos de Bloomberg.\r\nEl… [+1024 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Recorta pérdidas el peso y se aleja de 21 unidades por dólar",
-      "Description": "Tras los comentarios del secretario de Comercio de Estados Unidos, Howard Lutnick, de que la administración de Donald Trump aún podría encontrar este miércoles una “posición común” con México y Canadá respecto a los aranceles, el peso, en operaciones electrón…",
-      "Url": "https://www.jornada.com.mx/2025/03/05/economia/025n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2025/03/05/fotos/025n1eco-1.jpg",
-      "PublishedAt": "2025-03-05T10:12:01Z",
-      "Content": "Periódico La JornadaMiércoles 5 de marzo de 2025, p. 25\r\nTras los comentarios del secretario de Comercio de Estados Unidos, Howard Lutnick, de que la administración de Donald Trump aún podría encontr… [+3244 chars]"
     }
   ]
 }
