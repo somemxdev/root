@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Francisco Rivera",
+      "Title": "Peso se crece ante aranceles: extiende ganancias al ubicarse en 20.09 unidades por dólar",
+      "Description": "Forbes México.\n Peso se crece ante aranceles: extiende ganancias al ubicarse en 20.09 unidades por dólar\n\nNuevamente se ubica en su mejor nivel desde el 20 de diciembre, mientras disminuye el nerviosismo arancelario.\nPeso se crece ante aranceles: extiende gan…",
+      "Url": "https://forbes.com.mx/peso-se-crece-ante-aranceles-extiende-ganancias-al-ubicarse-en-20-09-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2025-03-13T20:43:15Z",
+      "Content": "El peso extendió sus ganancias por tercera sesión al hilo y este jueves se ubicó en 20.0951 unidades por dólar, de acuerdo con datos de Banxico.\r\nCon ese precio de cierre, el tipo de cambio se ubicó … [+1566 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-adquirio-hoy-usdollar245-X6T53YJ4QNGS7BFMWRR6MME2TI.jpg?auth=d10c96afae4587f9a0d65e23b06956afc715a82b8f64cbcb77b3a13c281c10d1&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-05T20:39:33Z",
       "Content": "El Banco Central (BCRA) pudo recomprar hoy, en la primera rueda de marzo, 7 de cada 10 dólares que había tenido que vender el viernes, en la última jornada de febrero. La entidad que conduce Santiago… [+2883 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso se ‘emociona’ por posible ‘tregua’ en aranceles de Trump: Gana casi 1% al dólar",
-      "Description": "El peso mexicano estuvo a nada de cruzar la barrera de las 21 unidades por la aplicación de aranceles a México, pero ha recortado las pérdidas ante la expectativa de que Trump declarará un 'alivio' para las tarifas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/05/peso-dolar-precio-hoy-5-de-marzo-de-2025-tregua-aranceles-de-trump/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/P4VK6KOCIVBDLP4DUPBUKOOHVQ.jpg?smart=true&auth=83416fcddf0ee8885f0ceced1c63a49654085fdde318848a7a229d3a33f695f3&width=1200&height=630",
-      "PublishedAt": "2025-03-05T15:05:31Z",
-      "Content": "El peso mexicano aumenta sus ganancias ante el dólar durante la mañana de este miércoles 5 de marzo ante la expectativa de que el presidente Donald Trump acordará un alivio para los aranceles a Méxic… [+2354 chars]"
     }
   ]
 }
