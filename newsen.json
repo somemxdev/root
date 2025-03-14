@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": null,
+      "Title": "Dollar General CEO warns consumers 'only have enough money for basic essentials'",
+      "Description": "Tariffs and potential changes to government entitlement programs present potential further headwinds for core customers, said CEO Todd Vasos.",
+      "Url": "https://www.cnbc.com/2025/03/13/dollar-general-ceo-consumer-warning.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108027957-1725045340903-gettyimages-2169486653-dsc_0697_di1hjui3.jpeg?v=1741711511&w=1920&h=1080",
+      "PublishedAt": "2025-03-13T13:51:05Z",
+      "Content": "Dollar General CEO Todd Vasos said on Thursday that inflation continues to hurt the discounter's customers and that the macroeconomic environment won't improve this year.\r\nOn the company's fourth-qua… [+2120 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
