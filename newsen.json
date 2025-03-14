@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Alex Bitter",
+      "Title": "Dollar General CEO says shoppers only have enough money for 'basic essentials'",
+      "Description": "Dollar General shoppers \"have had to sacrifice, even on the necessities,\" CEO Todd Vasos said Thursday.",
+      "Url": "https://www.businessinsider.com/dollar-general-ceo-shoppers-only-afford-essentials-inflation-2025-3",
+      "UrlToImage": "https://i.insider.com/67d2e2b769253ccddf991de2?width=1200&format=jpeg",
+      "PublishedAt": "2025-03-13T16:08:22Z",
+      "Content": "Dollar General's core customers are in a worse financial position than last year, CEO Todd Vasos said Thursday.Courtesy of Dollar General\r\n<ul><li>Dollar General's customers were still struggling goi… [+3161 chars]"
+    },
     {
       "Source": {
         "Id": null,
