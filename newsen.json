@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/rfk-stadium-exterior.jpg",
       "PublishedAt": "2025-02-15T23:04:18Z",
       "Content": "Washington's NFL franchise has spent the last 28 seasons playing home games in Maryland. The Commanders currently call Northwest Stadium, formerly FedEx Field, home. \r\nThe stadium opened in time for … [+4679 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "US Tariffs Will Weaken Dollar If Nations Strike Back, Bank of America Says",
-      "Description": "US President Donald Trump tariff policies will eventually be a drag on the dollar despite providing an initial boost, according to Bank of America Corp.",
-      "Url": "https://financialpost.com/pmn/business-pmn/us-tariffs-will-weaken-dollar-if-nations-strike-back-bank-of-america-says",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/tariff-plans-support-the-dollar-greenback-has-been-rising-o.jpg",
-      "PublishedAt": "2025-02-12T22:36:17Z",
-      "Content": "(Bloomberg) US President Donald Trump tariff policies will eventually be a drag on the dollar despite providing an initial boost, according to Bank of America Corp. \r\nThe dollar may not like tariffs … [+1917 chars]"
     }
   ]
 }
