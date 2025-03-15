@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 14 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-14-de-marzo-nid14032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-14T15:36:26Z",
+      "Content": "Este viernes 14 de marzo de 2025, el precio del dólar en México es de $20,0848, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado… [+2109 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/6W65WXBV5RBQLCLW6DZX6ROL5Y.jpg?smart=true&auth=ce8875a17e4821f1cdcf440fa07df97f970f4193eb08074f715c5e0962312b27&width=1200&height=630",
       "PublishedAt": "2025-03-07T08:35:57Z",
       "Content": "Los aranceles de Donald Trump a México y Canadá fueron postergados durante un mes más, por lo que al menos hasta abril no subirán los precios de las importaciones de productos mexicanos y canadienses… [+2765 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso se pone ‘machuchón’ por pausa en aranceles de Trump a México: ¿Cuánto gana al dólar?",
-      "Description": "Donald Trump pausó los aranceles de 25% a México al menos hasta el próximo 2 de abril. La presidenta Claudia Sheinbaum dio detalles de cómo se logró el acuerdo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/06/peso-dolar-precio-hoy-6-de-marzo-de-2025-pausa-en-aranceles-de-trump/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Q7IKFCWBXBHOLG4S675CDTQ7VA.jpg?smart=true&auth=a402f4993b170d704d65c93690e7899615f2cd3d860431ee2c39333bf075a800&width=1200&height=630",
-      "PublishedAt": "2025-03-06T17:52:50Z",
-      "Content": "El peso extiende sus ganancias ante el dólar después de que el presidente Donald Trump pausó los aranceles de 25 por ciento a México al menos hasta el próximo 2 de abril. \r\nLo hice como una forma de … [+2126 chars]"
     }
   ]
 }
