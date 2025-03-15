@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Posthaste: Canadian dollar slides, Mexican peso glides as ‘Canada more exposed to tariff extortion’",
+      "Description": "Canadian dollar is being hit harder than the Mexican peso even though both two countries are in Donald Trump's tariff crosshairs. Read on",
+      "Url": "https://financialpost.com/news/canadian-dollar-hit-harder-than-mexican-peso-tariff-war",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/canadian-dollar-peso-gs0313.jpg",
+      "PublishedAt": "2025-03-14T12:00:16Z",
+      "Content": "Mexico's currency has had an easier ride since Donald Trump's ascendance\r\nA Canadian dollar coin and a Mexican peso coin face off.Photo by Peter J. Thompson, Susana Gonzalez /Financial Post, Bloomber… [+10108 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
