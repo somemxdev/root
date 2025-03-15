@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 14 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY viernes 14 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.31 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba levemente ayer, con el mercado …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-14T12:02:00Z",
+      "Content": "El dólar HOY viernes 14 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.31 por ciento, según datos de Bloomberg. … [+740 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2025-03-06T12:09:00Z",
       "Content": "El dólar HOY jueves 6 de marzo inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un fortalecimiento del 0.24 por ciento, según datos de Bloomberg.… [+789 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central compró hoy US$245 millones",
-      "Description": "Es su mayor adquisición en un mes y las reservas brutas se volvieron a colocar levemente por encima de los US$28.000 millones; recuperó así el 70% del monto que tuvo que vender el viernes",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-hoy-us245-millones-nid05032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-adquirio-hoy-usdollar245-X6T53YJ4QNGS7BFMWRR6MME2TI.jpg?auth=d10c96afae4587f9a0d65e23b06956afc715a82b8f64cbcb77b3a13c281c10d1&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-05T20:39:33Z",
-      "Content": "El Banco Central (BCRA) pudo recomprar hoy, en la primera rueda de marzo, 7 de cada 10 dólares que había tenido que vender el viernes, en la última jornada de febrero. La entidad que conduce Santiago… [+2883 chars]"
     }
   ]
 }
