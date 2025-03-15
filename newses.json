@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "“No-L”: la moneda de oro de un dólar que podría valer US$140.000 y el detalle que incrementa su precio",
+      "Description": "Los ejemplares emitidos en Estados Unidos logran convertirse en piezas relevantes para los coleccionistas debido a varios factores, por lo que están dispuestos a pagar grandes sumas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/no-l-la-moneda-de-oro-de-un-dolar-que-podria-valer-us140000-y-el-detalle-que-incrementa-su-precio-nid14032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-no-solo-tiene-un-valor-agregado-en-el-DQLFMBR2YNFRBI4DQBVVEI5IM4.jpg?auth=95a3713aaf26ad5be85344e39661065fda4b3487ceb259d37536ae9c7742bca1&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-14T20:49:04Z",
+      "Content": "Desde su emisión en 1849, el dólar de oro ha sido una pieza de interés para coleccionistas debido a su composición de 90% oro y 10% cobre. Sin embargo, un pequeño detalle ha convertido a una variante… [+2781 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso imparable: perfora el piso de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso imparable: perfora el piso de las 20 unidades por dólar\nEl tipo de cambio se ubica en 19.9238 pesos por billete verde, el mejor nivel para la moneda mexicana desde noviembre; el peso hila cuatro sesiones con ganancias.\nPeso imparable: per…",
+      "Url": "https://forbes.com.mx/peso-imparable-perfora-el-piso-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2025-03-14T20:37:09Z",
+      "Content": "El peso perforó este viernes el piso de las 20 unidades por dólar y tuvo su mejor nivel desde noviembre, mientras se reduce el nerviosismo por las amenazas arancelarias de Trump.\r\nEl dólar se ubicó e… [+850 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: una ola de rumores disparó la demanda y obligó al Banco Central a vender US$474 millones",
+      "Description": "La plaza local terminó pactando negocios por US$1134,9 millones, el volumen de operaciones más alto desde mayo de 2023, también hubo un fuerte salto en la demanda de coberturas cambiarias",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-una-ola-de-rumores-disparo-la-demanda-y-obligo-al-banco-central-a-vender-us474-millones-nid14032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-14T20:32:23Z",
+      "Content": "La plaza cambiaria local tuvo hoy la rueda de negocios más movida desde que Javier Milei es presidente, dado que una ola de rumores sobre inminentes cambios en la errática política cambiaria oficial … [+3005 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/I-uZPfBZND--7Wza-dGd6BFfq4Q=/0x0:2272x1487/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/e7f/e11/61d/e7fe1161ddd9d976f483a19cf5e0ecfa.jpg",
       "PublishedAt": "2025-03-07T14:58:00Z",
       "Content": "El tipo de cambio del euro frente al dólar prosigue su recuperación este viernes, que podría llevar a la moneda común a recuperar niveles similares a los de principios del pasado mes de noviembre, co… [+2842 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Inflación impacta al peso! Precio del dólar hoy 7 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocedió tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 7 de marzo de 2025 cotiza en 20.31 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-7-marzo-2025-tipo-cambio-bancos-mexico/1703788",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/07/3270260.jpg",
-      "PublishedAt": "2025-03-07T14:45:55Z",
-      "Content": "El peso mexicano retrocedió tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 7 de marzo de 2025 cotiza en 20.31 unidades por cada billete verde; conoce aquí cuál es el… [+1826 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 7 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY viernes 7 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.18 por ciento, según datos de Bloomberg.El peso mexicano mantenía ganancias en torno a 50 por ciento, tras …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2025-03-07T12:03:00Z",
-      "Content": "El dólar HOY viernes 7 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.18 por ciento, según datos de Bloomberg.\r\nEl p… [+876 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Pausa a los aranceles: ¿Cuánto se apreció el peso y el dólar canadiense tras acuerdos con Donald Trump?",
-      "Description": "El peso mexicano y el dólar canadiense se apreciaron tras la pausa a los aranceles de Donald Trump.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/07/pausa-a-los-aranceles-de-donald-trump-peso-se-aprecia-precio-del-dolar-estadounidense-tipo-de-cambio-dolar-canadiense/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/6W65WXBV5RBQLCLW6DZX6ROL5Y.jpg?smart=true&auth=ce8875a17e4821f1cdcf440fa07df97f970f4193eb08074f715c5e0962312b27&width=1200&height=630",
-      "PublishedAt": "2025-03-07T08:35:57Z",
-      "Content": "Los aranceles de Donald Trump a México y Canadá fueron postergados durante un mes más, por lo que al menos hasta abril no subirán los precios de las importaciones de productos mexicanos y canadienses… [+2765 chars]"
     }
   ]
 }
