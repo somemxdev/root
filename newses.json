@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza por cuarta sesión; cotiza en 19.96 unidades por dólar",
+      "Description": "Forbes México.\n Peso avanza por cuarta sesión; cotiza en 19.96 unidades por dólar\n\nEl peso cotizaba en 19.9633 unidades, con una ganancia de un 0.58% frente a los 20.0798 pesos del precio de referencia de LSEG del jueves, en su cuarta jornada consecutiva de g…",
+      "Url": "https://forbes.com.mx/peso-avanza-por-cuarta-sesion-cotiza-en-19-96-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
+      "PublishedAt": "2025-03-14T14:45:29Z",
+      "Content": "El peso se apreciaba el viernes ante un declive global del dólar, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, mientras los inversores seguían centrados en notic… [+559 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Q7IKFCWBXBHOLG4S675CDTQ7VA.jpg?smart=true&auth=a402f4993b170d704d65c93690e7899615f2cd3d860431ee2c39333bf075a800&width=1200&height=630",
       "PublishedAt": "2025-03-06T17:52:50Z",
       "Content": "El peso extiende sus ganancias ante el dólar después de que el presidente Donald Trump pausó los aranceles de 25 por ciento a México al menos hasta el próximo 2 de abril. \r\nLo hice como una forma de … [+2126 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 6 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-6-de-marzo-nid06032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-06T14:07:03Z",
-      "Content": "Este jueves 6 de marzo de 2025, el precio del dólar en México es de $20,3893, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+2224 chars]"
     }
   ]
 }
