@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, por debajo de las 20 unidades! Precio del dólar hoy 14 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por cuarta jornada consecutiva, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, con lo que el precio del dólar hoy 14 de marzo de 2025 arranca en 19.96 unidades por cada billete verd…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-14-marzo-2025-tipo-cambio-bancos-mexico/1705074",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/14/3274232.jpg",
+      "PublishedAt": "2025-03-14T13:59:31Z",
+      "Content": "El peso mexicano avanza por cuarta jornada consecutiva, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, con lo que el precio del dólar hoy 14 de marzo de 2025 arran… [+1178 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Digital Trends"
+      },
+      "Author": "Allan Vélez",
+      "Title": "Dólar hoy: mejores lugares para ver el alza o caída de la moneda",
+      "Description": "La paridad del dólar respecto de otras monedas es una de las principales consultas diarias a Google; aquí los mejores sitios para hacerlo.\nThe post Dólar hoy: mejores lugares para ver el alza o caída de la moneda appeared first on Digital Trends Español.",
+      "Url": "https://es.digitaltrends.com/tendencias/dolar-hoy/",
+      "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2022/02/dinero-billete-billetera-dolares.jpg?resize=1200%2C630&p=1",
+      "PublishedAt": "2025-03-14T13:09:22Z",
+      "Content": "Tabla de contenidos\r\nTabla de contenidos\r\nGoogle\r\nBancos locales\r\nApps para enviar o recibir dinero\r\nLa paridad del dólar respecto de otras monedas es una de las principales consultas diarias a Googl… [+2684 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-06T14:07:03Z",
       "Content": "Este jueves 6 de marzo de 2025, el precio del dólar en México es de $20,3893, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+2224 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza por segundo día! Precio del dólar hoy 6 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 6 de marzo de 2025 cotiza en 20.37 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-6-marzo-2025-tipo-cambio-bancos-mexico/1703553",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/06/3269550.jpg",
-      "PublishedAt": "2025-03-06T13:42:37Z",
-      "Content": "El peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 6 de marzo de 2025 cotiza en 20.37 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 6 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY jueves 6de marzo inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un fortalecimiento del 0.24 por ciento, según datos de Bloomberg.Elpeso mexicanose apreciaba ayer luego de que el secretario de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2025-03-06T12:09:00Z",
-      "Content": "El dólar HOY jueves 6 de marzo inicia operaciones con el tipo de cambio interbancario en 20.46 pesos mexicanos por billete verde, con un fortalecimiento del 0.24 por ciento, según datos de Bloomberg.… [+789 chars]"
     }
   ]
 }
