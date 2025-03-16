@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 15 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de marzo el tipo de cambio interbancario, se ubica en 19.93 pesos por unidad, con una pérdida del 0.77 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzó a n…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2025-03-15T13:32:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de marzo el tipo de cambio interbancario, se ubica en 19.93 pesos por unidad, con una pérdida del 0.77 por ciento… [+2715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TVIIMQX5GJAWTAJQC5OXU6YB6Q.jpg?smart=true&auth=ced8016dfeb85cbf622787a40eec853e83d4c16afb5c8120a3f213df4c7fb5b6&width=1200&height=630",
       "PublishedAt": "2025-03-07T16:34:03Z",
       "Content": "El peso abre la última sesión de la semana con una ligera pérdida ante el dólar, esto en medio de declaraciones de Donald Trump sobre que los aranceles a México y Canadá podrían aumentar con el tiemp… [+2033 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 7 de marzo",
-      "Description": "¿A cómo está el dólar hoy en México? Consulta el tipo de cambio actualizado al 7 de marzo, según el Diario Oficial de la Federación (DOF). Análisis económico y el valor actual de la divisa. ¡Entérate aquí!",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-7-de-marzo-nid07032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-7-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-07T15:10:03Z",
-      "Content": "Este viernes 7 de marzo de 2025, el precio del dólar en México es de $20,2777, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2169 chars]"
     }
   ]
 }
