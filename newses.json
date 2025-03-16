@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Aranceles no minan fortaleza del peso; dólar cierra en 19.86",
+      "Description": "El tipo de cambio cerró la jornada del viernes por debajo de 20 pesos por dólar, el mejor nivel desde noviembre de 2024, mientras el mercado mexicano de valores también terminó con ganancias, debido que se comienzan a descontar los amagos arancelarios de Esta…",
+      "Url": "https://www.jornada.com.mx/2025/03/15/economia/013n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2025/03/15/fotos/013n1eco-1.jpg",
+      "PublishedAt": "2025-03-15T08:55:12Z",
+      "Content": "Periódico La JornadaSábado 15 de marzo de 2025, p. 13\r\nEl tipo de cambio cerró la jornada del viernes por debajo de 20 pesos por dólar, el mejor nivel desde noviembre de 2024, mientras el mercado mex… [+3592 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-7-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-07T15:10:03Z",
       "Content": "Este viernes 7 de marzo de 2025, el precio del dólar en México es de $20,2777, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2169 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Europa Press",
-      "Title": "El euro vive su mejor semana frente al dólar desde 2009 y vuelve a niveles de noviembre",
-      "Description": "Durante este viernes, el euro llegaba a alcanzar un cambio de 1,0871 dólares, un 0,8% por encima del cierre de ayer y un 4,8% más que hace una semana",
-      "Url": "https://www.elconfidencial.com/mercados/2025-03-07/euro-vive-su-mejor-semana-frente-al-dolar-de-2009_4081272/",
-      "UrlToImage": "https://images.ecestaticos.com/I-uZPfBZND--7Wza-dGd6BFfq4Q=/0x0:2272x1487/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/e7f/e11/61d/e7fe1161ddd9d976f483a19cf5e0ecfa.jpg",
-      "PublishedAt": "2025-03-07T14:58:00Z",
-      "Content": "El tipo de cambio del euro frente al dólar prosigue su recuperación este viernes, que podría llevar a la moneda común a recuperar niveles similares a los de principios del pasado mes de noviembre, co… [+2842 chars]"
     }
   ]
 }
