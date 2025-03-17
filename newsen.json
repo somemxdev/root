@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-118455041,width-1200,height-630,imgsize-8564,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2025-02-21T13:58:04Z",
       "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Chantz Martin",
-      "Title": "D.C. Mayor Bowser open to using public money to help fund multibillion-dollar Commanders stadium at RFK site",
-      "Description": "Last year, Washington Commanders owner Josh Harris said 2030 was a \"reasonable target\" date for construction to finish on new stadium for the NFL franchise.",
-      "Url": "https://www.foxnews.com/sports/d-c-mayor-bowser-says-taxpayer-dollars-could-help-fund-potential-multi-billion-commanders-stadium-rfk-site",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/rfk-stadium-exterior.jpg",
-      "PublishedAt": "2025-02-15T23:04:18Z",
-      "Content": "Washington's NFL franchise has spent the last 28 seasons playing home games in Maryland. The Commanders currently call Northwest Stadium, formerly FedEx Field, home. \r\nThe stadium opened in time for … [+4679 chars]"
     }
   ]
 }
