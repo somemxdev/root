@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY lunes 17 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY lunes 17 de marzo inicia operaciones con el tipo de cambio interbancario en 19.92 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el viernes ante un declive global…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-17T11:59:00Z",
+      "Content": "El dólar HOY lunes 17 de marzo inicia operaciones con el tipo de cambio interbancario en 19.92 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. \r\n… [+854 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2025-03-10T11:59:00Z",
       "Content": "El dólar HOY lunes 10 de marzo inicia operaciones con el tipo de cambio interbancario en 20.23 pesos mexicanos por billete verde, con un debilitamiento del 0.12 por ciento, según datos de Bloomberg.\r… [+884 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 8 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de marzo el tipo de cambio interbancario, se ubica en 20.25 pesos por unidad, con una pérdida del -0.18 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-08T13:16:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de marzo el tipo de cambio interbancario, se ubica en 20.25 pesos por unidad, con una pérdida del -0.18 por ciento… [+2854 chars]"
     }
   ]
 }
