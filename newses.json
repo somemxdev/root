@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: precio oficial este lunes 17 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-precio-oficial-este-lunes-17-de-marzo-nid17032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-17T14:20:15Z",
+      "Content": "Este lunes 17 de marzo de 2025, el precio del dólar en México es de $20,0848, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+1991 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-03-10T14:24:19Z",
       "Content": "Este lunes 10 de marzo, el precio del dólar en México es de $20,283, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por el retroc… [+2227 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 10 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY lunes 10 de marzo inicia operaciones con el tipo de cambio interbancario en 20.23 pesos mexicanos por billete verde, con un debilitamiento del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, aunque se perfilaba a culmina…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-marzo-de-2025-en-vivo-peso-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2025-03-10T11:59:00Z",
-      "Content": "El dólar HOY lunes 10 de marzo inicia operaciones con el tipo de cambio interbancario en 20.23 pesos mexicanos por billete verde, con un debilitamiento del 0.12 por ciento, según datos de Bloomberg.\r… [+884 chars]"
     }
   ]
 }
