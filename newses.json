@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Benefician al peso la coyuntura arancelaria y debilidad del dólar",
+      "Description": "La probabilidad de una mayor apreciación del peso se incrementó la semana pasada, pues aumentaron las apuestas a favor de su mejor nivel desde principios de noviembre de 2024.",
+      "Url": "https://www.jornada.com.mx/2025/03/17/economia/020n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-03-17T08:45:48Z",
+      "Content": "Periódico La JornadaLunes 17 de marzo de 2025, p. 20\r\nLa probabilidad de una mayor apreciación del peso se incrementó la semana pasada, pues aumentaron las apuestas a favor de su mejor nivel desde pr… [+1830 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-08T13:16:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de marzo el tipo de cambio interbancario, se ubica en 20.25 pesos por unidad, con una pérdida del -0.18 por ciento… [+2854 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘engarrota’ ante el dólar tras semana ‘movidita’ por aranceles: ¿En cuánto cotiza HOY?",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/07/peso-dolar-precio-hoy-7-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TVIIMQX5GJAWTAJQC5OXU6YB6Q.jpg?smart=true&auth=ced8016dfeb85cbf622787a40eec853e83d4c16afb5c8120a3f213df4c7fb5b6&width=1200&height=630",
-      "PublishedAt": "2025-03-07T16:34:03Z",
-      "Content": "El peso abre la última sesión de la semana con una ligera pérdida ante el dólar, esto en medio de declaraciones de Donald Trump sobre que los aranceles a México y Canadá podrían aumentar con el tiemp… [+2033 chars]"
     }
   ]
 }
