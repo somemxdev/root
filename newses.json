@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso tiene pérdida marginal, pero sigue debajo de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso tiene pérdida marginal, pero sigue debajo de las 20 unidades por dólar\n\nLa moneda retrocede 0.05% mientras inversionistas se preparan para decisiones de bancos centrales esta semana, entre ellos, la Fed.\nPeso tiene pérdida marginal, pero …",
+      "Url": "https://forbes.com.mx/peso-tiene-perdida-marginal-pero-sigue-debajo-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
+      "PublishedAt": "2025-03-18T22:44:37Z",
+      "Content": "Ciudad de México (Reuters).- El peso se depreció ligeramente el martes, aunque se mantuvo oscilando en torno a la cota de 20 por dólar, mientras los inversionistas se preparaban para las decisiones d… [+2862 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-11T15:09:04Z",
       "Content": "Este martes 11 de marzo de 2025, el precio del dólar en México es de $20,2922, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2259 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza tras caída en jornada previa! Precio del dólar hoy 11 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de este martes ante una depreciación global de la divisa estadunidense, con lo que el precio del dólar hoy 11 de marzo de 2025 cotiza en 20.32 unidades por cada billete verde; conoce aquí cuál es el tipo…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-11-marzo-2025-tipo-cambio-bancos-mexico/1704375",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/11/3272102.jpg",
-      "PublishedAt": "2025-03-11T14:05:13Z",
-      "Content": "El peso mexicano avanza en la jornada de este martes ante una depreciación global de la divisa estadunidense, con lo que el precio del dólar hoy 11 de marzo de 2025 cotiza en 20.32 unidades por cada … [+1669 chars]"
     }
   ]
 }
