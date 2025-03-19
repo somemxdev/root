@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede; opera nuevamente por encima de 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso retrocede; opera nuevamente por encima de 20 unidades por dólar\n\nEl peso cotizaba en 20.0746 unidades, con una pérdida de un 0.74% frente a los 19.9270 por dólar del precio de referencia de LSEG del lunes.\nPeso retrocede; opera nuevamente…",
+      "Url": "https://forbes.com.mx/peso-retrocede-opera-nuevamente-por-encima-de-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
+      "PublishedAt": "2025-03-18T14:41:33Z",
+      "Content": "El peso se depreciaba el martes ante un fortalecimiento generalizado del dólar mientras los inversionistas se preparaban para las decisiones de política monetaria de distintos bancos centrales esta s… [+913 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy a peso mexicano 18 marzo 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ante un fortalecimiento de la divisa estadunidese, con lo que el precio del dólar hoy 18 de marzo de 2025 arranca en 20.07 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-18-marzo-2025-tipo-cambio-bancos-mexico/1705626",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/18/3275848.jpg",
+      "PublishedAt": "2025-03-18T14:32:48Z",
+      "Content": "El peso mexicano retrocede ante un fortalecimiento de la divisa estadunidense, con lo que el precio del dólar hoy 18 de marzo de 2025 arranca en 20.07 unidades por cada billete verde; conoce aquí cuá… [+1616 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2025-03-11T12:03:00Z",
       "Content": "El dólar HOY 11 de marzo de 2025, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con un debilitamiento del 0.09 por ciento, según datos de … [+788 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso rompe barrera de 20 por dólar en frontera",
-      "Description": "El optimismo que desató la pausa a la aplicación de aranceles de productos y servicios nacionales a Estados Unidos produjo un avance del peso en el intenso mercado cambiario de Tijuana. Por primera vez en varias semanas, la moneda estadunidense bajó a menos d…",
-      "Url": "https://www.jornada.com.mx/2025/03/11/politica/006n3pol",
-      "UrlToImage": "https://www.jornada.com.mx/2025/03/11/fotos/006n3pol-1.jpg",
-      "PublishedAt": "2025-03-11T08:03:02Z",
-      "Content": "Periódico La JornadaMartes 11 de marzo de 2025, p. 6\r\nEl optimismo que desató la pausa a la aplicación de aranceles de productos y servicios nacionales a Estados Unidos produjo un avance del peso en … [+200 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con ligero retroceso! Precio del dólar hoy 10 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ligeramente en la jornada de este lunes, con lo que el precio del dólar hoy 10 de marzo de 2025 cotiza en 20.24 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divis…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-marzo-2025-tipo-cambio-bancos-mexico/1704203",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/10/3271610.jpg",
-      "PublishedAt": "2025-03-10T14:42:56Z",
-      "Content": "El peso mexicano retrocede ligeramente en la jornada de este lunes, con lo que el precio del dólar hoy 10 de marzo de 2025 cotiza en 20.24 unidades por cada billete verde; conoce aquí cuál es el tipo… [+1561 chars]"
     }
   ]
 }
