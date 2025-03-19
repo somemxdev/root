@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: precio oficial este martes 18 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-precio-oficial-este-martes-18-de-marzo-nid18032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-18T17:34:02Z",
+      "Content": "Este martes 18 de marzo de 2025, el precio del dólar en México es de $19,8693, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2445 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/11/3272102.jpg",
       "PublishedAt": "2025-03-11T14:05:13Z",
       "Content": "El peso mexicano avanza en la jornada de este martes ante una depreciación global de la divisa estadunidense, con lo que el precio del dólar hoy 11 de marzo de 2025 cotiza en 20.32 unidades por cada … [+1669 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY 11 de marzo de 2025: ¿Cuál es el tipo de cambio del peso en México?",
-      "Description": "El dólar HOY 11 de marzo de 2025, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con un debilitamiento del 0.09 por ciento, según datos de Bloomberg.El peso mexicano retrocedía ligeramente tras cuatr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2025-03-11T12:03:00Z",
-      "Content": "El dólar HOY 11 de marzo de 2025, debes saber que al iniciar operaciones el tipo de cambio interbancario se ubica en 20.34 pesos por unidad, con un debilitamiento del 0.09 por ciento, según datos de … [+788 chars]"
     }
   ]
 }
