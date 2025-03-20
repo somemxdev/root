@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se deprecia previo a decisión de la Fed! Precio del dólar hoy 19 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por segunda jornada consecutiva ante un fortalecimiento global de la divisa estadunidense, con lo que el precio del dólar hoy 19 de marzo de 2025 arranca en 19.99 unidades por cada billete verde; conoce aquí cuál e…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-19-marzo-2025-tipo-cambio-bancos-mexico/1705848",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/19/3276496.jpg",
+      "PublishedAt": "2025-03-19T14:55:32Z",
+      "Content": "El peso mexicano retrocede por segunda jornada consecutiva ante un fortalecimiento global de la divisa estadunidense, con lo que el precio del dólar hoy 19 de marzo de 2025 arranca en 19.99 unidades … [+1326 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 19 de marzo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-19-de-marzo-de-2025-nid19032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-19T14:08:08Z",
+      "Content": "Este miércoles 19 de marzo de 2025, el precio del dólar en México es de $19,9845, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se ve influenciado por el avan… [+2594 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/12/3272862.jpg",
       "PublishedAt": "2025-03-12T14:03:18Z",
       "Content": "El peso mexicano avanza levemente tras entrada en vigor de aranceles al acero y aluminio, con lo que el precio del dólar hoy 12 de marzo de 2025 cotiza en 20.20 unidades por cada billete verde; conoc… [+1456 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 12 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-12-de-marzo-nid12032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-03-12T13:55:58Z",
-      "Content": "Este miércoles 12 de marzo de 2025, el precio del dólar en México es de $20,8518, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se ve impactado por las negoci… [+2372 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 12 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY miércoles 12 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer ante un declive generalizado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/11/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-03-12T11:59:00Z",
-      "Content": "El dólar HOY miércoles 12 de marzo inicia operaciones con el tipo de cambio interbancario en 20.25 pesos mexicanos por billete verde, con una perdida del 0.05 por ciento, según datos de Bloomberg.\r\nE… [+821 chars]"
     }
   ]
 }
