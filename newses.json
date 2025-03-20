@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cerró en 19.93 unidades por dólar en contexto de cautela",
+      "Description": "Los inversionistas internacionales se mantuvieron con elevada cautela este martes y su refugio fue el oro, mientras mantuvieron sus ventas de acciones tecnológicas en Estados Unidos.",
+      "Url": "https://www.jornada.com.mx/2025/03/19/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-03-19T10:52:42Z",
+      "Content": "Periódico La JornadaMiércoles 19 de marzo de 2025, p. 19\r\nLos inversionistas internacionales se mantuvieron con elevada cautela este martes y su refugio fue el oro, mientras mantuvieron sus ventas de… [+2873 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OYV3Y47BUNGEBAHL6V4ENVL6AY.jpg?smart=true&auth=f5a9d68211d1410bf6f3df67200ba6daf9a043e64041271e6f204a0a8a2495f6&width=1200&height=630",
       "PublishedAt": "2025-03-11T18:14:55Z",
       "Content": "El peso mexicano inició la sesión de este martes 11 de marzo con ligeros avances frente al dólar a medida que los inversionistas siguen asimilando la posibilidad de ver un enfriamiento en la activida… [+1667 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El euro supera las políticas de Trump y aleja el fantasma de la paridad con el dólar",
-      "Description": "El euro se fortalece frente al dólar, y la esperada paridad que los analistas parecía que descontaban tras la victoria de Donald Trump en las elecciones de Estados Unidos se aleja cada vez más. La moneda europea se cambia ya a 1,09 dólares por primera vez des…",
-      "Url": "https://www.abc.es/economia/euro-supera-109-dolares-primera-vez-victoria-20250311145529-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/11/crisLefe-U40702206236DZZ-1024x512@diario_abc.jpg",
-      "PublishedAt": "2025-03-11T16:08:58Z",
-      "Content": "El euro se fortalece frente al dólar, y la esperada paridad que los analistas parecía que descontaban tras la victoria de Donald Trump en las elecciones de Estados Unidos se aleja cada vez más. La mo… [+6508 chars]"
     }
   ]
 }
