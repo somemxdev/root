@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": null,
+      "Title": "Ghana cedi has been stable against the US dollar since February 19 - Finance minister",
+      "Description": "Finance minister Dr Cassiel Ato Forson says the Ghanaian Cedi has remained stable against the US dollar since February 19, 2025, on the interbank forex market.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Ghana-cedi-has-been-stable-against-the-US-dollar-since-February-19-Finance-minister-1976202",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/328/32871080.jpg",
+      "PublishedAt": "2025-03-19T07:59:10Z",
+      "Content": "Finance minister Dr Cassiel Ato Forson says the Ghanaian Cedi has remained stable against the US dollar since February 19, 2025, on the interbank forex market. \r\nThe minister said as of March 14, 202… [+1178 chars]"
+    },
     {
       "Source": {
         "Id": null,
