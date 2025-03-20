@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Fernanda Murillo",
+      "Title": "Dólar se debilita y peso mexicano se aprecia ante incertidumbre por decisión de la Fed",
+      "Description": "Ante la incertidumbre por la próxima decisión de política monetaria de la Reserva Federal (Fed), el dólar americano experimento un debilitamiento generalizado de 0.07 por ciento al cierre de la sesión de este martes.Lo anterior provocó que el peso mexicano fi…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-18-marzo-2025",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/05/peso-mexicano-recupera-frente-dolar.jpg",
+      "PublishedAt": "2025-03-19T00:25:00Z",
+      "Content": "Ante la incertidumbre por la próxima decisión de política monetaria de la Reserva Federal (Fed), el dólar americano experimento un debilitamiento generalizado de 0.07 por ciento al cierre de la sesió… [+2216 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/11/crisLefe-U40702206236DZZ-1024x512@diario_abc.jpg",
       "PublishedAt": "2025-03-11T16:08:58Z",
       "Content": "El euro se fortalece frente al dólar, y la esperada paridad que los analistas parecía que descontaban tras la victoria de Donald Trump en las elecciones de Estados Unidos se aleja cada vez más. La mo… [+6508 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 11 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-11-de-marzo-nid11032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-11T15:09:04Z",
-      "Content": "Este martes 11 de marzo de 2025, el precio del dólar en México es de $20,2922, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2259 chars]"
     }
   ]
 }
