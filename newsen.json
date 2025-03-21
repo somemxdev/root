@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Shilpy Sinha",
+      "Title": "Muthoot Finance taps US dollar bond on ratings upgrade",
+      "Description": "The bond carries an initial price guidance of 98.625, or a 6.812% yield. Both the issuer and the bond's issue ratings were upgraded to BB+ by S&P on March 17, with a 'stable' outlook.",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-taps-us-dollar-bond-on-ratings-upgrade/articleshow/119233009.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-119233032,width-1200,height-630,imgsize-9268,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-03-20T00:46:34Z",
+      "Content": "Mumbai: Muthoot Finance has initiated a Reg-S tap of its $400 million bond issue, on renewed investor interest following a ratings upgrade.The bond carries an initial price guidance of 98.625, or a 6… [+1252 chars]"
+    },
     {
       "Source": {
         "Id": null,
