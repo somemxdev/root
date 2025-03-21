@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se pone nervioso’ por fortalecimiento del dólar: ¿Cómo cotiza HOY?",
+      "Description": "La moneda mexicana cede terreno ante el fortalecimiento generalizado por parte de la moneda estadounidense.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/20/peso-dolar-precio-hoy-20-de-marzo-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WCKUWEUUNFFXJFSE62OSJT32CA.jpg?smart=true&auth=0d64272e0c80dc99e341d4f8300075a8dd64fa643cf5408d2811fc3312e4aef1&width=1200&height=630",
+      "PublishedAt": "2025-03-20T15:44:50Z",
+      "Content": "La moneda mexicana cede terreno ante el fortalecimiento generalizado por parte de la moneda estadounidense, ante los persistentes riesgos sobre ver un menor crecimiento económico y mayores barreras a… [+2920 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/13/3273569.jpg",
       "PublishedAt": "2025-03-13T14:46:04Z",
       "Content": "El peso mexicano avanza levemente con la atención puesta en los aranceles de Donald Trump, con lo que el precio del dólar hoy 13 de marzo de 2025 cotiza en 20.15 unidades por cada billete verde; cono… [+1414 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY jueves 13 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY jueves 13 de marzo inicia operaciones con el tipo de cambio interbancario en 20.16 pesos mexicanos por billete verde, con una ligera baja del 0.08 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba levemente ayer, en una jornada e…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2025-03-13T12:41:32Z",
-      "Content": "El dólar HOY jueves 13 de marzo inicia operaciones con el tipo de cambio interbancario en 20.16 pesos mexicanos por billete verde, con una ligera baja del 0.08 por ciento, según datos de Bloomberg. \r… [+855 chars]"
     }
   ]
 }
