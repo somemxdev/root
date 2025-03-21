@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso extiende pérdidas! Precio del dólar hoy 20 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada del jueves y extiende las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 20 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-20-marzo-2025-tipo-cambio-bancos-mexico/1706075",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/20/3277198.jpg",
+      "PublishedAt": "2025-03-20T14:02:42Z",
+      "Content": "El peso mexicano retrocede en la jornada del jueves y extiende las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 20 de marzo de 2025arranca en 20.25 unidades por cada billete ver… [+1226 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2025-03-13T12:41:32Z",
       "Content": "El dólar HOY jueves 13 de marzo inicia operaciones con el tipo de cambio interbancario en 20.16 pesos mexicanos por billete verde, con una ligera baja del 0.08 por ciento, según datos de Bloomberg. \r… [+855 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso le ‘resbalan’ los aranceles al acero y aluminio de México: ¿Cuánto gana al dólar HOY?",
-      "Description": "La presidenta Claudia Sheinbaum dijo que esperará hasta el 2 de abril para evaluar si México aplicará aranceles de represalia al acero y aluminio de EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/12/peso-dolar-precio-hoy-12-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PQDYWQ74OVFBXOPB2GQDCUMUYU.jpg?smart=true&auth=cdb5865667a17775e52621d582869931a643f6a664d9a1258f250bbb31ad6990&width=1200&height=630",
-      "PublishedAt": "2025-03-12T16:25:12Z",
-      "Content": "El peso amplía sus ganancias ante el dólar este miércoles 12 de marzo, esto a pesar de la entrada en vigor de aranceles de 25 por ciento al acero y aluminio de México, y después de que la inflación e… [+2208 chars]"
     }
   ]
 }
