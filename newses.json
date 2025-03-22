@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra semana en ¢500",
+      "Description": "Este viernes 21 de marzo, el tipo de cambio en Monex fue prácticamente idéntico al mismo día de la semana anterior.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-en-500/YH7XXTOQ7VEHDACISYCA3UVSYM/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/5NHR4KD3DNHFDBPDIF7MNKJKNA.jpg?smart=true&auth=05bb2e4b66b3816de6b9bdc9464e0f3cc873a8bf5c468060af98096effd675c8&width=1440",
+      "PublishedAt": "2025-03-21T21:34:02Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana con un valor de ¢500,03 en el Mercado de Monedas Extranjeras (Monex), tras cinco sesiones en las que el precio de la divisa tuvo un com… [+2662 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/14/3274232.jpg",
       "PublishedAt": "2025-03-14T13:59:31Z",
       "Content": "El peso mexicano avanza por cuarta jornada consecutiva, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, con lo que el precio del dólar hoy 14 de marzo de 2025 arran… [+1178 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Digital Trends"
-      },
-      "Author": "Allan Vélez",
-      "Title": "Dólar hoy: mejores lugares para ver el alza o caída de la moneda",
-      "Description": "La paridad del dólar respecto de otras monedas es una de las principales consultas diarias a Google; aquí los mejores sitios para hacerlo.\nThe post Dólar hoy: mejores lugares para ver el alza o caída de la moneda appeared first on Digital Trends Español.",
-      "Url": "https://es.digitaltrends.com/tendencias/dolar-hoy/",
-      "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2022/02/dinero-billete-billetera-dolares.jpg?resize=1200%2C630&p=1",
-      "PublishedAt": "2025-03-14T13:09:22Z",
-      "Content": "Tabla de contenidos\r\nTabla de contenidos\r\nGoogle\r\nBancos locales\r\nApps para enviar o recibir dinero\r\nLa paridad del dólar respecto de otras monedas es una de las principales consultas diarias a Googl… [+2684 chars]"
     }
   ]
 }
