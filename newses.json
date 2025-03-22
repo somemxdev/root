@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va ‘enrachado’... para mal: ¿Cuánto se deprecia ante el dólar HOY 21 de marzo?",
+      "Description": "El peso mexicano se está depreciando rumbo a la fecha clave del 2 de abril, día en el que el presidente Donald Trump anunciará sus aranceles recíprocos. ¿México será afectado?",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/21/peso-dolar-precio-hoy-21-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4VJ3HC3Y7NBPHAE5MAY2UKDMKM.jpg?smart=true&auth=30d500c746c6449650e78deb9e1cab196ac8e9fe545f74ed9b7e44461541f5bd&width=1200&height=630",
+      "PublishedAt": "2025-03-21T16:16:43Z",
+      "Content": "El peso mexicano amplía sus pérdidas ante el dólar este viernes 21 de marzo debido a que los inversionistas están preocupados sobre los impactos al comercio internacional. \r\nLa depreciación del peso … [+1845 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-14T12:02:00Z",
       "Content": "El dólar HOY viernes 14 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.31 por ciento, según datos de Bloomberg. … [+740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "Peso se crece ante aranceles: extiende ganancias al ubicarse en 20.09 unidades por dólar",
-      "Description": "Forbes México.\n Peso se crece ante aranceles: extiende ganancias al ubicarse en 20.09 unidades por dólar\n\nNuevamente se ubica en su mejor nivel desde el 20 de diciembre, mientras disminuye el nerviosismo arancelario.\nPeso se crece ante aranceles: extiende gan…",
-      "Url": "https://forbes.com.mx/peso-se-crece-ante-aranceles-extiende-ganancias-al-ubicarse-en-20-09-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2025-03-13T20:43:15Z",
-      "Content": "El peso extendió sus ganancias por tercera sesión al hilo y este jueves se ubicó en 20.0951 unidades por dólar, de acuerdo con datos de Banxico.\r\nCon ese precio de cierre, el tipo de cambio se ubicó … [+1566 chars]"
     }
   ]
 }
