@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 21 de marzo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-21-de-marzo-de-2025-nid21032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-03-21T18:50:04Z",
+      "Content": "Este viernes 21 de marzo de 2025, el precio del dólar en México es de $20,1345, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por… [+2325 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2022/02/dinero-billete-billetera-dolares.jpg?resize=1200%2C630&p=1",
       "PublishedAt": "2025-03-14T13:09:22Z",
       "Content": "Tabla de contenidos\r\nTabla de contenidos\r\nGoogle\r\nBancos locales\r\nApps para enviar o recibir dinero\r\nLa paridad del dólar respecto de otras monedas es una de las principales consultas diarias a Googl… [+2684 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 14 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY viernes 14 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.31 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba levemente ayer, con el mercado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-14T12:02:00Z",
-      "Content": "El dólar HOY viernes 14 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.31 por ciento, según datos de Bloomberg. … [+740 chars]"
     }
   ]
 }
