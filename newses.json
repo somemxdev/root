@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 21 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY viernes 21 de marzo inicia operaciones con el tipo de cambio interbancario en 20.19 pesos mexicanos por billete verde, con una ligera ganancia del 0.19 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ayer extendiendo las pérdi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-21T12:00:00Z",
+      "Content": "El dólar HOY viernes 21 de marzo inicia operaciones con el tipo de cambio interbancario en 20.19 pesos mexicanos por billete verde, con una ligera ganancia del 0.19 por ciento, según datos de Bloombe… [+900 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-13T15:18:43Z",
       "Content": "Este jueves 13 de marzo de 2025, el precio del dólar en México es de $20,1828, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado … [+2601 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se aprecia, atento a aranceles! Precio del dólar hoy 13 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza levemente con la atención puesta en los aranceles de Donald Trump, con lo que el precio del dólar hoy 13 de marzo de 2025 cotiza en 20.15 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en banco…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-13-marzo-2025-tipo-cambio-bancos-mexico/1704850",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/13/3273569.jpg",
-      "PublishedAt": "2025-03-13T14:46:04Z",
-      "Content": "El peso mexicano avanza levemente con la atención puesta en los aranceles de Donald Trump, con lo que el precio del dólar hoy 13 de marzo de 2025 cotiza en 20.15 unidades por cada billete verde; cono… [+1414 chars]"
     }
   ]
 }
