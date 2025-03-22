@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Ventana al Mundo",
+      "Title": "Zidane Zeraoui: Dólar-peso, una compleja relación",
+      "Description": "Los índices más representativos en EU mostraron caídas que tan sólo en una semana acumularon cerca del 8% de pérdidas.",
+      "Url": "https://www.elfinanciero.com.mx/monterrey/2025/03/21/zidane-zeraoui-dolar-peso-una-compleja-relacion/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DY3FTKUROBFPXPDAKCBBADN6AE.jpg?smart=true&auth=962a233ca188ffda2ebb28e681e58463c89c2eca397568668d806f3e77ece62a&width=1200&height=630",
+      "PublishedAt": "2025-03-21T14:00:00Z",
+      "Content": "La primera y segunda semanas de marzo los mercados financieros tuvieron fuertes sacudidas, la caída de las bolsas estadounidenses, junto con las de otros mercados en el mundo, fue clara expresión de … [+4190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XNARHX3M4JFLBGUEVHYWGXHWJU.jpg?smart=true&auth=cec462550d84730f7b36038d036b3aacfe4b6f5be73bdd30f2cad715055627aa&width=1200&height=630",
       "PublishedAt": "2025-03-13T15:25:19Z",
       "Content": "El peso mexicano se acerca al terreno de las 19 unidades en la mañana de este 13 de marzo, mientras en el mercado local, el secretario de Economía habló de las medidas que México tomará por los aranc… [+2002 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 13 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-13-de-marzo-nid13032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-13T15:18:43Z",
-      "Content": "Este jueves 13 de marzo de 2025, el precio del dólar en México es de $20,1828, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado … [+2601 chars]"
     }
   ]
 }
