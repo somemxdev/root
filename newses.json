@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con mala racha ante temor por aranceles! Precio del dólar hoy 21 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene la racha negativa con retrocesos desde las jornadas previas, con lo que el precio del dólar hoy 21 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-21-marzo-2025-tipo-cambio-bancos-mexico/1706288",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/21/3277880.jpg",
+      "PublishedAt": "2025-03-21T14:05:52Z",
+      "Content": "El peso mexicano mantiene la racha negativa con retrocesos desde las jornadas previas, con lo que el precio del dólar hoy 21 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce … [+1303 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2025-03-13T20:43:15Z",
       "Content": "El peso extendió sus ganancias por tercera sesión al hilo y este jueves se ubicó en 20.0951 unidades por dólar, de acuerdo con datos de Banxico.\r\nCon ese precio de cierre, el tipo de cambio se ubicó … [+1566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Tipo de cambio arranca ‘con todo’ y se acerca a las 19 unidades: ¿En cuánto se vende el dólar HOY?",
-      "Description": "El peso reaccionó de muy buena manera al dato de inflación al productor en Estados Unidos, una cifra que respalda la posibilidad de que la Fed pueda reiniciar los recortes a la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/13/peso-dolar-precio-hoy-13-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XNARHX3M4JFLBGUEVHYWGXHWJU.jpg?smart=true&auth=cec462550d84730f7b36038d036b3aacfe4b6f5be73bdd30f2cad715055627aa&width=1200&height=630",
-      "PublishedAt": "2025-03-13T15:25:19Z",
-      "Content": "El peso mexicano se acerca al terreno de las 19 unidades en la mañana de este 13 de marzo, mientras en el mercado local, el secretario de Economía habló de las medidas que México tomará por los aranc… [+2002 chars]"
     }
   ]
 }
