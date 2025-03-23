@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 22 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 22 de marzo el tipo de cambio interbancario, se ubica en 20.23 pesos por unidad, con una ganancia del +0.43 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/13/precio-dolar-mercados-bursatiles-marzo.jpeg",
+      "PublishedAt": "2025-03-22T13:30:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 22 de marzo el tipo de cambio interbancario, se ubica en 20.23 pesos por unidad, con una ganancia del +0.43 p… [+1991 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
       "PublishedAt": "2025-03-14T14:45:29Z",
       "Content": "El peso se apreciaba el viernes ante un declive global del dólar, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, mientras los inversores seguían centrados en notic… [+559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, por debajo de las 20 unidades! Precio del dólar hoy 14 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por cuarta jornada consecutiva, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, con lo que el precio del dólar hoy 14 de marzo de 2025 arranca en 19.96 unidades por cada billete verd…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-14-marzo-2025-tipo-cambio-bancos-mexico/1705074",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/14/3274232.jpg",
-      "PublishedAt": "2025-03-14T13:59:31Z",
-      "Content": "El peso mexicano avanza por cuarta jornada consecutiva, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, con lo que el precio del dólar hoy 14 de marzo de 2025 arran… [+1178 chars]"
     }
   ]
 }
