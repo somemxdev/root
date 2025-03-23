@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Daniel Yebra",
+      "Title": "La guerra comercial también se disputa en las divisas: cómo afecta el cambio euro/dólar a los aranceles",
+      "Description": "El diferencial de tipos entre la Reserva Federal y el BCE es una herramienta para salvar o agravar las barreras comerciales a las exportaciones de la UE\r\nLa UE retrasa unos días los aranceles a EEUU para dar margen a la negociación\r\n\n La guerra comercial tamb…",
+      "Url": "https://www.eldiario.es/economia/guerra-comercial-disputa-divisas-afecta-cambio-euro-dolar-aranceles_1_12150470.html",
+      "UrlToImage": "https://static.eldiario.es/clip/a19ddce8-9282-4b38-b0a4-a65f154cc788_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2025-03-22T21:15:14Z",
+      "Content": "La guerra comercial también se disputa en el terreno de las divisas. El tipo de cambio de las monedas es un factor crucial en el coste de las exportaciones y las importaciones. Por eso, en un context… [+1206 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-14T15:36:26Z",
       "Content": "Este viernes 14 de marzo de 2025, el precio del dólar en México es de $20,0848, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado… [+2109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza por cuarta sesión; cotiza en 19.96 unidades por dólar",
-      "Description": "Forbes México.\n Peso avanza por cuarta sesión; cotiza en 19.96 unidades por dólar\n\nEl peso cotizaba en 19.9633 unidades, con una ganancia de un 0.58% frente a los 20.0798 pesos del precio de referencia de LSEG del jueves, en su cuarta jornada consecutiva de g…",
-      "Url": "https://forbes.com.mx/peso-avanza-por-cuarta-sesion-cotiza-en-19-96-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
-      "PublishedAt": "2025-03-14T14:45:29Z",
-      "Content": "El peso se apreciaba el viernes ante un declive global del dólar, cotizando por debajo de la barrera de 20 unidades por primera vez desde noviembre, mientras los inversores seguían centrados en notic… [+559 chars]"
     }
   ]
 }
