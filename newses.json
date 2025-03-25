@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 24 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY lunes 24 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, perfilándose a culminar la sema…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-03-24T12:05:00Z",
+      "Content": "El dólar HOY lunes 24 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nE… [+779 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2025-03-14T20:37:09Z",
       "Content": "El peso perforó este viernes el piso de las 20 unidades por dólar y tuvo su mejor nivel desde noviembre, mientras se reduce el nerviosismo por las amenazas arancelarias de Trump.\r\nEl dólar se ubicó e… [+850 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: una ola de rumores disparó la demanda y obligó al Banco Central a vender US$474 millones",
-      "Description": "La plaza local terminó pactando negocios por US$1134,9 millones, el volumen de operaciones más alto desde mayo de 2023, también hubo un fuerte salto en la demanda de coberturas cambiarias",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-una-ola-de-rumores-disparo-la-demanda-y-obligo-al-banco-central-a-vender-us474-millones-nid14032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-14T20:32:23Z",
-      "Content": "La plaza cambiaria local tuvo hoy la rueda de negocios más movida desde que Javier Milei es presidente, dado que una ola de rumores sobre inminentes cambios en la errática política cambiaria oficial … [+3005 chars]"
     }
   ]
 }
