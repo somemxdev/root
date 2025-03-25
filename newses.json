@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca la ‘semana del Banxico’ con ganancias: ¿Cuánto se aprecia ante el dólar HOY?",
+      "Description": "En el ámbito internacional, Donald Trump agregó un nuevo arancel a su 'catálogo': Se trata de una tarifa de 25% a los países que compren petróleo o gas a Venezuela.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/24/peso-dolar-precio-hoy-24-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YQNTPT5CUFCSDGFYPS5EPFQZ2Y.jpg?smart=true&auth=aff1412b468224ac6832a69b3e1e40536715afc3fdc6153dd0ac079a8c5f6edd&width=1200&height=630",
+      "PublishedAt": "2025-03-24T17:39:37Z",
+      "Content": "El peso mexicano, que viene de una depreciación semanal, gana terreno al dólar este lunes 24 de marzo, acercándose de nuevo al terreno de las 19 unidades, a medida que los operadores están a la esper… [+2184 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 24 de marzo",
+      "Description": "Este lunes 24 de marzo de 2025, el precio del dólar en México es de $20,2163, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado por las cifras de inflación local y la entrada en vigor de lo…",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-24-de-marzo-nid24032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-24T17:10:32Z",
+      "Content": "Este lunes 24 de marzo de 2025, el precio del dólar en México es de $20,2163, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+2228 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
       "PublishedAt": "2025-03-15T13:32:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de marzo el tipo de cambio interbancario, se ubica en 19.93 pesos por unidad, con una pérdida del 0.77 por ciento… [+2715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Aranceles no minan fortaleza del peso; dólar cierra en 19.86",
-      "Description": "El tipo de cambio cerró la jornada del viernes por debajo de 20 pesos por dólar, el mejor nivel desde noviembre de 2024, mientras el mercado mexicano de valores también terminó con ganancias, debido que se comienzan a descontar los amagos arancelarios de Esta…",
-      "Url": "https://www.jornada.com.mx/2025/03/15/economia/013n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2025/03/15/fotos/013n1eco-1.jpg",
-      "PublishedAt": "2025-03-15T08:55:12Z",
-      "Content": "Periódico La JornadaSábado 15 de marzo de 2025, p. 13\r\nEl tipo de cambio cerró la jornada del viernes por debajo de 20 pesos por dólar, el mejor nivel desde noviembre de 2024, mientras el mercado mex… [+3592 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "“No-L”: la moneda de oro de un dólar que podría valer US$140.000 y el detalle que incrementa su precio",
-      "Description": "Los ejemplares emitidos en Estados Unidos logran convertirse en piezas relevantes para los coleccionistas debido a varios factores, por lo que están dispuestos a pagar grandes sumas",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/no-l-la-moneda-de-oro-de-un-dolar-que-podria-valer-us140000-y-el-detalle-que-incrementa-su-precio-nid14032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-no-solo-tiene-un-valor-agregado-en-el-DQLFMBR2YNFRBI4DQBVVEI5IM4.jpg?auth=95a3713aaf26ad5be85344e39661065fda4b3487ceb259d37536ae9c7742bca1&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-14T20:49:04Z",
-      "Content": "Desde su emisión en 1849, el dólar de oro ha sido una pieza de interés para coleccionistas debido a su composición de 90% oro y 10% cobre. Sin embargo, un pequeño detalle ha convertido a una variante… [+2781 chars]"
     }
   ]
 }
