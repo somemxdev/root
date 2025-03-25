@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera y avanza! Precio del dólar hoy 24 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano recompuso el camino al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 24 de marzo de 2025 arranca en 20.10 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxic…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-marzo-2025-tipo-cambio-bancos-mexico/1706721",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/24/3279110.jpg",
+      "PublishedAt": "2025-03-24T15:38:17Z",
+      "Content": "El peso mexicano recompuso el camino al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 24 de marzo de 2025arranca en 20.10 unidades por cada billete verde; conoce aquí cuá… [+1468 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-no-solo-tiene-un-valor-agregado-en-el-DQLFMBR2YNFRBI4DQBVVEI5IM4.jpg?auth=95a3713aaf26ad5be85344e39661065fda4b3487ceb259d37536ae9c7742bca1&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-14T20:49:04Z",
       "Content": "Desde su emisión en 1849, el dólar de oro ha sido una pieza de interés para coleccionistas debido a su composición de 90% oro y 10% cobre. Sin embargo, un pequeño detalle ha convertido a una variante… [+2781 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso imparable: perfora el piso de las 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso imparable: perfora el piso de las 20 unidades por dólar\nEl tipo de cambio se ubica en 19.9238 pesos por billete verde, el mejor nivel para la moneda mexicana desde noviembre; el peso hila cuatro sesiones con ganancias.\nPeso imparable: per…",
-      "Url": "https://forbes.com.mx/peso-imparable-perfora-el-piso-de-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2025-03-14T20:37:09Z",
-      "Content": "El peso perforó este viernes el piso de las 20 unidades por dólar y tuvo su mejor nivel desde noviembre, mientras se reduce el nerviosismo por las amenazas arancelarias de Trump.\r\nEl dólar se ubicó e… [+850 chars]"
     }
   ]
 }
