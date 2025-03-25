@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Por qué esta moneda de dólar de hace más de 125 años podría valer más de US$2 millones",
+      "Description": "El Morgan de 1893 tiene una historia particular que la transforma en un ejemplar muy valioso para los coleccionistas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/por-que-esta-moneda-de-dolar-de-hace-mas-de-125-anos-podria-valer-mas-de-us2-millones-nid24032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-morgan-son-altamente-cotizadas-en-las-SVGL3RDESRC2TPVCBWIHGARYNY.jpg?auth=e75eeee295e14f74defa17b61e1de8d2026067f4992736270ec7a596cb3d72e5&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-24T03:35:00Z",
+      "Content": "El mercado de la numismática es muy curioso porque hay monedas, o billetes en algunos casos, que se venden en subastas a precios increíbles. Puede ser por distintos motivos especiales, como ediciones… [+2452 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/frente-del-banco-central-de-la-republica-LHRITZDF65CAXFMRIUDHECSF2E.jpg?auth=3680abd513d84995a146479ff2c75afcdd452be69419e8744f4f6d18ebd6a40f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-14T20:32:23Z",
       "Content": "La plaza cambiaria local tuvo hoy la rueda de negocios más movida desde que Javier Milei es presidente, dado que una ola de rumores sobre inminentes cambios en la errática política cambiaria oficial … [+3005 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 14 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-14-de-marzo-nid14032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-14T15:36:26Z",
-      "Content": "Este viernes 14 de marzo de 2025, el precio del dólar en México es de $20,0848, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado… [+2109 chars]"
     }
   ]
 }
