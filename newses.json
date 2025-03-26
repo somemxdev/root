@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Águila pequeña: qué hace que esta moneda de 25 centavos de dólar valga US$1,7 millones",
+      "Description": "Los ejemplares antiguos pueden alcanzar grandes valores debido a su rareza, estado de conservación y demanda entre coleccionistas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/aguila-pequena-que-hace-que-esta-moneda-de-25-centavos-de-dolar-valga-us17-millones-nid25032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-cuarto-de-dolar-de-1796-fue-una-de-las-JY26UYYEAZD3TKDUDYAQ5H5ADQ.jpg?auth=93fe783120371ccd6633ad599ba4fe2db80c3b908667d51bbd03b7391f7dfacc&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-25T18:46:01Z",
+      "Content": "Las monedasdespiertan gran interés entre los coleccionistas, sobre todo aquellas difíciles de encontrar y en buen estado. Algunas pueden alcanzar precios elevados en el mercado, como el cuarto de dól… [+2334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
       "PublishedAt": "2025-03-18T14:41:33Z",
       "Content": "El peso se depreciaba el martes ante un fortalecimiento generalizado del dólar mientras los inversionistas se preparaban para las decisiones de política monetaria de distintos bancos centrales esta s… [+913 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 18 marzo 2025. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ante un fortalecimiento de la divisa estadunidese, con lo que el precio del dólar hoy 18 de marzo de 2025 arranca en 20.07 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-18-marzo-2025-tipo-cambio-bancos-mexico/1705626",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/18/3275848.jpg",
-      "PublishedAt": "2025-03-18T14:32:48Z",
-      "Content": "El peso mexicano retrocede ante un fortalecimiento de la divisa estadunidense, con lo que el precio del dólar hoy 18 de marzo de 2025 arranca en 20.07 unidades por cada billete verde; conoce aquí cuá… [+1616 chars]"
     }
   ]
 }
