@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "James Van Straten, AI Boost",
+      "Title": "Custodia, Vantage Bank Tokenize U.S. Dollar Demand Deposits on Ethereum",
+      "Description": "They conducted a series of eight regulated test transactions, involving minting, transferring, and redeeming Avit tokens under full U.S. banking compliance.",
+      "Url": "https://www.coindesk.com/markets/2025/03/25/custodia-vantage-bank-tokenize-u-s-dollar-demand-deposits-on-ethereum",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/08f3b07cd425d95d85c9329143471d8ae29842c6-1440x1080.jpg?auto=format",
+      "PublishedAt": "2025-03-25T12:30:16Z",
+      "Content": "Custodia Bank and Vantage Bank have completed the tokenization of U.S. dollar demand deposits on the Ethereum mainnet.\r\nThe banks issued and redeemed Custodia's Avit stablecoins on the Ethereum mainn… [+697 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
