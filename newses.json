@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso cede a pesar de debilitamiento del dólar: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "Estamos a casi una semana de la aplicación de los aranceles recíprocos de Donald Trump. El presidente comentó que no todos los países serán 'castigados' con esta medida.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/25/peso-dolar-precio-hoy-25-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WDKDLWBDNBC33AL2ZVO6YK3HAU.jpg?smart=true&auth=1568c54a03fd80af5f288565427d484850924d0f1d87e7260dcf29a1ae3b9d4e&width=1200&height=630",
+      "PublishedAt": "2025-03-25T17:20:01Z",
+      "Content": "El peso mexicano tiene ligeras pérdidas ante el dólar este martes 25 de marzo, esto a pesar de un mayor debilitamiento del billete verde, con la atención de los inversionistas aún centrada en cómo ev… [+1908 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/18/3275848.jpg",
       "PublishedAt": "2025-03-18T14:32:48Z",
       "Content": "El peso mexicano retrocede ante un fortalecimiento de la divisa estadunidense, con lo que el precio del dólar hoy 18 de marzo de 2025 arranca en 20.07 unidades por cada billete verde; conoce aquí cuá… [+1616 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 18 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY martes 18 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. Ayer los mercados permanecieron cerrados debido al día de asue…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-18T12:13:00Z",
-      "Content": "Eldólar HOY martes 18 de marzo inicia operaciones con el tipo de cambio interbancario en 20.02 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. \r\n… [+997 chars]"
     }
   ]
 }
