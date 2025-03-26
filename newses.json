@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 25 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY martes 25 de marzo inicia operaciones con el tipo de cambio interbancario en 19.98 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba después de tres jornadas consecu…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-03-25T12:00:00Z",
+      "Content": "Eldólar HOY martes 25 de marzo inicia operaciones con el tipo de cambio interbancario en 19.98 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. \r\n… [+773 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-03-17T08:45:48Z",
       "Content": "Periódico La JornadaLunes 17 de marzo de 2025, p. 20\r\nLa probabilidad de una mayor apreciación del peso se incrementó la semana pasada, pues aumentaron las apuestas a favor de su mejor nivel desde pr… [+1830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 15 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de marzo el tipo de cambio interbancario, se ubica en 19.93 pesos por unidad, con una pérdida del 0.77 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzó a n…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2025-03-15T13:32:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de marzo el tipo de cambio interbancario, se ubica en 19.93 pesos por unidad, con una pérdida del 0.77 por ciento… [+2715 chars]"
     }
   ]
 }
