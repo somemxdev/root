@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza por segunda sesión; opera por debajo de 20 unidades por dólar; BMV gana",
+      "Description": "Forbes México.\n Peso avanza por segunda sesión; opera por debajo de 20 unidades por dólar; BMV gana\n\nEl peso cotizaba en 19.9780 unidades, con un avance de un 0.23% frente a los 20.0240 por dólar del precio de referencia de LSEG del lunes, apuntando a su segu…",
+      "Url": "https://forbes.com.mx/peso-avanza-por-segunda-sesion-opera-por-debajo-de-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
+      "PublishedAt": "2025-03-25T14:23:52Z",
+      "Content": "El peso se apreciaba el martes animado por un mejor ambiente para los activos de riesgo ante expectativas de que los aranceles recíprocos que Estados Unidos aplicará a sus socios la próxima semana se… [+861 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 25 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-25-de-marzo-nid25032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-25-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-25T14:03:02Z",
+      "Content": "Este martes 25 de marzo de 2025, el precio del dólar en México es de $20,1123, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se favorece por e… [+2667 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-17T14:20:15Z",
       "Content": "Este lunes 17 de marzo de 2025, el precio del dólar en México es de $20,0848, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+1991 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY lunes 17 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY lunes 17 de marzo inicia operaciones con el tipo de cambio interbancario en 19.92 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el viernes ante un declive global…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-17T11:59:00Z",
-      "Content": "El dólar HOY lunes 17 de marzo inicia operaciones con el tipo de cambio interbancario en 19.92 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. \r\n… [+854 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Benefician al peso la coyuntura arancelaria y debilidad del dólar",
-      "Description": "La probabilidad de una mayor apreciación del peso se incrementó la semana pasada, pues aumentaron las apuestas a favor de su mejor nivel desde principios de noviembre de 2024.",
-      "Url": "https://www.jornada.com.mx/2025/03/17/economia/020n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-03-17T08:45:48Z",
-      "Content": "Periódico La JornadaLunes 17 de marzo de 2025, p. 20\r\nLa probabilidad de una mayor apreciación del peso se incrementó la semana pasada, pues aumentaron las apuestas a favor de su mejor nivel desde pr… [+1830 chars]"
     }
   ]
 }
