@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 26 de marzo de 2025: ¿Cuál es el tipo de cambio del peso en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de marzo el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 0.11 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-03-26T12:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de marzo el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 0.11 por cient… [+863 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-18T17:34:02Z",
       "Content": "Este martes 18 de marzo de 2025, el precio del dólar en México es de $19,8693, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2445 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede; opera nuevamente por encima de 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso retrocede; opera nuevamente por encima de 20 unidades por dólar\n\nEl peso cotizaba en 20.0746 unidades, con una pérdida de un 0.74% frente a los 19.9270 por dólar del precio de referencia de LSEG del lunes.\nPeso retrocede; opera nuevamente…",
-      "Url": "https://forbes.com.mx/peso-retrocede-opera-nuevamente-por-encima-de-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
-      "PublishedAt": "2025-03-18T14:41:33Z",
-      "Content": "El peso se depreciaba el martes ante un fortalecimiento generalizado del dólar mientras los inversionistas se preparaban para las decisiones de política monetaria de distintos bancos centrales esta s… [+913 chars]"
     }
   ]
 }
