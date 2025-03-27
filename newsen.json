@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": "bloomberg",
+        "Name": "Bloomberg"
+      },
+      "Author": "Bloomberg",
+      "Title": "Bank of India’s first dollar loan in over a decade woos 22 banks",
+      "Description": "Foreign-currency loans taken out by Indian borrowers have declined 30% on year to $3.2 billion so far this year, and are running at a four-year low, according to Bloomberg-compiled data. But that trend could soon reverse",
+      "Url": "https://www.bloomberg.com/news/articles/2025-03-26/bank-of-india-s-first-dollar-loan-in-over-a-decade-woos-22-banks",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/mhjrf/article69309072.ece/alternates/LANDSCAPE_1200/2024-09-05T050025Z_708357992_RC24U9A8WK60_RTRMADP_3_GLOBAL-FOREX-DOLLAR.JPG",
+      "PublishedAt": "2025-03-26T03:27:00Z",
+      "Content": "Bank of India has raised $400 million via a dollar syndicated loan, according to people familiar with the matter, marking its first such deal since 2012 that expands a list of the countrys borrowers … [+1796 chars]"
+    },
     {
       "Source": {
         "Id": null,
