@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 26 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-26-de-marzo-nid26032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-26-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-26T15:17:05Z",
+      "Content": "Este miércoles 26 de marzo de 2025, el precio del dólar en México es de $20,0762, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve afectadopor el avance … [+2256 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar a $1400: la visión sobre el cepo, la economía y el ‘criptogate’ de los economistas del BBVA en Argentina",
+      "Description": "El equipo de Research de la entidad de capitales españoles proyecta que la inflación cerrará en 30% este año y que la economía crecerá 5,5%; la caída del apoyo popular del Gobierno aparece como el principal riesgo",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-a-1400-la-vision-sobre-el-cepo-la-economia-y-el-criptogate-de-los-economistas-del-bbva-en-nid26032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bbva-research-preve-un-crecimiento-del-RVICIGADN5FXLLKK2WXMIU4HBU.jpg?auth=fb66de187188bafb67ad1a3995c3066657c61a983201ef84c371008f6681dd1c&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-26T15:13:37Z",
+      "Content": "El dólar oficial cerrará en torno a $1400 hacia fin de año, habrá un desmantelamiento gradual del cepo cambiario después de las elecciones legislativas y la economía rebotará un 5,5%. Estas fueron al… [+4288 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-03-19T10:52:42Z",
       "Content": "Periódico La JornadaMiércoles 19 de marzo de 2025, p. 19\r\nLos inversionistas internacionales se mantuvieron con elevada cautela este martes y su refugio fue el oro, mientras mantuvieron sus ventas de… [+2873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Dólar se debilita y peso mexicano se aprecia ante incertidumbre por decisión de la Fed",
-      "Description": "Ante la incertidumbre por la próxima decisión de política monetaria de la Reserva Federal (Fed), el dólar americano experimento un debilitamiento generalizado de 0.07 por ciento al cierre de la sesión de este martes.Lo anterior provocó que el peso mexicano fi…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-18-marzo-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/05/peso-mexicano-recupera-frente-dolar.jpg",
-      "PublishedAt": "2025-03-19T00:25:00Z",
-      "Content": "Ante la incertidumbre por la próxima decisión de política monetaria de la Reserva Federal (Fed), el dólar americano experimento un debilitamiento generalizado de 0.07 por ciento al cierre de la sesió… [+2216 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene pérdida marginal, pero sigue debajo de las 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso tiene pérdida marginal, pero sigue debajo de las 20 unidades por dólar\n\nLa moneda retrocede 0.05% mientras inversionistas se preparan para decisiones de bancos centrales esta semana, entre ellos, la Fed.\nPeso tiene pérdida marginal, pero …",
-      "Url": "https://forbes.com.mx/peso-tiene-perdida-marginal-pero-sigue-debajo-de-las-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
-      "PublishedAt": "2025-03-18T22:44:37Z",
-      "Content": "Ciudad de México (Reuters).- El peso se depreció ligeramente el martes, aunque se mantuvo oscilando en torno a la cota de 20 por dólar, mientras los inversionistas se preparaban para las decisiones d… [+2862 chars]"
     }
   ]
 }
