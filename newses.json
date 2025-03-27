@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso retrocede, atento a aranceles! Precio del dólar hoy 26 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este miércoles a espera de noticias sobre los aranceles, con lo que el precio del dólar hoy 26 de marzo de 2025 arranca en 20.13 unidades por cada billete verde; conoce aquí cuál es el tipo de camb…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-26-marzo-2025-tipo-cambio-bancos-mexico/1707130",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/26/3280282.jpg",
+      "PublishedAt": "2025-03-26T14:11:55Z",
+      "Content": "El peso mexicano retrocede en la jornada de este miércoles a espera de noticias sobre los aranceles, con lo que el precio del dólar hoy 26 de marzo de 2025 arranca en 20.13 unidades por cada billete … [+1779 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
       "PublishedAt": "2025-03-18T22:44:37Z",
       "Content": "Ciudad de México (Reuters).- El peso se depreció ligeramente el martes, aunque se mantuvo oscilando en torno a la cota de 20 por dólar, mientras los inversionistas se preparaban para las decisiones d… [+2862 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: precio oficial este martes 18 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-precio-oficial-este-martes-18-de-marzo-nid18032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-18T17:34:02Z",
-      "Content": "Este martes 18 de marzo de 2025, el precio del dólar en México es de $19,8693, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado por… [+2445 chars]"
     }
   ]
 }
