@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Javier Chávez M",
+      "Title": "Precio del dólar HOY jueves 27 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY jueves 27 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con un aumento del 0.35 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ante un fortalecimiento generalizado…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2025-03-27T11:56:00Z",
+      "Content": "El dólar HOY jueves 27 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con un aumento del 0.35 por ciento, según datos de Bloomberg. \r\nEl p… [+789 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2025-03-19T12:07:00Z",
       "Content": "El dólar HOY miércoles 19 de marzo inicia operaciones con el tipo de cambio interbancario en 19.93 pesos mexicanos por billete verde, con un ligero fortalecimiento de 0.11 por ciento, según datos de … [+893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cerró en 19.93 unidades por dólar en contexto de cautela",
-      "Description": "Los inversionistas internacionales se mantuvieron con elevada cautela este martes y su refugio fue el oro, mientras mantuvieron sus ventas de acciones tecnológicas en Estados Unidos.",
-      "Url": "https://www.jornada.com.mx/2025/03/19/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-03-19T10:52:42Z",
-      "Content": "Periódico La JornadaMiércoles 19 de marzo de 2025, p. 19\r\nLos inversionistas internacionales se mantuvieron con elevada cautela este martes y su refugio fue el oro, mientras mantuvieron sus ventas de… [+2873 chars]"
     }
   ]
 }
