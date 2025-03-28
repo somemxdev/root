@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar Tree's CEO Says 'Everybody Is Hurting' In Today's Economy - Yahoo Finance",
+      "Description": "Dollar Tree's CEO Says 'Everybody Is Hurting' In Today's EconomyYahoo Finance Dollar Tree says it's winning over higher-income shoppers and may offset tariffs with price hikesCNBC Dollar Tree surges three items' prices - fans are 'praying' for one sectionThe …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176833851",
+      "UrlToImage": null,
+      "PublishedAt": "2025-03-27T00:53:07Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": "bloomberg",
@@ -301,45 +314,6 @@
       "UrlToImage": "https://www.livemint.com/lm-img/img/2025/02/27/1600x900/T_1740652324152_1740652324380.JPG",
       "PublishedAt": "2025-02-27T11:08:18Z",
       "Content": "Standard Chartered Plc has been picked as the bank for real-time settlement of all dollar-denominated trades in the countrys only global financial center, likely slated for end-June. According to Blo… [+1161 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crikey"
-      },
-      "Author": "Bernard Keane",
-      "Title": "Labor’s billion-dollar splash in Victoria is a waste of taxpayers’ money",
-      "Description": "The Commonwealth is committed to giving Victoria $7 billion for a rail line to Tullamarine. It's a terrible investment.\nThe post Labor’s billion-dollar splash in Victoria is a waste of taxpayers’ money appeared first on Crikey.",
-      "Url": "http://www.crikey.com.au/2025/02/27/tullamarine-rail-line-airport-victoria-labor-billion-investment-infrastructure/",
-      "UrlToImage": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/02/20240509133666050208-original-copy.jpg?quality=70&w=1024",
-      "PublishedAt": "2025-02-27T00:19:48Z",
-      "Content": "Desperate to shore up their fading support in Melbourne, the federal and Victorian governments are as widely anticipated now throwing money at infrastructure in the citys western suburbs.\r\nYesterday,… [+4523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "Block's Bitkey rolls out bitcoin inheritance fix for 'multibillion-dollar problem waiting to happen'",
-      "Description": "After announcing its bitcoin inheritance product in November, Block's Bitkey is rolling out the offering on Wednesday.",
-      "Url": "https://www.cnbc.com/2025/02/26/blocks-bitkey-rolls-out-fix-for-bitcoin-inheritance-problem.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108083195-1736275090096-gettyimages-2191588295-raa-bitcoinp250102_npxGk.jpeg?v=1740447663&w=1920&h=1080",
-      "PublishedAt": "2025-02-26T16:00:01Z",
-      "Content": "For over a decade, bitcoin has been lauded as a revolutionary financial asset decentralized, self-sovereign and resistant to confiscation all contributing to an astronomical increase in value.\r\nBut o… [+2961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Properties and vehicles among assets liquidated",
-      "Description": "About S$1.8 million has been paid into the government’s consolidated fund as of December 2024, with another S$390 million pending.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-assets-property-cars-country-club-liquidated-4961496",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--eHyERZFR--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/25/JEM_0102 (1).jpg?itok=i2KE5HJB",
-      "PublishedAt": "2025-02-26T10:59:13Z",
-      "Content": "SINGAPORE: Assets surrendered to the state as part of the S$3 billion money laundering case are progressively being liquidated and returned to government coffers. \r\nA total of 54 properties, 33 vehic… [+1630 chars]"
     }
   ]
 }
