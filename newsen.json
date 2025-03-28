@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -54,6 +54,19 @@
       "UrlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
       "PublishedAt": "2025-03-27T12:30:00Z",
       "Content": "ENCINO, Calif., March 27, 2025 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a global leader in delivering state-of-the-art solutions for the asset finance and leasing industry, has s… [+5420 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Reuters",
+      "Title": "India's Axis Bank, J.P. Morgan roll out anytime dollar payments for clients",
+      "Description": "India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by...",
+      "Url": "https://finance.yahoo.com/news/indias-axis-bank-j-p-092223488.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/5544bfdf9c8125014a894cf484340075",
+      "PublishedAt": "2025-03-27T09:22:23Z",
+      "Content": "MUMBAI (Reuters) - India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by Kinexys, the U.S-based len… [+1354 chars]"
     },
     {
       "Source": {
