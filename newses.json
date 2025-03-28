@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Sofía Diamante",
+      "Title": "Deuda y dólar barato: las razones que explican por qué las reservas del Banco Central siguen en rojo",
+      "Description": "La entidad perdió más de US$3000 millones en lo que va del año; la falta de acumulación de reservas pone en jaque la estabilidad financiera y complica el acceso al mercado internacional",
+      "Url": "https://www.lanacion.com.ar/economia/deuda-y-dolar-barato-las-razones-que-explican-por-que-las-reservas-del-banco-central-siguen-en-rojo-nid27032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=802",
+      "PublishedAt": "2025-03-27T14:43:00Z",
+      "Content": "En el primer año de gestión, el Gobierno logró estabilizar la economía gracias al fuerte ajuste fiscal, que permitió cortar con el financiamiento monetario del Banco Central (BCRA) e impulsó la baja … [+6994 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Aranceles a autos impactan al peso! Precio del dólar hoy 27 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano amplía sus pérdidas en la jornada de este jueves ante los aranceles a automóviles, con lo que el precio del dólar hoy 27 de marzo de 2025 arranca en 20.31 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-27-marzo-2025-tipo-cambio-bancos-mexico/1707356",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/27/3280949.jpg",
+      "PublishedAt": "2025-03-27T14:37:06Z",
+      "Content": "El peso mexicano amplía sus pérdidas en la jornada de este jueves ante los aranceles a automóviles, con lo que el precio del dólar hoy 27 de marzo de 2025 arranca en 20.31 unidades por cada billete v… [+1385 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/19/3276496.jpg",
       "PublishedAt": "2025-03-19T14:55:32Z",
       "Content": "El peso mexicano retrocede por segunda jornada consecutiva ante un fortalecimiento global de la divisa estadunidense, con lo que el precio del dólar hoy 19 de marzo de 2025 arranca en 19.99 unidades … [+1326 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 19 de marzo de 2025",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-19-de-marzo-de-2025-nid19032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-19T14:08:08Z",
-      "Content": "Este miércoles 19 de marzo de 2025, el precio del dólar en México es de $19,9845, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se ve influenciado por el avan… [+2594 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 19 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY miércoles 19 de marzo inicia operaciones con el tipo de cambio interbancario en 19.93 pesos mexicanos por billete verde, con un ligero fortalecimiento de 0.11 por ciento, según datos de Bloomberg. Ayer, el peso mexicano se depreciaba ante un fort…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2025-03-19T12:07:00Z",
-      "Content": "El dólar HOY miércoles 19 de marzo inicia operaciones con el tipo de cambio interbancario en 19.93 pesos mexicanos por billete verde, con un ligero fortalecimiento de 0.11 por ciento, según datos de … [+893 chars]"
     }
   ]
 }

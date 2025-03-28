@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar mixed, Mexican peso and Canadian dollar drop on auto tariffs",
+      "Description": "NEW YORK :The dollar was mixed on Thursday as traders mulled how severe tariffs scheduled to be revealed by U.S. President Donald Trump next week are likely to be, while the Canadian dollar and Mexican peso weakened after Trump announced auto trade levies.Ris…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-mixed-mexican-peso-and-canadian-dollar-drop-auto-tariffs-5026736",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--7qPBlAls--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-03-27t005043z_1_lynxnpel2q00n_rtroptp_3_global-markets.jpg?itok=JJQQJ2Lr",
+      "PublishedAt": "2025-03-27T14:27:21Z",
+      "Content": "NEW YORK :The dollar was mixed on Thursday as traders mulled how severe tariffs scheduled to be revealed by U.S. President Donald Trump next week are likely to be, while the Canadian dollar and Mexic… [+3319 chars]"
+    },
     {
       "Source": {
         "Id": null,
