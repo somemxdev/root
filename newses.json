@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 27 de marzo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-27-de-marzo-nid27032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-27T17:03:23Z",
+      "Content": "Este jueves 27 de marzo de 2025, el precio del dólar en México es de $20,0693, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por … [+2341 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/20/3277198.jpg",
       "PublishedAt": "2025-03-20T14:02:42Z",
       "Content": "El peso mexicano retrocede en la jornada del jueves y extiende las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 20 de marzo de 2025arranca en 20.25 unidades por cada billete ver… [+1226 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 20 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY jueves 20 de marzo inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con un fortalecimiento del 0.58 por ciento, según datos de Bloomberg.Ayer, el peso mexicano retrocedía ante un fortalecimiento gl…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-20T12:00:00Z",
-      "Content": "El dólar HOY jueves 20 de marzo inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con un fortalecimiento del 0.58 por ciento, según datos de Bloomberg… [+891 chars]"
     }
   ]
 }
