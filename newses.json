@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso ‘derrapa’ ante el dólar por aranceles a autos y previo a Banxico: ¿Cómo está el tipo de cambio HOY?",
+      "Description": "En el ámbito local, el peso estará atento a la decisión de política del Banco de México. Se prevé que la Junta de Gobierno recorte la tasa en 50 puntos y que también mencione los impactos de los aranceles de Donald Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UB2HFT2NMNCHPIGTOOLSJJILPA.jpg?smart=true&auth=d16915080143aaf184635b97bcffaa777564370c1b304d1c78bce3bc2986c07f&width=1200&height=630",
+      "PublishedAt": "2025-03-27T16:09:13Z",
+      "Content": "El peso mexicano derrapa tras los aranceles de Donald Trump a los autos y aumenta sus pérdidas ante el dólar, mientras en el ámbito local, el mercado está a la espera de la decisión de política monet… [+2235 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-20T12:00:00Z",
       "Content": "El dólar HOY jueves 20 de marzo inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con un fortalecimiento del 0.58 por ciento, según datos de Bloomberg… [+891 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se deprecia previo a decisión de la Fed! Precio del dólar hoy 19 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por segunda jornada consecutiva ante un fortalecimiento global de la divisa estadunidense, con lo que el precio del dólar hoy 19 de marzo de 2025 arranca en 19.99 unidades por cada billete verde; conoce aquí cuál e…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-19-marzo-2025-tipo-cambio-bancos-mexico/1705848",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/19/3276496.jpg",
-      "PublishedAt": "2025-03-19T14:55:32Z",
-      "Content": "El peso mexicano retrocede por segunda jornada consecutiva ante un fortalecimiento global de la divisa estadunidense, con lo que el precio del dólar hoy 19 de marzo de 2025 arranca en 19.99 unidades … [+1326 chars]"
     }
   ]
 }

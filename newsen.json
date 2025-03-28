@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Fed Backstop Fears Could Threaten Dollar, Deutsche Bank Says",
+      "Description": "The withdrawal of a time-tested liquidity backstop offered by the Federal Reserve would represent the greatest risk to the dollar’s status as a reserve currency since the end of World War II, according to Deutsche Bank.",
+      "Url": "https://financialpost.com/pmn/business-pmn/fed-backstop-fears-could-threaten-dollar-deutsche-bank-says",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/feds-dollar-swaps-most-recently-tapped-in-march-2020-partic.jpg",
+      "PublishedAt": "2025-03-27T16:22:00Z",
+      "Content": "The withdrawal of a time-tested liquidity backstop offered by the Federal Reserve would represent the greatest risk to the dollars status as a reserve currency since the end of World War II, accordin… [+6566 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Atmadip Ray",
+      "Title": "Truhome Finance raises 100 million dollar from DBS Bank, SMBC",
+      "Description": "Warburg Pincus-owned mortgage lender Truhome Finance has raised $100 million in external commercial borrowing from DBS Bank and Sumitomo Mitsui Banking Corporation (SMBC).",
+      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/truhome-finance-raises-100-million-dollar-from-dbs-bank-smbc/articleshow/119606395.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-119606375,width-1200,height-630,imgsize-16272,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-03-27T16:07:15Z",
+      "Content": "Warburg Pincus-owned mortgage lender Truhome Finance has raised $100 million in external commercial borrowing from DBS Bank and Sumitomo Mitsui Banking Corporation (SMBC).The lender with about Rs 170… [+1777 chars]"
+    },
     {
       "Source": {
         "Id": null,
