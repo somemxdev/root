@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GlobeNewswire"
+      },
+      "Author": "NETSOL Technologies Inc.",
+      "Title": "NETSOL signs multi-million-dollar agreement with Chinese Leasing Company for the implementation of Transcend Finance in Indonesia",
+      "Description": "NETSOL Technologies has signed a contract with a Chinese leasing company – marking the customer's expansion into the Indonesian market.......",
+      "Url": "https://www.globenewswire.com/news-release/2025/03/27/3050547/15855/en/NETSOL-signs-multi-million-dollar-agreement-with-Chinese-Leasing-Company-for-the-implementation-of-Transcend-Finance-in-Indonesia.html",
+      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
+      "PublishedAt": "2025-03-27T12:30:00Z",
+      "Content": "ENCINO, Calif., March 27, 2025 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a global leader in delivering state-of-the-art solutions for the asset finance and leasing industry, has s… [+5420 chars]"
+    },
     {
       "Source": {
         "Id": null,
