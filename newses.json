@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra al alza esta semana",
+      "Description": "El precio del dólar en Monex tuvo un incremento este viernes, cerrando en su valor más alto desde el 10 de marzo",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-al-alza-esta/AWOSMPA265FE7C6TUWVCBYAD3E/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/JPXFUCXV6NGA7FRC5DTPXM3BDQ.jpg?smart=true&auth=38a0f3d8de085ea2ca979459203945c9f30be120c61d49b28a2e82a54a296996&width=1440",
+      "PublishedAt": "2025-03-28T21:10:00Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana en ¢502,43 en el Mercado de Monedas Extranjeras (Monex). La cotización de este viernes fue la más alta desde el 10 de marzo. Este mes, … [+2264 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-03-21T18:50:04Z",
       "Content": "Este viernes 21 de marzo de 2025, el precio del dólar en México es de $20,1345, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por… [+2325 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso va ‘enrachado’... para mal: ¿Cuánto se deprecia ante el dólar HOY 21 de marzo?",
-      "Description": "El peso mexicano se está depreciando rumbo a la fecha clave del 2 de abril, día en el que el presidente Donald Trump anunciará sus aranceles recíprocos. ¿México será afectado?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/21/peso-dolar-precio-hoy-21-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4VJ3HC3Y7NBPHAE5MAY2UKDMKM.jpg?smart=true&auth=30d500c746c6449650e78deb9e1cab196ac8e9fe545f74ed9b7e44461541f5bd&width=1200&height=630",
-      "PublishedAt": "2025-03-21T16:16:43Z",
-      "Content": "El peso mexicano amplía sus pérdidas ante el dólar este viernes 21 de marzo debido a que los inversionistas están preocupados sobre los impactos al comercio internacional. \r\nLa depreciación del peso … [+1845 chars]"
     }
   ]
 }
