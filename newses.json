@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se enfila a semana en rojo ante el dólar: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "Donald Trump revelará el próximo miércoles 2 de abril una serie de aranceles recíprocos a varios países del mundo... y el Gobierno de Claudia Sheinbaum espera que no sea afectado con esas nuevas tarifas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/28/peso-dolar-precio-hoy-28-de-marzo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PXJFXCQZPVH4RMKSBF43QO3WME.jpg?smart=true&auth=934c305a28839385b02324c14ebc4c88d44afc92a0545e25965433bc537733be&width=1200&height=630",
+      "PublishedAt": "2025-03-28T15:55:20Z",
+      "Content": "El peso mexicano se encamina a perder la semana frente al dólar debido a que los aranceles de Donald Trump de 25 por ciento a los autos mantienen alta la incertidumbre en los mercados. \r\nLa depreciac… [+1512 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 28 de marzo de 2025",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-28-de-marzo-de-2025-nid28032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-28-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-28T15:26:36Z",
+      "Content": "Este viernes 28 de marzo de 2025, el precio del dólar en México es de $20,3182, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado po… [+2353 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/21/3277880.jpg",
       "PublishedAt": "2025-03-21T14:05:52Z",
       "Content": "El peso mexicano mantiene la racha negativa con retrocesos desde las jornadas previas, con lo que el precio del dólar hoy 21 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce … [+1303 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Ventana al Mundo",
-      "Title": "Zidane Zeraoui: Dólar-peso, una compleja relación",
-      "Description": "Los índices más representativos en EU mostraron caídas que tan sólo en una semana acumularon cerca del 8% de pérdidas.",
-      "Url": "https://www.elfinanciero.com.mx/monterrey/2025/03/21/zidane-zeraoui-dolar-peso-una-compleja-relacion/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DY3FTKUROBFPXPDAKCBBADN6AE.jpg?smart=true&auth=962a233ca188ffda2ebb28e681e58463c89c2eca397568668d806f3e77ece62a&width=1200&height=630",
-      "PublishedAt": "2025-03-21T14:00:00Z",
-      "Content": "La primera y segunda semanas de marzo los mercados financieros tuvieron fuertes sacudidas, la caída de las bolsas estadounidenses, junto con las de otros mercados en el mundo, fue clara expresión de … [+4190 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 21 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY viernes 21 de marzo inicia operaciones con el tipo de cambio interbancario en 20.19 pesos mexicanos por billete verde, con una ligera ganancia del 0.19 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ayer extendiendo las pérdi…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-21T12:00:00Z",
-      "Content": "El dólar HOY viernes 21 de marzo inicia operaciones con el tipo de cambio interbancario en 20.19 pesos mexicanos por billete verde, con una ligera ganancia del 0.19 por ciento, según datos de Bloombe… [+900 chars]"
     }
   ]
 }
