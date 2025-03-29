@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
     {
       "Source": {
@@ -28,6 +28,19 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-119606375,width-1200,height-630,imgsize-16272,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2025-03-27T16:07:15Z",
       "Content": "Warburg Pincus-owned mortgage lender Truhome Finance has raised $100 million in external commercial borrowing from DBS Bank and Sumitomo Mitsui Banking Corporation (SMBC).The lender with about Rs 170… [+1777 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Fed Backstop Fears Could Threaten Dollar, Deutsche Bank Says",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1a815f2a-f131-46d0-9821-8daec1646843",
+      "UrlToImage": null,
+      "PublishedAt": "2025-03-27T16:02:06Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
     },
     {
       "Source": {
