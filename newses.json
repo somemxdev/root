@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "José Del Rio",
+      "Title": "Tim Draper: “El bitcoin será la moneda global y el dólar se extinguirá”",
+      "Description": "En una entrevista con LA NACION, el fundador del fondo Draper Associates y una de las voces más escuchadas en Silicon Valley redobla su apuesta por las criptomonedas, cuenta cuál es su fórmula para elegir en qué empresas invertir en la Argentina y en el mundo…",
+      "Url": "https://www.lanacion.com.ar/economia/negocios/tim-draper-el-bitcoin-sera-la-moneda-global-y-el-dolar-se-extinguira-nid29032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tim-draper-el-dolar-quedara-obsoleto-se-I5M3CV6J2BH2JB46MYRTAPGJI4.jpg?auth=988a2350658c1932a563219203bef550e4d1e52e93e28864273600580892acae&width=1200&height=800&quality=70&smart=false&focal=980%2C350",
+      "PublishedAt": "2025-03-28T17:27:50Z",
+      "Content": "El bitcoin y el ecosistema emprendedor argentino son dos de los temas que más apasionan a Tim Draper. Para el inversor estrella de Silicon Valley, más temprano que tarde, la moneda digital terminará … [+11864 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4VJ3HC3Y7NBPHAE5MAY2UKDMKM.jpg?smart=true&auth=30d500c746c6449650e78deb9e1cab196ac8e9fe545f74ed9b7e44461541f5bd&width=1200&height=630",
       "PublishedAt": "2025-03-21T16:16:43Z",
       "Content": "El peso mexicano amplía sus pérdidas ante el dólar este viernes 21 de marzo debido a que los inversionistas están preocupados sobre los impactos al comercio internacional. \r\nLa depreciación del peso … [+1845 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con mala racha ante temor por aranceles! Precio del dólar hoy 21 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene la racha negativa con retrocesos desde las jornadas previas, con lo que el precio del dólar hoy 21 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-21-marzo-2025-tipo-cambio-bancos-mexico/1706288",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/21/3277880.jpg",
-      "PublishedAt": "2025-03-21T14:05:52Z",
-      "Content": "El peso mexicano mantiene la racha negativa con retrocesos desde las jornadas previas, con lo que el precio del dólar hoy 21 de marzo de 2025 arranca en 20.25 unidades por cada billete verde; conoce … [+1303 chars]"
     }
   ]
 }
