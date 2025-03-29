@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con racha de pérdidas! Precio del dólar hoy 28 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por cuarta jornada consecutiva, con lo que el precio del dólar hoy 28 de marzo de 2025 arranca en 20.35 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexica…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-28-marzo-2025-tipo-cambio-bancos-mexico/1707561",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/28/3281626.jpg",
+      "PublishedAt": "2025-03-28T14:41:24Z",
+      "Content": "El peso mexicano retrocede por cuarta jornada consecutiva, con lo que el precio del dólar hoy 28 de marzo de 2025 arranca en 20.35 unidades por cada billete verde; conoce aquí cuál es el tipo de camb… [+1074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-21T12:00:00Z",
       "Content": "El dólar HOY viernes 21 de marzo inicia operaciones con el tipo de cambio interbancario en 20.19 pesos mexicanos por billete verde, con una ligera ganancia del 0.19 por ciento, según datos de Bloombe… [+900 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se pone nervioso’ por fortalecimiento del dólar: ¿Cómo cotiza HOY?",
-      "Description": "La moneda mexicana cede terreno ante el fortalecimiento generalizado por parte de la moneda estadounidense.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/20/peso-dolar-precio-hoy-20-de-marzo-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WCKUWEUUNFFXJFSE62OSJT32CA.jpg?smart=true&auth=0d64272e0c80dc99e341d4f8300075a8dd64fa643cf5408d2811fc3312e4aef1&width=1200&height=630",
-      "PublishedAt": "2025-03-20T15:44:50Z",
-      "Content": "La moneda mexicana cede terreno ante el fortalecimiento generalizado por parte de la moneda estadounidense, ante los persistentes riesgos sobre ver un menor crecimiento económico y mayores barreras a… [+2920 chars]"
     }
   ]
 }
