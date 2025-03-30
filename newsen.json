@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Accused of Executing $25,000,000 in Unauthorized Transactions, Quietly Draining Customers’ Accounts",
+      "Description": "A billion-dollar US bank is being sued for allegedly mishandling customer funds and worsening a crisis that locked 85,000 customers out of their savings. Yotta Technologies is accusing Evolve Bank & Trust of fraud, conspiracy, and negligence. Yotta offered a …",
+      "Url": "https://dailyhodl.com/2025/03/29/billion-dollar-bank-accused-of-executing-25000000-in-unauthorized-transactions-quietly-draining-customers-accounts/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/03/bank-accused-drain.jpg",
+      "PublishedAt": "2025-03-29T21:17:22Z",
+      "Content": "A billion-dollar US bank is being sued for allegedly mishandling customer funds and worsening a crisis that locked 85,000 customers out of their savings.\r\nYotta Technologies is accusing Evolve Bank &… [+1340 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
