@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--UIJmn9O4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-02-28t063614z_1_lynxnpel1r05j_rtroptp_3_indonesia-markets.jpg?itok=r17YrMfd",
       "PublishedAt": "2025-02-28T06:36:14Z",
       "Content": "JAKARTA : Indonesia's central bank conducted a \"bold\" intervention in the foreign exchange market on Friday, an official said, after the rupiah fell to its lowest level against the U.S. dollar since … [+165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Livemint",
-      "Title": "Standard Chartered chosen as dollar settlement bank in global finance hub at GIFT City: How will this help you?",
-      "Description": "Standard Chartered is India's dollar settlement bank. The move aims to speed up trades and support plans by Prime Minister Narendra Modi to bring rupee-related trading onshore.",
-      "Url": "https://www.livemint.com/industry/banking/standard-chartered-chosen-as-dollar-settlement-bank-in-global-finance-hub-at-gift-city-how-will-this-help-you-11740651436462.html",
-      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/02/27/1600x900/T_1740652324152_1740652324380.JPG",
-      "PublishedAt": "2025-02-27T11:08:18Z",
-      "Content": "Standard Chartered Plc has been picked as the bank for real-time settlement of all dollar-denominated trades in the countrys only global financial center, likely slated for end-June. According to Blo… [+1161 chars]"
     }
   ]
 }
