@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 29 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de marzo el tipo de cambio interbancario, se ubica en 20.37pesos por unidad, con una ganancia del 0.37 por ciento, según datos de Bloomberg.Ayer, el peso mexicanoy la bolsa …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2025-03-29T13:33:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de marzo el tipo de cambio interbancario, se ubica en 20.37 pesos por unidad, con una ganancia del 0.37 por cient… [+1727 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/5NHR4KD3DNHFDBPDIF7MNKJKNA.jpg?smart=true&auth=05bb2e4b66b3816de6b9bdc9464e0f3cc873a8bf5c468060af98096effd675c8&width=1440",
       "PublishedAt": "2025-03-21T21:34:02Z",
       "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana con un valor de ¢500,03 en el Mercado de Monedas Extranjeras (Monex), tras cinco sesiones en las que el precio de la divisa tuvo un com… [+2662 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 21 de marzo de 2025",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-21-de-marzo-de-2025-nid21032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-03-21T18:50:04Z",
-      "Content": "Este viernes 21 de marzo de 2025, el precio del dólar en México es de $20,1345, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por… [+2325 chars]"
     }
   ]
 }
