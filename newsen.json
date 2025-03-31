@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "'Million Dollar Secret' Spoilers: Who's Eliminated, Who Has the Money Now, & When New Episodes Debut",
+      "Description": "Million Dollar Secret is Netflix’s newest reality show – drawing comparisons to The Mole and Traitors. We’re bringing you all the elimination spoilers, release schedule news and more! Hosted by Peter Serafinowicz, Million Dollar Secret is a game of wit, cunni…",
+      "Url": "https://www.justjared.com/2025/03/30/million-dollar-secret-spoilers-whos-eliminated-who-has-the-money-now-when-new-episodes-debut/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/03/million-dollar-secret-spoilers1.jpg",
+      "PublishedAt": "2025-03-30T19:20:30Z",
+      "Content": "Million Dollar Secret is Netflix’s newest reality show – drawing comparisons to The Mole and Traitors.\r\nWe’re bringing you all the elimination spoilers, release schedule news and more!\r\nHosted by Pet… [+596 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-breach-dollars.jpg",
       "PublishedAt": "2025-03-02T14:30:33Z",
       "Content": "A billion-dollar bank says sensitive data belonging to thousands of customers is at risk of exposure following a major data breach.\r\nIn a new filing with the Office of the Maine Attorney General, the… [+1360 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "How a $5 million fix turned Paramount Pictures' 'Sonic' into a billion-dollar franchise",
-      "Description": "Paramount Picture's redesign of the titular character in its \"Sonic the Hedgehog\" film has resulted in a $1.2 billion franchise five years later.",
-      "Url": "https://www.cnbc.com/2025/03/01/paramount-sonic-fix-billion-dollar-franchise.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/106240761-1573590837131sonic-the-hedgehog.jpg?v=1573590922&w=1920&h=1080",
-      "PublishedAt": "2025-03-01T13:00:01Z",
-      "Content": "Paramount Pictures revamped version of Sonic the Hedgehog (r).\r\nSonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\n… [+7645 chars]"
     }
   ]
 }
