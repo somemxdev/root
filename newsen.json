@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "Roberto Ortega",
+      "Title": "Deion Sanders arrived at Colorado with no money to pay him and now Coach Prime has a multimillion dollar deal",
+      "Description": "When Deion Sanders, better known as Coach Prime, took over the Colorado Buffaloes football program in 2023, he didn&apos;t do it for the money because there wasn&apos;t any. Litera",
+      "Url": "https://www.marca.com/en/ncaa/2025/03/30/67e8721a46163f72be8b4574.html",
+      "UrlToImage": "https://phantom-marca.uecdn.es/85209a6eb7153a6ab2b8569f4fb37b32/crop/0x0/1978x1318/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/29/17432866582967.jpg",
+      "PublishedAt": "2025-03-29T23:55:30Z",
+      "Content": "When Deion Sanders, better known as Coach Prime, took over the Colorado Buffaloes football program in 2023, he didn't do it for the money because there wasn't any. Literally. Athletic Director Rick G… [+2696 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/106240761-1573590837131sonic-the-hedgehog.jpg?v=1573590922&w=1920&h=1080",
       "PublishedAt": "2025-03-01T13:00:01Z",
       "Content": "Paramount Pictures revamped version of Sonic the Hedgehog (r).\r\nSonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\n… [+7645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Bank Indonesia intervenes after rupiah falls to 5-year low against dollar",
-      "Description": "JAKARTA : Indonesia's central bank conducted a \"bold\" intervention in the foreign exchange market on Friday, an official said, after the rupiah fell to its lowest level against the U.S. dollar since March 2020. Edi Susianto, Bank Indonesia's head of monetary …",
-      "Url": "https://www.channelnewsasia.com/business/bank-indonesia-intervenes-after-rupiah-falls-5-year-low-against-dollar-4966951",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--UIJmn9O4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-02-28t063614z_1_lynxnpel1r05j_rtroptp_3_indonesia-markets.jpg?itok=r17YrMfd",
-      "PublishedAt": "2025-02-28T06:36:14Z",
-      "Content": "JAKARTA : Indonesia's central bank conducted a \"bold\" intervention in the foreign exchange market on Friday, an official said, after the rupiah fell to its lowest level against the U.S. dollar since … [+165 chars]"
     }
   ]
 }
