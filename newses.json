@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BeInCrypto"
+      },
+      "Author": "Landon Manning",
+      "Title": "CEO de BlackRock: “Bitcoin asumiría el papel del dólar como moneda de reserva mundial”",
+      "Description": "Larry Fink ve a las criptomonedas como una amenaza y una solución; su crecimiento podría poner en peligro al dólar, pero también revolucionar las finanzas tradicionales.\nEl post CEO de BlackRock: “Bitcoin asumiría el papel del dólar como moneda de reserva mun…",
+      "Url": "https://es.beincrypto.com/ceo-blackrock-bitcoin-moneda-reserva-mundial/",
+      "UrlToImage": "https://es.beincrypto.com/wp-content/uploads/2024/04/bic_larry_fink_blackrock-covers_neutral_2-1.png.webp",
+      "PublishedAt": "2025-03-31T21:31:25Z",
+      "Content": "Larry Fink, CEO de BlackRock, afirmó en una carta reciente que Bitcoin y las criptomonedas podrían dañar la posición internacional del dólar. Si los inversores tratan a Bitcoin como un refugio contra… [+3259 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/24/3279110.jpg",
       "PublishedAt": "2025-03-24T15:38:17Z",
       "Content": "El peso mexicano recompuso el camino al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 24 de marzo de 2025arranca en 20.10 unidades por cada billete verde; conoce aquí cuá… [+1468 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 24 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY lunes 24 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, perfilándose a culminar la sema…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-03-24T12:05:00Z",
-      "Content": "El dólar HOY lunes 24 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nE… [+779 chars]"
     }
   ]
 }
