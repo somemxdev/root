@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae por quinta jornada! Precio del dólar hoy 31 de marzo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por quinta jornada consecutiva ante preocupaciones por el impacto de los próximos aranceles de Estados Unidos, con lo que el precio del dólar hoy 31 de marzo de 2025 arranca en 20.39 unidades por cada billete verde…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-31-marzo-2025-tipo-cambio-bancos-mexico/1707972",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/31/3282785.jpg",
+      "PublishedAt": "2025-03-31T14:09:35Z",
+      "Content": "El peso mexicano retrocede por quinta jornada consecutiva ante preocupaciones por el impacto de los próximos aranceles de Estados Unidos, con lo que el precio del dólar hoy 31 de marzo de 2025 arranc… [+1483 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/a19ddce8-9282-4b38-b0a4-a65f154cc788_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-03-22T21:15:14Z",
       "Content": "La guerra comercial también se disputa en el terreno de las divisas. El tipo de cambio de las monedas es un factor crucial en el coste de las exportaciones y las importaciones. Por eso, en un context… [+1206 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 22 de marzo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 22 de marzo el tipo de cambio interbancario, se ubica en 20.23 pesos por unidad, con una ganancia del +0.43 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/13/precio-dolar-mercados-bursatiles-marzo.jpeg",
-      "PublishedAt": "2025-03-22T13:30:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 22 de marzo el tipo de cambio interbancario, se ubica en 20.23 pesos por unidad, con una ganancia del +0.43 p… [+1991 chars]"
     }
   ]
 }
