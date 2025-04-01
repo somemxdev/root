@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Nickolas Plaza",
+      "Title": "El dólar como moneda de reserva se tambalea ¿Por qué?",
+      "Description": "La guerra arancelaria entre EE. UU. y más de 10 de países podría hacer perder al comercio global 1,3 billones de dólares.\nLeer más",
+      "Url": "https://www.criptonoticias.com/opinion/dolar-como-moneda-reserva-tambalea-por-que/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2025/03/dolar-moneda-reserva.jpg",
+      "PublishedAt": "2025-03-31T20:07:53Z",
+      "Content": "<ul><li>En un escenario de devaluación, bitcoin podría afianzarse como refugio.\r\n</li><li>Larry Fink, CEO de BlackRock, cree que el dólar puede perder su posición frente a bitcoin.\r\n</li></ul>\r\nEl si… [+8046 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-03-24T12:05:00Z",
       "Content": "El dólar HOY lunes 24 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nE… [+779 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Por qué esta moneda de dólar de hace más de 125 años podría valer más de US$2 millones",
-      "Description": "El Morgan de 1893 tiene una historia particular que la transforma en un ejemplar muy valioso para los coleccionistas",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/por-que-esta-moneda-de-dolar-de-hace-mas-de-125-anos-podria-valer-mas-de-us2-millones-nid24032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-morgan-son-altamente-cotizadas-en-las-SVGL3RDESRC2TPVCBWIHGARYNY.jpg?auth=e75eeee295e14f74defa17b61e1de8d2026067f4992736270ec7a596cb3d72e5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-24T03:35:00Z",
-      "Content": "El mercado de la numismática es muy curioso porque hay monedas, o billetes en algunos casos, que se venden en subastas a precios increíbles. Puede ser por distintos motivos especiales, como ediciones… [+2452 chars]"
     }
   ]
 }
