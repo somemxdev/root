@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 31 de marzo",
+      "Description": "Aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy; así está el precio del dólar en México, según el Diario Oficial de la Federación (DOF)",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-31-de-marzo-nid31032025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-03-31T17:01:09Z",
+      "Content": "Este lunes 31 de marzo de 2025, el precio del dólar en México es de $20,4003, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve influenciado… [+2267 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-morgan-son-altamente-cotizadas-en-las-SVGL3RDESRC2TPVCBWIHGARYNY.jpg?auth=e75eeee295e14f74defa17b61e1de8d2026067f4992736270ec7a596cb3d72e5&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-24T03:35:00Z",
       "Content": "El mercado de la numismática es muy curioso porque hay monedas, o billetes en algunos casos, que se venden en subastas a precios increíbles. Puede ser por distintos motivos especiales, como ediciones… [+2452 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Daniel Yebra",
-      "Title": "La guerra comercial también se disputa en las divisas: cómo afecta el cambio euro/dólar a los aranceles",
-      "Description": "El diferencial de tipos entre la Reserva Federal y el BCE es una herramienta para salvar o agravar las barreras comerciales a las exportaciones de la UE\r\nLa UE retrasa unos días los aranceles a EEUU para dar margen a la negociación\r\n\n La guerra comercial tamb…",
-      "Url": "https://www.eldiario.es/economia/guerra-comercial-disputa-divisas-afecta-cambio-euro-dolar-aranceles_1_12150470.html",
-      "UrlToImage": "https://static.eldiario.es/clip/a19ddce8-9282-4b38-b0a4-a65f154cc788_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2025-03-22T21:15:14Z",
-      "Content": "La guerra comercial también se disputa en el terreno de las divisas. El tipo de cambio de las monedas es un factor crucial en el coste de las exportaciones y las importaciones. Por eso, en un context… [+1206 chars]"
     }
   ]
 }
