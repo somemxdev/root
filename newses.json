@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘toma aire’ a un día de los aranceles recíprocos de Trump: ¿Cuánto gana al dólar HOY?",
+      "Description": "El presidente Donald Trump hará su anuncio de aranceles recíprocos después del cierre de las bolsas en Nueva York el próximo miércoles 2 de abril.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/01/peso-dolar-precio-hoy-1-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/B34EYTSRUBEWRH5QXSA45Y25VY.jpg?smart=true&auth=3e4e72922f417a8228fa37927264a536ff11b05c44307aee6c70af1ca159e974&width=1200&height=630",
+      "PublishedAt": "2025-04-01T16:29:33Z",
+      "Content": "El peso mexicano gana al dólar tras cinco sesiones con pérdidas, a pesar del nerviosismo en el mercado por el anuncio de aranceles recíprocos que Donald Trump hará en el Día de Liberación.\r\nLa apreci… [+1550 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-03-25T12:00:00Z",
       "Content": "Eldólar HOY martes 25 de marzo inicia operaciones con el tipo de cambio interbancario en 19.98 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. \r\n… [+773 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca la ‘semana del Banxico’ con ganancias: ¿Cuánto se aprecia ante el dólar HOY?",
-      "Description": "En el ámbito internacional, Donald Trump agregó un nuevo arancel a su 'catálogo': Se trata de una tarifa de 25% a los países que compren petróleo o gas a Venezuela.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/24/peso-dolar-precio-hoy-24-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YQNTPT5CUFCSDGFYPS5EPFQZ2Y.jpg?smart=true&auth=aff1412b468224ac6832a69b3e1e40536715afc3fdc6153dd0ac079a8c5f6edd&width=1200&height=630",
-      "PublishedAt": "2025-03-24T17:39:37Z",
-      "Content": "El peso mexicano, que viene de una depreciación semanal, gana terreno al dólar este lunes 24 de marzo, acercándose de nuevo al terreno de las 19 unidades, a medida que los operadores están a la esper… [+2184 chars]"
     }
   ]
 }
