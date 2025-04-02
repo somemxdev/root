@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cotización del dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 1º de abril de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/cotizacion-del-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-1-de-abril-de-2025-nid01042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-01T14:09:43Z",
+      "Content": "Este martes 1º de abril de 2025, el precio del dólar en México es de $20,438, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve impactado po… [+2393 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YQNTPT5CUFCSDGFYPS5EPFQZ2Y.jpg?smart=true&auth=aff1412b468224ac6832a69b3e1e40536715afc3fdc6153dd0ac079a8c5f6edd&width=1200&height=630",
       "PublishedAt": "2025-03-24T17:39:37Z",
       "Content": "El peso mexicano, que viene de una depreciación semanal, gana terreno al dólar este lunes 24 de marzo, acercándose de nuevo al terreno de las 19 unidades, a medida que los operadores están a la esper… [+2184 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 24 de marzo",
-      "Description": "Este lunes 24 de marzo de 2025, el precio del dólar en México es de $20,2163, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado por las cifras de inflación local y la entrada en vigor de lo…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-24-de-marzo-nid24032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-24T17:10:32Z",
-      "Content": "Este lunes 24 de marzo de 2025, el precio del dólar en México es de $20,2163, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve influenciado p… [+2228 chars]"
     }
   ]
 }
