@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Lucía Astorga",
+      "Title": "Precio del dólar: conozca qué harían los precandidatos del PLN con el tipo de cambio",
+      "Description": "Los precandidatos presidenciales del Partido Liberación Nacional (PLN) contestaron a La Nación cuáles son sus posturas sobre la caída en el precio del dólar y las medidas que implementarían.",
+      "Url": "https://www.nacion.com/politica/precio-del-dolar-conozca-que-harian-los/XXYJAMYCXFDM3L3CHPTKX3ULAU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/2QPNURQTEJECZLPTO7INBQRUWI.png?smart=true&auth=e46e90073449ab907ea8f57cc34896ec68a9760706d3510c580795f94dd0cbe6&width=1440",
+      "PublishedAt": "2025-04-02T14:50:00Z",
+      "Content": "Los precandidatos presidenciales del Partido Liberación Nacional (PLN) contestaron a La Nación cuáles son sus posturas sobre la caída en el precio del dólar y las medidas que implementarían.\r\nEn sus … [+4846 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy a peso mexicano 22 abril 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-22-abril-2025-tipo-cambio-bancos-mexico/1708476",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/02/3284278.jpg",
+      "PublishedAt": "2025-04-02T14:19:40Z",
+      "Content": "El peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál … [+1522 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con leve avance! Precio del dólar hoy 2 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-2-abril-2025-tipo-cambio-bancos-mexico/1708476",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/02/3284278.jpg",
+      "PublishedAt": "2025-04-02T14:19:40Z",
+      "Content": "El peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál … [+1522 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cae dólar a $20.20; omite EU a México en lista de aranceles",
+      "Description": "El peso revirtió sus pérdidas, luego que el Presidente Trump omitió a México en listado de naciones a las que impondrá aranceles recíprocos.",
+      "Url": "https://www.reforma.com/cae-dolar-a-20-20-omite-eu-a-mexico-en-lista-de-aranceles/ar2980636",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/903/5902141.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-04-02T14:05:28Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (02 abril 2025) .-08:02 (Actualización: 15:19 hrs)"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cotización de dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 2 de abril de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/cotizacion-de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-2-de-abril-de-2025-nid02042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-2-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-04-02T14:02:17Z",
+      "Content": "Este miércoles 2 de abril de 2025, el precio del dólar en México es de $20,3587, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve afectadopor la incertid… [+2348 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-03-26T12:03:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de marzo el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 0.11 por cient… [+863 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Águila pequeña: qué hace que esta moneda de 25 centavos de dólar valga US$1,7 millones",
-      "Description": "Los ejemplares antiguos pueden alcanzar grandes valores debido a su rareza, estado de conservación y demanda entre coleccionistas",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/aguila-pequena-que-hace-que-esta-moneda-de-25-centavos-de-dolar-valga-us17-millones-nid25032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-cuarto-de-dolar-de-1796-fue-una-de-las-JY26UYYEAZD3TKDUDYAQ5H5ADQ.jpg?auth=93fe783120371ccd6633ad599ba4fe2db80c3b908667d51bbd03b7391f7dfacc&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-25T18:46:01Z",
-      "Content": "Las monedasdespiertan gran interés entre los coleccionistas, sobre todo aquellas difíciles de encontrar y en buen estado. Algunas pueden alcanzar precios elevados en el mercado, como el cuarto de dól… [+2334 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso cede a pesar de debilitamiento del dólar: ¿En cuánto está el tipo de cambio HOY?",
-      "Description": "Estamos a casi una semana de la aplicación de los aranceles recíprocos de Donald Trump. El presidente comentó que no todos los países serán 'castigados' con esta medida.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/25/peso-dolar-precio-hoy-25-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WDKDLWBDNBC33AL2ZVO6YK3HAU.jpg?smart=true&auth=1568c54a03fd80af5f288565427d484850924d0f1d87e7260dcf29a1ae3b9d4e&width=1200&height=630",
-      "PublishedAt": "2025-03-25T17:20:01Z",
-      "Content": "El peso mexicano tiene ligeras pérdidas ante el dólar este martes 25 de marzo, esto a pesar de un mayor debilitamiento del billete verde, con la atención de los inversionistas aún centrada en cómo ev… [+1908 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso aumenta ganancias! Precio del dólar hoy 25 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano hila su segunda jornada de ganancias, con lo que el precio del dólar hoy 25 de marzo de 2025 arranca en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-25-marzo-2025-tipo-cambio-bancos-mexico/1706902",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/25/3279617.jpg",
-      "PublishedAt": "2025-03-25T15:12:08Z",
-      "Content": "El peso mexicano hila su segunda jornada de ganancias, con lo que el precio del dólar hoy 25 de marzo de 2025 arranca en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1488 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza por segunda sesión; opera por debajo de 20 unidades por dólar; BMV gana",
-      "Description": "Forbes México.\n Peso avanza por segunda sesión; opera por debajo de 20 unidades por dólar; BMV gana\n\nEl peso cotizaba en 19.9780 unidades, con un avance de un 0.23% frente a los 20.0240 por dólar del precio de referencia de LSEG del lunes, apuntando a su segu…",
-      "Url": "https://forbes.com.mx/peso-avanza-por-segunda-sesion-opera-por-debajo-de-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2025-03-25T14:23:52Z",
-      "Content": "El peso se apreciaba el martes animado por un mejor ambiente para los activos de riesgo ante expectativas de que los aranceles recíprocos que Estados Unidos aplicará a sus socios la próxima semana se… [+861 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 25 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-25-de-marzo-nid25032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-25-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-25T14:03:02Z",
-      "Content": "Este martes 25 de marzo de 2025, el precio del dólar en México es de $20,1123, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se favorece por e… [+2667 chars]"
     }
   ]
 }
