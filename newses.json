@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "AFP",
+      "Title": "Dólar cae 1% respecto al euro tras anuncio arancelario de Trump",
+      "Description": "Especialistas temen que las sobretasas aduaneras conlleven una desaceleración de la economía estadounidense",
+      "Url": "https://www.nacion.com/economia/dolar-cae-1-respecto-al-euro-tras-anuncio/YQXGRUDTWZDWTKCAURTWK5SPV4/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/RP7C24TYSFGFBEJZMAZHAL6ZMU.jpg?smart=true&auth=80b71e43018069a56045da6d272aa5a6a180a32b859a675c7dd2266083b5d31f&width=1440",
+      "PublishedAt": "2025-04-02T22:41:27Z",
+      "Content": "Washington. El dólar estadounidense cayó el miércoles 1% con respecto al euro tras el anuncio del presidente Donald Trump de que firmará un decreto para imponer aranceles recíprocos a sus socios come… [+1437 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/26/3280282.jpg",
       "PublishedAt": "2025-03-26T14:11:55Z",
       "Content": "El peso mexicano retrocede en la jornada de este miércoles a espera de noticias sobre los aranceles, con lo que el precio del dólar hoy 26 de marzo de 2025 arranca en 20.13 unidades por cada billete … [+1779 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 26 de marzo de 2025: ¿Cuál es el tipo de cambio del peso en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de marzo el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 0.11 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-03-26T12:03:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de marzo el tipo de cambio interbancario, se ubica en 20.07 pesos por unidad, con una ganancia del 0.11 por cient… [+863 chars]"
     }
   ]
 }
