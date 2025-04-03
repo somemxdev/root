@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 2 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY miércoles 2 de abrilinicia operaciones con el tipo de cambio interbancario en 20.37 pesos mexicanos por billete verde, con una ligera alza del 0.08 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer debido a la cautela de lo…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-2-abril-2025-tipo-de-cambio-peso-mexicano",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/28/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-04-02T12:13:00Z",
+      "Content": "El dólar HOY miércoles 2 de abril inicia operaciones con el tipo de cambio interbancario en 20.37 pesos mexicanos por billete verde, con una ligera alza del 0.08 por ciento, según datos de Bloomberg.… [+489 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-25-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-25T14:03:02Z",
       "Content": "Este martes 25 de marzo de 2025, el precio del dólar en México es de $20,1123, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se favorece por e… [+2667 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 25 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY martes 25 de marzo inicia operaciones con el tipo de cambio interbancario en 19.98 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba después de tres jornadas consecu…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/07/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-03-25T12:00:00Z",
-      "Content": "Eldólar HOY martes 25 de marzo inicia operaciones con el tipo de cambio interbancario en 19.98 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. \r\n… [+773 chars]"
     }
   ]
 }
