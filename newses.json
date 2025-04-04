@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
+      "Title": "Los aranceles presionan a la baja al dólar y pierde brillo frente al euro, que supera los 1,10",
+      "Description": "Los inversores han rechazan refugiarse en la divisa estadounidense después de que el presidente Donald Trump anunciara la imposición de aranceles, lo que ha provocado caídas en el dólar en su cruce contra el euro, que, por su parte, ha superado el umbral de l…",
+      "Url": "https://www.bolsamania.com/noticias/divisas/aranceles-presionan-baja-dolar-pierde-brillo-euro-supera-110--19277006.html",
+      "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
+      "PublishedAt": "2025-04-03T09:59:12Z",
+      "Content": "Los inversores han rechazan refugiarse en la divisa estadounidense después de que el presidente Donald Trump anunciara la imposición de aranceles, lo que ha provocado caídas en el dólar en su cruce c… [+4048 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bbva-research-preve-un-crecimiento-del-RVICIGADN5FXLLKK2WXMIU4HBU.jpg?auth=fb66de187188bafb67ad1a3995c3066657c61a983201ef84c371008f6681dd1c&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-26T15:13:37Z",
       "Content": "El dólar oficial cerrará en torno a $1400 hacia fin de año, habrá un desmantelamiento gradual del cepo cambiario después de las elecciones legislativas y la economía rebotará un 5,5%. Estas fueron al… [+4288 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso retrocede, atento a aranceles! Precio del dólar hoy 26 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este miércoles a espera de noticias sobre los aranceles, con lo que el precio del dólar hoy 26 de marzo de 2025 arranca en 20.13 unidades por cada billete verde; conoce aquí cuál es el tipo de camb…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-26-marzo-2025-tipo-cambio-bancos-mexico/1707130",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/26/3280282.jpg",
-      "PublishedAt": "2025-03-26T14:11:55Z",
-      "Content": "El peso mexicano retrocede en la jornada de este miércoles a espera de noticias sobre los aranceles, con lo que el precio del dólar hoy 26 de marzo de 2025 arranca en 20.13 unidades por cada billete … [+1779 chars]"
     }
   ]
 }
