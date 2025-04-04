@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central volvió a vender reservas, pero sólo US$10 millones",
+      "Description": "La incertidumbre instalada local e internacionalmente hizo más cautos a los vendedores, pero también a los compradores",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-volvio-a-vender-reservas-pero-solo-us10-millones-nid03042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-pero-poco-al-ralearse-en-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-03T20:42:11Z",
+      "Content": "La combinación de incertidumbre local e inestabilidad global redujo hoy a un mínimo las operaciones en la plaza cambiaria oficial: se pactaron transcaciones por apenas US$186 millones, el monto más b… [+3015 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UB2HFT2NMNCHPIGTOOLSJJILPA.jpg?smart=true&auth=d16915080143aaf184635b97bcffaa777564370c1b304d1c78bce3bc2986c07f&width=1200&height=630",
       "PublishedAt": "2025-03-27T16:09:13Z",
       "Content": "El peso mexicano derrapa tras los aranceles de Donald Trump a los autos y aumenta sus pérdidas ante el dólar, mientras en el ámbito local, el mercado está a la espera de la decisión de política monet… [+2235 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Sofía Diamante",
-      "Title": "Deuda y dólar barato: las razones que explican por qué las reservas del Banco Central siguen en rojo",
-      "Description": "La entidad perdió más de US$3000 millones en lo que va del año; la falta de acumulación de reservas pone en jaque la estabilidad financiera y complica el acceso al mercado internacional",
-      "Url": "https://www.lanacion.com.ar/economia/deuda-y-dolar-barato-las-razones-que-explican-por-que-las-reservas-del-banco-central-siguen-en-rojo-nid27032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=802",
-      "PublishedAt": "2025-03-27T14:43:00Z",
-      "Content": "En el primer año de gestión, el Gobierno logró estabilizar la economía gracias al fuerte ajuste fiscal, que permitió cortar con el financiamiento monetario del Banco Central (BCRA) e impulsó la baja … [+6994 chars]"
     }
   ]
 }
