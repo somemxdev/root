@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250303-sonic-film-3-knuckles-character-ac-523p-fe4894.jpg",
       "PublishedAt": "2025-03-03T22:25:43Z",
       "Content": "Sonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\nA less-than-three-minute trailer released early that year to tea… [+7422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "24,041 Americans Affected As Billion-Dollar Bank Suffers Data Breach",
-      "Description": "A billion-dollar bank says sensitive data belonging to thousands of customers is at risk of exposure following a major data breach. In a new filing with the Office of the Maine Attorney General, the Massachusetts-based lender Reading Cooperative Bank (RCB) sa…",
-      "Url": "https://dailyhodl.com/2025/03/02/24041-americans-affected-as-billion-dollar-bank-suffers-data-breach/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-breach-dollars.jpg",
-      "PublishedAt": "2025-03-02T14:30:33Z",
-      "Content": "A billion-dollar bank says sensitive data belonging to thousands of customers is at risk of exposure following a major data breach.\r\nIn a new filing with the Office of the Maine Attorney General, the… [+1360 chars]"
     }
   ]
 }
