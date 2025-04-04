@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso aumenta sus ganancias! Precio del dólar hoy 3 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene buena racha e hila tres sesiones de ganancias, con lo que el precio del dólar hoy 3 de abril de 2025 arranca en 19.89 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-3-abril-2025-tipo-cambio-bancos-mexico/1708693",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/03/3284936.jpg",
+      "PublishedAt": "2025-04-03T15:00:12Z",
+      "Content": "El peso mexicano mantiene buena racha e hila tres sesiones de ganancias, con lo que el precio del dólar hoy 3 de abril de 2025 arranca en 19.89 unidades por cada billete verde; conoce aquí cuál es el… [+1845 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cotización de dólar a peso mexicano: el impacto de los aranceles de Trump en la moneda este jueves 3 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/cotizacion-de-dolar-a-peso-mexicano-el-impacto-de-los-aranceles-de-trump-en-la-moneda-este-jueves-3-nid03042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-03T14:31:31Z",
+      "Content": "Este jueves 3 de abril de 2025, el precio del dólar en México es de $20,4568, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve impactado por el anuncio d… [+2463 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana tras anuncio de Trump sobre aranceles; opera por debajo de 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso gana tras anuncio de Trump sobre aranceles; opera por debajo de 20 unidades por dólar\n\nEl peso cotizaba en 19.8995 por dólar, con una ganancia de un 1.5% frente a las 20.2020 unidades del precio de referencia de LSEG del miércoles. En las…",
+      "Url": "https://forbes.com.mx/peso-gana-tras-anuncio-de-trump-sobre-aranceles-opera-por-debajo-de-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
+      "PublishedAt": "2025-04-03T14:19:39Z",
+      "Content": "El peso se apreciaba el jueves por tercera jornada consecutiva después de que el presidente de Estados Unidos, Donald Trump, dejó fuera a Canadá y México de sus nuevas tasas arancelarias globales.\r\nE… [+3549 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-BN3ZPC7H4VCXNDSHDAQ75DO4PA.JPG?auth=3638a1367cb27189ed113d2a6a7ddaedeaf1c38c0fbdfa9d2976207d3db195ba&width=1200&quality=70&smart=false&height=802",
       "PublishedAt": "2025-03-27T14:43:00Z",
       "Content": "En el primer año de gestión, el Gobierno logró estabilizar la economía gracias al fuerte ajuste fiscal, que permitió cortar con el financiamiento monetario del Banco Central (BCRA) e impulsó la baja … [+6994 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Aranceles a autos impactan al peso! Precio del dólar hoy 27 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano amplía sus pérdidas en la jornada de este jueves ante los aranceles a automóviles, con lo que el precio del dólar hoy 27 de marzo de 2025 arranca en 20.31 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-27-marzo-2025-tipo-cambio-bancos-mexico/1707356",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/27/3280949.jpg",
-      "PublishedAt": "2025-03-27T14:37:06Z",
-      "Content": "El peso mexicano amplía sus pérdidas en la jornada de este jueves ante los aranceles a automóviles, con lo que el precio del dólar hoy 27 de marzo de 2025 arranca en 20.31 unidades por cada billete v… [+1385 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Javier Chávez M",
-      "Title": "Precio del dólar HOY jueves 27 de marzo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY jueves 27 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con un aumento del 0.35 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ante un fortalecimiento generalizado…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-marzo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2025-03-27T11:56:00Z",
-      "Content": "El dólar HOY jueves 27 de marzo inicia operaciones con el tipo de cambio interbancario en 20.17 pesos mexicanos por billete verde, con un aumento del 0.35 por ciento, según datos de Bloomberg. \r\nEl p… [+789 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 26 de marzo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-26-de-marzo-nid26032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-26-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-26T15:17:05Z",
-      "Content": "Este miércoles 26 de marzo de 2025, el precio del dólar en México es de $20,0762, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve afectadopor el avance … [+2256 chars]"
     }
   ]
 }
