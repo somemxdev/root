@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Deutsche Bank says risk of a dollar confidence crisis",
+      "Description": "LONDON : Deutsche Bank warned on Thursday of the risk of a crisis of confidence in the U.S. dollar, saying major shifts in capital flow allocations could take over from currency fundamentals and currency moves become disorderly. The dollar, the world's No.1 r…",
+      "Url": "https://www.channelnewsasia.com/business/deutsche-bank-says-risk-dollar-confidence-crisis-5042301",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--F_gMB-av--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-04-03t100707z_1_lynxnpel320h2_rtroptp_3_usa-trump-migration-colombia.jpg?itok=hdnWPwt2",
+      "PublishedAt": "2025-04-03T10:07:07Z",
+      "Content": "LONDON : Deutsche Bank warned on Thursday of the risk of a crisis of confidence in the U.S. dollar, saying major shifts in capital flow allocations could take over from currency fundamentals and curr… [+945 chars]"
+    },
     {
       "Source": {
         "Id": null,
