@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Major global bank warns of potential dollar crisis",
+      "Description": "Deutsche Bank has raised concerns over a possible erosion of trust in the US dollar amid worsening trade tensions Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/615201-dollar-confidence-down-tariffs/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2025.04/article/67eeb25a20302725240576bb.jpg",
+      "PublishedAt": "2025-04-03T17:18:24Z",
+      "Content": "Deutsche Bank has issued a warning that a deepening crisis of confidence in the US dollar may be unfolding. This follows US President Donald Trump’s announcement of sweeping new tariffs, which have r… [+2016 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2025-03-04T07:26:46Z",
       "Content": "Deutsche Bank Aktiengesellschaft reissued their hold rating on shares of Dollar General (NYSE:DG – Free Report) in a report released on Monday morning, MarketBeat Ratings reports. They currently have… [+5774 chars]"
-    },
-    {
-      "Source": {
-        "Id": "nbc-news",
-        "Name": "NBC News"
-      },
-      "Author": "Sarah Whitten, CNBC",
-      "Title": "How a $5 million fix turned Paramount Pictures' 'Sonic' into a billion-dollar franchise",
-      "Description": "Sonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.",
-      "Url": "https://www.nbcnews.com/business/business-news/5-million-fix-turned-paramount-pictures-sonic-billion-dollar-franchise-rcna194602",
-      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250303-sonic-film-3-knuckles-character-ac-523p-fe4894.jpg",
-      "PublishedAt": "2025-03-03T22:25:43Z",
-      "Content": "Sonic the Hedgehog may be able to run faster than the speed of light, but his film franchise nearly came to a screaming halt in 2019.\r\nA less-than-three-minute trailer released early that year to tea… [+7422 chars]"
     }
   ]
 }
