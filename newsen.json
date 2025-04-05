@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://images.wsj.net/im-06698388/social",
       "PublishedAt": "2025-03-04T16:30:02Z",
       "Content": "The relative resilience of Canada and Mexico's currencies for now means much of the cost of 25% tariffs likely will get passed on to U.S. buyers.\r\nAnalysts broadly have expected the currencies would … [+317 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "IIFL Finance to reissue 2028 dollar bonds: Report",
-      "Description": "India's IIFL Finance plans to raise up to $150 million by reissuing its 8.75% 2028 dollar-denominated bonds, two sources aware of the matter said on Tuesday.",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/iifl-finance-to-reissue-2028-dollar-bonds-report/articleshow/118703506.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-118703668,width-1200,height-630,imgsize-10306,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-03-04T07:53:22Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
     }
   ]
 }
