@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 4 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 4 de abril inicia operaciones con el tipo de cambio interbancario en 20.34 pesos mexicanos por billete verde, con una ganancia del 2.03 por ciento, según datos de Bloomberg. El peso mexicano subía con fuerza apuntando a su tercera jornada de ganan…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
+      "PublishedAt": "2025-04-04T12:02:00Z",
+      "Content": "El dólar HOY 4 de abril inicia operaciones con el tipo de cambio interbancario en 20.34 pesos mexicanos por billete verde, con una ganancia del 2.03 por ciento, según datos de Bloomberg. \r\nEl peso me… [+753 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-27T17:03:23Z",
       "Content": "Este jueves 27 de marzo de 2025, el precio del dólar en México es de $20,0693, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve afectado por … [+2341 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso ‘derrapa’ ante el dólar por aranceles a autos y previo a Banxico: ¿Cómo está el tipo de cambio HOY?",
-      "Description": "En el ámbito local, el peso estará atento a la decisión de política del Banco de México. Se prevé que la Junta de Gobierno recorte la tasa en 50 puntos y que también mencione los impactos de los aranceles de Donald Trump.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UB2HFT2NMNCHPIGTOOLSJJILPA.jpg?smart=true&auth=d16915080143aaf184635b97bcffaa777564370c1b304d1c78bce3bc2986c07f&width=1200&height=630",
-      "PublishedAt": "2025-03-27T16:09:13Z",
-      "Content": "El peso mexicano derrapa tras los aranceles de Donald Trump a los autos y aumenta sus pérdidas ante el dólar, mientras en el ámbito local, el mercado está a la espera de la decisión de política monet… [+2235 chars]"
     }
   ]
 }
