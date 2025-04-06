@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 5 de abril de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de abril el tipo de cambio interbancario, se ubica en 20.44 pesos por unidad, con una ganancia del 2.53 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/04/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-04-05T13:44:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de abril el tipo de cambio interbancario, se ubica en 20.44 pesos por unidad, con una ganancia del 2.53 por ciento… [+2549 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-28-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-03-28T15:26:36Z",
       "Content": "Este viernes 28 de marzo de 2025, el precio del dólar en México es de $20,3182, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado po… [+2353 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con racha de pérdidas! Precio del dólar hoy 28 de marzo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por cuarta jornada consecutiva, con lo que el precio del dólar hoy 28 de marzo de 2025 arranca en 20.35 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexica…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-28-marzo-2025-tipo-cambio-bancos-mexico/1707561",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/03/28/3281626.jpg",
-      "PublishedAt": "2025-03-28T14:41:24Z",
-      "Content": "El peso mexicano retrocede por cuarta jornada consecutiva, con lo que el precio del dólar hoy 28 de marzo de 2025 arranca en 20.35 unidades por cada billete verde; conoce aquí cuál es el tipo de camb… [+1074 chars]"
     }
   ]
 }
