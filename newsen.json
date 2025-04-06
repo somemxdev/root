@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "JPMorgan Chase, Deutsche Bank Issue US Dollar Warning As Gold Soars To New All-Time Highs",
+      "Description": "Banking giants JPMorgan Chase and Deutsche Bank are analyzing the dollar’s ability to maintain its global dominance. In a new survey conducted by Reuters involving 69 foreign exchange strategists, about 33% of participants expressed reservations about the dol…",
+      "Url": "https://dailyhodl.com/2025/04/05/jpmorgan-chase-deutsche-bank-issue-us-dollar-warning-as-gold-soars-to-new-all-time-highs/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/04/dollar-bank-warnings.jpg",
+      "PublishedAt": "2025-04-05T13:00:19Z",
+      "Content": "Banking giants JPMorgan Chase and Deutsche Bank are analyzing the dollar’s ability to maintain its global dominance.\r\nIn a new survey conducted by Reuters involving 69 foreign exchange strategists, a… [+2081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://techreport.com/wp-content/uploads/2025/03/24k-customers-at-risk-after-billion-dollar-bank-hit-by-cyberattack-e1741186607678.jpg?_t=1741186634",
       "PublishedAt": "2025-03-05T14:56:51Z",
       "Content": "Key Takeaways\r\n<ul><li>The Reading Cooperative Bank (RCB) was recently hit by a phishing attack that exposed the personal data of more than 24,041 customers.</li><li>The attack happened somewhere bet… [+3177 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-wall-street-journal",
-        "Name": "The Wall Street Journal"
-      },
-      "Author": "Vipal Monga",
-      "Title": "Resilience of Mexican Peso, Canadian Dollar Point to Higher Prices for U.S. Consumers",
-      "Description": "The relative resilience of Canada and Mexico's currencies for now means much of the cost of 25% tariffs likely will get passed on to U.S. buyers.Analysts broadly have expected the currencies would fall more, making Mexican and Canadian goods cheaper to buy an…",
-      "Url": "https://www.wsj.com/livecoverage/trump-tariffs-canada-mexico-china-stock-market-today-03-04-2025/card/strength-of-canadian-and-mexican-currencies-points-to-higher-prices-for-u-s-consumers-gyhwykjEDdE8txF4PDKE",
-      "UrlToImage": "https://images.wsj.net/im-06698388/social",
-      "PublishedAt": "2025-03-04T16:30:02Z",
-      "Content": "The relative resilience of Canada and Mexico's currencies for now means much of the cost of 25% tariffs likely will get passed on to U.S. buyers.\r\nAnalysts broadly have expected the currencies would … [+317 chars]"
     }
   ]
 }
