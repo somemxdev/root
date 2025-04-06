@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Intercept"
+      },
+      "Author": "Akela Lacy",
+      "Title": "Small-Dollar Donors Are Asking John Fetterman for Their Money Back",
+      "Description": "Amid a wellspring of discontent over the Pennsylvania senator’s coziness with Israel and Republicans, people are demanding campaign donation refunds.\nThe post Small-Dollar Donors Are Asking John Fetterman for Their Money Back appeared first on The Intercept.",
+      "Url": "https://theintercept.com/2025/04/05/john-fetterman-israel-campaign-donation-refunds/",
+      "UrlToImage": "https://theintercept.com/wp-content/uploads/2025/04/AP24206648374336-e1743783130364.jpg?fit=4983%2C2492&w=1200&h=800",
+      "PublishedAt": "2025-04-05T09:00:00Z",
+      "Content": "Close to 100 people have requested their money back from the campaign of Sen. John Fetterman, D-Pa. \r\nRefund requests can be routine part of campaigns, either because donors decide for some reason th… [+7779 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
