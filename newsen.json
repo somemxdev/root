@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Naturalnews.com"
+      },
+      "Author": "Willow Tohi",
+      "Title": "Deutsche Bank warns of potential dollar confidence crisis amid trade tensions",
+      "Description": "Deutsche Bank AG has issued a warning about a potential crisis of confidence in the U.S. dollar, driven by escalating global trade tensions and President Trump’s new tariffs, which have led to significant market volatility and a sharp decline in the dollar’s …",
+      "Url": "https://www.naturalnews.com/2025-04-07-deutsche-bank-warns-of-potential-dollar-confidence-crisis.html",
+      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Inflation-dollar-hyperinflation-3.jpeg",
+      "PublishedAt": "2025-04-07T06:00:00Z",
+      "Content": "<ul><li>Deutsche Bank AG has issued a warning about a potential crisis of confidence in the U.S. dollar, driven by escalating global trade tensions and President Trump's new tariffs, which have led t… [+5376 chars]"
+    },
     {
       "Source": {
         "Id": null,
