@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 7 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 7 de abril inicia operaciones con el tipo de cambio interbancario en 20.64 pesos mexicanos por billete verde, con una ligera baja del 0.97 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba luego de tres sesiones de ganancias que…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-04-07T11:05:00Z",
+      "Content": "El dólar HOY 7 de abril inicia operaciones con el tipo de cambio interbancario en 20.64 pesos mexicanos por billete verde, con una ligera baja del 0.97 por ciento, según datos de Bloomberg. \r\nEl peso… [+860 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tim-draper-el-dolar-quedara-obsoleto-se-I5M3CV6J2BH2JB46MYRTAPGJI4.jpg?auth=988a2350658c1932a563219203bef550e4d1e52e93e28864273600580892acae&width=1200&height=800&quality=70&smart=false&focal=980%2C350",
       "PublishedAt": "2025-03-28T17:27:50Z",
       "Content": "El bitcoin y el ecosistema emprendedor argentino son dos de los temas que más apasionan a Tim Draper. Para el inversor estrella de Silicon Valley, más temprano que tarde, la moneda digital terminará … [+11864 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se enfila a semana en rojo ante el dólar: ¿En cuánto está el tipo de cambio HOY?",
-      "Description": "Donald Trump revelará el próximo miércoles 2 de abril una serie de aranceles recíprocos a varios países del mundo... y el Gobierno de Claudia Sheinbaum espera que no sea afectado con esas nuevas tarifas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/03/28/peso-dolar-precio-hoy-28-de-marzo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PXJFXCQZPVH4RMKSBF43QO3WME.jpg?smart=true&auth=934c305a28839385b02324c14ebc4c88d44afc92a0545e25965433bc537733be&width=1200&height=630",
-      "PublishedAt": "2025-03-28T15:55:20Z",
-      "Content": "El peso mexicano se encamina a perder la semana frente al dólar debido a que los aranceles de Donald Trump de 25 por ciento a los autos mantienen alta la incertidumbre en los mercados. \r\nLa depreciac… [+1512 chars]"
     }
   ]
 }
