@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Rafael Mejía Fernández de Lara",
+      "Title": "Peso mexicano cotiza hasta en 20.70 unidades por dólar tras caída en bolsas asiáticas",
+      "Description": "Durante la jornada del domingo 6 de abril el peso mexicano se depreció en varias ocasiones frente al dólar hasta llegar a cotizar entre los20.70 y 20.67 por unidad, luego de que en la semana la moneda mexicana se apreciara tras quedar exento México de lista d…",
+      "Url": "https://www.milenio.com/negocios/peso-mexicano-cae-frente-al-dolar",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/04/depreciacion-del-peso-mexicano-cuartoscuro.jpg",
+      "PublishedAt": "2025-04-07T01:56:00Z",
+      "Content": "Durante la jornada del domingo 6 de abril el peso mexicano se depreció en varias ocasionesfrente al dólar hasta llegar a cotizar entre los 20.70 y 20.67 por unidad, luego de que en la semana la moned… [+3628 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -165,9 +178,9 @@
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con leve avance! Precio del dólar hoy 2 de abril de 2025",
+      "Title": "Precio dólar hoy a peso mexicano 22 abril 2025. Tipo cambio bancos México",
       "Description": "Jimena Campuzano\r\nEl peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-2-abril-2025-tipo-cambio-bancos-mexico/1708476",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-22-abril-2025-tipo-cambio-bancos-mexico/1708476",
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/02/3284278.jpg",
       "PublishedAt": "2025-04-02T14:19:40Z",
       "Content": "El peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál … [+1522 chars]"
@@ -178,9 +191,9 @@
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 22 abril 2025. Tipo cambio bancos México",
+      "Title": "¡Peso, con leve avance! Precio del dólar hoy 2 de abril de 2025",
       "Description": "Jimena Campuzano\r\nEl peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-22-abril-2025-tipo-cambio-bancos-mexico/1708476",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-2-abril-2025-tipo-cambio-bancos-mexico/1708476",
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/02/3284278.jpg",
       "PublishedAt": "2025-04-02T14:19:40Z",
       "Content": "El peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál … [+1522 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PXJFXCQZPVH4RMKSBF43QO3WME.jpg?smart=true&auth=934c305a28839385b02324c14ebc4c88d44afc92a0545e25965433bc537733be&width=1200&height=630",
       "PublishedAt": "2025-03-28T15:55:20Z",
       "Content": "El peso mexicano se encamina a perder la semana frente al dólar debido a que los aranceles de Donald Trump de 25 por ciento a los autos mantienen alta la incertidumbre en los mercados. \r\nLa depreciac… [+1512 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 28 de marzo de 2025",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-28-de-marzo-de-2025-nid28032025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-28-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-03-28T15:26:36Z",
-      "Content": "Este viernes 28 de marzo de 2025, el precio del dólar en México es de $20,3182, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano se ve impactado po… [+2353 chars]"
     }
   ]
 }
