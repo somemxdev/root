@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Jorge Calzada Zubiría",
+      "Title": "¿Un dólar débil (y un euro fuerte) como jugada final de Trump para impulsar la industria y el comercio estadounidenses?",
+      "Description": "Una caída en el valor de la divisa verde, abarata los productos estadounidenses que llegan a Europa, encarece las exportaciones europeas al exterior y desincentiva la llegada a España de turistas no europeos. Leer",
+      "Url": "https://www.elmundo.es/economia/2025/04/09/67f508df21efa093788b45c5.html",
+      "UrlToImage": "https://phantom-elmundo.uecdn.es/ffbd38c80183058b7ee16279a91aa5aa/f/webp/assets/multimedia/imagenes/2025/04/08/17441126894965.jpg",
+      "PublishedAt": "2025-04-08T22:01:56Z",
+      "Content": "Donald Trump nunca ha sido partidario de un dólar fuerte. Aunque la fortaleza de una moneda suele interpretarse como un signo de poder económico, pareciera que para Trump pudiera representa un obstác… [+6289 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/B34EYTSRUBEWRH5QXSA45Y25VY.jpg?smart=true&auth=3e4e72922f417a8228fa37927264a536ff11b05c44307aee6c70af1ca159e974&width=1200&height=630",
       "PublishedAt": "2025-04-01T16:29:33Z",
       "Content": "El peso mexicano gana al dólar tras cinco sesiones con pérdidas, a pesar del nerviosismo en el mercado por el anuncio de aranceles recíprocos que Donald Trump hará en el Día de Liberación.\r\nLa apreci… [+1550 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cotización del dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 1º de abril de 2025",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/cotizacion-del-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-1-de-abril-de-2025-nid01042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-01T14:09:43Z",
-      "Content": "Este martes 1º de abril de 2025, el precio del dólar en México es de $20,438, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve impactado po… [+2393 chars]"
     }
   ]
 }
