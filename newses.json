@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera y avanza! Precio del dólar hoy 8 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera luego de dos jornadas de pérdidas, con lo que el precio del dólar hoy 8 de abril de 2025 arranca en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa me…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-8-abril-2025-tipo-cambio-bancos-mexico/1709477",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/08/3287246.jpg",
+      "PublishedAt": "2025-04-08T14:42:26Z",
+      "Content": "El peso mexicano se recupera luego de dos jornadas de pérdidas, con lo que el precio del dólar hoy 8 de abril de 2025 arranca en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1678 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 8 de abril",
+      "Description": "Este martes 8 de abril de 2025, el precio del dólar en México es de $20,6947, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve beneficiado por la corrección de la moneda de Estados Unidos.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-8-de-abril-nid08042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-8-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-08T14:34:25Z",
+      "Content": "Este martes 8 de abril de 2025, el precio del dólar en México es de $20,6947, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve beneficiado … [+2469 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2025-04-01T12:10:00Z",
       "Content": "El dólar HOY 1 de abril inicia operaciones con el tipo de cambio interbancario en 20.51 pesos mexicanos por billete verde, con una ligera baja del 0.20 por ciento, según datos de Bloomberg. \r\nEl peso… [+794 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BeInCrypto"
-      },
-      "Author": "Landon Manning",
-      "Title": "CEO de BlackRock: “Bitcoin asumiría el papel del dólar como moneda de reserva mundial”",
-      "Description": "Larry Fink ve a las criptomonedas como una amenaza y una solución; su crecimiento podría poner en peligro al dólar, pero también revolucionar las finanzas tradicionales.\nEl post CEO de BlackRock: “Bitcoin asumiría el papel del dólar como moneda de reserva mun…",
-      "Url": "https://es.beincrypto.com/ceo-blackrock-bitcoin-moneda-reserva-mundial/",
-      "UrlToImage": "https://es.beincrypto.com/wp-content/uploads/2024/04/bic_larry_fink_blackrock-covers_neutral_2-1.png.webp",
-      "PublishedAt": "2025-03-31T21:31:25Z",
-      "Content": "Larry Fink, CEO de BlackRock, afirmó en una carta reciente que Bitcoin y las criptomonedas podrían dañar la posición internacional del dólar. Si los inversores tratan a Bitcoin como un refugio contra… [+3259 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Criptonoticias.com"
-      },
-      "Author": "Nickolas Plaza",
-      "Title": "El dólar como moneda de reserva se tambalea ¿Por qué?",
-      "Description": "La guerra arancelaria entre EE. UU. y más de 10 de países podría hacer perder al comercio global 1,3 billones de dólares.\nLeer más",
-      "Url": "https://www.criptonoticias.com/opinion/dolar-como-moneda-reserva-tambalea-por-que/",
-      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2025/03/dolar-moneda-reserva.jpg",
-      "PublishedAt": "2025-03-31T20:07:53Z",
-      "Content": "<ul><li>En un escenario de devaluación, bitcoin podría afianzarse como refugio.\r\n</li><li>Larry Fink, CEO de BlackRock, cree que el dólar puede perder su posición frente a bitcoin.\r\n</li></ul>\r\nEl si… [+8046 chars]"
     }
   ]
 }
