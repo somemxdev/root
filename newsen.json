@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Caralynn Matassa",
+      "Title": "I got an early look at Epic Universe, Universal's new multibillion-dollar Florida theme park. Disney is about to get a run for its money.",
+      "Description": "I previewed Epic Universe, the new multibillion-dollar theme park from Universal Orlando Resorts. It was well worth the investment for the company.",
+      "Url": "https://www.businessinsider.com/epic-universe-review-photos-food-theme-park-universal-orlando-2025-4",
+      "UrlToImage": "https://i.insider.com/67f443afc6ad288d147d7820?width=1200&format=jpeg",
+      "PublishedAt": "2025-04-08T19:24:04Z",
+      "Content": "Epic Universe was, well… epic.Caralynn Matassa/Business Insider\r\n<ul><li>I went to Epic Universe, the massive new Universal Orlando Resort theme park that opens in May.</li><li>The five \"worlds\" of t… [+10422 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2025-03-12T08:17:04Z",
       "Content": "M&amp;T Bank Corp grew its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 21.6% in the fourth quarter, Holdings Channel.com reports. The institutional investor owned 14,945 shares of the c… [+4252 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thechronicle.com.gh"
-      },
-      "Author": "admin",
-      "Title": "Naira defies Central Bank policies, continues slump against dollar",
-      "Description": "The naira defied the Central Bank of Nigeria’s policy interventions as it depreciated against the dollar at the official foreign exchange market to start the week. CBN data showed that the naira fell to N1,530.15 per dollar on Monday, from N1,517.24 last Frid…",
-      "Url": "https://thechronicle.com.gh/naira-defies-central-bank-policies-continues-slump-against-dollar/",
-      "UrlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/03/Naira-slumps-against-dollar.jpg",
-      "PublishedAt": "2025-03-12T02:19:46Z",
-      "Content": "The naira defied the Central Bank of Nigerias policy interventions as it depreciated against the dollar at the official foreign exchange market to start the week.CBN data showed that the naira fell t… [+460 chars]"
     }
   ]
 }
