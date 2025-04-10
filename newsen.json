@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Phandroid - News for Android"
+      },
+      "Author": "Mike Viray",
+      "Title": "The JBL Tune Buds are on Sale for Much Less than their Hundred-dollar Price",
+      "Description": "They come with active noise cancelling and lengthy battery life.\nThe post The JBL Tune Buds are on Sale for Much Less than their Hundred-dollar Price appeared first on Phandroid.",
+      "Url": "https://phandroid.com/2025/04/09/the-jbl-tune-buds-are-on-sale-for-much-less-than-their-hundred-dollar-price/",
+      "UrlToImage": "https://phandroid.com/wp-content/uploads/2025/04/jbl-tune-buds.png",
+      "PublishedAt": "2025-04-09T17:01:47Z",
+      "Content": "We’re at a point in time when most affordable wireless audio products need not compromise too much on specs and features to get you great sound at lower prices. Take for example the JBL Tune Buds, wh… [+617 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.insider.com/67d2e2b769253ccddf991de2?width=1200&format=jpeg",
       "PublishedAt": "2025-03-13T16:08:22Z",
       "Content": "Dollar General's core customers are in a worse financial position than last year, CEO Todd Vasos said Thursday.Courtesy of Dollar General\r\n<ul><li>Dollar General's customers were still struggling goi… [+3161 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "Dollar General CEO warns consumers 'only have enough money for basic essentials'",
-      "Description": "Tariffs and potential changes to government entitlement programs present potential further headwinds for core customers, said CEO Todd Vasos.",
-      "Url": "https://www.cnbc.com/2025/03/13/dollar-general-ceo-consumer-warning.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108027957-1725045340903-gettyimages-2169486653-dsc_0697_di1hjui3.jpeg?v=1741711511&w=1920&h=1080",
-      "PublishedAt": "2025-03-13T13:51:05Z",
-      "Content": "Dollar General CEO Todd Vasos said on Thursday that inflation continues to hurt the discounter's customers and that the macroeconomic environment won't improve this year.\r\nOn the company's fourth-qua… [+2120 chars]"
     }
   ]
 }
