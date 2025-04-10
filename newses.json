@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Sergio Fernández",
+      "Title": "El franco suizo pugna contra el dólar por el trono a la divisa refugio: la moneda alpina cotiza en máximos de 2015",
+      "Description": "Mientras los inversores dudan de que los bonos estadounidenses sean el mejor refugio frente al desplome bursátil, el dólar también pierde adeptos. El franco suizo se impone de nuevo como divisa de protección en tiempos de volatilidad e incertidumbre hasta el …",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13311408/04/25/el-franco-suizo-pugna-contra-el-dolar-por-el-trono-a-la-divisa-refugio-la-moneda-alpina-cotiza-en-maximos-de-2015.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/2119x1415/c/8/b/1200x655_dolarfrancosuizobolsarefugio.jpg",
+      "PublishedAt": "2025-04-09T15:25:14Z",
+      "Content": "Mientras los inversores dudan de que los bonos estadounidenses sean el mejor refugio frente al desplome bursátil, el dólar también pierde adeptos. El franco suizo se impone de nuevo como divisa de pr… [+3252 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/2QPNURQTEJECZLPTO7INBQRUWI.png?smart=true&auth=e46e90073449ab907ea8f57cc34896ec68a9760706d3510c580795f94dd0cbe6&width=1440",
       "PublishedAt": "2025-04-02T14:50:00Z",
       "Content": "Los precandidatos presidenciales del Partido Liberación Nacional (PLN) contestaron a La Nación cuáles son sus posturas sobre la caída en el precio del dólar y las medidas que implementarían.\r\nEn sus … [+4846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso, con leve avance! Precio del dólar hoy 2 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-2-abril-2025-tipo-cambio-bancos-mexico/1708476",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/02/3284278.jpg",
-      "PublishedAt": "2025-04-02T14:19:40Z",
-      "Content": "El peso mexicano registra un avance marginal en la jornada de este miércoles, con lo que el precio del dólar hoy 2 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál … [+1522 chars]"
     }
   ]
 }
