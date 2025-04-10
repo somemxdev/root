@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "China's central bank asks state lenders to reduce dollar purchases, sources say",
+      "Description": "Amidst escalating trade tensions with the U.S., China's central bank is actively managing the yuan's value. The People's Bank of China (PBOC) is discouraging sharp declines by instructing state-owned banks to curb U.S. dollar purchases. While the yuan has wea…",
+      "Url": "https://economictimes.indiatimes.com/news/international/business/chinas-central-bank-asks-state-lenders-to-reduce-dollar-purchases-sources-say/articleshow/120121473.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-120121493,width-1200,height-630,imgsize-61570,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2025-04-09T08:07:16Z",
+      "Content": "China's central bank will not allow sharp yuan declines and has asked major state-owned banks to reduce U.S. dollar purchases, people with direct knowledge of the matter said on Wednesday.The directi… [+1916 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/0313-mg-loonie.jpg",
       "PublishedAt": "2025-03-12T20:40:41Z",
       "Content": "There are voices in the investor community who think tariffs will win out over inflation, making more rate cuts likely\r\nSome economists have cautioned that the loonie, weakened by lower rates, will a… [+6612 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Roomy Khan, Contributor, \n Roomy Khan, Contributor\n https://www.forbes.com/sites/roomykhan/",
-      "Title": "Trillion-Dollar Fusion: AI And Crypto Rewiring Finance",
-      "Description": "Before the world wakes, artificial intelligence (AI) driven systems are already scanning markets, seizing opportunities, and securing profits.",
-      "Url": "https://www.forbes.com/sites/roomykhan/2025/03/12/trillion-dollar-fusion-ai-and-crypto-rewiring-finance/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d1946d92916bbe4d6d3bb6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2025-03-12T14:11:03Z",
-      "Content": "human hand taking bitcoin from robotic hand\r\ngetty\r\nYour money never sleeps. Before the world wakes, artificial intelligence (AI) driven systems are already scanning markets, seizing opportunities, a… [+10786 chars]"
     }
   ]
 }
