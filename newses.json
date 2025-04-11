@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 10 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 9 de abril inicia operaciones con el tipo de cambio interbancario en 20.43 pesos mexicanos por billete verde, con una ligera ganancia del 0.94 por ciento, según datos de Bloomberg. El peso mexicanosubía después de que el presidente de Estados Unid…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-04-10T11:08:50Z",
+      "Content": "El dólar HOY 9 de abril inicia operaciones con el tipo de cambio interbancario en 20.43 pesos mexicanos por billete verde, con una ligera ganancia del 0.94 por ciento, según datos de Bloomberg. \r\nEl … [+788 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/RP7C24TYSFGFBEJZMAZHAL6ZMU.jpg?smart=true&auth=80b71e43018069a56045da6d272aa5a6a180a32b859a675c7dd2266083b5d31f&width=1440",
       "PublishedAt": "2025-04-02T22:41:27Z",
       "Content": "Washington. El dólar estadounidense cayó el miércoles 1% con respecto al euro tras el anuncio del presidente Donald Trump de que firmará un decreto para imponer aranceles recíprocos a sus socios come… [+1437 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Lucía Astorga",
-      "Title": "Precio del dólar: conozca qué harían los precandidatos del PLN con el tipo de cambio",
-      "Description": "Los precandidatos presidenciales del Partido Liberación Nacional (PLN) contestaron a La Nación cuáles son sus posturas sobre la caída en el precio del dólar y las medidas que implementarían.",
-      "Url": "https://www.nacion.com/politica/precio-del-dolar-conozca-que-harian-los/XXYJAMYCXFDM3L3CHPTKX3ULAU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/2QPNURQTEJECZLPTO7INBQRUWI.png?smart=true&auth=e46e90073449ab907ea8f57cc34896ec68a9760706d3510c580795f94dd0cbe6&width=1440",
-      "PublishedAt": "2025-04-02T14:50:00Z",
-      "Content": "Los precandidatos presidenciales del Partido Liberación Nacional (PLN) contestaron a La Nación cuáles son sus posturas sobre la caída en el precio del dólar y las medidas que implementarían.\r\nEn sus … [+4846 chars]"
     }
   ]
 }
