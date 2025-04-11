@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se repliega tras alcanzar mayor ganancia diaria! Precio del dólar hoy 10 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 10 de abril de 2025 arranca en 20.45 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-abril-2025-tipo-cambio-bancos-mexico/1709945",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/10/3288738.jpg",
+      "PublishedAt": "2025-04-10T13:58:47Z",
+      "Content": "El peso mexicano retrocede en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 10 de abril de 2025 arranca en 20.45 unidades por cada billete verde; conoce aquí cuál es el… [+1843 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
       "PublishedAt": "2025-04-03T09:59:12Z",
       "Content": "Los inversores han rechazan refugiarse en la divisa estadounidense después de que el presidente Donald Trump anunciara la imposición de aranceles, lo que ha provocado caídas en el dólar en su cruce c… [+4048 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "AFP",
-      "Title": "Dólar cae 1% respecto al euro tras anuncio arancelario de Trump",
-      "Description": "Especialistas temen que las sobretasas aduaneras conlleven una desaceleración de la economía estadounidense",
-      "Url": "https://www.nacion.com/economia/dolar-cae-1-respecto-al-euro-tras-anuncio/YQXGRUDTWZDWTKCAURTWK5SPV4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/RP7C24TYSFGFBEJZMAZHAL6ZMU.jpg?smart=true&auth=80b71e43018069a56045da6d272aa5a6a180a32b859a675c7dd2266083b5d31f&width=1440",
-      "PublishedAt": "2025-04-02T22:41:27Z",
-      "Content": "Washington. El dólar estadounidense cayó el miércoles 1% con respecto al euro tras el anuncio del presidente Donald Trump de que firmará un decreto para imponer aranceles recíprocos a sus socios come… [+1437 chars]"
     }
   ]
 }
