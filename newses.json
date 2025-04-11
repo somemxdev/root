@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Volaron los futuros de dólar a corto plazo y el Banco Central siguió vendiendo reservas",
+      "Description": "Aumentaron hasta 5,8% ($65) en el día, ratificando que una parte del mercado espera el fin del crawling peg al 1% mensual",
+      "Url": "https://www.lanacion.com.ar/economia/volaron-los-futuros-de-dolar-a-corto-plazo-y-el-bcra-siguio-vendiendo-reservas-nid10042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-DXDAUQSGSNB6NDQZ7DTAHX67KI.JPG?auth=ea04eda5f51559cc6c7234a2a98eb4582b0958883841c9b4c5b08b9dd7800739&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-10T19:59:43Z",
+      "Content": "Los precios del dólar convalidados en el mercado local de futuros para fines de abril y mayo se dispararon hoy, en la antesala de que se conozcan los términos y alcances del acuerdo que el Gobierno s… [+3464 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
       "PublishedAt": "2025-04-03T14:19:39Z",
       "Content": "El peso se apreciaba el jueves por tercera jornada consecutiva después de que el presidente de Estados Unidos, Donald Trump, dejó fuera a Canadá y México de sus nuevas tasas arancelarias globales.\r\nE… [+3549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 3 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 3 de abril inicia operaciones con el tipo de cambio interbancario en 20.07 pesos mexicanos por billete verde, con una ligera baja del 0.60 por ciento, según datos de Bloomberg. Tras una breve ganancia, ayer el peso mexicano retrocedió ante el dóla…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2025-04-03T11:59:00Z",
-      "Content": "El dólar HOY 3 de abril inicia operaciones con el tipo de cambio interbancario en 20.07 pesos mexicanos por billete verde, con una ligera baja del 0.60 por ciento, según datos de Bloomberg. \r\nTras un… [+788 chars]"
     }
   ]
 }
