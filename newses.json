@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 10 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-10-de-abril-nid10042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-10-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-10T15:02:39Z",
+      "Content": "Este jueves 10 de abril de 2025, el precio del dólar en México es de $20,7653, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve impactado p… [+2210 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2025-04-03T11:59:00Z",
       "Content": "El dólar HOY 3 de abril inicia operaciones con el tipo de cambio interbancario en 20.07 pesos mexicanos por billete verde, con una ligera baja del 0.60 por ciento, según datos de Bloomberg. \r\nTras un… [+788 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
-      "Title": "Los aranceles presionan a la baja al dólar y pierde brillo frente al euro, que supera los 1,10",
-      "Description": "Los inversores han rechazan refugiarse en la divisa estadounidense después de que el presidente Donald Trump anunciara la imposición de aranceles, lo que ha provocado caídas en el dólar en su cruce contra el euro, que, por su parte, ha superado el umbral de l…",
-      "Url": "https://www.bolsamania.com/noticias/divisas/aranceles-presionan-baja-dolar-pierde-brillo-euro-supera-110--19277006.html",
-      "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
-      "PublishedAt": "2025-04-03T09:59:12Z",
-      "Content": "Los inversores han rechazan refugiarse en la divisa estadounidense después de que el presidente Donald Trump anunciara la imposición de aranceles, lo que ha provocado caídas en el dólar en su cruce c… [+4048 chars]"
     }
   ]
 }
