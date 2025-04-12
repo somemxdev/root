@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 11 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 11 de abril inicia operaciones con el tipo de cambio interbancario en 20.42 pesos mexicanos por billete verde, con una ligera baja del 0.25 por ciento, según datos de Bloomberg. El peso mexicano arrancó la jornada ayer con un retroceso después de…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2025-04-11T11:05:00Z",
+      "Content": "El dólar HOY 11 de abril inicia operaciones con el tipo de cambio interbancario en 20.42 pesos mexicanos por billete verde, con una ligera baja del 0.25 por ciento, según datos de Bloomberg. \r\nEl pes… [+857 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/03/3284936.jpg",
       "PublishedAt": "2025-04-03T15:00:12Z",
       "Content": "El peso mexicano mantiene buena racha e hila tres sesiones de ganancias, con lo que el precio del dólar hoy 3 de abril de 2025 arranca en 19.89 unidades por cada billete verde; conoce aquí cuál es el… [+1845 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cotización de dólar a peso mexicano: el impacto de los aranceles de Trump en la moneda este jueves 3 de abril",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/cotizacion-de-dolar-a-peso-mexicano-el-impacto-de-los-aranceles-de-trump-en-la-moneda-este-jueves-3-nid03042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-03T14:31:31Z",
-      "Content": "Este jueves 3 de abril de 2025, el precio del dólar en México es de $20,4568, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve impactado por el anuncio d… [+2463 chars]"
     }
   ]
 }

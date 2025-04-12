@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+      "Title": "‘Confidence Crisis’—U.S. Dollar Price ‘Collapse’ Predicted To Ignite Bitcoin As Traders ‘Sell America’",
+      "Description": "The bitcoin price is braced for a dollar \"confidence crisis\" as the ICE U.S. dollar index plummets to its worst day since 2022...",
+      "Url": "https://www.forbes.com/sites/digital-assets/2025/04/11/confidence-crisis-us-dollar-price-collapse-predicted-to-ignite-bitcoin-as-traders-sell-america/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f8f3252a6cae69bd227afe/0x0.jpg?format=jpg&crop=1072,649,x68,y2,safe&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2025-04-11T11:25:26Z",
+      "Content": "Bitcoin has swung wildly over the last week as traders ride U.S. president Donald Trumps tariff rollercoaster (with Michael Saylors Strategy issuing a shock warning).\r\nFront-run Donald Trump, the Whi… [+3501 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -63,7 +76,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -76,7 +89,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2025-03-17T05:56:45Z",
       "Content": "Dollar General (NYSE:DG – Free Report) had its target price decreased by Bank of America from $95.00 to $90.00 in a report published on Friday,Benzinga reports. Bank of America currently has a buy ra… [+5095 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Gigi Suhanic",
-      "Title": "Posthaste: Canadian dollar slides, Mexican peso glides as ‘Canada more exposed to tariff extortion’",
-      "Description": "Canadian dollar is being hit harder than the Mexican peso even though both two countries are in Donald Trump's tariff crosshairs. Read on",
-      "Url": "https://financialpost.com/news/canadian-dollar-hit-harder-than-mexican-peso-tariff-war",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/canadian-dollar-peso-gs0313.jpg",
-      "PublishedAt": "2025-03-14T12:00:16Z",
-      "Content": "Mexico's currency has had an easier ride since Donald Trump's ascendance\r\nA Canadian dollar coin and a Mexican peso coin face off.Photo by Peter J. Thompson, Susana Gonzalez /Financial Post, Bloomber… [+10108 chars]"
     }
   ]
 }
