@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Toma peso respiro; baja dólar a $20.30",
+      "Description": "En el mercado internacional, el tipo de cotizaba en $20.30 por dólar, con una ganancia de un 0.66% para la moneda mexicana.",
+      "Url": "https://www.reforma.com/toma-peso-respiro-baja-dolar-a-20-30/ar2986134",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-04-11T14:36:32Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (11 abril 2025) .-08:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cae peso; cierra dólar a $20.32",
+      "Description": "El dólar cerró este viernes con una cotización de $20.32, cifra 0.07 centavos superior al cierre de 20.25 pesos del jueves.",
+      "Url": "https://www.reforma.com/cae-peso-cierra-dolar-a-20-32/ar2986134",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-04-11T14:36:32Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (11 abril 2025) .-08:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Guerra’ de aranceles entre Trump y China ‘pega’ al dólar: ¿Cuánto se aprecia el peso HOY?",
+      "Description": "La 'guerra' arancelaria entre Donald Trump y China escribió un 'nuevo capítulo' después de que Beijing anunció que los aranceles a EU subirán a 125% a partir del sábado 12 de abril. ¿Cómo reaccionó el peso a la noticia?",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/11/peso-dolar-precio-hoy-11-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/S3XCC6NFXFEELHDHH4V5GO2EBE.jpg?smart=true&auth=47ae4a0d8be8a9a5697524148b81b5544ebe4c61f4847b0b727f0056a917df00&width=1200&height=630",
+      "PublishedAt": "2025-04-11T14:32:30Z",
+      "Content": "El valor del dólar se hunde este viernes 11 de abril después de que China subió la apuesta y subió los aranceles a EU a 125 por ciento en medio de su guerra comercial con Donald Trump, una situación … [+2315 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy a peso mexicano 11 abril 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera tras la jornada de pérdidas, con lo que el precio del dólar hoy 11 de abril de 2025 arranca en 20.30 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexican…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-11-abril-2025-tipo-cambio-bancos-mexico/1710190",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/11/3289445.jpg",
+      "PublishedAt": "2025-04-11T14:28:35Z",
+      "Content": "El peso mexicano se recupera tras la jornada de pérdidas, con lo que el precio del dólar hoy 11 de abril de 2025 arranca en 20.30 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi… [+1202 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 11 de abril de 2025",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-11-de-abril-de-2025-nid11042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-11T14:16:57Z",
+      "Content": "Este viernes 11 de abril de 2025, el precio del dólar en México es de $20,492, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano es impactado por la… [+2286 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/04/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-04-05T13:44:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de abril el tipo de cambio interbancario, se ubica en 20.44 pesos por unidad, con una ganancia del 2.53 por ciento… [+2549 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 4 de abril de 2025",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-4-de-abril-de-2025-nid04042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-este-4-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-04T14:38:36Z",
-      "Content": "Este viernes 4 de abril de 2025, el precio del dólar en México es de $19,9708, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano es afectado por el … [+2250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡China hace caer al peso! Precio del dólar hoy 4 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este viernes, con lo que el precio del dólar hoy 4 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-4-abril-2025-tipo-cambio-bancos-mexico/1708901",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/04/3285579.jpg",
-      "PublishedAt": "2025-04-04T14:08:13Z",
-      "Content": "El peso mexicano retrocede en la jornada de este viernes, con lo que el precio del dólar hoy 4 de abril de 2025 arranca en 20.34 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio… [+1497 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 4 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 4 de abril inicia operaciones con el tipo de cambio interbancario en 20.34 pesos mexicanos por billete verde, con una ganancia del 2.03 por ciento, según datos de Bloomberg. El peso mexicano subía con fuerza apuntando a su tercera jornada de ganan…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-3.jpg",
-      "PublishedAt": "2025-04-04T12:02:00Z",
-      "Content": "El dólar HOY 4 de abril inicia operaciones con el tipo de cambio interbancario en 20.34 pesos mexicanos por billete verde, con una ganancia del 2.03 por ciento, según datos de Bloomberg. \r\nEl peso me… [+753 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central volvió a vender reservas, pero sólo US$10 millones",
-      "Description": "La incertidumbre instalada local e internacionalmente hizo más cautos a los vendedores, pero también a los compradores",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-volvio-a-vender-reservas-pero-solo-us10-millones-nid03042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-pero-poco-al-ralearse-en-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-03T20:42:11Z",
-      "Content": "La combinación de incertidumbre local e inestabilidad global redujo hoy a un mínimo las operaciones en la plaza cambiaria oficial: se pactaron transcaciones por apenas US$186 millones, el monto más b… [+3015 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso aumenta sus ganancias! Precio del dólar hoy 3 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene buena racha e hila tres sesiones de ganancias, con lo que el precio del dólar hoy 3 de abril de 2025 arranca en 19.89 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-3-abril-2025-tipo-cambio-bancos-mexico/1708693",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/03/3284936.jpg",
-      "PublishedAt": "2025-04-03T15:00:12Z",
-      "Content": "El peso mexicano mantiene buena racha e hila tres sesiones de ganancias, con lo que el precio del dólar hoy 3 de abril de 2025 arranca en 19.89 unidades por cada billete verde; conoce aquí cuál es el… [+1845 chars]"
     }
   ]
 }
