@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Vicente Nieves, Álvaro Moreno",
+      "Title": "La crisis del dólar desata una revolución en el mercado de divisas que convierte al euro en activo refugio por sorpresa",
+      "Description": "El dólar está cayendo con una intensidad inusitada. En la jornada de este viernes ya se deja más de un 1% frente al euro y toca mínimos no vistos desde principios de 2022. El que fuera activo refugio durante las grandes turbulencias parece haberse convertido …",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13314437/04/25/la-crisis-del-dolar-desata-una-revolucion-en-el-mercado-de-divisas-que-convierte-al-euro-en-activo-refugio-por-sorpresa.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/3467x1892/f/5/1/1200x655_dreamstime_xl_19645783.jpg",
+      "PublishedAt": "2025-04-11T08:32:26Z",
+      "Content": "El dólar está cayendo con una intensidad inusitada. En la jornada de este viernes ya se deja más de un 1% frente al euro y toca mínimos no vistos desde principios de 2022. El que fuera activo refugio… [+7563 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-03T14:31:31Z",
       "Content": "Este jueves 3 de abril de 2025, el precio del dólar en México es de $20,4568, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano se ve impactado por el anuncio d… [+2463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana tras anuncio de Trump sobre aranceles; opera por debajo de 20 unidades por dólar",
-      "Description": "Forbes México.\n Peso gana tras anuncio de Trump sobre aranceles; opera por debajo de 20 unidades por dólar\n\nEl peso cotizaba en 19.8995 por dólar, con una ganancia de un 1.5% frente a las 20.2020 unidades del precio de referencia de LSEG del miércoles. En las…",
-      "Url": "https://forbes.com.mx/peso-gana-tras-anuncio-de-trump-sobre-aranceles-opera-por-debajo-de-20-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2025-04-03T14:19:39Z",
-      "Content": "El peso se apreciaba el jueves por tercera jornada consecutiva después de que el presidente de Estados Unidos, Donald Trump, dejó fuera a Canadá y México de sus nuevas tasas arancelarias globales.\r\nE… [+3549 chars]"
     }
   ]
 }

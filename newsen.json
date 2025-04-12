@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi trades at GH¢15.53 to a dollar on the interbank market as of April 11",
+      "Description": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-trades-at-GH-15-53-to-a-dollar-on-the-interbank-market-as-of-April-11-1979441",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/348/34817427.jpg",
+      "PublishedAt": "2025-04-11T08:41:50Z",
+      "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+731 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -50,7 +63,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -63,7 +76,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/canadian-dollar-peso-gs0313.jpg",
       "PublishedAt": "2025-03-14T12:00:16Z",
       "Content": "Mexico's currency has had an easier ride since Donald Trump's ascendance\r\nA Canadian dollar coin and a Mexican peso coin face off.Photo by Peter J. Thompson, Susana Gonzalez /Financial Post, Bloomber… [+10108 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Alex Bitter",
-      "Title": "Dollar General CEO says shoppers only have enough money for 'basic essentials'",
-      "Description": "Dollar General shoppers \"have had to sacrifice, even on the necessities,\" CEO Todd Vasos said Thursday.",
-      "Url": "https://www.businessinsider.com/dollar-general-ceo-shoppers-only-afford-essentials-inflation-2025-3",
-      "UrlToImage": "https://i.insider.com/67d2e2b769253ccddf991de2?width=1200&format=jpeg",
-      "PublishedAt": "2025-03-13T16:08:22Z",
-      "Content": "Dollar General's core customers are in a worse financial position than last year, CEO Todd Vasos said Thursday.Courtesy of Dollar General\r\n<ul><li>Dollar General's customers were still struggling goi… [+3161 chars]"
     }
   ]
 }
