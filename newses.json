@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Redrado: “Es clave que el tipo de cambio se estabilice por debajo del techo de la banda sin poner un dólar”",
+      "Description": "El expresidente del Banco Central sostuvo que los próximos días serán decisivos para el nuevo régimen cambiario",
+      "Url": "https://www.lanacion.com.ar/economia/negocios/redrado-es-clave-que-el-tipo-de-cambio-se-estabilice-por-debajo-del-techo-de-la-banda-sin-poner-un-nid11042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-analisis-de-martin-redrado-sobre-el-acuerdo-ZQTTGJR6QREDHP4L7NKAHTQEZU.PNG?auth=cc7bfc915b0c89adcc238b0dcb92f52cd13fcbfdeeccc3acb8b8ecf7adf47725&width=1200&quality=70&smart=false&height=877",
+      "PublishedAt": "2025-04-11T22:26:06Z",
+      "Content": "El expresidente del Banco Central, Martín Redrado, aseguró que para evitar una disparada en el tipo de cambio el próximo lunes será decisivo la disponibilidad de los fondos que entregará el FMI. No m… [+1634 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/04/depreciacion-del-peso-mexicano-cuartoscuro.jpg",
       "PublishedAt": "2025-04-07T01:56:00Z",
       "Content": "Durante la jornada del domingo 6 de abril el peso mexicano se depreció en varias ocasionesfrente al dólar hasta llegar a cotizar entre los 20.70 y 20.67 por unidad, luego de que en la semana la moned… [+3628 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 5 de abril de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de abril el tipo de cambio interbancario, se ubica en 20.44 pesos por unidad, con una ganancia del 2.53 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/04/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-04-05T13:44:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de abril el tipo de cambio interbancario, se ubica en 20.44 pesos por unidad, con una ganancia del 2.53 por ciento… [+2549 chars]"
     }
   ]
 }
