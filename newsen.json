@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+      "Title": "‘Worse Than 1971’—U.S. Dollar Price ‘Collapse’ Predicted To Ignite $22 Trillion Bitcoin Challenge To Gold",
+      "Description": "The bitcoin price is braced for a dollar \"confidence crisis\" as the ICE U.S. dollar index plummets to its worst day since 2022...",
+      "Url": "https://www.forbes.com/sites/digital-assets/2025/04/12/confidence-crisis-us-dollar-price-collapse-predicted-to-ignite-bitcoin-as-traders-sell-america/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f8f3252a6cae69bd227afe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2025-04-12T11:19:04Z",
+      "Content": "04/12 update below. This post was originally published on April 11\r\nBitcoin has swung wildly over the last week as traders ride U.S. president Donald Trumps tariff rollercoaster (with Michael Saylors… [+5091 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-119233032,width-1200,height-630,imgsize-9268,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2025-03-20T00:46:34Z",
       "Content": "Mumbai: Muthoot Finance has initiated a Reg-S tap of its $400 million bond issue, on renewed investor interest following a ratings upgrade.The bond carries an initial price guidance of 98.625, or a 6… [+1252 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": null,
-      "Title": "Ghana cedi has been stable against the US dollar since February 19 - Finance minister",
-      "Description": "Finance minister Dr Cassiel Ato Forson says the Ghanaian Cedi has remained stable against the US dollar since February 19, 2025, on the interbank forex market.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Ghana-cedi-has-been-stable-against-the-US-dollar-since-February-19-Finance-minister-1976202",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/328/32871080.jpg",
-      "PublishedAt": "2025-03-19T07:59:10Z",
-      "Content": "Finance minister Dr Cassiel Ato Forson says the Ghanaian Cedi has remained stable against the US dollar since February 19, 2025, on the interbank forex market. \r\nThe minister said as of March 14, 202… [+1178 chars]"
     }
   ]
 }
