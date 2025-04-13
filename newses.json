@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Por qué esta moneda de un centavo de dólar con el rostro de Lincoln podría valer hasta US$100.000",
+      "Description": "Una moneda de 1 centavo de dólar acuñada hace más de 50 años podría alcanzar un valor de hasta 100 mil dólares en subastas; descubre qué la hace tan rara y por qué incluso el gobierno de EE.UU. podría reclamarla",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/por-que-esta-moneda-de-un-centavo-de-dolar-con-el-rostro-de-lincoln-podria-valer-hasta-us100000-nid12042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-un-centavo-con-el-perfil-de-lincoln-6MBVEPXMOFB2PKHAWHMPAWSTE4.png?auth=18ebf07c131fe0d4bbaf3e6ff4d6302eca9de0280c4bcfc89d8d26b4cec4edcc&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-12T08:25:00Z",
+      "Content": "Dentro del coleccionismo de monedas, Estados Unidos resalta por su gran variedad de piezas a lo largo de la historia. Gracias a sus numerosos ejemplares a través de diferentes épocas, los numismático… [+3145 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-04-07T11:05:00Z",
       "Content": "El dólar HOY 7 de abril inicia operaciones con el tipo de cambio interbancario en 20.64 pesos mexicanos por billete verde, con una ligera baja del 0.97 por ciento, según datos de Bloomberg. \r\nEl peso… [+860 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Rafael Mejía Fernández de Lara",
-      "Title": "Peso mexicano cotiza hasta en 20.70 unidades por dólar tras caída en bolsas asiáticas",
-      "Description": "Durante la jornada del domingo 6 de abril el peso mexicano se depreció en varias ocasiones frente al dólar hasta llegar a cotizar entre los20.70 y 20.67 por unidad, luego de que en la semana la moneda mexicana se apreciara tras quedar exento México de lista d…",
-      "Url": "https://www.milenio.com/negocios/peso-mexicano-cae-frente-al-dolar",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/04/depreciacion-del-peso-mexicano-cuartoscuro.jpg",
-      "PublishedAt": "2025-04-07T01:56:00Z",
-      "Content": "Durante la jornada del domingo 6 de abril el peso mexicano se depreció en varias ocasionesfrente al dólar hasta llegar a cotizar entre los 20.70 y 20.67 por unidad, luego de que en la semana la moned… [+3628 chars]"
     }
   ]
 }
