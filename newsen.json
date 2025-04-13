@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": "Cnbc",
+      "Title": "Dollar drop adds to tariff inflation puzzle: Bank of England's Greene",
+      "Description": "BOE's Greene said it was unclear what Trump's import tariffs would do to UK inflation with the unpredictable behaviour of the dollar adding to the puzzle.",
+      "Url": "https://www.cnbc.com/2025/04/12/dollar-drop-adds-to-tariff-inflation-puzzle-bank-of-englands-greene.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108128007-1744063518920-gettyimages-2208514868-VukValcicCity070425_20JPG.jpeg?v=1744063587&w=1920&h=1080",
+      "PublishedAt": "2025-04-12T09:37:47Z",
+      "Content": "Bank of England interest rate-setter Megan Greene said on Saturday it was unclear what U.S. President Donald Trump's import tariffs would do to UK inflation with the unpredictable behaviour of the do… [+998 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -76,7 +89,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -89,7 +102,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/328/32871080.jpg",
       "PublishedAt": "2025-03-19T07:59:10Z",
       "Content": "Finance minister Dr Cassiel Ato Forson says the Ghanaian Cedi has remained stable against the US dollar since February 19, 2025, on the interbank forex market. \r\nThe minister said as of March 14, 202… [+1178 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Bank of America Issues Pessimistic Forecast for Dollar General (NYSE:DG) Stock Price",
-      "Description": "Dollar General (NYSE:DG – Free Report) had its target price decreased by Bank of America from $95.00 to $90.00 in a report published on Friday,Benzinga reports. Bank of America currently has a buy rating on the stock. A number of other research firms have als…",
-      "Url": "https://www.etfdailynews.com/2025/03/17/bank-of-america-issues-pessimistic-forecast-for-dollar-general-nysedg-stock-price/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-03-17T05:56:45Z",
-      "Content": "Dollar General (NYSE:DG – Free Report) had its target price decreased by Bank of America from $95.00 to $90.00 in a report published on Friday,Benzinga reports. Bank of America currently has a buy ra… [+5095 chars]"
     }
   ]
 }
