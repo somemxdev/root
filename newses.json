@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 14 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 14 de abril inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con una ligera baja del 0.68 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ayer en línea con un nuevo descalabro …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-04-14T11:10:00Z",
+      "Content": "El dólar HOY 14 de abril inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con una ligera baja del 0.68 por ciento, según datos de Bloomberg. \r\nEl pes… [+848 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/31/peso-deprecia-frente-dolar-amagos.jpeg",
       "PublishedAt": "2025-04-07T20:38:00Z",
       "Content": "El peso mexicano cerró la sesión del lunes 7 de abril con una depreciación de 1.32%, es decir, de 26.9 centavos, cotizando alrededor de 20.71 pesos por dólar, con el tipo de cambio tocando un mínimo … [+6246 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 7 de abril",
-      "Description": "Este lunes 7 de abril, el desempeño del peso mexicano se ve afectado por la incertidumbre de los mercados ante los aranceles recíprocos del presidente de Estados Unidos, Donald Trump.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-7-de-abril-nid07042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-este-7-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-04-07T18:10:11Z",
-      "Content": "Este lunes 7 de abril, el precio del dólar en México es de $20,501, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve afectado por la incert… [+2319 chars]"
     }
   ]
 }
