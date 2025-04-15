@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 14 de abril de 2025",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-14-de-abril-de-2025-nid14042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-04-14T14:41:24Z",
+      "Content": "Este lunes 14 de abril de 2025, el precio del dólar en México es de $20,336, de acuerdo con el Diario Oficial de la Federación (DOF). Su apreciación se relaciona a la eliminación de aranceles a produ… [+1808 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana por exención de aranceles! Precio del dólar hoy 14 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la semana con el pie derecho al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 14 de abril de 2025 arranca en 20.08 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-14-abril-2025-tipo-cambio-bancos-mexico/1710608",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/14/3290794.jpg",
+      "PublishedAt": "2025-04-14T14:11:32Z",
+      "Content": "El peso mexicano arranca la semana con el pie derecho al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 14 de abril de 2025 arranca en 20.08 unidades por cada billete verd… [+1445 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20250408/imag/foto_0000000720250408085802/Aton_592212.jpg",
       "PublishedAt": "2025-04-08T13:01:00Z",
       "Content": "La revancha del dólar se cobró los capitales de varios institucionales extranjeros que esperaban ver una mayor recuperación del peso chileno, y esto decantó en que el posicionamiento neto sobre la mo… [+1240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 8 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 8 de abril inicia operaciones con el tipo de cambio interbancario en 20.53 pesos mexicanos por billete verde, con una ligera baja del 0.77 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ayer en línea con un nuevo descalabro d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-04-08T11:08:00Z",
-      "Content": "El dólar HOY 8 de abril inicia operaciones con el tipo de cambio interbancario en 20.53 pesos mexicanos por billete verde, con una ligera baja del 0.77 por ciento, según datos de Bloomberg. \r\nEl peso… [+847 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar sigue hacia arriba",
-      "Description": "Con el valor alcanzado este lunes, el tipo de cambio del dólar superó los ¢510 por primera vez en 2025",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-sigue-hacia-arriba/NL76L4UH5JAOTAXUCPM2UE7VC4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/G32GYWIPQ5CWXHQ52AN5Y75XFU.jpg?smart=true&auth=7e513b37d464a68ca4b9702f18c53fc8e9162a8ff784b7b4a869175a259f937e&width=1440",
-      "PublishedAt": "2025-04-07T23:24:48Z",
-      "Content": "El tipo de cambio del dólar respecto al colón continuó al alza este lunes 7 de abril en el Mercado de Monedas Extranjeras (Monex), acumulando nueve sesiones consecutivas al alza.En la jornada del lun… [+2059 chars]"
     }
   ]
 }
