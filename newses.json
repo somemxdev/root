@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Fin del cepo: el dólar minorista abre a $1250 en el Banco Nación",
+      "Description": "Esta cotización sube 13,9% frente al viernes pasado; se da tras las nuevas medidas cambiarias implementadas por el Gobierno",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/fin-del-cepo-el-dolar-oficial-minorista-abre-a-1250-nid14042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-14T13:13:22Z",
+      "Content": "Después de seis años, terminó el cepo cambiario. Se trató de una noticia que llegó antes de lo esperado por el mercado, en el marco del nuevo acuerdo con el Fondo Monetario Internacional (FMI), y fue… [+389 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/G32GYWIPQ5CWXHQ52AN5Y75XFU.jpg?smart=true&auth=7e513b37d464a68ca4b9702f18c53fc8e9162a8ff784b7b4a869175a259f937e&width=1440",
       "PublishedAt": "2025-04-07T23:24:48Z",
       "Content": "El tipo de cambio del dólar respecto al colón continuó al alza este lunes 7 de abril en el Mercado de Monedas Extranjeras (Monex), acumulando nueve sesiones consecutivas al alza.En la jornada del lun… [+2059 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Peso mexicano se deprecia frente al dólar en medio de inestabilidad creada por aranceles de EU",
-      "Description": "El peso mexicano cerró la sesión del lunes 7 de abril con una depreciación de 1.32%, es decir, de 26.9 centavos, cotizando alrededor de 20.71 pesos por dólar,con el tipo de cambio tocando un mínimo de 20.4622 y un máximo de 20.8085 por unidad.Con lo anterior,…",
-      "Url": "https://www.milenio.com/negocios/peso-mexicano-pierde-frente-al-dolar-lunes-7-de-abril",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/31/peso-deprecia-frente-dolar-amagos.jpeg",
-      "PublishedAt": "2025-04-07T20:38:00Z",
-      "Content": "El peso mexicano cerró la sesión del lunes 7 de abril con una depreciación de 1.32%, es decir, de 26.9 centavos, cotizando alrededor de 20.71 pesos por dólar, con el tipo de cambio tocando un mínimo … [+6246 chars]"
     }
   ]
 }
