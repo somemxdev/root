@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Debutó el dólar oficial sin intervención del Banco Central, que igual dio señales",
+      "Description": "El tipo de cambio mayorista de referencia (Comunicación A3500) quedó en $1182,42, un avance de 9,65% versus el cierre del viernes; la primera rueda bajo el nuevo esquema fue movida y volátil",
+      "Url": "https://www.lanacion.com.ar/economia/debuto-el-dolar-oficial-sin-intervencion-del-banco-central-que-igual-dio-senales-nid14042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/para-el-bcra-fue-una-jornada-movida-y-desde-alli-7JM2ZITXL5A2BNH2DHPMIGLJ6Y.JPG?auth=e7f975692b1fad34db236b35ece0412a7b2d215759421f869096f0c8b25117de&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-14T20:33:05Z",
+      "Content": "Fiel a lo anunciado el viernes, el Banco Central (BCRA) no concretó en la jornada intervenciones sobre el mercado de cambios oficialy mantuvo cerrada la ventanilla de pases activos, es decir, los pré… [+3274 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UB2HFT2NMNCHPIGTOOLSJJILPA.jpg?smart=true&auth=d16915080143aaf184635b97bcffaa777564370c1b304d1c78bce3bc2986c07f&width=1200&height=630",
       "PublishedAt": "2025-04-08T16:28:05Z",
       "Content": "Un debilitamiento del dólar abrió el paso a que el peso mexicano iniciara con avances después de jornadas con depreciaciones por los aranceles recíprocos de Donald Trump... antes de que la moneda per… [+1612 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera y avanza! Precio del dólar hoy 8 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera luego de dos jornadas de pérdidas, con lo que el precio del dólar hoy 8 de abril de 2025 arranca en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa me…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-8-abril-2025-tipo-cambio-bancos-mexico/1709477",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/08/3287246.jpg",
-      "PublishedAt": "2025-04-08T14:42:26Z",
-      "Content": "El peso mexicano se recupera luego de dos jornadas de pérdidas, con lo que el precio del dólar hoy 8 de abril de 2025 arranca en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1678 chars]"
     }
   ]
 }
