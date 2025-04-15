@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "​A cuánto está el dólar en cada banco tras la salida del cepo cambiario​",
+      "Description": "Tras la eliminación a la compra minorista de dólares, cada banco muestra un precio distinto",
+      "Url": "https://www.lanacion.com.ar/economia/a-cuanto-esta-el-dolar-en-cada-banco-tras-la-salida-del-cepo-cambiario-nid14042025/",
+      "UrlToImage": "https://arc-static.glanacion.com/pf/resources/images/placeholderLN-1200x630.png?d=1802",
+      "PublishedAt": "2025-04-14T15:44:49Z",
+      "Content": "Este lunes 14 de abril comenzó una nueva etapa para el mercado cambiario argentino. Por primera vez desde 2019, las personas físicas pueden acceder al dólar sin restricciones, tras el levantamiento d… [+1542 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-8-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-08T14:34:25Z",
       "Content": "Este martes 8 de abril de 2025, el precio del dólar en México es de $20,6947, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve beneficiado … [+2469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Repunte del dólar golpea posiciones de extranjeros: revierten US$ 1.200 millones y se vuelven contra el peso en mercado derivado",
-      "Description": "La posición off-shore se mantuvo desde el 11 de marzo hasta el pasado jueves 3 de abril sesgada a favor de la divisa nacional, después de alrededor de tres años marcando una apuesta neta en contra.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/repunte-del-dolar-golpea-posiciones-de-extranjeros-revierten-us-1-200",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250408/imag/foto_0000000720250408085802/Aton_592212.jpg",
-      "PublishedAt": "2025-04-08T13:01:00Z",
-      "Content": "La revancha del dólar se cobró los capitales de varios institucionales extranjeros que esperaban ver una mayor recuperación del peso chileno, y esto decantó en que el posicionamiento neto sobre la mo… [+1240 chars]"
     }
   ]
 }
