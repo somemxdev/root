@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Sebastián Fest",
+      "Title": "Argentina supera su 'Día D': liberado el dólar, el peso se devalúa un 11% mientras Bessent visita a Milei para escenificar el apoyo de EEUU",
+      "Description": "El Gobierno de Javier Milei superó este lunes con éxito su particular 'Día D' económico, horas repletas de desafíos en las que se liberó la compra de moneda...",
+      "Url": "https://www.elmundo.es/economia/2025/04/14/67fd50affdddff7b0e8b457a.html",
+      "UrlToImage": "https://phantom-elmundo.uecdn.es/71f451e46fbbea9d84c217ae810069c7/crop/100x0/3053x1969/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/14/17446539214117.jpg",
+      "PublishedAt": "2025-04-14T18:35:00Z",
+      "Content": "El Gobierno de Javier Milei superó este lunes con éxito su particular 'Día D' económico, horas repletas de desafíos en las que se liberó la compra de moneda extranjera a los argentinos, el peso comen… [+4349 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/08/3287246.jpg",
       "PublishedAt": "2025-04-08T14:42:26Z",
       "Content": "El peso mexicano se recupera luego de dos jornadas de pérdidas, con lo que el precio del dólar hoy 8 de abril de 2025 arranca en 20.49 unidades por cada billete verde; conoce aquí cuál es el tipo de … [+1678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 8 de abril",
-      "Description": "Este martes 8 de abril de 2025, el precio del dólar en México es de $20,6947, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve beneficiado por la corrección de la moneda de Estados Unidos.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-8-de-abril-nid08042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-8-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-08T14:34:25Z",
-      "Content": "Este martes 8 de abril de 2025, el precio del dólar en México es de $20,6947, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve beneficiado … [+2469 chars]"
     }
   ]
 }
