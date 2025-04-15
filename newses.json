@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "redaccion@bolsamania.com (María Campillo)",
+      "Title": "El euro sigue su escalada: ¿se perfila como activo refugio ante la debilidad del dólar?",
+      "Description": "El euro mantiene su tendencia alcista frente al dólar, que se mantiene bajo presión ante la caótica política arancelaria de Donald Trump. Así, la divisa comunitaria se aprecia este lunes un 0,18%, hasta los 1,1381 'billetes verdes' y se perfila como nuevo act…",
+      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/euro-sigue-escalada-perfila-activo-refugio-debilidad-dolar--19352910.html",
+      "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
+      "PublishedAt": "2025-04-14T10:27:40Z",
+      "Content": "El euro mantiene su tendencia alcista frente al dólar, que se mantiene bajo presión ante la caótica política arancelaria de Donald Trump. Así, la divisa comunitaria se aprecia este lunes un 0,18%, ha… [+3799 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-este-7-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-04-07T18:10:11Z",
       "Content": "Este lunes 7 de abril, el precio del dólar en México es de $20,501, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve afectado por la incert… [+2319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae por temor a recesión global! Precio del dólar hoy 7 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada con pérdidas ante el temor a una recesión global, con lo que el precio del dólar hoy 7 de abril de 2025 arranca en 20.69 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-7-abril-2025-tipo-cambio-bancos-mexico/1709298",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/07/3286720.jpg",
-      "PublishedAt": "2025-04-07T14:02:58Z",
-      "Content": "El peso mexicano arranca la jornada con pérdidas ante el temor a una recesión global, con lo que el precio del dólar hoy 7 de abril de 2025 arranca en 20.69 unidades por cada billete verde; conoce aq… [+1573 chars]"
     }
   ]
 }
