@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana por tercera jornada! Precio del dólar hoy 15 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 15 de abril de 2025 cotiza en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-15-abril-2025-tipo-cambio-bancos-mexico/1710772",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/15/3291319.jpg",
+      "PublishedAt": "2025-04-15T14:31:50Z",
+      "Content": "El peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 15 de abril de 2025 cotiza en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1550 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso adelanta su ‘resurrección’ ante el dólar: Tipo de cambio regresa a las 19 unidades HOY",
+      "Description": "El peso mexicano lleva una racha de días con ganancia que le ha permitido volver al terreno de las 19 unidades, un nivel en el que estaba antes de que los aranceles de Donald Trump 'metieran miedo' al mercado.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/15/peso-dolar-precio-hoy-15-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HRFUA2YL3VBH7CYRYSS3FOQLSQ.jpg?smart=true&auth=b17ab26b284cf5494f42058252b223a63b724f9df7458b74edb685e972135008&width=1200&height=630",
+      "PublishedAt": "2025-04-15T14:15:27Z",
+      "Content": "El peso mexicano alarga su racha santa con ganancias ante el dólar que llevan al tipo de cambio de nuevo al terreno de las 19 unidades este martes 15 de abril. \r\nLa apreciación del peso mexicano ante… [+1421 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/09/3287986.jpg",
       "PublishedAt": "2025-04-09T14:35:36Z",
       "Content": "El peso mexicano cae por cuarta jornada consecutiva por la guerra arancelaria, con lo que el precio del dólar hoy 9 de abril de 2025 cotiza en 21.02 unidades por cada billete verde; conoce aquí cuál … [+1582 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 9 de abril",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-9-de-abril-nid09042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-9-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-09T14:24:38Z",
-      "Content": "Este miércoles 9 de abril de 2025, el precio del dólar en México es de $20,6867, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano es afectado por la guerra com… [+2380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso rompe barrera de 21 por dólar, arrastrado por guerra comercial EU-China",
-      "Description": "La Bolsa Mexicana de Valores descendía en sus primeras negociaciones del miércoles después de que China tomó represalias contra la entrada en vigencia de los aranceles estadounidenses.",
-      "Url": "https://aristeguinoticias.com/090425/dinero-y-economia/peso-rompe-barrera-de-21-por-dolar-arrastrado-por-guerra-comercial-eu-china/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
-      "PublishedAt": "2025-04-09T14:17:22Z",
-      "Content": "El peso mexicano se depreciaba el miércoles por cuarta jornada consecutiva perforando la barrera clave de 21 unidades por dólar, alcanzado por una ola de liquidaciones en los mercados globales ante l… [+1809 chars]"
     }
   ]
 }
