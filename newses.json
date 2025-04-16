@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 15 de abril",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-15-de-abril-nid15042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-15-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-04-15T15:31:18Z",
+      "Content": "Este martes 15 de abril de 2025, el precio del dólar en México es de $20,1025, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve influenciad… [+2117 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza por tercera jornada y cotiza debajo de 20 unidades por dólar; BMV sube",
+      "Description": "Forbes México.\n Peso avanza por tercera jornada y cotiza debajo de 20 unidades por dólar; BMV sube\n\nEl peso cotizaba en 19.9720 por dólar, con un avance de un 0.50% frente a los 20.0720 del precio de referencia de LSEG del lunes. La semana pasada llegó a oper…",
+      "Url": "https://forbes.com.mx/peso-avanza-por-tercera-jornada-y-cotiza-debajo-de-20-unidades-por-dolar-bmv-sube/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-1.webp",
+      "PublishedAt": "2025-04-15T15:31:16Z",
+      "Content": "El peso se apreciaba este martes por tercera sesión consecutiva después de haber tocado la semana pasada uno de sus peores niveles en lo que va del año, mientras los inversionistas continuaban tratan… [+1488 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-04-10T11:08:50Z",
       "Content": "El dólar HOY 9 de abril inicia operaciones con el tipo de cambio interbancario en 20.43 pesos mexicanos por billete verde, con una ligera ganancia del 0.94 por ciento, según datos de Bloomberg. \r\nEl … [+788 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Sergio Fernández",
-      "Title": "El franco suizo pugna contra el dólar por el trono a la divisa refugio: la moneda alpina cotiza en máximos de 2015",
-      "Description": "Mientras los inversores dudan de que los bonos estadounidenses sean el mejor refugio frente al desplome bursátil, el dólar también pierde adeptos. El franco suizo se impone de nuevo como divisa de protección en tiempos de volatilidad e incertidumbre hasta el …",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13311408/04/25/el-franco-suizo-pugna-contra-el-dolar-por-el-trono-a-la-divisa-refugio-la-moneda-alpina-cotiza-en-maximos-de-2015.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2119x1415/c/8/b/1200x655_dolarfrancosuizobolsarefugio.jpg",
-      "PublishedAt": "2025-04-09T15:25:14Z",
-      "Content": "Mientras los inversores dudan de que los bonos estadounidenses sean el mejor refugio frente al desplome bursátil, el dólar también pierde adeptos. El franco suizo se impone de nuevo como divisa de pr… [+3252 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Guerra arancelaria tira al peso! Precio del dólar hoy 9 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano cae por cuarta jornada consecutiva por la guerra arancelaria, con lo que el precio del dólar hoy 9 de abril de 2025 cotiza en 21.02 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-9-abril-2025-tipo-cambio-bancos-mexico/1709715",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/09/3287986.jpg",
-      "PublishedAt": "2025-04-09T14:35:36Z",
-      "Content": "El peso mexicano cae por cuarta jornada consecutiva por la guerra arancelaria, con lo que el precio del dólar hoy 9 de abril de 2025 cotiza en 21.02 unidades por cada billete verde; conoce aquí cuál … [+1582 chars]"
     }
   ]
 }
