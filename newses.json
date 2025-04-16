@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 15 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 20.06 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.El peso mexicano y la bolsa avanzaban el lunes animados por un mejor …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/11/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-04-15T11:00:00Z",
+      "Content": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 20.06 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.\r\nEl peso… [+785 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.uecdn.es/ffbd38c80183058b7ee16279a91aa5aa/f/webp/assets/multimedia/imagenes/2025/04/08/17441126894965.jpg",
       "PublishedAt": "2025-04-08T22:01:56Z",
       "Content": "Donald Trump nunca ha sido partidario de un dólar fuerte. Aunque la fortaleza de una moneda suele interpretarse como un signo de poder económico, pareciera que para Trump pudiera representa un obstác… [+6289 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso abre ‘tablas’ ante el dólar a horas de los aranceles recíprocos más altos de Trump",
-      "Description": "Especialistas señalan que los inversionistas aún esperan un trato 'de último minuto' entre Trump y los países que fueron castigados con aranceles recíprocos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/08/peso-abre-tablas-ante-el-dolar-a-horas-de-los-aranceles-reciprocos-mas-altos-de-trump/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UB2HFT2NMNCHPIGTOOLSJJILPA.jpg?smart=true&auth=d16915080143aaf184635b97bcffaa777564370c1b304d1c78bce3bc2986c07f&width=1200&height=630",
-      "PublishedAt": "2025-04-08T16:28:05Z",
-      "Content": "Un debilitamiento del dólar abrió el paso a que el peso mexicano iniciara con avances después de jornadas con depreciaciones por los aranceles recíprocos de Donald Trump... antes de que la moneda per… [+1612 chars]"
     }
   ]
 }
