@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cuánto sale el dólar oficial este martes 15 de abril, banco por banco",
+      "Description": "Tras la salida del cepo, la cotización minorista fluctúa dentro de una banda móvil entre $1000 y $1400; a continuación, el valor en que se comercializa en cada entidad bancaria",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/cuanto-sale-el-dolar-oficial-este-martes-15-de-abril-banco-por-banco-nid15042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-oficial-en-cada-banco-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-15T13:52:58Z",
+      "Content": "Muchas personas se preguntana cuánto cotiza el dólar oficial hoy, martes 15 de abril, en cada banco. Esto se debe a que el pasado lunes se empezó a aplicar un nuevo régimen cambiario y se liberó parc… [+2323 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Fin del cepo: el dólar minorista abre a $1230 en el Banco Nación",
+      "Description": "En el segundo día tras el fin de las restricciones cambiarias, el tipo de cambio cotiza al mismo valor que el cierre de ayer",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/fin-del-cepo-el-dolar-minorista-abre-a-1230-en-el-banco-nacion-nid15042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-15T13:38:13Z",
+      "Content": "Después de seis años, hoy se ayer el cepo cambiario. La noticia la dio a conocer el Gobierno el viernes a última hora de la tarde, cuando los mercados ya estaban cerrados, en el marco del acuerdo con… [+6471 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
       "PublishedAt": "2025-04-09T14:17:22Z",
       "Content": "El peso mexicano se depreciaba el miércoles por cuarta jornada consecutiva perforando la barrera clave de 21 unidades por dólar, alcanzado por una ola de liquidaciones en los mercados globales ante l… [+1809 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cae por la escalada comercial de EU, cotizando encima de 21 unidades por dólar; BMV retrocede",
-      "Description": "Forbes México.\n Peso cae por la escalada comercial de EU, cotizando encima de 21 unidades por dólar; BMV retrocede\n\nEl peso cotizaba en 21.0233 por dólar, un 0.90% menos que el precio de referencia de LSEG del martes, también presionada por el reporte de infl…",
-      "Url": "https://forbes.com.mx/peso-cae-por-la-escalada-comercial-de-eu-cotizando-encima-de-21-unidades-por-dolar-bmv-retrocede/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
-      "PublishedAt": "2025-04-09T14:15:47Z",
-      "Content": "El peso se depreciaba este miércoles por cuarta jornada consecutiva perforando la barrera clave de 21 unidades por dólar, alcanzado por una ola de liquidaciones en los mercados globales ante la últim… [+1908 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 9 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 9 de abril inicia operaciones con el tipo de cambio interbancario en 20.97 pesos mexicanos por billete verde, con una ligera baja del 0.63 por ciento, según datos de Bloomberg. En el primer minuto de hoy entraron en vigor los aranceles a China de …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-04-09T11:13:00Z",
-      "Content": "El dólar HOY 9 de abril inicia operaciones con el tipo de cambio interbancario en 20.97 pesos mexicanos por billete verde, con una ligera baja del 0.63 por ciento, según datos de Bloomberg. \r\nEn el p… [+881 chars]"
     }
   ]
 }
