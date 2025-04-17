@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Qué banco vende el dólar más barato tras la salida del cepo cambiario",
+      "Description": "El dólar minorista exhibe dispersión de precios en las cotizaciones electrónicas a las 13:00; hay diferencias de hasta $50 por dólar entre entidades",
+      "Url": "https://www.lanacion.com.ar/economia/que-banco-vende-el-dolar-mas-barato-tras-la-salida-del-cepo-cambiario-nid16042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-DU3PQP5XW5CW5LMTUHPYJO5CII.jpg?auth=bb76adce7f94a5e7de88de96ae72375d7f841850c23857e614a0b40f2f909652&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-16T18:31:57Z",
+      "Content": "La salida del cepo cambiario en la Argentina trajo consigo una mayor libertad para la compra de divisas, pero también expuso con mayor claridad las diferencias entre los bancos a la hora de vender dó… [+2517 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Borderperiodismo.com"
+      },
+      "Author": "#BorderPeriodismo",
+      "Title": "Tercer día sin cepo: el dólar cerró a $1160 en el Banco Nación",
+      "Description": "La moneda norteamericana está a la baja después de cumplirse el cierre de la tercera jornada sin control cambiario.\nLa entrada Tercer día sin cepo: el dólar cerró a $1160 en el Banco Nación se publicó primero en #BorderPeriodismo.",
+      "Url": "https://www.borderperiodismo.com/economia/con-el-fin-del-cepo-el-dolar-oficial-abrio-a-1250-en-el-banco-nacion/",
+      "UrlToImage": "https://www.borderperiodismo.com/wp-content/uploads/2024/01/DOLAR-AFIP.png",
+      "PublishedAt": "2025-04-16T18:20:50Z",
+      "Content": "Luego del anuncio de la apertura del cepo y el nuevo régimen de flotación para la moneda norteamericana entre $1000 y $ 1400, el dólar único cerró la segunda jornada sin control cambiario a $1230 par… [+1677 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Milei aseguró que el Banco Central no va a intervenir hasta que el dólar “toque el piso de la banda”",
+      "Description": "Fue en respuesta a un posteo de un periodista de LA NACION, que dijo que el Gobierno no comprará dólares ya que confía en que el mercado hará que su valor descienda sin necesidad de que el BCRA actúe",
+      "Url": "https://www.lanacion.com.ar/economia/milei-aseguro-que-el-banco-central-no-va-a-intervenir-hasta-que-el-dolar-toque-el-piso-de-la-banda-nid16042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-presidente-javier-ELOQMDOXQFCLPHBEYGV5TNVOEA.JPG?auth=3e2064533a116c5782501cfac0fb0ddd6860386fdca42c2f70c34a5c0ab4a9cd&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-16T18:15:16Z",
+      "Content": "El presidente Javier Milei afirmó este miércoles por la tarde, a través de un posteo en la red social X, que el Gobierno -por medio del Banco Central de República Argentina (BCRA)- no intervendrá en … [+642 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-un-centavo-con-el-perfil-de-lincoln-6MBVEPXMOFB2PKHAWHMPAWSTE4.png?auth=18ebf07c131fe0d4bbaf3e6ff4d6302eca9de0280c4bcfc89d8d26b4cec4edcc&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-12T08:25:00Z",
       "Content": "Dentro del coleccionismo de monedas, Estados Unidos resalta por su gran variedad de piezas a lo largo de la historia. Gracias a sus numerosos ejemplares a través de diferentes épocas, los numismático… [+3145 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Redrado: “Es clave que el tipo de cambio se estabilice por debajo del techo de la banda sin poner un dólar”",
-      "Description": "El expresidente del Banco Central sostuvo que los próximos días serán decisivos para el nuevo régimen cambiario",
-      "Url": "https://www.lanacion.com.ar/economia/negocios/redrado-es-clave-que-el-tipo-de-cambio-se-estabilice-por-debajo-del-techo-de-la-banda-sin-poner-un-nid11042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-analisis-de-martin-redrado-sobre-el-acuerdo-ZQTTGJR6QREDHP4L7NKAHTQEZU.PNG?auth=cc7bfc915b0c89adcc238b0dcb92f52cd13fcbfdeeccc3acb8b8ecf7adf47725&width=1200&quality=70&smart=false&height=877",
-      "PublishedAt": "2025-04-11T22:26:06Z",
-      "Content": "El expresidente del Banco Central, Martín Redrado, aseguró que para evitar una disparada en el tipo de cambio el próximo lunes será decisivo la disponibilidad de los fondos que entregará el FMI. No m… [+1634 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Toma peso respiro; baja dólar a $20.30",
-      "Description": "En el mercado internacional, el tipo de cotizaba en $20.30 por dólar, con una ganancia de un 0.66% para la moneda mexicana.",
-      "Url": "https://www.reforma.com/toma-peso-respiro-baja-dolar-a-20-30/ar2986134",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-04-11T14:36:32Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (11 abril 2025) .-08:34 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cae peso; cierra dólar a $20.32",
-      "Description": "El dólar cerró este viernes con una cotización de $20.32, cifra 0.07 centavos superior al cierre de 20.25 pesos del jueves.",
-      "Url": "https://www.reforma.com/cae-peso-cierra-dolar-a-20-32/ar2986134",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-04-11T14:36:32Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (11 abril 2025) .-08:34 hrs"
     }
   ]
 }
