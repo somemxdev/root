@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "​A cuánto está el dólar oficial banco por banco hoy, miércoles 16 de abril",
+      "Description": "Tras el fin del cepo, la cotización minorista fluctúa dentro de una banda móvil entre $1000 y $1400; cuál es el valor en que se comercializa en cada entidad bancaria hoy",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-esta-el-dolar-oficial-banco-por-banco-hoy-miercoles-16-de-abril-nid16042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-oficial-en-cada-banco-ANVZEMMAFVEOHHAG7CK2YXOARI.JPG?auth=611fe81dd70afccefafede25aec68ed931cf0d74f05fdf9a33d340463560f3fc&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-16T13:06:40Z",
+      "Content": "Muchas personas se preguntana cuánto cotiza el dólar oficial hoy, miércoles 16 de abril, en cada banco. Esto se debe a que el pasado lunes se empezó a aplicar un nuevo régimen cambiario y se liberó p… [+2185 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "@record_mexico",
+      "Title": "Peso mexicano se mantiene estable frente al dólar: cotiza en $20.06",
+      "Description": "La divisa estadounidense se cotiza en $19.58 pesos a la compra y $20.39 pesos a la venta",
+      "Url": "https://www.record.com.mx/contra/peso-mexicano-se-mantiene-estable-frente-al-dolar-cotiza-en-2006",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/04/16/peso-mexicano-se-mantiene-estable-frente-al-dolar-cotiza-en-2006.jpg",
+      "PublishedAt": "2025-04-16T13:04:01Z",
+      "Content": "Este miércoles 16 de abril de 2025 el dólar se cotiza al inicio de la jornada en $20.06 pesos, algunos centavos por debajo de su valor al cierre de la jornada anterior que fue de $20.12 pesos por uni… [+856 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-11T14:16:57Z",
       "Content": "Este viernes 11 de abril de 2025, el precio del dólar en México es de $20,492, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el desempeño del peso mexicano es impactado por la… [+2286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 11 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 11 de abril inicia operaciones con el tipo de cambio interbancario en 20.42 pesos mexicanos por billete verde, con una ligera baja del 0.25 por ciento, según datos de Bloomberg. El peso mexicano arrancó la jornada ayer con un retroceso después de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
-      "PublishedAt": "2025-04-11T11:05:00Z",
-      "Content": "El dólar HOY 11 de abril inicia operaciones con el tipo de cambio interbancario en 20.42 pesos mexicanos por billete verde, con una ligera baja del 0.25 por ciento, según datos de Bloomberg. \r\nEl pes… [+857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Vicente Nieves, Álvaro Moreno",
-      "Title": "La crisis del dólar desata una revolución en el mercado de divisas que convierte al euro en activo refugio por sorpresa",
-      "Description": "El dólar está cayendo con una intensidad inusitada. En la jornada de este viernes ya se deja más de un 1% frente al euro y toca mínimos no vistos desde principios de 2022. El que fuera activo refugio durante las grandes turbulencias parece haberse convertido …",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13314437/04/25/la-crisis-del-dolar-desata-una-revolucion-en-el-mercado-de-divisas-que-convierte-al-euro-en-activo-refugio-por-sorpresa.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/3467x1892/f/5/1/1200x655_dreamstime_xl_19645783.jpg",
-      "PublishedAt": "2025-04-11T08:32:26Z",
-      "Content": "El dólar está cayendo con una intensidad inusitada. En la jornada de este viernes ya se deja más de un 1% frente al euro y toca mínimos no vistos desde principios de 2022. El que fuera activo refugio… [+7563 chars]"
     }
   ]
 }
