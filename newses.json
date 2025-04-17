@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cierra debajo de las 20 unidades por dólar",
+      "Description": "Forbes México.\n Peso cierra debajo de las 20 unidades por dólar\n\nLa moneda se aprecia frente a un debilitamiento global del dólar, y después de comentarios del presidente de la Fed sobre las tasas de interés.\nPeso cierra debajo de las 20 unidades por dólar\nFo…",
+      "Url": "https://forbes.com.mx/peso-cierra-debajo-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-04-16T21:47:42Z",
+      "Content": "Ciudad de México, (Reuters).- El peso y la BMV avanzaron ante un debilitamiento global del dólar y después de que el presidente de la Reserva Federal, Jerome Powell, afirmara que el banco central esp… [+2047 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Peso mexicano cierra con ganancia; se favorece por retroceso del dólar",
+      "Description": "El peso mexicano cerró este miércoles con una ganancia de 0.84 por ciento, por lo que la divisa se cotiza en 19.93 unidades por dólar.La moneda local se ha visto favorecida por el retroceso del dólar, a medida que aumenta la especulación sobre un posible diál…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-del-peso-hoy-16-de-abril",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/04/depreciacion-del-peso-mexicano-cuartoscuro.jpg",
+      "PublishedAt": "2025-04-16T21:34:00Z",
+      "Content": "El peso mexicano cerró este miércoles con una ganancia de 0.84 por ciento, por lo que la divisa se cotiza en 19.93 unidades por dólar. \r\nLa moneda local se ha visto favorecida por el retroceso del dó… [+2742 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
       "PublishedAt": "2025-04-14T10:27:40Z",
       "Content": "El euro mantiene su tendencia alcista frente al dólar, que se mantiene bajo presión ante la caótica política arancelaria de Donald Trump. Así, la divisa comunitaria se aprecia este lunes un 0,18%, ha… [+3799 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Redacción",
-      "Title": "Precio del dólar HOY sábado 12 de abril de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 12 de abril el tipo de cambio interbancario, se ubica en 20.315 pesos por unidad, con una ligera pérdida del 0.63 por ciento, según datos de Investing.Ayer, el peso mexi…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-04-12T12:23:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 12 de abril el tipo de cambio interbancario, se ubica en 20.315 pesos por unidad, con una ligera pérdida del … [+2120 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Por qué esta moneda de un centavo de dólar con el rostro de Lincoln podría valer hasta US$100.000",
-      "Description": "Una moneda de 1 centavo de dólar acuñada hace más de 50 años podría alcanzar un valor de hasta 100 mil dólares en subastas; descubre qué la hace tan rara y por qué incluso el gobierno de EE.UU. podría reclamarla",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/por-que-esta-moneda-de-un-centavo-de-dolar-con-el-rostro-de-lincoln-podria-valer-hasta-us100000-nid12042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-un-centavo-con-el-perfil-de-lincoln-6MBVEPXMOFB2PKHAWHMPAWSTE4.png?auth=18ebf07c131fe0d4bbaf3e6ff4d6302eca9de0280c4bcfc89d8d26b4cec4edcc&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-12T08:25:00Z",
-      "Content": "Dentro del coleccionismo de monedas, Estados Unidos resalta por su gran variedad de piezas a lo largo de la historia. Gracias a sus numerosos ejemplares a través de diferentes épocas, los numismático… [+3145 chars]"
     }
   ]
 }
