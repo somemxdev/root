@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cómo abre el dólar este miércoles 16 de abril en el Banco Nación",
+      "Description": "Durante el lunes y el martes el valor del billete oficial se mantuvo estable alrededor de los $1200",
+      "Url": "https://www.lanacion.com.ar/economia/como-abre-el-dolar-este-miercoles-16-de-abril-en-el-banco-nacion-nid16042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-abre-el-dolar-este-miercoles-16-de-abril-en-63JV23NDGZALBB4QT5JLDUXSNA.JPG?auth=1ac71ac828571f252caaa8eab6e9301dd32de36a88bffeb583f76ffc5b5c409c&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-16T11:20:30Z",
+      "Content": "El viernes pasado el Gobierno indicó que entró en la tercera etapa de su plan y anunció la llegada de dinero del Fondo Monetario Internacional (FMI) tras un nuevo acuerdo con el organismo y la libera… [+3177 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY miércoles 16 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 16 de abril inicia operaciones con el tipo de cambio interbancario en 20.03 pesos mexicanos por billete verde, con una ligera alza del 0.34 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el martes por tercera sesión consecuti…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/28/el-precio-del-dolar-foto.jpg",
+      "PublishedAt": "2025-04-16T11:06:00Z",
+      "Content": "El dólar HOY 16 de abril inicia operaciones con el tipo de cambio interbancario en 20.03 pesos mexicanos por billete verde, con una ligera alza del 0.34 por ciento, según datos de Bloomberg. \r\nEl pes… [+740 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/3467x1892/f/5/1/1200x655_dreamstime_xl_19645783.jpg",
       "PublishedAt": "2025-04-11T08:32:26Z",
       "Content": "El dólar está cayendo con una intensidad inusitada. En la jornada de este viernes ya se deja más de un 1% frente al euro y toca mínimos no vistos desde principios de 2022. El que fuera activo refugio… [+7563 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Volaron los futuros de dólar a corto plazo y el Banco Central siguió vendiendo reservas",
-      "Description": "Aumentaron hasta 5,8% ($65) en el día, ratificando que una parte del mercado espera el fin del crawling peg al 1% mensual",
-      "Url": "https://www.lanacion.com.ar/economia/volaron-los-futuros-de-dolar-a-corto-plazo-y-el-bcra-siguio-vendiendo-reservas-nid10042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-DXDAUQSGSNB6NDQZ7DTAHX67KI.JPG?auth=ea04eda5f51559cc6c7234a2a98eb4582b0958883841c9b4c5b08b9dd7800739&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-10T19:59:43Z",
-      "Content": "Los precios del dólar convalidados en el mercado local de futuros para fines de abril y mayo se dispararon hoy, en la antesala de que se conozcan los términos y alcances del acuerdo que el Gobierno s… [+3464 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 10 de abril",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-10-de-abril-nid10042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-10-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-10T15:02:39Z",
-      "Content": "Este jueves 10 de abril de 2025, el precio del dólar en México es de $20,7653, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve impactado p… [+2210 chars]"
     }
   ]
 }
