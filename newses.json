@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Retrocede el peso ante un dólar fortalecido",
+      "Description": "Las dudas de Wall Street contagiaron a los mercados cambiario y accionario mexicano, que no pudieron sostener las amplias ganancias con que iniciaron la sesión de ayer.",
+      "Url": "https://www.jornada.com.mx/2025/04/16/economia/019n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-04-16T10:49:33Z",
+      "Content": "Periódico La JornadaMiércoles 16 de abril de 2025, p. 19\r\nLas dudas de Wall Street contagiaron a los mercados cambiario y accionario mexicano, que no pudieron sostener las amplias ganancias con que i… [+1303 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-10-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-10T15:02:39Z",
       "Content": "Este jueves 10 de abril de 2025, el precio del dólar en México es de $20,7653, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve impactado p… [+2210 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se repliega tras alcanzar mayor ganancia diaria! Precio del dólar hoy 10 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 10 de abril de 2025 arranca en 20.45 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-abril-2025-tipo-cambio-bancos-mexico/1709945",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/10/3288738.jpg",
-      "PublishedAt": "2025-04-10T13:58:47Z",
-      "Content": "El peso mexicano retrocede en el arranque de la jornada de este jueves, con lo que el precio del dólar hoy 10 de abril de 2025 arranca en 20.45 unidades por cada billete verde; conoce aquí cuál es el… [+1843 chars]"
     }
   ]
 }
