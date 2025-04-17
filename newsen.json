@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi remains unchanged, still selling at GH¢15.52 to a dollar on the interbank market",
+      "Description": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-remains-unchanged-still-selling-at-GH-15-52-to-a-dollar-on-the-interbank-market-1980110",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/364/36465592.jpg",
+      "PublishedAt": "2025-04-16T08:02:22Z",
+      "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+626 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/08f3b07cd425d95d85c9329143471d8ae29842c6-1440x1080.jpg?auto=format",
       "PublishedAt": "2025-03-25T12:30:16Z",
       "Content": "Custodia Bank and Vantage Bank have completed the tokenization of U.S. dollar demand deposits on the Ethereum mainnet.\r\nThe banks issued and redeemed Custodia's Avit stablecoins on the Ethereum mainn… [+697 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Shilpy Sinha",
-      "Title": "Muthoot Finance taps US dollar bond on ratings upgrade",
-      "Description": "The bond carries an initial price guidance of 98.625, or a 6.812% yield. Both the issuer and the bond's issue ratings were upgraded to BB+ by S&P on March 17, with a 'stable' outlook.",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-taps-us-dollar-bond-on-ratings-upgrade/articleshow/119233009.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-119233032,width-1200,height-630,imgsize-9268,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-03-20T00:46:34Z",
-      "Content": "Mumbai: Muthoot Finance has initiated a Reg-S tap of its $400 million bond issue, on renewed investor interest following a ratings upgrade.The bond carries an initial price guidance of 98.625, or a 6… [+1252 chars]"
     }
   ]
 }
