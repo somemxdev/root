@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Belkis Martínez",
+      "Title": "Dólar: la baja del tipo de cambio enfrió ventas de los productores y desaceleró negocios para exportar",
+      "Description": "Expertos y un reporte de la Bolsa de Comercio de Rosario (BCR) pusieron el foco en la actividad de hoy, que en el caso de la soja tuvo un “discreto dinamismo”",
+      "Url": "https://www.lanacion.com.ar/economia/campo/dolar-la-baja-del-tipo-de-cambio-enfrio-ventas-de-los-productores-y-desacelero-negocios-para-nid16042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-soja-tuvo-una-operatoria-con-discreto-M3LIKVQHT5HCHLFFGQZC7IEHUM.jpg?auth=76bc76c4e2508af2ee45ed10dca8e079dad7df790f527c0a5331b6301762984e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-16T22:39:33Z",
+      "Content": "En una jornada marcada por la apreciación del peso, el tipo de cambio cerró este miércoles con una fuerte caída que encendió señales de alerta en el mercado de granos. La baja del dólar [el minorista… [+5808 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-04-14T11:10:00Z",
       "Content": "El dólar HOY 14 de abril inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con una ligera baja del 0.68 por ciento, según datos de Bloomberg. \r\nEl pes… [+848 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "redaccion@bolsamania.com (María Campillo)",
-      "Title": "El euro sigue su escalada: ¿se perfila como activo refugio ante la debilidad del dólar?",
-      "Description": "El euro mantiene su tendencia alcista frente al dólar, que se mantiene bajo presión ante la caótica política arancelaria de Donald Trump. Así, la divisa comunitaria se aprecia este lunes un 0,18%, hasta los 1,1381 'billetes verdes' y se perfila como nuevo act…",
-      "Url": "https://www.bolsamania.com/noticias/pulsos-divisas/euro-sigue-escalada-perfila-activo-refugio-debilidad-dolar--19352910.html",
-      "UrlToImage": "https://img.s3wfg.com/web/img/images_uploaded/c/b/ep_eurodolar.jpg",
-      "PublishedAt": "2025-04-14T10:27:40Z",
-      "Content": "El euro mantiene su tendencia alcista frente al dólar, que se mantiene bajo presión ante la caótica política arancelaria de Donald Trump. Así, la divisa comunitaria se aprecia este lunes un 0,18%, ha… [+3799 chars]"
     }
   ]
 }
