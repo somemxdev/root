@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de un dólar con el rostro de una exploradora de EE.UU. que puede valer hasta US$66.000",
+      "Description": "Un ejemplar acuñado en Denver contiene un error inusual que lo convierte en una pieza extremadamente rara para coleccionistas; así se puede identificar si se tiene una",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-un-dolar-con-el-rostro-de-una-exploradora-de-eeuu-que-puede-valer-hasta-us66000-nid17042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-2000-y-actualmente-en-C5SRXOBKPFBGFANBZG4RXUBYWE.jpg?auth=6f942ed6fe74ccbce448dc0c700ec66a590379d044695eb3d5fa1d09718fc313&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-17T08:55:00Z",
+      "Content": "En la numismática, ciertas monedas emitidas con errores pueden alcanzar precios elevados entre coleccionistas. Ese es el caso del dólar de Sacagawea del año 2000que presenta un diseño equivocado en u… [+2160 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-14T13:13:22Z",
       "Content": "Después de seis años, terminó el cepo cambiario. Se trató de una noticia que llegó antes de lo esperado por el mercado, en el marco del nuevo acuerdo con el Fondo Monetario Internacional (FMI), y fue… [+389 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 14 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 14 de abril inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con una ligera baja del 0.68 por ciento, según datos de Bloomberg. El peso mexicano se depreciaba ayer en línea con un nuevo descalabro …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-04-14T11:10:00Z",
-      "Content": "El dólar HOY 14 de abril inicia operaciones con el tipo de cambio interbancario en 20.18 pesos mexicanos por billete verde, con una ligera baja del 0.68 por ciento, según datos de Bloomberg. \r\nEl pes… [+848 chars]"
     }
   ]
 }
