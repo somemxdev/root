@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de abril",
+      "Description": "La cotización promedio se ubica por debajo de los $20, impulsada por la baja del billete verde y un diálogo entre los mandatarios de EE.UU. y México que redujo la tensión comercial",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-abril-nid17042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-17-de-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-17T17:15:12Z",
+      "Content": "Este jueves 17 de abril de 2025, el tipo de cambio entre el dólar y el peso mexicano registra un leve movimiento favorable para la moneda del país latino. Según la información oficial del Diario Ofic… [+2403 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-04-14T14:41:24Z",
       "Content": "Este lunes 14 de abril de 2025, el precio del dólar en México es de $20,336, de acuerdo con el Diario Oficial de la Federación (DOF). Su apreciación se relaciona a la eliminación de aranceles a produ… [+1808 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso gana por exención de aranceles! Precio del dólar hoy 14 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la semana con el pie derecho al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 14 de abril de 2025 arranca en 20.08 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-14-abril-2025-tipo-cambio-bancos-mexico/1710608",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/14/3290794.jpg",
-      "PublishedAt": "2025-04-14T14:11:32Z",
-      "Content": "El peso mexicano arranca la semana con el pie derecho al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 14 de abril de 2025 arranca en 20.08 unidades por cada billete verd… [+1445 chars]"
     }
   ]
 }
