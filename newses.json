@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Peso mexicano gana en Jueves Santo; cotiza 19.68 unidades por dólar",
+      "Description": "Este jueves, el peso mexicano cotizaba por la tarde en19.68 unidades por dólar, una apreciación tras las negociaciones en el exterior, luego de que la presidenta Claudia Sheinbaum sostuvo una llamada con su homólogo estadunidense, Donald Trump.La moneda mexic…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-del-peso-hoy-17-de-abril",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/14/peso-mexicano-deprecio-ciento-cerrando.jpeg",
+      "PublishedAt": "2025-04-17T21:00:00Z",
+      "Content": "Este jueves, el peso mexicano cotizaba por la tarde en 19.68 unidades por dólar, una apreciación tras las negociaciones en el exterior, luego de que la presidenta Claudia Sheinbaum sostuvo una llamad… [+1746 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.uecdn.es/71f451e46fbbea9d84c217ae810069c7/crop/100x0/3053x1969/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/14/17446539214117.jpg",
       "PublishedAt": "2025-04-14T18:35:00Z",
       "Content": "El Gobierno de Javier Milei superó este lunes con éxito su particular 'Día D' económico, horas repletas de desafíos en las que se liberó la compra de moneda extranjera a los argentinos, el peso comen… [+4349 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "​A cuánto está el dólar en cada banco tras la salida del cepo cambiario​",
-      "Description": "Tras la eliminación a la compra minorista de dólares, cada banco muestra un precio distinto",
-      "Url": "https://www.lanacion.com.ar/economia/a-cuanto-esta-el-dolar-en-cada-banco-tras-la-salida-del-cepo-cambiario-nid14042025/",
-      "UrlToImage": "https://arc-static.glanacion.com/pf/resources/images/placeholderLN-1200x630.png?d=1802",
-      "PublishedAt": "2025-04-14T15:44:49Z",
-      "Content": "Este lunes 14 de abril comenzó una nueva etapa para el mercado cambiario argentino. Por primera vez desde 2019, las personas físicas pueden acceder al dólar sin restricciones, tras el levantamiento d… [+1542 chars]"
     }
   ]
 }
