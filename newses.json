@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso cotizó a 19.70 por dólar en mercados internacionales",
+      "Description": "El peso cotizó en mercados electrónicos en su mejor nivel desde octubre de 2024, al operar en alrededor de 19.70 unidades por dólar.",
+      "Url": "https://www.jornada.com.mx/2025/04/18/economia/017n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-04-18T10:06:09Z",
+      "Content": "Periódico La JornadaViernes 18 de abril de 2025, p. 17\r\nEl peso cotizó en mercados electrónicos en su mejor nivel desde octubre de 2024, al operar en alrededor de 19.70 unidades por dólar.\r\nLa moneda… [+2498 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/para-el-bcra-fue-una-jornada-movida-y-desde-alli-7JM2ZITXL5A2BNH2DHPMIGLJ6Y.JPG?auth=e7f975692b1fad34db236b35ece0412a7b2d215759421f869096f0c8b25117de&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-14T20:33:05Z",
       "Content": "Fiel a lo anunciado el viernes, el Banco Central (BCRA) no concretó en la jornada intervenciones sobre el mercado de cambios oficialy mantuvo cerrada la ventanilla de pases activos, es decir, los pré… [+3274 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Sebastián Fest",
-      "Title": "Argentina supera su 'Día D': liberado el dólar, el peso se devalúa un 11% mientras Bessent visita a Milei para escenificar el apoyo de EEUU",
-      "Description": "El Gobierno de Javier Milei superó este lunes con éxito su particular 'Día D' económico, horas repletas de desafíos en las que se liberó la compra de moneda...",
-      "Url": "https://www.elmundo.es/economia/2025/04/14/67fd50affdddff7b0e8b457a.html",
-      "UrlToImage": "https://phantom-elmundo.uecdn.es/71f451e46fbbea9d84c217ae810069c7/crop/100x0/3053x1969/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/14/17446539214117.jpg",
-      "PublishedAt": "2025-04-14T18:35:00Z",
-      "Content": "El Gobierno de Javier Milei superó este lunes con éxito su particular 'Día D' económico, horas repletas de desafíos en las que se liberó la compra de moneda extranjera a los argentinos, el peso comen… [+4349 chars]"
     }
   ]
 }
