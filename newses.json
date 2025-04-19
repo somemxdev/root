@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de abril",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-abril-nid18042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-18T14:31:00Z",
+      "Content": "Este viernes 18 de abril de 2025, el precio del dólar en México es de $20,0213, de acuerdo con el último reporte del Diario Oficial de la Federación (DOF). Se espera que la divisa mexicana se manteng… [+2461 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/04/15/precio-del-dolar-hoy-15-de-abril-el-peso-sigue-recuperando-terreno.jpg",
       "PublishedAt": "2025-04-15T12:37:31Z",
       "Content": "Este martes 15 de abril de 2025 el dólar se cotiza al inicio de la jornada en $20.01 pesos, algunos centavos por debajo de su valor al cierre de la jornada anterior que fue de $20.10 pesos por unidad… [+820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 15 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 20.06 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.El peso mexicano y la bolsa avanzaban el lunes animados por un mejor …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/11/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-04-15T11:00:00Z",
-      "Content": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 20.06 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.\r\nEl peso… [+785 chars]"
     }
   ]
 }
