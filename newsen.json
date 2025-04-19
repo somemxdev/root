@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Raw Story"
+      },
+      "Author": "Krystina Alarcon Carroll",
+      "Title": "'Surge': Rich Americans dump money into Swiss banks as Trump chaos creates dollar anxiety",
+      "Description": "Wealthy investors are looking to “diversify away from the dollar,” according to a new NBC report. The outlet claims these investors “believe [the dollar] will weaken even further under the weight of the soaring U.S. debt.” One country that's drawing them away…",
+      "Url": "https://www.rawstory.com/trump-taxes-2671801768/",
+      "UrlToImage": "https://www.rawstory.com/media-library/image.jpg?id=53836326&width=1200&height=600&coordinates=0%2C458%2C0%2C459",
+      "PublishedAt": "2025-04-18T19:12:23Z",
+      "Content": "Wealthy investors are looking to diversify away from the dollar, according to a new NBC report.\r\nThe outlet claims these investors believe [the dollar] will weaken even further under the weight of th… [+1409 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -128,7 +141,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -141,7 +154,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-03-27T00:53:07Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": "bloomberg",
-        "Name": "Bloomberg"
-      },
-      "Author": "Bloomberg",
-      "Title": "Bank of India’s first dollar loan in over a decade woos 22 banks",
-      "Description": "Foreign-currency loans taken out by Indian borrowers have declined 30% on year to $3.2 billion so far this year, and are running at a four-year low, according to Bloomberg-compiled data. But that trend could soon reverse",
-      "Url": "https://www.bloomberg.com/news/articles/2025-03-26/bank-of-india-s-first-dollar-loan-in-over-a-decade-woos-22-banks",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/mhjrf/article69309072.ece/alternates/LANDSCAPE_1200/2024-09-05T050025Z_708357992_RC24U9A8WK60_RTRMADP_3_GLOBAL-FOREX-DOLLAR.JPG",
-      "PublishedAt": "2025-03-26T03:27:00Z",
-      "Content": "Bank of India has raised $400 million via a dollar syndicated loan, according to people familiar with the matter, marking its first such deal since 2012 that expands a list of the countrys borrowers … [+1796 chars]"
     }
   ]
 }
