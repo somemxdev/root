@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 144,
+  "TotalResults": 145,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Al peso no le ‘pesa la cruz’ en Viernes Santo: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/18/peso-dolar-precio-hoy-18-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YCS6YRVY7RER7PSWDJBTWDBO4A.jpg?smart=true&auth=c8da0835be850bbae786cf02f3be30af45d71d234d985b58cc11b849b8a77fb8&width=1200&height=630",
+      "PublishedAt": "2025-04-18T16:30:44Z",
+      "Content": "El peso mexicano, que viene de ganar casi 30 centavos, pierde casi nada ante el dólar este Viernes Santo, un día de pocos movimientos para los inversionistas.\r\nLos mercados en México están de puente … [+1577 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-15T13:38:13Z",
       "Content": "Después de seis años, hoy se ayer el cepo cambiario. La noticia la dio a conocer el Gobierno el viernes a última hora de la tarde, cuando los mercados ya estaban cerrados, en el marco del acuerdo con… [+6471 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Precio del dólar hoy 15 de abril: El peso sigue recuperando terreno",
-      "Description": "La divisa estadounidense se cotiza en $19.63 pesos a la compra y $20.43 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-15-de-abril-el-peso-sigue-recuperando-terreno",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/04/15/precio-del-dolar-hoy-15-de-abril-el-peso-sigue-recuperando-terreno.jpg",
-      "PublishedAt": "2025-04-15T12:37:31Z",
-      "Content": "Este martes 15 de abril de 2025 el dólar se cotiza al inicio de la jornada en $20.01 pesos, algunos centavos por debajo de su valor al cierre de la jornada anterior que fue de $20.10 pesos por unidad… [+820 chars]"
     }
   ]
 }
