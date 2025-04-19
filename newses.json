@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Fernanda Murillo",
+      "Title": "Peso mexicano se aprecia frente al dólar; creció 3% en última semana",
+      "Description": "El peso mexicano cerró, el Viernes Santo, con una cotización de 19.71 unidades por dólar, una apreciación de la moneda mexicana de 3% en los últimos siete días y el nivel más bajo que toca en lo que va de 2025.En las últimas tres jornadas, la divisa mexicana …",
+      "Url": "https://www.milenio.com/negocios/peso-mexicanos-aprecia-frente-al-dolar-hoy-18-de-abril-viernes-santo",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/23/vendedor-billete-mercado-ciudad-mexico.jpg",
+      "PublishedAt": "2025-04-18T21:30:00Z",
+      "Content": "El peso mexicano cerró, el Viernes Santo, con una cotización de 19.71 unidades por dólar, una apreciación de la moneda mexicana de 3% en los últimos siete días y el nivel más bajo que toca en lo que … [+2829 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-oficial-en-cada-banco-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-15T13:52:58Z",
       "Content": "Muchas personas se preguntana cuánto cotiza el dólar oficial hoy, martes 15 de abril, en cada banco. Esto se debe a que el pasado lunes se empezó a aplicar un nuevo régimen cambiario y se liberó parc… [+2323 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Fin del cepo: el dólar minorista abre a $1230 en el Banco Nación",
-      "Description": "En el segundo día tras el fin de las restricciones cambiarias, el tipo de cambio cotiza al mismo valor que el cierre de ayer",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/fin-del-cepo-el-dolar-minorista-abre-a-1230-en-el-banco-nacion-nid15042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-15T13:38:13Z",
-      "Content": "Después de seis años, hoy se ayer el cepo cambiario. La noticia la dio a conocer el Gobierno el viernes a última hora de la tarde, cuando los mercados ya estaban cerrados, en el marco del acuerdo con… [+6471 chars]"
     }
   ]
 }
