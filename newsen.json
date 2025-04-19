@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ozbargain.com.au"
+      },
+      "Author": "RUNTOP",
+      "Title": "Auto Mix Denomination Money Counter Machine, Bank Grade, Ideal for Australian Dollar Bills $998 (RRP $1200) + Delivery @ RUNTOP",
+      "Description": "Australian Professional Auto Mix Denomination Money Counting Machine/Cash Counting Machine with all required certifications. Made by the Market-Leading Manufacturer and Quality-Certified by the …",
+      "Url": "https://www.ozbargain.com.au/node/902397",
+      "UrlToImage": "https://files.ozbargain.com.au/n/97/902397.jpg?h=bb3b38df",
+      "PublishedAt": "2025-04-18T11:13:44Z",
+      "Content": "Australian Professional Auto Mix Denomination Money Counting Machine/Cash Counting Machine with all required certifications. Made by the Market-Leading Manufacturer and Quality-Certified by the Europ… [+1283 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://bl-i.thgim.com/public/incoming/mhjrf/article69309072.ece/alternates/LANDSCAPE_1200/2024-09-05T050025Z_708357992_RC24U9A8WK60_RTRMADP_3_GLOBAL-FOREX-DOLLAR.JPG",
       "PublishedAt": "2025-03-26T03:27:00Z",
       "Content": "Bank of India has raised $400 million via a dollar syndicated loan, according to people familiar with the matter, marking its first such deal since 2012 that expands a list of the countrys borrowers … [+1796 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "James Van Straten, AI Boost",
-      "Title": "Custodia, Vantage Bank Tokenize U.S. Dollar Demand Deposits on Ethereum",
-      "Description": "They conducted a series of eight regulated test transactions, involving minting, transferring, and redeeming Avit tokens under full U.S. banking compliance.",
-      "Url": "https://www.coindesk.com/markets/2025/03/25/custodia-vantage-bank-tokenize-u-s-dollar-demand-deposits-on-ethereum",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/08f3b07cd425d95d85c9329143471d8ae29842c6-1440x1080.jpg?auto=format",
-      "PublishedAt": "2025-03-25T12:30:16Z",
-      "Content": "Custodia Bank and Vantage Bank have completed the tokenization of U.S. dollar demand deposits on the Ethereum mainnet.\r\nThe banks issued and redeemed Custodia's Avit stablecoins on the Ethereum mainn… [+697 chars]"
     }
   ]
 }

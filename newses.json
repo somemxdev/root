@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY viernes 18 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 18 de abril inicia operaciones con el tipo de cambio interbancario en 19.71 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el jueves en sus negociaciones en el e…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/30/ubs-preve-dolar-en-pesos.jpeg",
+      "PublishedAt": "2025-04-18T11:04:00Z",
+      "Content": "El dólar HOY 18 de abril inicia operaciones con el tipo de cambio interbancario en 19.71 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg. \r\nEl pes… [+682 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/11/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-04-15T11:00:00Z",
       "Content": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 20.06 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.\r\nEl peso… [+785 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Debutó el dólar oficial sin intervención del Banco Central, que igual dio señales",
-      "Description": "El tipo de cambio mayorista de referencia (Comunicación A3500) quedó en $1182,42, un avance de 9,65% versus el cierre del viernes; la primera rueda bajo el nuevo esquema fue movida y volátil",
-      "Url": "https://www.lanacion.com.ar/economia/debuto-el-dolar-oficial-sin-intervencion-del-banco-central-que-igual-dio-senales-nid14042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/para-el-bcra-fue-una-jornada-movida-y-desde-alli-7JM2ZITXL5A2BNH2DHPMIGLJ6Y.JPG?auth=e7f975692b1fad34db236b35ece0412a7b2d215759421f869096f0c8b25117de&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-14T20:33:05Z",
-      "Content": "Fiel a lo anunciado el viernes, el Banco Central (BCRA) no concretó en la jornada intervenciones sobre el mercado de cambios oficialy mantuvo cerrada la ventanilla de pases activos, es decir, los pré… [+3274 chars]"
     }
   ]
 }
