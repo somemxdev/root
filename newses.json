@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso ‘acelera’ y luego pierde ganancias ante el dólar: ¿Cómo está el tipo de cambio HOY?",
+      "Description": "El fortalecimiento del peso se da después de que el dólar se debilita por la incertidumbre creada por los aranceles recíprocos de Donald Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/21/peso-dolar-precio-hoy-21-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W34DU6YLJZBY3O52RYT55R5ZDM.jpg?smart=true&auth=7a1dc0a916ba31fc5c1253bfa67231fb14d1ee9f9e8e924719498318ab62819a&width=1200&height=630",
+      "PublishedAt": "2025-04-21T17:50:25Z",
+      "Content": "El peso mexicano borró todas las ganancias que había acumulado frente al dólar este lunes 21 de abril, que se dieron después de un debilitamiento del billete verde, a medida que los operadores se man… [+1547 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso argentino se fortalece frente al dólar tras flexibilización cambiaria",
+      "Description": "Forbes México.\n Peso argentino se fortalece frente al dólar tras flexibilización cambiaria\n\nEl Gobierno de Javier Milei apunta a que la liquidación de exportaciones agrícolas y la escasez de pesos provoquen una revaluación de la moneda local.\nPeso argentino s…",
+      "Url": "https://forbes.com.mx/peso-argentino-se-fortalece-frente-al-dolar-tras-flexibilizacion-cambiaria/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/01/pesos-argentinos-1-1024x648.png",
+      "PublishedAt": "2025-04-21T17:04:22Z",
+      "Content": "La marcada apreciación del peso argentino desde la reciente liberación del mercado cambiario, gracias al apoyo Fondo Monetario Internacional (FMI) que permitió abultar las reservas del banco central … [+2526 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/04/16/peso-mexicano-se-mantiene-estable-frente-al-dolar-cotiza-en-2006.jpg",
       "PublishedAt": "2025-04-16T13:04:01Z",
       "Content": "Este miércoles 16 de abril de 2025 el dólar se cotiza al inicio de la jornada en $20.06 pesos, algunos centavos por debajo de su valor al cierre de la jornada anterior que fue de $20.12 pesos por uni… [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Cómo abre el dólar este miércoles 16 de abril en el Banco Nación",
-      "Description": "Durante el lunes y el martes el valor del billete oficial se mantuvo estable alrededor de los $1200",
-      "Url": "https://www.lanacion.com.ar/economia/como-abre-el-dolar-este-miercoles-16-de-abril-en-el-banco-nacion-nid16042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-abre-el-dolar-este-miercoles-16-de-abril-en-63JV23NDGZALBB4QT5JLDUXSNA.JPG?auth=1ac71ac828571f252caaa8eab6e9301dd32de36a88bffeb583f76ffc5b5c409c&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-16T11:20:30Z",
-      "Content": "El viernes pasado el Gobierno indicó que entró en la tercera etapa de su plan y anunció la llegada de dinero del Fondo Monetario Internacional (FMI) tras un nuevo acuerdo con el organismo y la libera… [+3177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY miércoles 16 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 16 de abril inicia operaciones con el tipo de cambio interbancario en 20.03 pesos mexicanos por billete verde, con una ligera alza del 0.34 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el martes por tercera sesión consecuti…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/28/el-precio-del-dolar-foto.jpg",
-      "PublishedAt": "2025-04-16T11:06:00Z",
-      "Content": "El dólar HOY 16 de abril inicia operaciones con el tipo de cambio interbancario en 20.03 pesos mexicanos por billete verde, con una ligera alza del 0.34 por ciento, según datos de Bloomberg. \r\nEl pes… [+740 chars]"
     }
   ]
 }
