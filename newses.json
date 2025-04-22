@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El euro marca máximos desde 2021 frente al dólar ante los ataques de Trump a la independencia de la Fed",
+      "Description": "El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central Europeo (BCE) en un contexto marcado por las duras críticas del presidente de Estados Unidos, Do…",
+      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-marca-maximos-2021-frente-dolar-ataques-trump-independencia-fed-20250421103450.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250421103450_1200.jpg",
+      "PublishedAt": "2025-04-21T08:34:50Z",
+      "Content": "MADRID 21 Abr. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central E… [+2371 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/15/3291319.jpg",
       "PublishedAt": "2025-04-15T14:31:50Z",
       "Content": "El peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 15 de abril de 2025 cotiza en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1550 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso adelanta su ‘resurrección’ ante el dólar: Tipo de cambio regresa a las 19 unidades HOY",
-      "Description": "El peso mexicano lleva una racha de días con ganancia que le ha permitido volver al terreno de las 19 unidades, un nivel en el que estaba antes de que los aranceles de Donald Trump 'metieran miedo' al mercado.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/15/peso-dolar-precio-hoy-15-de-abril-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HRFUA2YL3VBH7CYRYSS3FOQLSQ.jpg?smart=true&auth=b17ab26b284cf5494f42058252b223a63b724f9df7458b74edb685e972135008&width=1200&height=630",
-      "PublishedAt": "2025-04-15T14:15:27Z",
-      "Content": "El peso mexicano alarga su racha santa con ganancias ante el dólar que llevan al tipo de cambio de nuevo al terreno de las 19 unidades este martes 15 de abril. \r\nLa apreciación del peso mexicano ante… [+1421 chars]"
     }
   ]
 }
