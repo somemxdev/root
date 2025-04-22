@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "La Voz",
+      "Title": "El euro marca máximos desde el 2021 frente al dólar",
+      "Description": "Tras los ataques de Trump a la independencia de la Reserva Federal, la moneda única se cambia a 1.15 dólares",
+      "Url": "https://www.lavozdegalicia.es/noticia/economia/2025/04/21/euro-marca-maximos-2021-frente-dolar/00031745227707922613865.htm",
+      "UrlToImage": "https://img.lavdg.com/sc/tC3t6vFf2lM5OvEtWDj_TBYzmY4=/1280x/2022/07/19/00121658223565983530853/Foto/cosas.jpg",
+      "PublishedAt": "2025-04-21T09:35:00Z",
+      "Content": "El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central Europeo (BCE) en un contexto marcado… [+2329 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-1.webp",
       "PublishedAt": "2025-04-15T15:31:16Z",
       "Content": "El peso se apreciaba este martes por tercera sesión consecutiva después de haber tocado la semana pasada uno de sus peores niveles en lo que va del año, mientras los inversionistas continuaban tratan… [+1488 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso gana por tercera jornada! Precio del dólar hoy 15 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 15 de abril de 2025 cotiza en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-15-abril-2025-tipo-cambio-bancos-mexico/1710772",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/15/3291319.jpg",
-      "PublishedAt": "2025-04-15T14:31:50Z",
-      "Content": "El peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 15 de abril de 2025 cotiza en 19.97 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1550 chars]"
     }
   ]
 }
