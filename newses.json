@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Rafael Mejía Fernández de Lara",
+      "Title": "Precio del dólar HOY lunes 21 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "A pesar de la inestabilidad financiera que ha generado, a nivel mundial, la guerra arancelaria entre Estados Unidos y China; el peso mexicano se apreció 3% en los últimos siete días y, desde hace tres semanas,logró mantenerse por debajo de los 20 pesos.¿Dónde…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-de-abril-2025-a-cuanto-cotiza-en-vivo",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-04-21T11:11:00Z",
+      "Content": "A pesar de la inestabilidad financiera que ha generado, a nivel mundial, la guerra arancelaria entre Estados Unidos y China; el peso mexicano se apreció 3% en los últimos siete días y, desde hace tre… [+715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-15-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-04-15T15:31:18Z",
       "Content": "Este martes 15 de abril de 2025, el precio del dólar en México es de $20,1025, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve influenciad… [+2117 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza por tercera jornada y cotiza debajo de 20 unidades por dólar; BMV sube",
-      "Description": "Forbes México.\n Peso avanza por tercera jornada y cotiza debajo de 20 unidades por dólar; BMV sube\n\nEl peso cotizaba en 19.9720 por dólar, con un avance de un 0.50% frente a los 20.0720 del precio de referencia de LSEG del lunes. La semana pasada llegó a oper…",
-      "Url": "https://forbes.com.mx/peso-avanza-por-tercera-jornada-y-cotiza-debajo-de-20-unidades-por-dolar-bmv-sube/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-1.webp",
-      "PublishedAt": "2025-04-15T15:31:16Z",
-      "Content": "El peso se apreciaba este martes por tercera sesión consecutiva después de haber tocado la semana pasada uno de sus peores niveles en lo que va del año, mientras los inversionistas continuaban tratan… [+1488 chars]"
     }
   ]
 }
