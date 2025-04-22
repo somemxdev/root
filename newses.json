@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Sergio Fernández, Violeta N. Quiñonero",
+      "Title": "El euro se alza contra el dólar sobre los 1,15 por la amenaza de Trump de cesar a Powell en la Fed",
+      "Description": "El euro sigue ganando al dólar estadounidense en su particular pulso en el mercado de divisas. La moneda de la eurozona se cambia por más de 1,15 dólares, que sitúa al cruce entre ambas en niveles no vistos desde noviembre de 2021. Sin embargo, el éxito de un…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13326387/04/25/el-euro-se-alza-contra-el-dolar-sobre-los-115-por-la-amenaza-de-trump-de-cesar-a-powell-en-la-fed.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/2121x1413/e/6/a/1200x655_euromonedas.jpg",
+      "PublishedAt": "2025-04-21T12:50:28Z",
+      "Content": "El euro sigue ganando al dólar estadounidense en su particular pulso en el mercado de divisas. La moneda de la eurozona se cambia por más de 1,15 dólares, que sitúa al cruce entre ambas en niveles no… [+4100 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/eb122989-c094-4da3-af39-a4dfe3051757_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-04-15T20:31:46Z",
       "Content": "“No aceptamos una nueva normalidad. El 10% [de aranceles] que ha impuesto [Estados Unidos] de forma injusta no puede ser una base de la discusión”, señaló este lunes el ministro de Agricultura, Pesca… [+828 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 15 de abril",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-15-de-abril-nid15042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-15-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-04-15T15:31:18Z",
-      "Content": "Este martes 15 de abril de 2025, el precio del dólar en México es de $20,1025, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve influenciad… [+2117 chars]"
     }
   ]
 }
