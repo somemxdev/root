@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso alcanza su mejor nivel en 6 meses! Precio del dólar hoy 21 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en niveles no vistos desde octubre de 2024, con lo que el precio del dólar hoy 21 de abril de 2025 cotiza en 19.63 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-21-abril-2025-tipo-cambio-bancos-mexico/1711797",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/21/3294680.jpg",
+      "PublishedAt": "2025-04-21T16:33:30Z",
+      "Content": "El peso mexicano se aprecia en niveles no vistos desde octubre de 2024, con lo que el precio del dólar hoy 21 de abril de 2025 cotiza en 19.63 unidades por cada billete verde; conoce aquí cuál es el … [+1414 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/03/28/el-precio-del-dolar-foto.jpg",
       "PublishedAt": "2025-04-16T11:06:00Z",
       "Content": "El dólar HOY 16 de abril inicia operaciones con el tipo de cambio interbancario en 20.03 pesos mexicanos por billete verde, con una ligera alza del 0.34 por ciento, según datos de Bloomberg. \r\nEl pes… [+740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Retrocede el peso ante un dólar fortalecido",
-      "Description": "Las dudas de Wall Street contagiaron a los mercados cambiario y accionario mexicano, que no pudieron sostener las amplias ganancias con que iniciaron la sesión de ayer.",
-      "Url": "https://www.jornada.com.mx/2025/04/16/economia/019n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-04-16T10:49:33Z",
-      "Content": "Periódico La JornadaMiércoles 16 de abril de 2025, p. 19\r\nLas dudas de Wall Street contagiaron a los mercados cambiario y accionario mexicano, que no pudieron sostener las amplias ganancias con que i… [+1303 chars]"
     }
   ]
 }
