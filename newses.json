@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La inusual moneda de tres centavos de dólar que podría valer hasta US$185.000 por un detalle particular",
+      "Description": "La moneda de tres centavos de plata acuñada en 1865. Su rareza y estado de conservación la convierten en una pieza codiciada cuyo valor puede llegar hasta los 185 mil dólares.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-inusual-moneda-de-tres-centavos-de-dolar-que-podria-valer-hasta-us185-mil-por-un-detalle-nid21042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-1865-logro-venderse-por-180-mil-en-JDMVRNKSZND7ZCXEDX57OHOKII.jpg?auth=52e9c7ce02afaada3d2d5684a8a93ebab827721ee215d9e26883096d114c1b09&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-21T23:47:00Z",
+      "Content": "Existen cientos de monedas de Estados Unidos que, por diferentes motivos, causan un gran interés entre coleccionistas y se comercializan con precios elevados en el mercado. Una de ellas es la de tres… [+2574 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-oficial-en-cada-banco-ANVZEMMAFVEOHHAG7CK2YXOARI.JPG?auth=611fe81dd70afccefafede25aec68ed931cf0d74f05fdf9a33d340463560f3fc&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-16T13:06:40Z",
       "Content": "Muchas personas se preguntana cuánto cotiza el dólar oficial hoy, miércoles 16 de abril, en cada banco. Esto se debe a que el pasado lunes se empezó a aplicar un nuevo régimen cambiario y se liberó p… [+2185 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "@record_mexico",
-      "Title": "Peso mexicano se mantiene estable frente al dólar: cotiza en $20.06",
-      "Description": "La divisa estadounidense se cotiza en $19.58 pesos a la compra y $20.39 pesos a la venta",
-      "Url": "https://www.record.com.mx/contra/peso-mexicano-se-mantiene-estable-frente-al-dolar-cotiza-en-2006",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/04/16/peso-mexicano-se-mantiene-estable-frente-al-dolar-cotiza-en-2006.jpg",
-      "PublishedAt": "2025-04-16T13:04:01Z",
-      "Content": "Este miércoles 16 de abril de 2025 el dólar se cotiza al inicio de la jornada en $20.06 pesos, algunos centavos por debajo de su valor al cierre de la jornada anterior que fue de $20.12 pesos por uni… [+856 chars]"
     }
   ]
 }
