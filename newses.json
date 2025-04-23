@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 22 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 22 de abril inicia operaciones con el tipo de cambio interbancario en 19.68 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba a niveles no vistos desde octubre de 2…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-04-22T11:15:00Z",
+      "Content": "El dólar HOY 22 de abril inicia operaciones con el tipo de cambio interbancario en 19.68 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg. \r\nEl pes… [+871 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-16-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-16T14:20:39Z",
       "Content": "Este miércoles 16 de abril de 2025, el precio del dólar en México es de $20,0213, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano es favorecido por el retroce… [+2402 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "​A cuánto está el dólar oficial banco por banco hoy, miércoles 16 de abril",
-      "Description": "Tras el fin del cepo, la cotización minorista fluctúa dentro de una banda móvil entre $1000 y $1400; cuál es el valor en que se comercializa en cada entidad bancaria hoy",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-esta-el-dolar-oficial-banco-por-banco-hoy-miercoles-16-de-abril-nid16042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-oficial-en-cada-banco-ANVZEMMAFVEOHHAG7CK2YXOARI.JPG?auth=611fe81dd70afccefafede25aec68ed931cf0d74f05fdf9a33d340463560f3fc&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-16T13:06:40Z",
-      "Content": "Muchas personas se preguntana cuánto cotiza el dólar oficial hoy, miércoles 16 de abril, en cada banco. Esto se debe a que el pasado lunes se empezó a aplicar un nuevo régimen cambiario y se liberó p… [+2185 chars]"
     }
   ]
 }
