@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Japan Today"
+      },
+      "Author": null,
+      "Title": "Dollar drops below 140 yen for 1st time in 7 months as Japan finance chief leaves for U.S.",
+      "Description": "The finance chiefs of Japan and the United States are expected to hold talks on currency this week with Japanese representative Katsunobu Kato departing Tuesday for Washington to attend international gatherings. The U.S. dollar fell below 140 yen on Tuesday f…",
+      "Url": "https://japantoday.com/category/business/currency-on-agenda-as-japan-finance-chief-leaves-for-washington",
+      "UrlToImage": null,
+      "PublishedAt": "2025-04-22T07:34:18Z",
+      "Content": "The finance chiefs of Japan and the United States are expected to hold talks on currency this week with Japanese representative Katsunobu Kato departing Tuesday for Washington to attend international… [+2292 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -141,7 +154,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -154,7 +167,7 @@
       "Author": null,
       "Title": "Exclusive-China's central bank asks state lenders to reduce dollar purchases, sources say",
       "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b618caa-ffe4-4c50-afa7-bb7df0f44fef",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0cfe6f5-4f04-4915-a4fc-6a4d07ba0d0e",
       "UrlToImage": null,
       "PublishedAt": "2025-04-09T07:52:05Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/5544bfdf9c8125014a894cf484340075",
       "PublishedAt": "2025-03-27T09:22:23Z",
       "Content": "MUMBAI (Reuters) - India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by Kinexys, the U.S-based len… [+1354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar Tree's CEO Says 'Everybody Is Hurting' In Today's Economy - Yahoo Finance",
-      "Description": "Dollar Tree's CEO Says 'Everybody Is Hurting' In Today's EconomyYahoo Finance Dollar Tree says it's winning over higher-income shoppers and may offset tariffs with price hikesCNBC Dollar Tree surges three items' prices - fans are 'praying' for one sectionThe …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176833851",
-      "UrlToImage": null,
-      "PublishedAt": "2025-03-27T00:53:07Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
