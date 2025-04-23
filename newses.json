@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso aprovecha las ‘desgracias’ del dólar: ¿Cuánto se aprecia el tipo de cambio HOY?",
+      "Description": "El valor del dólar va en caída por el temor entre los inversionistas que despertó el ataque de Donald Trump contra Jerome Powell, presidente de la Fed, a quien exige recorta la tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/22/peso-dolar-precio-hoy-22-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2EYGHTTFR5D45JDCVSQOEGBKIQ.jpg?smart=true&auth=04454b660b1e18640ab8d7ab79f2b7665b1b404533cccf45da1a4ac7d64324f6&width=1200&height=630",
+      "PublishedAt": "2025-04-22T15:49:51Z",
+      "Content": "El peso mexicano amplía sus ganancias este martes 22 de abril y aprovecha que Donald Trump está hundiendo al dólar con sus ataques contra la Reserva Federal, a la que exige recortar las tasas de inte… [+1773 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/16/3292098.jpg",
       "PublishedAt": "2025-04-16T15:00:11Z",
       "Content": "El peso mexicano se recupera y avanza en el arranque de la jornada de este miércoles, con lo que el precio del dólar hoy 16 de abril de 2025 cotiza en 19.99 unidades por cada billete verde; conoce aq… [+1377 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Víctor Blanco Moro",
-      "Title": "La larga batalla de las divisas en la década: el euro mantiene su peso frente a un dólar que pierde terreno en el mundo",
-      "Description": "La reacción de los mercados en el mercado de divisas ante el ataque arancelario de Donald Trump al mundo está siendo muy clara: el dólar estadounidense está sufriendo las consecuencias de una política que no gusta a los inversores, y se está depreciando en su…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13322376/04/25/la-larga-batalla-de-las-divisas-en-la-decada-el-euro-mantiene-su-peso-frente-a-un-dolar-que-pierde-terreno-en-el-mundo.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2120x1157/f/2/a/1200x655_DolarvsEurobuena.jpg",
-      "PublishedAt": "2025-04-16T14:58:41Z",
-      "Content": "La reacción de los mercados en el mercado de divisas ante el ataque arancelario de Donald Trump al mundo está siendo muy clara: el dólar estadounidense está sufriendo las consecuencias de una polític… [+7165 chars]"
     }
   ]
 }
