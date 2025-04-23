@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "Carlos Prego",
+      "Title": "Estados Unidos ha iniciado un pulso en el mercado de divisas. Uno en el que el euro se está imponiendo al dólar",
+      "Description": "La incertidumbre no les sienta bien a las bolsas. Ni al dólar. Al menos si nos fijamos en su evolución frente a otras divisas, como el yen, el franco suizo o el euro. Con la guerra comercial y los ataques de Trump a la Reserva Federal como telón de fondo, el …",
+      "Url": "https://www.xataka.com/magnet/estados-unidos-ha-iniciado-pulso-mercado-divisas-uno-que-euro-se-esta-imponiendo-al-dolar",
+      "UrlToImage": "https://i.blogs.es/3663db/trumeuir/840_560.jpeg",
+      "PublishedAt": "2025-04-22T17:31:40Z",
+      "Content": "La incertidumbre no les sienta bien a las bolsas. Ni al dólar. Al menos si nos fijamos en su evolución frente a otras divisas, como el yen, el franco suizo o el euro. Con la guerra comercial y los at… [+3826 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso amplía ganancias! Precio del dólar hoy 22 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia luego de dos jornadas de retrocesos, con lo que el precio del dólar hoy 22 de abril de 2025 cotiza en 19.52 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa m…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-22-abril-2025-tipo-cambio-bancos-mexico/1711957",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/22/3295192.jpg",
+      "PublishedAt": "2025-04-22T17:04:52Z",
+      "Content": "El peso mexicano se aprecia luego de dos jornadas de retrocesos, con lo que el precio del dólar hoy 22 de abril de 2025 cotiza en 19.52 unidades por cada billete verde; conoce aquí cuál es el tipo de… [+1236 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.borderperiodismo.com/wp-content/uploads/2024/01/DOLAR-AFIP.png",
       "PublishedAt": "2025-04-16T18:20:50Z",
       "Content": "Luego del anuncio de la apertura del cepo y el nuevo régimen de flotación para la moneda norteamericana entre $1000 y $ 1400, el dólar único cerró la segunda jornada sin control cambiario a $1230 par… [+1677 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Milei aseguró que el Banco Central no va a intervenir hasta que el dólar “toque el piso de la banda”",
-      "Description": "Fue en respuesta a un posteo de un periodista de LA NACION, que dijo que el Gobierno no comprará dólares ya que confía en que el mercado hará que su valor descienda sin necesidad de que el BCRA actúe",
-      "Url": "https://www.lanacion.com.ar/economia/milei-aseguro-que-el-banco-central-no-va-a-intervenir-hasta-que-el-dolar-toque-el-piso-de-la-banda-nid16042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-presidente-javier-ELOQMDOXQFCLPHBEYGV5TNVOEA.JPG?auth=3e2064533a116c5782501cfac0fb0ddd6860386fdca42c2f70c34a5c0ab4a9cd&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-16T18:15:16Z",
-      "Content": "El presidente Javier Milei afirmó este miércoles por la tarde, a través de un posteo en la red social X, que el Gobierno -por medio del Banco Central de República Argentina (BCRA)- no intervendrá en … [+642 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza tras datos de EU y China! Precio del dólar hoy 16 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera y avanza en el arranque de la jornada de este miércoles, con lo que el precio del dólar hoy 16 de abril de 2025 cotiza en 19.99 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-16-abril-2025-tipo-cambio-bancos-mexico/1711009",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/16/3292098.jpg",
-      "PublishedAt": "2025-04-16T15:00:11Z",
-      "Content": "El peso mexicano se recupera y avanza en el arranque de la jornada de este miércoles, con lo que el precio del dólar hoy 16 de abril de 2025 cotiza en 19.99 unidades por cada billete verde; conoce aq… [+1377 chars]"
     }
   ]
 }
