@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El “primer dólar”: la moneda de 1538, acuñada en México, que puede valer hasta US$538 mil",
+      "Description": "Una pieza histórica se convirtió en una de las más valiosas para los aficionados a la numismática; se destaca por su rareza, simbolismo y estado de conservación",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-primer-dolar-la-moneda-de-1538-acunada-en-mexico-que-puede-valer-hasta-us538-mil-nid22042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-acunada-en-la-ciudad-de-mexico-podria-RUAXGOTTLNB5RPUE732CTMDCHI.jpg?auth=fffe2d84b45f8f84822599b3921991d20d53c4e329a5711b62e4c0dc660cdfc9&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-23T02:00:00Z",
+      "Content": "Una moneda acuñada en México en el siglo XVI se ubicó entre las más valiosas en el mercado estadounidense. Se trata de una pieza de ocho reales de 1538, considerada por expertos como el primer dólar … [+2655 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-DU3PQP5XW5CW5LMTUHPYJO5CII.jpg?auth=bb76adce7f94a5e7de88de96ae72375d7f841850c23857e614a0b40f2f909652&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-16T18:31:57Z",
       "Content": "La salida del cepo cambiario en la Argentina trajo consigo una mayor libertad para la compra de divisas, pero también expuso con mayor claridad las diferencias entre los bancos a la hora de vender dó… [+2517 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Borderperiodismo.com"
-      },
-      "Author": "#BorderPeriodismo",
-      "Title": "Tercer día sin cepo: el dólar cerró a $1160 en el Banco Nación",
-      "Description": "La moneda norteamericana está a la baja después de cumplirse el cierre de la tercera jornada sin control cambiario.\nLa entrada Tercer día sin cepo: el dólar cerró a $1160 en el Banco Nación se publicó primero en #BorderPeriodismo.",
-      "Url": "https://www.borderperiodismo.com/economia/con-el-fin-del-cepo-el-dolar-oficial-abrio-a-1250-en-el-banco-nacion/",
-      "UrlToImage": "https://www.borderperiodismo.com/wp-content/uploads/2024/01/DOLAR-AFIP.png",
-      "PublishedAt": "2025-04-16T18:20:50Z",
-      "Content": "Luego del anuncio de la apertura del cepo y el nuevo régimen de flotación para la moneda norteamericana entre $1000 y $ 1400, el dólar único cerró la segunda jornada sin control cambiario a $1230 par… [+1677 chars]"
     }
   ]
 }
