@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 23 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 23 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.39 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba a niveles no vistos desde octubre de 20…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-04-23T11:02:00Z",
+      "Content": "El dólar HOY 23 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.39 por ciento, según datos de Bloomberg. \r\nEl pes… [+871 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/04/depreciacion-del-peso-mexicano-cuartoscuro.jpg",
       "PublishedAt": "2025-04-16T21:34:00Z",
       "Content": "El peso mexicano cerró este miércoles con una ganancia de 0.84 por ciento, por lo que la divisa se cotiza en 19.93 unidades por dólar. \r\nLa moneda local se ha visto favorecida por el retroceso del dó… [+2742 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Qué banco vende el dólar más barato tras la salida del cepo cambiario",
-      "Description": "El dólar minorista exhibe dispersión de precios en las cotizaciones electrónicas a las 13:00; hay diferencias de hasta $50 por dólar entre entidades",
-      "Url": "https://www.lanacion.com.ar/economia/que-banco-vende-el-dolar-mas-barato-tras-la-salida-del-cepo-cambiario-nid16042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-DU3PQP5XW5CW5LMTUHPYJO5CII.jpg?auth=bb76adce7f94a5e7de88de96ae72375d7f841850c23857e614a0b40f2f909652&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-16T18:31:57Z",
-      "Content": "La salida del cepo cambiario en la Argentina trajo consigo una mayor libertad para la compra de divisas, pero también expuso con mayor claridad las diferencias entre los bancos a la hora de vender dó… [+2517 chars]"
     }
   ]
 }
