@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Jorge Calzada Zubiría",
+      "Title": "Ni Europa ni su moneda están listas para desbancar al dólar como el refugio por excelencia, advierte la gestora de Deutsche Bank",
+      "Description": "Pese a su reciente debilitamiento, el dólar sigue siendo clave por la solidez y liquidez de su mercado. Para DWS, el actual clima de acoso e incertidumbre ofrece a Europa una oportunidad para madurar y unirse Leer",
+      "Url": "https://www.elmundo.es/economia/2025/04/23/6808d1fbe4d4d8b7348b4573.html",
+      "UrlToImage": "https://phantom-elmundo.uecdn.es/c2adf88c29b44cf5afcd12391418ce92/f/webp/assets/multimedia/imagenes/2025/04/23/17454129268541.jpg",
+      "PublishedAt": "2025-04-23T15:45:46Z",
+      "Content": "A medida que crece la incertidumbre política y económica en Estados Unidos, y en un contexto en el que las bolsas de valores experimentan subidas y bajadas de más del 5% en un solo día, los inversore… [+4150 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Fin del cepo: el dólar minorista abre estable a $1120 en Banco Nación",
+      "Description": "Las acciones argentinas trepan hasta 8%, en una rueda positiva para los mercados globales",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/fin-del-cepo-el-dolar-minorista-abre-estable-a-1120-en-banco-nacion-nid23042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-miercoles-23-de-IDFSAWAJ5NGNTBP2OO4CQ3A2ZQ.JPG?auth=3f7ed7ee111ec9aa966e62cf3088482248b373a9287e3e139f6d5a361517bad2&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-23T15:24:49Z",
+      "Content": "Los dólares siguen en la búsqueda de su nuevo precio de equilibrio, luego de que la semana pasada se eliminara gran parte del cepo cambiario, lo que provocó ruedas de fuertes subas y bajas en el merc… [+3436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-04-17T11:08:00Z",
       "Content": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 19.89 pesos mexicanos por billete verde, con una ligera baja del 0.07 por ciento, según datos de Bloomberg. \r\nEl pes… [+628 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La moneda de un dólar con el rostro de una exploradora de EE.UU. que puede valer hasta US$66.000",
-      "Description": "Un ejemplar acuñado en Denver contiene un error inusual que lo convierte en una pieza extremadamente rara para coleccionistas; así se puede identificar si se tiene una",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-un-dolar-con-el-rostro-de-una-exploradora-de-eeuu-que-puede-valer-hasta-us66000-nid17042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-2000-y-actualmente-en-C5SRXOBKPFBGFANBZG4RXUBYWE.jpg?auth=6f942ed6fe74ccbce448dc0c700ec66a590379d044695eb3d5fa1d09718fc313&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-17T08:55:00Z",
-      "Content": "En la numismática, ciertas monedas emitidas con errores pueden alcanzar precios elevados entre coleccionistas. Ese es el caso del dólar de Sacagawea del año 2000que presenta un diseño equivocado en u… [+2160 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Belkis Martínez",
-      "Title": "Dólar: la baja del tipo de cambio enfrió ventas de los productores y desaceleró negocios para exportar",
-      "Description": "Expertos y un reporte de la Bolsa de Comercio de Rosario (BCR) pusieron el foco en la actividad de hoy, que en el caso de la soja tuvo un “discreto dinamismo”",
-      "Url": "https://www.lanacion.com.ar/economia/campo/dolar-la-baja-del-tipo-de-cambio-enfrio-ventas-de-los-productores-y-desacelero-negocios-para-nid16042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-soja-tuvo-una-operatoria-con-discreto-M3LIKVQHT5HCHLFFGQZC7IEHUM.jpg?auth=76bc76c4e2508af2ee45ed10dca8e079dad7df790f527c0a5331b6301762984e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-16T22:39:33Z",
-      "Content": "En una jornada marcada por la apreciación del peso, el tipo de cambio cerró este miércoles con una fuerte caída que encendió señales de alerta en el mercado de granos. La baja del dólar [el minorista… [+5808 chars]"
     }
   ]
 }
