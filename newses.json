@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 147,
+  "TotalResults": 149,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Ignacio Olivera Muñeca",
+      "Title": "Milei ‘defiende’ al peso argentino: ¿Por qué busca que la moneda llegue a 1000 pesos por dólar?",
+      "Description": "El peso argentino fluctúa libremente entre los mil y los mil 400 pesos por dólar.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2025/04/23/milei-defiende-al-peso-argentino-por-que-busca-que-la-moneda-llegue-a-1000-pesos-por-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OISLQBK22BEXHMNI55WBRZVW7U.jpeg?smart=true&auth=6966824043890b9bac70e13fbdaca840a135da6e1f4f28b6ccecfc32147dbdad&width=1200&height=630",
+      "PublishedAt": "2025-04-23T16:32:06Z",
+      "Content": "Los operadores de Buenos Aires están comenzando a aceptar el objetivo del presidente Javier Milei de fortalecer la moneda argentina hacia los 1.000 pesos por dólar, incluso cuando los economistas adv… [+5331 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cotiza en 19.50 unidades por dólar tras cese de ataques de Trump contra Powell; BMV gana por sexta jornada al hilo",
+      "Description": "Forbes México.\n Peso cotiza en 19.50 unidades por dólar tras cese de ataques de Trump contra Powell; BMV gana por sexta jornada al hilo\n\nEl peso cotizaba en 19.5007 dólar, un nivel no visto desde octubre del año pasado, con una ganancia de un 0.52% frente al …",
+      "Url": "https://forbes.com.mx/peso-cotiza-en-19-50-unidades-por-dolar-tras-cese-de-ataques-de-trump-contra-powell-bmv-gana-por-sexta-jornada-al-hilo/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
+      "PublishedAt": "2025-04-23T16:06:26Z",
+      "Content": "El peso se apreciaba el miércoles impulsado por un mejor ambiente para los activos de riesgo después de que el presidente de Estados Unidos, Donald Trump, dio marcha atrás a sus amenazas de despedir … [+1893 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/17/3293009.jpg",
       "PublishedAt": "2025-04-17T18:32:41Z",
       "Content": "El peso mexicano se aprecia este jueves en operaciones en el exterior, con lo que el precio del dólar hoy 17 de abril de 2025 cotiza en 19.74 unidades por cada billete verde.\r\nLa divisa mexicana regi… [+1010 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de abril",
-      "Description": "La cotización promedio se ubica por debajo de los $20, impulsada por la baja del billete verde y un diálogo entre los mandatarios de EE.UU. y México que redujo la tensión comercial",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-abril-nid17042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-17-de-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-17T17:15:12Z",
-      "Content": "Este jueves 17 de abril de 2025, el tipo de cambio entre el dólar y el peso mexicano registra un leve movimiento favorable para la moneda del país latino. Según la información oficial del Diario Ofic… [+2403 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 17 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 19.89 pesos mexicanos por billete verde, con una ligera baja del 0.07 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el miércoles ante un retroceso general…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-04-17T11:08:00Z",
-      "Content": "El dólar HOY 15 de abril inicia operaciones con el tipo de cambio interbancario en 19.89 pesos mexicanos por billete verde, con una ligera baja del 0.07 por ciento, según datos de Bloomberg. \r\nEl pes… [+628 chars]"
     }
   ]
 }
