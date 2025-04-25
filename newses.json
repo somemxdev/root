@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 153,
+  "TotalResults": 154,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "¿El dólar caerá a su nivel más bajo? Deutsche Bank anticipa su desplome y prevé que el euro ‘se infle’",
+      "Description": "¿Por qué el dólar tocará su nivel más bajo? Estos son los pronósticos de Deutsche Bank.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/24/el-dolar-caera-a-su-nivel-mas-bajo-deutsche-bank-anticipa-su-desplome-y-preve-que-el-euro-se-infle/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LUV45NMCVRFJLDFQB4MF2MPZMI.jpeg?smart=true&auth=804d1b7fcfd0abe3e64976e893f9469c10b0b5b976c9496bf18d113391d55a50&width=1200&height=630",
+      "PublishedAt": "2025-04-24T19:33:25Z",
+      "Content": "Deutsche Bank advierte de una tendencia bajista del dólar en los próximos años que llevará a la moneda estadounidense a su nivel más débil en más de una década frente al euro.\r\nLos estrategas George … [+2963 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/23/vendedor-billete-mercado-ciudad-mexico.jpg",
       "PublishedAt": "2025-04-18T21:30:00Z",
       "Content": "El peso mexicano cerró, el Viernes Santo, con una cotización de 19.71 unidades por dólar, una apreciación de la moneda mexicana de 3% en los últimos siete días y el nivel más bajo que toca en lo que … [+2829 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Al peso no le ‘pesa la cruz’ en Viernes Santo: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/18/peso-dolar-precio-hoy-18-de-abril-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YCS6YRVY7RER7PSWDJBTWDBO4A.jpg?smart=true&auth=c8da0835be850bbae786cf02f3be30af45d71d234d985b58cc11b849b8a77fb8&width=1200&height=630",
-      "PublishedAt": "2025-04-18T16:30:44Z",
-      "Content": "El peso mexicano, que viene de ganar casi 30 centavos, pierde casi nada ante el dólar este Viernes Santo, un día de pocos movimientos para los inversionistas.\r\nLos mercados en México están de puente … [+1577 chars]"
     }
   ]
 }
