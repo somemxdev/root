@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Phoebe Liu, Forbes Staff, \n Phoebe Liu, Forbes Staff\n https://www.forbes.com/sites/phoebeliu/",
+      "Title": "Magic Money: The Mysterious Case Of The $15 Billion Metaverse Startup And Its Anonymous Multi-Billion Dollar Investor",
+      "Description": "This tech outfit says it raised more than $3 billion from one unnamed investor in one of the biggest funding rounds of the year. Not all is as it seems.",
+      "Url": "https://www.forbes.com/sites/phoebeliu/2025/04/24/infinite-reality-john-acunto-155-billion-metaverse-startup-biggest-fundraise/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/68095e559f884daf64304d76/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2025-04-24T10:38:18Z",
+      "Content": "Florida-based Infinite Reality claims it raised more than $3 billion from a sole unnamed investor. That would make the obscure company the beneficiary of one of the biggest funding rounds of the year… [+21642 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
       "PublishedAt": "2025-03-27T12:30:00Z",
       "Content": "ENCINO, Calif., March 27, 2025 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a global leader in delivering state-of-the-art solutions for the asset finance and leasing industry, has s… [+5420 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Reuters",
-      "Title": "India's Axis Bank, J.P. Morgan roll out anytime dollar payments for clients",
-      "Description": "India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by...",
-      "Url": "https://finance.yahoo.com/news/indias-axis-bank-j-p-092223488.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/5544bfdf9c8125014a894cf484340075",
-      "PublishedAt": "2025-03-27T09:22:23Z",
-      "Content": "MUMBAI (Reuters) - India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by Kinexys, the U.S-based len… [+1354 chars]"
     }
   ]
 }

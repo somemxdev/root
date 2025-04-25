@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 148,
+  "TotalResults": 153,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "Rodrigo Cárdenas",
+      "Title": "¿Cuándo flotará libremente el dólar en Argentina?: “Llegará con el tiempo”, dice el presidente de su Banco Central",
+      "Description": "\"Pasamos de la paridad móvil a una flotación libre dentro de bandas, con la idea de que queremos pasar, eventualmente, a un régimen de flotación libre\", sostuvo respecto del fin del cepo cambiario Santiago Bausili, en conversación con el chileno Rodrigo Valdé…",
+      "Url": "https://www.latercera.com/pulso/noticia/presidente-banco-central-de-argentina-desde-el-principio-tuvimos-la-vision-de-que-no-habia-mas-espacio-para-desequilibrios-fiscales/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/NK2NHVXSRZEPVKNOTNPCWT2CJM.png?auth=f8de25d37fb126ee8c5de6e87a63bcfd7338371c0b97e666c4a33542bf06f075&height=630&width=1200&smart=true",
+      "PublishedAt": "2025-04-24T16:00:14Z",
+      "Content": "A días de que se liberará el cepo del dólar en Argentina, el presidente del Banco Central de ese país, Santiago Bausili, dio más luces sobre lo que viene en una conversación con el director para el H… [+4036 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 24 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-24-de-abril-nid24042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-24T15:13:21Z",
+      "Content": "Este jueves 24 de abril de 2025, el precio del dólar en México es de $19,6278, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano es beneficiado por el debilitam… [+2169 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El dólar minorista sube $15 y se vende a $1185 en el Banco Nación",
+      "Description": "El tipo de cambio mayorista avanza $5, luego de que ayer registrara una de las mayores subas intradiarias desde la salida del cepo",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-minorista-sube-15-y-se-vende-a-1185-en-el-banco-nacion-nid24042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-jueves-24-de-abril-5GVPUFDSHVFLBIWGLTML3VBRO4.JPG?auth=98136b12c250bbb91190c40fd33258939b0548dbd302c3e1aaa6851c066d38e4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-24T14:56:32Z",
+      "Content": "Desde que el Gobierno eliminó el cepo, la volatilidad está presente en el mercado de cambios. Sin intervenciones del Banco Central (BCRA), las cotizaciones están en la búsqueda de su precio de equili… [+3263 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza tras dato de inflación! Precio del dólar hoy 24 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza tras darse a conocer datos económicos de México y Estados Unidos, con lo que el precio del dólar hoy 24 de abril de 2025 cotiza en 19.58 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-abril-2025-tipo-cambio-bancos-mexico/1712370",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/24/3296420.jpg",
+      "PublishedAt": "2025-04-24T14:15:44Z",
+      "Content": "El peso mexicano avanza tras darse a conocer datos económicos de México y Estados Unidos, con lo que el precio del dólar hoy 24 de abril de 2025 cotiza en 19.58 unidades por cada billete verde; conoc… [+1173 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 24 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 24 de abril inicia operaciones con el tipo de cambio interbancario en 19.58 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba a niveles no vistos desde octubre de 20…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-04-24T11:00:00Z",
+      "Content": "El dólar HOY 24 de abril inicia operaciones con el tipo de cambio interbancario en 19.58 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. \r\nEl pes… [+893 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YCS6YRVY7RER7PSWDJBTWDBO4A.jpg?smart=true&auth=c8da0835be850bbae786cf02f3be30af45d71d234d985b58cc11b849b8a77fb8&width=1200&height=630",
       "PublishedAt": "2025-04-18T16:30:44Z",
       "Content": "El peso mexicano, que viene de ganar casi 30 centavos, pierde casi nada ante el dólar este Viernes Santo, un día de pocos movimientos para los inversionistas.\r\nLos mercados en México están de puente … [+1577 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de abril",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-abril-nid18042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-18T14:31:00Z",
-      "Content": "Este viernes 18 de abril de 2025, el precio del dólar en México es de $20,0213, de acuerdo con el último reporte del Diario Oficial de la Federación (DOF). Se espera que la divisa mexicana se manteng… [+2461 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY viernes 18 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 18 de abril inicia operaciones con el tipo de cambio interbancario en 19.71 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el jueves en sus negociaciones en el e…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/30/ubs-preve-dolar-en-pesos.jpeg",
-      "PublishedAt": "2025-04-18T11:04:00Z",
-      "Content": "El dólar HOY 18 de abril inicia operaciones con el tipo de cambio interbancario en 19.71 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg. \r\nEl pes… [+682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso cotizó a 19.70 por dólar en mercados internacionales",
-      "Description": "El peso cotizó en mercados electrónicos en su mejor nivel desde octubre de 2024, al operar en alrededor de 19.70 unidades por dólar.",
-      "Url": "https://www.jornada.com.mx/2025/04/18/economia/017n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-04-18T10:06:09Z",
-      "Content": "Periódico La JornadaViernes 18 de abril de 2025, p. 17\r\nEl peso cotizó en mercados electrónicos en su mejor nivel desde octubre de 2024, al operar en alrededor de 19.70 unidades por dólar.\r\nLa moneda… [+2498 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Peso mexicano gana en Jueves Santo; cotiza 19.68 unidades por dólar",
-      "Description": "Este jueves, el peso mexicano cotizaba por la tarde en19.68 unidades por dólar, una apreciación tras las negociaciones en el exterior, luego de que la presidenta Claudia Sheinbaum sostuvo una llamada con su homólogo estadunidense, Donald Trump.La moneda mexic…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-del-peso-hoy-17-de-abril",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/14/peso-mexicano-deprecio-ciento-cerrando.jpeg",
-      "PublishedAt": "2025-04-17T21:00:00Z",
-      "Content": "Este jueves, el peso mexicano cotizaba por la tarde en 19.68 unidades por dólar, una apreciación tras las negociaciones en el exterior, luego de que la presidenta Claudia Sheinbaum sostuvo una llamad… [+1746 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 17 abril 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia este jueves en operaciones en el exterior, con lo que el precio del dólar hoy 17 de abril de 2025 cotiza en 19.74 unidades por cada billete verde.\r\n\nLa divisa mexicana registra una ganancia del 0.9%, su mejor nive…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-17-abril-2025/1711255",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/17/3293009.jpg",
-      "PublishedAt": "2025-04-17T18:32:41Z",
-      "Content": "El peso mexicano se aprecia este jueves en operaciones en el exterior, con lo que el precio del dólar hoy 17 de abril de 2025 cotiza en 19.74 unidades por cada billete verde.\r\nLa divisa mexicana regi… [+1010 chars]"
     }
   ]
 }
