@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 150,
+  "TotalResults": 152,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana por segunda jornada! Precio del dólar hoy 25 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 25 de abril de 2025 cotiza en 19.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-25-abril-2025-tipo-cambio-bancos-mexico/1712598",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/25/3297110.jpg",
+      "PublishedAt": "2025-04-25T14:23:37Z",
+      "Content": "El peso mexicano avanza por segunda jornada consecutiva, con lo que el precio del dólar hoy 25 de abril de 2025 cotiza en 19.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1483 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 25 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-25-de-abril-nid25042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-25-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-25T14:08:56Z",
+      "Content": "Este viernes 25 de abril de 2025, el precio del dólar en México es de $19,5825, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se debilita frente a lamoneda de… [+2161 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.lavdg.com/sc/tC3t6vFf2lM5OvEtWDj_TBYzmY4=/1280x/2022/07/19/00121658223565983530853/Foto/cosas.jpg",
       "PublishedAt": "2025-04-21T09:35:00Z",
       "Content": "El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central Europeo (BCE) en un contexto marcado… [+2329 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "El euro marca máximos desde 2021 frente al dólar ante los ataques de Trump a la independencia de la Fed",
-      "Description": "El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central Europeo (BCE) en un contexto marcado por las duras críticas del presidente de Estados Unidos, Do…",
-      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-marca-maximos-2021-frente-dolar-ataques-trump-independencia-fed-20250421103450.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250421103450_1200.jpg",
-      "PublishedAt": "2025-04-21T08:34:50Z",
-      "Content": "MADRID 21 Abr. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central E… [+2371 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 19 de abril de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de abril el tipo de cambio interbancario, se ubica en 18.06 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.El peso mexicano se apreció al ce…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/05/31/dolar-nivel-global-viernes-registro.jpg",
-      "PublishedAt": "2025-04-19T12:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de abril el tipo de cambio interbancario, se ubica en 18.06 pesos por unidad, con una pérdida del 0.23 por ciento… [+480 chars]"
     }
   ]
 }
