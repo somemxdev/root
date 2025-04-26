@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 149,
+  "TotalResults": 150,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 25 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 25 de abril inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con un fortalecimiento del 0.20 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba ayer ante un debilitamiento general…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-04-25T11:12:00Z",
+      "Content": "El peso mexicano se apreció ante un debilitamiento generalizado del dólar, mientras que la bolsa subió por séptima jornada consecutiva, en un mercado a la espera de noticias sobre avances en el confl… [+775 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/05/31/dolar-nivel-global-viernes-registro.jpg",
       "PublishedAt": "2025-04-19T12:07:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de abril el tipo de cambio interbancario, se ubica en 18.06 pesos por unidad, con una pérdida del 0.23 por ciento… [+480 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Peso mexicano se aprecia frente al dólar; creció 3% en última semana",
-      "Description": "El peso mexicano cerró, el Viernes Santo, con una cotización de 19.71 unidades por dólar, una apreciación de la moneda mexicana de 3% en los últimos siete días y el nivel más bajo que toca en lo que va de 2025.En las últimas tres jornadas, la divisa mexicana …",
-      "Url": "https://www.milenio.com/negocios/peso-mexicanos-aprecia-frente-al-dolar-hoy-18-de-abril-viernes-santo",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/23/vendedor-billete-mercado-ciudad-mexico.jpg",
-      "PublishedAt": "2025-04-18T21:30:00Z",
-      "Content": "El peso mexicano cerró, el Viernes Santo, con una cotización de 19.71 unidades por dólar, una apreciación de la moneda mexicana de 3% en los últimos siete días y el nivel más bajo que toca en lo que … [+2829 chars]"
     }
   ]
 }
