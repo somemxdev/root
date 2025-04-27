@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar hoy sábado 26 de abril de 2025 en México: Así cotiza el peso mexicano",
+      "Description": "El dólarhoy 26 de abril mantiene una tendencia débil luego de versesacudida por señales contradictorias sobre las medidas arancelarias para la relación comercial entre China y Estados Unidos.En tanto, el peso mexicano arrancó la jornada frente al billete verd…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/26/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-04-26T11:57:00Z",
+      "Content": "El dólar hoy 26 de abril mantiene una tendencia débil luego de verse sacudida por señales contradictorias sobre las medidas arancelarias para la relación comercial entre China y Estados Unidos.\r\nEn t… [+801 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-04-21T11:11:00Z",
       "Content": "A pesar de la inestabilidad financiera que ha generado, a nivel mundial, la guerra arancelaria entre Estados Unidos y China; el peso mexicano se apreció 3% en los últimos siete días y, desde hace tre… [+715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "La Voz",
-      "Title": "El euro marca máximos desde el 2021 frente al dólar",
-      "Description": "Tras los ataques de Trump a la independencia de la Reserva Federal, la moneda única se cambia a 1.15 dólares",
-      "Url": "https://www.lavozdegalicia.es/noticia/economia/2025/04/21/euro-marca-maximos-2021-frente-dolar/00031745227707922613865.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/tC3t6vFf2lM5OvEtWDj_TBYzmY4=/1280x/2022/07/19/00121658223565983530853/Foto/cosas.jpg",
-      "PublishedAt": "2025-04-21T09:35:00Z",
-      "Content": "El tipo de cambio del euro frente al dólar volvía a subir este lunes, a pesar de la bajada de los tipos de interés anunciada el pasado jueves por el Banco Central Europeo (BCE) en un contexto marcado… [+2329 chars]"
     }
   ]
 }
