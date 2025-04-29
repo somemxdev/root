@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 28 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 28 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba y se dirigía el viernes para culminar co…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-04-28T11:02:17Z",
+      "Content": "El dólar HOY 28 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.\r\nEl peso… [+797 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/2121x1413/e/6/a/1200x655_euromonedas.jpg",
       "PublishedAt": "2025-04-21T12:50:28Z",
       "Content": "El euro sigue ganando al dólar estadounidense en su particular pulso en el mercado de divisas. La moneda de la eurozona se cambia por más de 1,15 dólares, que sitúa al cruce entre ambas en niveles no… [+4100 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Rafael Mejía Fernández de Lara",
-      "Title": "Precio del dólar HOY lunes 21 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "A pesar de la inestabilidad financiera que ha generado, a nivel mundial, la guerra arancelaria entre Estados Unidos y China; el peso mexicano se apreció 3% en los últimos siete días y, desde hace tres semanas,logró mantenerse por debajo de los 20 pesos.¿Dónde…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-de-abril-2025-a-cuanto-cotiza-en-vivo",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-04-21T11:11:00Z",
-      "Content": "A pesar de la inestabilidad financiera que ha generado, a nivel mundial, la guerra arancelaria entre Estados Unidos y China; el peso mexicano se apreció 3% en los últimos siete días y, desde hace tre… [+715 chars]"
     }
   ]
 }
