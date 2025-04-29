@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve caída ante alza del cobre y en espera de la decisión de tasas del Banco Central",
+      "Description": "El cobre Comex subía 0,4% a US$ 4,91 por libra y el dollar index se estabilizaba en sus menores niveles desde 2022. Las tasas largas de EEUU repuntaban, tras sus caídas del viernes.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoym3kop23",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250428/imag/foto_0000000220250428082022/Aton_968232.jpg",
+      "PublishedAt": "2025-04-28T12:40:00Z",
+      "Content": "El dólar partió levemente a la baja su último lunes de abril, mientras inversionistas calientan motores frente al nutrido calendario económico que llega a partir de mañana.\r\nSegún los datos de Bloomb… [+1839 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-21-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-21T14:57:15Z",
       "Content": "Este lunes 21 de abril, el precio del dólar en México es de $19,9737, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el desempeño del peso mexicano se ve influenciado por el … [+2279 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Sergio Fernández, Violeta N. Quiñonero",
-      "Title": "El euro se alza contra el dólar sobre los 1,15 por la amenaza de Trump de cesar a Powell en la Fed",
-      "Description": "El euro sigue ganando al dólar estadounidense en su particular pulso en el mercado de divisas. La moneda de la eurozona se cambia por más de 1,15 dólares, que sitúa al cruce entre ambas en niveles no vistos desde noviembre de 2021. Sin embargo, el éxito de un…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13326387/04/25/el-euro-se-alza-contra-el-dolar-sobre-los-115-por-la-amenaza-de-trump-de-cesar-a-powell-en-la-fed.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2121x1413/e/6/a/1200x655_euromonedas.jpg",
-      "PublishedAt": "2025-04-21T12:50:28Z",
-      "Content": "El euro sigue ganando al dólar estadounidense en su particular pulso en el mercado de divisas. La moneda de la eurozona se cambia por más de 1,15 dólares, que sitúa al cruce entre ambas en niveles no… [+4100 chars]"
     }
   ]
 }
