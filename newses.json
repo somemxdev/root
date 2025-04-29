@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 28 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-28-de-abril-nid28042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-28-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-28T15:23:43Z",
+      "Content": "Este lunes 28 de abril, el precio del dólar en México es de $19,5478, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano se ve influenciado porlos datos económico… [+2209 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/01/pesos-argentinos-1-1024x648.png",
       "PublishedAt": "2025-04-21T17:04:22Z",
       "Content": "La marcada apreciación del peso argentino desde la reciente liberación del mercado cambiario, gracias al apoyo Fondo Monetario Internacional (FMI) que permitió abultar las reservas del banco central … [+2526 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso alcanza su mejor nivel en 6 meses! Precio del dólar hoy 21 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en niveles no vistos desde octubre de 2024, con lo que el precio del dólar hoy 21 de abril de 2025 cotiza en 19.63 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-21-abril-2025-tipo-cambio-bancos-mexico/1711797",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/21/3294680.jpg",
-      "PublishedAt": "2025-04-21T16:33:30Z",
-      "Content": "El peso mexicano se aprecia en niveles no vistos desde octubre de 2024, con lo que el precio del dólar hoy 21 de abril de 2025 cotiza en 19.63 unidades por cada billete verde; conoce aquí cuál es el … [+1414 chars]"
     }
   ]
 }
