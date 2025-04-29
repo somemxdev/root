@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca la semana con ‘el pie izquierdo’: ¿Cuánto se deprecia HOY frente al dólar y por qué?",
+      "Description": "El tipo de cambio ronda en los 20.5555 pesos por dólar este lunes 28 de abril, lo que representa una depreciación de 0.17 por ciento.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/28/peso-dolar-precio-hoy-28-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PYK5WM4YYFE7HCEMOM2SK72POE.jpg?smart=true&auth=b6371bcd5aa6df9fc956bf14089de5491027441a2d1196cf036ddb3f4635a011&width=1200&height=630",
+      "PublishedAt": "2025-04-28T16:07:31Z",
+      "Content": "El peso mexicano inició la semana registrando retrocesos moderados frente al dólar, a medida que los operadores están a la espera de más información económica, a la par que asimilan el estatus de las… [+1663 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W34DU6YLJZBY3O52RYT55R5ZDM.jpg?smart=true&auth=7a1dc0a916ba31fc5c1253bfa67231fb14d1ee9f9e8e924719498318ab62819a&width=1200&height=630",
       "PublishedAt": "2025-04-21T17:50:25Z",
       "Content": "El peso mexicano borró todas las ganancias que había acumulado frente al dólar este lunes 21 de abril, que se dieron después de un debilitamiento del billete verde, a medida que los operadores se man… [+1547 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso argentino se fortalece frente al dólar tras flexibilización cambiaria",
-      "Description": "Forbes México.\n Peso argentino se fortalece frente al dólar tras flexibilización cambiaria\n\nEl Gobierno de Javier Milei apunta a que la liquidación de exportaciones agrícolas y la escasez de pesos provoquen una revaluación de la moneda local.\nPeso argentino s…",
-      "Url": "https://forbes.com.mx/peso-argentino-se-fortalece-frente-al-dolar-tras-flexibilizacion-cambiaria/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/01/pesos-argentinos-1-1024x648.png",
-      "PublishedAt": "2025-04-21T17:04:22Z",
-      "Content": "La marcada apreciación del peso argentino desde la reciente liberación del mercado cambiario, gracias al apoyo Fondo Monetario Internacional (FMI) que permitió abultar las reservas del banco central … [+2526 chars]"
     }
   ]
 }
