@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "AFP",
+      "Title": "Peso colombiano cae frente al dólar por congelamiento de línea crediticia del FMI",
+      "Description": "El peso colombiano se debilitó cerca de un 0,7% este lunes frente al dólar tras la decisión del Fondo Monetario Internacional (FMI) de congelar su línea de crédito flexible a Colombia, según datos de la bolsa de valores.",
+      "Url": "https://www.nacion.com/economia/peso-colombiano-cae-frente-al-dolar-por/SGULDCIM2JCHLISO74OC6ZDH6U/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/XTCMYYVYWZDAVCN4MQ7IZ3PM4M.jpg?smart=true&auth=bd3c05aa7df9ab725f02b36ba6fba348016098abc1b7438ac49e2d0ecf9c31ae&width=1440",
+      "PublishedAt": "2025-04-28T23:43:09Z",
+      "Content": "Bogotá, Colombia. El peso colombiano se debilitó cerca de un 0,7% este lunes frente al dólar tras la decisión del Fondo Monetario Internacional (FMI) de congelar su línea de crédito flexible a Colomb… [+2608 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-1865-logro-venderse-por-180-mil-en-JDMVRNKSZND7ZCXEDX57OHOKII.jpg?auth=52e9c7ce02afaada3d2d5684a8a93ebab827721ee215d9e26883096d114c1b09&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-21T23:47:00Z",
       "Content": "Existen cientos de monedas de Estados Unidos que, por diferentes motivos, causan un gran interés entre coleccionistas y se comercializan con precios elevados en el mercado. Una de ellas es la de tres… [+2574 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso ‘acelera’ y luego pierde ganancias ante el dólar: ¿Cómo está el tipo de cambio HOY?",
-      "Description": "El fortalecimiento del peso se da después de que el dólar se debilita por la incertidumbre creada por los aranceles recíprocos de Donald Trump.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/21/peso-dolar-precio-hoy-21-de-abril-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W34DU6YLJZBY3O52RYT55R5ZDM.jpg?smart=true&auth=7a1dc0a916ba31fc5c1253bfa67231fb14d1ee9f9e8e924719498318ab62819a&width=1200&height=630",
-      "PublishedAt": "2025-04-21T17:50:25Z",
-      "Content": "El peso mexicano borró todas las ganancias que había acumulado frente al dólar este lunes 21 de abril, que se dieron después de un debilitamiento del billete verde, a medida que los operadores se man… [+1547 chars]"
     }
   ]
 }
