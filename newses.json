@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cotiza estable! Precio del dólar hoy 29 de abril de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se mantiene estable en medio de cautela con aranceles, con lo que el precio del dólar hoy 29 de abril de 2025 cotiza en 19.58 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-29-abril-2025-tipo-cambio-bancos-mexico/1713172",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/29/3298780.jpg",
+      "PublishedAt": "2025-04-29T14:41:42Z",
+      "Content": "El peso mexicano se mantiene estable en medio de cautela con aranceles, con lo que el precio del dólar hoy 29 de abril de 2025 cotiza en 19.58 unidades por cada billete verde; conoce aquí cuál es el … [+1501 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 29 de abril",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-29-de-abril-nid29042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-29-de-ORPDZKMATBC6LBQNX6W4DAWSO4.jpg?auth=d23b7ecff13ac9b343b602b587277b569e9791f90a6be66f4592ec3a0c3c7857&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-29T14:14:23Z",
+      "Content": "Este martes 29 de abril de 2025, el precio del dólar en México es de $19,5723, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por los datos que s… [+2289 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/22/3295192.jpg",
       "PublishedAt": "2025-04-22T17:04:52Z",
       "Content": "El peso mexicano se aprecia luego de dos jornadas de retrocesos, con lo que el precio del dólar hoy 22 de abril de 2025 cotiza en 19.52 unidades por cada billete verde; conoce aquí cuál es el tipo de… [+1236 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso aprovecha las ‘desgracias’ del dólar: ¿Cuánto se aprecia el tipo de cambio HOY?",
-      "Description": "El valor del dólar va en caída por el temor entre los inversionistas que despertó el ataque de Donald Trump contra Jerome Powell, presidente de la Fed, a quien exige recorta la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/22/peso-dolar-precio-hoy-22-de-abril-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2EYGHTTFR5D45JDCVSQOEGBKIQ.jpg?smart=true&auth=04454b660b1e18640ab8d7ab79f2b7665b1b404533cccf45da1a4ac7d64324f6&width=1200&height=630",
-      "PublishedAt": "2025-04-22T15:49:51Z",
-      "Content": "El peso mexicano amplía sus ganancias este martes 22 de abril y aprovecha que Donald Trump está hundiendo al dólar con sus ataques contra la Reserva Federal, a la que exige recortar las tasas de inte… [+1773 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 22 de abril",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-22-de-abril-nid22042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-22-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-04-22T13:55:40Z",
-      "Content": "Este martes 22 de abril de 2025, el precio del dólar en México es de $19,6718, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso es favorecido por las expectativas de un… [+2261 chars]"
     }
   ]
 }
