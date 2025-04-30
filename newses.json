@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 29 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.62 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano mostraba pocos cambios ayer debido a la cautela de lo…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-04-29T11:00:00Z",
+      "Content": "El dólar HOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.62 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+733 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-04-22T11:15:00Z",
       "Content": "El dólar HOY 22 de abril inicia operaciones con el tipo de cambio interbancario en 19.68 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg. \r\nEl pes… [+871 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La inusual moneda de tres centavos de dólar que podría valer hasta US$185.000 por un detalle particular",
-      "Description": "La moneda de tres centavos de plata acuñada en 1865. Su rareza y estado de conservación la convierten en una pieza codiciada cuyo valor puede llegar hasta los 185 mil dólares.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-inusual-moneda-de-tres-centavos-de-dolar-que-podria-valer-hasta-us185-mil-por-un-detalle-nid21042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-1865-logro-venderse-por-180-mil-en-JDMVRNKSZND7ZCXEDX57OHOKII.jpg?auth=52e9c7ce02afaada3d2d5684a8a93ebab827721ee215d9e26883096d114c1b09&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-21T23:47:00Z",
-      "Content": "Existen cientos de monedas de Estados Unidos que, por diferentes motivos, causan un gran interés entre coleccionistas y se comercializan con precios elevados en el mercado. Una de ellas es la de tres… [+2574 chars]"
     }
   ]
 }
