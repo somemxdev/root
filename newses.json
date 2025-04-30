@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar de la Paz: cómo reconocer esta moneda que puede llegar a valer hasta US$475.000 por este detalle",
+      "Description": "Acuñada en alto relieve y con acabado especial, es considerada una de las piezas más raras de la numismática estadounidense",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/dolar-de-la-paz-como-reconocer-esta-moneda-que-puede-llegar-a-valer-hasta-us475000-por-este-detalle-nid29042025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/conocido-como-dolar-de-la-paz-este-ejemplar-logro-WRDRIPVLORH6ZGCD464RNTZHCQ.jpg?auth=20542139052ab222c8c71b42bb24ea1d6d4b482dba0a848bb4d40d88cd3e82cc&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-04-29T20:45:49Z",
+      "Content": "Entre las monedas históricas de Estados Unidos, el dólar de la Paz de 1922 se destaca por una versión en particular: la de prueba con acabado mate y alto relieve. Se trata de una pieza escasa, de la … [+2279 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-acunada-en-la-ciudad-de-mexico-podria-RUAXGOTTLNB5RPUE732CTMDCHI.jpg?auth=fffe2d84b45f8f84822599b3921991d20d53c4e329a5711b62e4c0dc660cdfc9&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-23T02:00:00Z",
       "Content": "Una moneda acuñada en México en el siglo XVI se ubicó entre las más valiosas en el mercado estadounidense. Se trata de una pieza de ocho reales de 1538, considerada por expertos como el primer dólar … [+2655 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Carlos Prego",
-      "Title": "Estados Unidos ha iniciado un pulso en el mercado de divisas. Uno en el que el euro se está imponiendo al dólar",
-      "Description": "La incertidumbre no les sienta bien a las bolsas. Ni al dólar. Al menos si nos fijamos en su evolución frente a otras divisas, como el yen, el franco suizo o el euro. Con la guerra comercial y los ataques de Trump a la Reserva Federal como telón de fondo, el …",
-      "Url": "https://www.xataka.com/magnet/estados-unidos-ha-iniciado-pulso-mercado-divisas-uno-que-euro-se-esta-imponiendo-al-dolar",
-      "UrlToImage": "https://i.blogs.es/3663db/trumeuir/840_560.jpeg",
-      "PublishedAt": "2025-04-22T17:31:40Z",
-      "Content": "La incertidumbre no les sienta bien a las bolsas. Ni al dólar. Al menos si nos fijamos en su evolución frente a otras divisas, como el yen, el franco suizo o el euro. Con la guerra comercial y los at… [+3826 chars]"
     }
   ]
 }
