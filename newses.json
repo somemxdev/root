@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso retrocede ante el dólar... pero analiza panorama comercial: ¿Cuánto se deprecia HOY?",
+      "Description": "El peso mexicano se deprecia en el arranque de la sesión de este 29 de abril.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/29/peso-dolar-tipo-de-cambio-hoy-29-de-abril-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DIVIXUAUKJH6RGNBFKGKS6QQ5A.jpg?smart=true&auth=e323a285d4b55ccf26cc24dbb76fa02624cfe68c94625185e2e8acb972b63c22&width=1200&height=630",
+      "PublishedAt": "2025-04-29T15:59:48Z",
+      "Content": "El peso mexicano inicia la sesión de este 29 de abril con pérdidas marginales frente al dólar. Los operadores siguen atentos a cómo evoluciona el panorama comercial, así como a los posibles impactos … [+1601 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/3663db/trumeuir/840_560.jpeg",
       "PublishedAt": "2025-04-22T17:31:40Z",
       "Content": "La incertidumbre no les sienta bien a las bolsas. Ni al dólar. Al menos si nos fijamos en su evolución frente a otras divisas, como el yen, el franco suizo o el euro. Con la guerra comercial y los at… [+3826 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso amplía ganancias! Precio del dólar hoy 22 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia luego de dos jornadas de retrocesos, con lo que el precio del dólar hoy 22 de abril de 2025 cotiza en 19.52 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa m…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-22-abril-2025-tipo-cambio-bancos-mexico/1711957",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/22/3295192.jpg",
-      "PublishedAt": "2025-04-22T17:04:52Z",
-      "Content": "El peso mexicano se aprecia luego de dos jornadas de retrocesos, con lo que el precio del dólar hoy 22 de abril de 2025 cotiza en 19.52 unidades por cada billete verde; conoce aquí cuál es el tipo de… [+1236 chars]"
     }
   ]
 }
