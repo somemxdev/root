@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "EFE",
+      "Title": "Legisladores republicanos y demócratas cercan a la moneda de un centavo de dólar: un proyecto de ley busca su eliminación en EEUU",
+      "Description": "Legisladores estadounidenses tanto del Partido Republicano como del Partido Demócrata han presentado este miércoles un proyecto de ley para eliminar el uso de las monedas de un centavo en EEUU, una iniciativa respaldada de forma personal por el presidente Don…",
+      "Url": "https://www.eleconomista.es/economia/noticias/13342641/04/25/legisladores-republicanos-y-democratas-cercan-a-la-moneda-de-un-centavo-de-dolar-un-proyecto-de-ley-busca-su-eliminacion-en-eeuu.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/2738x1494/c/8/1/1200x655_dreamstime_l_47351819.jpg",
+      "PublishedAt": "2025-04-30T15:43:13Z",
+      "Content": "Legisladores estadounidenses tanto del Partido Republicano como del Partido Demócrata han presentado este miércoles un proyecto de ley para eliminar el uso de las monedas de un centavo en EEUU, una i… [+1113 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-miercoles-23-de-IDFSAWAJ5NGNTBP2OO4CQ3A2ZQ.JPG?auth=3f7ed7ee111ec9aa966e62cf3088482248b373a9287e3e139f6d5a361517bad2&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-23T15:24:49Z",
       "Content": "Los dólares siguen en la búsqueda de su nuevo precio de equilibrio, luego de que la semana pasada se eliminara gran parte del cepo cambiario, lo que provocó ruedas de fuertes subas y bajas en el merc… [+3436 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se fortalece! Precio del dólar hoy 23 de abril de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza a un nivel no visto desde octubre de 2024, con lo que el precio del dólar hoy 23 de abril de 2025 cotiza en 19.50 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-23-abril-2025-tipo-cambio-bancos-mexico/1712147",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/23/3295722.jpg",
-      "PublishedAt": "2025-04-23T14:35:26Z",
-      "Content": "El peso mexicano avanza a un nivel no visto desde octubre de 2024, con lo que el precio del dólar hoy 23 de abril de 2025 cotiza en 19.50 unidades por cada billete verde; conoce aquí cuál es el tipo … [+1257 chars]"
     }
   ]
 }
