@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 147,
+  "TotalResults": 148,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘saca de onda’ por miedo a recesión en EU: ¿Cuánto pierde ante el dólar?",
+      "Description": "La posibilidad de que Estados Unidos entre en recesión por los aranceles de Trump empeoran las perspectivas para la economía de México que depende de las compras de su vecino del norte.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/30/peso-dolar-precio-hoy-30-de-abril-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4I2P77RHVBAA7CAR4Y6QOBMBO4.jpg?smart=true&auth=5e85efb4e7ef94a276392905971b94e9a2f241daab956738ede326bb23b29249&width=1200&height=630",
+      "PublishedAt": "2025-04-30T16:48:18Z",
+      "Content": "El peso mexicano cede levemente ante el dólar este miércoles 30 de abril mientras los inversionistas ven con temor el dato del PIB de Estados Unidos, que se contrajo por primera vez desde 2022 y reav… [+1985 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.uecdn.es/c2adf88c29b44cf5afcd12391418ce92/f/webp/assets/multimedia/imagenes/2025/04/23/17454129268541.jpg",
       "PublishedAt": "2025-04-23T15:45:46Z",
       "Content": "A medida que crece la incertidumbre política y económica en Estados Unidos, y en un contexto en el que las bolsas de valores experimentan subidas y bajadas de más del 5% en un solo día, los inversore… [+4150 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Fin del cepo: el dólar minorista abre estable a $1120 en Banco Nación",
-      "Description": "Las acciones argentinas trepan hasta 8%, en una rueda positiva para los mercados globales",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/fin-del-cepo-el-dolar-minorista-abre-estable-a-1120-en-banco-nacion-nid23042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-miercoles-23-de-IDFSAWAJ5NGNTBP2OO4CQ3A2ZQ.JPG?auth=3f7ed7ee111ec9aa966e62cf3088482248b373a9287e3e139f6d5a361517bad2&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-23T15:24:49Z",
-      "Content": "Los dólares siguen en la búsqueda de su nuevo precio de equilibrio, luego de que la semana pasada se eliminara gran parte del cepo cambiario, lo que provocó ruedas de fuertes subas y bajas en el merc… [+3436 chars]"
     }
   ]
 }
