@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 148,
+  "TotalResults": 149,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Vinícius Andrade y Kelsey Butler",
+      "Title": "Peso se aprecia 4% ante el dólar en abril... y fortaleza podría extenderse a junio",
+      "Description": "El peso fue una de las monedas de mercados emergentes que mejor desempeño tuvo en abril, un mes marcado por varios anuncios arancelarios de Donald Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/30/fortaleza-del-peso-ante-el-dolar-hasta-cuando-durara-en-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/45JFBVP6CNBT5FQ7OII66OA5LA.jpg?smart=true&auth=122c5e3a341b519addda10939854581e80fff4cb0dc95322e64e3af8332ac6cf&width=1200&height=630",
+      "PublishedAt": "2025-04-30T22:34:05Z",
+      "Content": "El peso mexicano registró en abrilsu mayor avance mensual desde 2021, impulsado por una prórroga en el plan arancelario del presidente Donald Trump y un retroceso del dólar estadounidense.\r\nEl peso s… [+2458 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
       "PublishedAt": "2025-04-23T16:06:26Z",
       "Content": "El peso se apreciaba el miércoles impulsado por un mejor ambiente para los activos de riesgo después de que el presidente de Estados Unidos, Donald Trump, dio marcha atrás a sus amenazas de despedir … [+1893 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Jorge Calzada Zubiría",
-      "Title": "Ni Europa ni su moneda están listas para desbancar al dólar como el refugio por excelencia, advierte la gestora de Deutsche Bank",
-      "Description": "Pese a su reciente debilitamiento, el dólar sigue siendo clave por la solidez y liquidez de su mercado. Para DWS, el actual clima de acoso e incertidumbre ofrece a Europa una oportunidad para madurar y unirse Leer",
-      "Url": "https://www.elmundo.es/economia/2025/04/23/6808d1fbe4d4d8b7348b4573.html",
-      "UrlToImage": "https://phantom-elmundo.uecdn.es/c2adf88c29b44cf5afcd12391418ce92/f/webp/assets/multimedia/imagenes/2025/04/23/17454129268541.jpg",
-      "PublishedAt": "2025-04-23T15:45:46Z",
-      "Content": "A medida que crece la incertidumbre política y económica en Estados Unidos, y en un contexto en el que las bolsas de valores experimentan subidas y bajadas de más del 5% en un solo día, los inversore… [+4150 chars]"
     }
   ]
 }
