@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 144,
+  "TotalResults": 145,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 1 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.60pesos mexicanos por billete verde, con una ligera baja del 0.04 por ciento, según datos de Bloomberg.El peso mexicanose depreciaba ayer golpeado por un fortalecimiento gene…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-05-01T13:03:00Z",
+      "Content": "El dólar HOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera baja del 0.04 por ciento, según datos de Bloomberg. \r\nEl pes… [+483 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OISLQBK22BEXHMNI55WBRZVW7U.jpeg?smart=true&auth=6966824043890b9bac70e13fbdaca840a135da6e1f4f28b6ccecfc32147dbdad&width=1200&height=630",
       "PublishedAt": "2025-04-23T16:32:06Z",
       "Content": "Los operadores de Buenos Aires están comenzando a aceptar el objetivo del presidente Javier Milei de fortalecer la moneda argentina hacia los 1.000 pesos por dólar, incluso cuando los economistas adv… [+5331 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cotiza en 19.50 unidades por dólar tras cese de ataques de Trump contra Powell; BMV gana por sexta jornada al hilo",
-      "Description": "Forbes México.\n Peso cotiza en 19.50 unidades por dólar tras cese de ataques de Trump contra Powell; BMV gana por sexta jornada al hilo\n\nEl peso cotizaba en 19.5007 dólar, un nivel no visto desde octubre del año pasado, con una ganancia de un 0.52% frente al …",
-      "Url": "https://forbes.com.mx/peso-cotiza-en-19-50-unidades-por-dolar-tras-cese-de-ataques-de-trump-contra-powell-bmv-gana-por-sexta-jornada-al-hilo/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
-      "PublishedAt": "2025-04-23T16:06:26Z",
-      "Content": "El peso se apreciaba el miércoles impulsado por un mejor ambiente para los activos de riesgo después de que el presidente de Estados Unidos, Donald Trump, dio marcha atrás a sus amenazas de despedir … [+1893 chars]"
     }
   ]
 }
