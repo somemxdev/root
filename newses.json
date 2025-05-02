@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 1° de mayo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-1-de-mayo-nid01052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-1%C2%B0-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-05-01T14:29:43Z",
+      "Content": "Este jueves 1° de mayo de 2025, el precio del dólar en México es de $19,5868, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es afectado por los temores de un… [+2208 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-04-24T11:00:00Z",
       "Content": "El dólar HOY 24 de abril inicia operaciones con el tipo de cambio interbancario en 19.58 pesos mexicanos por billete verde, con una ligera baja del 0.24 por ciento, según datos de Bloomberg. \r\nEl pes… [+893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Ignacio Olivera Muñeca",
-      "Title": "Milei ‘defiende’ al peso argentino: ¿Por qué busca que la moneda llegue a 1000 pesos por dólar?",
-      "Description": "El peso argentino fluctúa libremente entre los mil y los mil 400 pesos por dólar.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2025/04/23/milei-defiende-al-peso-argentino-por-que-busca-que-la-moneda-llegue-a-1000-pesos-por-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OISLQBK22BEXHMNI55WBRZVW7U.jpeg?smart=true&auth=6966824043890b9bac70e13fbdaca840a135da6e1f4f28b6ccecfc32147dbdad&width=1200&height=630",
-      "PublishedAt": "2025-04-23T16:32:06Z",
-      "Content": "Los operadores de Buenos Aires están comenzando a aceptar el objetivo del presidente Javier Milei de fortalecer la moneda argentina hacia los 1.000 pesos por dólar, incluso cuando los economistas adv… [+5331 chars]"
     }
   ]
 }
