@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 2 de mayo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-2-de-mayo-de-2025-nid02052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-2-de-mayo-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-02T15:06:39Z",
+      "Content": "Este viernes 2 de mayo de 2025, el precio del dólar en México es de $19,6095, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por la publicación d… [+2331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-24T15:13:21Z",
       "Content": "Este jueves 24 de abril de 2025, el precio del dólar en México es de $19,6278, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano es beneficiado por el debilitam… [+2169 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El dólar minorista sube $15 y se vende a $1185 en el Banco Nación",
-      "Description": "El tipo de cambio mayorista avanza $5, luego de que ayer registrara una de las mayores subas intradiarias desde la salida del cepo",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-minorista-sube-15-y-se-vende-a-1185-en-el-banco-nacion-nid24042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-jueves-24-de-abril-5GVPUFDSHVFLBIWGLTML3VBRO4.JPG?auth=98136b12c250bbb91190c40fd33258939b0548dbd302c3e1aaa6851c066d38e4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-24T14:56:32Z",
-      "Content": "Desde que el Gobierno eliminó el cepo, la volatilidad está presente en el mercado de cambios. Sin intervenciones del Banco Central (BCRA), las cotizaciones están en la búsqueda de su precio de equili… [+3263 chars]"
     }
   ]
 }
