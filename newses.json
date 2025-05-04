@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg/Anya Andrianova",
+      "Title": "‘Regalo’ para el peso: Crecen las apuestas contra el dólar por el caos arancelario de Trump",
+      "Description": "Operadores especulativos aumentaron sus apuestas contra el dólar durante la última semana de abril, a pesar de una recuperación en los mercados de valores.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2025/05/02/regalo-para-el-peso-crecen-las-apuestas-contra-el-dolar-por-el-caos-arancelario-de-trump/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/RMT5TCISVZAQBOQHYWEKPQFJQI.jpeg?smart=true&auth=47d2d7d0f8f0dc9d26b6a580a01f4dd57638c867265bfc3edbd171b90e57735d&width=1200&height=630",
+      "PublishedAt": "2025-05-02T23:44:05Z",
+      "Content": "Los operadores especulativos se han vuelto más pesimistas respecto deldólar que en cualquier otro momento desde septiembre pasado, ya que las preocupaciones sobre los activos estadounidenses siguen c… [+2756 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.latercera.com/resizer/v2/NK2NHVXSRZEPVKNOTNPCWT2CJM.png?auth=f8de25d37fb126ee8c5de6e87a63bcfd7338371c0b97e666c4a33542bf06f075&height=630&width=1200&smart=true",
       "PublishedAt": "2025-04-24T16:00:14Z",
       "Content": "A días de que se liberará el cepo del dólar en Argentina, el presidente del Banco Central de ese país, Santiago Bausili, dio más luces sobre lo que viene en una conversación con el director para el H… [+4036 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 24 de abril",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-24-de-abril-nid24042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-24T15:13:21Z",
-      "Content": "Este jueves 24 de abril de 2025, el precio del dólar en México es de $19,6278, de acuerdo con el Diario Oficial de la Federación (DOF). Por la mañana, el peso mexicano es beneficiado por el debilitam… [+2169 chars]"
     }
   ]
 }
