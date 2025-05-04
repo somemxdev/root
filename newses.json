@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 3 de mayo de 2025 en México: ¿Cómo está el peso mexicano en tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 3 de mayo el tipo de cambio interbancario, se ubica en 19.58 pesos por unidad, con una ganancia del 0.10 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avan…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-03T13:09:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 3 de mayo el tipo de cambio interbancario, se ubica en 19.58 pesos por unidad, con una ganancia del 0.10 por … [+3028 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LUV45NMCVRFJLDFQB4MF2MPZMI.jpeg?smart=true&auth=804d1b7fcfd0abe3e64976e893f9469c10b0b5b976c9496bf18d113391d55a50&width=1200&height=630",
       "PublishedAt": "2025-04-24T19:33:25Z",
       "Content": "Deutsche Bank advierte de una tendencia bajista del dólar en los próximos años que llevará a la moneda estadounidense a su nivel más débil en más de una década frente al euro.\r\nLos estrategas George … [+2963 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Rodrigo Cárdenas",
-      "Title": "¿Cuándo flotará libremente el dólar en Argentina?: “Llegará con el tiempo”, dice el presidente de su Banco Central",
-      "Description": "\"Pasamos de la paridad móvil a una flotación libre dentro de bandas, con la idea de que queremos pasar, eventualmente, a un régimen de flotación libre\", sostuvo respecto del fin del cepo cambiario Santiago Bausili, en conversación con el chileno Rodrigo Valdé…",
-      "Url": "https://www.latercera.com/pulso/noticia/presidente-banco-central-de-argentina-desde-el-principio-tuvimos-la-vision-de-que-no-habia-mas-espacio-para-desequilibrios-fiscales/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/NK2NHVXSRZEPVKNOTNPCWT2CJM.png?auth=f8de25d37fb126ee8c5de6e87a63bcfd7338371c0b97e666c4a33542bf06f075&height=630&width=1200&smart=true",
-      "PublishedAt": "2025-04-24T16:00:14Z",
-      "Content": "A días de que se liberará el cepo del dólar en Argentina, el presidente del Banco Central de ese país, Santiago Bausili, dio más luces sobre lo que viene en una conversación con el director para el H… [+4036 chars]"
     }
   ]
 }
