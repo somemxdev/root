@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Smith Sense",
+      "Title": "The Hidden Dollar Revolution: America’s New Digital Money System",
+      "Description": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, “What if, knowingly or not, the Trump administration was continuity rather than revolutionary? The Digital Control Grid: Hidden in Plain SightAmer…",
+      "Url": "https://freerepublic.com/focus/f-chat/4314976/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-05-04T14:18:52Z",
+      "Content": "Skip to comments.\r\nThe Hidden Dollar Revolution: Americas New Digital Money SystemSmith Sense ^\r\n | 3 May, 2025\r\n | Matt Smith @ Crisis Investing\r\nPosted on 05/04/2025 7:18:52 AM PDT by MtnClimber\r\nT… [+8373 chars]"
+    },
     {
       "Source": {
         "Id": null,
