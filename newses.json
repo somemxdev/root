@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Nicolás Castillo Arévalo",
+      "Title": "Dólar hoy: Tipo de cambio cierra en S/3.666 ante cautela por tasas de la Fed",
+      "Description": "tipo de cambio, dólar, sol peruano, cierre dólar hoy, divisas, Reserva Federal, tasas de interés, swaps cambiarios, mercado cambiario, Renta4 SAB",
+      "Url": "https://peru21.pe/economia/dolar-hoy-tipo-de-cambio-cierra-en-s3666-ante-cautela-por-tasas-de-la-fed/",
+      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/Z4T3FODOIZDDRBAJ75A4NPQPT4_8.jpg?itok=iWyMKnOu",
+      "PublishedAt": "2025-05-05T19:52:43Z",
+      "Content": "El tipo de cambio cerró este lunes en S/3.666, registrando un avance de 150 puntos frente al cierre del viernes (S/3.6510). Durante la jornada, la cotización del dólar osciló entre un mínimo de S/3.6… [+1547 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20250428/imag/foto_0000000220250428082022/Aton_968232.jpg",
       "PublishedAt": "2025-04-28T12:40:00Z",
       "Content": "El dólar partió levemente a la baja su último lunes de abril, mientras inversionistas calientan motores frente al nutrido calendario económico que llega a partir de mañana.\r\nSegún los datos de Bloomb… [+1839 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 28 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 28 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba y se dirigía el viernes para culminar co…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-04-28T11:02:17Z",
-      "Content": "El dólar HOY 28 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.\r\nEl peso… [+797 chars]"
     }
   ]
 }
