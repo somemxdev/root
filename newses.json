@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Tian Chen",
+      "Title": "¿Y el súper peso? La caída del dólar provoca que los inversionistas consideren monedas asiáticas",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/bloomberg/2025/05/05/y-el-super-peso-la-caida-del-dolar-provoca-que-los-inversionistas-consideren-monedas-asiaticas/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4I2P77RHVBAA7CAR4Y6QOBMBO4.jpg?smart=true&auth=5e85efb4e7ef94a276392905971b94e9a2f241daab956738ede326bb23b29249&width=1200&height=630",
+      "PublishedAt": "2025-05-05T09:53:00Z",
+      "Content": "Las monedas asiáticas, impulsadas por la debilidad del dólar, están alcanzando niveles raramente vistos y provocando intervenciones de los bancos centrales para frenar sus apreciaciones excesivas.\r\nL… [+3505 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-04-25T11:12:00Z",
       "Content": "El peso mexicano se apreció ante un debilitamiento generalizado del dólar, mientras que la bolsa subió por séptima jornada consecutiva, en un mercado a la espera de noticias sobre avances en el confl… [+775 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "¿El dólar caerá a su nivel más bajo? Deutsche Bank anticipa su desplome y prevé que el euro ‘se infle’",
-      "Description": "¿Por qué el dólar tocará su nivel más bajo? Estos son los pronósticos de Deutsche Bank.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/24/el-dolar-caera-a-su-nivel-mas-bajo-deutsche-bank-anticipa-su-desplome-y-preve-que-el-euro-se-infle/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LUV45NMCVRFJLDFQB4MF2MPZMI.jpeg?smart=true&auth=804d1b7fcfd0abe3e64976e893f9469c10b0b5b976c9496bf18d113391d55a50&width=1200&height=630",
-      "PublishedAt": "2025-04-24T19:33:25Z",
-      "Content": "Deutsche Bank advierte de una tendencia bajista del dólar en los próximos años que llevará a la moneda estadounidense a su nivel más débil en más de una década frente al euro.\r\nLos estrategas George … [+2963 chars]"
     }
   ]
 }
