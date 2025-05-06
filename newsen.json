@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Digitimes"
+      },
+      "Author": "DIGITIMES",
+      "Title": "Taiwan dollar surges to two-year high, central bank refutes US pressure claims",
+      "Description": "The New Taiwan dollar (NTD) surged to a two-year high against the US dollar on May 5, 2025, briefly strengthening by more than NT$0.15 to reach NT$29.59 per USD—the strongest single-day gain in nearly four decades. The abrupt appreciation prompted Taiwan's ce…",
+      "Url": "https://www.digitimes.com/news/a20250505VL202/taiwan-2024.html",
+      "UrlToImage": "https://img.digitimes.com/newsshow/20250505vl202_files/1_2b.jpg",
+      "PublishedAt": "2025-05-05T17:49:00Z",
+      "Content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+    },
     {
       "Source": {
         "Id": null,
