@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le queda mal’ a Ignacio Zaragoza en el 5 de mayo: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "A diferencia del peso mexicano, que cae ante el dólar, monedas de mercados emergentes como el rublo de Rusia y el ringgit de Malasia 'pegan' al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/05/peso-dolar-precio-hoy-5-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IOXPJAQWSBD6LHUTE5YTMG4SVM.jpg?smart=true&auth=51c5b9373bc1726f52763b2f4a310dd83870168ab9f9c3dada1dadec2decebf6&width=1200&height=630",
+      "PublishedAt": "2025-05-05T16:42:53Z",
+      "Content": "El peso mexicano no impresiona a Ignacio Zaragoza y cae ante el dólar este lunes 5 de mayo ante la incertidumbre en el panorama comercial. \r\nLa depreciación del peso mexicano ante el dólar es de 0.24… [+1823 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-04-28T11:02:17Z",
       "Content": "El dólar HOY 28 de abril inicia operaciones con el tipo de cambio interbancario en 19.53 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.\r\nEl peso… [+797 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar hoy sábado 26 de abril de 2025 en México: Así cotiza el peso mexicano",
-      "Description": "El dólarhoy 26 de abril mantiene una tendencia débil luego de versesacudida por señales contradictorias sobre las medidas arancelarias para la relación comercial entre China y Estados Unidos.En tanto, el peso mexicano arrancó la jornada frente al billete verd…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/26/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-04-26T11:57:00Z",
-      "Content": "El dólar hoy 26 de abril mantiene una tendencia débil luego de verse sacudida por señales contradictorias sobre las medidas arancelarias para la relación comercial entre China y Estados Unidos.\r\nEn t… [+801 chars]"
     }
   ]
 }
