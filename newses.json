@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 5 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 5 de mayo inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera ganancia del 0.09 por ciento, según datos de Bloomberg.El peso mexicanoavanzaba el viernes levemente ante un fortalecimient…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-05T11:05:00Z",
+      "Content": "El dólar HOY 5 de mayo inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera ganancia del 0.09 por ciento, según datos de Bloomberg.\r\nEl pe… [+818 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-25-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-25T14:08:56Z",
       "Content": "Este viernes 25 de abril de 2025, el precio del dólar en México es de $19,5825, de acuerdo con el Diario Oficial de la Federación (DOF). Esta mañana, el peso mexicano se debilita frente a lamoneda de… [+2161 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 25 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 25 de abril inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con un fortalecimiento del 0.20 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba ayer ante un debilitamiento general…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-04-25T11:12:00Z",
-      "Content": "El peso mexicano se apreció ante un debilitamiento generalizado del dólar, mientras que la bolsa subió por séptima jornada consecutiva, en un mercado a la espera de noticias sobre avances en el confl… [+775 chars]"
     }
   ]
 }
