@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,32 +327,6 @@
       "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Inflation-dollar-hyperinflation-3.jpeg",
       "PublishedAt": "2025-04-07T06:00:00Z",
       "Content": "<ul><li>Deutsche Bank AG has issued a warning about a potential crisis of confidence in the U.S. dollar, driven by escalating global trade tensions and President Trump's new tariffs, which have led t… [+5376 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "JPMorgan Chase, Deutsche Bank Issue US Dollar Warning As Gold Soars To New All-Time Highs",
-      "Description": "Banking giants JPMorgan Chase and Deutsche Bank are analyzing the dollar’s ability to maintain its global dominance. In a new survey conducted by Reuters involving 69 foreign exchange strategists, about 33% of participants expressed reservations about the dol…",
-      "Url": "https://dailyhodl.com/2025/04/05/jpmorgan-chase-deutsche-bank-issue-us-dollar-warning-as-gold-soars-to-new-all-time-highs/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/04/dollar-bank-warnings.jpg",
-      "PublishedAt": "2025-04-05T13:00:19Z",
-      "Content": "Banking giants JPMorgan Chase and Deutsche Bank are analyzing the dollar’s ability to maintain its global dominance.\r\nIn a new survey conducted by Reuters involving 69 foreign exchange strategists, a… [+2081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Intercept"
-      },
-      "Author": "Akela Lacy",
-      "Title": "Small-Dollar Donors Are Asking John Fetterman for Their Money Back",
-      "Description": "Amid a wellspring of discontent over the Pennsylvania senator’s coziness with Israel and Republicans, people are demanding campaign donation refunds.\nThe post Small-Dollar Donors Are Asking John Fetterman for Their Money Back appeared first on The Intercept.",
-      "Url": "https://theintercept.com/2025/04/05/john-fetterman-israel-campaign-donation-refunds/",
-      "UrlToImage": "https://theintercept.com/wp-content/uploads/2025/04/AP24206648374336-e1743783130364.jpg?fit=4983%2C2492&w=1200&h=800",
-      "PublishedAt": "2025-04-05T09:00:00Z",
-      "Content": "Close to 100 people have requested their money back from the campaign of Sen. John Fetterman, D-Pa. \r\nRefund requests can be routine part of campaigns, either because donors decide for some reason th… [+7779 chars]"
     }
   ]
 }
