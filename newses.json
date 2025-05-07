@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae por tercera jornada! Precio del dólar hoy 6 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano cae por tercera jornada consecutiva, con lo que el precio del dólar hoy 6 de mayo de 2025 cotiza en 19.76 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana regis…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-6-mayo-2025-tipo-cambio-bancos-mexico/1714397",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/06/3302435.jpg",
+      "PublishedAt": "2025-05-06T14:50:35Z",
+      "Content": "El peso mexicano cae por tercera jornada consecutiva, con lo que el precio del dólar hoy 6 de mayo de 2025 cotiza en 19.76 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en ba… [+1389 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 6 de mayo",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-6-de-mayo-nid06052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-6-de-mayo-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-06T14:20:49Z",
+      "Content": "Este martes 6 de mayo de 2025, el precio del dólar en México es de $19,6335, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es afectado por el débil reporte d… [+2236 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-04-29T11:00:00Z",
       "Content": "El dólar HOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.62 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+733 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "AFP",
-      "Title": "Peso colombiano cae frente al dólar por congelamiento de línea crediticia del FMI",
-      "Description": "El peso colombiano se debilitó cerca de un 0,7% este lunes frente al dólar tras la decisión del Fondo Monetario Internacional (FMI) de congelar su línea de crédito flexible a Colombia, según datos de la bolsa de valores.",
-      "Url": "https://www.nacion.com/economia/peso-colombiano-cae-frente-al-dolar-por/SGULDCIM2JCHLISO74OC6ZDH6U/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/XTCMYYVYWZDAVCN4MQ7IZ3PM4M.jpg?smart=true&auth=bd3c05aa7df9ab725f02b36ba6fba348016098abc1b7438ac49e2d0ecf9c31ae&width=1440",
-      "PublishedAt": "2025-04-28T23:43:09Z",
-      "Content": "Bogotá, Colombia. El peso colombiano se debilitó cerca de un 0,7% este lunes frente al dólar tras la decisión del Fondo Monetario Internacional (FMI) de congelar su línea de crédito flexible a Colomb… [+2608 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca la semana con ‘el pie izquierdo’: ¿Cuánto se deprecia HOY frente al dólar y por qué?",
-      "Description": "El tipo de cambio ronda en los 20.5555 pesos por dólar este lunes 28 de abril, lo que representa una depreciación de 0.17 por ciento.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/28/peso-dolar-precio-hoy-28-de-abril-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PYK5WM4YYFE7HCEMOM2SK72POE.jpg?smart=true&auth=b6371bcd5aa6df9fc956bf14089de5491027441a2d1196cf036ddb3f4635a011&width=1200&height=630",
-      "PublishedAt": "2025-04-28T16:07:31Z",
-      "Content": "El peso mexicano inició la semana registrando retrocesos moderados frente al dólar, a medida que los operadores están a la espera de más información económica, a la par que asimilan el estatus de las… [+1663 chars]"
     }
   ]
 }
