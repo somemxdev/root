@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Dólar hoy: el tipo de cambio oficial vuelve a subir y se vende a $1220",
+      "Description": "El blue y los financieros operan también en el centro del nuevo esquema de bandas de flotación; la Bolsa porteña rebota 2%",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-tipo-de-cambio-oficial-vuelve-a-subir-y-se-vende-a-1220-nid06052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-martes-6-de-mayo-de-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-06T16:37:48Z",
+      "Content": "Los dólares operan al alza por segunda rueda consecutiva. Con el arranque de un nuevo mes, los analistas adjudican una mayor demanda por compra de dólares para el ahorro y el pago de tarjetas de créd… [+3292 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4GMTQPXNTNEWHFQNELFLH5CAOA.jpg?smart=true&auth=40d4b792fcc629d6b3cf3bfe982adef18b93bb66b77c939143c5aeb41389ae80&width=1200&height=630",
       "PublishedAt": "2025-04-29T11:55:53Z",
       "Content": "El peso mexicano tuvo una importante devaluación respecto al dólar del 25 por ciento en los doce meses previos a la toma de protesta del presidente norteamericano, influido mucho por las medidas que … [+3866 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 29 de abril de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.62 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano mostraba pocos cambios ayer debido a la cautela de lo…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-de-abril-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-04-29T11:00:00Z",
-      "Content": "El dólar HOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.62 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+733 chars]"
     }
   ]
 }
