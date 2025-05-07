@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "David Casals",
+      "Title": "De Cos pide reformas para que el euro desplace al dólar como divisa de reserva",
+      "Description": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía. Leer",
+      "Url": "https://www.expansion.com/catalunya/2025/05/06/681a0e49468aebd9108b4574.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/f6a7f2e791dd1c28acff96fba77f963f/crop/212x267/1850x1359/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/06/17465379030739.jpg",
+      "PublishedAt": "2025-05-06T13:41:54Z",
+      "Content": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía.El exgobernador del Banco de… [+2218 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PYK5WM4YYFE7HCEMOM2SK72POE.jpg?smart=true&auth=b6371bcd5aa6df9fc956bf14089de5491027441a2d1196cf036ddb3f4635a011&width=1200&height=630",
       "PublishedAt": "2025-04-28T16:07:31Z",
       "Content": "El peso mexicano inició la semana registrando retrocesos moderados frente al dólar, a medida que los operadores están a la espera de más información económica, a la par que asimilan el estatus de las… [+1663 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 28 de abril",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-28-de-abril-nid28042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-28-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-28T15:23:43Z",
-      "Content": "Este lunes 28 de abril, el precio del dólar en México es de $19,5478, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano se ve influenciado porlos datos económico… [+2209 chars]"
     }
   ]
 }
