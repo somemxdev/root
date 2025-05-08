@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Analysts Say Gold Likely in Strongest Market of All Time Amid Central Bank Accumulation and US Dollar Weakness",
+      "Description": "Uncertainty is driving gold’s price momentum, according to analysts at the capital markets newsletter The Kobeissi Letter. The Kobeissi Letter’s official account on the social media platform X notes that heading into this year, gold had been underperforming t…",
+      "Url": "https://dailyhodl.com/2025/05/07/analysts-say-gold-likely-in-strongest-market-of-all-time-amid-central-bank-accumulation-and-us-dollar-weakness/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/banks-billion-gold.jpg",
+      "PublishedAt": "2025-05-07T20:00:22Z",
+      "Content": "Uncertainty is driving gold’s price momentum, according to analysts at the capital markets newsletter The Kobeissi Letter.\r\nThe Kobeissi Letter’s official account on the social media platform X notes… [+1758 chars]"
+    },
     {
       "Source": {
         "Id": null,
