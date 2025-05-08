@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://usrimg-full.fark.net/m/mA/fark_mAdhpAD0QVa2ElOw0flVH46iRjs.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1744603200&Signature=s8gvt8axm1pX2ow26saT4W1nbM0%3D",
       "PublishedAt": "2025-04-07T21:50:05Z",
       "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Naturalnews.com"
-      },
-      "Author": "Willow Tohi",
-      "Title": "Deutsche Bank warns of potential dollar confidence crisis amid trade tensions",
-      "Description": "Deutsche Bank AG has issued a warning about a potential crisis of confidence in the U.S. dollar, driven by escalating global trade tensions and President Trump’s new tariffs, which have led to significant market volatility and a sharp decline in the dollar’s …",
-      "Url": "https://www.naturalnews.com/2025-04-07-deutsche-bank-warns-of-potential-dollar-confidence-crisis.html",
-      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Inflation-dollar-hyperinflation-3.jpeg",
-      "PublishedAt": "2025-04-07T06:00:00Z",
-      "Content": "<ul><li>Deutsche Bank AG has issued a warning about a potential crisis of confidence in the U.S. dollar, driven by escalating global trade tensions and President Trump's new tariffs, which have led t… [+5376 chars]"
     }
   ]
 }
