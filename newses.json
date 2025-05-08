@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se sacude el miedo’ previo a la decisión de la Fed: ¿Cuánto se aprecia HOY frente al dólar?",
+      "Description": "El tipo de cambio se ubica este miércoles 7 de mayo en 19.59 pesos por billete verde, lo que representa una apreciación de 0.31 por ciento o 6.0 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/07/peso-dolar-precio-hoy-7-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Z4HJT3NTFRFELHZDNPMWZJ676U.jpg?smart=true&auth=d2857c0fce1a5a87a9f38e3f77a7f14b5741630b1d2bdee555725ac63f091e2f&width=1200&height=630",
+      "PublishedAt": "2025-05-07T15:54:12Z",
+      "Content": "En una jornada en la que el catalizador principal para los mercados será la decisión de política monetaria de la Reserva Federal, así como el discurso de su presidente, Jerome Powell, el peso mexican… [+1761 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/conocido-como-dolar-de-la-paz-este-ejemplar-logro-WRDRIPVLORH6ZGCD464RNTZHCQ.jpg?auth=20542139052ab222c8c71b42bb24ea1d6d4b482dba0a848bb4d40d88cd3e82cc&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-04-29T20:45:49Z",
       "Content": "Entre las monedas históricas de Estados Unidos, el dólar de la Paz de 1922 se destaca por una versión en particular: la de prueba con acabado mate y alto relieve. Se trata de una pieza escasa, de la … [+2279 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso retrocede ante el dólar... pero analiza panorama comercial: ¿Cuánto se deprecia HOY?",
-      "Description": "El peso mexicano se deprecia en el arranque de la sesión de este 29 de abril.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/04/29/peso-dolar-tipo-de-cambio-hoy-29-de-abril-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DIVIXUAUKJH6RGNBFKGKS6QQ5A.jpg?smart=true&auth=e323a285d4b55ccf26cc24dbb76fa02624cfe68c94625185e2e8acb972b63c22&width=1200&height=630",
-      "PublishedAt": "2025-04-29T15:59:48Z",
-      "Content": "El peso mexicano inicia la sesión de este 29 de abril con pérdidas marginales frente al dólar. Los operadores siguen atentos a cómo evoluciona el panorama comercial, así como a los posibles impactos … [+1601 chars]"
     }
   ]
 }
