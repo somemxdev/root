@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 144,
+  "TotalResults": 145,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Ucrania considera reorientar su moneda del dólar al euro",
+      "Description": "El presidente del banco central menciona la perspectiva del ingreso en la UE, el creciente papel comunitario en la defensa del país y riesgos del comercio global.",
+      "Url": "https://actualidad.rt.com/actualidad/549190-ucrania-considerar-reorientar-moneda-dolar-euro",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.05/article/681c1548e9ff714dc454a144.jpg",
+      "PublishedAt": "2025-05-08T19:04:17Z",
+      "Content": "Ucrania ha empezado a considerar cambiar del dólar al euro como moneda de referencia, según afirmó el presidente del Banco Nacional de Ucrania, Andréi Pýshny, citando los crecientes lazos con la UE d… [+1497 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4I2P77RHVBAA7CAR4Y6QOBMBO4.jpg?smart=true&auth=5e85efb4e7ef94a276392905971b94e9a2f241daab956738ede326bb23b29249&width=1200&height=630",
       "PublishedAt": "2025-04-30T16:48:18Z",
       "Content": "El peso mexicano cede levemente ante el dólar este miércoles 30 de abril mientras los inversionistas ven con temor el dato del PIB de Estados Unidos, que se contrajo por primera vez desde 2022 y reav… [+1985 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "EFE",
-      "Title": "Legisladores republicanos y demócratas cercan a la moneda de un centavo de dólar: un proyecto de ley busca su eliminación en EEUU",
-      "Description": "Legisladores estadounidenses tanto del Partido Republicano como del Partido Demócrata han presentado este miércoles un proyecto de ley para eliminar el uso de las monedas de un centavo en EEUU, una iniciativa respaldada de forma personal por el presidente Don…",
-      "Url": "https://www.eleconomista.es/economia/noticias/13342641/04/25/legisladores-republicanos-y-democratas-cercan-a-la-moneda-de-un-centavo-de-dolar-un-proyecto-de-ley-busca-su-eliminacion-en-eeuu.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2738x1494/c/8/1/1200x655_dreamstime_l_47351819.jpg",
-      "PublishedAt": "2025-04-30T15:43:13Z",
-      "Content": "Legisladores estadounidenses tanto del Partido Republicano como del Partido Demócrata han presentado este miércoles un proyecto de ley para eliminar el uso de las monedas de un centavo en EEUU, una i… [+1113 chars]"
     }
   ]
 }
