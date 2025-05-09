@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 8 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 8 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer luego del anuncio sobre la decisión …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-08T11:13:00Z",
+      "Content": "El dólar HOY 8 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso m… [+773 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/06/peso-frente-dolar-victoria-electoral.jpeg",
       "PublishedAt": "2025-04-30T11:00:00Z",
       "Content": "El dólar HOY 29 de abril inicia operaciones con el tipo de cambio interbancario en 19.55 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.\r\nEl peso… [+661 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar de la Paz: cómo reconocer esta moneda que puede llegar a valer hasta US$475.000 por este detalle",
-      "Description": "Acuñada en alto relieve y con acabado especial, es considerada una de las piezas más raras de la numismática estadounidense",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/dolar-de-la-paz-como-reconocer-esta-moneda-que-puede-llegar-a-valer-hasta-us475000-por-este-detalle-nid29042025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/conocido-como-dolar-de-la-paz-este-ejemplar-logro-WRDRIPVLORH6ZGCD464RNTZHCQ.jpg?auth=20542139052ab222c8c71b42bb24ea1d6d4b482dba0a848bb4d40d88cd3e82cc&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-04-29T20:45:49Z",
-      "Content": "Entre las monedas históricas de Estados Unidos, el dólar de la Paz de 1922 se destaca por una versión en particular: la de prueba con acabado mate y alto relieve. Se trata de una pieza escasa, de la … [+2279 chars]"
     }
   ]
 }
