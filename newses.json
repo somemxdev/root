@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 12 de mayo",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación; aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-12-de-mayo-nid12052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-12-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-12T16:56:44Z",
+      "Content": "Este lunes 12 de mayo de 2025, el precio del dólar en México es de $19,4912, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso se ve afectado por el fortalecimiento de la… [+2190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-05-05T11:05:00Z",
       "Content": "El dólar HOY 5 de mayo inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera ganancia del 0.09 por ciento, según datos de Bloomberg.\r\nEl pe… [+818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Tian Chen",
-      "Title": "¿Y el súper peso? La caída del dólar provoca que los inversionistas consideren monedas asiáticas",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/bloomberg/2025/05/05/y-el-super-peso-la-caida-del-dolar-provoca-que-los-inversionistas-consideren-monedas-asiaticas/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4I2P77RHVBAA7CAR4Y6QOBMBO4.jpg?smart=true&auth=5e85efb4e7ef94a276392905971b94e9a2f241daab956738ede326bb23b29249&width=1200&height=630",
-      "PublishedAt": "2025-05-05T09:53:00Z",
-      "Content": "Las monedas asiáticas, impulsadas por la debilidad del dólar, están alcanzando niveles raramente vistos y provocando intervenciones de los bancos centrales para frenar sus apreciaciones excesivas.\r\nL… [+3505 chars]"
     }
   ]
 }
