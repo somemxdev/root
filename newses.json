@@ -1,0 +1,397 @@
+{
+  "Status": 0,
+  "Error": null,
+  "TotalResults": 129,
+  "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Rebaja de aranceles de China y EU ‘pega’ al peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "El peso mexicano se deprecia este lunes 12 de mayo también por influencia del reporte de actividad industrial en México, que se contrajo de nuevo en marzo, según datos del Inegi.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/12/peso-dolar-precio-hoy-12-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/NSI5SM6MOVBOZK3QU6QKRSWCRI.jpg?smart=true&auth=587551ac829e73328191517991bcf655dc52b281cb2eebb3ad8bdfe7a78df508&width=1200&height=630",
+      "PublishedAt": "2025-05-12T15:19:33Z",
+      "Content": "La tregua comercial entre Estados Unidos y China le sentó mal al peso mexicano, que cerró la semana pasada en su mejor nivel ante el dólar al menos desde octubre de 2024. \r\nLa depreciación del peso m… [+1952 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se repliega tras acuerdo EU-China! Precio del dólar hoy 12 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la semana con una depreciación tras cuatro sesiones consecutivas de ganancias, con lo que el precio del dólar hoy 12 de mayo de 2025 cotiza en 19.55 unidades por cada billete verde; conoce aquí cuál es el tipo de cam…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-12-mayo-2025-tipo-cambio-bancos-mexico/1715443",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/12/3305759.jpg",
+      "PublishedAt": "2025-05-12T13:52:43Z",
+      "Content": "El peso mexicano arranca la semana con una depreciación tras cuatro sesiones consecutivas de ganancias, con lo que el precio del dólar hoy 12 de mayo de 2025 cotiza en 19.55 unidades por cada billete… [+1527 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 12 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 12 de mayo inicia operaciones con el tipo de cambio interbancario en 19.51 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg.El peso mexicano al inicio de la jornada en medio de un mayor optimismo…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-05-12T11:00:31Z",
+      "Content": "El dólar HOY 12 de mayo inicia operaciones con el tipo de cambio interbancario en 19.51 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. \r\nEl peso… [+744 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Sebastian Valdenegro",
+      "Title": "Jorge Selaive, economista jefe de Scotiabank Chile: “Aún tenemos bastante trabajo que hacer para levantar los espíritus animales más allá de la bolsa y dólar”",
+      "Description": "El también académico señala que Chile está más expuesto a una desaceleración de China que a los aranceles que aplique Estados Unidos.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/jorge-selaive-economista-jefe-de-scotiabank-chile-aun-tenemos-bastante",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250509/imag/foto_0000000120250509170220/SELAIVE.jpg",
+      "PublishedAt": "2025-05-12T08:00:00Z",
+      "Content": "Las cifras más recientes en materia económica dan cuenta de una cierta estabilización. Por ejemplo, el Índice Mensual de Actividad Económica (Imacec) se expandió un 3,8% en marzo, algo por encima de … [+9490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 10 de mayo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de mayo el tipo de cambio interbancario, se ubica en 19.44 pesos por unidad, con una pérdida del 0.45 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzó ante…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-05-10T12:44:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de mayo el tipo de cambio interbancario, se ubica en 19.44 pesos por unidad, con una pérdida del 0.45 por ciento,… [+1286 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 9 de mayo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-9-de-mayo-de-2025-nid09052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-9-de-mayo-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-05-09T15:33:45Z",
+      "Content": "Este viernes 9 de mayo de 2025, el precio del dólar en México es de $19,5642, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es influenciado por retroceso de … [+2261 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza! Precio del dólar hoy 9 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene su buena racha, con lo que el precio del dólar hoy 9 de mayo de 2025 cotiza en 19.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra un avanc…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-9-mayo-2025-tipo-cambio-bancos-mexico/1715070",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/09/3304609.jpg",
+      "PublishedAt": "2025-05-09T14:46:15Z",
+      "Content": "El peso mexicano mantiene su buena racha, con lo que el precio del dólar hoy 9 de mayo de 2025 cotiza en 19.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxi… [+1184 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 9 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 9 de mayo inicia operaciones con el tipo de cambio interbancario en 19.51 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano inició la sesión al alza, en medio de un mejor ánimo d…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-05-09T11:01:00Z",
+      "Content": "El peso mexicano se apreció levemente con 0.20 por ciento, cerrando la jornada en 19.53 unidades por dólar, este jueves 8 de mayo de 2025.\r\nEste escenario ocurrió en medio de menores tensiones comerc… [+673 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "HeilHynkel",
+      "Title": "Ucrania estudia cambiar su moneda de anclaje del dólar al euro. [ENG]",
+      "Description": "Ucrania está evaluando la posibilidad de sustituir el dólar estadounidense por el euro como moneda de referencia de la hryvnia, según declaró a Reuters el Gobernador del Banco Central, Andriy Pyshnyi, en una entrevista publicada el 8 de mayo de 2025. La hryvn…",
+      "Url": "https://www.meneame.net/m/actualidad/ucrania-estudia-cambiar-moneda-anclaje-dolar-euro-eng",
+      "UrlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "PublishedAt": "2025-05-09T06:03:58Z",
+      "Content": ""
+    },
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Ucrania considera reorientar su moneda del dólar al euro",
+      "Description": "El presidente del banco central menciona la perspectiva del ingreso en la UE, el creciente papel comunitario en la defensa del país y riesgos del comercio global.",
+      "Url": "https://actualidad.rt.com/actualidad/549190-ucrania-considerar-reorientar-moneda-dolar-euro",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.05/article/681c1548e9ff714dc454a144.jpg",
+      "PublishedAt": "2025-05-08T19:04:17Z",
+      "Content": "Ucrania ha empezado a considerar cambiar del dólar al euro como moneda de referencia, según afirmó el presidente del Banco Nacional de Ucrania, Andréi Pýshny, citando los crecientes lazos con la UE d… [+1497 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana! Precio del dólar hoy 8 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada con avances, con lo que el precio del dólar hoy 8 de mayo de 2025 cotiza en 19.53 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra u…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-8-mayo-2025-tipo-cambio-bancos-mexico/1714838",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/08/3303866.jpg",
+      "PublishedAt": "2025-05-08T14:59:48Z",
+      "Content": "El peso mexicano arranca la jornada con avances, con lo que el precio del dólar hoy 8 de mayo de 2025 cotiza en 19.53 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos … [+1605 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va por ganancias este jueves: Así cotiza ante el dólar",
+      "Description": "El tipo de cambio se ubica en 19.52 pesos por dólar este jueves.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/08/peso-dolar-tipo-de-cambio-hoy-8-de-mayo-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PAM7VLAUCNGSPOLA5RZZIPVBVU.jpg?smart=true&auth=18fd32d63288345598409faa843035376590c4624207a3e857e6c62fff0ea491&width=1200&height=630",
+      "PublishedAt": "2025-05-08T14:50:25Z",
+      "Content": "El peso mexicano extiende su permanencia en terreno de ganancias, a medida que se reduce la aversión al riesgo en términos comerciales, al tiempo que los operadores asimilan el reporte de inflación e… [+1573 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 8 de mayo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-8-de-mayo-de-2025-nid08052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-8-de-mayo-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-08T14:32:16Z",
+      "Content": "Este jueves 8 de mayo de 2025, el precio del dólar en México es de $19,588, de acuerdo con el Diario Oficial de la Federación (DOF). El peso mexicano continúa con su apreciación semanal y su desempeñ… [+2425 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 8 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 8 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer luego del anuncio sobre la decisión …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-08T11:13:00Z",
+      "Content": "El dólar HOY 8 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso m… [+773 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se sacude el miedo’ previo a la decisión de la Fed: ¿Cuánto se aprecia HOY frente al dólar?",
+      "Description": "El tipo de cambio se ubica este miércoles 7 de mayo en 19.59 pesos por billete verde, lo que representa una apreciación de 0.31 por ciento o 6.0 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/07/peso-dolar-precio-hoy-7-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Z4HJT3NTFRFELHZDNPMWZJ676U.jpg?smart=true&auth=d2857c0fce1a5a87a9f38e3f77a7f14b5741630b1d2bdee555725ac63f091e2f&width=1200&height=630",
+      "PublishedAt": "2025-05-07T15:54:12Z",
+      "Content": "En una jornada en la que el catalizador principal para los mercados será la decisión de política monetaria de la Reserva Federal, así como el discurso de su presidente, Jerome Powell, el peso mexican… [+1761 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 7 de mayo de 2025",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-7-de-mayo-de-2025-nid07052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-7-de-mayo-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-05-07T14:19:28Z",
+      "Content": "Este miércoles 7 de mayo de 2025, el precio del dólar en México es de $19,6785, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por elavance de la… [+2255 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza previo a anuncio de la Fed! Precio del dólar hoy 7 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia previo al anuncio de la Reserva Federal de Estados Unidos (Fed por sus siglas en inglés), con lo que el precio del dólar hoy 7 de mayo de 2025 cotiza en 19.59 unidades por cada billete verde; conoce aquí cuál es e…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-7-mayo-2025-tipo-cambio-bancos-mexico/1714615",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/07/3303124.jpg",
+      "PublishedAt": "2025-05-07T14:14:10Z",
+      "Content": "El peso mexicano se aprecia previo al anuncio de la Reserva Federal de Estados Unidos (Fed por sus siglas en inglés), con lo que el precio del dólar hoy 7 de mayo de 2025 cotiza en 19.59 unidades por… [+1580 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 7 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 7 de mayo inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con una ligera baja del 0.17 por ciento, según datos de Bloomberg.El peso mexicano descendía por tercera sesión seguida, en medio del ner…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-05-07T11:00:00Z",
+      "Content": "El dólarHOY 7 de mayo inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con una ligera baja del 0.17 por ciento, según datos de Bloomberg.\r\nEl peso me… [+819 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Dólar hoy: el tipo de cambio oficial vuelve a subir y se vende a $1220",
+      "Description": "El blue y los financieros operan también en el centro del nuevo esquema de bandas de flotación; la Bolsa porteña rebota 2%",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-tipo-de-cambio-oficial-vuelve-a-subir-y-se-vende-a-1220-nid06052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-martes-6-de-mayo-de-RRTVAAEXB5CVJBF4DQRLXSX5NI.JPG?auth=7dacd6870e4c9b32bf271b9abb8f9f702d5a5ffc94b7c3dfd8d30e3dd802f9e8&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-06T16:37:48Z",
+      "Content": "Los dólares operan al alza por segunda rueda consecutiva. Con el arranque de un nuevo mes, los analistas adjudican una mayor demanda por compra de dólares para el ahorro y el pago de tarjetas de créd… [+3292 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae por tercera jornada! Precio del dólar hoy 6 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano cae por tercera jornada consecutiva, con lo que el precio del dólar hoy 6 de mayo de 2025 cotiza en 19.76 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana regis…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-6-mayo-2025-tipo-cambio-bancos-mexico/1714397",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/06/3302435.jpg",
+      "PublishedAt": "2025-05-06T14:50:35Z",
+      "Content": "El peso mexicano cae por tercera jornada consecutiva, con lo que el precio del dólar hoy 6 de mayo de 2025 cotiza en 19.76 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en ba… [+1389 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 6 de mayo",
+      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-6-de-mayo-nid06052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-6-de-mayo-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-06T14:20:49Z",
+      "Content": "Este martes 6 de mayo de 2025, el precio del dólar en México es de $19,6335, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es afectado por el débil reporte d… [+2236 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "David Casals",
+      "Title": "De Cos pide reformas para que el euro desplace al dólar como divisa de reserva",
+      "Description": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía. Leer",
+      "Url": "https://www.expansion.com/catalunya/2025/05/06/681a0e49468aebd9108b4574.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/f6a7f2e791dd1c28acff96fba77f963f/crop/212x267/1850x1359/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/06/17465379030739.jpg",
+      "PublishedAt": "2025-05-06T13:41:54Z",
+      "Content": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía.El exgobernador del Banco de… [+2218 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre plano en espera de acuerdos comerciales y mientras alza del cobre respalda al peso chileno",
+      "Description": "El cobre Comex subía 0,8% a US$ 4,73 por libra, estimulado por compras chinas después de que los mercados continentales del país asiático volvieron de su feriado de cinco jornadas por el Día del Trabajador.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoymk3op23",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250506/imag/foto_0000000520250506084154/Aton_618898.jpg",
+      "PublishedAt": "2025-05-06T12:42:00Z",
+      "Content": "El dólar abrió plano este martes en Chile, sumido en las dudas sobre en qué momento habrá noticias alentadores por parte de la administración Trump, respecto de sus negociaciones para reducir arancel… [+2362 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 6 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 6 de mayo inicia operaciones con el tipo de cambio interbancario en 19.72pesos mexicanos por billete verde, con un aumento del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba levemente al inicio de la sesión, pese a un re…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/08/26/dolar-estadounidense-caida-impacto-tasas.jpg",
+      "PublishedAt": "2025-05-06T11:07:00Z",
+      "Content": "El dólar HOY 6 de mayo inicia operaciones con el tipo de cambio interbancario en 19.72 pesos mexicanos por billete verde, con un  aumento del 0.16 por ciento, según datos de Bloomberg.\r\nEl peso mexic… [+732 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Nicolás Castillo Arévalo",
+      "Title": "Dólar hoy: Tipo de cambio cierra en S/3.666 ante cautela por tasas de la Fed",
+      "Description": "tipo de cambio, dólar, sol peruano, cierre dólar hoy, divisas, Reserva Federal, tasas de interés, swaps cambiarios, mercado cambiario, Renta4 SAB",
+      "Url": "https://peru21.pe/economia/dolar-hoy-tipo-de-cambio-cierra-en-s3666-ante-cautela-por-tasas-de-la-fed/",
+      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/Z4T3FODOIZDDRBAJ75A4NPQPT4_8.jpg?itok=iWyMKnOu",
+      "PublishedAt": "2025-05-05T19:52:43Z",
+      "Content": "El tipo de cambio cerró este lunes en S/3.666, registrando un avance de 150 puntos frente al cierre del viernes (S/3.6510). Durante la jornada, la cotización del dólar osciló entre un mínimo de S/3.6… [+1547 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le queda mal’ a Ignacio Zaragoza en el 5 de mayo: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "A diferencia del peso mexicano, que cae ante el dólar, monedas de mercados emergentes como el rublo de Rusia y el ringgit de Malasia 'pegan' al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/05/peso-dolar-precio-hoy-5-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IOXPJAQWSBD6LHUTE5YTMG4SVM.jpg?smart=true&auth=51c5b9373bc1726f52763b2f4a310dd83870168ab9f9c3dada1dadec2decebf6&width=1200&height=630",
+      "PublishedAt": "2025-05-05T16:42:53Z",
+      "Content": "El peso mexicano no impresiona a Ignacio Zaragoza y cae ante el dólar este lunes 5 de mayo ante la incertidumbre en el panorama comercial. \r\nLa depreciación del peso mexicano ante el dólar es de 0.24… [+1823 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con leve pérdida! Precio del dólar hoy 5 de mayo de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada con retrocesos, con lo que el precio del dólar hoy 5 de mayo de 2025 cotiza en 19.60 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana una lev…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-5-mayo-2025-tipo-cambio-bancos-mexico/1714206",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/05/3301880.jpg",
+      "PublishedAt": "2025-05-05T14:22:43Z",
+      "Content": "El peso mexicano arranca la jornada con retrocesos, con lo que el precio del dólar hoy 5 de mayo de 2025 cotiza en 19.60 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en banc… [+1473 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 5 de mayo",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-5-de-mayo-nid05052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-5-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-05-05T14:08:26Z",
+      "Content": "Este lunes 5 de mayo de 2025, el precio del dólar en México es de $19,657, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso se ve impactado por las negociaciones comerci… [+1991 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 5 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 5 de mayo inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera ganancia del 0.09 por ciento, según datos de Bloomberg.El peso mexicanoavanzaba el viernes levemente ante un fortalecimient…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-05T11:05:00Z",
+      "Content": "El dólar HOY 5 de mayo inicia operaciones con el tipo de cambio interbancario en 19.60 pesos mexicanos por billete verde, con una ligera ganancia del 0.09 por ciento, según datos de Bloomberg.\r\nEl pe… [+818 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Tian Chen",
+      "Title": "¿Y el súper peso? La caída del dólar provoca que los inversionistas consideren monedas asiáticas",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/bloomberg/2025/05/05/y-el-super-peso-la-caida-del-dolar-provoca-que-los-inversionistas-consideren-monedas-asiaticas/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4I2P77RHVBAA7CAR4Y6QOBMBO4.jpg?smart=true&auth=5e85efb4e7ef94a276392905971b94e9a2f241daab956738ede326bb23b29249&width=1200&height=630",
+      "PublishedAt": "2025-05-05T09:53:00Z",
+      "Content": "Las monedas asiáticas, impulsadas por la debilidad del dólar, están alcanzando niveles raramente vistos y provocando intervenciones de los bancos centrales para frenar sus apreciaciones excesivas.\r\nL… [+3505 chars]"
+    }
+  ]
+}
