@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Windows Central"
+      },
+      "Author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+      "Title": "OpenAI wants Microsoft to provide \"money and compute and stay out of the way\" as it renegotiates multi-billion-dollar partnership",
+      "Description": "Microsoft is reportedly in the process of reworking its partnership, willing to give up some equity to continue accessing sophisticated AI models beyond 2030.",
+      "Url": "https://www.windowscentral.com/microsoft/openai-microsoft-renegotiates-multi-billion-dollar-partnership",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/aVakfnRhfYPSCmLWbC5PyF.jpg",
+      "PublishedAt": "2025-05-13T10:00:00Z",
+      "Content": "Last week, OpenAI pulled the plug on restructuring its firm and announced its plan to transition its for-profit arm into a Public Benefit Corporation (PBC). The transition comes amid pressure from in… [+4007 chars]"
+    },
     {
       "Source": {
         "Id": null,
