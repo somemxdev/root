@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "El peso mexicano gana terreno frente al mal desempeño del dólar",
+      "Description": "La divisa mexicana culminó la jornada actual registrando un tipo de cambio de 19,39 unidades por dólar estadounidense, esto de acuerdo con datos del Banco de México (Banxico). Este es su mejor nivel desde octubre del año pasado.",
+      "Url": "https://noticiaslatam.lat/20250514/el-peso-mexicano-gana-terreno-frente-al-mal-desempeno-del-dolar-1162537852.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1162537852.jpg?11625408641747197183",
+      "PublishedAt": "2025-05-14T04:33:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+24 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.uecdn.es/f6a7f2e791dd1c28acff96fba77f963f/crop/212x267/1850x1359/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/06/17465379030739.jpg",
       "PublishedAt": "2025-05-06T13:41:54Z",
       "Content": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía.El exgobernador del Banco de… [+2218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre plano en espera de acuerdos comerciales y mientras alza del cobre respalda al peso chileno",
-      "Description": "El cobre Comex subía 0,8% a US$ 4,73 por libra, estimulado por compras chinas después de que los mercados continentales del país asiático volvieron de su feriado de cinco jornadas por el Día del Trabajador.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoymk3op23",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250506/imag/foto_0000000520250506084154/Aton_618898.jpg",
-      "PublishedAt": "2025-05-06T12:42:00Z",
-      "Content": "El dólar abrió plano este martes en Chile, sumido en las dudas sobre en qué momento habrá noticias alentadores por parte de la administración Trump, respecto de sus negociaciones para reducir arancel… [+2362 chars]"
     }
   ]
 }
