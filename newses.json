@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 14 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 14 de mayo inicia operaciones con el tipo de cambio interbancario en 19.36pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano al inicio de la jornada en medio de un mayor optimismo …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-05-14T11:08:00Z",
+      "Content": "Eldólar HOY 14 de mayo inicia operaciones con el tipo de cambio interbancario en 19.36 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg. \r\nEl peso … [+761 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-6-de-mayo-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-05-06T14:20:49Z",
       "Content": "Este martes 6 de mayo de 2025, el precio del dólar en México es de $19,6335, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es afectado por el débil reporte d… [+2236 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "David Casals",
-      "Title": "De Cos pide reformas para que el euro desplace al dólar como divisa de reserva",
-      "Description": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía. Leer",
-      "Url": "https://www.expansion.com/catalunya/2025/05/06/681a0e49468aebd9108b4574.html",
-      "UrlToImage": "https://phantom-expansion.uecdn.es/f6a7f2e791dd1c28acff96fba77f963f/crop/212x267/1850x1359/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/06/17465379030739.jpg",
-      "PublishedAt": "2025-05-06T13:41:54Z",
-      "Content": "Avisa de las \"consecuencias negativas\" que comportaría una desregulación financiera a nivel global: sería la \"semilla\" de una nueva crisis, dice en el Círculo de Economía.El exgobernador del Banco de… [+2218 chars]"
     }
   ]
 }
