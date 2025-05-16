@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Global Desk",
+      "Title": "Money trouble? Justin Bieber faces multi-million dollar debt to ex-manager Scooter Braun after tour audit uncovers issues",
+      "Description": "Justin Bieber is reportedly facing financial difficulties stemming from his cancelled Justice tour, leading to a dispute with his former manager, Scooter Braun. Audits reveal Bieber owes Braun over $8 million, contradicting claims of overpayment. Despite his …",
+      "Url": "https://economictimes.indiatimes.com/news/international/us/money-trouble-justin-bieber-faces-multi-million-dollar-debt-to-ex-manager-scooter-braun-after-tour-audit-uncovers-issues/articleshow/121195425.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-121195930,width-1200,height-630,imgsize-1667304,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2025-05-15T19:22:54Z",
+      "Content": "Justin Bieber is in deep financial trouble following the fallout from his cancelled Justice tour. A line of audits confirms that the pop star owes millions to ex-manager Scooter Braun.Justin Bieber o… [+3957 chars]"
+    },
     {
       "Source": {
         "Id": null,
