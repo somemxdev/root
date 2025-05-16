@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY jueves 15 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 15 de mayo inicia operaciones con el tipo de cambio interbancario en 19.34 pesos mexicanos por billete verde, con una ligera baja del 0.20 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba a sus mejores niveles en siete meses ant…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-15T11:02:00Z",
+      "Content": "El dólar HOY 15 de mayo inicia operaciones con el tipo de cambio interbancario en 19.34 pesos mexicanos por billete verde, con una ligera baja del 0.20 por ciento, según datos de Bloomberg.  \r\nEl pes… [+783 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/07/3303124.jpg",
       "PublishedAt": "2025-05-07T14:14:10Z",
       "Content": "El peso mexicano se aprecia previo al anuncio de la Reserva Federal de Estados Unidos (Fed por sus siglas en inglés), con lo que el precio del dólar hoy 7 de mayo de 2025 cotiza en 19.59 unidades por… [+1580 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 7 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 7 de mayo inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con una ligera baja del 0.17 por ciento, según datos de Bloomberg.El peso mexicano descendía por tercera sesión seguida, en medio del ner…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-05-07T11:00:00Z",
-      "Content": "El dólarHOY 7 de mayo inicia operaciones con el tipo de cambio interbancario en 19.63 pesos mexicanos por billete verde, con una ligera baja del 0.17 por ciento, según datos de Bloomberg.\r\nEl peso me… [+819 chars]"
     }
   ]
 }
