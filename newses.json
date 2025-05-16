@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se pone ‘nervioso’ por decisión de Banxico: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "El peso mexicano se ha estado acercando al terreno de las 18 unidades, esto por la expectativa de que Donald Trump alcance nuevos acuerdos comerciales y elimine sus aranceles recíprocos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/15/peso-dolar-precio-hoy-15-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OROOJB2OI5FGDJK7M3N6QGTSPE.jpg?smart=true&auth=dee0b8ac6dfba33b4854920321fc36b5e9f845d9dc68337e1f0779629a3d67bb&width=1200&height=630",
+      "PublishedAt": "2025-05-15T17:06:25Z",
+      "Content": "El peso mexicano pierde ante el dólar antes de que el Banco de México anuncie su decisión de política monetaria. El mercado espera un nuevo recorte a la tasa de interés de 50 puntos base que afectará… [+2081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PAM7VLAUCNGSPOLA5RZZIPVBVU.jpg?smart=true&auth=18fd32d63288345598409faa843035376590c4624207a3e857e6c62fff0ea491&width=1200&height=630",
       "PublishedAt": "2025-05-08T14:50:25Z",
       "Content": "El peso mexicano extiende su permanencia en terreno de ganancias, a medida que se reduce la aversión al riesgo en términos comerciales, al tiempo que los operadores asimilan el reporte de inflación e… [+1573 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 8 de mayo de 2025",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-8-de-mayo-de-2025-nid08052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-8-de-mayo-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-08T14:32:16Z",
-      "Content": "Este jueves 8 de mayo de 2025, el precio del dólar en México es de $19,588, de acuerdo con el Diario Oficial de la Federación (DOF). El peso mexicano continúa con su apreciación semanal y su desempeñ… [+2425 chars]"
     }
   ]
 }
