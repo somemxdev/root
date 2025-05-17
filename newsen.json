@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee flat on day; dips on week as corporate, interbank dollar bids weigh",
+      "Description": "The Indian rupee closed nearly flat on Friday but notched its second consecutive weekly fall as a relief rally following an India-Pakistan truce proved fleeting in the face of sustained dollar demand from local companies and foreign banks.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-flat-on-day-dips-on-week-as-corporate-interbank-dollar-bids-weigh/articleshow/121210908.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-121210922,width-1200,height-630,imgsize-23194,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-05-16T10:19:51Z",
+      "Content": "The Indian rupee closed nearly flat on Friday but notched its second consecutive weekly fall as a relief rally following an India-Pakistan truce proved fleeting in the face of sustained dollar demand… [+1678 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
