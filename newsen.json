@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://files.ozbargain.com.au/n/97/902397.jpg?h=bb3b38df",
       "PublishedAt": "2025-04-18T11:13:44Z",
       "Content": "Australian Professional Auto Mix Denomination Money Counting Machine/Cash Counting Machine with all required certifications. Made by the Market-Leading Manufacturer and Quality-Certified by the Europ… [+1283 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Cedi remains unchanged, still selling at GH¢15.52 to a dollar on the interbank market",
-      "Description": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-remains-unchanged-still-selling-at-GH-15-52-to-a-dollar-on-the-interbank-market-1980110",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/364/36465592.jpg",
-      "PublishedAt": "2025-04-16T08:02:22Z",
-      "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+626 chars]"
     }
   ]
 }
