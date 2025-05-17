@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Activistpost.com"
+      },
+      "Author": "Editor",
+      "Title": "The Hidden Dollar Revolution: America’s New Digital Money System",
+      "Description": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, “What if, knowingly or not, the Trump administration was continuity rather than revolutionary?” The Digital Control Grid: Hidden in Plain Sight Am…",
+      "Url": "https://www.activistpost.com/the-hidden-dollar-revolution-americas-new-digital-money-system/",
+      "UrlToImage": "https://www.activistpost.com/wp-content/uploads/2025/05/digital-currency-shutterstock_1857203884.jpg",
+      "PublishedAt": "2025-05-16T22:00:00Z",
+      "Content": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, What if, knowingly or not, the Trump administration was continuity rather than revolut… [+7066 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
