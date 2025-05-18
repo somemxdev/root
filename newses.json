@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 17 de mayo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de mayo el tipo de cambio interbancario, se ubica en 19.47 pesos por unidad, con una pérdida del -0.11 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se apreció…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-17T12:32:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de mayo el tipo de cambio interbancario, se ubica en 19.47 pesos por unidad, con una pérdida del -0.11 por ciento… [+1334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/09/3304609.jpg",
       "PublishedAt": "2025-05-09T14:46:15Z",
       "Content": "El peso mexicano mantiene su buena racha, con lo que el precio del dólar hoy 9 de mayo de 2025 cotiza en 19.47 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de Méxi… [+1184 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 9 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 9 de mayo inicia operaciones con el tipo de cambio interbancario en 19.51 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano inició la sesión al alza, en medio de un mejor ánimo d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-05-09T11:01:00Z",
-      "Content": "El peso mexicano se apreció levemente con 0.20 por ciento, cerrando la jornada en 19.53 unidades por dólar, este jueves 8 de mayo de 2025.\r\nEste escenario ocurrió en medio de menores tensiones comerc… [+673 chars]"
     }
   ]
 }
