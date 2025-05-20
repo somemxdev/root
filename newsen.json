@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Anya Andrianova",
+      "Title": "Dollar ‘Fiscal Frown’ Theory Has Deutsche Bank Warning of Losses",
+      "Description": "(Bloomberg) -- The dollar is at risk of losses whether the US government lands in a fiscal crisis or a recession, according to George Saravelos, Deutsche...",
+      "Url": "https://finance.yahoo.com/news/dollar-fiscal-frown-theory-deutsche-171337951.html",
+      "UrlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d5e139e12c4df53a5bae23733d6accfb",
+      "PublishedAt": "2025-05-19T17:13:37Z",
+      "Content": "(Bloomberg) -- The dollar is at risk of losses whether the US government lands in a fiscal crisis or a recession, according to George Saravelos, Deutsche Banks global head of FX strategy.\r\nMost Read … [+1657 chars]"
+    },
     {
       "Source": {
         "Id": null,
