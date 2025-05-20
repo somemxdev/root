@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 19 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 19 de mayo inicia operaciones con el tipo de cambio interbancario en 19.45 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ligeramente extendiendo las pérdidas de …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-19T11:12:00Z",
+      "Content": "El dólar HOY 19 de mayo inicia operaciones con el tipo de cambio interbancario en 19.45 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso … [+771 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-05-10T12:44:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de mayo el tipo de cambio interbancario, se ubica en 19.44 pesos por unidad, con una pérdida del 0.45 por ciento,… [+1286 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 9 de mayo de 2025",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-9-de-mayo-de-2025-nid09052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-9-de-mayo-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-05-09T15:33:45Z",
-      "Content": "Este viernes 9 de mayo de 2025, el precio del dólar en México es de $19,5642, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es influenciado por retroceso de … [+2261 chars]"
     }
   ]
 }
