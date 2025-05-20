@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Marc Jones",
+      "Title": "Central bank body BIS flags potential for dollar scramble",
+      "Description": "LONDON (Reuters) -Central bank body the Bank for International Settlements has flagged a possible scramble for dollars could be triggered if whipsawed...",
+      "Url": "https://finance.yahoo.com/news/central-bank-body-bis-flags-221628464.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/524fb1d4e53e9d695419f8ce12822222",
+      "PublishedAt": "2025-05-19T22:16:28Z",
+      "Content": "By Marc Jones\r\nLONDON (Reuters) -Central bank body the Bank for International Settlements has flagged a possible scramble for dollars could be triggered if whipsawed investors begin to unwind positio… [+1838 chars]"
+    },
     {
       "Source": {
         "Id": null,
