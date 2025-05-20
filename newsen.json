@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,32 +314,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-04-22T07:34:18Z",
       "Content": "The finance chiefs of Japan and the United States are expected to hold talks on currency this week with Japanese representative Katsunobu Kato departing Tuesday for Washington to attend international… [+2292 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Krystina Alarcon Carroll",
-      "Title": "'Surge': Rich Americans dump money into Swiss banks as Trump chaos creates dollar anxiety",
-      "Description": "Wealthy investors are looking to “diversify away from the dollar,” according to a new NBC report. The outlet claims these investors “believe [the dollar] will weaken even further under the weight of the soaring U.S. debt.” One country that's drawing them away…",
-      "Url": "https://www.rawstory.com/trump-taxes-2671801768/",
-      "UrlToImage": "https://www.rawstory.com/media-library/image.jpg?id=53836326&width=1200&height=600&coordinates=0%2C458%2C0%2C459",
-      "PublishedAt": "2025-04-18T19:12:23Z",
-      "Content": "Wealthy investors are looking to diversify away from the dollar, according to a new NBC report.\r\nThe outlet claims these investors believe [the dollar] will weaken even further under the weight of th… [+1409 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ozbargain.com.au"
-      },
-      "Author": "RUNTOP",
-      "Title": "Auto Mix Denomination Money Counter Machine, Bank Grade, Ideal for Australian Dollar Bills $998 (RRP $1200) + Delivery @ RUNTOP",
-      "Description": "Australian Professional Auto Mix Denomination Money Counting Machine/Cash Counting Machine with all required certifications. Made by the Market-Leading Manufacturer and Quality-Certified by the …",
-      "Url": "https://www.ozbargain.com.au/node/902397",
-      "UrlToImage": "https://files.ozbargain.com.au/n/97/902397.jpg?h=bb3b38df",
-      "PublishedAt": "2025-04-18T11:13:44Z",
-      "Content": "Australian Professional Auto Mix Denomination Money Counting Machine/Cash Counting Machine with all required certifications. Made by the Market-Leading Manufacturer and Quality-Certified by the Europ… [+1283 chars]"
     }
   ]
 }
