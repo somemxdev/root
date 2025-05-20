@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "David Nogales",
+      "Title": "En cuánto estará el dólar la próxima semana, según los operadores consultados por el Banco Central",
+      "Description": "Respecto a la tasa de interés, los expertos esperan dos rebajas este año.",
+      "Url": "https://www.latercera.com/pulso/noticia/en-cuanto-estara-el-dolar-la-proxima-semana-segun-los-operadores-consultados-por-el-banco-central/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/KBQ4FDCYPVB37OSKZMSGYCTCYE.jpg?auth=b115a9cde161f44895cb0d696f612914d12b582249c622c1d7077259ecdbfb68&height=630&width=1200&smart=true",
+      "PublishedAt": "2025-05-19T13:08:15Z",
+      "Content": "El Banco Central publicó esta mañana la Encuesta a los Operadores Financieros (EOF), el sondeo que proyecta una serie de variables económicas y financieras como el dólar, la tasa de interés y la infl… [+1477 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20250509/imag/foto_0000000120250509170220/SELAIVE.jpg",
       "PublishedAt": "2025-05-12T08:00:00Z",
       "Content": "Las cifras más recientes en materia económica dan cuenta de una cierta estabilización. Por ejemplo, el Índice Mensual de Actividad Económica (Imacec) se expandió un 3,8% en marzo, algo por encima de … [+9490 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 10 de mayo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de mayo el tipo de cambio interbancario, se ubica en 19.44 pesos por unidad, con una pérdida del 0.45 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzó ante…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-05-10T12:44:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de mayo el tipo de cambio interbancario, se ubica en 19.44 pesos por unidad, con una pérdida del 0.45 por ciento,… [+1286 chars]"
     }
   ]
 }
