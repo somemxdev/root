@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "No BRICS asset pile big enough to rival dollar, Brazil central bank director says",
+      "Description": "The director acknowledged that alternative settlement tools could gain traction and help boost bilateral trade deals, but nowhere near enough to dislodge the dollar in any visible horizon",
+      "Url": "https://www.thehindubusinessline.com/markets/forex/no-brics-asset-pile-big-enough-to-rival-dollar-brazil-central-bank-director-says/article69596175.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/2xlrww/article69586606.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Euro__Ho_2_1_PPCJMJ46.jpg",
+      "PublishedAt": "2025-05-20T04:23:30Z",
+      "Content": "Brazil's central bank does not see any realistic prospect of emerging nations in the BRICS group creating markets large enough to topple the U.S. dollar's dominance within the next 10 years, monetary… [+2109 chars]"
+    },
     {
       "Source": {
         "Id": null,
