@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 20 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 20 de mayo inicia operaciones con el tipo de cambio interbancario en 19.27 pesos mexicanos por billete verde, con una ligera baja del 0.21 por ciento, según datos de Bloomberg.El peso mexicano avanzaba ante un debilitamiento generalizado del dólar…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-05-20T11:10:00Z",
+      "Content": "El dólar HOY 20 de mayo inicia operaciones con el tipo de cambio interbancario en 19.27 pesos mexicanos por billete verde, con una ligera baja del 0.21 por ciento, según datos de Bloomberg.  \r\nEl pes… [+807 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/13/3306351.jpg",
       "PublishedAt": "2025-05-13T14:15:33Z",
       "Content": "El peso mexicano se aprecia en la jornada de este martes, con lo que el precio del dólar hoy 13 de mayo de 2025 cotiza en 19.53 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1366 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 13 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 13 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.32 por ciento, según datos de Bloomberg.El peso mexicano al inicio de la jornada en medio de un mayor optimismo…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-05-13T11:00:00Z",
-      "Content": "El dólar HOY 13 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.32 por ciento, según datos de Bloomberg. \r\nEl peso… [+766 chars]"
     }
   ]
 }
