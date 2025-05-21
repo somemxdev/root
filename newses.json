@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Duda Banco Central de Brasil que el BRICS pueda derrocar al dólar",
+      "Description": "Brasilia. El Banco Central de Brasil descartó que las naciones del grupo BRICS puedan crear mercados suficientemente grandes para derrocar el dominio del dólar en los próximos 10 años, afirmó ayer su director de política monetaria, Nilton David.",
+      "Url": "https://www.jornada.com.mx/2025/05/20/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-05-20T08:56:30Z",
+      "Content": "Periódico La JornadaMartes 20 de mayo de 2025, p. 19\r\nBrasilia. El Banco Central de Brasil descartó que las naciones del grupo BRICS puedan crear mercados suficientemente grandes para derrocar el dom… [+1270 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Forbes.com.mx"
       },
       "Author": "Forbes Staff",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-05-13T11:00:00Z",
       "Content": "El dólar HOY 13 de mayo inicia operaciones con el tipo de cambio interbancario en 19.57 pesos mexicanos por billete verde, con una ligera baja del 0.32 por ciento, según datos de Bloomberg. \r\nEl peso… [+766 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Esta moneda de cuarto de dólar podría venderse por más de US$30.000: cómo reconocerla",
-      "Description": "Su rareza, estado de conservación y detalles de fabricación la convierten en una de las piezas más valiosas entre los aficionados a la numismática; así se puede identificar una auténtica",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/esta-moneda-de-cuarto-de-dolar-podria-venderse-por-mas-de-us30000-como-reconocerla-nid12052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-25-centavos-acunada-en-san-ROSOTA5AXFGIRM6Z5QXTKIRPKE.jpg?auth=aeda21187e6a16ac81d8e7d6d07d4234166e33569bce16bc089467c29c8887ee&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-12T21:06:43Z",
-      "Content": "Dentro del mercado de coleccionistas en Estados Unidos, ciertas monedas se comercializan precios elevados no solo por su antigüedad, sino por condiciones excepcionales de conservación, diseños histór… [+2993 chars]"
     }
   ]
 }
