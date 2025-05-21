@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/68095e559f884daf64304d76/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2025-04-24T10:38:18Z",
       "Content": "Florida-based Infinite Reality claims it raised more than $3 billion from a sole unnamed investor. That would make the obscure company the beneficiary of one of the biggest funding rounds of the year… [+21642 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Japan Today"
-      },
-      "Author": null,
-      "Title": "Dollar drops below 140 yen for 1st time in 7 months as Japan finance chief leaves for U.S.",
-      "Description": "The finance chiefs of Japan and the United States are expected to hold talks on currency this week with Japanese representative Katsunobu Kato departing Tuesday for Washington to attend international gatherings. The U.S. dollar fell below 140 yen on Tuesday f…",
-      "Url": "https://japantoday.com/category/business/currency-on-agenda-as-japan-finance-chief-leaves-for-washington",
-      "UrlToImage": null,
-      "PublishedAt": "2025-04-22T07:34:18Z",
-      "Content": "The finance chiefs of Japan and the United States are expected to hold talks on currency this week with Japanese representative Katsunobu Kato departing Tuesday for Washington to attend international… [+2292 chars]"
     }
   ]
 }
