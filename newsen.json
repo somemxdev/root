@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Vivian Nguyen",
+      "Title": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
+      "Description": "SG Forge's stablecoin launch could accelerate the integration of regulated digital assets into mainstream finance, enhancing global liquidity.\nThe post French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum appeared first on Cr…",
+      "Url": "https://cryptobriefing.com/dollar-stablecoin-launch-ethereum/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/05/20093812/ed58ebd7-627b-487e-bf42-a376b9c59e82-800x420.jpg",
+      "PublishedAt": "2025-05-20T13:41:08Z",
+      "Content": "Key Takeaways\r\n<ul><li>Société Générale's crypto subsidiary SG Forge is introducing the first bank-issued dollar stablecoin on Ethereum.</li><li>The stablecoin launch targets institutional investors … [+2550 chars]"
+    },
     {
       "Source": {
         "Id": null,
