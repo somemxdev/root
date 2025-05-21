@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thegatewaypundit.com"
+      },
+      "Author": "Brian Lupo",
+      "Title": "Retired Navy Admiral Found Guilty of Bribery – Attempted to Award “Triple Digit Million” Dollar Contract to Company in Exchange For Future Employment",
+      "Description": "The Department of Justice today announced the conviction of 62 year-old retired Navy Admiral Robert Burke.  Burke was found guilty of bribery after it was found that he had awarded a government contract in exchange for future employment with the same company.…",
+      "Url": "https://www.thegatewaypundit.com/2025/05/retired-navy-admiral-found-guilty-bribery-attempted-award/",
+      "UrlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/05/burke.jpg",
+      "PublishedAt": "2025-05-20T14:30:54Z",
+      "Content": "Admiral Robert Burke was convicted of bribery, among other charges, today. Photo courtest of Navy.mil\r\nThe Department of Justice today announced the conviction of 62 year-old retired Navy Admiral Rob… [+5273 chars]"
+    },
     {
       "Source": {
         "Id": null,
