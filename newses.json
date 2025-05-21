@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 20 de mayo",
+      "Description": "¿A cuánto está el dólar hoy en México? Consulta el tipo de cambio actualizado al martes 20 de mayo según el DOF. Analizamos la cotización del dólar a peso mexicano y te ofrecemos un resumen de la situación económica actual.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-20-de-mayo-nid20052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-20-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-20T15:02:46Z",
+      "Content": "Este martes 20 de mayo de 2025, el precio del dólar en México es de $19,3723, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es impulsado por… [+2139 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-describir-las-pautas-del-plan-en-marcha-RFEGLL3LLRDQLNDQF6ESEKAPLA.JPG?auth=2e5d48097643a92c4a353a78f70fe2fb4d9dc097bf3c8ea01e5e097a86ba6c83&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-05-13T14:58:00Z",
       "Content": "Simplificación de las operaciones de comercio exterior.Clarificación de las señales de precios al mercado y los agentes económicos. Flexibilidad para enfrentar shocks externos y extender el horizonte… [+5027 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 13 de mayo",
-      "Description": "El precio del dólar en México, según el Diario Oficial de la Federación (DOF); aquí puedes consultar un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-13-de-mayo-nid13052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-13-de-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-05-13T14:34:42Z",
-      "Content": "Este martes 13 de mayo de 2025, el precio del dólar en México es de $19,6162, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es afectado por datos de economía… [+2058 chars]"
     }
   ]
 }
