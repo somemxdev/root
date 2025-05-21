@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso gana al dólar... pero espera reporte del PIB de México: ¿Cuánto se aprecia el tipo de cambio HOY?",
+      "Description": "En ventanillas bancarias, el dólar ya se vende en un precio de 19.78 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/20/peso-dolar-precio-hoy-20-de-mayo-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ZCT5DEJXPBBHRAMT6NY3DPGBLU.jpg?smart=true&auth=2ce3df8fc1652decf805cc71cf3abf378ebc563bd3313266ad47a7dd2e2583d4&width=1200&height=630",
+      "PublishedAt": "2025-05-20T16:42:59Z",
+      "Content": "Hasta el momento, los datos de Bloomberg reflejan que el tipo de cambio del peso mexicano se ubica en los 19.2895 pesos por billete verde, lo que representa una apreciación de 0.16 por ciento o 3.03 … [+1477 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HD53GA7DKNH2NGH6TMPNUM33MQ.jpg?smart=true&auth=ed6e5d22335c1a25b9ce860bc3bbe697435db442f22e90b50d8aa2ec7d8b8950&width=1200&height=630",
       "PublishedAt": "2025-05-13T15:49:22Z",
       "Content": "El peso mexicano, que fue afectado por la tregua entre China y Donald Trump, se recupera ante el dólar este martes 13 de mayo gracias al dato de inflación en Estados Unidos.\r\nLa apreciación del peso … [+2125 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "“Cambio radical”: el vicepresidente del Banco Central definió cuál será el futuro del dólar",
-      "Description": "“La unificación clarifica la señal de precios hacia el mercado”, dijo Vladimir Werning; por qué 2025 es diferente a 2017; críticas a las provincias por ingresos brutos",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/cambio-radical-el-vicepresidente-del-banco-central-definio-cual-sera-el-futuro-del-dolar-nid13052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-describir-las-pautas-del-plan-en-marcha-RFEGLL3LLRDQLNDQF6ESEKAPLA.JPG?auth=2e5d48097643a92c4a353a78f70fe2fb4d9dc097bf3c8ea01e5e097a86ba6c83&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-13T14:58:00Z",
-      "Content": "Simplificación de las operaciones de comercio exterior.Clarificación de las señales de precios al mercado y los agentes económicos. Flexibilidad para enfrentar shocks externos y extender el horizonte… [+5027 chars]"
     }
   ]
 }
