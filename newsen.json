@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bangkok Post"
+      },
+      "Author": "Reuters",
+      "Title": "No Brics asset pile big enough to rival dollar, Brazil central bank director says",
+      "Description": "BRASILIA - Brazil's central bank does not see any realistic prospect of emerging nations in the Brics group creating markets large enough to topple the US dollar's dominance within the next 10 years, monetary policy director Nilton David said on Monday.",
+      "Url": "https://www.bangkokpost.com/business/general/3029887/no-brics-asset-pile-big-enough-to-rival-dollar-brazil-central-bank-director-says",
+      "UrlToImage": "https://static.bangkokpost.com/media/content/20250520/c1_3029887_250520094705_700.jpg",
+      "PublishedAt": "2025-05-20T02:45:00Z",
+      "Content": "BRASILIA - Brazil's central bank does not see any realistic prospect of emerging nations in the Brics group creating markets large enough to topple the US dollar's dominance within the next 10 years,… [+2077 chars]"
+    },
     {
       "Source": {
         "Id": null,
