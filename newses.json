@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 21 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 21 de mayo inicia operaciones con el tipo de cambio interbancario en 19.29 pesos mexicanos por billete verde, con un ligero aumento del 0.16 por ciento, según datos de Bloomberg.El peso mexicano inició ayer con un alza que continuó por tercera jor…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-05-21T11:06:00Z",
+      "Content": "El dólar HOY 21 de mayo inicia operaciones con el tipo de cambio interbancario en 19.29 pesos mexicanos por billete verde, con un ligero aumento del 0.16 por ciento, según datos de Bloomberg. \r\nEl pe… [+843 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-05-14T11:08:00Z",
       "Content": "Eldólar HOY 14 de mayo inicia operaciones con el tipo de cambio interbancario en 19.36 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg. \r\nEl peso … [+761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "El peso mexicano gana terreno frente al mal desempeño del dólar",
-      "Description": "La divisa mexicana culminó la jornada actual registrando un tipo de cambio de 19,39 unidades por dólar estadounidense, esto de acuerdo con datos del Banco de México (Banxico). Este es su mejor nivel desde octubre del año pasado.",
-      "Url": "https://noticiaslatam.lat/20250514/el-peso-mexicano-gana-terreno-frente-al-mal-desempeno-del-dolar-1162537852.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1162537852.jpg?11625408641747197183",
-      "PublishedAt": "2025-05-14T04:33:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+24 chars]"
     }
   ]
 }
