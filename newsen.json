@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "US, Japan finance chiefs say current dollar-yen reflects fundamentals",
+      "Description": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Treasury Department said.\"They reaffirmed their shared belief th…",
+      "Url": "https://www.channelnewsasia.com/business/us-japan-finance-chiefs-say-current-dollar-yen-reflects-fundamentals-5145661",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--M0b2X32N--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-21t224231z_1_lynxmpel4k14i_rtroptp_3_imf-worldbank-japan-yen.jpg?itok=8teuUToC",
+      "PublishedAt": "2025-05-21T22:42:31Z",
+      "Content": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Trea… [+984 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "US, Japan finance chiefs agree current dollar-yen reflects fundamentals",
+      "Description": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Treasury Department said, a rare and explicit statement on the m…",
+      "Url": "https://www.channelnewsasia.com/business/us-japan-finance-chiefs-agree-current-dollar-yen-reflects-fundamentals-5145661",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--M0b2X32N--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-21t224231z_1_lynxmpel4k14i_rtroptp_3_imf-worldbank-japan-yen.jpg?itok=8teuUToC",
+      "PublishedAt": "2025-05-21T22:42:31Z",
+      "Content": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Trea… [+2197 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Makiko Yamazaki",
+      "Title": "US, Japan finance chiefs say current dollar-yen reflects fundamentals",
+      "Description": "BANFF, Alberta (Reuters) -U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange...",
+      "Url": "https://finance.yahoo.com/news/us-japan-finance-chiefs-current-224231835.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/66b629fafe91c052e966223c0f2d5d3f",
+      "PublishedAt": "2025-05-21T22:42:31Z",
+      "Content": "By Makiko Yamazaki\r\nBANFF, Alberta (Reuters) -U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflec… [+1132 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,45 +379,6 @@
       "UrlToImage": "https://cdn.legit.ng/images/1200x675/bdc75ca91892f6c9.jpeg?v=1",
       "PublishedAt": "2025-04-29T21:45:01Z",
       "Content": "<ul><li>Nigerian socialite E-Money, whose real name is Emeka Okonkwo Daniel, was arrested by the Economic and Financial Crimes Commission (EFCC) on April 28, 2025</li><li>According to reports, it was… [+3624 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fujirumors.com"
-      },
-      "Author": "Patrick",
-      "Title": "LEAKED: Fujifilm X-Half US Dollar Price (but Pre-Tariffs)",
-      "Description": "So, Fujifilm is now teasing a new camera with the phrase “Half the Size, Twice the Story“. This is old news for FujiRumors readers, since it’s months now that we tell you that Fujifilm will launch a half frame camera with 1″ sensor and that it will be called …",
-      "Url": "https://www.fujirumors.com/leaked-fujifilm-x-half-us-dollar-price-but-pre-tariffs/",
-      "UrlToImage": "https://www.fujirumors.com/wp-content/uploads/2025/04/Fujifilm-X-Half-Price-1.jpg",
-      "PublishedAt": "2025-04-25T16:55:14Z",
-      "Content": "So, Fujifilm is now teasing a new camera with the phrase “Half the Size, Twice the Story“.\r\nThis is old news for FujiRumors readers, since it’s months now that we tell you that Fujifilm will launch a… [+1279 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Bank of America warns to sell the rebound in U.S. stocks and dollar",
-      "Description": "Bank of America said investors should sell into rallies in U.S. stocks and the dollar, cautioning that the conditions for gains are missing. Read more.",
-      "Url": "https://financialpost.com/investing/bank-of-america-sell-rebound-us-stocks-dollar",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/0426-bc-stocks.jpg",
-      "PublishedAt": "2025-04-25T12:02:03Z",
-      "Content": "Bank of America Corp. strategists said investors should sell into rallies in U.S. stocks and the dollar, cautioning that the conditions for sustained gains are missing.\r\nTHIS CONTENT IS RESERVED FOR … [+4008 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Phoebe Liu, Forbes Staff, \n Phoebe Liu, Forbes Staff\n https://www.forbes.com/sites/phoebeliu/",
-      "Title": "Magic Money: The Mysterious Case Of The $15 Billion Metaverse Startup And Its Anonymous Multi-Billion Dollar Investor",
-      "Description": "This tech outfit says it raised more than $3 billion from one unnamed investor in one of the biggest funding rounds of the year. Not all is as it seems.",
-      "Url": "https://www.forbes.com/sites/phoebeliu/2025/04/24/infinite-reality-john-acunto-155-billion-metaverse-startup-biggest-fundraise/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/68095e559f884daf64304d76/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2025-04-24T10:38:18Z",
-      "Content": "Florida-based Infinite Reality claims it raised more than $3 billion from a sole unnamed investor. That would make the obscure company the beneficiary of one of the biggest funding rounds of the year… [+21642 chars]"
     }
   ]
 }
