@@ -19,6 +19,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b532761-80fa-4cdc-83d5-8855a7b23c8d",
+      "UrlToImage": null,
+      "PublishedAt": "2025-05-22T08:06:53Z",
+      "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "CNA"
       },
       "Author": null,
@@ -366,19 +379,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-04T14:18:52Z",
       "Content": "Skip to comments.\r\nThe Hidden Dollar Revolution: Americas New Digital Money SystemSmith Sense ^\r\n | 3 May, 2025\r\n | Matt Smith @ Crisis Investing\r\nPosted on 05/04/2025 7:18:52 AM PDT by MtnClimber\r\nT… [+8373 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PEOPLE"
-      },
-      "Author": "https://www.facebook.com/peoplemag",
-      "Title": "How Much Money Will the 2025 Kentucky Derby Winner Make? What to Know About the Horse Race's Multimillion-Dollar Purse",
-      "Description": "The 2025 Kentucky Derby purse will match the record-breaking payout from 2024. Here's everything to know about the 2025 Kentucky Derby purse.",
-      "Url": "https://people.com/2025-kentucky-derby-payout-prize-money-breakdown-11725827",
-      "UrlToImage": "https://people.com/thmb/C-zyzpmsrYtGx7pwCRidBIoaeHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(960x202:962x204)/kentucky-derby-brian-hernandez-jr-main-050225-86831925bac141eaa5da6070f255dac6.jpg",
-      "PublishedAt": "2025-05-03T14:00:00Z",
-      "Content": "The 2025 Kentucky Derby is here, and there's a lot of money waiting at the finish line.\r\nOn May 3, 19 horses and their jockeys will compete in a 1.25-mile race at Churchill Downs in Louisville, Ky. T… [+3128 chars]"
     }
   ]
 }
