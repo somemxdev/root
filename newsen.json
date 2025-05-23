@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "James Van Straten, AI Boost",
+      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
+      "Description": "Despite soaring 50% from April lows and outperforming tech and bonds, bitcoin has yet to reclaim its all-time highs against traditional safe havens like gold and silver.",
+      "Url": "https://www.coindesk.com/markets/2025/05/22/king-dollar-falls-bitcoin-marches-toward-sound-money-highs",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
+      "PublishedAt": "2025-05-22T08:06:53Z",
+      "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://people.com/thmb/C-zyzpmsrYtGx7pwCRidBIoaeHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(960x202:962x204)/kentucky-derby-brian-hernandez-jr-main-050225-86831925bac141eaa5da6070f255dac6.jpg",
       "PublishedAt": "2025-05-03T14:00:00Z",
       "Content": "The 2025 Kentucky Derby is here, and there's a lot of money waiting at the finish line.\r\nOn May 3, 19 horses and their jockeys will compete in a 1.25-mile race at Churchill Downs in Louisville, Ky. T… [+3128 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Eniola Lasaki",
-      "Title": "E-Money Finally Regains Freedom After EFCC Arrested Him For Spraying Dollar: \"Eveywhere Good\"",
-      "Description": "E-Money has taken to his social media page to share an update with his fans, who have been worried sick about him, following his arrest by the EFCC.",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1652565-kcees-brother-e-money-shares-update-efcc-arrested-spraying-dollar/",
-      "UrlToImage": "https://cdn.legit.ng/images/1200x675/bdc75ca91892f6c9.jpeg?v=1",
-      "PublishedAt": "2025-04-29T21:45:01Z",
-      "Content": "<ul><li>Nigerian socialite E-Money, whose real name is Emeka Okonkwo Daniel, was arrested by the Economic and Financial Crimes Commission (EFCC) on April 28, 2025</li><li>According to reports, it was… [+3624 chars]"
     }
   ]
 }
