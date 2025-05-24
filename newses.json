@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar se acerca a ¢510",
+      "Description": "El tipo de cambio del dólar en Monex suma cinco sesiones seguidas al alza.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-se-acerca-a-510/JHUAU4QBSNGKBMXE6IFNCXCQX4/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/FF447WM2BBHSXEA6O6QW6RUQAI.jpg?smart=true&auth=eb5b330452302ac0860f639b34fea206c5fbc0d0df809eb360de6121bd9ee7b0&width=1440",
+      "PublishedAt": "2025-05-23T22:11:25Z",
+      "Content": "El tipo de cambio del dólarrespecto al colón se acerca a los ¢510 en el Mercado de Monedas Extranjeras (Monex), luego de cerrar su quinta sesión consecutiva al alza este viernes 23 de mayo. El precio… [+2224 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-05-16T11:04:43Z",
       "Content": "El dólar HOY 16 de mayo inicia operaciones con el tipo de cambio interbancario en 19.45 pesos mexicanos por billete verde, con una ligera baja del 0.19 por ciento, según datos de Bloomberg. \r\nEl Banc… [+852 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se pone ‘nervioso’ por decisión de Banxico: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "El peso mexicano se ha estado acercando al terreno de las 18 unidades, esto por la expectativa de que Donald Trump alcance nuevos acuerdos comerciales y elimine sus aranceles recíprocos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/15/peso-dolar-precio-hoy-15-de-mayo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OROOJB2OI5FGDJK7M3N6QGTSPE.jpg?smart=true&auth=dee0b8ac6dfba33b4854920321fc36b5e9f845d9dc68337e1f0779629a3d67bb&width=1200&height=630",
-      "PublishedAt": "2025-05-15T17:06:25Z",
-      "Content": "El peso mexicano pierde ante el dólar antes de que el Banco de México anuncie su decisión de política monetaria. El mercado espera un nuevo recorte a la tasa de interés de 50 puntos base que afectará… [+2081 chars]"
     }
   ]
 }
