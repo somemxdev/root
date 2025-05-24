@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 23 de mayo de 2025",
+      "Description": "Consulta el precio del dólar a peso mexicano hoy, viernes 23 de mayo, según el DOF. Un resumen completo de la cotización de la divisa y la situación económica actual en México.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-23-de-mayo-de-2025-nid23052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-23-de-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-23T14:06:57Z",
+      "Content": "Este viernes 23 de mayo de 2025, el precio del dólar en México es de $19,3227, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2461 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
       "PublishedAt": "2025-05-15T14:29:17Z",
       "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (15 mayo 2025) .-08:07 (Actualización: 12:25 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Sube dólar a $19.47; mercados esperan decisión de Banxico",
-      "Description": "El tipo de cambio cotizaba en $19.47 por dólar, con un retroceso de un 0.48% para la moneda mexicana frente al miércoles.",
-      "Url": "https://www.reforma.com/sube-dolar-a-19-47-mercados-esperan-decision-de-banxico/ar3004693",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/930/5929343.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-05-15T14:29:17Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (15 mayo 2025) .-08:07 (Actualización: 12:25 hrs)"
     }
   ]
 }
