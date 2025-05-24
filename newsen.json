@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Rhodilee Jean Dolor",
+      "Title": "Nothing Big Enough To Topple US Dollar Dominance Just Yet, According to Central Bank of Brazil Director: Report",
+      "Description": "Brazil’s central bank reportedly believes that the US dollar will maintain its position as the world’s leading currency over the next decade. According to Reuters, the central bank’s monetary policy director, Nilton David, says that the financial institution …",
+      "Url": "https://dailyhodl.com/2025/05/22/nothing-big-enough-to-topple-us-dollar-dominance-just-yet-according-to-central-bank-of-brazil-director-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/05/nothing-big-enough-topple.jpg",
+      "PublishedAt": "2025-05-23T00:00:52Z",
+      "Content": "Brazils central bank reportedly believes that the US dollar will maintain its position as the worlds leading currency over the next decade.\r\nAccording to Reuters, the central banks monetary policy di… [+1394 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/f6c83f3c5f70c3060339fbbdb10e884b",
       "PublishedAt": "2025-05-05T08:41:05Z",
       "Content": "By Dhara Ranasinghe\r\nLONDON (Reuters) - Oil prices tumbled over 2% on Monday after oil producing group OPEC+ agreed to accelerate oil production increases, while Taiwan's dollar surged to almost thre… [+3590 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Smith Sense",
-      "Title": "The Hidden Dollar Revolution: America’s New Digital Money System",
-      "Description": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, “What if, knowingly or not, the Trump administration was continuity rather than revolutionary? The Digital Control Grid: Hidden in Plain SightAmer…",
-      "Url": "https://freerepublic.com/focus/f-chat/4314976/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2025-05-04T14:18:52Z",
-      "Content": "Skip to comments.\r\nThe Hidden Dollar Revolution: Americas New Digital Money SystemSmith Sense ^\r\n | 3 May, 2025\r\n | Matt Smith @ Crisis Investing\r\nPosted on 05/04/2025 7:18:52 AM PDT by MtnClimber\r\nT… [+8373 chars]"
     }
   ]
 }
