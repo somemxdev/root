@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twistedsifter.com"
+      },
+      "Author": "Matthew Gilligan",
+      "Title": "A Bank Worker Tried To Charge Them To Close An Account, So They Moved It All And Left One Dollar Behind",
+      "Description": "This is how petty revenge is done, my friends!",
+      "Url": "http://twistedsifter.com/2025/05/a-bank-worker-tried-to-charge-them-to-close-an-account-so-they-moved-it-all-and-left-one-dollar-behind/",
+      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2025/05/ttbankact.jpg",
+      "PublishedAt": "2025-05-24T05:46:18Z",
+      "Content": "Shutterstock/Reddit\r\nBank policies can be so darn STUPID.\r\nAnd if you know, you know…\r\nBut the person who wrote this story on Reddit came up with a good way to show the bank that they were in charge!… [+2238 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/815/81536878.jpg",
       "PublishedAt": "2025-05-05T08:41:21Z",
       "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+800 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Dhara Ranasinghe",
-      "Title": "Oil tumbles, Taiwan's dollar surges at start of central bank-packed week",
-      "Description": "Oil prices tumbled over 2% on Monday after oil producing group OPEC+ agreed to accelerate oil production increases, while Taiwan's dollar surged to almost...",
-      "Url": "https://finance.yahoo.com/news/oil-tumbles-taiwans-dollar-surges-084105422.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/f6c83f3c5f70c3060339fbbdb10e884b",
-      "PublishedAt": "2025-05-05T08:41:05Z",
-      "Content": "By Dhara Ranasinghe\r\nLONDON (Reuters) - Oil prices tumbled over 2% on Monday after oil producing group OPEC+ agreed to accelerate oil production increases, while Taiwan's dollar surged to almost thre… [+3590 chars]"
     }
   ]
 }
