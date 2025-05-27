@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Andrés Stumpf",
+      "Title": "Lagarde pide fortalecer el euro para asaltar el trono del dólar como divisa global",
+      "Description": "Donald Trump y su guerra arancelaria han puesto patas arriba el tablero en el que se juega la partida geopolítica global. Ese mar de tensión en el que en principio no gana nadie,...",
+      "Url": "https://www.expansion.com/mercados/2025/05/26/683499f3e5fdea65288b4593.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/6989550977fca22158700429d0173214/crop/43x127/1865x1341/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/26/17482768913001.jpg",
+      "PublishedAt": "2025-05-26T16:43:18Z",
+      "Content": "\"El cambio en el entorno podría abrir la puerta para que el euro desempeñe un papel internacional más importante\", afirma la presidenta del BCE. Donald Trump y su guerra arancelaria han puesto patas … [+2813 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-05-19T14:11:38Z",
       "Content": "Este lunes 19 de mayo de 2025, el precio del dólar en México es de $19,5147, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano se ve impactado por la evaluación … [+2315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "David Nogales",
-      "Title": "En cuánto estará el dólar la próxima semana, según los operadores consultados por el Banco Central",
-      "Description": "Respecto a la tasa de interés, los expertos esperan dos rebajas este año.",
-      "Url": "https://www.latercera.com/pulso/noticia/en-cuanto-estara-el-dolar-la-proxima-semana-segun-los-operadores-consultados-por-el-banco-central/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/KBQ4FDCYPVB37OSKZMSGYCTCYE.jpg?auth=b115a9cde161f44895cb0d696f612914d12b582249c622c1d7077259ecdbfb68&height=630&width=1200&smart=true",
-      "PublishedAt": "2025-05-19T13:08:15Z",
-      "Content": "El Banco Central publicó esta mañana la Encuesta a los Operadores Financieros (EOF), el sondeo que proyecta una serie de variables económicas y financieras como el dólar, la tasa de interés y la infl… [+1477 chars]"
     }
   ]
 }
