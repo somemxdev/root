@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Esta moneda podría destronar al dólar como principal moneda de reserva global",
+      "Description": "Así lo piensa la presidenta del Banco Central Europeo. Actualmente, el euro es la segunda moneda mundial, representando alrededor del 20 % de las reservas de divisas.",
+      "Url": "https://actualidad.rt.com/actualidad/551360-banco-europeo-euro-podria-destronar-dolar",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.05/article/6834e94259bf5b2c62429e23.jpg",
+      "PublishedAt": "2025-05-26T22:25:55Z",
+      "Content": "El euro podría estar en camino de destronar al dólar estadounidense como principal moneda de reserva global, según declaraciones recientes del Banco Central Europeo (BCE) y su presidenta, Christine L… [+1738 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/19/3309525.jpg",
       "PublishedAt": "2025-05-19T14:32:14Z",
       "Content": "El peso mexicano se aprecia en la jornada de este lunes, con lo que el precio del dólar hoy 19 de mayo de 2025 cotiza en 19.42 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1537 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 19 de mayo",
-      "Description": "¿A cuánto está el dólar hoy en México? Consulta el tipo de cambio actualizado al lunes 19 de mayo según el DOF. Analizamos la cotización del dólar a peso mexicano y te ofrecemos un resumen de la situación económica actual.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-19-de-mayo-nid19052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-19T14:11:38Z",
-      "Content": "Este lunes 19 de mayo de 2025, el precio del dólar en México es de $19,5147, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano se ve impactado por la evaluación … [+2315 chars]"
     }
   ]
 }
