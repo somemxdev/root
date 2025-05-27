@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Álvaro Moreno, Vicente Nieves",
+      "Title": "El euro se enfrenta a su prueba de fuego para derrocar el reinado mundial del dólar",
+      "Description": "Algo está cambiando en el mercado de divisas. Aunque no hay pruebas definitivas, tampoco hay dudas de que el dólar ya no funciona como antes. Sin ir más lejos, el pasado viernes, Donald Trump anunció aranceles del 50% contra la Unión Europea. Para sorpresa de…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13383002/05/25/el-euro-se-enfrenta-a-su-prueba-de-fuego-para-derrocar-el-reinado-mundial-del-dolar.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x675/b/8/1/renacimiento-europa.jpg",
+      "PublishedAt": "2025-05-26T13:02:25Z",
+      "Content": "Algo está cambiando en el mercado de divisas. Aunque no hay pruebas definitivas, tampoco hay dudas de que el dólar ya no funciona como antes. Sin ir más lejos, el pasado viernes, Donald Trump anunció… [+14334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-05-17T12:32:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de mayo el tipo de cambio interbancario, se ubica en 19.47 pesos por unidad, con una pérdida del -0.11 por ciento… [+1334 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Al peso le da la ‘cruda’ tras recorte del Banxico: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "El peso se encamina a otra semana con ganancias ante el dólar, esto a pesar de la depreciación de los últimos dos días.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/16/peso-dolar-precio-hoy-16-de-mayo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2T2UXGG6IRC4VOVJIEOHWGDVAQ.jpg?smart=true&auth=6c770b3b2dcd2dd3431f669ecb88576bd8001799b1a41c7552424162d6dfdcb7&width=1200&height=630",
-      "PublishedAt": "2025-05-16T15:31:21Z",
-      "Content": "El peso mexicano profundiza sus pérdidas ante el dólar este viernes 16 de mayo, después de que el Banco de México (Banxico) dijo que acelerará los recortes a la tasa de interés ante la debilidad de l… [+2028 chars]"
     }
   ]
 }
