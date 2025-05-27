@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 26 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 26 de mayo inicia operaciones con el tipo de cambio interbancario en 19.19pesos mexicanos por billete verde, con una ligera baja del 0.22 por ciento, según datos de Bloomberg.El peso mexicano retrocedía al inicio de la jornada alcanzado por un ren…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-05-26T11:09:00Z",
+      "Content": "El dólar HOY 26 de mayo inicia operaciones con el tipo de cambio interbancario en 19.19 pesos mexicanos por billete verde, con una ligera baja del 0.22 por ciento, según datos de Bloomberg.  \r\nEl pes… [+866 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2T2UXGG6IRC4VOVJIEOHWGDVAQ.jpg?smart=true&auth=6c770b3b2dcd2dd3431f669ecb88576bd8001799b1a41c7552424162d6dfdcb7&width=1200&height=630",
       "PublishedAt": "2025-05-16T15:31:21Z",
       "Content": "El peso mexicano profundiza sus pérdidas ante el dólar este viernes 16 de mayo, después de que el Banco de México (Banxico) dijo que acelerará los recortes a la tasa de interés ante la debilidad de l… [+2028 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 16 de mayo",
-      "Description": "Precio del dólar hoy en México, viernes 16 de mayo: Consulta el tipo de cambio actualizado según el DOF. Mantente informado sobre la cotización del dólar a peso mexicano, análisis económico y el valor actual de la divisa.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-16-de-mayo-nid16052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-16-de-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-16T14:45:09Z",
-      "Content": "Este viernes 16 de mayo de 2025, el precio del dólar en México es de $19,478, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por el reporte de ci… [+2181 chars]"
     }
   ]
 }
