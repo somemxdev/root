@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Morgan Stanley Warns Big Drop for US Dollar Incoming As Bank Updates Market Forecast",
+      "Description": "One of Morgan Stanley’s top executives says that the US dollar is set for further declines, likely providing a boost to risk assets. In a new interview on Bloomberg Television, Morgan Stanley chief investment officer Mike Wilson says that the bank is forecast…",
+      "Url": "https://dailyhodl.com/2025/05/26/morgan-stanley-warns-big-drop-for-us-dollar-incoming-as-bank-updates-market-forecast/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/06/US-Dollar-Dominance-Coming.jpg",
+      "PublishedAt": "2025-05-26T09:15:02Z",
+      "Content": "One of Morgan Stanley’s top executives says that the US dollar is set for further declines, likely providing a boost to risk assets.\r\nIn a new interview on Bloomberg Television, Morgan Stanley chief … [+1310 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/banks-billion-gold.jpg",
       "PublishedAt": "2025-05-07T20:00:22Z",
       "Content": "Uncertainty is driving gold’s price momentum, according to analysts at the capital markets newsletter The Kobeissi Letter.\r\nThe Kobeissi Letter’s official account on the social media platform X notes… [+1758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Conor Devitt",
-      "Title": "Trillion-Dollar Bank Paying $510,000,000 Fine After ‘Conspiring To Hide’ $4,000,000,000 From IRS",
-      "Description": "Banking giant Credit Suisse just pleaded guilty to conspiring to hide more than $4 billion from the U.S. Internal Revenue Service (IRS) in at least 475 offshore accounts. The U.S. Department of Justice (DOJ) says the bank breached a previous 2014 plea agreeme…",
-      "Url": "https://dailyhodl.com/2025/05/07/banking-giant-credit-suisse-pleads-guilty-to-tax-crimes-after-aiding-in-concealing-4000000000-from-irs-doj/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/10/bank-reimburse-cash.jpg",
-      "PublishedAt": "2025-05-07T16:55:50Z",
-      "Content": "Banking giant Credit Suisse just pleaded guilty to conspiring to hide more than $4 billion from the U.S. Internal Revenue Service (IRS) in at least 475 offshore accounts.\r\nThe U.S. Department of Just… [+1698 chars]"
     }
   ]
 }
