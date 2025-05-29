@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": "usa-today",
+        "Name": "USA Today"
+      },
+      "Author": "Betty Lin-Fisher, USA TODAY",
+      "Title": "The Daily Money: Dollar General boycott is next",
+      "Description": "Plus: think you won't live to 100?",
+      "Url": "https://www.usatoday.com/story/money/2025/05/28/dollar-general-boycott-is-next/83896437007/",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/.izwUCoI74fFKWe1agLTLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODM-/https://media.zenfs.com/en/usa_today_money_325/1406219a8534fb95ce0bc7621b7f3849",
+      "PublishedAt": "2025-05-28T14:34:33Z",
+      "Content": "Good morning! This is Betty Lin-Fisher with today's edition of The Daily Money.\r\nDollar General is the next retailer to face a protest over its retreat of diversity, equity and inclusion efforts.Past… [+1157 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/227/22714292.jpg",
       "PublishedAt": "2025-05-08T07:25:46Z",
       "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Analysts Say Gold Likely in Strongest Market of All Time Amid Central Bank Accumulation and US Dollar Weakness",
-      "Description": "Uncertainty is driving gold’s price momentum, according to analysts at the capital markets newsletter The Kobeissi Letter. The Kobeissi Letter’s official account on the social media platform X notes that heading into this year, gold had been underperforming t…",
-      "Url": "https://dailyhodl.com/2025/05/07/analysts-say-gold-likely-in-strongest-market-of-all-time-amid-central-bank-accumulation-and-us-dollar-weakness/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/banks-billion-gold.jpg",
-      "PublishedAt": "2025-05-07T20:00:22Z",
-      "Content": "Uncertainty is driving gold’s price momentum, according to analysts at the capital markets newsletter The Kobeissi Letter.\r\nThe Kobeissi Letter’s official account on the social media platform X notes… [+1758 chars]"
     }
   ]
 }
