@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY miércoles 28 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 28 de mayo inicia operaciones con el tipo de cambio interbancario en 19.29 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer impulsado por un mejor ambiente para…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-28T12:51:00Z",
+      "Content": "El dólar HOY 28 de mayo inicia operaciones con el tipo de cambio interbancario en 19.29 pesos mexicanos por billete verde, con una ligera baja del 0.12 por ciento, según datos de Bloomberg. \r\nEl peso… [+751 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/20/3310035.jpg",
       "PublishedAt": "2025-05-20T13:55:53Z",
       "Content": "El peso mexicano hila su tercera jornada de ganancias, con lo que el precio del dólar hoy 20 de mayo de 2025 cotiza en 19.27 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en … [+1549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 20 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 20 de mayo inicia operaciones con el tipo de cambio interbancario en 19.27 pesos mexicanos por billete verde, con una ligera baja del 0.21 por ciento, según datos de Bloomberg.El peso mexicano avanzaba ante un debilitamiento generalizado del dólar…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-05-20T11:10:00Z",
-      "Content": "El dólar HOY 20 de mayo inicia operaciones con el tipo de cambio interbancario en 19.27 pesos mexicanos por billete verde, con una ligera baja del 0.21 por ciento, según datos de Bloomberg.  \r\nEl pes… [+807 chars]"
     }
   ]
 }
