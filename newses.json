@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila dos sesiones con pérdidas ante avance global dólar",
+      "Description": "Forbes México.\n Peso hila dos sesiones con pérdidas ante avance global dólar\n\nEn México la jornada estuvo marcada por el nuevo recorte de Banxico a su pronóstico de crecimiento para México en 2025, que lo acerca más a cero.\nPeso hila dos sesiones con pérdidas…",
+      "Url": "https://forbes.com.mx/peso-hila-dos-sesiones-con-perdidas-ante-avance-global-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/05/Dinero_002.jpg",
+      "PublishedAt": "2025-05-28T21:46:39Z",
+      "Content": "El peso se depreció ante un avance global del dólar y después de que el banco central recortó sus pronósticos para el crecimiento económico de México, citando la incertidumbre relacionada con las pol… [+2163 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-05-21T11:06:00Z",
       "Content": "El dólar HOY 21 de mayo inicia operaciones con el tipo de cambio interbancario en 19.29 pesos mexicanos por billete verde, con un ligero aumento del 0.16 por ciento, según datos de Bloomberg. \r\nEl pe… [+843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene mejor nivel en siete meses ante un dólar débil",
-      "Description": "Forbes México.\n Peso tiene mejor nivel en siete meses ante un dólar débil\n\nEl dólar retrocede debido al poco apetito de inversionistas y la reciente agitación en torno al recorte de la calificación de EU por parte de Moody’s, según Monex.\nPeso tiene mejor niv…",
-      "Url": "https://forbes.com.mx/peso-tiene-mejor-nivel-en-siete-meses-ante-un-dolar-debil/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2025-05-20T23:53:46Z",
-      "Content": "El peso tuvo su mejor nivel frente al dólar desde principios de octubre, mientras la moneda estadounidense registra un debilitamiento generalizado tras el recorte de calificación a Estados Unidos. \r\n… [+2790 chars]"
     }
   ]
 }
