@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El centavo de dólar que puede valer más de US$200.000 y sigue en circulación: cómo reconocer esta moneda",
+      "Description": "Un centavo de 1943 podría valer más de US$200 mil. Aún circula y pocos saben cómo identificarlo. ¿Podrías tener uno sin saberlo?",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-centavo-de-dolar-que-puede-valer-mas-de-us200000-y-sigue-en-circulacion-como-reconocer-esta-nid29052025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-lincoln-puede-alcanzar-valores-elevados-TKYCDNSIXNCCBDVYWKAKS33DXQ.jpg?auth=f3dee63f95c052d7fcfff3b85493e95e945e31ed532a2fbb1e6a4e1d0afbb6c9&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-05-29T19:57:02Z",
+      "Content": "En la numismática estadounidense, pocas monedas generan tanto entusiasmo como el centavo de Lincoln de 1943 fabricado en bronce. Esta peculiar pieza, que debería valer apenas un centavo, ha logrado a… [+2897 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-05-22T10:56:00Z",
       "Content": "El dólar HOY 22 de mayo inicia operaciones con el tipo de cambio interbancario en 19.38 pesos mexicanos por billete verde, con una ligera alza del 0.09 por ciento, según datos de Bloomberg. \r\nEl peso… [+904 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso pierde después de alcanzar su mejor nivel de 2025: ¿Cuándo se deprecia ante el dólar HOY?",
-      "Description": "En los bancos, el dólar se sigue vendiendo por debajo del piso de las 20 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/21/peso-dolar-precio-hoy-21-de-mayo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/F42LM7FDVJAYJCRRMPL6H7VKQM.jpg?smart=true&auth=fa747c5e2ac6662d9d73abaf5d2df8ad5adec5256056248397b070cf592de66c&width=1200&height=630",
-      "PublishedAt": "2025-05-21T16:51:35Z",
-      "Content": "El peso mexicano pierde ante el dólar en la sesión de este miércoles 21 de mayo como parte de una corrección después de haber alcanzado su nivel más bajo en lo que va de 2025. \r\nLa depreciación del p… [+1881 chars]"
     }
   ]
 }
