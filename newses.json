@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana terreno tras retroceso global del dólar",
+      "Description": "Forbes México.\n Peso gana terreno tras retroceso global del dólar\n\nLa moneda corta una racha de tres jornadas de pérdidas al apreciarse 0.38%, de acuerdo con datos de Reuters.\nPeso gana terreno tras retroceso global del dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/peso-gana-terreno-tras-retroceso-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0470.jpg",
+      "PublishedAt": "2025-05-29T22:02:00Z",
+      "Content": "El peso avanzó el jueves ante un declive generalizado del dólar, mientras que la BMV retrocedió desde sus máximos históricos, tras una sesión dominada por vaivenes de la justicia estadounidense en to… [+1796 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-22-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-05-22T15:06:26Z",
       "Content": "Este jueves 22 de mayo de 2025, el precio del dólar en México es de $19,3198, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por el avance de la … [+1992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY jueves 22 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 22 de mayo inicia operaciones con el tipo de cambio interbancario en 19.38 pesos mexicanos por billete verde, con una ligera alza del 0.09 por ciento, según datos de Bloomberg.El peso mexicano inició ayer con tres sesiones de ganancia para después…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-05-22T10:56:00Z",
-      "Content": "El dólar HOY 22 de mayo inicia operaciones con el tipo de cambio interbancario en 19.38 pesos mexicanos por billete verde, con una ligera alza del 0.09 por ciento, según datos de Bloomberg. \r\nEl peso… [+904 chars]"
     }
   ]
 }
