@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Serrat García",
+      "Title": "Precio del dólar HOY viernes 30 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 30 de mayo inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.20 por ciento, según datos de Bloomberg.El peso mexicano avanzó el jueves ante un debilitamiento generalizado …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/30/ubs-preve-dolar-en-pesos.jpeg",
+      "PublishedAt": "2025-05-30T11:00:00Z",
+      "Content": "El peso cerró la sesión con una apreciación de 0.29 por ciento, es decir 5.7 centavos, cotizando alrededor de 19.33 pesos por dólar, con el tipo de cambio tocando un máximo de 19.42 mínimo de 19.2925… [+545 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/22/3311501.jpg",
       "PublishedAt": "2025-05-22T15:39:26Z",
       "Content": "El peso mexicano tuvo una ligera apreciación en la jornada de este jueves, con lo que el precio del dólar hoy 22 de mayo de 2025 cotiza en 19.34 unidades por cada billete verde; conoce aquí cuál es e… [+1452 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 22 de mayo",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-22-de-mayo-nid22052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-22-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-22T15:06:26Z",
-      "Content": "Este jueves 22 de mayo de 2025, el precio del dólar en México es de $19,3198, de acuerdo con el Diario Oficial de la Federación (DOF). El desempeño del peso mexicano es impactado por el avance de la … [+1992 chars]"
     }
   ]
 }
