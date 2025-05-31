@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "pymnts.com"
+      },
+      "Author": "PYMNTS",
+      "Title": "From Stablecoins to AI Banking: Circle Co-Founder’s Next Billion-Dollar Bet on Agentic Finance",
+      "Description": "Every audacious venture travels a long road from an idea to a tangible institution. In finance, that path is paved as much with the currency of trust as it is with capital and code. That is the road Sean Neville, co-founder of Circle and a principal architect…",
+      "Url": "http://www.pymnts.com/news/artificial-intelligence/2025/from-stablecoins-to-ai-banking-circle-co-founders-next-billion-dollar-bet-on-agentic-finance/",
+      "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/cantena-labs-main-feature.jpg",
+      "PublishedAt": "2025-05-30T08:00:26Z",
+      "Content": "Highlights \r\nCircle co-founder Sean Neville secured $18 million in funding to build a fully regulated financial institution designed for autonomous software agents. \r\nNew identity credentials and sta… [+6293 chars]"
+    },
     {
       "Source": {
         "Id": "usa-today",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/files/2025.05/article/681ca8da85f5404bbb212387.jpg",
       "PublishedAt": "2025-05-08T15:21:58Z",
       "Content": "Kiev is considering a switch from the US dollar to the euro as its reference currency, the head of the National Bank of Ukraine (NBU) said on Thursday. These comments come despite the recent signing … [+2935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Cedi sells at GH¢13.30 to a dollar on the interbank market",
-      "Description": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-sells-at-GH-13-30-to-a-dollar-on-the-interbank-market-1983042",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/227/22714292.jpg",
-      "PublishedAt": "2025-05-08T07:25:46Z",
-      "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+696 chars]"
     }
   ]
 }
