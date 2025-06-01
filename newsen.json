@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Survivalblog.com"
+      },
+      "Author": "SurvivalBlog Contributor",
+      "Title": "Gold and System Collapse: Charting the Bank Run of the Mighty US Dollar, by Hub Moolman",
+      "Description": "The US dollar banking system is in the midst of a bank run by the measures that I will illustrate here. Since the 1879 gold standard was established in America, the US dollar could be directly redeemed for gold within the banking system. This continued even a…",
+      "Url": "https://survivalblog.com/2025/06/01/gold-system-collapse-charting-bank-run-mighty-us-dollar-hub-moolman/",
+      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2024/02/Two_20kr_gold_coins.jpg",
+      "PublishedAt": "2025-05-30T20:26:43Z",
+      "Content": "The US dollar banking system is in the midst of a bank run by the measures that I will illustrate here.\r\nSince the 1879 gold standard was established in America, the US dollar could be directly redee… [+5363 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-08T15:44:27Z",
       "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Ukraine considers ditching dollar as reference currency – central bank chief",
-      "Description": "Comments on potential changeover come as Kiev places hopes on faster EU accession Read Full Article at RT.com",
-      "Url": "https://www.rt.com/russia/617026-ukraine-dollar-euro-reference-grivna/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2025.05/article/681ca8da85f5404bbb212387.jpg",
-      "PublishedAt": "2025-05-08T15:21:58Z",
-      "Content": "Kiev is considering a switch from the US dollar to the euro as its reference currency, the head of the National Bank of Ukraine (NBU) said on Thursday. These comments come despite the recent signing … [+2935 chars]"
     }
   ]
 }
