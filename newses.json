@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 31 de mayo de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de mayo el tipo de cambio interbancario, se ubica en 19.43 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer el peso mexicano y la bolsa r…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-05-31T12:40:29Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de mayo el tipo de cambio interbancario, se ubica en 19.43 pesos por unidad, con una pérdida del 0.23 por ciento,… [+984 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/23/3312201.jpg",
       "PublishedAt": "2025-05-23T15:41:15Z",
       "Content": "El peso mexicano retrocede en la jornada de este viernes, con lo que el precio del dólar hoy 23 de mayo de 2025 cotiza en 19.36 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1788 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 23 de mayo de 2025",
-      "Description": "Consulta el precio del dólar a peso mexicano hoy, viernes 23 de mayo, según el DOF. Un resumen completo de la cotización de la divisa y la situación económica actual en México.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-23-de-mayo-de-2025-nid23052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-23-de-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-23T14:06:57Z",
-      "Content": "Este viernes 23 de mayo de 2025, el precio del dólar en México es de $19,3227, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2461 chars]"
     }
   ]
 }
