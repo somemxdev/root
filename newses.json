@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso tiene su mejor avance frente al dólar desde el cinco de mayo",
+      "Description": "Forbes México.\n Peso tiene su mejor avance frente al dólar desde el cinco de mayo\n\nLa moneda se aprecia 1.01% en medio de un menor nerviosismo en los mercados locales, y por el retroceso del dólar, después de considerar las crecientes tensiones comerciales co…",
+      "Url": "https://forbes.com.mx/peso-tiene-su-mejor-avance-frente-al-dolar-desde-el-cinco-de-mayo/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
+      "PublishedAt": "2025-06-02T21:48:01Z",
+      "Content": "El peso tuvo este lunes su mejor avance frente al dólar desde el cinco de mayo en medio de renovadas preocupaciones por las políticas comerciales de Estados Unidos, después de que el presidente Donal… [+2467 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.uecdn.es/6989550977fca22158700429d0173214/crop/43x127/1865x1341/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/26/17482768913001.jpg",
       "PublishedAt": "2025-05-26T16:43:18Z",
       "Content": "\"El cambio en el entorno podría abrir la puerta para que el euro desempeñe un papel internacional más importante\", afirma la presidenta del BCE. Donald Trump y su guerra arancelaria han puesto patas … [+2813 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "Lagarde ve un \"momento global\" para el euro como alternativa al dólar, que Europa \"debe ganarse\"",
-      "Description": "Los cambios en curso en el sistema monetario internacional crean la oportunidad para un \"momento euro global\" que impulse la posición internacional de la moneda común como alternativa al dólar, que tendría implicaciones positivas para la región, pero que Euro…",
-      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-lagarde-ve-momento-global-euro-alternativa-dolar-europa-debe-ganarse-20250526164514.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250526164514_1200.jpg",
-      "PublishedAt": "2025-05-26T14:45:14Z",
-      "Content": "MADRID 26 May. (EUROPA PRESS) - \r\n Los cambios en curso en el sistema monetario internacional crean la oportunidad para un \"momento euro global\" que impulse la posición internacional de la moneda com… [+2955 chars]"
     }
   ]
 }
