@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Omkar Godbole",
+      "Title": "U.S Dollar to Slide Further This Summer, Bank of America Warns",
+      "Description": "Weakness in the U.S. dollar is widely seen as positive for dollar-denominated assets, such as bitcoin and gold.",
+      "Url": "https://www.coindesk.com/markets/2025/06/02/u-s-dollar-to-slide-further-this-summer-bank-of-america-warns",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b2c9327039e3e20258657f86ff0266444015e7a5-2848x1352.png",
+      "PublishedAt": "2025-06-02T09:35:20Z",
+      "Content": "Bank of America has warned that the U.S. dollar could be in for a rough summer, having already dropped sharply this year.\r\nThe dollar index, which tracks the value of the U.S. dollar against major cu… [+1930 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/wells-fargo-bank.jpg",
       "PublishedAt": "2025-05-10T14:30:50Z",
       "Content": "A man living in Phoenix, Arizona is heading to prison after allegedly using fraudulent accounts at JPMorgan Chase, Wells Fargo, Bank of America and BBVA to launder millions of dollars.\r\nInvestigators… [+1214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "2 Major European Bank Stocks Have Thumped the S&P 500 Index This Year. They Still Trade at Less Than 65 Cents on the Dollar",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f16e193a-b348-41db-9ef5-ee3afc14021f",
-      "UrlToImage": null,
-      "PublishedAt": "2025-05-10T08:30:00Z",
-      "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     }
   ]
 }
