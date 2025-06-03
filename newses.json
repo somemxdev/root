@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza! Precio del dólar hoy 2 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de este lunes, con lo que el precio del dólar hoy 2 de junio de 2025 cotiza en 19.19 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana regis…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-2-junio-2025-tipo-cambio-bancos-mexico/1719235",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/02/3317342.jpg",
+      "PublishedAt": "2025-06-02T16:40:38Z",
+      "Content": "El peso mexicano avanza en la jornada de este lunes, con lo que el precio del dólar hoy 2 de junio de 2025 cotiza en 19.19 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en ba… [+1623 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Mario Luna",
+      "Title": "Peso avanza tras las elecciones judiciales 2025: Así cotiza ante el dólar débil",
+      "Description": "El peso mexicano tiene un leve avance este lunes, tras el domingo donde se llevó a cabo la elección judicial 2025.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/02/peso-dolar-tipo-de-cambio-hoy-2-de-junio-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2J5RWQTJGFC6NF3SSHV6KUYMHA.jpg?smart=true&auth=be6dd6e50c93a00505d0ccfe57d2ce25144736e1a2e6e94b113996e2e66acaf7&width=1200&height=630",
+      "PublishedAt": "2025-06-02T16:22:21Z",
+      "Content": "El peso mexicano inicia este lunes con una apreciación, esto luego de las elecciones judiciales 2025, y ante la debilidad internacional del dólar.\r\nLa moneda mexicana presenta una apreciación en el i… [+1462 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/26/3313366.jpg",
       "PublishedAt": "2025-05-26T14:07:08Z",
       "Content": "El peso mexicano arrancó la jornada de este lunes con un avance no visto en casi ocho meses, con lo que el precio del dólar hoy 26 de mayo de 2025 cotiza en 19.20 unidades por cada billete verde; con… [+1530 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 26 de mayo",
-      "Description": "Consulta el precio del dólar a peso mexicano hoy, lunes 26 de mayo, según el DOF. Un resumen completo de la cotización de la divisa y la situación económica actual en México.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-26-de-mayo-nid26052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-26-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-26T13:53:11Z",
-      "Content": "Este lunes 26 de mayo de 2025, el precio del dólar en México es de $19,2748, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se … [+2395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Álvaro Moreno, Vicente Nieves",
-      "Title": "El euro se enfrenta a su prueba de fuego para derrocar el reinado mundial del dólar",
-      "Description": "Algo está cambiando en el mercado de divisas. Aunque no hay pruebas definitivas, tampoco hay dudas de que el dólar ya no funciona como antes. Sin ir más lejos, el pasado viernes, Donald Trump anunció aranceles del 50% contra la Unión Europea. Para sorpresa de…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13383002/05/25/el-euro-se-enfrenta-a-su-prueba-de-fuego-para-derrocar-el-reinado-mundial-del-dolar.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x675/b/8/1/renacimiento-europa.jpg",
-      "PublishedAt": "2025-05-26T13:02:25Z",
-      "Content": "Algo está cambiando en el mercado de divisas. Aunque no hay pruebas definitivas, tampoco hay dudas de que el dólar ya no funciona como antes. Sin ir más lejos, el pasado viernes, Donald Trump anunció… [+14334 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Canadian dollar pushes through 73 cents U.S. on more tariff turmoil and possible Bank of Canada hold",
+      "Description": "The Canadian dollar pushed past 73 cents U.S. on Monday on the rising chances of the Bank of Canada holding interest rates. Find out more",
+      "Url": "https://financialpost.com/news/economy/canadian-dollar-73-cents-u-s-tariffs-turmoil",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/06/0603-mg-loonie.jpg",
+      "PublishedAt": "2025-06-02T16:19:53Z",
+      "Content": "The Canadian dollar pushed past 73 cents U.S. on Monday on the rising chances of the Bank of Canadaholding interest rates this week as rising tariff risks weaken the greenback.\r\nTHIS CONTENT IS RESER… [+4952 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -366,19 +379,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-13T15:37:48Z",
       "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Windows Central"
-      },
-      "Author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
-      "Title": "OpenAI wants Microsoft to provide \"money and compute and stay out of the way\" as it renegotiates multi-billion-dollar partnership",
-      "Description": "Microsoft is reportedly in the process of reworking its partnership, willing to give up some equity to continue accessing sophisticated AI models beyond 2030.",
-      "Url": "https://www.windowscentral.com/microsoft/openai-microsoft-renegotiates-multi-billion-dollar-partnership",
-      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/aVakfnRhfYPSCmLWbC5PyF.jpg",
-      "PublishedAt": "2025-05-13T10:00:00Z",
-      "Content": "Last week, OpenAI pulled the plug on restructuring its firm and announced its plan to transition its for-profit arm into a Public Benefit Corporation (PBC). The transition comes amid pressure from in… [+4007 chars]"
     }
   ]
 }
