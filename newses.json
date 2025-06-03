@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 113,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 2 de junio de 2025: ¿Cuál es el tipo de cambio en México tras la elección judicial?",
+      "Description": "El dólar HOY 2 de junio inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.78 por ciento, según datos de Bloomberg.Así reaccionó el peso un día después del proceso el electoral extraord…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-2-junio-2025-cuanto-cotiza-en-vivo-eleccion-judicial",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/23/reacciona-pesos-mexicano-frente-dolar.jpg",
+      "PublishedAt": "2025-06-02T11:08:00Z",
+      "Content": "El dólar HOY 2 de junio inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.78 por ciento, según datos de Bloomberg. \r\nAsí rea… [+592 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-05-24T10:57:20Z",
       "Content": "Periódico La JornadaSábado 24 de mayo de 2025, p. 16\r\nEl peso avanzó apuntalado por una caída generalizada del dólar, por lo que no sólo revirtió el inicio débil de la sesión, sino se ubicó en su mej… [+2540 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar se acerca a ¢510",
-      "Description": "El tipo de cambio del dólar en Monex suma cinco sesiones seguidas al alza.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-se-acerca-a-510/JHUAU4QBSNGKBMXE6IFNCXCQX4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/FF447WM2BBHSXEA6O6QW6RUQAI.jpg?smart=true&auth=eb5b330452302ac0860f639b34fea206c5fbc0d0df809eb360de6121bd9ee7b0&width=1440",
-      "PublishedAt": "2025-05-23T22:11:25Z",
-      "Content": "El tipo de cambio del dólarrespecto al colón se acerca a los ¢510 en el Mercado de Monedas Extranjeras (Monex), luego de cerrar su quinta sesión consecutiva al alza este viernes 23 de mayo. El precio… [+2224 chars]"
     }
   ]
 }
