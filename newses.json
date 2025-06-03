@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿Cómo va el tipo de cambio en la elección judicial? Así cotiza el peso frente al dólar",
+      "Description": "La elección judicial 2025 ha concluido este domingo; mientras tanto, el peso mexicano tiene leves movimientos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/01/como-va-el-tipo-de-cambio-en-la-eleccion-judicial-asi-cotiza-el-peso-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QTX5KUWF3JBX5PYUMUNYXJQT6A.jpeg?smart=true&auth=480397322f3b8908f73b43e9abe54cb36ca22766ba3f2a6367b7da081ed44c87&width=1200&height=630",
+      "PublishedAt": "2025-06-02T01:26:56Z",
+      "Content": "Las elecciones judiciales 2025 se llevaron a cabo este domingo 1 de junio, donde la ciudadanía salió a votar por más de 881 cargos entre jueces, magistrados, ministras y ministros de la Suprema Corte… [+2301 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/FF447WM2BBHSXEA6O6QW6RUQAI.jpg?smart=true&auth=eb5b330452302ac0860f639b34fea206c5fbc0d0df809eb360de6121bd9ee7b0&width=1440",
       "PublishedAt": "2025-05-23T22:11:25Z",
       "Content": "El tipo de cambio del dólarrespecto al colón se acerca a los ¢510 en el Mercado de Monedas Extranjeras (Monex), luego de cerrar su quinta sesión consecutiva al alza este viernes 23 de mayo. El precio… [+2224 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae levemente! Precio del dólar hoy 23 de mayo de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este viernes, con lo que el precio del dólar hoy 23 de mayo de 2025 cotiza en 19.36 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-23-mayo-2025-tipo-cambio-bancos-mexico/1717553",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/23/3312201.jpg",
-      "PublishedAt": "2025-05-23T15:41:15Z",
-      "Content": "El peso mexicano retrocede en la jornada de este viernes, con lo que el precio del dólar hoy 23 de mayo de 2025 cotiza en 19.36 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio … [+1788 chars]"
     }
   ]
 }
