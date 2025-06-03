@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Lale Akoner",
+      "Title": "Es el momento del euro: ¿Podrá desafiar al dólar en 2025?",
+      "Description": "El histórico reinado del dólar sobre las finanzas globales se tambalea. Una convergencia de cambios económicos y decisiones políticas ha debilitado al otrora poderoso billete y...",
+      "Url": "https://www.expansion.com/opinion/2025/06/02/683d9457468aeb831a8b45bb.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/f9ed2d52b3859568f4013b12de176e1f/crop/196x0/1924x1152/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/02/17488658063088.jpg",
+      "PublishedAt": "2025-06-02T12:13:09Z",
+      "Content": "El abandono de la doctrina del dólar fuerte ha introducido una nueva brecha de volatilidad en el sistema difícil de suturar e imposible de ignorar en el exterior.El histórico reinado del dólar sobre … [+8128 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-05-24T12:30:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 24 de mayo el tipo de cambio interbancario, se ubica en 19.24 pesos por unidad, con una pérdida del 0.23 por … [+2148 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso aprovecha debilidad del dólar y se ubica en su mejor nivel en 8 meses",
-      "Description": "El peso avanzó apuntalado por una caída generalizada del dólar, por lo que no sólo revirtió el inicio débil de la sesión, sino se ubicó en su mejor nivel desde septiembre del año pasado frente a la divisa estadunidense.",
-      "Url": "https://www.jornada.com.mx/2025/05/24/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-05-24T10:57:20Z",
-      "Content": "Periódico La JornadaSábado 24 de mayo de 2025, p. 16\r\nEl peso avanzó apuntalado por una caída generalizada del dólar, por lo que no sólo revirtió el inicio débil de la sesión, sino se ubicó en su mej… [+2540 chars]"
     }
   ]
 }

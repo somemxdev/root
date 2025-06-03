@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Kelly Burch",
+      "Title": "I own a multimillion-dollar business and believe teaching my kids about money is as important as literacy. Here's how I'm doing it.",
+      "Description": "Jhalesa Seymour founded Salt.XO while in college and now it's a multimillion dollar company. She talks to her 5-year-old about money and saving.",
+      "Url": "https://www.businessinsider.com/multimillionaire-believes-that-teaching-kids-about-money-is-important-2025-6",
+      "UrlToImage": "https://i.insider.com/68078bcaa466d2b74ab3c465?width=1200&format=jpeg",
+      "PublishedAt": "2025-06-02T12:32:01Z",
+      "Content": "Jhalesa Seymour is teaching her son financial literacy.Courtesy of Jhalesa Seymour\r\n<ul><li>Jhalesa Seymour founded a feminine hygiene company in college.</li><li>She hit $1 million in sales her seco… [+4091 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://cdn.mos.cms.futurecdn.net/aVakfnRhfYPSCmLWbC5PyF.jpg",
       "PublishedAt": "2025-05-13T10:00:00Z",
       "Content": "Last week, OpenAI pulled the plug on restructuring its firm and announced its plan to transition its for-profit arm into a Public Benefit Corporation (PBC). The transition comes amid pressure from in… [+4007 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "$2,950,000 Enters Fraudulent Accounts at JPMorgan Chase, Wells Fargo, Bank of America and BBVA in Million-Dollar Romance and Money Laundering Scheme: Report",
-      "Description": "A man living in Phoenix, Arizona is heading to prison after allegedly using fraudulent accounts at JPMorgan Chase, Wells Fargo, Bank of America and BBVA to launder millions of dollars. Investigators say US resident and Nigerian citizen Kingsley Ibhadore stole…",
-      "Url": "https://dailyhodl.com/2025/05/09/man-deposits-2950000-into-fraudulent-accounts-at-jpmorgan-chase-wells-fargo-bank-of-america-and-bbva-in-lucrative-money-laundering-scheme-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/wells-fargo-bank.jpg",
-      "PublishedAt": "2025-05-10T14:30:50Z",
-      "Content": "A man living in Phoenix, Arizona is heading to prison after allegedly using fraudulent accounts at JPMorgan Chase, Wells Fargo, Bank of America and BBVA to launder millions of dollars.\r\nInvestigators… [+1214 chars]"
     }
   ]
 }
