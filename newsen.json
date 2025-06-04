@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Aaron Judge's million-dollar contract is cheap for the Yankees: this is the high amount of money he generates",
+      "Description": "Aaron Judge has become more than a profitable investment for the Yankees, who see &quot;The Judge&quot; as a valuable asset.\n\nJudge has delivered excellent results in center field,",
+      "Url": "https://www.marca.com/en/mlb/new-york-yankees/2025/06/03/683f3504ca4741ff238b456d.html",
+      "UrlToImage": "https://phantom-marca.uecdn.es/e3d8eb3de8854d2273d92b8b6e5a5e4a/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/03/17489732217385.jpg",
+      "PublishedAt": "2025-06-03T18:00:19Z",
+      "Content": "Aaron Judge has become more than a profitable investment for the Yankees, who see \"The Judge\" as a valuable asset.\r\nJudge has delivered excellent results in center field, and this has become a hefty … [+1963 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/837/83711157.jpg",
       "PublishedAt": "2025-05-15T10:04:54Z",
       "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+697 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Wells says JPMorgan could become first $1 trillion dollar bank",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_caccc3b5-4592-45f9-8037-1ab6cfc532ba",
-      "UrlToImage": null,
-      "PublishedAt": "2025-05-13T15:37:48Z",
-      "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     }
   ]
 }
