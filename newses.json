@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 3 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 3 de junio inicia operaciones con el tipo de cambio interbancario en 19.22pesos mexicanos por billete verde, con una ligera alza del 0.06 por ciento, según datos de Bloomberg.El peso mexicanoavanzaba ayer ante un declive generalizado del dólar, de…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
+      "PublishedAt": "2025-06-03T11:08:00Z",
+      "Content": "El dólar HOY 3 de junio inicia operaciones con el tipo de cambio interbancario en 19.22 pesos mexicanos por billete verde, con una ligera alza del 0.06 por ciento, según datos de Bloomberg. \r\nEl peso… [+801 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-05-27T11:06:07Z",
       "Content": "El dólar HOY 27 de mayo inicia operaciones con el tipo de cambio interbancario en 19.24 pesos mexicanos por billete verde, con un ligero aumento del 0.01 por ciento, según datos de Bloomberg. \r\nEl pe… [+816 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Esta moneda podría destronar al dólar como principal moneda de reserva global",
-      "Description": "Así lo piensa la presidenta del Banco Central Europeo. Actualmente, el euro es la segunda moneda mundial, representando alrededor del 20 % de las reservas de divisas.",
-      "Url": "https://actualidad.rt.com/actualidad/551360-banco-europeo-euro-podria-destronar-dolar",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.05/article/6834e94259bf5b2c62429e23.jpg",
-      "PublishedAt": "2025-05-26T22:25:55Z",
-      "Content": "El euro podría estar en camino de destronar al dólar estadounidense como principal moneda de reserva global, según declaraciones recientes del Banco Central Europeo (BCE) y su presidenta, Christine L… [+1738 chars]"
     }
   ]
 }
