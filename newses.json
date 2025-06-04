@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "elEconomista.es",
+      "Title": "La moneda más fuerte del mundo da una lección al dólar y a EEUU: las divisas no destruyen fábricas ni riqueza",
+      "Description": "En el clima económico actual de feroz competencia, proteccionismo y lucha por el mercado, parece que buena parte de las economías del mundo y sus dirigentes muestran cierta preferencia por tener una divisa débil. Una moneda que cada vez 'vale' menos permite (…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13395817/06/25/la-moneda-mas-fuerte-del-mundo-da-una-leccion-al-dolar-y-a-eeuu-las-divisas-no-destruyen-fabricas-ni-riqueza.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x675/d/0/8/suiza-economia-divisa.jpg",
+      "PublishedAt": "2025-06-03T09:40:26Z",
+      "Content": "En el clima económico actual de feroz competencia, proteccionismo y lucha por el mercado, parece que buena parte de las economías del mundo y sus dirigentes muestran cierta preferencia por tener una … [+6990 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2025.05/article/6834e94259bf5b2c62429e23.jpg",
       "PublishedAt": "2025-05-26T22:25:55Z",
       "Content": "El euro podría estar en camino de destronar al dólar estadounidense como principal moneda de reserva global, según declaraciones recientes del Banco Central Europeo (BCE) y su presidenta, Christine L… [+1738 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Andrés Stumpf",
-      "Title": "Lagarde pide fortalecer el euro para asaltar el trono del dólar como divisa global",
-      "Description": "Donald Trump y su guerra arancelaria han puesto patas arriba el tablero en el que se juega la partida geopolítica global. Ese mar de tensión en el que en principio no gana nadie,...",
-      "Url": "https://www.expansion.com/mercados/2025/05/26/683499f3e5fdea65288b4593.html",
-      "UrlToImage": "https://phantom-expansion.uecdn.es/6989550977fca22158700429d0173214/crop/43x127/1865x1341/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/26/17482768913001.jpg",
-      "PublishedAt": "2025-05-26T16:43:18Z",
-      "Content": "\"El cambio en el entorno podría abrir la puerta para que el euro desempeñe un papel internacional más importante\", afirma la presidenta del BCE. Donald Trump y su guerra arancelaria han puesto patas … [+2813 chars]"
     }
   ]
 }
