@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Por qué a Trump podría interesarle un dólar débil y cómo la moneda estadounidense está cayendo a sus niveles más bajos en 3 años",
+      "Description": "Podría parecer un contrasentido que la Casa Blanca prefiera un dólar debilitado, pero algunos analistas aseguran que eso es lo que quiere Trump. Te contamos por qué.",
+      "Url": "https://www.bbc.com/mundo/articles/cn4q32vnwq5o",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/54fe/live/49a84410-40c3-11f0-9f3b-adba2ba4bb4c.jpg",
+      "PublishedAt": "2025-06-03T22:07:11Z",
+      "Content": "Fuente de la imagen, Getty Images\r\nInformación del artículo<ul><li>Autor, Cecilia Barría</li><li>Título del autor, BBC News Mundo</li><li></li></ul>\r\nEl valor del dólar sigue descendiendo.\r\nEn medio … [+7812 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/27/3313888.jpg",
       "PublishedAt": "2025-05-27T14:27:37Z",
       "Content": "El peso mexicano se mantiene en sus mejores niveles en casi ocho meses, con lo que el precio del dólar hoy 27 de mayo de 2025 cotiza en 19.21 unidades por cada billete verde; conoce aquí cuál es el t… [+1557 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 27 de mayo",
-      "Description": "Conoce el precio del dólar en México hoy, martes 27 de mayo de 2025. Consulta la cotización oficial del DOF y un resumen económico completo de la divisa frente al peso mexicano.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-27-de-mayo-nid27052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-27T14:26:37Z",
-      "Content": "Este martes 27 de mayo de 2025 el precio del dólar en México es de $19,2188, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es … [+2393 chars]"
     }
   ]
 }
