@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Mario Luna",
+      "Title": "Peso se aprecia por preocupaciones sobre ‘el fin del dólar’: ¿Cómo está el tipo de cambio HOY?",
+      "Description": "Estados Unidos ha admitido que las negociaciones arancelarias con China no van tan rápido como pueden, lo que aumenta las preocupaciones sobre el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/04/peso-dolar-precio-hoy-4-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5EMWMXTM3VFVNK7MP6PF4A3PFY.jpg?smart=true&auth=1f2d533f9156ebb7b516693a28fe989537308c46f6f19510d40bdfbeef4dabba&width=1200&height=630",
+      "PublishedAt": "2025-06-04T15:39:45Z",
+      "Content": "El peso mexicano se aprecia ante el dólar en la jornada de mitad de semana, entre un debilitamiento internacional del dólar y las preocupaciones sobre la economía de Estados Unidos. \r\nLa apreciación … [+1507 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/05/Dinero_002.jpg",
       "PublishedAt": "2025-05-28T21:46:39Z",
       "Content": "El peso se depreció ante un avance global del dólar y después de que el banco central recortó sus pronósticos para el crecimiento económico de México, citando la incertidumbre relacionada con las pol… [+2163 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Minutas de la Fed ‘ponen nervioso’ al peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Los mercados se comportan con 'cautela' este miércoles 28 de mayo ante dos hechos importantes: Las minutas de la Fed y el reporte de utilidades de Nvidia.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/05/28/peso-dolar-precio-hoy-28-de-mayo-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WMHKEQYRGVE25LBD7JTA4ZW43A.jpg?smart=true&auth=acb1d5c90a5ac0ecea235a294d7fd68546db738c9190bfc4ce3bdbe31fa8e286&width=1200&height=630",
-      "PublishedAt": "2025-05-28T16:45:51Z",
-      "Content": "El peso mexicano pierde ante el dólar este miércoles 28 de mayo, mientras los operadores están a la espera de conocer las minutas de la última reunión de política monetaria de la Reserva Federal, en … [+1903 chars]"
     }
   ]
 }
