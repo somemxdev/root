@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar to decline further on U.S. fiscal, growth and trade risks: Reuters poll - Yahoo Finance",
+      "Description": "Dollar to decline further on U.S. fiscal, growth and trade risks: Reuters pollYahoo Finance View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=177929962",
+      "UrlToImage": null,
+      "PublishedAt": "2025-06-04T20:55:13Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": "marca",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-121195930,width-1200,height-630,imgsize-1667304,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2025-05-15T19:22:54Z",
       "Content": "Justin Bieber is in deep financial trouble following the fallout from his cancelled Justice tour. A line of audits confirms that the pop star owes millions to ex-manager Scooter Braun.Justin Bieber o… [+3957 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Cedi trades at GH¢12.45 per dollar on interbank market on May 15",
-      "Description": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-trades-at-GH-12-45-per-dollar-on-interbank-market-on-May-15-1983997",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/837/83711157.jpg",
-      "PublishedAt": "2025-05-15T10:04:54Z",
-      "Content": "Ghana's local currency, the cedi, has recorded marginal gains against major trading currencies, particularly the US dollar, at some forex bureaus.\r\nIn its daily update, the Central Bank noted that th… [+697 chars]"
     }
   ]
 }
