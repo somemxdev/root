@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza a nuevos máximos en 8 meses! Precio del dólar hoy 5 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza a nuevos máximos en ocho meses, con lo que el precio del dólar hoy 5 de junio de 2025 cotiza en 19.17 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-5-junio-2025-tipo-cambio-bancos-mexico/1719923",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/05/3319571.jpg",
+      "PublishedAt": "2025-06-05T19:25:30Z",
+      "Content": "El peso mexicano avanza a nuevos máximos en ocho meses, con lo que el precio del dólar hoy 5 de junio de 2025 cotiza en 19.17 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1506 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/30/ubs-preve-dolar-en-pesos.jpeg",
       "PublishedAt": "2025-05-30T11:00:00Z",
       "Content": "El peso cerró la sesión con una apreciación de 0.29 por ciento, es decir 5.7 centavos, cotizando alrededor de 19.33 pesos por dólar, con el tipo de cambio tocando un máximo de 19.42 mínimo de 19.2925… [+545 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana terreno tras retroceso global del dólar",
-      "Description": "Forbes México.\n Peso gana terreno tras retroceso global del dólar\n\nLa moneda corta una racha de tres jornadas de pérdidas al apreciarse 0.38%, de acuerdo con datos de Reuters.\nPeso gana terreno tras retroceso global del dólar\nForbes Staff",
-      "Url": "https://forbes.com.mx/peso-gana-terreno-tras-retroceso-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0470.jpg",
-      "PublishedAt": "2025-05-29T22:02:00Z",
-      "Content": "El peso avanzó el jueves ante un declive generalizado del dólar, mientras que la BMV retrocedió desde sus máximos históricos, tras una sesión dominada por vaivenes de la justicia estadounidense en to… [+1796 chars]"
     }
   ]
 }
