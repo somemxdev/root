@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Mario Luna",
+      "Title": "Peso da un ‘pasito’ ante el dólar: ¿Cuánto se aprecia el tipo de cambio HOY?",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/05/peso-dolar-precio-hoy-5-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/O7EC2DN2YVALXAKS65QEEFODEM.jpg?smart=true&auth=eaeff4b481f9bcd40bad73173ff02cbe88a7d47e9de6624d23bd13a4df1c9b1f&width=1200&height=630",
+      "PublishedAt": "2025-06-05T16:39:41Z",
+      "Content": "El peso mexicano se aprecia ligeramente ante el dólar este jueves 5 de junio, esto tras la publicación del déficit comercial de Estados Unidos, que tuvo la mayor contracción de la historia, y datos d… [+1629 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0470.jpg",
       "PublishedAt": "2025-05-29T22:02:00Z",
       "Content": "El peso avanzó el jueves ante un declive generalizado del dólar, mientras que la BMV retrocedió desde sus máximos históricos, tras una sesión dominada por vaivenes de la justicia estadounidense en to… [+1796 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El centavo de dólar que puede valer más de US$200.000 y sigue en circulación: cómo reconocer esta moneda",
-      "Description": "Un centavo de 1943 podría valer más de US$200 mil. Aún circula y pocos saben cómo identificarlo. ¿Podrías tener uno sin saberlo?",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/el-centavo-de-dolar-que-puede-valer-mas-de-us200000-y-sigue-en-circulacion-como-reconocer-esta-nid29052025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-lincoln-puede-alcanzar-valores-elevados-TKYCDNSIXNCCBDVYWKAKS33DXQ.jpg?auth=f3dee63f95c052d7fcfff3b85493e95e945e31ed532a2fbb1e6a4e1d0afbb6c9&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-05-29T19:57:02Z",
-      "Content": "En la numismática estadounidense, pocas monedas generan tanto entusiasmo como el centavo de Lincoln de 1943 fabricado en bronce. Esta peculiar pieza, que debería valer apenas un centavo, ha logrado a… [+2897 chars]"
     }
   ]
 }
