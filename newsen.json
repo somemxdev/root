@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Dollar General (NYSE:DG) Stock Price Expected to Rise, Bank of America Analyst Says",
+      "Description": "Dollar General (NYSE:DG – Free Report) had its price target increased by Bank of America from $115.00 to $135.00 in a report issued on Wednesday morning,Benzinga reports. The brokerage currently has a buy rating on the stock. Other equities research analysts …",
+      "Url": "https://www.etfdailynews.com/2025/06/05/dollar-general-nysedg-stock-price-expected-to-rise-bank-of-america-analyst-says-2/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2025-06-05T09:36:50Z",
+      "Content": "Dollar General (NYSE:DG – Free Report) had its price target increased by Bank of America from $115.00 to $135.00 in a report issued on Wednesday morning,Benzinga reports. The brokerage currently has … [+5278 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -188,19 +201,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "James Van Straten, AI Boost",
-      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
-      "Description": "Despite soaring 50% from April lows and outperforming tech and bonds, bitcoin has yet to reclaim its all-time highs against traditional safe havens like gold and silver.",
-      "Url": "https://www.coindesk.com/markets/2025/05/22/king-dollar-falls-bitcoin-marches-toward-sound-money-highs",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
-      "PublishedAt": "2025-05-22T08:06:53Z",
-      "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Yahoo Entertainment"
       },
       "Author": null,
@@ -210,6 +210,19 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-22T08:06:53Z",
       "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "James Van Straten, AI Boost",
+      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
+      "Description": "Despite soaring 50% from April lows and outperforming tech and bonds, bitcoin has yet to reclaim its all-time highs against traditional safe havens like gold and silver.",
+      "Url": "https://www.coindesk.com/markets/2025/05/22/king-dollar-falls-bitcoin-marches-toward-sound-money-highs",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
+      "PublishedAt": "2025-05-22T08:06:53Z",
+      "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
     },
     {
       "Source": {
@@ -366,19 +379,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-121210922,width-1200,height-630,imgsize-23194,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2025-05-16T10:19:51Z",
       "Content": "The Indian rupee closed nearly flat on Friday but notched its second consecutive weekly fall as a relief rally following an India-Pakistan truce proved fleeting in the face of sustained dollar demand… [+1678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Global Desk",
-      "Title": "Money trouble? Justin Bieber faces multi-million dollar debt to ex-manager Scooter Braun after tour audit uncovers issues",
-      "Description": "Justin Bieber is reportedly facing financial difficulties stemming from his cancelled Justice tour, leading to a dispute with his former manager, Scooter Braun. Audits reveal Bieber owes Braun over $8 million, contradicting claims of overpayment. Despite his …",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/money-trouble-justin-bieber-faces-multi-million-dollar-debt-to-ex-manager-scooter-braun-after-tour-audit-uncovers-issues/articleshow/121195425.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-121195930,width-1200,height-630,imgsize-1667304,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2025-05-15T19:22:54Z",
-      "Content": "Justin Bieber is in deep financial trouble following the fallout from his cancelled Justice tour. A line of audits confirms that the pop star owes millions to ex-manager Scooter Braun.Justin Bieber o… [+3957 chars]"
     }
   ]
 }
