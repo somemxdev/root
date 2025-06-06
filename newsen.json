@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 43,
   "Articles": [
     {
       "Source": {
@@ -188,19 +188,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b532761-80fa-4cdc-83d5-8855a7b23c8d",
-      "UrlToImage": null,
-      "PublishedAt": "2025-05-22T08:06:53Z",
-      "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "CoinDesk"
       },
       "Author": "James Van Straten, AI Boost",
@@ -210,6 +197,19 @@
       "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
       "PublishedAt": "2025-05-22T08:06:53Z",
       "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b532761-80fa-4cdc-83d5-8855a7b23c8d",
+      "UrlToImage": null,
+      "PublishedAt": "2025-05-22T08:06:53Z",
+      "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     },
     {
       "Source": {
