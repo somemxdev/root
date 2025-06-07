@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿Por qué el pleito de Musk podría ‘dar una mano’ al peso para apreciarse más ante el dólar?",
+      "Description": "La ruptura entre Trump y Musk por el paquete fiscal podría debilitar al dólar y jugar un papel importante en la economía mexicana.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2025/06/06/por-que-el-pleito-de-musk-podria-dar-una-mano-al-peso-para-apreciarse-mas-ante-el-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BTQLGGVUTZCJ5NX22JKPFJPGKE.jpg?smart=true&auth=f12698502b335118a5db1f3a8e3c49461509dfec522cfc3cce4621ad6f49de5b&width=1200&height=630",
+      "PublishedAt": "2025-06-06T19:34:40Z",
+      "Content": "¿Qué tiene que ver una pelea entre Musk y Trump con el tipo de cambio del peso? Más de lo que imaginas. La disputa entre dos de los magnates más influyentes de Estados Unidos podría terminar jugando … [+2992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.uecdn.es/f9ed2d52b3859568f4013b12de176e1f/crop/196x0/1924x1152/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/02/17488658063088.jpg",
       "PublishedAt": "2025-06-02T12:13:09Z",
       "Content": "El abandono de la doctrina del dólar fuerte ha introducido una nueva brecha de volatilidad en el sistema difícil de suturar e imposible de ignorar en el exterior.El histórico reinado del dólar sobre … [+8128 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 2 de junio de 2025: ¿Cuál es el tipo de cambio en México tras la elección judicial?",
-      "Description": "El dólar HOY 2 de junio inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.78 por ciento, según datos de Bloomberg.Así reaccionó el peso un día después del proceso el electoral extraord…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-2-junio-2025-cuanto-cotiza-en-vivo-eleccion-judicial",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/23/reacciona-pesos-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2025-06-02T11:08:00Z",
-      "Content": "El dólar HOY 2 de junio inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.78 por ciento, según datos de Bloomberg. \r\nAsí rea… [+592 chars]"
     }
   ]
 }
