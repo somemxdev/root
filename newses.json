@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso tiene mejor nivel en lo que va del año gracias al débil dólar",
+      "Description": "Forbes México.\n Peso tiene mejor nivel en lo que va del año gracias al débil dólar\n\nEl tipo de cambio se ubica en 19.1493 pesos por dólar, según datos de Banxico; tiene una apreciación de 8.3% frente al cierre de 2024.\nPeso tiene mejor nivel en lo que va del …",
+      "Url": "https://forbes.com.mx/peso-tiene-mejor-nivel-en-lo-que-va-del-ano-gracias-al-debil-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-06-06T00:03:10Z",
+      "Content": "Ciudad de México.- El peso registró este jueves su mejor nivel frente al dólar en lo que va de 2025 al cerrar en 19.1493 unidades, según datos de cierre de Banco de México.\r\nEl peso se apreció 0.26% … [+3208 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-30-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-05-30T14:56:03Z",
       "Content": "Este viernes 30 de mayo de 2025, el precio del dólar en México es de $19,328, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se… [+1984 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Serrat García",
-      "Title": "Precio del dólar HOY viernes 30 de mayo de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 30 de mayo inicia operaciones con el tipo de cambio interbancario en 19.28 pesos mexicanos por billete verde, con una ligera baja del 0.20 por ciento, según datos de Bloomberg.El peso mexicano avanzó el jueves ante un debilitamiento generalizado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-de-mayo-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/30/ubs-preve-dolar-en-pesos.jpeg",
-      "PublishedAt": "2025-05-30T11:00:00Z",
-      "Content": "El peso cerró la sesión con una apreciación de 0.29 por ciento, es decir 5.7 centavos, cotizando alrededor de 19.33 pesos por dólar, con el tipo de cambio tocando un máximo de 19.42 mínimo de 19.2925… [+545 chars]"
     }
   ]
 }
