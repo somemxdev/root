@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "National Post"
+      },
+      "Author": "Chris Lambie",
+      "Title": "How a multibillion dollar defence bank could help Canada increase its military spending",
+      "Description": "How Canada Wins: 'We have to use our capital markets of allied nations for overwhelming force against our foes,' says defence bank president",
+      "Url": "https://nationalpost.com/news/canada/how-canada-wins-defence-bank",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/06/20231107rpaz0114d006_286438172.jpg",
+      "PublishedAt": "2025-06-07T10:00:21Z",
+      "Content": "While I dont like what hes saying, I see this as an opportunity to get ourselves going, Reed said. We have not done our job in a long time. Weve not fulfilled our commitments, and this a kick in the … [+3039 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.activistpost.com/wp-content/uploads/2025/05/digital-currency-shutterstock_1857203884.jpg",
       "PublishedAt": "2025-05-16T22:00:00Z",
       "Content": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, What if, knowingly or not, the Trump administration was continuity rather than revolut… [+7066 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee flat on day; dips on week as corporate, interbank dollar bids weigh",
-      "Description": "The Indian rupee closed nearly flat on Friday but notched its second consecutive weekly fall as a relief rally following an India-Pakistan truce proved fleeting in the face of sustained dollar demand from local companies and foreign banks.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-flat-on-day-dips-on-week-as-corporate-interbank-dollar-bids-weigh/articleshow/121210908.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-121210922,width-1200,height-630,imgsize-23194,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-05-16T10:19:51Z",
-      "Content": "The Indian rupee closed nearly flat on Friday but notched its second consecutive weekly fall as a relief rally following an India-Pakistan truce proved fleeting in the face of sustained dollar demand… [+1678 chars]"
     }
   ]
 }
