@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "Billion-Dollar Bank Sending $3,125,000 To Customers Over Alleged Breach of Contract, Improper Overdraft Fees",
+      "Description": "A US bank is preparing to pay millions of dollars to settle a lawsuit that accused the lender of breach of contract. According to a preliminary approval order, Illinois-based Midland States Bank will pay $3.125 million to settle accusations that the billion-d…",
+      "Url": "https://dailyhodl.com/2025/06/06/billion-dollar-bank-handing-3125000-to-customers-for-alleged-breach-of-contract-improper-overdraft-fees/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/bank-paying-dollar.jpg",
+      "PublishedAt": "2025-06-07T16:48:54Z",
+      "Content": "A US bank is preparing to pay millions of dollars to settle a lawsuit that accused the lender of breach of contract.\r\nAccording to a preliminary approval order, Illinois-based Midland States Bank wil… [+1513 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "National Post"
       },
       "Author": "Chris Lambie",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/05/bank-warn-access.jpg",
       "PublishedAt": "2025-05-17T00:04:58Z",
       "Content": "A top 100 US bank just disclosed a data breach affecting the personal and confidential information of thousands of customers.\r\nIn a filing with the Office of the Maine Attorney General, Arkansas-base… [+1398 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Activistpost.com"
-      },
-      "Author": "Editor",
-      "Title": "The Hidden Dollar Revolution: America’s New Digital Money System",
-      "Description": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, “What if, knowingly or not, the Trump administration was continuity rather than revolutionary?” The Digital Control Grid: Hidden in Plain Sight Am…",
-      "Url": "https://www.activistpost.com/the-hidden-dollar-revolution-americas-new-digital-money-system/",
-      "UrlToImage": "https://www.activistpost.com/wp-content/uploads/2025/05/digital-currency-shutterstock_1857203884.jpg",
-      "PublishedAt": "2025-05-16T22:00:00Z",
-      "Content": "This entire post is the result of a thought experiment and subsequent research. The question I asked myself was, What if, knowingly or not, the Trump administration was continuity rather than revolut… [+7066 chars]"
     }
   ]
 }
