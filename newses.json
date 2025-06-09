@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
     {
       "Source": {
@@ -253,6 +253,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Víctor Blanco Moro, Remo Vicario",
+      "Title": "Daniel Lacalle: \"El dólar no está en peligro como moneda de reserva porque no hay alternativa en las divisas fiat\"",
+      "Description": "Para Daniel Lacalle (Madrid, 1967), \"dar la batalla cultural\" es ahora indispensable para frenar el avance del \"estatismo depredador\". Su última contribución en la cruzada por la defensa de las libertades del individuo frente al estado se titula \"El nuevo ord…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13397313/06/25/daniel-lacalle-el-dolar-no-esta-en-peligro-como-moneda-de-reserva-porque-no-hay-alternativa-en-las-divisas-fiat.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/8000x4366/9/5/5/1200x655_Lacalle1.jpg",
+      "PublishedAt": "2025-06-03T17:53:28Z",
+      "Content": "Para Daniel Lacalle (Madrid, 1967), \"dar la batalla cultural\" es ahora indispensable para frenar el avance del \"estatismo depredador\". Su última contribución en la cruzada por la defensa de las liber… [+25212 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Redacción",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
       "PublishedAt": "2025-06-02T14:49:06Z",
       "Content": "El peso se apreciaba este lunes ante un declive generalizado del dólar debido a un recrudecimiento de las tensiones comerciales entre Estados Unidos y China y la amenaza del presidente Donald Trump d… [+1569 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 2 de junio",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-2-de-junio-nid02062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-2-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-02T14:15:22Z",
-      "Content": "Este lunes 2 de junio de 2025, el precio del dólar en México es de $19,3858, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se … [+2061 chars]"
     }
   ]
 }
