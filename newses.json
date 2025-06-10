@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 9 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 9 de junio inicia operaciones con el tipo de cambio interbancario en 19.05 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión después de f…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
+      "PublishedAt": "2025-06-09T11:01:00Z",
+      "Content": "El dólar HOY 9 de junio inicia operaciones con el tipo de cambio interbancario en 19.05 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg. \r\nEl peso… [+830 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2J5RWQTJGFC6NF3SSHV6KUYMHA.jpg?smart=true&auth=be6dd6e50c93a00505d0ccfe57d2ce25144736e1a2e6e94b113996e2e66acaf7&width=1200&height=630",
       "PublishedAt": "2025-06-02T16:22:21Z",
       "Content": "El peso mexicano inicia este lunes con una apreciación, esto luego de las elecciones judiciales 2025, y ante la debilidad internacional del dólar.\r\nLa moneda mexicana presenta una apreciación en el i… [+1462 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante debilitamiento global del dólar; BMV sube",
-      "Description": "Forbes México.\n Peso avanza ante debilitamiento global del dólar; BMV sube\n\nEl peso cotizaba en 19.1979 unidades, con una ganancia de un 1.1% mientras los inversionistas locales asimilaban la primera elección judicial de la historia del país.\nPeso avanza ante…",
-      "Url": "https://forbes.com.mx/peso-avanza-ante-debilitamiento-global-del-dolar-bmv-sube/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
-      "PublishedAt": "2025-06-02T14:49:06Z",
-      "Content": "El peso se apreciaba este lunes ante un declive generalizado del dólar debido a un recrudecimiento de las tensiones comerciales entre Estados Unidos y China y la amenaza del presidente Donald Trump d… [+1569 chars]"
     }
   ]
 }
