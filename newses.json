@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 9 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 9 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-9-de-junio-nid09062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-9-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-09T14:04:24Z",
+      "Content": "Este lunes 9 de junio de 2025, el precio del dólar en México es de $19,1317, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es impactado por … [+2340 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/02/3317342.jpg",
       "PublishedAt": "2025-06-02T16:40:38Z",
       "Content": "El peso mexicano avanza en la jornada de este lunes, con lo que el precio del dólar hoy 2 de junio de 2025 cotiza en 19.19 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en ba… [+1623 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso avanza tras las elecciones judiciales 2025: Así cotiza ante el dólar débil",
-      "Description": "El peso mexicano tiene un leve avance este lunes, tras el domingo donde se llevó a cabo la elección judicial 2025.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/02/peso-dolar-tipo-de-cambio-hoy-2-de-junio-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2J5RWQTJGFC6NF3SSHV6KUYMHA.jpg?smart=true&auth=be6dd6e50c93a00505d0ccfe57d2ce25144736e1a2e6e94b113996e2e66acaf7&width=1200&height=630",
-      "PublishedAt": "2025-06-02T16:22:21Z",
-      "Content": "El peso mexicano inicia este lunes con una apreciación, esto luego de las elecciones judiciales 2025, y ante la debilidad internacional del dólar.\r\nLa moneda mexicana presenta una apreciación en el i… [+1462 chars]"
     }
   ]
 }
