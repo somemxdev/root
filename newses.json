@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY martes 10 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 10 de junio inicia operaciones con el tipo de cambio interbancario en 19.04 pesos mexicanos por billete verde, sin presentar alguna variación, según datos de Bloomberg.El peso mexicano avanzaba ayer al iniciar operaciones ante un debilitamiento g…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-06-10T11:40:00Z",
+      "Content": "El dólar HOY 10 de junio inicia operaciones con el tipo de cambio interbancario en 19.04 pesos mexicanos por billete verde, sin presentar alguna variación, según datos de Bloomberg.\r\nEl peso mexicano… [+766 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x675/d/0/8/suiza-economia-divisa.jpg",
       "PublishedAt": "2025-06-03T09:40:26Z",
       "Content": "En el clima económico actual de feroz competencia, proteccionismo y lucha por el mercado, parece que buena parte de las economías del mundo y sus dirigentes muestran cierta preferencia por tener una … [+6990 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene su mejor avance frente al dólar desde el cinco de mayo",
-      "Description": "Forbes México.\n Peso tiene su mejor avance frente al dólar desde el cinco de mayo\n\nLa moneda se aprecia 1.01% en medio de un menor nerviosismo en los mercados locales, y por el retroceso del dólar, después de considerar las crecientes tensiones comerciales co…",
-      "Url": "https://forbes.com.mx/peso-tiene-su-mejor-avance-frente-al-dolar-desde-el-cinco-de-mayo/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
-      "PublishedAt": "2025-06-02T21:48:01Z",
-      "Content": "El peso tuvo este lunes su mejor avance frente al dólar desde el cinco de mayo en medio de renovadas preocupaciones por las políticas comerciales de Estados Unidos, después de que el presidente Donal… [+2467 chars]"
     }
   ]
 }
