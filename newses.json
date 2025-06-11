@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso ‘amanece tablas’ ante el dólar tras alcanzar su mejor nivel de 2025: Así está el tipo de cambio",
+      "Description": "Los representantes de EU y China afirmaron que las negociaciones en Londres van avanzando satisfactoriamente.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/10/peso-dolar-precio-hoy-10-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UPQO3FT3UZF2ZJNYZIUVOJ4YLY.jpg?smart=true&auth=a2a1d263de6a7c335e83b2e8c95b695d421aa3b3c93abe4c60d66fef38b37637&width=1200&height=630",
+      "PublishedAt": "2025-06-10T16:40:30Z",
+      "Content": "El peso mexicano, que alcanzó su mejor nivel de 2025, arranca tablas ante el dólar a la expectativa de más noticias sobre el día 2 de la nueva ronda de negociaciones comerciales entre China y EU. \r\nE… [+1627 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/JMEBDCQIDZBPLOWL34CS2SRJME.jpg?smart=true&auth=e6bc70845036e77a3caf81987ed04ad0891e03b54fb1db6a7bbc132202278874&width=1200&height=630",
       "PublishedAt": "2025-06-03T16:36:40Z",
       "Content": "El peso mexicano, que había alcanzado su mejor nivel desde septiembre, se deprecia ante el dólar en la jornada de este martes 3 de junio ante una mayor aversión al riesgo global y tras el recorte a l… [+1879 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 3 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, martes 3 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-3-de-junio-nid03062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-03T14:47:21Z",
-      "Content": "Este martes 3 de junio de 2025, el precio del dólar en México es de $19,2338, de acuerdo con el Diario Oficial de la Federación (DOF). La jornada comenzó con una leve depreciación y un fortalecimient… [+2209 chars]"
     }
   ]
 }
