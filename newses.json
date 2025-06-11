@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso, en su mejor nivel desde agosto; dólar, a $19.04",
+      "Description": "El peso mexicano se mantiene en su mejor nivel desde agosto de 2024 debido a la debilidad del dólar a escala mundial, a que la inflación en México repuntó más de lo previsto y a la espera de más información sobre los acuerdos comerciales entre China y Estados…",
+      "Url": "https://www.jornada.com.mx/2025/06/10/economia/015n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-10T08:49:59Z",
+      "Content": "Periódico La JornadaMartes 10 de junio de 2025, p. 15\r\nEl peso mexicano se mantiene en su mejor nivel desde agosto de 2024 debido a la debilidad del dólar a escala mundial, a que la inflación en Méxi… [+1925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
       "PublishedAt": "2025-06-02T21:48:01Z",
       "Content": "El peso tuvo este lunes su mejor avance frente al dólar desde el cinco de mayo en medio de renovadas preocupaciones por las políticas comerciales de Estados Unidos, después de que el presidente Donal… [+2467 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se aprecia ante repliegue global del dólar",
-      "Description": "El peso mexicano se apreció con 1 por ciento, cerrando la jornada en 19.20 unidades por dólar, este 02 de junio de 2025.Este panorama se vio ante un declive generalizado del dólar, mientras que la Bolsa Mexicana de Valores (BMV) cayó por tercera sesión, debid…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-02-junio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/27/utilidades-cuando-es-el-ultimo.jpeg",
-      "PublishedAt": "2025-06-02T20:26:00Z",
-      "Content": "El peso mexicano se apreció con 1 por ciento, cerrando la jornada en 19.20 unidades por dólar, este 02 de junio de 2025. \r\nEste panorama se vio ante un declive generalizado del dólar, mientras que la… [+862 chars]"
     }
   ]
 }
