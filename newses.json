@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 11 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 11 de junio inicia operaciones con el tipo de cambio interbancario en 19.00 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ligeramente ayer después de haber avanz…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-06-11T11:02:00Z",
+      "Content": "El dólar HOY 11 de junio inicia operaciones con el tipo de cambiointerbancario en 19.00 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg. \r\nEl peso… [+831 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-06-04T11:04:04Z",
       "Content": "El dólar HOY 4 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con una ligera baja del 0.19 por ciento, según datos de Bloomberg.\r\nEl peso … [+844 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BBC News"
-      },
-      "Author": "https://www.facebook.com/bbcnews",
-      "Title": "Por qué a Trump podría interesarle un dólar débil y cómo la moneda estadounidense está cayendo a sus niveles más bajos en 3 años",
-      "Description": "Podría parecer un contrasentido que la Casa Blanca prefiera un dólar debilitado, pero algunos analistas aseguran que eso es lo que quiere Trump. Te contamos por qué.",
-      "Url": "https://www.bbc.com/mundo/articles/cn4q32vnwq5o",
-      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/54fe/live/49a84410-40c3-11f0-9f3b-adba2ba4bb4c.jpg",
-      "PublishedAt": "2025-06-03T22:07:11Z",
-      "Content": "Fuente de la imagen, Getty Images\r\nInformación del artículo<ul><li>Autor, Cecilia Barría</li><li>Título del autor, BBC News Mundo</li><li></li></ul>\r\nEl valor del dólar sigue descendiendo.\r\nEn medio … [+7812 chars]"
     }
   ]
 }
