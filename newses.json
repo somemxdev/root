@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano está de vuelta; rompe barrera de 19 por dólar",
+      "Description": "El avance de la moneda ocurría además luego de que el presidente estadounidense Donald Trump anunció un acuerdo comercial con China.",
+      "Url": "https://aristeguinoticias.com/110625/dinero-y-economia/peso-mexicano-esta-de-vuelta-rompe-barrera-de-19-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
+      "PublishedAt": "2025-06-11T16:45:16Z",
+      "Content": "El peso mexicano se apreciaba el miércoles, cotizando por debajo de la barrera clave de 19 por dólar por primera vez en más de nueve meses, después de conocerse que los precios al consumidor en Estad… [+2682 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0450.jpg",
       "PublishedAt": "2025-06-04T14:53:22Z",
       "Content": "El peso se apreciaba el miércoles ante un debilitamiento generalizado del dólar debido a las tensiones comerciales entre Estados Unidos y China, mientras los inversionistas asimilaban un débil report… [+1810 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 4 de junio",
-      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-4-de-junio-nid04062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-4-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-04T14:41:16Z",
-      "Content": "Este miércoles 4 de junio de 2025, el precio del dólar en México es de $19,2638, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano… [+1966 chars]"
     }
   ]
 }
