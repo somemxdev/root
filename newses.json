@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El BCE quiere posicionar el euro como competidor del dólar",
+      "Description": "El euro logró defender su papel como la segunda moneda más importante del mundo en 2024. Su influencia se mantuvo estable, según el último informe del Banco Central Europeo , y su participación en las reservas oficiales mundiales de divisas registró pocos cam…",
+      "Url": "https://www.abc.es/economia/bce-quiere-posicionar-euro-competidor-dolar-20250611111859-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/11/1497384023-U37261733342SUS-1024x512@diario_abc.jpg",
+      "PublishedAt": "2025-06-11T09:19:56Z",
+      "Content": "El euro logró defender su papel como la segunda moneda más importante del mundo en 2024. Su influencia se mantuvo estable, según el último informe del Banco Central Europeo, y su participación en las… [+4924 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/54fe/live/49a84410-40c3-11f0-9f3b-adba2ba4bb4c.jpg",
       "PublishedAt": "2025-06-03T22:07:11Z",
       "Content": "Fuente de la imagen, Getty Images\r\nInformación del artículo<ul><li>Autor, Cecilia Barría</li><li>Título del autor, BBC News Mundo</li><li></li></ul>\r\nEl valor del dólar sigue descendiendo.\r\nEn medio … [+7812 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Víctor Blanco Moro, Remo Vicario",
-      "Title": "Daniel Lacalle: \"El dólar no está en peligro como moneda de reserva porque no hay alternativa en las divisas fiat\"",
-      "Description": "Para Daniel Lacalle (Madrid, 1967), \"dar la batalla cultural\" es ahora indispensable para frenar el avance del \"estatismo depredador\". Su última contribución en la cruzada por la defensa de las libertades del individuo frente al estado se titula \"El nuevo ord…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13397313/06/25/daniel-lacalle-el-dolar-no-esta-en-peligro-como-moneda-de-reserva-porque-no-hay-alternativa-en-las-divisas-fiat.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/8000x4366/9/5/5/1200x655_Lacalle1.jpg",
-      "PublishedAt": "2025-06-03T17:53:28Z",
-      "Content": "Para Daniel Lacalle (Madrid, 1967), \"dar la batalla cultural\" es ahora indispensable para frenar el avance del \"estatismo depredador\". Su última contribución en la cruzada por la defensa de las liber… [+25212 chars]"
     }
   ]
 }
