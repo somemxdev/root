@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "El peso regresa al nivel de las 18 unidades por dólar",
+      "Description": "Forbes México.\n El peso regresa al nivel de las 18 unidades por dólar\n\nEl peso se ubica en 18.9224 unidades por dólar, nivel en el que no cerraba desde el 20 de agosto, según datos de Banxico.\nEl peso regresa al nivel de las 18 unidades por dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/el-peso-regresa-al-nivel-de-las-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-06-11T20:58:41Z",
+      "Content": "El peso rompió el piso de las 19 unidades por dólar al ubicarse en 18.9224, nivel en el que no cerraba desde el 20 de agosto, según datos de Banxico.\r\nCon el dato de hoy, el peso se apreció 0.76% res… [+64 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/PSFR5NYTSRCKBEXDCVBZ653PPU.jpg?smart=true&auth=1e4e69dfe1c72bb4fb7cc59e814ebfdadaf1ffa6a54352f141c7e9cbfb3f48d9&width=1440",
       "PublishedAt": "2025-06-04T22:58:58Z",
       "Content": "El tipo de cambio subió, este miércoles 4 de junio, a ¢510,57 en el Mercado de Monedas Extranjeras (Monex), según el promedio ponderado. Esto implica un aumento de ¢3,66 respecto al valor alcanzado e… [+1968 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso se aprecia por preocupaciones sobre ‘el fin del dólar’: ¿Cómo está el tipo de cambio HOY?",
-      "Description": "Estados Unidos ha admitido que las negociaciones arancelarias con China no van tan rápido como pueden, lo que aumenta las preocupaciones sobre el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/04/peso-dolar-precio-hoy-4-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5EMWMXTM3VFVNK7MP6PF4A3PFY.jpg?smart=true&auth=1f2d533f9156ebb7b516693a28fe989537308c46f6f19510d40bdfbeef4dabba&width=1200&height=630",
-      "PublishedAt": "2025-06-04T15:39:45Z",
-      "Content": "El peso mexicano se aprecia ante el dólar en la jornada de mitad de semana, entre un debilitamiento internacional del dólar y las preocupaciones sobre la economía de Estados Unidos. \r\nLa apreciación … [+1507 chars]"
     }
   ]
 }
