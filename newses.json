@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza y cotiza debajo de 19 unidades por dólar; BMV baja ligeramente",
+      "Description": "Forbes México.\n Peso avanza y cotiza debajo de 19 unidades por dólar; BMV baja ligeramente\n\nEl peso cotizaba en 18.9690 unidades, con una ganancia de un 0.46% frente a los 19.0560 pesos del precio de referencia de LSEG del martes.\nPeso avanza y cotiza debajo …",
+      "Url": "https://forbes.com.mx/peso-avanza-y-cotiza-debajo-de-19-unidades-por-dolar-bmv-baja-ligeramente/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-06-11T14:44:42Z",
+      "Content": "El peso se apreciaba el miércoles, perforando la barrera clave de 19 por dólar, después de conocerse que los precios al consumidor (IPC) en Estados Unidos aumentaron moderadamente el mes pasado.\r\nEl … [+1421 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 11 de junio de 2025",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 11 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-11-de-junio-de-2025-nid11062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-11T14:23:06Z",
+      "Content": "Este miércoles 11 de junio de 2025, el precio del dólar en México es de $19,0518, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexican… [+2257 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-4-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-04T14:41:16Z",
       "Content": "Este miércoles 4 de junio de 2025, el precio del dólar en México es de $19,2638, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano… [+1966 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera! Precio del dólar hoy 4 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se fortalece en la jornada de este miércoles, con lo que el precio del dólar hoy 4 de junio de 2025 cotiza en 19.18 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-4-junio-2025-tipo-cambio-bancos-mexico/1719628",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/04/3318562.jpg",
-      "PublishedAt": "2025-06-04T14:24:18Z",
-      "Content": "El peso mexicano se fortalece en la jornada de este miércoles, con lo que el precio del dólar hoy 4 de junio de 2025 cotiza en 19.18 unidades por cada billete verde; conoce aquí cuál es el tipo de ca… [+1969 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 4 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 4 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con una ligera baja del 0.19 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer debido a la cautela de los inversio…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-06-04T11:04:04Z",
-      "Content": "El dólar HOY 4 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con una ligera baja del 0.19 por ciento, según datos de Bloomberg.\r\nEl peso … [+844 chars]"
     }
   ]
 }
