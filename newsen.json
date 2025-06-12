@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Chainwire",
+      "Title": "Falcon Finance Announces Custody Integration with BitGo for USDf Synthetic Dollar",
+      "Description": "June 10th, 2025 – Dubai, UAE class=”ql-align-justify”>Falcon Finance, the synthetic dollar protocol backed by DWF Labs, has announced an upcoming integration with BitGo to provide secure custody support for its overcollateralized synthetic dollar, USDf. The p…",
+      "Url": "https://dailyhodl.com/2025/06/11/falcon-finance-announces-custody-integration-with-bitgo-for-usdf-synthetic-dollar/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/Bitgo_17492221183JY8v3rjax.jpg",
+      "PublishedAt": "2025-06-11T13:00:20Z",
+      "Content": "June 10th, 2025 Dubai, UAE\r\nclass=”ql-align-justify”&gt;Falcon Finance, the synthetic dollar protocol backed by DWF Labs, has announced an upcoming integration with BitGo to provide secure custody su… [+4588 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d5e139e12c4df53a5bae23733d6accfb",
       "PublishedAt": "2025-05-19T17:13:37Z",
       "Content": "(Bloomberg) -- The dollar is at risk of losses whether the US government lands in a fiscal crisis or a recession, according to George Saravelos, Deutsche Banks global head of FX strategy.\r\nMost Read … [+1657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Warns 7,537 Customers After Data Breach Triggers Unauthorized Account Access",
-      "Description": "A top 100 US bank just disclosed a data breach affecting the personal and confidential information of thousands of customers. In a filing with the Office of the Maine Attorney General, Arkansas-based Arvest Bank says it’s warning 7,537 people after a technica…",
-      "Url": "https://dailyhodl.com/2025/05/16/billion-dollar-bank-warns-7537-customers-after-data-breach-triggers-unauthorized-account-access/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/05/bank-warn-access.jpg",
-      "PublishedAt": "2025-05-17T00:04:58Z",
-      "Content": "A top 100 US bank just disclosed a data breach affecting the personal and confidential information of thousands of customers.\r\nIn a filing with the Office of the Maine Attorney General, Arkansas-base… [+1398 chars]"
     }
   ]
 }
