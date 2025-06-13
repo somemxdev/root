@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 12 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 12 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-12-de-junio-nid12062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-12-de-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-06-12T15:44:43Z",
+      "Content": "Este jueves 12 de junio de 2025, el precio del dólar en México es de $18,879, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano se vio afectado … [+2319 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso frena ganancias tras regresar a su nivel de 18 unidades por dólar; BMV cae",
+      "Description": "Forbes México.\n Peso frena ganancias tras regresar a su nivel de 18 unidades por dólar; BMV cae\n\nEl peso cotizaba en 18.9130 por dólar, con un marginal retroceso de un 0.04% poniendo freno a su avance del miércoles cuando rompió la barrera de 19 unidades.\nPes…",
+      "Url": "https://forbes.com.mx/peso-frena-ganancias-tras-regresar-a-su-nivel-de-18-unidades-por-dolar-bmv-cae/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0458.jpg",
+      "PublishedAt": "2025-06-12T15:43:03Z",
+      "Content": "El peso registraba pocos cambios el jueves después de que se fortaleciera en la víspera a niveles no vistos en más de nueve meses, mientras los inversores evaluaban noticias sobre un acuerdo comercia… [+1473 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso frena ganancias! Precio del dólar hoy 12 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano registra pocos cambios en la jornada de este jueves, con lo que el precio del dólar hoy 12 de junio de 2025 cotiza en 18.91 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa div…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-12-junio-2025-tipo-cambio-bancos-mexico/1721177",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/12/3323355.jpg",
+      "PublishedAt": "2025-06-12T15:12:26Z",
+      "Content": "El peso mexicano registra pocos cambios en la jornada de este jueves, con lo que el precio del dólar hoy 12 de junio de 2025 cotiza en 18.91 unidades por cada billete verde; conoce aquí cuál es el ti… [+1361 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-6-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-06T15:10:32Z",
       "Content": "Este viernes 6 de junio de 2025, el precio del dólar en México es de $19,17, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se … [+2074 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se repliega tras acercarse a la barrera de 19 unidades por dólar; BMV cae",
-      "Description": "Forbes México.\n Peso se repliega tras acercarse a la barrera de 19 unidades por dólar; BMV cae\n\nEl peso cotizaba en 19.1968 unidades, con un retroceso del 0.25%, aunque justo después de los datos de empleo de EU llegó a avanzar momentáneamente hasta 19.0977.\n…",
-      "Url": "https://forbes.com.mx/peso-se-repliega-tras-acercarse-a-la-barrera-de-19-unidades-por-dolar-bmv-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
-      "PublishedAt": "2025-06-06T14:48:35Z",
-      "Content": "El peso se depreciaba el viernes después de fortalecerse a niveles cercanos a la barrera clave de 19 por dólar luego de la divulgación de un reporte mejor a lo esperado del mercado laboral estadounid… [+1286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 6 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 6 de junio inicia operaciones con el tipo de cambio interbancario en 19.14 pesos mexicanos por billete verde, con una ligera baja del 0.07 por ciento, según datos de Bloomberg.El peso mexicano avanzaba ante un debilitamiento generalizado del dólar…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-06T10:59:00Z",
-      "Content": "El peso mexicano se fortaleció con 0.2 por ciento, cerrando la jornada con una cotización de 19.15 unidades por dólar, este jueves 5 de junio de 2025, niveles no vistos en ocho meses.\r\nMientras que l… [+683 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene mejor nivel en lo que va del año gracias al débil dólar",
-      "Description": "Forbes México.\n Peso tiene mejor nivel en lo que va del año gracias al débil dólar\n\nEl tipo de cambio se ubica en 19.1493 pesos por dólar, según datos de Banxico; tiene una apreciación de 8.3% frente al cierre de 2024.\nPeso tiene mejor nivel en lo que va del …",
-      "Url": "https://forbes.com.mx/peso-tiene-mejor-nivel-en-lo-que-va-del-ano-gracias-al-debil-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-06-06T00:03:10Z",
-      "Content": "Ciudad de México.- El peso registró este jueves su mejor nivel frente al dólar en lo que va de 2025 al cerrar en 19.1493 unidades, según datos de cierre de Banco de México.\r\nEl peso se apreció 0.26% … [+3208 chars]"
     }
   ]
 }
