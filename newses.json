@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Rompe el peso la barrera sicológica de $19 por dólar",
+      "Description": "El peso mexicano rompió ayer la barrera sicológica de 19 unidades por dólar spot, al cerrar en 18.9224 por dólar, con una apreciación diaria de 0.76 por ciento, beneficiado del escaso efecto de los aranceles sobre la inflación en Estados Unidos y el acuerdo p…",
+      "Url": "https://www.jornada.com.mx/2025/06/12/economia/015n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-12T10:54:07Z",
+      "Content": "Periódico La JornadaJueves 12 de junio de 2025, p. 15\r\nEl peso mexicano rompió ayer la barrera sicológica de 19 unidades por dólar spot, al cerrar en 18.9224 por dólar, con una apreciación diaria de … [+2508 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-5-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-06-05T14:29:36Z",
       "Content": "Este jueves 5 de junio de 2025, el precio del dólar en México es de $19,1932, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2401 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 5 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 5 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer ante un debilitamiento generaliza…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-05T11:02:00Z",
-      "Content": "El dólar HOY 5 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg.\r\nEl pes… [+825 chars]"
     }
   ]
 }
