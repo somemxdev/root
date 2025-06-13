@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Billion-Dollar Bank Refuses To Resolve Failed Zelle Transfer for Over Six Months – Until the Media Starts Digging Deeper: Report",
+      "Description": "One billion-dollar US bank reportedly refused to resolve a Zelle transfer for more than half a year, until the bank faced questions from the media. Karen Weber, of Raleigh, North Carolina, says a $300 transfer via Zelle never made it into her friend’s account…",
+      "Url": "https://dailyhodl.com/2025/06/12/billion-dollar-bank-refuses-to-resolve-failed-zelle-transfer-for-over-six-months-until-the-media-starts-digging-deeper-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/failed-zelle-payments.jpg",
+      "PublishedAt": "2025-06-12T16:55:01Z",
+      "Content": "One billion-dollar US bank reportedly refused to resolve a Zelle transfer for more than half a year, until the bank faced questions from the media.\r\nKaren Weber, of Raleigh, North Carolina, says a $3… [+1534 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://bl-i.thgim.com/public/incoming/2xlrww/article69586606.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Euro__Ho_2_1_PPCJMJ46.jpg",
       "PublishedAt": "2025-05-20T04:23:30Z",
       "Content": "Brazil's central bank does not see any realistic prospect of emerging nations in the BRICS group creating markets large enough to topple the U.S. dollar's dominance within the next 10 years, monetary… [+2109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bangkok Post"
-      },
-      "Author": "Reuters",
-      "Title": "No Brics asset pile big enough to rival dollar, Brazil central bank director says",
-      "Description": "BRASILIA - Brazil's central bank does not see any realistic prospect of emerging nations in the Brics group creating markets large enough to topple the US dollar's dominance within the next 10 years, monetary policy director Nilton David said on Monday.",
-      "Url": "https://www.bangkokpost.com/business/general/3029887/no-brics-asset-pile-big-enough-to-rival-dollar-brazil-central-bank-director-says",
-      "UrlToImage": "https://static.bangkokpost.com/media/content/20250520/c1_3029887_250520094705_700.jpg",
-      "PublishedAt": "2025-05-20T02:45:00Z",
-      "Content": "BRASILIA - Brazil's central bank does not see any realistic prospect of emerging nations in the Brics group creating markets large enough to topple the US dollar's dominance within the next 10 years,… [+2077 chars]"
     }
   ]
 }
