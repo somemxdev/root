@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
+      "Title": "El euro se fortalece frente al dólar y escala a máximos desde finales de 2021",
+      "Description": "El euro se fortalece frente al dólar. Este jueves, la cotización de la divisa común llega a superar el nivel de los 1,16 dólares, algo que no pasaba desde noviembre de 2021.",
+      "Url": "https://www.bolsamania.com/noticias/mercados/euro-fortalece-dolar-maximos-finales-2021--19992384.html",
+      "UrlToImage": "https://img5.s3wfg.com/web/img/images_uploaded/0/5/ep_divisas.jpg",
+      "PublishedAt": "2025-06-12T12:00:54Z",
+      "Content": "El euro se fortalece frente al dólar. Este jueves, la cotización de la divisa común llega a superar el nivel de los 1,16 dólares, algo que no pasaba desde noviembre de 2021.\r\nPara los analistas de IN… [+2554 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Europa Press",
+      "Title": "El euro asalta máximos desde 2021 frente al dólar ante las políticas de Trump",
+      "Description": "La moneda europea se revaloriza ya más de un 11% desde la toma de posesión de Donald Trump como presidente de Estado Unidos el pasado 20 de enero",
+      "Url": "https://www.elconfidencial.com/mercados/2025-06-12/euro-alcanza-maximos-desde-noviembre-de-2021_4149960/",
+      "UrlToImage": "https://images.ecestaticos.com/n4Zmrr0o1iP--8eb37ri_s5J00k=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/1b8/b9c/d86/1b8b9cd86aa65c916a051f0b404f6b4a.jpg",
+      "PublishedAt": "2025-06-12T11:38:00Z",
+      "Content": "El cambio del euro frente al dólar volvía a fortalecerse este jueves ante las erráticas políticas comerciales del presidente estadounidense, Donald Trump, que permitían a la moneda común europea supe… [+1477 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 12 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 12 de junio inicia operaciones con el tipo de cambio interbancario en 18.88pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba al inicio de la sesión, perforando la bar…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2025-06-12T11:07:00Z",
+      "Content": "El dólar HOY 12 de junio inicia operaciones con el tipo de cambio interbancario en 18.88 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+801 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-06-06T00:03:10Z",
       "Content": "Ciudad de México.- El peso registró este jueves su mejor nivel frente al dólar en lo que va de 2025 al cerrar en 19.1493 unidades, según datos de cierre de Banco de México.\r\nEl peso se apreció 0.26% … [+3208 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza a nuevos máximos en 8 meses! Precio del dólar hoy 5 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza a nuevos máximos en ocho meses, con lo que el precio del dólar hoy 5 de junio de 2025 cotiza en 19.17 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana re…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-5-junio-2025-tipo-cambio-bancos-mexico/1719923",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/05/3319571.jpg",
-      "PublishedAt": "2025-06-05T19:25:30Z",
-      "Content": "El peso mexicano avanza a nuevos máximos en ocho meses, con lo que el precio del dólar hoy 5 de junio de 2025 cotiza en 19.17 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en… [+1506 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso da un ‘pasito’ ante el dólar: ¿Cuánto se aprecia el tipo de cambio HOY?",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/05/peso-dolar-precio-hoy-5-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/O7EC2DN2YVALXAKS65QEEFODEM.jpg?smart=true&auth=eaeff4b481f9bcd40bad73173ff02cbe88a7d47e9de6624d23bd13a4df1c9b1f&width=1200&height=630",
-      "PublishedAt": "2025-06-05T16:39:41Z",
-      "Content": "El peso mexicano se aprecia ligeramente ante el dólar este jueves 5 de junio, esto tras la publicación del déficit comercial de Estados Unidos, que tuvo la mayor contracción de la historia, y datos d… [+1629 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 5 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 5 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-5-de-junio-nid05062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-5-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-06-05T14:29:36Z",
-      "Content": "Este jueves 5 de junio de 2025, el precio del dólar en México es de $19,1932, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2401 chars]"
     }
   ]
 }
