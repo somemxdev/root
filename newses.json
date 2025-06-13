@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "liliana.moscoso",
+      "Title": "¿Peso fuerte o dólar débil?",
+      "Description": "Por razones profesionales sigo los pronósticos de los economistas sobre distintas variables incluyendo el tipo de cambio. Ninguno preveía que, para mediados de este año, el peso se fortalecería de tal suerte que estaría, como estuvo ayer, por debajo de 19 pes…",
+      "Url": "https://www.excelsior.com.mx/opinion/leo-zuckermann/peso-fuerte-o-dolar-debil/1721117",
+      "UrlToImage": "https://www.excelsior.com.mx/media/opinion/vertical/2017/10/15/1775399.jpg",
+      "PublishedAt": "2025-06-12T06:52:23Z",
+      "Content": "Por razones profesionales sigo los pronósticos de los economistas sobre distintas variables incluyendo el tipo de cambio. Ninguno preveía que, para mediados de este año, el peso se fortalecería de ta… [+4523 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-06-05T11:02:00Z",
       "Content": "El dólar HOY 5 de junio inicia operaciones con el tipo de cambio interbancario en 19.20 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg.\r\nEl pes… [+825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se beneficia de un dólar débil en medio de tensión comercial",
-      "Description": "Forbes México.\n Peso se beneficia de un dólar débil en medio de tensión comercial\n\nLa moneda avanza 0.18% y se mantiene en sus mejores niveles desde mediados de septiembre, según datos de Banxico.\nPeso se beneficia de un dólar débil en medio de tensión comerc…",
-      "Url": "https://forbes.com.mx/peso-se-beneficia-de-un-dolar-debil-en-medio-de-tension-comercial/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
-      "PublishedAt": "2025-06-04T22:59:55Z",
-      "Content": "El peso se apreció este miércoles ante un debilitamiento generalizado del dólar, generado en parte por el nerviosismo frente al proteccionismo comercial de EU.\r\nEl dólar se ubicó en 19.9797 pesos, lo… [+1911 chars]"
     }
   ]
 }
