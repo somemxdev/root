@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Fernando S. Monreal",
+      "Title": "El euro/dólar, en máximos de los últimos tres años y medio: La tensión comercial golpea al 'billete verde'",
+      "Description": "Los bajistas han cogido aire en las bolsas de EEUU y Europa después de que el presidente de EEUU, Donald Trump haya anunciado que establecerá aranceles unilaterales en dos semanas, algo que aumenta las tensiones comerciales.La última amenaza arancelaria del m…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13411159/06/25/el-euro-dolar-en-maximos-de-los-ultimos-tres-anos-y-medio-la-tension-comercial-golpea-al-billete-verde.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/2121x1157/0/8/1/1200x655_dolar-fuego.jpg",
+      "PublishedAt": "2025-06-12T04:25:29Z",
+      "Content": "Los bajistas han cogido aire en las bolsas de EEUU y Europa después de que el presidente de EEUU, Donald Trump haya anunciado que establecerá aranceles unilaterales en dos semanas, algo que aumenta l… [+2158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
       "PublishedAt": "2025-06-04T22:59:55Z",
       "Content": "El peso se apreció este miércoles ante un debilitamiento generalizado del dólar, generado en parte por el nerviosismo frente al proteccionismo comercial de EU.\r\nEl dólar se ubicó en 19.9797 pesos, lo… [+1911 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Mónica Cerdas Gómez",
-      "Title": "Dólar vuelve a superar los ¢510. Así se movió el tipo de cambio",
-      "Description": "La última vez que el dólar estuvo por arriba de los ¢510 fue el 8 de abril pasado.",
-      "Url": "https://www.nacion.com/economia/dolar-vuelve-a-superar-los-510-asi-se-movio-el/AKMX32LXYRHPPFWXUT24U3ORRI/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/PSFR5NYTSRCKBEXDCVBZ653PPU.jpg?smart=true&auth=1e4e69dfe1c72bb4fb7cc59e814ebfdadaf1ffa6a54352f141c7e9cbfb3f48d9&width=1440",
-      "PublishedAt": "2025-06-04T22:58:58Z",
-      "Content": "El tipo de cambio subió, este miércoles 4 de junio, a ¢510,57 en el Mercado de Monedas Extranjeras (Monex), según el promedio ponderado. Esto implica un aumento de ¢3,66 respecto al valor alcanzado e… [+1968 chars]"
     }
   ]
 }
