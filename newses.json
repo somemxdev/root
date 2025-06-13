@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano frena avance tras perforar barrera 19 unidades por dólar",
+      "Description": "El peso mexicano tuvo un retroceso marginal de 0.01 por ciento, cerrando la jornada en 18.90 unidades por dólar, este jueves 12 de junio de 2025.La sesión estuvo marcada por un débil entorno para los activos de riesgo ante señales de crecientes tensiones en M…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-12-junio-2025",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
+      "PublishedAt": "2025-06-12T20:20:50Z",
+      "Content": "El peso mexicano tuvo un retroceso marginal de 0.01 por ciento, cerrando la jornada en 18.90 unidades por dólar, este jueves 12 de junio de 2025.\r\nLa sesión estuvo marcada por un débil entorno para l… [+730 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/https%3A%2F%2Fwww.elfinanciero.com.mx%2Fresizer%2FROgunNXyOsrXejPYlK5FrYTxD8E%3D%2Farc-photo-elfinanciero%2Farc2-prod%2Fpublic%2F2UBKM7N3XZDWHK3NBMSZUN7OJI.jpg?auth=a0d5a9b96a673a2079f9bc0da3f80e05adde2f22717689f98e516ec7eee530e4&width=1200",
       "PublishedAt": "2025-06-06T15:46:34Z",
       "Content": "La presidenta Claudia Sheinbaum abrió su mañanera con el dato del tipo de cambio... pero de ayer, pues el peso mexicano pierde ante el dólar en la mañana de este viernes 6 de junio.\r\nQuiero darles tr… [+2451 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 6 de junio de 2025",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 6 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-6-de-junio-de-2025-nid06062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-6-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-06T15:10:32Z",
-      "Content": "Este viernes 6 de junio de 2025, el precio del dólar en México es de $19,17, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se … [+2074 chars]"
     }
   ]
 }
