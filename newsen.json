@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Bitwise CIO Matt Hougan Says Worries Over US Dollar and Money Printing To Accelerate One ‘Megatrend’",
+      "Description": "Matt Hougan, the chief investment officer (CIO) of crypto asset management firm Bitwise, says concern over US dollar weakness is creating one massive Bitcoin (BTC) trend. In a new interview on CNBC Television, Hougan says that more public companies are buying…",
+      "Url": "https://dailyhodl.com/2025/06/12/bitwise-cio-matt-hougan-says-worries-over-us-dollar-and-money-printing-to-accelerate-one-megatrend/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/Money-Printing-To-Accelerate.jpg",
+      "PublishedAt": "2025-06-12T07:04:10Z",
+      "Content": "Matt Hougan, the chief investment officer (CIO) of crypto asset management firm Bitwise, says concern over US dollar weakness is creating one massive Bitcoin (BTC) trend.\r\nIn a new interview on CNBC … [+1476 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://static.bangkokpost.com/media/content/20250520/c1_3029887_250520094705_700.jpg",
       "PublishedAt": "2025-05-20T02:45:00Z",
       "Content": "BRASILIA - Brazil's central bank does not see any realistic prospect of emerging nations in the Brics group creating markets large enough to topple the US dollar's dominance within the next 10 years,… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Marc Jones",
-      "Title": "Central bank body BIS flags potential for dollar scramble",
-      "Description": "LONDON (Reuters) -Central bank body the Bank for International Settlements has flagged a possible scramble for dollars could be triggered if whipsawed...",
-      "Url": "https://finance.yahoo.com/news/central-bank-body-bis-flags-221628464.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/524fb1d4e53e9d695419f8ce12822222",
-      "PublishedAt": "2025-05-19T22:16:28Z",
-      "Content": "By Marc Jones\r\nLONDON (Reuters) -Central bank body the Bank for International Settlements has flagged a possible scramble for dollars could be triggered if whipsawed investors begin to unwind positio… [+1838 chars]"
     }
   ]
 }
