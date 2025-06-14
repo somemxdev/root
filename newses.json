@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 13 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 13 de junio inicia operaciones con el tipo de cambio interbancario en 19.X01 pesos mexicanos por billete verde, con una ligera ganancia del 0.69 por ciento, según datos de Bloomberg.El peso mexicano registraba pocos cambios después de que se fort…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-06-13T11:16:49Z",
+      "Content": "El dólar HOY 13 de junio inicia operaciones con el tipo de cambio interbancario en 19.X01 pesos mexicanos por billete verde, con una ligera ganancia del 0.69 por ciento, según datos de Bloomberg. \r\nE… [+828 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
       "PublishedAt": "2025-06-09T11:01:00Z",
       "Content": "El dólar HOY 9 de junio inicia operaciones con el tipo de cambio interbancario en 19.05 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg. \r\nEl peso… [+830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 7 de junio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de junio el tipo de cambio interbancario, se ubica en 19.11 pesos por unidad, con una pérdida del 0.24 por ciento, según datos de Bloomberg.Ayer, el peso mexicano avanzaba a …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-07T12:41:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de junio el tipo de cambio interbancario, se ubica en 19.11 pesos por unidad, con una pérdida del 0.24 por ciento,… [+2136 chars]"
     }
   ]
 }
