@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
+      "Title": "\"Todo el mundo ama el euro\": es el \"gran beneficiado\" de un dólar débil y puede llegar a 1,25",
+      "Description": "El euro ha tenido un buen desempeño esta semana, cotizando, en su cruce con el dólar, en niveles que no visitaba desde 2021. Los analistas creen que la divisa europea es la \"gran beneficiada\" de la debilidad de la moneda estadounidense. Las previsiones de alg…",
+      "Url": "https://www.bolsamania.com/noticias/mercados/todo-mundo-ama-euro-llegar-125-gran-beneficiado-dolar-debil-eurusd--19995578.html",
+      "UrlToImage": "https://img6.s3wfg.com/web/img/images_uploaded/e/6/euros_banknotes_eurozone_single_currency_ecb_euro_opt_1.jpg",
+      "PublishedAt": "2025-06-13T04:00:00Z",
+      "Content": "El euro ha tenido un buen desempeño esta semana, cotizando, en su cruce con el dólar, en niveles que no visitaba desde 2021. Los analistas creen que la divisa europea es la \"gran beneficiada\" de la d… [+6076 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-06-07T12:41:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de junio el tipo de cambio interbancario, se ubica en 19.11 pesos por unidad, con una pérdida del 0.24 por ciento,… [+2136 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿Por qué el pleito de Musk podría ‘dar una mano’ al peso para apreciarse más ante el dólar?",
-      "Description": "La ruptura entre Trump y Musk por el paquete fiscal podría debilitar al dólar y jugar un papel importante en la economía mexicana.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2025/06/06/por-que-el-pleito-de-musk-podria-dar-una-mano-al-peso-para-apreciarse-mas-ante-el-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BTQLGGVUTZCJ5NX22JKPFJPGKE.jpg?smart=true&auth=f12698502b335118a5db1f3a8e3c49461509dfec522cfc3cce4621ad6f49de5b&width=1200&height=630",
-      "PublishedAt": "2025-06-06T19:34:40Z",
-      "Content": "¿Qué tiene que ver una pelea entre Musk y Trump con el tipo de cambio del peso? Más de lo que imaginas. La disputa entre dos de los magnates más influyentes de Estados Unidos podría terminar jugando … [+2992 chars]"
     }
   ]
 }
