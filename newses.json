@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 13 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 13 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-13-de-junio-nid13062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-13-de-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-13T14:02:44Z",
+      "Content": "Este viernes 13 de junio de 2025,el precio del dólar en México es de $18,9068, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano s… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-9-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-09T14:04:24Z",
       "Content": "Este lunes 9 de junio de 2025, el precio del dólar en México es de $19,1317, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es impactado por … [+2340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 9 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 9 de junio inicia operaciones con el tipo de cambio interbancario en 19.05 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión después de f…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
-      "PublishedAt": "2025-06-09T11:01:00Z",
-      "Content": "El dólar HOY 9 de junio inicia operaciones con el tipo de cambio interbancario en 19.05 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg. \r\nEl peso… [+830 chars]"
     }
   ]
 }
