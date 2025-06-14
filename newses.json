@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se debilita tras ataque israelí a Irán; regresa arriba de 19 unidades por dólar",
+      "Description": "Forbes México.\n Peso se debilita tras ataque israelí a Irán; regresa arriba de 19 unidades por dólar\n\nEl peso cotizaba en 19.0629 unidades, luego de dos jornadas negociándose por debajo de la barrera clave de 19 por dólar.\nPeso se debilita tras ataque israelí…",
+      "Url": "https://forbes.com.mx/peso-se-debilita-tras-ataque-israeli-a-iran-regresa-arriba-de-19-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
+      "PublishedAt": "2025-06-13T15:04:18Z",
+      "Content": "El peso se depreciaba el viernes poco más del 1% arrastrado por ambiente adverso para los activos de riesgo después de que Israel lanzara ataques contra objetivos militares en Irán, desatando las rep… [+785 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Ataques de Israel a Irán hacen ‘temblar’ al peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Los ataques de Israel contra una planta de enriquecimiento de uranio de Irán provocó la muerte al líder de la Guardia Revolucionaria. ¿Cómo se comporta el peso por la volatilidad?",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/13/peso-dolar-precio-hoy-13-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7DU7DTBFKZECJMVN233RMYAF6E.jpg?smart=true&auth=8db8fa45ba5fb3efa9a8003feaeda8a4090e603a0537344301002912af9dfffe&width=1200&height=630",
+      "PublishedAt": "2025-06-13T15:03:26Z",
+      "Content": "El ataque de Israel a Irán, que disparó los precios del petróleo, provoca que los inversionistas huyan de los activos de riesgo, entre ellos el peso, por lo que la moneda mexicana se deprecia ante el… [+2132 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Ataque de Israel a Irán le 'pega' al peso! Precio del dólar hoy 13 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se debilita ante un ambiente adverso para los activos de riesgo luego del ataque de Israel contra Irán, con lo que el precio del dólar hoy 13 de junio de 2025 cotiza en 19.06 unidades por cada billete verde; conoce aquí cuál…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-13-junio-2025-tipo-cambio-bancos-mexico/1721403",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/13/3324061.jpg",
+      "PublishedAt": "2025-06-13T15:02:11Z",
+      "Content": "El peso mexicano se debilita ante un ambiente adverso para los activos de riesgo luego del ataque de Israel contra Irán, con lo que el precio del dólar hoy 13 de junio de 2025 cotiza en 19.06 unidade… [+1365 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-06-10T11:40:00Z",
       "Content": "El dólar HOY 10 de junio inicia operaciones con el tipo de cambio interbancario en 19.04 pesos mexicanos por billete verde, sin presentar alguna variación, según datos de Bloomberg.\r\nEl peso mexicano… [+766 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso, en su mejor nivel desde agosto; dólar, a $19.04",
-      "Description": "El peso mexicano se mantiene en su mejor nivel desde agosto de 2024 debido a la debilidad del dólar a escala mundial, a que la inflación en México repuntó más de lo previsto y a la espera de más información sobre los acuerdos comerciales entre China y Estados…",
-      "Url": "https://www.jornada.com.mx/2025/06/10/economia/015n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-10T08:49:59Z",
-      "Content": "Periódico La JornadaMartes 10 de junio de 2025, p. 15\r\nEl peso mexicano se mantiene en su mejor nivel desde agosto de 2024 debido a la debilidad del dólar a escala mundial, a que la inflación en Méxi… [+1925 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene mejor nivel frente al dólar desde el 20 de agosto",
-      "Description": "Forbes México.\n Peso tiene mejor nivel frente al dólar desde el 20 de agosto\n\nEl debilitamiento generalizado del dólar lleva a la moneda nacional a su cuarta sesión al hilo con apreciaciones.\nPeso tiene mejor nivel frente al dólar desde el 20 de agosto\nForbes…",
-      "Url": "https://forbes.com.mx/peso-tiene-mejor-nivel-frente-al-dolar-desde-el-20-de-agosto/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
-      "PublishedAt": "2025-06-09T21:06:41Z",
-      "Content": "El peso tuvo este lunes su mejor nivel frente al dólar desde el 20 de agosto, en medio de un declive generalizado del dólar.\r\nEl tipo de cambio se ubicó en 19.0424 pesos por dólar, el mejor nivel par… [+1952 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 9 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, lunes 9 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-9-de-junio-nid09062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-9-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-09T14:04:24Z",
-      "Content": "Este lunes 9 de junio de 2025, el precio del dólar en México es de $19,1317, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es impactado por … [+2340 chars]"
     }
   ]
 }
