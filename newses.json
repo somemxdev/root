@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Conflicto Israel-Irán: ¿Cómo afecta al precio del petróleo, tipo de cambio peso mexicano-dólar, oro y más?",
+      "Description": "Luego de que Israel lanzó ataques contra Irán, los precios del petróleose dispararon; en México, el mercado bursátil reaccionó a la baja, mientras que el peso mexicano recortó sus ganancias, un panorama que resulta poco alentador para la economía nacional, y …",
+      "Url": "https://www.milenio.com/negocios/conflicto-israel-iran-afecta-al-petroleo-peso-mexicano-y-mas",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-06-13T18:01:00Z",
+      "Content": "Luego de que Israel lanzó ataques contraIrán, los precios del petróleo se dispararon; en México, el mercado bursátil reaccionó a la baja, mientras que el peso mexicano recortó sus ganancias, un panor… [+7130 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-10-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-06-10T14:07:43Z",
       "Content": "Este martes 10 de junio de 2025, el precio del dólar en México es de $19,0595, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano corrigió parte … [+1968 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY martes 10 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 10 de junio inicia operaciones con el tipo de cambio interbancario en 19.04 pesos mexicanos por billete verde, sin presentar alguna variación, según datos de Bloomberg.El peso mexicano avanzaba ayer al iniciar operaciones ante un debilitamiento g…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-06-10T11:40:00Z",
-      "Content": "El dólar HOY 10 de junio inicia operaciones con el tipo de cambio interbancario en 19.04 pesos mexicanos por billete verde, sin presentar alguna variación, según datos de Bloomberg.\r\nEl peso mexicano… [+766 chars]"
     }
   ]
 }
