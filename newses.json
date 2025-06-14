@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso trepa de nuevo a las 19 unidades por dólar tras ataque de Israel a Irán",
+      "Description": "Forbes México.\n Peso trepa de nuevo a las 19 unidades por dólar tras ataque de Israel a Irán\n\nLa ofensiva hace que la divisa estadounidense junto con el yen japonés y el franco suizo suban al ser considerados activos refugio seguros.\nPeso trepa de nuevo a las…",
+      "Url": "https://forbes.com.mx/peso-trepa-de-nuevo-a-las-19-unidades-por-dolar-tras-ataque-de-israel-a-iran/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-06-13T02:13:32Z",
+      "Content": "El ataque de Israel a Irán expulsó al peso del nivel de las 18 unidades por dólar, pues la ofensiva hizo que la divisa estadounidense junto con el yen japonés y el franco suizo subieran al ser consid… [+2081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BTQLGGVUTZCJ5NX22JKPFJPGKE.jpg?smart=true&auth=f12698502b335118a5db1f3a8e3c49461509dfec522cfc3cce4621ad6f49de5b&width=1200&height=630",
       "PublishedAt": "2025-06-06T19:34:40Z",
       "Content": "¿Qué tiene que ver una pelea entre Musk y Trump con el tipo de cambio del peso? Más de lo que imaginas. La disputa entre dos de los magnates más influyentes de Estados Unidos podría terminar jugando … [+2992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Ese dato no era, Sheinbaum: ¿Cuánto se deprecia el peso ante el dólar HOY?",
-      "Description": "El peso mexicano abre con una ligera depreciación ante el dólar después del dato mejor de lo esperado del empleo en EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/06/peso-dolar-precio-hoy-6-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/https%3A%2F%2Fwww.elfinanciero.com.mx%2Fresizer%2FROgunNXyOsrXejPYlK5FrYTxD8E%3D%2Farc-photo-elfinanciero%2Farc2-prod%2Fpublic%2F2UBKM7N3XZDWHK3NBMSZUN7OJI.jpg?auth=a0d5a9b96a673a2079f9bc0da3f80e05adde2f22717689f98e516ec7eee530e4&width=1200",
-      "PublishedAt": "2025-06-06T15:46:34Z",
-      "Content": "La presidenta Claudia Sheinbaum abrió su mañanera con el dato del tipo de cambio... pero de ayer, pues el peso mexicano pierde ante el dólar en la mañana de este viernes 6 de junio.\r\nQuiero darles tr… [+2451 chars]"
     }
   ]
 }
