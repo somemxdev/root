@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Resiste peso volatilidad y logra segunda semana de ganancia; cierra en 18.93 por dólar",
+      "Description": "Pese al deterioro en la confianza de los inversionistas en la recta final de la semana, en medio de temas geopolíticos y comerciales, el peso mexicano logró esquivar la aversión al riesgo al alargar sus ganancias por segunda semana consecutiva y cerrar por de…",
+      "Url": "https://www.jornada.com.mx/2025/06/14/economia/013n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-14T08:37:17Z",
+      "Content": "Periódico La JornadaSábado 14 de junio de 2025, p. 13\r\nPese al deterioro en la confianza de los inversionistas en la recta final de la semana, en medio de temas geopolíticos y comerciales, el peso me… [+1566 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/958/5957857.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
       "PublishedAt": "2025-06-10T14:12:05Z",
       "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (10 junio 2025) .-08:01 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 10 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, martes 10 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-10-de-junio-nid10062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-10-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-06-10T14:07:43Z",
-      "Content": "Este martes 10 de junio de 2025, el precio del dólar en México es de $19,0595, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano corrigió parte … [+1968 chars]"
     }
   ]
 }
