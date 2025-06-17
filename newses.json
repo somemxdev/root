@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY lunes 16 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 16 de junio inicia operaciones con el tipo de cambio interbancario en 18.89 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba el viernes con poco más de 1 por ciento…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-06-16T10:57:10Z",
+      "Content": "Eldólar HOY 16 de junio inicia operaciones con el tipo de cambio interbancario en 18.89 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. \r\nEl peso… [+826 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UPQO3FT3UZF2ZJNYZIUVOJ4YLY.jpg?smart=true&auth=a2a1d263de6a7c335e83b2e8c95b695d421aa3b3c93abe4c60d66fef38b37637&width=1200&height=630",
       "PublishedAt": "2025-06-10T16:40:30Z",
       "Content": "El peso mexicano, que alcanzó su mejor nivel de 2025, arranca tablas ante el dólar a la expectativa de más noticias sobre el día 2 de la nueva ronda de negociaciones comerciales entre China y EU. \r\nE… [+1627 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede levemente tras acercarse a barrera clave de las 19 unidades por dólar",
-      "Description": "Forbes México.\n Peso retrocede levemente tras acercarse a barrera clave de las 19 unidades por dólar\n\nEl peso cotizaba en 19.0460 unidades, con una pérdida marginal de un 0.04% frente al precio de referencia de LSEG del lunes, cuando avanzó hasta 19.0141 por …",
-      "Url": "https://forbes.com.mx/peso-retrocede-levemente-tras-acercarse-a-barrera-clave-de-las-19-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0458.jpg",
-      "PublishedAt": "2025-06-10T14:32:53Z",
-      "Content": "El peso se depreciaba este martes ligeramente después de haber avanzado a sus mejores niveles en más de nueve meses mientras las inversionistas permanecían atentos a las negociaciones arancelarias en… [+844 chars]"
     }
   ]
 }
