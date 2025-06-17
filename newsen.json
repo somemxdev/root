@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar steady with focus on Middle East conflict, central bank meetings",
+      "Description": "The dollar held its ground in choppy trading on Monday, as investors keenly monitored Israel-Iran fighting for any signs that it could escalate into a broader regional conflict and braced for a week packed with central bank meetings.As both Iran and Israel sh…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-steady-focus-middle-east-conflict-central-bank-meetings-5184021",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--9LNcdNAd--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-16t023108z_1_lynxmpel5f02n_rtroptp_3_global-currencies-dollar.jpg?itok=CLioWqui",
+      "PublishedAt": "2025-06-16T02:31:08Z",
+      "Content": "The dollar held its ground in choppy trading on Monday, as investors keenly monitored Israel-Iran fighting for any signs that it could escalate into a broader regional conflict and braced for a week … [+3763 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -279,19 +292,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "James Van Straten, AI Boost",
-      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
-      "Description": "Despite soaring 50% from April lows and outperforming tech and bonds, bitcoin has yet to reclaim its all-time highs against traditional safe havens like gold and silver.",
-      "Url": "https://www.coindesk.com/markets/2025/05/22/king-dollar-falls-bitcoin-marches-toward-sound-money-highs",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
-      "PublishedAt": "2025-05-22T08:06:53Z",
-      "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Yahoo Entertainment"
       },
       "Author": null,
@@ -301,6 +301,19 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-22T08:06:53Z",
       "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "James Van Straten, AI Boost",
+      "Title": "King Dollar Falls, Bitcoin Marches Toward Sound Money Highs",
+      "Description": "Despite soaring 50% from April lows and outperforming tech and bonds, bitcoin has yet to reclaim its all-time highs against traditional safe havens like gold and silver.",
+      "Url": "https://www.coindesk.com/markets/2025/05/22/king-dollar-falls-bitcoin-marches-toward-sound-money-highs",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dae0d1919be46e1391901b035ea92d6c3c4faccf-1280x853.jpg",
+      "PublishedAt": "2025-05-22T08:06:53Z",
+      "Content": "Bitcoin's \r\n dollar high succumbed on Thursday as the largest cryptocurrency rose past $111,800, a remarkable 50% gain from its April low near $75,000, but when measured against traditional stores of… [+1340 chars]"
     },
     {
       "Source": {
@@ -366,19 +379,6 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/05/20093812/ed58ebd7-627b-487e-bf42-a376b9c59e82-800x420.jpg",
       "PublishedAt": "2025-05-20T13:41:08Z",
       "Content": "Key Takeaways\r\n<ul><li>Société Générale's crypto subsidiary SG Forge is introducing the first bank-issued dollar stablecoin on Ethereum.</li><li>The stablecoin launch targets institutional investors … [+2550 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "No BRICS asset pile big enough to rival dollar, Brazil central bank director says",
-      "Description": "The director acknowledged that alternative settlement tools could gain traction and help boost bilateral trade deals, but nowhere near enough to dislodge the dollar in any visible horizon",
-      "Url": "https://www.thehindubusinessline.com/markets/forex/no-brics-asset-pile-big-enough-to-rival-dollar-brazil-central-bank-director-says/article69596175.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/2xlrww/article69586606.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Euro__Ho_2_1_PPCJMJ46.jpg",
-      "PublishedAt": "2025-05-20T04:23:30Z",
-      "Content": "Brazil's central bank does not see any realistic prospect of emerging nations in the BRICS group creating markets large enough to topple the U.S. dollar's dominance within the next 10 years, monetary… [+2109 chars]"
     }
   ]
 }
