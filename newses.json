@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘aprovecha’ la caída del dólar: Tipo de cambio se ubica en 18.83 unidades",
+      "Description": "El dólar se vende en 19.31 unidades por dólar este lunes 16 de junio, en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/16/peso-dolar-hoy-16-de-junio-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YYJYD4NAVJB2JBY54ASCRUZJ6M.jpg?smart=true&auth=895d664a0be0052c333360eee1969e0b18a3dc8a271fb9222b3e38ee1750318e&width=1200&height=630",
+      "PublishedAt": "2025-06-16T16:31:15Z",
+      "Content": "El peso mexicano arranca la semana ampliando sus avances a medida que el dólar estadounidense pierde parte de su fortaleza, mientras los operadores se mantienen atentos al desenvolvimiento de los con… [+1688 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-06-11T11:02:00Z",
       "Content": "El dólar HOY 11 de junio inicia operaciones con el tipo de cambiointerbancario en 19.00 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg. \r\nEl peso… [+831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El BCE quiere posicionar el euro como competidor del dólar",
-      "Description": "El euro logró defender su papel como la segunda moneda más importante del mundo en 2024. Su influencia se mantuvo estable, según el último informe del Banco Central Europeo , y su participación en las reservas oficiales mundiales de divisas registró pocos cam…",
-      "Url": "https://www.abc.es/economia/bce-quiere-posicionar-euro-competidor-dolar-20250611111859-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/11/1497384023-U37261733342SUS-1024x512@diario_abc.jpg",
-      "PublishedAt": "2025-06-11T09:19:56Z",
-      "Content": "El euro logró defender su papel como la segunda moneda más importante del mundo en 2024. Su influencia se mantuvo estable, según el último informe del Banco Central Europeo, y su participación en las… [+4924 chars]"
     }
   ]
 }
