@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Fernando S. Monreal",
+      "Title": "El euro/dólar encadena 20 máximos anuales antes de enfrentarse al catalizador que amenaza su rumbo",
+      "Description": "El ejercicio prominente alcista que protagoniza el euro/dólar no está en tela de juicio. Bajo ningún concepto. De hecho, el cruce más negociado del mundo ha registrado en lo que va de ejercicio 20 nuevos máximos anuales -se revaloriza un XX% desde enero-, y a…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13418933/06/25/el-euro-dolar-encadena-20-maximos-anuales-antes-de-enfrentarse-al-catalizador-que-amenaza-su-rumbo.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/3862x2108/4/7/8/1200x655_euro-dolar-fed.jpg",
+      "PublishedAt": "2025-06-17T08:09:59Z",
+      "Content": "El ejercicio prominente alcista que protagoniza el euro/dólar no está en tela de juicio. Bajo ningún concepto. De hecho, el cruce más negociado del mundo ha registrado en lo que va de ejercicio 20 nu… [+3696 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-06-11T14:44:42Z",
       "Content": "El peso se apreciaba el miércoles, perforando la barrera clave de 19 por dólar, después de conocerse que los precios al consumidor (IPC) en Estados Unidos aumentaron moderadamente el mes pasado.\r\nEl … [+1421 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 11 de junio de 2025",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 11 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-11-de-junio-de-2025-nid11062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-11T14:23:06Z",
-      "Content": "Este miércoles 11 de junio de 2025, el precio del dólar en México es de $19,0518, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexican… [+2257 chars]"
     }
   ]
 }
