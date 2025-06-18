@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Trump ‘asusta al peso’ con advertencia a Irán: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Los activos de riesgo, como el peso, pierden durante este martes 17 de junio después de que el presidente Donald Trump dijo que Teherán deben 'ser evacuada de inmediato' ante más ataques de Israel.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/17/peso-dolar-precio-hoy-17-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/M56YXZBDDRGS7EP6WVGFRYNOMU.jpg?smart=true&auth=5209d08a0190730362ac67d662a93445f02d1bb897966012f3101bceb664932e&width=1200&height=630",
+      "PublishedAt": "2025-06-17T15:57:25Z",
+      "Content": "El peso mexicano pierde ante el dólar este martes 17 de junio debido a la mayor aversión al riesgo provocada por el mensaje de Donald Trump de que la capital de Irán debe ser evacuada por los ataques… [+1697 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae por conflicto Israel-Irán! Precio del dólar hoy 17 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este martes debido a crecientes preocupaciones por el conflicto entre Israel e Irán, con lo que el precio del dólar hoy 17 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce a…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-17-junio-2025-tipo-cambio-bancos-mexico/1722007",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/17/3325949.jpg",
+      "PublishedAt": "2025-06-17T15:06:48Z",
+      "Content": "El peso mexicano retrocede en la jornada de este martes debido a crecientes preocupaciones por el conflicto entre Israel e Irán, con lo que el precio del dólar hoy 17 de junio de 2025 cotiza en 18.95… [+1547 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/opinion/vertical/2017/10/15/1775399.jpg",
       "PublishedAt": "2025-06-12T06:52:23Z",
       "Content": "Por razones profesionales sigo los pronósticos de los economistas sobre distintas variables incluyendo el tipo de cambio. Ninguno preveía que, para mediados de este año, el peso se fortalecería de ta… [+4523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Fernando S. Monreal",
-      "Title": "El euro/dólar, en máximos de los últimos tres años y medio: La tensión comercial golpea al 'billete verde'",
-      "Description": "Los bajistas han cogido aire en las bolsas de EEUU y Europa después de que el presidente de EEUU, Donald Trump haya anunciado que establecerá aranceles unilaterales en dos semanas, algo que aumenta las tensiones comerciales.La última amenaza arancelaria del m…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13411159/06/25/el-euro-dolar-en-maximos-de-los-ultimos-tres-anos-y-medio-la-tension-comercial-golpea-al-billete-verde.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2121x1157/0/8/1/1200x655_dolar-fuego.jpg",
-      "PublishedAt": "2025-06-12T04:25:29Z",
-      "Content": "Los bajistas han cogido aire en las bolsas de EEUU y Europa después de que el presidente de EEUU, Donald Trump haya anunciado que establecerá aranceles unilaterales en dos semanas, algo que aumenta l… [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "El peso regresa al nivel de las 18 unidades por dólar",
-      "Description": "Forbes México.\n El peso regresa al nivel de las 18 unidades por dólar\n\nEl peso se ubica en 18.9224 unidades por dólar, nivel en el que no cerraba desde el 20 de agosto, según datos de Banxico.\nEl peso regresa al nivel de las 18 unidades por dólar\nForbes Staff",
-      "Url": "https://forbes.com.mx/el-peso-regresa-al-nivel-de-las-18-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-06-11T20:58:41Z",
-      "Content": "El peso rompió el piso de las 19 unidades por dólar al ubicarse en 18.9224, nivel en el que no cerraba desde el 20 de agosto, según datos de Banxico.\r\nCon el dato de hoy, el peso se apreció 0.76% res… [+64 chars]"
     }
   ]
 }
