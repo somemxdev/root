@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, martes 17 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-junio-nid17062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-17-de-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-17T14:26:40Z",
+      "Content": "Este martes 17 de junio de 2025, el precio del dólar en México es de $18,9083, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es influenciado… [+2046 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-06-11T20:58:41Z",
       "Content": "El peso rompió el piso de las 19 unidades por dólar al ubicarse en 18.9224, nivel en el que no cerraba desde el 20 de agosto, según datos de Banxico.\r\nCon el dato de hoy, el peso se apreció 0.76% res… [+64 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "fernando.davila",
-      "Title": "Sheinbaum celebra avance; peso mexicano cotizó por debajo de los 19 pesos por dólar",
-      "Description": "Fernando Dávila\r\nEn el arranque de su conferencia mañanera, la presidenta de México, Claudia Sheinbaum Pardo, celebró que el peso mexicano cotizó por debajo de los 19 pesos por dólar, un nivel que señaló no se veía desde hace semanas.\r\n\nTE PUEDE INTERESAR: Su…",
-      "Url": "https://www.excelsior.com.mx/nacional/sheinbaum-celebra-avance-peso-mexicano-cotizo-por-debajo-de-los-19-pesos-por-dolar/1720967",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/11/3322713.jpg",
-      "PublishedAt": "2025-06-11T17:25:52Z",
-      "Content": "En el arranque de su conferencia mañanera, la presidenta de México, Claudia Sheinbaum Pardo, celebró que el peso mexicano cotizó por debajo de los 19 pesos por dólar, un nivel que señaló no se veía d… [+1753 chars]"
     }
   ]
 }
