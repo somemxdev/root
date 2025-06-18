@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 17 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 17 de junio inicia operaciones con el tipo de cambio interbancario en 18.94pesos mexicanos por billete verde, con una ligera alza del 0.14 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer mientras los inversionistas vigilaba…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-06-17T11:07:00Z",
+      "Content": "El dólar HOY 17 de junio inicia operaciones con el tipo de cambio interbancario en 18.94 pesos mexicanos por billete verde, con una ligera alza del 0.14 por ciento, según datos de Bloomberg. \r\nEl pes… [+856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
       "PublishedAt": "2025-06-11T16:45:16Z",
       "Content": "El peso mexicano se apreciaba el miércoles, cotizando por debajo de la barrera clave de 19 por dólar por primera vez en más de nueve meses, después de conocerse que los precios al consumidor en Estad… [+2682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza y cotiza debajo de 19 unidades por dólar; BMV baja ligeramente",
-      "Description": "Forbes México.\n Peso avanza y cotiza debajo de 19 unidades por dólar; BMV baja ligeramente\n\nEl peso cotizaba en 18.9690 unidades, con una ganancia de un 0.46% frente a los 19.0560 pesos del precio de referencia de LSEG del martes.\nPeso avanza y cotiza debajo …",
-      "Url": "https://forbes.com.mx/peso-avanza-y-cotiza-debajo-de-19-unidades-por-dolar-bmv-baja-ligeramente/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-06-11T14:44:42Z",
-      "Content": "El peso se apreciaba el miércoles, perforando la barrera clave de 19 por dólar, después de conocerse que los precios al consumidor (IPC) en Estados Unidos aumentaron moderadamente el mes pasado.\r\nEl … [+1421 chars]"
     }
   ]
 }
