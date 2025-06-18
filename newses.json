@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "Emiliano Carrizo",
+      "Title": "El dólar cae a la espera de nuevas señales del Banco Central de Chile y de la Fed",
+      "Description": "El dólar en Chile busca anotar dos jornadas consecutivas a la baja.",
+      "Url": "https://www.latercera.com/pulso/noticia/el-valor-del-dolar-hoy-en-chile-8/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/LNTX4CAJLZGAFJCQTL2EWO7STA.jpg?auth=9d190a9c367914860440827b4cabd17409892544b709bb1efa29e47eb3112d08&height=630&width=1200&focal=600%2C315",
+      "PublishedAt": "2025-06-17T13:45:35Z",
+      "Content": "El dólar cae luego de no registrar grandes variaciones al inicio del día y a la espera de las señales del Banco Central de Chile y la Reserva Federal de Estados Unidos, entre otros factores que está … [+2209 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/11/3322713.jpg",
       "PublishedAt": "2025-06-11T17:25:52Z",
       "Content": "En el arranque de su conferencia mañanera, la presidenta de México, Claudia Sheinbaum Pardo, celebró que el peso mexicano cotizó por debajo de los 19 pesos por dólar, un nivel que señaló no se veía d… [+1753 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano está de vuelta; rompe barrera de 19 por dólar",
-      "Description": "El avance de la moneda ocurría además luego de que el presidente estadounidense Donald Trump anunció un acuerdo comercial con China.",
-      "Url": "https://aristeguinoticias.com/110625/dinero-y-economia/peso-mexicano-esta-de-vuelta-rompe-barrera-de-19-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
-      "PublishedAt": "2025-06-11T16:45:16Z",
-      "Content": "El peso mexicano se apreciaba el miércoles, cotizando por debajo de la barrera clave de 19 por dólar por primera vez en más de nueve meses, después de conocerse que los precios al consumidor en Estad… [+2682 chars]"
     }
   ]
 }
