@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cede terreno pese a mantener leve avance frente al dólar; BMV avanza ligeramente",
+      "Description": "Forbes México.\n Peso cede terreno pese a mantener leve avance frente al dólar; BMV avanza ligeramente\n\nEl tipo de cambio se ajustó ante el fortalecimiento del dólar y expectativas inflacionarias en EU.\nPeso cede terreno pese a mantener leve avance frente al d…",
+      "Url": "https://forbes.com.mx/peso-cede-terreno-pese-a-mantener-leve-avance-frente-al-dolar-bmv-avanza-ligeramente/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso.webp",
+      "PublishedAt": "2025-06-18T22:03:26Z",
+      "Content": "El peso borró el miércoles sus ganancias iniciales ante un fortalecimiento generalizado del dólar después de que la Reserva Federal estadounidense mantuvo sin cambios los tipos de interés, como antic… [+1740 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/12/3323355.jpg",
       "PublishedAt": "2025-06-12T15:12:26Z",
       "Content": "El peso mexicano registra pocos cambios en la jornada de este jueves, con lo que el precio del dólar hoy 12 de junio de 2025 cotiza en 18.91 unidades por cada billete verde; conoce aquí cuál es el ti… [+1361 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
-      "Title": "El euro se fortalece frente al dólar y escala a máximos desde finales de 2021",
-      "Description": "El euro se fortalece frente al dólar. Este jueves, la cotización de la divisa común llega a superar el nivel de los 1,16 dólares, algo que no pasaba desde noviembre de 2021.",
-      "Url": "https://www.bolsamania.com/noticias/mercados/euro-fortalece-dolar-maximos-finales-2021--19992384.html",
-      "UrlToImage": "https://img5.s3wfg.com/web/img/images_uploaded/0/5/ep_divisas.jpg",
-      "PublishedAt": "2025-06-12T12:00:54Z",
-      "Content": "El euro se fortalece frente al dólar. Este jueves, la cotización de la divisa común llega a superar el nivel de los 1,16 dólares, algo que no pasaba desde noviembre de 2021.\r\nPara los analistas de IN… [+2554 chars]"
     }
   ]
 }
