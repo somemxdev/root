@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 18 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 18 de junio inicia operaciones con el tipo de cambio interbancario en 18.95 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión debido a c…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-06-18T11:04:00Z",
+      "Content": "El dólar HOY 18 de junio inicia operaciones con el tipo de cambio interbancario en 18.95 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.\r\nEl peso… [+859 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2025-06-12T11:07:00Z",
       "Content": "El dólar HOY 12 de junio inicia operaciones con el tipo de cambio interbancario en 18.88 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+801 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Rompe el peso la barrera sicológica de $19 por dólar",
-      "Description": "El peso mexicano rompió ayer la barrera sicológica de 19 unidades por dólar spot, al cerrar en 18.9224 por dólar, con una apreciación diaria de 0.76 por ciento, beneficiado del escaso efecto de los aranceles sobre la inflación en Estados Unidos y el acuerdo p…",
-      "Url": "https://www.jornada.com.mx/2025/06/12/economia/015n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-12T10:54:07Z",
-      "Content": "Periódico La JornadaJueves 12 de junio de 2025, p. 15\r\nEl peso mexicano rompió ayer la barrera sicológica de 19 unidades por dólar spot, al cerrar en 18.9224 por dólar, con una apreciación diaria de … [+2508 chars]"
     }
   ]
 }
