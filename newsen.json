@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Farther Finance Advisors LLC Grows Holdings in Dollar General Corporation (NYSE:DG)",
+      "Description": "Farther Finance Advisors LLC grew its holdings in shares of Dollar General Corporation (NYSE:DG – Free Report) by 48.9% in the 1st quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The fund owned 3,29…",
+      "Url": "https://www.etfdailynews.com/2025/06/18/farther-finance-advisors-llc-grows-holdings-in-dollar-general-corporation-nysedg/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2025-06-18T07:27:03Z",
+      "Content": "Farther Finance Advisors LLC grew its holdings in shares of Dollar General Corporation (NYSE:DG – Free Report) by 48.9% in the 1st quarter, according to the company in its most recent 13F filing with… [+6290 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/05/burke.jpg",
       "PublishedAt": "2025-05-20T14:30:54Z",
       "Content": "Admiral Robert Burke was convicted of bribery, among other charges, today. Photo courtest of Navy.mil\r\nThe Department of Justice today announced the conviction of 62 year-old retired Navy Admiral Rob… [+5273 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Vivian Nguyen",
-      "Title": "French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum",
-      "Description": "SG Forge's stablecoin launch could accelerate the integration of regulated digital assets into mainstream finance, enhancing global liquidity.\nThe post French banking giant to launch world’s first bank-issued dollar stablecoin on Ethereum appeared first on Cr…",
-      "Url": "https://cryptobriefing.com/dollar-stablecoin-launch-ethereum/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/05/20093812/ed58ebd7-627b-487e-bf42-a376b9c59e82-800x420.jpg",
-      "PublishedAt": "2025-05-20T13:41:08Z",
-      "Content": "Key Takeaways\r\n<ul><li>Société Générale's crypto subsidiary SG Forge is introducing the first bank-issued dollar stablecoin on Ethereum.</li><li>The stablecoin launch targets institutional investors … [+2550 chars]"
     }
   ]
 }
