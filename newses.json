@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana! Precio del dólar hoy 18 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en la jornada de este miércoles previo a la decisión de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 18 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce aquí cuá…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-18-junio-2025-tipo-cambio-bancos-mexico/1722249",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/18/3326735.jpg",
+      "PublishedAt": "2025-06-18T14:54:12Z",
+      "Content": "El peso mexicano se aprecia en la jornada de este miércoles previo a la decisión de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 18 de junio de 2025 cotiza en 18.95 unidad… [+1338 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 18 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 18 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-18-de-junio-nid18062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-18T14:26:53Z",
+      "Content": "Este miércoles 18 de junio de 2025, el precio del dólar en México es de $18,9872, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexican… [+2220 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img5.s3wfg.com/web/img/images_uploaded/0/5/ep_divisas.jpg",
       "PublishedAt": "2025-06-12T12:00:54Z",
       "Content": "El euro se fortalece frente al dólar. Este jueves, la cotización de la divisa común llega a superar el nivel de los 1,16 dólares, algo que no pasaba desde noviembre de 2021.\r\nPara los analistas de IN… [+2554 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Europa Press",
-      "Title": "El euro asalta máximos desde 2021 frente al dólar ante las políticas de Trump",
-      "Description": "La moneda europea se revaloriza ya más de un 11% desde la toma de posesión de Donald Trump como presidente de Estado Unidos el pasado 20 de enero",
-      "Url": "https://www.elconfidencial.com/mercados/2025-06-12/euro-alcanza-maximos-desde-noviembre-de-2021_4149960/",
-      "UrlToImage": "https://images.ecestaticos.com/n4Zmrr0o1iP--8eb37ri_s5J00k=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/1b8/b9c/d86/1b8b9cd86aa65c916a051f0b404f6b4a.jpg",
-      "PublishedAt": "2025-06-12T11:38:00Z",
-      "Content": "El cambio del euro frente al dólar volvía a fortalecerse este jueves ante las erráticas políticas comerciales del presidente estadounidense, Donald Trump, que permitían a la moneda común europea supe… [+1477 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 12 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 12 de junio inicia operaciones con el tipo de cambio interbancario en 18.88pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba al inicio de la sesión, perforando la bar…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2025-06-12T11:07:00Z",
-      "Content": "El dólar HOY 12 de junio inicia operaciones con el tipo de cambio interbancario en 18.88 pesos mexicanos por billete verde, con una ligera baja del 0.16 por ciento, según datos de Bloomberg. \r\nEl pes… [+801 chars]"
     }
   ]
 }
