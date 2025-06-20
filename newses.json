@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso extiende pérdidas ante el dólar en día feriado en EU: ¿Cuánto pierde HOY?",
+      "Description": "El peso mexicano rebasó el piso de las 19 unidades ante el dólar esta semana debido a la incertidumbre creada por el conflicto entre Israel e Irán.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/19/peso-dolar-precio-hoy-19-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GCZDZJO4QBGX3FSLXD53LPSMZU.jpg?smart=true&auth=254deb06f20d579bdaf1f319a983a61e4e6ebfa91cd378ca63399586c2e07801&width=1200&height=630",
+      "PublishedAt": "2025-06-19T15:32:36Z",
+      "Content": "El peso mexicano extiende sus pérdidas ante el dólar en un día con menor liquidez debido al feriado del Día de la Emancipación en Estados Unidos. \r\nLos inversionistas también están estresados por la … [+1645 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-06-13T02:13:32Z",
       "Content": "El ataque de Israel a Irán expulsó al peso del nivel de las 18 unidades por dólar, pues la ofensiva hizo que la divisa estadounidense junto con el yen japonés y el franco suizo subieran al ser consid… [+2081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano frena avance tras perforar barrera 19 unidades por dólar",
-      "Description": "El peso mexicano tuvo un retroceso marginal de 0.01 por ciento, cerrando la jornada en 18.90 unidades por dólar, este jueves 12 de junio de 2025.La sesión estuvo marcada por un débil entorno para los activos de riesgo ante señales de crecientes tensiones en M…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-12-junio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
-      "PublishedAt": "2025-06-12T20:20:50Z",
-      "Content": "El peso mexicano tuvo un retroceso marginal de 0.01 por ciento, cerrando la jornada en 18.90 unidades por dólar, este jueves 12 de junio de 2025.\r\nLa sesión estuvo marcada por un débil entorno para l… [+730 chars]"
     }
   ]
 }
