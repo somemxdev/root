@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 20 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 20 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-20-de-junio-nid20062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-20-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-20T13:57:51Z",
+      "Content": "Este viernes 20 de junio de 2025, el precio del dólar en México es de $19,0898, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es afectado po… [+2105 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-13-de-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-13T14:02:44Z",
       "Content": "Este viernes 13 de junio de 2025,el precio del dólar en México es de $18,9068, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano s… [+2297 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 13 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 13 de junio inicia operaciones con el tipo de cambio interbancario en 19.X01 pesos mexicanos por billete verde, con una ligera ganancia del 0.69 por ciento, según datos de Bloomberg.El peso mexicano registraba pocos cambios después de que se fort…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-06-13T11:16:49Z",
-      "Content": "El dólar HOY 13 de junio inicia operaciones con el tipo de cambio interbancario en 19.X01 pesos mexicanos por billete verde, con una ligera ganancia del 0.69 por ciento, según datos de Bloomberg. \r\nE… [+828 chars]"
     }
   ]
 }
