@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Cierra peso en 19.04 por dólar spot; sube el petróleo",
+      "Description": "Los mercados mexicanos tuvieron una sesión negativa ayer, sin referencia con los estadunidenses, en un entorno de cautela por eventos geopolíticos que siguen impulsando los precios del crudo.",
+      "Url": "https://www.jornada.com.mx/2025/06/20/economia/020n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-20T08:11:12Z",
+      "Content": "Periódico La JornadaViernes 20 de junio de 2025, p. 20\r\nLos mercados mexicanos tuvieron una sesión negativa ayer, sin referencia con los estadunidenses, en un entorno de cautela por eventos geopolíti… [+1017 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img6.s3wfg.com/web/img/images_uploaded/e/6/euros_banknotes_eurozone_single_currency_ecb_euro_opt_1.jpg",
       "PublishedAt": "2025-06-13T04:00:00Z",
       "Content": "El euro ha tenido un buen desempeño esta semana, cotizando, en su cruce con el dólar, en niveles que no visitaba desde 2021. Los analistas creen que la divisa europea es la \"gran beneficiada\" de la d… [+6076 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso trepa de nuevo a las 19 unidades por dólar tras ataque de Israel a Irán",
-      "Description": "Forbes México.\n Peso trepa de nuevo a las 19 unidades por dólar tras ataque de Israel a Irán\n\nLa ofensiva hace que la divisa estadounidense junto con el yen japonés y el franco suizo suban al ser considerados activos refugio seguros.\nPeso trepa de nuevo a las…",
-      "Url": "https://forbes.com.mx/peso-trepa-de-nuevo-a-las-19-unidades-por-dolar-tras-ataque-de-israel-a-iran/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-06-13T02:13:32Z",
-      "Content": "El ataque de Israel a Irán expulsó al peso del nivel de las 18 unidades por dólar, pues la ofensiva hizo que la divisa estadounidense junto con el yen japonés y el franco suizo subieran al ser consid… [+2081 chars]"
     }
   ]
 }
