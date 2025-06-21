@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Gustavo Godoy",
+      "Title": "Dólar Fuerte: ¿Beneficio o lastre para México?",
+      "Description": "El dólar fuerte en México: ¿impulso a exportaciones y remesas, o lastre inflacionario y de deuda?\n Imagina por un momento a un productor de aguacates en Michoacán o a una planta ensambladora de autopartes en Nuevo León. Para ellos, un dólar fuerte puede ser m…",
+      "Url": "https://es.cointelegraph.com/news/a-strong-dollar-benefit-or-burden-for-mexico",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/c01c481318031dcbe6247093839cd6c6.jpg",
+      "PublishedAt": "2025-06-20T19:03:00Z",
+      "Content": "Imagina por un momento a un productor de aguacates en Michoacán o a una planta ensambladora de autopartes en Nuevo León. Para ellos, un dólar fuerte puede ser música para sus oídos. Si el dólar vale … [+6986 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7DU7DTBFKZECJMVN233RMYAF6E.jpg?smart=true&auth=8db8fa45ba5fb3efa9a8003feaeda8a4090e603a0537344301002912af9dfffe&width=1200&height=630",
       "PublishedAt": "2025-06-13T15:03:26Z",
       "Content": "El ataque de Israel a Irán, que disparó los precios del petróleo, provoca que los inversionistas huyan de los activos de riesgo, entre ellos el peso, por lo que la moneda mexicana se deprecia ante el… [+2132 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Ataque de Israel a Irán le 'pega' al peso! Precio del dólar hoy 13 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se debilita ante un ambiente adverso para los activos de riesgo luego del ataque de Israel contra Irán, con lo que el precio del dólar hoy 13 de junio de 2025 cotiza en 19.06 unidades por cada billete verde; conoce aquí cuál…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-13-junio-2025-tipo-cambio-bancos-mexico/1721403",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/13/3324061.jpg",
-      "PublishedAt": "2025-06-13T15:02:11Z",
-      "Content": "El peso mexicano se debilita ante un ambiente adverso para los activos de riesgo luego del ataque de Israel contra Irán, con lo que el precio del dólar hoy 13 de junio de 2025 cotiza en 19.06 unidade… [+1365 chars]"
     }
   ]
 }
