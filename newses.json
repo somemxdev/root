@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 20 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 20 de junio inicia operaciones con el tipo de cambio interbancario en 19.02 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, alcanzando sus peores niveles desde in…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-06-20T11:10:00Z",
+      "Content": "Eldólar HOY 20 de junio inicia operaciones con el tipo de cambio interbancario en 19.02 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.  \r\nEl pes… [+823 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-06-13T11:16:49Z",
       "Content": "El dólar HOY 13 de junio inicia operaciones con el tipo de cambio interbancario en 19.X01 pesos mexicanos por billete verde, con una ligera ganancia del 0.69 por ciento, según datos de Bloomberg. \r\nE… [+828 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "irene.hernandez@vortexmedia.es (Irene Hernández)",
-      "Title": "\"Todo el mundo ama el euro\": es el \"gran beneficiado\" de un dólar débil y puede llegar a 1,25",
-      "Description": "El euro ha tenido un buen desempeño esta semana, cotizando, en su cruce con el dólar, en niveles que no visitaba desde 2021. Los analistas creen que la divisa europea es la \"gran beneficiada\" de la debilidad de la moneda estadounidense. Las previsiones de alg…",
-      "Url": "https://www.bolsamania.com/noticias/mercados/todo-mundo-ama-euro-llegar-125-gran-beneficiado-dolar-debil-eurusd--19995578.html",
-      "UrlToImage": "https://img6.s3wfg.com/web/img/images_uploaded/e/6/euros_banknotes_eurozone_single_currency_ecb_euro_opt_1.jpg",
-      "PublishedAt": "2025-06-13T04:00:00Z",
-      "Content": "El euro ha tenido un buen desempeño esta semana, cotizando, en su cruce con el dólar, en niveles que no visitaba desde 2021. Los analistas creen que la divisa europea es la \"gran beneficiada\" de la d… [+6076 chars]"
     }
   ]
 }
