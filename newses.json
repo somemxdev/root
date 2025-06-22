@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra semana con alza considerable",
+      "Description": "El tipo de cambio abrió la semana con un valor de ¢504,50 y se mantuvo al alza en las jornadas posteriores.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-con-fuerte/TYJ66RPKQJE3ZEOC47SJTS3ZD4/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
+      "PublishedAt": "2025-06-21T14:15:00Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana con una significativa alza en su cotización en el Mercado de Monedas Extranjeras (Monex), respecto al nivel observado el viernes anteri… [+2370 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-06-14T08:37:17Z",
       "Content": "Periódico La JornadaSábado 14 de junio de 2025, p. 13\r\nPese al deterioro en la confianza de los inversionistas en la recta final de la semana, en medio de temas geopolíticos y comerciales, el peso me… [+1566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Conflicto Israel-Irán: ¿Cómo afecta al precio del petróleo, tipo de cambio peso mexicano-dólar, oro y más?",
-      "Description": "Luego de que Israel lanzó ataques contra Irán, los precios del petróleose dispararon; en México, el mercado bursátil reaccionó a la baja, mientras que el peso mexicano recortó sus ganancias, un panorama que resulta poco alentador para la economía nacional, y …",
-      "Url": "https://www.milenio.com/negocios/conflicto-israel-iran-afecta-al-petroleo-peso-mexicano-y-mas",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-06-13T18:01:00Z",
-      "Content": "Luego de que Israel lanzó ataques contraIrán, los precios del petróleo se dispararon; en México, el mercado bursátil reaccionó a la baja, mientras que el peso mexicano recortó sus ganancias, un panor… [+7130 chars]"
     }
   ]
 }
