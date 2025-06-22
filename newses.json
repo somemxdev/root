@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 21 de junio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de junio el tipo de cambio interbancario, se ubica en 19.17 pesos por unidad, con una subida del 0.72 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-06-21T12:57:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de junio el tipo de cambio interbancario, se ubica en 19.17 pesos por unidad, con una subida del 0.72 por ciento,… [+1931 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-06-13T18:01:00Z",
       "Content": "Luego de que Israel lanzó ataques contraIrán, los precios del petróleo se dispararon; en México, el mercado bursátil reaccionó a la baja, mientras que el peso mexicano recortó sus ganancias, un panor… [+7130 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se debilita tras ataque israelí a Irán; regresa arriba de 19 unidades por dólar",
-      "Description": "Forbes México.\n Peso se debilita tras ataque israelí a Irán; regresa arriba de 19 unidades por dólar\n\nEl peso cotizaba en 19.0629 unidades, luego de dos jornadas negociándose por debajo de la barrera clave de 19 por dólar.\nPeso se debilita tras ataque israelí…",
-      "Url": "https://forbes.com.mx/peso-se-debilita-tras-ataque-israeli-a-iran-regresa-arriba-de-19-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
-      "PublishedAt": "2025-06-13T15:04:18Z",
-      "Content": "El peso se depreciaba el viernes poco más del 1% arrastrado por ambiente adverso para los activos de riesgo después de que Israel lanzara ataques contra objetivos militares en Irán, desatando las rep… [+785 chars]"
     }
   ]
 }
