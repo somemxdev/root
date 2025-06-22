@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La rara moneda de un dólar que puede valer hasta US$720 mil: qué la hace tan especial",
+      "Description": "Una moneda de un dólar acuñada en 1854 en Filadelfia podría alcanzar los US$720.000 por su rareza y estado de conservación; los expertos destacan sus detalles únicos y su valor como pieza de prueba histórica.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-rara-moneda-de-un-dolar-que-puede-valer-hasta-us720-mil-que-la-hace-tan-especial-nid21062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-oro-puede-valer-cientos-de-miles-IZFGPTJMUZHONGCHXQNTFAPFBU.jpg?auth=599ea2b3273ab3c635a049ea550c0564c9c203a8e51f7a2e5ab58b81639b4d67&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-21T08:14:00Z",
+      "Content": "La historia del dólar de oro estadounidense está marcada por acontecimientos clave como la Fiebre del Oro de California y los ajustes en la política monetaria del siglo XIX. Entre estas monedas histó… [+2329 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano.webp",
       "PublishedAt": "2025-06-13T15:04:18Z",
       "Content": "El peso se depreciaba el viernes poco más del 1% arrastrado por ambiente adverso para los activos de riesgo después de que Israel lanzara ataques contra objetivos militares en Irán, desatando las rep… [+785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Ataques de Israel a Irán hacen ‘temblar’ al peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Los ataques de Israel contra una planta de enriquecimiento de uranio de Irán provocó la muerte al líder de la Guardia Revolucionaria. ¿Cómo se comporta el peso por la volatilidad?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/13/peso-dolar-precio-hoy-13-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7DU7DTBFKZECJMVN233RMYAF6E.jpg?smart=true&auth=8db8fa45ba5fb3efa9a8003feaeda8a4090e603a0537344301002912af9dfffe&width=1200&height=630",
-      "PublishedAt": "2025-06-13T15:03:26Z",
-      "Content": "El ataque de Israel a Irán, que disparó los precios del petróleo, provoca que los inversionistas huyan de los activos de riesgo, entre ellos el peso, por lo que la moneda mexicana se deprecia ante el… [+2132 chars]"
     }
   ]
 }
