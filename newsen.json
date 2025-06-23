@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,45 +353,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-05-22T08:06:53Z",
       "Content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "US, Japan finance chiefs say current dollar-yen reflects fundamentals",
-      "Description": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Treasury Department said.\"They reaffirmed their shared belief th…",
-      "Url": "https://www.channelnewsasia.com/business/us-japan-finance-chiefs-say-current-dollar-yen-reflects-fundamentals-5145661",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--M0b2X32N--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-21t224231z_1_lynxmpel4k14i_rtroptp_3_imf-worldbank-japan-yen.jpg?itok=8teuUToC",
-      "PublishedAt": "2025-05-21T22:42:31Z",
-      "Content": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Trea… [+984 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "US, Japan finance chiefs agree current dollar-yen reflects fundamentals",
-      "Description": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Treasury Department said, a rare and explicit statement on the m…",
-      "Url": "https://www.channelnewsasia.com/business/us-japan-finance-chiefs-agree-current-dollar-yen-reflects-fundamentals-5145661",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--M0b2X32N--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-21t224231z_1_lynxmpel4k14i_rtroptp_3_imf-worldbank-japan-yen.jpg?itok=8teuUToC",
-      "PublishedAt": "2025-05-21T22:42:31Z",
-      "Content": "BANFF, Alberta :U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflects fundamentals, the U.S. Trea… [+2197 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Makiko Yamazaki",
-      "Title": "US, Japan finance chiefs say current dollar-yen reflects fundamentals",
-      "Description": "BANFF, Alberta (Reuters) -U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange...",
-      "Url": "https://finance.yahoo.com/news/us-japan-finance-chiefs-current-224231835.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/66b629fafe91c052e966223c0f2d5d3f",
-      "PublishedAt": "2025-05-21T22:42:31Z",
-      "Content": "By Makiko Yamazaki\r\nBANFF, Alberta (Reuters) -U.S. Treasury Secretary Scott Bessent and Japanese Finance Minister Katsunobu Kato agreed on Wednesday that the dollar-yen exchange rate currently reflec… [+1132 chars]"
     }
   ]
 }
