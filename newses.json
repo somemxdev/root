@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "Ataque de EU a Irán beneficia al dólar: Moneda estadounidense recobra fuerza",
+      "Description": "Los mercados se preparan para una caída de las acciones y un aumento en los precios del crudo y del oro, ya que los bombardeos alimentan la demanda de seguridad y la preocupación por el suministro energético.",
+      "Url": "https://www.elfinanciero.com.mx/bloomberg/2025/06/22/ataque-de-eu-a-iran-beneficia-al-dolar-moneda-estadounidense-recobra-fuerza/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WCKUWEUUNFFXJFSE62OSJT32CA.jpg?smart=true&auth=0d64272e0c80dc99e341d4f8300075a8dd64fa643cf5408d2811fc3312e4aef1&width=1200&height=630",
+      "PublishedAt": "2025-06-22T21:47:04Z",
+      "Content": "El dólar se fortaleció en las primeras operaciones, ya que los inversores buscaron refugios para protegerse de los crecientes riesgos geopolíticos tras los ataques estadounidenses contra Irán.\r\nLa mo… [+4218 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-06-14T12:47:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de junio el tipo de cambio interbancario, se ubica en 18.95 pesos por unidad, con una ganancia del 0.40 por cient… [+2417 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Resiste peso volatilidad y logra segunda semana de ganancia; cierra en 18.93 por dólar",
-      "Description": "Pese al deterioro en la confianza de los inversionistas en la recta final de la semana, en medio de temas geopolíticos y comerciales, el peso mexicano logró esquivar la aversión al riesgo al alargar sus ganancias por segunda semana consecutiva y cerrar por de…",
-      "Url": "https://www.jornada.com.mx/2025/06/14/economia/013n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-14T08:37:17Z",
-      "Content": "Periódico La JornadaSábado 14 de junio de 2025, p. 13\r\nPese al deterioro en la confianza de los inversionistas en la recta final de la semana, en medio de temas geopolíticos y comerciales, el peso me… [+1566 chars]"
     }
   ]
 }
