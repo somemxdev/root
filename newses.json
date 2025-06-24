@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 23 de junio de 2025: ¿Cuál es el tipo de cambio en México en medio del conflicto Israel-Irán?",
+      "Description": "El dólarHOY 23 de junio inicia operaciones con el tipo de cambio interbancario en 19.23 pesos mexicanos por billete verde, con una ligera alza del 0.32 por ciento, según datos de Bloomberg.El mercado está atento a la respuesta de Irán después de que Donald Tr…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso.jpeg",
+      "PublishedAt": "2025-06-23T10:59:00Z",
+      "Content": "El dólar HOY 23 de junio inicia operaciones con el tipo de cambio interbancario en 19.23 pesos mexicanos por billete verde, con una ligera alza del 0.32 por ciento, según datos de Bloomberg. \r\nEl mer… [+873 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-06-16T10:57:10Z",
       "Content": "Eldólar HOY 16 de junio inicia operaciones con el tipo de cambio interbancario en 18.89 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. \r\nEl peso… [+826 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 14 de junio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de junio el tipo de cambio interbancario, se ubica en 18.95 pesos por unidad, con una ganancia del 0.40 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bols…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-06-14T12:47:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de junio el tipo de cambio interbancario, se ubica en 18.95 pesos por unidad, con una ganancia del 0.40 por cient… [+2417 chars]"
     }
   ]
 }
