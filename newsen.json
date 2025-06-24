@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": null,
+      "Title": "Fiserv debuts bank-friendly stablecoin as fintechs join digital dollar race",
+      "Description": "The launch coincides with growing momentum in Congress, as the Senate’s passage of the Genius Act signals rising institutional support for stablecoins.",
+      "Url": "https://www.cnbc.com/2025/06/23/fiserv-stablecoin-digital-dollar.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108067125-1732301547621-gettyimages-1236251599-porzycki-itcompan211030_npbuy.jpeg?v=1732301595&w=1920&h=1080",
+      "PublishedAt": "2025-06-23T16:54:02Z",
+      "Content": "Fiserv is making a big entrance into the stablecoin market. \r\nThe payments and fintech giant announced on Monday plans to roll out a new blockchain-based digital asset platform anchored by a U.S. dol… [+2646 chars]"
+    },
     {
       "Source": {
         "Id": null,
