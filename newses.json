@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Nicolás Castillo Arévalo",
+      "Title": "Tipo de cambio hoy: Dólar cierra a la baja en S/3.593, por ola vendedora de inversores",
+      "Description": "La cotización retrocedió frente al sol pese a una apertura al alza, en medio de ventas corporativas y un contexto internacional marcado por incertidumbre económica.",
+      "Url": "https://peru21.pe/economia/tipo-de-cambio-hoy-dolar-cierra-la-baja-en-s3593-por-ola-vendedora-de-inversores/",
+      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2025-01/dolar-andina.jpg?itok=Ula2mQFs",
+      "PublishedAt": "2025-06-23T21:09:52Z",
+      "Content": "El tipo de cambio cerró la jornada de hoy en S/3.593, mostrando una caída de 90 puntos respecto al cierre del viernes, cuando se ubicó en S/3.602.\r\nAllisson Pérez, trader de divisas en Renta4 SAB, so… [+1380 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YYJYD4NAVJB2JBY54ASCRUZJ6M.jpg?smart=true&auth=895d664a0be0052c333360eee1969e0b18a3dc8a271fb9222b3e38ee1750318e&width=1200&height=630",
       "PublishedAt": "2025-06-16T16:31:15Z",
       "Content": "El peso mexicano arranca la semana ampliando sus avances a medida que el dólar estadounidense pierde parte de su fortaleza, mientras los operadores se mantienen atentos al desenvolvimiento de los con… [+1688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso repunta! Precio del dólar hoy 16 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano repunta en la jornada de este lunes, con lo que el precio del dólar hoy 16 de junio de 2025 cotiza en 18.84 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana reg…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-16-junio-2025-tipo-cambio-bancos-mexico/1721803",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/16/3325274.jpg",
-      "PublishedAt": "2025-06-16T14:17:05Z",
-      "Content": "El peso mexicano repunta en la jornada de este lunes, con lo que el precio del dólar hoy 16 de junio de 2025 cotiza en 18.84 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en … [+1562 chars]"
     }
   ]
 }
