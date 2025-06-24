@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 23 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 23 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-23-de-junio-nid23062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-23-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-23T13:55:09Z",
+      "Content": "Este lunes 23 de junio de 2025, el precio del dólar en México es de $19,1458, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2144 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-16-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-16T14:15:29Z",
       "Content": "Este lunes 16 de junio de 2025, el precio del dólar en México es de $18,9302, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es impactado por… [+2142 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY lunes 16 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 16 de junio inicia operaciones con el tipo de cambio interbancario en 18.89 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba el viernes con poco más de 1 por ciento…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-06-16T10:57:10Z",
-      "Content": "Eldólar HOY 16 de junio inicia operaciones con el tipo de cambio interbancario en 18.89 pesos mexicanos por billete verde, con una ligera baja del 0.36 por ciento, según datos de Bloomberg. \r\nEl peso… [+826 chars]"
     }
   ]
 }
