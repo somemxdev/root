@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 24 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 24 de junio inicia operaciones con el tipo de cambio interbancario en 19.03pesos mexicanos por billete verde, con una considerable baja del 0.46 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión ante u…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-1.jpeg",
+      "PublishedAt": "2025-06-24T11:08:00Z",
+      "Content": "El dólar HOY 24 de junio inicia operaciones con el tipo de cambio interbancario en 19.03 pesos mexicanos por billete verde, con una considerable baja del 0.46 por ciento, según datos de Bloomberg. \r\n… [+820 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
       "PublishedAt": "2025-06-16T20:28:41Z",
       "Content": "El peso mexicano avanzó con 0.20 por ciento, iniciando la semana en 18.90 unidades por dólar, este lunes 16 de junio de 2025.\r\nEsto ocurrió ante un debilitamiento del dólar por preocupaciones sobre e… [+2443 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘aprovecha’ la caída del dólar: Tipo de cambio se ubica en 18.83 unidades",
-      "Description": "El dólar se vende en 19.31 unidades por dólar este lunes 16 de junio, en ventanillas bancarias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/16/peso-dolar-hoy-16-de-junio-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YYJYD4NAVJB2JBY54ASCRUZJ6M.jpg?smart=true&auth=895d664a0be0052c333360eee1969e0b18a3dc8a271fb9222b3e38ee1750318e&width=1200&height=630",
-      "PublishedAt": "2025-06-16T16:31:15Z",
-      "Content": "El peso mexicano arranca la semana ampliando sus avances a medida que el dólar estadounidense pierde parte de su fortaleza, mientras los operadores se mantienen atentos al desenvolvimiento de los con… [+1688 chars]"
     }
   ]
 }
