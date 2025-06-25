@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Tregua beneficia al peso: vuelve al nivel de las 18 unidades por dólar",
+      "Description": "Forbes México.\n Tregua beneficia al peso: vuelve al nivel de las 18 unidades por dólar\n\nEl tipo de cambio se ubica en 18.9930 al cierre, según Banxico; una resolución temporal del conflicto entre Israel e Irán y la debilidad del dólar, entre los factores.\nTre…",
+      "Url": "https://forbes.com.mx/tregua-beneficia-al-peso-vuelve-al-nivel-de-las-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-06-24T22:03:20Z",
+      "Content": "Ciudad de México.- El peso volvió a ubicarse por debajo de las 19 unidades por dólar, impulsado por un mejor ambiente para los activos de riesgo después de que el presidente Trump anunciara en la vís… [+3030 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-17-de-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-17T14:26:40Z",
       "Content": "Este martes 17 de junio de 2025, el precio del dólar en México es de $18,9083, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es influenciado… [+2046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Emiliano Carrizo",
-      "Title": "El dólar cae a la espera de nuevas señales del Banco Central de Chile y de la Fed",
-      "Description": "El dólar en Chile busca anotar dos jornadas consecutivas a la baja.",
-      "Url": "https://www.latercera.com/pulso/noticia/el-valor-del-dolar-hoy-en-chile-8/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/LNTX4CAJLZGAFJCQTL2EWO7STA.jpg?auth=9d190a9c367914860440827b4cabd17409892544b709bb1efa29e47eb3112d08&height=630&width=1200&focal=600%2C315",
-      "PublishedAt": "2025-06-17T13:45:35Z",
-      "Content": "El dólar cae luego de no registrar grandes variaciones al inicio del día y a la espera de las señales del Banco Central de Chile y la Reserva Federal de Estados Unidos, entre otros factores que está … [+2209 chars]"
     }
   ]
 }
