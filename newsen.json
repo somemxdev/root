@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Lana DeGaetano, Lana DeGaetano",
+      "Title": "‘I loaned them money twice… they haven't paid a dollar back’: Entitled parents shame 22-year-old daughter for buying her boyfriend an expensive birthday gift, insist she could've given them the money for bills instead",
+      "Description": "Parents are supposed to provide for their children, even if the budget is tight. Their children didn't ask to be born into this world, so it's only right that you make their lives a bit easier while they're figuring out how to exist as a person. Yes, finances…",
+      "Url": "https://cheezburger.com/41086725/i-loaned-them-money-twice-they-havent-paid-a-dollar-back-entitled-parents-shame-22-year-old-daughter",
+      "UrlToImage": "https://i.chzbgr.com/thumb1200/41086725/hB3EFA4C5/reddit-thread-story-parenting-parenting-fail-parents-entitled-parent-entitled-people-entitlement",
+      "PublishedAt": "2025-06-24T18:00:00Z",
+      "Content": "Parents are supposed to provide for their children, even if the budget is tight. Their children didn't ask to be born into this world, so it's only right that you make their lives a bit easier while … [+900 chars]"
+    },
     {
       "Source": {
         "Id": null,
