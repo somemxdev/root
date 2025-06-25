@@ -6,6 +6,32 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso gana tras tregua entre Israel e Irán! Precio del dólar hoy 24 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza tras el alto al fuego entre Israel e Irán, con lo que el precio del dólar hoy 24 de junio de 2025 cotiza en 19.04 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-junio-2025-tipo-cambio-bancos-mexico/1723325",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/24/3330266.jpg",
+      "PublishedAt": "2025-06-24T14:26:13Z",
+      "Content": "El peso mexicano avanza tras el alto al fuego entre Israel e Irán, con lo que el precio del dólar hoy 24 de junio de 2025 cotiza en 19.04 unidades por cada billete verde; conoce aquí cuál es el tipo … [+1476 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 24 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, martes 24 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-24-de-junio-nid24062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-24-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-06-24T14:18:34Z",
+      "Content": "Este martes 24 de junio de 2025, el precio del dólar en México es de $19,1527, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2148 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Milenio"
       },
       "Author": "Miriam Ramírez,Karla Vázquez",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-06-17T11:07:00Z",
       "Content": "El dólar HOY 17 de junio inicia operaciones con el tipo de cambio interbancario en 18.94 pesos mexicanos por billete verde, con una ligera alza del 0.14 por ciento, según datos de Bloomberg. \r\nEl pes… [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Fernando S. Monreal",
-      "Title": "El euro/dólar encadena 20 máximos anuales antes de enfrentarse al catalizador que amenaza su rumbo",
-      "Description": "El ejercicio prominente alcista que protagoniza el euro/dólar no está en tela de juicio. Bajo ningún concepto. De hecho, el cruce más negociado del mundo ha registrado en lo que va de ejercicio 20 nuevos máximos anuales -se revaloriza un XX% desde enero-, y a…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13418933/06/25/el-euro-dolar-encadena-20-maximos-anuales-antes-de-enfrentarse-al-catalizador-que-amenaza-su-rumbo.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/3862x2108/4/7/8/1200x655_euro-dolar-fed.jpg",
-      "PublishedAt": "2025-06-17T08:09:59Z",
-      "Content": "El ejercicio prominente alcista que protagoniza el euro/dólar no está en tela de juicio. Bajo ningún concepto. De hecho, el cruce más negociado del mundo ha registrado en lo que va de ejercicio 20 nu… [+3696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se aprecia ante repliegue del dólar",
-      "Description": "El peso mexicano avanzó con 0.20 por ciento, iniciando la semana en 18.90 unidades por dólar, este lunes 16 de junio de 2025.Esto ocurrió ante un debilitamiento del dólar por preocupaciones sobre el conflicto entre Israel e Irán, mientras los inversionistas a…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-16-junio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
-      "PublishedAt": "2025-06-16T20:28:41Z",
-      "Content": "El peso mexicano avanzó con 0.20 por ciento, iniciando la semana en 18.90 unidades por dólar, este lunes 16 de junio de 2025.\r\nEsto ocurrió ante un debilitamiento del dólar por preocupaciones sobre e… [+2443 chars]"
     }
   ]
 }
