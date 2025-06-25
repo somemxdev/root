@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750160-GettyImages-2181063921-OP-1080x720.jpg",
       "PublishedAt": "2025-05-24T11:14:28Z",
       "Content": "Europes ambition to reach net-zero emissions by 2050 hinges on ramping up solar and wind power, potentially tripling the amount of electricity crackling through the power grid.\r\nIts grid, however, is… [+6841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Matthew Gilligan",
-      "Title": "A Bank Worker Tried To Charge Them To Close An Account, So They Moved It All And Left One Dollar Behind",
-      "Description": "This is how petty revenge is done, my friends!",
-      "Url": "http://twistedsifter.com/2025/05/a-bank-worker-tried-to-charge-them-to-close-an-account-so-they-moved-it-all-and-left-one-dollar-behind/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2025/05/ttbankact.jpg",
-      "PublishedAt": "2025-05-24T05:46:18Z",
-      "Content": "Shutterstock/Reddit\r\nBank policies can be so darn STUPID.\r\nAnd if you know, you know…\r\nBut the person who wrote this story on Reddit came up with a good way to show the bank that they were in charge!… [+2238 chars]"
     }
   ]
 }
