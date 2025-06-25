@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Fernanda Murillo",
+      "Title": "Peso mexicano se fortalece a $18.96 por dólar; alto al fuego debilita al billete verde",
+      "Description": "El peso mexicano inició la jornada bursátil con una apreciación de 0.38 por ciento, cotizando en 19.05 unidades por dólar. Sin embargo, media hora después de la apertura de mercados, a las 8:30 horas, la divisa mexicana alcanzó un precio de 18.96 unidades.Lo …",
+      "Url": "https://www.milenio.com/negocios/peso-mexicano-cotiza-19-00-dolar-alto-fuego",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
+      "PublishedAt": "2025-06-24T15:22:01Z",
+      "Content": "El peso mexicano inició la jornada bursátil con una apreciación de 0.38 por ciento, cotizando en 19.05 unidades por dólar. Sin embargo, media hora después de la apertura de mercados, a las 8:30 horas… [+2842 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.latercera.com/resizer/v2/LNTX4CAJLZGAFJCQTL2EWO7STA.jpg?auth=9d190a9c367914860440827b4cabd17409892544b709bb1efa29e47eb3112d08&height=630&width=1200&focal=600%2C315",
       "PublishedAt": "2025-06-17T13:45:35Z",
       "Content": "El dólar cae luego de no registrar grandes variaciones al inicio del día y a la espera de las señales del Banco Central de Chile y la Reserva Federal de Estados Unidos, entre otros factores que está … [+2209 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 17 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 17 de junio inicia operaciones con el tipo de cambio interbancario en 18.94pesos mexicanos por billete verde, con una ligera alza del 0.14 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer mientras los inversionistas vigilaba…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-06-17T11:07:00Z",
-      "Content": "El dólar HOY 17 de junio inicia operaciones con el tipo de cambio interbancario en 18.94 pesos mexicanos por billete verde, con una ligera alza del 0.14 por ciento, según datos de Bloomberg. \r\nEl pes… [+856 chars]"
     }
   ]
 }
