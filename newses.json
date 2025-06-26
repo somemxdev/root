@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cerró en 18.99 por dólar; bolsas, con fuertes ganancias",
+      "Description": "En el marco de un cese al fuego entre Israel e Irán y con una Reserva Federal (Fed) dispuesta a recortar pronto las tasas de interés, el dólar y el petróleo se hundieron mientras las bolsas de valores cerraron con fuertes alzas este martes.",
+      "Url": "https://www.jornada.com.mx/2025/06/25/economia/017n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-25T11:25:28Z",
+      "Content": "Periódico La JornadaMiércoles 25 de junio de 2025, p. 17\r\nEn el marco de un cese al fuego entre Israel e Irán y con una Reserva Federal (Fed) dispuesta a recortar pronto las tasas de interés, el dóla… [+2333 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 25 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 25 de junio inicia operaciones con el tipo de cambio interbancario en 18.99 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer en el inicio de la jornada despué…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-2.jpeg",
+      "PublishedAt": "2025-06-25T11:08:28Z",
+      "Content": "El dólar HOY 25 de junio inicia operaciones con el tipo de cambio interbancario en 18.99 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg. \r\nEl p… [+895 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/M56YXZBDDRGS7EP6WVGFRYNOMU.jpg?smart=true&auth=5209d08a0190730362ac67d662a93445f02d1bb897966012f3101bceb664932e&width=1200&height=630",
       "PublishedAt": "2025-06-17T15:57:25Z",
       "Content": "El peso mexicano pierde ante el dólar este martes 17 de junio debido a la mayor aversión al riesgo provocada por el mensaje de Donald Trump de que la capital de Irán debe ser evacuada por los ataques… [+1697 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae por conflicto Israel-Irán! Precio del dólar hoy 17 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este martes debido a crecientes preocupaciones por el conflicto entre Israel e Irán, con lo que el precio del dólar hoy 17 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce a…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-17-junio-2025-tipo-cambio-bancos-mexico/1722007",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/17/3325949.jpg",
-      "PublishedAt": "2025-06-17T15:06:48Z",
-      "Content": "El peso mexicano retrocede en la jornada de este martes debido a crecientes preocupaciones por el conflicto entre Israel e Irán, con lo que el precio del dólar hoy 17 de junio de 2025 cotiza en 18.95… [+1547 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 17 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, martes 17 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-17-de-junio-nid17062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-17-de-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-17T14:26:40Z",
-      "Content": "Este martes 17 de junio de 2025, el precio del dólar en México es de $18,9083, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es influenciado… [+2046 chars]"
     }
   ]
 }
