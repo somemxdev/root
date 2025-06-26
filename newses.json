@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila dos jornadas en el nivel de las 18 unidades por dólar",
+      "Description": "Forbes México.\n Peso hila dos jornadas en el nivel de las 18 unidades por dólar\n\nLa moneda se aprecia 0.36% este miércoles, según datos de cierre de Banxico; Monex atribuye el avance a la debilidad del dólar y al optimismo de especuladores sobre un posible ac…",
+      "Url": "https://forbes.com.mx/peso-hila-dos-jornadas-en-el-nivel-de-las-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2025-06-25T21:04:52Z",
+      "Content": "El peso hiló este miércoles dos sesiones debajo de las 19 unidades por dólar, de acuerdo con datos de cierre de Banxico.\r\nEl dólar se ubicó en 18.9244 pesos, lo que significó una apreciación de 0.36%… [+991 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/18/3326735.jpg",
       "PublishedAt": "2025-06-18T14:54:12Z",
       "Content": "El peso mexicano se aprecia en la jornada de este miércoles previo a la decisión de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 18 de junio de 2025 cotiza en 18.95 unidad… [+1338 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 18 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 18 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-18-de-junio-nid18062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-18-de-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-18T14:26:53Z",
-      "Content": "Este miércoles 18 de junio de 2025, el precio del dólar en México es de $18,9872, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexican… [+2220 chars]"
     }
   ]
 }
