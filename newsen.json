@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Conor Devitt",
+      "Title": "Employee at Billion Dollar Bank Embezzles $44,000 From Customer Accounts Before Being Banned From Industry",
+      "Description": "An employee at a $23.8 billion bank embezzled $44,000 worth of customer money before getting slapped with an industry ban. The Federal Reserve says former Bank of Hawaii employee Alohi Kaupu-Grace, 23, stole from customer accounts and falsified the customers’…",
+      "Url": "https://dailyhodl.com/2025/06/25/employee-at-billion-dollar-bank-embezzles-44000-from-customer-accounts-before-being-banned-from-industry/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-executive-embezzle.jpg",
+      "PublishedAt": "2025-06-25T20:00:26Z",
+      "Content": "An employee at a $23.8 billion bank embezzled $44,000 worth of customer money before getting slapped with an industry ban.\r\nThe Federal Reserve says former Bank of Hawaii employee Alohi Kaupu-Grace, … [+1330 chars]"
+    },
     {
       "Source": {
         "Id": null,
