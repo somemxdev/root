@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tom's Hardware UK"
+      },
+      "Author": "Mark Tyson",
+      "Title": "Man behind $245m Bitcoin theft has bizarre tale that includes kidnapped parents, fraud, and money laundering — suspect now faces up to 24 years in prison, half-million-dollar fine, and possible deportation to India",
+      "Description": "Connecticut man’s parents were kidnapped shortly after the BTC theft. The father allegedly lost his job at Morgan Stanley due to his son’s nefarious activities.",
+      "Url": "https://www.tomshardware.com/tech-industry/cryptocurrency/man-behind-usd245m-bitcoin-theft-has-bizarre-tale-that-includes-kidnapped-parents-fraud-and-money-laundering-suspect-now-faces-up-to-24-years-in-prison-half-million-dollar-fine-and-possible-deportation-to-india",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/Enj8Xh4iscXhZWB8URkXAP.jpg",
+      "PublishedAt": "2025-06-25T15:43:56Z",
+      "Content": "Veer Chetal is one of three individuals charged with stealing 4,100 Bitcoins in August 2024. At the time, the Bitcoin swag was worth around $245 million, as reported by AP News. Today, those same coi… [+4116 chars]"
+    },
     {
       "Source": {
         "Id": null,
