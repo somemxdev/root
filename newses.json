@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 142,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El euro marca máximos desde 2021 frente al dólar, por encima de 1,17 dólares",
+      "Description": "El tipo de cambio del euro frente al dólar alcanzaba este jueves su nivel más alto desde septiembre de 2021 al situarse por encima de 1,17 dólares en un contexto marcado por las expectativas de bajada de los tipos de interés en Estados Unidos en septiembre y …",
+      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-marca-maximos-2021-frente-dolar-encima-117-dolares-20250626105822.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250626105822_1200.jpg",
+      "PublishedAt": "2025-06-26T08:58:22Z",
+      "Content": "MADRID 26 Jun. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar alcanzaba este jueves su nivel más alto desde septiembre de 2021 al situarse por encima de 1,17 dólares en un contexto ma… [+1843 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso.webp",
       "PublishedAt": "2025-06-18T22:03:26Z",
       "Content": "El peso borró el miércoles sus ganancias iniciales ante un fortalecimiento generalizado del dólar después de que la Reserva Federal estadounidense mantuvo sin cambios los tipos de interés, como antic… [+1740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso gana! Precio del dólar hoy 18 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en la jornada de este miércoles previo a la decisión de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 18 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce aquí cuá…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-18-junio-2025-tipo-cambio-bancos-mexico/1722249",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/18/3326735.jpg",
-      "PublishedAt": "2025-06-18T14:54:12Z",
-      "Content": "El peso mexicano se aprecia en la jornada de este miércoles previo a la decisión de la Reserva Federal de Estados Unidos, con lo que el precio del dólar hoy 18 de junio de 2025 cotiza en 18.95 unidad… [+1338 chars]"
     }
   ]
 }
