@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 148,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 26 de junio",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 25 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-26-de-junio-nid26062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-26-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-26T14:14:53Z",
+      "Content": "Este jueves 26 de junio de 2025, el precio del dólar en México es de $18,9203, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano s… [+2272 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso avanza tras datos en EU! Precio del dólar hoy 26 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza en la jornada de este jueves, con lo que el precio del dólar hoy 26 de junio de 2025 cotiza en 18.86 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana reg…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-26-junio-2025-tipo-cambio-bancos-mexico/1723788",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/26/3331822.jpg",
+      "PublishedAt": "2025-06-26T14:13:16Z",
+      "Content": "El peso mexicano avanza en la jornada de este jueves, con lo que el precio del dólar hoy 26 de junio de 2025 cotiza en 18.86 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en … [+1269 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-06-20T11:10:00Z",
       "Content": "Eldólar HOY 20 de junio inicia operaciones con el tipo de cambio interbancario en 19.02 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.  \r\nEl pes… [+823 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cierra peso en 19.04 por dólar spot; sube el petróleo",
-      "Description": "Los mercados mexicanos tuvieron una sesión negativa ayer, sin referencia con los estadunidenses, en un entorno de cautela por eventos geopolíticos que siguen impulsando los precios del crudo.",
-      "Url": "https://www.jornada.com.mx/2025/06/20/economia/020n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-20T08:11:12Z",
-      "Content": "Periódico La JornadaViernes 20 de junio de 2025, p. 20\r\nLos mercados mexicanos tuvieron una sesión negativa ayer, sin referencia con los estadunidenses, en un entorno de cautela por eventos geopolíti… [+1017 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso extiende pérdidas ante el dólar en día feriado en EU: ¿Cuánto pierde HOY?",
-      "Description": "El peso mexicano rebasó el piso de las 19 unidades ante el dólar esta semana debido a la incertidumbre creada por el conflicto entre Israel e Irán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/19/peso-dolar-precio-hoy-19-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GCZDZJO4QBGX3FSLXD53LPSMZU.jpg?smart=true&auth=254deb06f20d579bdaf1f319a983a61e4e6ebfa91cd378ca63399586c2e07801&width=1200&height=630",
-      "PublishedAt": "2025-06-19T15:32:36Z",
-      "Content": "El peso mexicano extiende sus pérdidas ante el dólar en un día con menor liquidez debido al feriado del Día de la Emancipación en Estados Unidos. \r\nLos inversionistas también están estresados por la … [+1645 chars]"
     }
   ]
 }

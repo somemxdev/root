@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ambcrypto.com"
+      },
+      "Author": "AMBCrypto Team",
+      "Title": "BCH Bulls Buy More Bitcoin Cash and Pepe Dollar (PEPD) In BCH Bank RUN!",
+      "Description": "Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling […]",
+      "Url": "https://ambcrypto.com/bch-bulls-buy-more-bitcoin-cash-and-pepe-dollar-pepd-in-bch-bank-run/",
+      "UrlToImage": "https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-183730.png",
+      "PublishedAt": "2025-06-26T14:15:35Z",
+      "Content": "Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling predictions that its price could surge as high as $4,300. This remarkable optimism comes alongsid… [+3744 chars]"
+    },
     {
       "Source": {
         "Id": null,
