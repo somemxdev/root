@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Esther Chapa",
+      "Title": "El euro alcanza máximos desde 2021 frente al dólar ante la presión de Trump sobre la Fed",
+      "Description": "El euro ha marcado este jueves su nivel más alto frente al dólar desde septiembre de 2021, superando el umbral de los 1,17 dólares, impulsado por el creciente nerviosismo en torno a la política monetaria estadounidense y las presiones políticas sobre la Reser…",
+      "Url": "https://www.elperiodico.com/es/economia/20250626/euro-alcanza-maximos-2021-frente-dolar-119081737",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/01cb9281-f0e3-4892-a678-b7dea7f1c9f2_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2025-06-26T09:36:08Z",
+      "Content": "El euro ha marcado este jueves su nivel más alto frente al dólar desde septiembre de 2021, superando el umbral de los 1,17 dólares, impulsado por el creciente nerviosismo en torno a la política monet… [+1895 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "La Voz",
+      "Title": "El euro y la libra alcanzan máximos de cuatro años frente al dólar",
+      "Description": "La incertidumbre sobre un posible descenso en los tipos de interés motiva la revalorización de las divisas europeas frente a la estadounidense",
+      "Url": "https://www.lavozdegalicia.es/noticia/economia/2025/06/26/euro-libra-posicionan-maximos-frente-dolar-anos/00031750925897571572973.htm",
+      "UrlToImage": "https://img.lavdg.com/sc/Z48kf4FDEyzr-3TgpEY1DJ_qEBc=/1280x/2025/06/26/00121750928342047726874/Foto/efe_20250405_164228602.jpg",
+      "PublishedAt": "2025-06-26T09:17:00Z",
+      "Content": "El dólar americano continúa con la racha de volatilidad en la que lleva inmersa desde inicio del año, coincidiendo con el desembarco de Donald Trump de nuevo en la Casa Blanca. Las divisas europeas, … [+1195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-19-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
       "PublishedAt": "2025-06-19T14:05:27Z",
       "Content": "Este jueves 19 de junio de 2025,el precio del dólar en México es de $19,0047, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es influenciado … [+2267 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 19 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 19 de junio inicia operaciones con el tipo de cambio interbancario en 19.07pesos mexicanos por billete verde, con una ligera baja del 0.35 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer al inicio de la sesión recuperando …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-06-19T11:11:00Z",
-      "Content": "El dólar HOY 19 de junio inicia operaciones con el tipo de cambio interbancario en 19.07 pesos mexicanos por billete verde, con una ligera baja del 0.35 por ciento, según datos de Bloomberg. \r\nEl pes… [+894 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cede terreno pese a mantener leve avance frente al dólar; BMV avanza ligeramente",
-      "Description": "Forbes México.\n Peso cede terreno pese a mantener leve avance frente al dólar; BMV avanza ligeramente\n\nEl tipo de cambio se ajustó ante el fortalecimiento del dólar y expectativas inflacionarias en EU.\nPeso cede terreno pese a mantener leve avance frente al d…",
-      "Url": "https://forbes.com.mx/peso-cede-terreno-pese-a-mantener-leve-avance-frente-al-dolar-bmv-avanza-ligeramente/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso.webp",
-      "PublishedAt": "2025-06-18T22:03:26Z",
-      "Content": "El peso borró el miércoles sus ganancias iniciales ante un fortalecimiento generalizado del dólar después de que la Reserva Federal estadounidense mantuvo sin cambios los tipos de interés, como antic… [+1740 chars]"
     }
   ]
 }
