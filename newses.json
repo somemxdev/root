@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "“Sobran reservas”: el vicepresidente del Banco Central rechazó las críticas al Gobierno por el dólar",
+      "Description": "Vladimir Werning sostuvo que la entidad tiene como objetivo sumar divisas, pero prioriza otros objetivos de corto plazo; dijo que no habrá conflicto por la meta pautada con el FMI",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/sobran-reservas-el-vicepresidente-del-banco-central-rechazo-las-criticas-al-gobierno-por-el-dolar-nid26062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/macroeconomicamente-no-necesitamos-reservas-DUIJC7LHSNEJ7G75UPFPVG3BDM.JPG?auth=3042ba5d6ecbb9d431b300f4924e429779792d32d2aa70880967d4c11e0a4636&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-26T21:59:24Z",
+      "Content": "La dinámica del sector externo, el nivel del dólar y la acumulación de reservas en el Banco Central (BCRA) es un tema clave del debate económico en el país. Y en ese contexto, el vicepresidente de la… [+2993 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-20-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-20T13:57:51Z",
       "Content": "Este viernes 20 de junio de 2025, el precio del dólar en México es de $19,0898, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el peso mexicano es afectado po… [+2105 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 20 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 20 de junio inicia operaciones con el tipo de cambio interbancario en 19.02 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, alcanzando sus peores niveles desde in…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-20T11:10:00Z",
-      "Content": "Eldólar HOY 20 de junio inicia operaciones con el tipo de cambio interbancario en 19.02 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.  \r\nEl pes… [+823 chars]"
     }
   ]
 }
