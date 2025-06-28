@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, a punto de ponerle ‘broche de oro’ a la semana: ¿Cuánto gana al dólar HOY?",
+      "Description": "Los consumidores en Estados Unidos están gastando menos, lo que eleva la posibilidad de un recorte de la Fed en septiembre, un factor que debilita al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/27/peso-dolar-precio-hoy-27-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GO6PSHXI7FDEXBGTCAICV62T54.jpg?smart=true&auth=c0477c4cbb948e2d5ca95212c260191e75a777dd0530a2c9951d7a616e6b70ea&width=1200&height=630",
+      "PublishedAt": "2025-06-27T16:51:33Z",
+      "Content": "El peso mexicano aumenta sus ganancias ante el dólar después de que el Banxico recortó su tasa de interés a 8 por ciento y tras la noticia de que Donald Trump alcanzó un nuevo acuerdo comercial con C… [+1897 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-06-21T12:57:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de junio el tipo de cambio interbancario, se ubica en 19.17 pesos por unidad, con una subida del 0.72 por ciento,… [+1931 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La rara moneda de un dólar que puede valer hasta US$720 mil: qué la hace tan especial",
-      "Description": "Una moneda de un dólar acuñada en 1854 en Filadelfia podría alcanzar los US$720.000 por su rareza y estado de conservación; los expertos destacan sus detalles únicos y su valor como pieza de prueba histórica.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-rara-moneda-de-un-dolar-que-puede-valer-hasta-us720-mil-que-la-hace-tan-especial-nid21062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-oro-puede-valer-cientos-de-miles-IZFGPTJMUZHONGCHXQNTFAPFBU.jpg?auth=599ea2b3273ab3c635a049ea550c0564c9c203a8e51f7a2e5ab58b81639b4d67&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-21T08:14:00Z",
-      "Content": "La historia del dólar de oro estadounidense está marcada por acontecimientos clave como la Fiebre del Oro de California y los ajustes en la política monetaria del siglo XIX. Entre estas monedas histó… [+2329 chars]"
     }
   ]
 }
