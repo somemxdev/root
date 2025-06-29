@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 28 de junio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de junio el tipo de cambio interbancario, se ubica en 18.82 pesos por unidad, con una pérdida del 0.32 por ciento, según datos de Bloomberg.El peso mexicano cerró la semana …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-junio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/02/10/dolar-estadunidense-con-bandera-de.jpeg",
+      "PublishedAt": "2025-06-28T12:39:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 28 de junio el tipo de cambio interbancario, se ubica en 18.82 pesos por unidad, con una pérdida del 0.32 por ciento… [+761 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso.jpeg",
       "PublishedAt": "2025-06-23T10:59:00Z",
       "Content": "El dólar HOY 23 de junio inicia operaciones con el tipo de cambio interbancario en 19.23 pesos mexicanos por billete verde, con una ligera alza del 0.32 por ciento, según datos de Bloomberg. \r\nEl mer… [+873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Ataque de EU a Irán beneficia al dólar: Moneda estadounidense recobra fuerza",
-      "Description": "Los mercados se preparan para una caída de las acciones y un aumento en los precios del crudo y del oro, ya que los bombardeos alimentan la demanda de seguridad y la preocupación por el suministro energético.",
-      "Url": "https://www.elfinanciero.com.mx/bloomberg/2025/06/22/ataque-de-eu-a-iran-beneficia-al-dolar-moneda-estadounidense-recobra-fuerza/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WCKUWEUUNFFXJFSE62OSJT32CA.jpg?smart=true&auth=0d64272e0c80dc99e341d4f8300075a8dd64fa643cf5408d2811fc3312e4aef1&width=1200&height=630",
-      "PublishedAt": "2025-06-22T21:47:04Z",
-      "Content": "El dólar se fortaleció en las primeras operaciones, ya que los inversores buscaron refugios para protegerse de los crecientes riesgos geopolíticos tras los ataques estadounidenses contra Irán.\r\nLa mo… [+4218 chars]"
     }
   ]
 }
