@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar de Sacagawea: la moneda que puede valer hasta US$84.000 por este error de acuñación",
+      "Description": "Esta moneda de un dólar con la figura de Sacagawea se volvió una joya para coleccionistas en EE.UU. por un inusual error de acuñación que puede elevar su valor hasta los US$84.000. Descubre cómo identificarla.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/dolar-de-sacagawea-la-moneda-que-puede-valer-hasta-us84000-por-este-error-de-acunacion-nid28062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-2014-y-actualmente-en-FYA4YCAX7NFKDHMLXTNI7X5YW4.jpg?auth=fc15b1b80267860e10f07650853470f4066604e175eac66f12ae69bdd0077185&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-28T10:01:00Z",
+      "Content": "Una moneda acuñada en 2014 es objeto de interés en el mercado numismático por un error inusual. Se trata de un ejemplar Sacagawea que, por una falla en el proceso de producción, presenta un reverso q… [+3550 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WCKUWEUUNFFXJFSE62OSJT32CA.jpg?smart=true&auth=0d64272e0c80dc99e341d4f8300075a8dd64fa643cf5408d2811fc3312e4aef1&width=1200&height=630",
       "PublishedAt": "2025-06-22T21:47:04Z",
       "Content": "El dólar se fortaleció en las primeras operaciones, ya que los inversores buscaron refugios para protegerse de los crecientes riesgos geopolíticos tras los ataques estadounidenses contra Irán.\r\nLa mo… [+4218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra semana con alza considerable",
-      "Description": "El tipo de cambio abrió la semana con un valor de ¢504,50 y se mantuvo al alza en las jornadas posteriores.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-con-fuerte/TYJ66RPKQJE3ZEOC47SJTS3ZD4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
-      "PublishedAt": "2025-06-21T14:15:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana con una significativa alza en su cotización en el Mercado de Monedas Extranjeras (Monex), respecto al nivel observado el viernes anteri… [+2370 chars]"
     }
   ]
 }
