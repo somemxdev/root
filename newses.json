@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar baja en la semana con mayor negociación en lo que va del año en Monex",
+      "Description": "Esta semana se transaron $294,9 millones en cinco sesiones del Monex.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-baja-en-la-semana-con/DTQKOREZJVFKBCFOZJEJMQF5YQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/H47VXLNJJNB3XKBYGKV4NA6M3U.jpg?smart=true&auth=7548ba7a2bac100112c4b8480f8107c0c13ffdf92017365666ca0e2ddaae4909&width=1440",
+      "PublishedAt": "2025-06-27T23:29:35Z",
+      "Content": "En la jornada de este viernes 27 de junio, el precio del dólar fue de ¢507,27, con lo cual registró una reducción de ¢1,84 respecto al mismo día de la semana pasada, cuando se situó en ¢509,11.\r\nEste… [+2644 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/FJ6PJAKTRRGLDNI76SIK5R4EQM.jpg?smart=true&auth=6c123d894fb5dee2592cb7624792713788f15381002a4da8f4f37ed93e4638f9&width=1440",
       "PublishedAt": "2025-06-21T14:15:00Z",
       "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana con una significativa alza en su cotización en el Mercado de Monedas Extranjeras (Monex), respecto al nivel observado el viernes anteri… [+2370 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 21 de junio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de junio el tipo de cambio interbancario, se ubica en 19.17 pesos por unidad, con una subida del 0.72 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-21T12:57:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de junio el tipo de cambio interbancario, se ubica en 19.17 pesos por unidad, con una subida del 0.72 por ciento,… [+1931 chars]"
     }
   ]
 }
