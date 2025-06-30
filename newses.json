@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Fabiana Sanchez",
+      "Title": "Dólar a la baja: ¿en qué moneda me endeudo?",
+      "Description": "El tipo de cambio está en mínimos de antes de la pandemia, motivo por el cual surge la interrogante sobre qué hacer con los préstamos y ahorros | Dólar | Economía",
+      "Url": "https://peru21.pe/economia/dolar-la-baja-en-que-moneda-me-endeudo/",
+      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/OBBIBFOM75B43O62ZRAS4SC2VQ_1.jpg?itok=h1jNtOtk",
+      "PublishedAt": "2025-06-29T16:18:06Z",
+      "Content": "En los últimos días, el dólar ha mostrado una tendencia a la baja y cerró el último viernes en S/3.550, cotización que no se registraba desde septiembre de 2020, es decir, desde la pandemia. El bille… [+5119 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/23/3329611.jpg",
       "PublishedAt": "2025-06-23T14:36:50Z",
       "Content": "El peso mexicano se debilita en el arranque de la jornada de este lunes, con lo que el precio del dólar hoy 23 de junio de 2025 cotiza en 19.21 unidades por cada billete verde; conoce aquí cuál es el… [+1651 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 23 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, lunes 23 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-23-de-junio-nid23062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-23-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-23T13:55:09Z",
-      "Content": "Este lunes 23 de junio de 2025, el precio del dólar en México es de $19,1458, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2144 chars]"
     }
   ]
 }
