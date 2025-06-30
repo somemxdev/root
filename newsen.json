@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/cantena-labs-main-feature.jpg",
       "PublishedAt": "2025-05-30T08:00:26Z",
       "Content": "Highlights \r\nCircle co-founder Sean Neville secured $18 million in funding to build a fully regulated financial institution designed for autonomous software agents. \r\nNew identity credentials and sta… [+6293 chars]"
-    },
-    {
-      "Source": {
-        "Id": "usa-today",
-        "Name": "USA Today"
-      },
-      "Author": "Betty Lin-Fisher, USA TODAY",
-      "Title": "The Daily Money: Dollar General boycott is next",
-      "Description": "Plus: think you won't live to 100?",
-      "Url": "https://www.usatoday.com/story/money/2025/05/28/dollar-general-boycott-is-next/83896437007/",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/.izwUCoI74fFKWe1agLTLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODM-/https://media.zenfs.com/en/usa_today_money_325/1406219a8534fb95ce0bc7621b7f3849",
-      "PublishedAt": "2025-05-28T14:34:33Z",
-      "Content": "Good morning! This is Betty Lin-Fisher with today's edition of The Daily Money.\r\nDollar General is the next retailer to face a protest over its retreat of diversity, equity and inclusion efforts.Past… [+1157 chars]"
     }
   ]
 }
