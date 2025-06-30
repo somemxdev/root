@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Debilidad del dólar no daña su estatus de moneda de reserva global",
+      "Description": "El descalabro del dólar este 2025, calificado como su peor desempeño desde 1973, no quiere decir que esté perdiendo su estatus de reserva de valor a escala mundial, consideraron analistas económicos.",
+      "Url": "https://www.jornada.com.mx/2025/06/29/economia/017n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-06-29T09:14:14Z",
+      "Content": "Periódico La JornadaDomingo 29 de junio de 2025, p. 17\r\nEl descalabro del dólar este 2025, calificado como su peor desempeño desde 1973, no quiere decir que esté perdiendo su estatus de reserva de va… [+2271 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-23-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-23T13:55:09Z",
       "Content": "Este lunes 23 de junio de 2025, el precio del dólar en México es de $19,1458, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2144 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 23 de junio de 2025: ¿Cuál es el tipo de cambio en México en medio del conflicto Israel-Irán?",
-      "Description": "El dólarHOY 23 de junio inicia operaciones con el tipo de cambio interbancario en 19.23 pesos mexicanos por billete verde, con una ligera alza del 0.32 por ciento, según datos de Bloomberg.El mercado está atento a la respuesta de Irán después de que Donald Tr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso.jpeg",
-      "PublishedAt": "2025-06-23T10:59:00Z",
-      "Content": "El dólar HOY 23 de junio inicia operaciones con el tipo de cambio interbancario en 19.23 pesos mexicanos por billete verde, con una ligera alza del 0.32 por ciento, según datos de Bloomberg. \r\nEl mer… [+873 chars]"
     }
   ]
 }
