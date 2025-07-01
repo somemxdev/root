@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Jail for personal driver who lied about 4 luxury cars out of greed",
+      "Description": "Liew Yik Kit had been instructed by a man implicated in the large-scale money laundering case to sell four luxury cars.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-money-laundering-personal-driver-lied-luxury-cars-5211411",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--jrcBQqZg--/c_crop,h_900,w_1600,x_0,y_69/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/06/30/_wal3368.jpg?itok=kRKrFPVx",
+      "PublishedAt": "2025-06-30T11:09:56Z",
+      "Content": "ACCUSED WANTED TO TAKE CONTROL OF CARS QUICKLY\r\nOn the day of the raids, Liew drove Su out of Singapore via Tuas Checkpoint in the evening. \r\nHe dropped Su off at Kuala Lumpur International Airport o… [+2548 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -288,32 +301,6 @@
       "UrlToImage": "https://pcper.com/wp-content/uploads/2025/05/podcast824.jpg",
       "PublishedAt": "2025-05-31T13:30:09Z",
       "Content": "Another quarter is behind us, and NVIDIA just made more money than ever before. Thankfully this “ai” bubble will NEVER burst…right??  ASRock says they have fixed their AM5 issues, 10Gbe is going get … [+768 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Survivalblog.com"
-      },
-      "Author": "SurvivalBlog Contributor",
-      "Title": "Gold and System Collapse: Charting the Bank Run of the Mighty US Dollar, by Hub Moolman",
-      "Description": "The US dollar banking system is in the midst of a bank run by the measures that I will illustrate here. Since the 1879 gold standard was established in America, the US dollar could be directly redeemed for gold within the banking system. This continued even a…",
-      "Url": "https://survivalblog.com/2025/06/01/gold-system-collapse-charting-bank-run-mighty-us-dollar-hub-moolman/",
-      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2024/02/Two_20kr_gold_coins.jpg",
-      "PublishedAt": "2025-05-30T20:26:43Z",
-      "Content": "The US dollar banking system is in the midst of a bank run by the measures that I will illustrate here.\r\nSince the 1879 gold standard was established in America, the US dollar could be directly redee… [+5363 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "pymnts.com"
-      },
-      "Author": "PYMNTS",
-      "Title": "From Stablecoins to AI Banking: Circle Co-Founder’s Next Billion-Dollar Bet on Agentic Finance",
-      "Description": "Every audacious venture travels a long road from an idea to a tangible institution. In finance, that path is paved as much with the currency of trust as it is with capital and code. That is the road Sean Neville, co-founder of Circle and a principal architect…",
-      "Url": "http://www.pymnts.com/news/artificial-intelligence/2025/from-stablecoins-to-ai-banking-circle-co-founders-next-billion-dollar-bet-on-agentic-finance/",
-      "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/cantena-labs-main-feature.jpg",
-      "PublishedAt": "2025-05-30T08:00:26Z",
-      "Content": "Highlights \r\nCircle co-founder Sean Neville secured $18 million in funding to build a fully regulated financial institution designed for autonomous software agents. \r\nNew identity credentials and sta… [+6293 chars]"
     }
   ]
 }
