@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso rompe racha de ganancias! Precio del dólar hoy 30 de junio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede en la jornada de este lunes tras cinco jornadas de ganancias, con lo que el precio del dólar hoy 30 de junio de 2025 cotiza en 18.87 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-30-junio-2025-tipo-cambio-bancos-mexico/1724454",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/30/3333776.jpg",
+      "PublishedAt": "2025-06-30T14:41:19Z",
+      "Content": "El peso mexicano retrocede en la jornada de este lunes tras cinco jornadas de ganancias, con lo que el precio del dólar hoy 30 de junio de 2025 cotiza en 18.87 unidades por cada billete verde; conoce… [+1462 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 30 de junio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 30 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-30-de-junio-en-estados-unidos-nid30062025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-30-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-06-30T14:26:39Z",
+      "Content": "Este lunes 30 de junio de 2025, el precio del dólar en México es de $18,8483, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se… [+2117 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/24/3330266.jpg",
       "PublishedAt": "2025-06-24T14:26:13Z",
       "Content": "El peso mexicano avanza tras el alto al fuego entre Israel e Irán, con lo que el precio del dólar hoy 24 de junio de 2025 cotiza en 19.04 unidades por cada billete verde; conoce aquí cuál es el tipo … [+1476 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 24 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, martes 24 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-24-de-junio-nid24062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-24-de-D6NVCO5CSVD23FR6QAX4FLPTPQ.jpg?auth=c72bdb61ae3c4b95ba2b17d6f3e3f928044e61a0d5fe6dfd64203c98720dd437&width=1200&quality=70&smart=false&height=801",
-      "PublishedAt": "2025-06-24T14:18:34Z",
-      "Content": "Este martes 24 de junio de 2025, el precio del dólar en México es de $19,1527, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2148 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 24 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 24 de junio inicia operaciones con el tipo de cambio interbancario en 19.03pesos mexicanos por billete verde, con una considerable baja del 0.46 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión ante u…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-1.jpeg",
-      "PublishedAt": "2025-06-24T11:08:00Z",
-      "Content": "El dólar HOY 24 de junio inicia operaciones con el tipo de cambio interbancario en 19.03 pesos mexicanos por billete verde, con una considerable baja del 0.46 por ciento, según datos de Bloomberg. \r\n… [+820 chars]"
     }
   ]
 }
