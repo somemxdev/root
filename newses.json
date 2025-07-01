@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "El peso se ‘queda tieso’ ante el dólar mientras Senado de EU debate plan fiscal de Trump",
+      "Description": "En el plano de los aranceles, se acerca el final de la pausa de 90 días decretada por Trump para negociar tarifas con sus socios comerciales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/30/peso-dolar-precio-hoy-30-de-junio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KRRFRT6L6JFWLH3OB2IIERDFQQ.jpg?smart=true&auth=5dc35a3c3b872021c0e3e8c1dcf438c63ec90327f15b2a0ee98f37b70130617e&width=1200&height=630",
+      "PublishedAt": "2025-06-30T16:41:16Z",
+      "Content": "El peso mexicano está tablas con el dólar en la última sesión de junio mientras el Senado de Estados Unidos inicia la discusión del gran y hermoso plan fiscal del presidente Donald Trump. \r\nDe acuerd… [+1937 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
       "PublishedAt": "2025-06-24T15:22:01Z",
       "Content": "El peso mexicano inició la jornada bursátil con una apreciación de 0.38 por ciento, cotizando en 19.05 unidades por dólar. Sin embargo, media hora después de la apertura de mercados, a las 8:30 horas… [+2842 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso gana tras tregua entre Israel e Irán! Precio del dólar hoy 24 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza tras el alto al fuego entre Israel e Irán, con lo que el precio del dólar hoy 24 de junio de 2025 cotiza en 19.04 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-junio-2025-tipo-cambio-bancos-mexico/1723325",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/24/3330266.jpg",
-      "PublishedAt": "2025-06-24T14:26:13Z",
-      "Content": "El peso mexicano avanza tras el alto al fuego entre Israel e Irán, con lo que el precio del dólar hoy 24 de junio de 2025 cotiza en 19.04 unidades por cada billete verde; conoce aquí cuál es el tipo … [+1476 chars]"
     }
   ]
 }
