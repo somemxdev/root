@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b2c9327039e3e20258657f86ff0266444015e7a5-2848x1352.png",
       "PublishedAt": "2025-06-02T09:35:20Z",
       "Content": "Bank of America has warned that the U.S. dollar could be in for a rough summer, having already dropped sharply this year.\r\nThe dollar index, which tracks the value of the U.S. dollar against major cu… [+1930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PC Perspective"
-      },
-      "Author": "PCPer Staff",
-      "Title": "Podcast #824 – NVIDIA Money, ASRock Ryzen Fix, 10 Dollar 10GbE, Two Great Sub-$25 IEMs, 6 Ghz WiFi + MORE!",
-      "Description": "Another quarter is behind us, and NVIDIA just made more money than ever before. Thankfully this \"ai\" bubble will NEVER burst...right??  ASRock says they have fixed their AM5 issues, 10Gbe is going…",
-      "Url": "https://pcper.com/2025/05/podcast-824/",
-      "UrlToImage": "https://pcper.com/wp-content/uploads/2025/05/podcast824.jpg",
-      "PublishedAt": "2025-05-31T13:30:09Z",
-      "Content": "Another quarter is behind us, and NVIDIA just made more money than ever before. Thankfully this “ai” bubble will NEVER burst…right??  ASRock says they have fixed their AM5 issues, 10Gbe is going get … [+768 chars]"
     }
   ]
 }
