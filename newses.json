@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso hila séptima jornada de ganancias! Precio del dólar hoy 1 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por séptima jornada consecutiva, con lo que el precio del dólar hoy 1 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-1-julio-2025-tipo-cambio-bancos-mexico/1724648",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/01/3334428.jpg",
+      "PublishedAt": "2025-07-01T14:46:22Z",
+      "Content": "El peso mexicano avanza por séptima jornada consecutiva, con lo que el precio del dólar hoy 1 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1422 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-25T14:15:27Z",
       "Content": "Este miércoles 25 de junio de 2025, el precio del dólar en Méxicoes de 19,0267 pesos, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada se registra una ligera aprecia… [+1829 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cerró en 18.99 por dólar; bolsas, con fuertes ganancias",
-      "Description": "En el marco de un cese al fuego entre Israel e Irán y con una Reserva Federal (Fed) dispuesta a recortar pronto las tasas de interés, el dólar y el petróleo se hundieron mientras las bolsas de valores cerraron con fuertes alzas este martes.",
-      "Url": "https://www.jornada.com.mx/2025/06/25/economia/017n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-25T11:25:28Z",
-      "Content": "Periódico La JornadaMiércoles 25 de junio de 2025, p. 17\r\nEn el marco de un cese al fuego entre Israel e Irán y con una Reserva Federal (Fed) dispuesta a recortar pronto las tasas de interés, el dóla… [+2333 chars]"
     }
   ]
 }
