@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 1 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 1 de julio inicia operaciones con el tipo de cambio interbancario en 18.67 pesos mexicanos por billete verde, con una ligera baja del 0.37 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, interrumpiendo una racha de cinco sesio…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-6.jpeg",
+      "PublishedAt": "2025-07-01T11:06:00Z",
+      "Content": "El peso mexicano se apreció con 0.34 por ciento, iniciando la semana en 18.75 unidades por dólar, el lunes 30 de junio de 2025, por sexta jornada consecutiva.\r\nCulminando su mejor trimestre desde 202… [+379 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-2.jpeg",
       "PublishedAt": "2025-06-25T11:08:28Z",
       "Content": "El dólar HOY 25 de junio inicia operaciones con el tipo de cambio interbancario en 18.99 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg. \r\nEl p… [+895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Tregua beneficia al peso: vuelve al nivel de las 18 unidades por dólar",
-      "Description": "Forbes México.\n Tregua beneficia al peso: vuelve al nivel de las 18 unidades por dólar\n\nEl tipo de cambio se ubica en 18.9930 al cierre, según Banxico; una resolución temporal del conflicto entre Israel e Irán y la debilidad del dólar, entre los factores.\nTre…",
-      "Url": "https://forbes.com.mx/tregua-beneficia-al-peso-vuelve-al-nivel-de-las-18-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-06-24T22:03:20Z",
-      "Content": "Ciudad de México.- El peso volvió a ubicarse por debajo de las 19 unidades por dólar, impulsado por un mejor ambiente para los activos de riesgo después de que el presidente Trump anunciara en la vís… [+3030 chars]"
     }
   ]
 }
