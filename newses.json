@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "El peso mexicano lo agradece: El dólar sufre su mayor caída semestral desde 1973",
+      "Description": "El dólar estadounidense sufrió su peor caída semestral desde 1973, al despreciarse en un 10.8 por ciento en lo que va del 2025.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2025/06/30/el-peso-mexicano-lo-agradece-el-dolar-sufre-su-mayor-caida-semestral-desde-1973/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7OVKHURPQBCC3BCCMF2HHOXWGI.jpg?smart=true&auth=0b9781f554940a9058ae82dd52ff2aa64ed44bec083eb5ecac8cb0d3ec822b0d&width=1200&height=630",
+      "PublishedAt": "2025-07-01T01:29:09Z",
+      "Content": "¡El dólar va en caída libre durante este 2025! Al cierre de los mercados financieros, la divisa estadounidense acumuló una pérdida de 10.8 por ciento, la mayor registrada en un semestre desde 1973.\r\n… [+3920 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2025-06-24T22:03:20Z",
       "Content": "Ciudad de México.- El peso volvió a ubicarse por debajo de las 19 unidades por dólar, impulsado por un mejor ambiente para los activos de riesgo después de que el presidente Trump anunciara en la vís… [+3030 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Peso mexicano se fortalece a $18.96 por dólar; alto al fuego debilita al billete verde",
-      "Description": "El peso mexicano inició la jornada bursátil con una apreciación de 0.38 por ciento, cotizando en 19.05 unidades por dólar. Sin embargo, media hora después de la apertura de mercados, a las 8:30 horas, la divisa mexicana alcanzó un precio de 18.96 unidades.Lo …",
-      "Url": "https://www.milenio.com/negocios/peso-mexicano-cotiza-19-00-dolar-alto-fuego",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
-      "PublishedAt": "2025-06-24T15:22:01Z",
-      "Content": "El peso mexicano inició la jornada bursátil con una apreciación de 0.38 por ciento, cotizando en 19.05 unidades por dólar. Sin embargo, media hora después de la apertura de mercados, a las 8:30 horas… [+2842 chars]"
     }
   ]
 }
