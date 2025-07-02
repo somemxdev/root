@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 1º de julio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, martes 1º de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-1-de-julio-en-estados-unidos-nid01072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-1o-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-01T13:57:45Z",
+      "Content": "Este martes 1º de julio de 2025, el precio del dólar en México es de $18,8332, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2343 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2025-06-25T11:25:28Z",
       "Content": "Periódico La JornadaMiércoles 25 de junio de 2025, p. 17\r\nEn el marco de un cese al fuego entre Israel e Irán y con una Reserva Federal (Fed) dispuesta a recortar pronto las tasas de interés, el dóla… [+2333 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 25 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 25 de junio inicia operaciones con el tipo de cambio interbancario en 18.99 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer en el inicio de la jornada despué…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-2.jpeg",
-      "PublishedAt": "2025-06-25T11:08:28Z",
-      "Content": "El dólar HOY 25 de junio inicia operaciones con el tipo de cambio interbancario en 18.99 pesos mexicanos por billete verde, con un ligero aumento del 0.05 por ciento, según datos de Bloomberg. \r\nEl p… [+895 chars]"
     }
   ]
 }
