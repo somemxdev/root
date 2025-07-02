@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 141,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Roberto Casado",
+      "Title": "Test de estrés al dólar: hasta dónde puede caer frente al euro en la era Trump",
+      "Description": "El comportamiento de los mercados estadounidenses en la nueva etapa de Donald Trump (la Bolsa al alza y la divisa a la baja) tiene un claro precedente con lo sucedido con los...",
+      "Url": "https://www.expansion.com/mercados/2025/07/01/68640278468aeb65248b4591.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/9ff79b52206b6da2fe6e587bbe081ce9/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/01/17513904892234.jpg",
+      "PublishedAt": "2025-07-01T18:34:22Z",
+      "Content": "Hay analistas que anticipan un euro a 1,25 dólares, e incluso a 1,50 dólares.El comportamiento de los mercados estadounidenses en la nueva etapa de Donald Trump (la Bolsa al alza y la divisa a la baj… [+1878 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso cede ante el dólar tras aprobación del ‘gran y hermoso’ plan fiscal de Trump",
+      "Description": "La especialista Gabriela Siller señaló que el plan fiscal de Donald Trump 'no es una buena noticia' porque aumentará la deuda de EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/01/peso-dolar-precio-hoy-1-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HJNEUV76PVEPBKNUUKCLL7QSCE.jpg?smart=true&auth=9ce4c21b916ee3dd3e8ca882a589f096315a131b1230a1f5702b9d892e99cf76&width=1200&height=630",
+      "PublishedAt": "2025-07-01T18:32:59Z",
+      "Content": "El peso mexicano vio reducidas sus ganancias contra el dólar después de que el Senado de Estados Unidos aprobó el gran y hermoso plan fiscal de Donald Trump que incluye 4.5 billones de dólares en rec… [+1894 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AMHII3SUSZDPFE6FAK27NXCW6U.jpg?smart=true&auth=f527627c78a42787ca7084bc6f35abc03422f479acde2862e30da0810e156b33&width=1200&height=630",
       "PublishedAt": "2025-06-25T16:57:52Z",
       "Content": "Un mayor apetito en los mercados por los activos de riesgo después del alto al fuego entre Israel e Irán impulsa los avances del peso mexicano frente al dólar este miércoles 25 de junio. \r\nDonald Tru… [+2144 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso va por tercera sesión de ganancias! Precio del dólar hoy 25 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por tercera sesión consecutiva, con lo que el precio del dólar hoy 25 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-25-junio-2025-tipo-cambio-bancos-mexico/1723576",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/25/3331097.jpg",
-      "PublishedAt": "2025-06-25T14:49:58Z",
-      "Content": "El peso mexicano avanza por tercera sesión consecutiva, con lo que el precio del dólar hoy 25 de junio de 2025 cotiza en 18.95 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1702 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 25 de junio",
-      "Description": "Consulta el tipo de cambio del dólar a peso mexicano hoy, miércoles 25 de junio, según el Diario Oficial de la Federación (DOF); conoce el valor actualizado y el contexto económico que influye en la cotización.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-25-de-junio-nid25062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-25T14:15:27Z",
-      "Content": "Este miércoles 25 de junio de 2025, el precio del dólar en Méxicoes de 19,0267 pesos, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada se registra una ligera aprecia… [+1829 chars]"
     }
   ]
 }
