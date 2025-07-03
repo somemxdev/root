@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,45 +301,6 @@
       "UrlToImage": "https://phantom-marca.uecdn.es/e3d8eb3de8854d2273d92b8b6e5a5e4a/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/03/17489732217385.jpg",
       "PublishedAt": "2025-06-03T18:00:19Z",
       "Content": "Aaron Judge has become more than a profitable investment for the Yankees, who see \"The Judge\" as a valuable asset.\r\nJudge has delivered excellent results in center field, and this has become a hefty … [+1963 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Gigi Suhanic",
-      "Title": "Canadian dollar pushes through 73 cents U.S. on more tariff turmoil and possible Bank of Canada hold",
-      "Description": "The Canadian dollar pushed past 73 cents U.S. on Monday on the rising chances of the Bank of Canada holding interest rates. Find out more",
-      "Url": "https://financialpost.com/news/economy/canadian-dollar-73-cents-u-s-tariffs-turmoil",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/06/0603-mg-loonie.jpg",
-      "PublishedAt": "2025-06-02T16:19:53Z",
-      "Content": "The Canadian dollar pushed past 73 cents U.S. on Monday on the rising chances of the Bank of Canadaholding interest rates this week as rising tariff risks weaken the greenback.\r\nTHIS CONTENT IS RESER… [+4952 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Kelly Burch",
-      "Title": "I own a multimillion-dollar business and believe teaching my kids about money is as important as literacy. Here's how I'm doing it.",
-      "Description": "Jhalesa Seymour founded Salt.XO while in college and now it's a multimillion dollar company. She talks to her 5-year-old about money and saving.",
-      "Url": "https://www.businessinsider.com/multimillionaire-believes-that-teaching-kids-about-money-is-important-2025-6",
-      "UrlToImage": "https://i.insider.com/68078bcaa466d2b74ab3c465?width=1200&format=jpeg",
-      "PublishedAt": "2025-06-02T12:32:01Z",
-      "Content": "Jhalesa Seymour is teaching her son financial literacy.Courtesy of Jhalesa Seymour\r\n<ul><li>Jhalesa Seymour founded a feminine hygiene company in college.</li><li>She hit $1 million in sales her seco… [+4091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "Omkar Godbole",
-      "Title": "U.S Dollar to Slide Further This Summer, Bank of America Warns",
-      "Description": "Weakness in the U.S. dollar is widely seen as positive for dollar-denominated assets, such as bitcoin and gold.",
-      "Url": "https://www.coindesk.com/markets/2025/06/02/u-s-dollar-to-slide-further-this-summer-bank-of-america-warns",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b2c9327039e3e20258657f86ff0266444015e7a5-2848x1352.png",
-      "PublishedAt": "2025-06-02T09:35:20Z",
-      "Content": "Bank of America has warned that the U.S. dollar could be in for a rough summer, having already dropped sharply this year.\r\nThe dollar index, which tracks the value of the U.S. dollar against major cu… [+1930 chars]"
     }
   ]
 }
