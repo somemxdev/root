@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalresearch.ca"
+      },
+      "Author": "Uriel Araujo",
+      "Title": "The BRICS New Development Bank (NDB) versus US Dollar Empire: Quietly Challenging US Financial Hegemony",
+      "Description": "The global financial system, long dominated by Western institutions like the World Bank and the IMF, faces a quiet but persistent challenge from the New Development Bank (NDB), often referred to as the BRICS Bank. Under the leadership of former …\nThe post The…",
+      "Url": "https://www.globalresearch.ca/brics-bank-vs-dollar-empire/5893614",
+      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2021/09/A-NDB.jpg",
+      "PublishedAt": "2025-07-02T14:11:50Z",
+      "Content": "The global financial system, long dominated by Western institutions like the World Bank and the IMF, faces a quiet but persistent challenge from the New Development Bank (NDB), often referred to as t… [+6745 chars]"
+    },
     {
       "Source": {
         "Id": null,

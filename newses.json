@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 145,
+  "TotalResults": 146,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 2 de julio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 2 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-2-de-julio-en-estados-unidos-nid02072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-2-de-WYUN5PN5GNFEDGJ2KSFWNM2APM.jpg?auth=ece00efdfe83d7550efa885630dcc9f5fa26916dd702e669eb941775e0bf926f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-02T14:20:08Z",
+      "Content": "Este miércoles 2 de julio de 2025, el precio del dólar en México es de $18,765, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano se v… [+2208 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.lavdg.com/sc/Z48kf4FDEyzr-3TgpEY1DJ_qEBc=/1280x/2025/06/26/00121750928342047726874/Foto/efe_20250405_164228602.jpg",
       "PublishedAt": "2025-06-26T09:17:00Z",
       "Content": "El dólar americano continúa con la racha de volatilidad en la que lleva inmersa desde inicio del año, coincidiendo con el desembarco de Donald Trump de nuevo en la Casa Blanca. Las divisas europeas, … [+1195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "El euro marca máximos desde 2021 frente al dólar, por encima de 1,17 dólares",
-      "Description": "El tipo de cambio del euro frente al dólar alcanzaba este jueves su nivel más alto desde septiembre de 2021 al situarse por encima de 1,17 dólares en un contexto marcado por las expectativas de bajada de los tipos de interés en Estados Unidos en septiembre y …",
-      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-euro-marca-maximos-2021-frente-dolar-encima-117-dolares-20250626105822.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250626105822_1200.jpg",
-      "PublishedAt": "2025-06-26T08:58:22Z",
-      "Content": "MADRID 26 Jun. (EUROPA PRESS) - \r\n El tipo de cambio del euro frente al dólar alcanzaba este jueves su nivel más alto desde septiembre de 2021 al situarse por encima de 1,17 dólares en un contexto ma… [+1843 chars]"
     }
   ]
 }
