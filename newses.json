@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso interrumpe ganancias ante el dólar: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "El peso se debilitó ante el dólar después de que la Cámara de Representantes de EU advirtió que buscará bajar el déficit propuesto por el plan fiscal de Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/02/peso-dolar-precio-hoy-2-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2TKXAEOKURB7RLHJRBADLVUYJ4.jpg?smart=true&auth=8d2ec82c67c94e0a637e59aac3c41d6da4e7b21b6e431d61aac06f56abcaa013&width=1200&height=630",
+      "PublishedAt": "2025-07-02T16:46:35Z",
+      "Content": "El peso mexicano interrumpe sus ganancias ante el dólar este miércoles 2 de julio pues el dólar empieza a salir de su peor actuación semestral en más de 50 años. \r\nLa depreciación del peso mexicano e… [+1964 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/01cb9281-f0e3-4892-a678-b7dea7f1c9f2_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-06-26T09:36:08Z",
       "Content": "El euro ha marcado este jueves su nivel más alto frente al dólar desde septiembre de 2021, superando el umbral de los 1,17 dólares, impulsado por el creciente nerviosismo en torno a la política monet… [+1895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "La Voz",
-      "Title": "El euro y la libra alcanzan máximos de cuatro años frente al dólar",
-      "Description": "La incertidumbre sobre un posible descenso en los tipos de interés motiva la revalorización de las divisas europeas frente a la estadounidense",
-      "Url": "https://www.lavozdegalicia.es/noticia/economia/2025/06/26/euro-libra-posicionan-maximos-frente-dolar-anos/00031750925897571572973.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/Z48kf4FDEyzr-3TgpEY1DJ_qEBc=/1280x/2025/06/26/00121750928342047726874/Foto/efe_20250405_164228602.jpg",
-      "PublishedAt": "2025-06-26T09:17:00Z",
-      "Content": "El dólar americano continúa con la racha de volatilidad en la que lleva inmersa desde inicio del año, coincidiendo con el desembarco de Donald Trump de nuevo en la Casa Blanca. Las divisas europeas, … [+1195 chars]"
     }
   ]
 }
