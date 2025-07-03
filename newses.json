@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 2 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 2 de julio inicia operaciones con el tipo de cambio interbancario en 18.74pesos mexicanos por billete verde, con una ligera alza del 0.03 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer por séptima sesión consecutiva ante u…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-07-02T11:15:00Z",
+      "Content": "El dólar HOY 2 de julio inicia operaciones con el tipo de cambio interbancario en 18.74 pesos mexicanos por billete verde, con una ligera alza del 0.03 por ciento, según datos de Bloomberg. \r\nEl peso… [+627 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
       "PublishedAt": "2025-06-25T21:04:52Z",
       "Content": "El peso hiló este miércoles dos sesiones debajo de las 19 unidades por dólar, de acuerdo con datos de cierre de Banxico.\r\nEl dólar se ubicó en 18.9244 pesos, lo que significó una apreciación de 0.36%… [+991 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso aumenta ganancias ante el dólar mientras Trump se ‘pelea’ con España: Así va el tipo de cambio",
-      "Description": "En noticias que benefician a México, el peso también se ve impulsado por la perspectiva de un nuevo acuerdo con EU sobre las exportaciones de acero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/25/peso-dolar-precio-hoy-25-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AMHII3SUSZDPFE6FAK27NXCW6U.jpg?smart=true&auth=f527627c78a42787ca7084bc6f35abc03422f479acde2862e30da0810e156b33&width=1200&height=630",
-      "PublishedAt": "2025-06-25T16:57:52Z",
-      "Content": "Un mayor apetito en los mercados por los activos de riesgo después del alto al fuego entre Israel e Irán impulsa los avances del peso mexicano frente al dólar este miércoles 25 de junio. \r\nDonald Tru… [+2144 chars]"
     }
   ]
 }

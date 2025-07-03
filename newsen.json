@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Scammers Drain $20,000 From Billion-Dollar Bank Customer Who Took Out Loan for Business Purposes: Report",
+      "Description": "A customer of a billion-dollar US bank reportedly says scammers stole the funds from her small business loan that she had just received. Lele Ewah, a small business owner in Houston, Texas, says the scam all started with a call from a woman impersonating an o…",
+      "Url": "https://dailyhodl.com/2025/07/02/scammers-drain-20000-from-billion-dollar-bank-customer-who-took-out-loan-for-business-purposes-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/03/freeze-bank-lawsuit.jpg",
+      "PublishedAt": "2025-07-02T11:45:50Z",
+      "Content": "A customer of a billion-dollar US bank reportedly says scammers stole the funds from her small business loan that she had just received.\r\nLele Ewah, a small business owner in Houston, Texas, says the… [+1623 chars]"
+    },
     {
       "Source": {
         "Id": null,
