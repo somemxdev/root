@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 3 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 3 de julio inicia operaciones con el tipo de cambio interbancario en 18.79 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, poniendo fin a una racha de siete jorn…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-03T11:18:00Z",
+      "Content": "El dólar HOY 3 de julio inicia operaciones con el tipo de cambio interbancario en 18.79 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg. \r\nEl peso… [+823 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
       "PublishedAt": "2025-06-26T11:09:00Z",
       "Content": "El dólar HOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.86 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg. \r\nEl pes… [+773 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Esther Chapa",
-      "Title": "El euro alcanza máximos desde 2021 frente al dólar ante la presión de Trump sobre la Fed",
-      "Description": "El euro ha marcado este jueves su nivel más alto frente al dólar desde septiembre de 2021, superando el umbral de los 1,17 dólares, impulsado por el creciente nerviosismo en torno a la política monetaria estadounidense y las presiones políticas sobre la Reser…",
-      "Url": "https://www.elperiodico.com/es/economia/20250626/euro-alcanza-maximos-2021-frente-dolar-119081737",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/01cb9281-f0e3-4892-a678-b7dea7f1c9f2_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2025-06-26T09:36:08Z",
-      "Content": "El euro ha marcado este jueves su nivel más alto frente al dólar desde septiembre de 2021, superando el umbral de los 1,17 dólares, impulsado por el creciente nerviosismo en torno a la política monet… [+1895 chars]"
     }
   ]
 }
