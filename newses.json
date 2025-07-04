@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera! Precio del dólar hoy 3 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera y se aprecia en la jornada de este jueves, con lo que el precio del dólar hoy 3 de julio de 2025 cotiza en 18.69 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa di…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-3-julio-2025-tipo-cambio-bancos-mexico/1725113",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/03/3335984.jpg",
+      "PublishedAt": "2025-07-03T13:54:19Z",
+      "Content": "El peso mexicano se recupera y se aprecia en la jornada de este jueves, con lo que el precio del dólar hoy 3 de julio de 2025 cotiza en 18.69 unidades por cada billete verde; conoce aquí cuál es el t… [+1339 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 3 de julio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 3 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-3-de-julio-en-estados-unidos-nid03072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-03T13:49:43Z",
+      "Content": "Este jueves 3 de julio de 2025,el precio del dólar en México es de $18,754, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es i… [+2502 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/26/3331822.jpg",
       "PublishedAt": "2025-06-26T14:13:16Z",
       "Content": "El peso mexicano avanza en la jornada de este jueves, con lo que el precio del dólar hoy 26 de junio de 2025 cotiza en 18.86 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en … [+1269 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cierra el dólar en niveles de 2022 y el peso aprovecha",
-      "Description": "El peso mexicano acumuló ayer tres días de ganancias. Ante el rebrote de optimismo en la sesión previa, alentado por el alto el fuego entre Irán e Israel, la moneda mexicana tuvo una apreciación diaria de 0.36 por ciento, equivalente a 6.36 centavos, para cer…",
-      "Url": "https://www.jornada.com.mx/2025/06/26/economia/022n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-26T11:12:32Z",
-      "Content": "Periódico La JornadaJueves 26 de junio de 2025, p. 22\r\nEl peso mexicano acumuló ayer tres días de ganancias. Ante el rebrote de optimismo en la sesión previa, alentado por el alto el fuego entre Irán… [+2143 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 26 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.86 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer revirtiendo sus pérdidas iniciales …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
-      "PublishedAt": "2025-06-26T11:09:00Z",
-      "Content": "El dólar HOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.86 pesos mexicanos por billete verde, con una ligera baja del 0.33 por ciento, según datos de Bloomberg. \r\nEl pes… [+773 chars]"
     }
   ]
 }
