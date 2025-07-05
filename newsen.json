@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-06-04T20:55:13Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Aaron Judge's million-dollar contract is cheap for the Yankees: this is the high amount of money he generates",
-      "Description": "Aaron Judge has become more than a profitable investment for the Yankees, who see &quot;The Judge&quot; as a valuable asset.\n\nJudge has delivered excellent results in center field,",
-      "Url": "https://www.marca.com/en/mlb/new-york-yankees/2025/06/03/683f3504ca4741ff238b456d.html",
-      "UrlToImage": "https://phantom-marca.uecdn.es/e3d8eb3de8854d2273d92b8b6e5a5e4a/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/03/17489732217385.jpg",
-      "PublishedAt": "2025-06-03T18:00:19Z",
-      "Content": "Aaron Judge has become more than a profitable investment for the Yankees, who see \"The Judge\" as a valuable asset.\r\nJudge has delivered excellent results in center field, and this has become a hefty … [+1963 chars]"
     }
   ]
 }
