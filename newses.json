@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Susana Pérez",
+      "Title": "Dónde invertir con un euro fuerte y un dólar muy débil",
+      "Description": "El dólar estadounidense está en horas bajas. El índice que mide su comportamiento frente a una canasta de seis divisas se ha depreciado más del 10% frente al resto de...",
+      "Url": "https://www.expansion.com/mercados/2025/07/04/6867016ae5fdeae6358b4599.html",
+      "UrlToImage": "https://phantom-expansion.uecdn.es/03a6aaa8092cfac2d96920da4848507f/crop/42x57/1953x1331/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/04/17515817582305.jpg",
+      "PublishedAt": "2025-07-03T22:32:02Z",
+      "Content": "Repsol, Endesa, Inditex y los 7 magníficos están entre los valores beneficiados por el comportamiento de las divisas.El dólar estadounidense está en horas bajas. El índice que mide su comportamiento … [+4993 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/macroeconomicamente-no-necesitamos-reservas-DUIJC7LHSNEJ7G75UPFPVG3BDM.JPG?auth=3042ba5d6ecbb9d431b300f4924e429779792d32d2aa70880967d4c11e0a4636&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-06-26T21:59:24Z",
       "Content": "La dinámica del sector externo, el nivel del dólar y la acumulación de reservas en el Banco Central (BCRA) es un tema clave del debate económico en el país. Y en ese contexto, el vicepresidente de la… [+2993 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 26 de junio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 25 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-26-de-junio-nid26062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-26-de-6IJKYEMJZNHNXK2A4GMBXU3SIY.jpg?auth=cd64a253ec2cc14beef4ef5190437b81368fdb041a79f637daf401af7d0acf39&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-26T14:14:53Z",
-      "Content": "Este jueves 26 de junio de 2025, el precio del dólar en México es de $18,9203, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano s… [+2272 chars]"
     }
   ]
 }
