@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 5 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de julio el tipo de cambio interbancario, se ubica en 18.62 pesos por unidad, con una pérdida del 0.11 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-07-05T12:55:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de julio el tipo de cambio interbancario, se ubica en 18.62 pesos por unidad, con una pérdida del 0.11 por ciento,… [+1945 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘arruina’ Día de la Independencia al dólar y extiende nivel récord: ¿En cuánto se cotiza HOY?",
+      "Description": "El dólar se debilitó en los mercados por los comentarios de Trump sobre que aplicará aranceles de hasta 70% a socios comerciales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/04/peso-dolar-precio-hoy-4-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ROFFFSPKYRFVHNMF4NMX2PEQGM.jpg?smart=true&auth=aadec09f2169d2c4019ad3ca8d9756840d65a147a567aeb1a87590a0c12f5e48&width=1200&height=630",
+      "PublishedAt": "2025-07-04T17:10:41Z",
+      "Content": "El peso mexicano arruina el Día de la Independencia para el dólar y extiende sus ganancias récord en 2025 este viernes 4 de julio. Se espera que este día sea de poca liquidez en los mercados debido a… [+1563 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso cae ligeramente! Precio del dólar hoy 4 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ligeramente en la jornada de este viernes, con lo que el precio del dólar hoy 4 de julio de 2025 cotiza en 18.63 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divi…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-4-julio-2025-tipo-cambio-bancos-mexico/1725340",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/04/3336724.jpg",
+      "PublishedAt": "2025-07-04T14:07:20Z",
+      "Content": "El peso mexicano retrocede ligeramente en la jornada de este viernes, con lo que el precio del dólar hoy 4 de julio de 2025 cotiza en 18.63 unidades por cada billete verde; conoce aquí cuál es el tip… [+1344 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 4 de julio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 4 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-4-de-julio-en-estados-unidos-nid04072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-4-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-04T14:06:26Z",
+      "Content": "Este viernes 4 de julio de 2025,el precio del dólar en México es de $18,6652, de acuerdo con el Diario Oficial de la Federación (DOF). Durante la mañana, el desempeño del peso mexicano se vio impacta… [+1984 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 4 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 4 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, poniendo fin a una racha de siete jorna…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-04T11:24:00Z",
+      "Content": "El dólar HOY 4 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.\r\nEl peso … [+608 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/H47VXLNJJNB3XKBYGKV4NA6M3U.jpg?smart=true&auth=7548ba7a2bac100112c4b8480f8107c0c13ffdf92017365666ca0e2ddaae4909&width=1440",
       "PublishedAt": "2025-06-27T23:29:35Z",
       "Content": "En la jornada de este viernes 27 de junio, el precio del dólar fue de ¢507,27, con lo cual registró una reducción de ¢1,84 respecto al mismo día de la semana pasada, cuando se situó en ¢509,11.\r\nEste… [+2644 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, a punto de ponerle ‘broche de oro’ a la semana: ¿Cuánto gana al dólar HOY?",
-      "Description": "Los consumidores en Estados Unidos están gastando menos, lo que eleva la posibilidad de un recorte de la Fed en septiembre, un factor que debilita al dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/27/peso-dolar-precio-hoy-27-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GO6PSHXI7FDEXBGTCAICV62T54.jpg?smart=true&auth=c0477c4cbb948e2d5ca95212c260191e75a777dd0530a2c9951d7a616e6b70ea&width=1200&height=630",
-      "PublishedAt": "2025-06-27T16:51:33Z",
-      "Content": "El peso mexicano aumenta sus ganancias ante el dólar después de que el Banxico recortó su tasa de interés a 8 por ciento y tras la noticia de que Donald Trump alcanzó un nuevo acuerdo comercial con C… [+1897 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso va por su quinta jornada de ganancias! Precio del dólar hoy 27 de junio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene la buena racha al apreciarse en la jornada de este viernes, con lo que el precio del dólar hoy 27 de junio de 2025 cotiza en 18.85 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-27-junio-2025-tipo-cambio-bancos-mexico/1724024",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/27/3332576.jpg",
-      "PublishedAt": "2025-06-27T15:00:20Z",
-      "Content": "El peso mexicano mantiene la buena racha al apreciarse en la jornada de este viernes, con lo que el precio del dólar hoy 27 de junio de 2025 cotiza en 18.85 unidades por cada billete verde; conoce aq… [+1440 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 27 de junio de 2025",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 27 de junio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-27-de-junio-de-2025-nid27062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-27-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-27T14:01:35Z",
-      "Content": "Este viernes 27 de junio de 2025, el precio del dólar en México es de $18,8928, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano … [+2125 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Serrat García",
-      "Title": "Precio del dólar HOY viernes 27 de junio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.86 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el jueves después de que el banco centr…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-de-junio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-06-27T11:00:01Z",
-      "Content": "El dólar HOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.86 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso… [+733 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "“Sobran reservas”: el vicepresidente del Banco Central rechazó las críticas al Gobierno por el dólar",
-      "Description": "Vladimir Werning sostuvo que la entidad tiene como objetivo sumar divisas, pero prioriza otros objetivos de corto plazo; dijo que no habrá conflicto por la meta pautada con el FMI",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/sobran-reservas-el-vicepresidente-del-banco-central-rechazo-las-criticas-al-gobierno-por-el-dolar-nid26062025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/macroeconomicamente-no-necesitamos-reservas-DUIJC7LHSNEJ7G75UPFPVG3BDM.JPG?auth=3042ba5d6ecbb9d431b300f4924e429779792d32d2aa70880967d4c11e0a4636&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-06-26T21:59:24Z",
-      "Content": "La dinámica del sector externo, el nivel del dólar y la acumulación de reservas en el Banco Central (BCRA) es un tema clave del debate económico en el país. Y en ese contexto, el vicepresidente de la… [+2993 chars]"
     }
   ]
 }

@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mark Emem",
+      "Title": "Billion-Dollar Bank Handing Thousands of Dollars To Data Breach Victim After Cybersecurity Incident Exposed Names, Social Security Numbers, Account Details",
+      "Description": "Victims of a bank data breach are set to receive up to $3,000 each after a settlement was reached in a class action lawsuit. According to the settlement administration portal, impacted customers at Arizona-based Evolve Bank & Trust who file a claim and provid…",
+      "Url": "https://dailyhodl.com/2025/07/05/billion-dollar-bank-handing-thousands-of-dollars-to-data-breach-victim-after-cybersecurity-incident-exposed-names-social-security-numbers-account-details/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/07/breach-cash-settlement.jpg",
+      "PublishedAt": "2025-07-05T17:46:28Z",
+      "Content": "Victims of a bank data breach are set to receive up to $3,000 each after a settlement was reached in a class action lawsuit.\r\nAccording to the settlement administration portal, impacted customers at … [+1745 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar slips versus major currencies as US tariff deadline looms - Yahoo Finance",
+      "Description": "Dollar slips versus major currencies as US tariff deadline loomsYahoo Finance Stocks, Futures Slide on Trump’s Tariff Threat: Markets WrapBloomberg.com Why is the dollar off to a weak start this year?NPR U.S. Dollar Eases as Tariff Deadline LoomsWSJ An Indepe…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=178282928",
+      "UrlToImage": null,
+      "PublishedAt": "2025-07-04T20:54:52Z",
+      "Content": "\"The value of marriage is not that adults produce children, but that children \r\nproduce adults.\"\r\n-- Peter De Vries"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ZyCrypto"
+      },
+      "Author": "Troy Watson",
+      "Title": "Chinese Tech Giants JD and Ant Group Push Central Bank to Launch Yuan Stablecoins Against Dollar Dominance",
+      "Description": "Chinese e-commerce companies JD and Ant Group have been petitioning the People’s Bank of China (PBOC) to approve Yuan-based stablecoins, aiming to compete with US dollar stablecoins that currently dominate the market. E-commerce companies suggest that the PBO…",
+      "Url": "https://zycrypto.com/chinese-tech-giants-jd-and-ant-group-push-central-bank-to-launch-yuan-stablecoins-against-dollar-dominance/",
+      "UrlToImage": "https://zycrypto.com/wp-content/uploads/2021/06/Chinas-State-Owned-ICBC-Bank-To-Offer-Digital-Yuans-Cash-Withdrawals-In-Beijing.jpg",
+      "PublishedAt": "2025-07-04T13:01:32Z",
+      "Content": "Chinese e-commerce companies JD and Ant Group have been petitioning the People’s Bank of China (PBOC) to approve Yuan-based stablecoins, aiming to compete with US dollar stablecoins that currently do… [+3712 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Posthaste: Canadian dollar could hit 78 cents U.S. and sooner than expected, says Scotiabank analyst",
+      "Description": "The loonie has clocked a strong run over the last six months and more upside is expected as headwinds build for its U.S. counterpart",
+      "Url": "https://financialpost.com/news/canadian-dollar-could-hit-78-us-cents-scotiabank",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/07/canadian-dollar-gs0703.jpg",
+      "PublishedAt": "2025-07-04T12:06:28Z",
+      "Content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+5020 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: MAS slaps 9 financial institutions with S$27.45 million in penalties",
+      "Description": "Credit Suisse, UOB, UBS, UOB Kay Hian and Citibank were among the financial institutions penalised.",
+      "Url": "https://www.channelnewsasia.com/singapore/mas-27-million-penalty-banks-credit-suisse-uob-ubs-money-laundering-case-5220456",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--Dajdj1yJ--/c_crop,h_900,w_1600,x_0,y_124/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/07/04/monetary_authority_of_singapore_mas.jpg?itok=cVo5zsrP",
+      "PublishedAt": "2025-07-04T09:30:05Z",
+      "Content": "MAS said that it found shortcomings in four areas.\r\nFirst, lapses in customer risk assessment were found in Bank Julius Baer, Blue Ocean Invest, Citibank, Credit Suisse and UOB Kay Hian.\r\nThese insti… [+3084 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Amalgamated Bank Purchases 526 Shares of Dollar General Corporation (NYSE:DG)",
+      "Description": "Amalgamated Bank raised its stake in Dollar General Corporation (NYSE:DG – Free Report) by 1.2% during the first quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 42,891 shares of the company’s stock afte…",
+      "Url": "https://www.etfdailynews.com/2025/07/04/amalgamated-bank-purchases-526-shares-of-dollar-general-corporation-nysedg/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2025-07-04T08:24:50Z",
+      "Content": "Amalgamated Bank raised its stake in Dollar General Corporation (NYSE:DG – Free Report) by 1.2% during the first quarter, according to its most recent filing with the Securities and Exchange Commissi… [+6413 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -262,32 +340,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/06/20231107rpaz0114d006_286438172.jpg",
       "PublishedAt": "2025-06-07T10:00:21Z",
       "Content": "While I dont like what hes saying, I see this as an opportunity to get ourselves going, Reed said. We have not done our job in a long time. Weve not fulfilled our commitments, and this a kick in the … [+3039 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar General (NYSE:DG) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "Description": "Dollar General (NYSE:DG – Free Report) had its price target increased by Bank of America from $115.00 to $135.00 in a report issued on Wednesday morning,Benzinga reports. The brokerage currently has a buy rating on the stock. Other equities research analysts …",
-      "Url": "https://www.etfdailynews.com/2025/06/05/dollar-general-nysedg-stock-price-expected-to-rise-bank-of-america-analyst-says-2/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-06-05T09:36:50Z",
-      "Content": "Dollar General (NYSE:DG – Free Report) had its price target increased by Bank of America from $115.00 to $135.00 in a report issued on Wednesday morning,Benzinga reports. The brokerage currently has … [+5278 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar to decline further on U.S. fiscal, growth and trade risks: Reuters poll - Yahoo Finance",
-      "Description": "Dollar to decline further on U.S. fiscal, growth and trade risks: Reuters pollYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=177929962",
-      "UrlToImage": null,
-      "PublishedAt": "2025-06-04T20:55:13Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
