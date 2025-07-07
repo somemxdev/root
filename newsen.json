@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "US Dollar Witnesses Worst First-Half Performance in 52 Years As Money Supply Explodes To $21,942,000,000,000",
+      "Description": "The US dollar index (DXY) has suffered its steepest first-half decline in over half a century amid new all-time high levels for the country’s money supply. The DXY witnessed a 10.8% drop in the first six months of 2025, the worst since its 14.8% decline in th…",
+      "Url": "https://dailyhodl.com/2025/07/06/us-dollar-witnesses-worst-first-half-performance-in-52-years-as-money-supply-explodes-to-21942000000000/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-fraud-dollars.jpg",
+      "PublishedAt": "2025-07-06T10:00:57Z",
+      "Content": "The US dollar index (DXY) has suffered its steepest first-half decline in over half a century amid new all-time high levels for the country’s money supply.\r\nThe DXY witnessed a 10.8% drop in the firs… [+2169 chars]"
+    },
     {
       "Source": {
         "Id": null,
