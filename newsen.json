@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/Bitgo_17492221183JY8v3rjax.jpg",
       "PublishedAt": "2025-06-11T13:00:20Z",
       "Content": "June 10th, 2025 Dubai, UAE\r\nclass=”ql-align-justify”&gt;Falcon Finance, the synthetic dollar protocol backed by DWF Labs, has announced an upcoming integration with BitGo to provide secure custody su… [+4588 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Sending $3,125,000 To Customers Over Alleged Breach of Contract, Improper Overdraft Fees",
-      "Description": "A US bank is preparing to pay millions of dollars to settle a lawsuit that accused the lender of breach of contract. According to a preliminary approval order, Illinois-based Midland States Bank will pay $3.125 million to settle accusations that the billion-d…",
-      "Url": "https://dailyhodl.com/2025/06/06/billion-dollar-bank-handing-3125000-to-customers-for-alleged-breach-of-contract-improper-overdraft-fees/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/bank-paying-dollar.jpg",
-      "PublishedAt": "2025-06-07T16:48:54Z",
-      "Content": "A US bank is preparing to pay millions of dollars to settle a lawsuit that accused the lender of breach of contract.\r\nAccording to a preliminary approval order, Illinois-based Midland States Bank wil… [+1513 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "National Post"
-      },
-      "Author": "Chris Lambie",
-      "Title": "How a multibillion dollar defence bank could help Canada increase its military spending",
-      "Description": "How Canada Wins: 'We have to use our capital markets of allied nations for overwhelming force against our foes,' says defence bank president",
-      "Url": "https://nationalpost.com/news/canada/how-canada-wins-defence-bank",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/06/20231107rpaz0114d006_286438172.jpg",
-      "PublishedAt": "2025-06-07T10:00:21Z",
-      "Content": "While I dont like what hes saying, I see this as an opportunity to get ourselves going, Reed said. We have not done our job in a long time. Weve not fulfilled our commitments, and this a kick in the … [+3039 chars]"
     }
   ]
 }
