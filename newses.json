@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Al peso se le ‘acaban’ los récords ante el dólar: ¿Cuántos centavos pierde HOY ?",
+      "Description": "Los mercados se 'estresan' este lunes 7 de julio después de que el presidente Donald Trump reveló que Corea del Sur y Japón pagarán un arancel de 25%",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/07/peso-dolar-precio-hoy-7-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CXL3P3N2ENEM3BGDSYLQJWP3BE.jpg?smart=true&auth=f317e035c951e0c946897bf897c0ca75b45c896b4bda0d4bc5b25991eda48d4f&width=1200&height=630",
+      "PublishedAt": "2025-07-07T17:56:27Z",
+      "Content": "El peso mexicano arranca la semana con pérdidas ante el dólar en una sesión marcada por el anuncio de aranceles de Donald Trump a Corea del Sur y Japón. \r\nLa depreciación del peso mexicano es de 0.34… [+1765 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/OBBIBFOM75B43O62ZRAS4SC2VQ_1.jpg?itok=h1jNtOtk",
       "PublishedAt": "2025-06-29T16:18:06Z",
       "Content": "En los últimos días, el dólar ha mostrado una tendencia a la baja y cerró el último viernes en S/3.550, cotización que no se registraba desde septiembre de 2020, es decir, desde la pandemia. El bille… [+5119 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Debilidad del dólar no daña su estatus de moneda de reserva global",
-      "Description": "El descalabro del dólar este 2025, calificado como su peor desempeño desde 1973, no quiere decir que esté perdiendo su estatus de reserva de valor a escala mundial, consideraron analistas económicos.",
-      "Url": "https://www.jornada.com.mx/2025/06/29/economia/017n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-06-29T09:14:14Z",
-      "Content": "Periódico La JornadaDomingo 29 de junio de 2025, p. 17\r\nEl descalabro del dólar este 2025, calificado como su peor desempeño desde 1973, no quiere decir que esté perdiendo su estatus de reserva de va… [+2271 chars]"
     }
   ]
 }
