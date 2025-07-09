@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 8 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 8 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se replegaba ante un repunte generalizado del dólar, …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-07-08T10:59:00Z",
+      "Content": "El dólar HOY 8 de julio inicia operaciones con el tipo de cambiointerbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso m… [+615 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/31/peso-deprecia-frente-dolar-amagos.jpeg",
       "PublishedAt": "2025-06-30T11:08:00Z",
       "Content": "El dólar HOY 26 de junio inicia operaciones con el tipo de cambio interbancario en 18.84 pesos mexicanos por billete verde, con una ligera alza de 0.10 por ciento, según datos de Bloomberg.\r\nEl peso … [+854 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Fabiana Sanchez",
-      "Title": "Dólar a la baja: ¿en qué moneda me endeudo?",
-      "Description": "El tipo de cambio está en mínimos de antes de la pandemia, motivo por el cual surge la interrogante sobre qué hacer con los préstamos y ahorros | Dólar | Economía",
-      "Url": "https://peru21.pe/economia/dolar-la-baja-en-que-moneda-me-endeudo/",
-      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/OBBIBFOM75B43O62ZRAS4SC2VQ_1.jpg?itok=h1jNtOtk",
-      "PublishedAt": "2025-06-29T16:18:06Z",
-      "Content": "En los últimos días, el dólar ha mostrado una tendencia a la baja y cerró el último viernes en S/3.550, cotización que no se registraba desde septiembre de 2020, es decir, desde la pandemia. El bille… [+5119 chars]"
     }
   ]
 }
