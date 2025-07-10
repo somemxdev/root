@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Vivian Nguyen",
+      "Title": "Trillion-dollar bank clears Bitwise crypto ETF for advisor-managed accounts",
+      "Description": "Institutional adoption of crypto ETFs signals a shift towards mainstream acceptance, potentially increasing crypto's role in diversified portfolios.\nThe post Trillion-dollar bank clears Bitwise crypto ETF for advisor-managed accounts appeared first on Crypto …",
+      "Url": "https://cryptobriefing.com/crypto-etf-approval-bitwise-bank/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/07/08201603/8f930958-3015-4fc3-a336-ebbf5dfc6a92-800x420.jpg",
+      "PublishedAt": "2025-07-09T00:18:07Z",
+      "Content": "Key Takeaways\r\n<ul><li>A trillion-dollar bank has cleared the Bitwise crypto ETF for advisor-managed accounts.</li><li>The approval signals growing institutional acceptance of regulated crypto invest… [+916 chars]"
+    },
     {
       "Source": {
         "Id": null,
