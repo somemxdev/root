@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "¿Un dólar más alto?: desde que flota, el tipo de cambio real se recuperó sin un impacto en la inflación",
+      "Description": "Rebotó 16% por la suba local de la moneda, mientras la divisa estadounidense caía a la vez en el mercado global",
+      "Url": "https://www.lanacion.com.ar/economia/un-dolar-mas-alto-desde-que-flota-el-tipo-de-cambio-real-mostro-una-fuerte-recuperacion-nid09072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-baja-global-del-dolar-y-su-suba-local-claves-63JV23NDGZALBB4QT5JLDUXSNA.JPG?auth=1ac71ac828571f252caaa8eab6e9301dd32de36a88bffeb583f76ffc5b5c409c&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-09T13:39:37Z",
+      "Content": "El tipo de cambio real multilateral acumuló una recuperación del 15,8% desde que el Gobierno decidió dejar flotar al dólar entre bandas de precios divergentes -que van ahora de los $972 a los $1440-.… [+3624 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7OVKHURPQBCC3BCCMF2HHOXWGI.jpg?smart=true&auth=0b9781f554940a9058ae82dd52ff2aa64ed44bec083eb5ecac8cb0d3ec822b0d&width=1200&height=630",
       "PublishedAt": "2025-07-01T01:29:09Z",
       "Content": "¡El dólar va en caída libre durante este 2025! Al cierre de los mercados financieros, la divisa estadounidense acumuló una pérdida de 10.8 por ciento, la mayor registrada en un semestre desde 1973.\r\n… [+3920 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "El peso se ‘queda tieso’ ante el dólar mientras Senado de EU debate plan fiscal de Trump",
-      "Description": "En el plano de los aranceles, se acerca el final de la pausa de 90 días decretada por Trump para negociar tarifas con sus socios comerciales.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/06/30/peso-dolar-precio-hoy-30-de-junio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KRRFRT6L6JFWLH3OB2IIERDFQQ.jpg?smart=true&auth=5dc35a3c3b872021c0e3e8c1dcf438c63ec90327f15b2a0ee98f37b70130617e&width=1200&height=630",
-      "PublishedAt": "2025-06-30T16:41:16Z",
-      "Content": "El peso mexicano está tablas con el dólar en la última sesión de junio mientras el Senado de Estados Unidos inicia la discusión del gran y hermoso plan fiscal del presidente Donald Trump. \r\nDe acuerd… [+1937 chars]"
     }
   ]
 }
