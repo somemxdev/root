@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 136,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le echa ganas’ tras dato de inflación en México: Abre en 18.55 unidades por dólar",
+      "Description": "El peso mexicano registra ganancias por el efecto estacional de julio, señalan especialistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/09/peso-dolar-tipo-de-cambio-hoy-9-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T24RSEXHMFBDPNORH2FTYSU36E.jpg?smart=true&auth=28a26711a609ce153f229478ff1120513d1e708080eb6b20a51cf7b2e5dedc12&width=1200&height=630",
+      "PublishedAt": "2025-07-09T16:12:47Z",
+      "Content": "El peso mexicano inicia la sesión cotizando aún en terreno de ganancias, al tiempo que los inversionistas asimilan los datos de inflación en México, que se desaceleró a 4.32 por ciento en junio.\r\nLa … [+1700 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/01/3334428.jpg",
       "PublishedAt": "2025-07-01T14:46:22Z",
       "Content": "El peso mexicano avanza por séptima jornada consecutiva, con lo que el precio del dólar hoy 1 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 1º de julio en Estados Unidos",
-      "Description": "Consulta el precio del dólar en México hoy, martes 1º de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-1-de-julio-en-estados-unidos-nid01072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-1o-de-JECMCJNFOFEDHLJATJCAWERKZY.jpg?auth=d6b59c672db06221b467a524df19d71c82935b4ad5731157b256c29420f43ed6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-01T13:57:45Z",
-      "Content": "Este martes 1º de julio de 2025, el precio del dólar en México es de $18,8332, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+2343 chars]"
     }
   ]
 }
