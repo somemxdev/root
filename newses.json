@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano se aprecia, en medio de un avance global del dólar",
+      "Description": "El peso mexicano se apreció ligeramente 0.08 por ciento, cerrando la jornada en 18.61 unidades por dólar, este jueves 10 de julio de 2025.Las pequeñas ganancias se presentaron en medio de un avance global del dólar y luego de la divulgación de cifras que most…",
+      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-10-julio-2025",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/28/pago-de-utilidades-en-guanajuato.jpg",
+      "PublishedAt": "2025-07-10T20:28:00Z",
+      "Content": "El peso mexicano se apreció ligeramente 0.08 por ciento, cerrando la jornada en 18.61 unidades por dólar, este jueves 10 de julio de 2025.\r\nLas pequeñas ganancias se presentaron en medio de un avance… [+1920 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-3-de-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-03T13:49:43Z",
       "Content": "Este jueves 3 de julio de 2025,el precio del dólar en México es de $18,754, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es i… [+2502 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 3 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 3 de julio inicia operaciones con el tipo de cambio interbancario en 18.79 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, poniendo fin a una racha de siete jorn…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-3-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-07-03T11:18:00Z",
-      "Content": "El dólar HOY 3 de julio inicia operaciones con el tipo de cambio interbancario en 18.79 pesos mexicanos por billete verde, con una ligera baja del 0.05 por ciento, según datos de Bloomberg. \r\nEl peso… [+823 chars]"
     }
   ]
 }
