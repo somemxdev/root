@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso opera estable! Precio del dólar hoy 10 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano opera estable en la jornada de este jueves, con lo que el precio del dólar hoy 10 de julio de 2025 cotiza en 18.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexic…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-julio-2025-tipo-cambio-bancos-mexico/1726384",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/10/3339942.jpg",
+      "PublishedAt": "2025-07-10T15:05:49Z",
+      "Content": "El peso mexicano opera estable en la jornada de este jueves, con lo que el precio del dólar hoy 10 de julio de 2025 cotiza en 18.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cam… [+1036 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/02/3335258.jpg",
       "PublishedAt": "2025-07-02T13:37:35Z",
       "Content": "El peso mexicano retrocede en la jornada de este miércoles y pone fin a una racha de siete sesiones de ganancias, con lo que el precio del dólar hoy 2 de julio de 2025 cotiza en 18.77 unidades por ca… [+1375 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 2 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 2 de julio inicia operaciones con el tipo de cambio interbancario en 18.74pesos mexicanos por billete verde, con una ligera alza del 0.03 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer por séptima sesión consecutiva ante u…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-07-02T11:15:00Z",
-      "Content": "El dólar HOY 2 de julio inicia operaciones con el tipo de cambio interbancario en 18.74 pesos mexicanos por billete verde, con una ligera alza del 0.03 por ciento, según datos de Bloomberg. \r\nEl peso… [+627 chars]"
     }
   ]
 }
