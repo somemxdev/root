@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbc-news",
+        "Name": "CBC News"
+      },
+      "Author": null,
+      "Title": "Small town, big money: How Country Thunder became a multimillion-dollar business",
+      "Description": "Country Thunder is a multimillion-dollar brand that encompasses five music festivals across North America, but its president and CEO started off by being a stagehand at Craven's Big Valley Jamboree.",
+      "Url": "https://www.cbc.ca/news/canada/saskatchewan/country-thunder-music-festival-1.7579926",
+      "UrlToImage": "https://i.cbc.ca/1.7580088.1752003038!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/troy-and-friends.jpg?im=Resize%3D620",
+      "PublishedAt": "2025-07-10T10:00:46Z",
+      "Content": "This week, the tiny village of Craven, Sask. will explode from a population of about 260 people to more than 25,000 ready to rock out with some of country music's biggest names.\r\nWhat started as Big … [+4187 chars]"
+    },
     {
       "Source": {
         "Id": null,
