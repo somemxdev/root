@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 10 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 10 de julio inicia operaciones con el tipo de cambio interbancario en 18.66 pesos mexicanos por billete verde, con una ligera baja del 0.15 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer luego de darse a conocer el dato d…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-10T11:00:00Z",
+      "Content": "El dólar HOY 10 de julio inicia operaciones con el tipo de cambio interbancario en 18.66 pesos mexicanos por billete verde, con una ligera baja del 0.15 por ciento, según datos de Bloomberg.  \r\nEl pe… [+800 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HJNEUV76PVEPBKNUUKCLL7QSCE.jpg?smart=true&auth=9ce4c21b916ee3dd3e8ca882a589f096315a131b1230a1f5702b9d892e99cf76&width=1200&height=630",
       "PublishedAt": "2025-07-01T18:32:59Z",
       "Content": "El peso mexicano vio reducidas sus ganancias contra el dólar después de que el Senado de Estados Unidos aprobó el gran y hermoso plan fiscal de Donald Trump que incluye 4.5 billones de dólares en rec… [+1894 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso hila séptima jornada de ganancias! Precio del dólar hoy 1 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanza por séptima jornada consecutiva, con lo que el precio del dólar hoy 1 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana r…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-1-julio-2025-tipo-cambio-bancos-mexico/1724648",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/01/3334428.jpg",
-      "PublishedAt": "2025-07-01T14:46:22Z",
-      "Content": "El peso mexicano avanza por séptima jornada consecutiva, con lo que el precio del dólar hoy 1 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio e… [+1422 chars]"
     }
   ]
 }
