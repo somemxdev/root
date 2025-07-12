@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 11 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 11 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-11-de-julio-nid11072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-11T13:49:47Z",
+      "Content": "Este viernes 11 de julio de 2025, el precio del dólar en México es de $18,6267, de acuerdo con el Diario Oficial de la Federación (DOF). Durante la mañana, el desempeño del peso mexicano se ve impact… [+2056 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DHXSYOT6YZDKLMDXVXZATY5TEY.jpg?smart=true&auth=3783a03a6a48be50a0f4faf3934822492eeaa965fe0ed79e84e3c09ab41ab4a9&width=1200&height=630",
       "PublishedAt": "2025-07-03T15:18:25Z",
       "Content": "El peso mexicano marca su mejor nivel de 2025 ante el dólar, mientras el mercado asimila el reporte de EU sobre creación de empleos en junio, que superó las expectativas, lo que beneficiaría al dinam… [+1668 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera! Precio del dólar hoy 3 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera y se aprecia en la jornada de este jueves, con lo que el precio del dólar hoy 3 de julio de 2025 cotiza en 18.69 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa di…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-3-julio-2025-tipo-cambio-bancos-mexico/1725113",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/03/3335984.jpg",
-      "PublishedAt": "2025-07-03T13:54:19Z",
-      "Content": "El peso mexicano se recupera y se aprecia en la jornada de este jueves, con lo que el precio del dólar hoy 3 de julio de 2025 cotiza en 18.69 unidades por cada billete verde; conoce aquí cuál es el t… [+1339 chars]"
     }
   ]
 }
