@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "UANL",
+      "Title": "Jorge O. Moreno: La robustez del peso y la debilidad del dólar: algunas reflexiones",
+      "Description": null,
+      "Url": "https://www.elfinanciero.com.mx/monterrey/2025/07/11/jorge-o-moreno-la-robustez-del-peso-y-la-debilidad-del-dolar-algunas-reflexiones/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XEW6IODYOBEN5OYOGZ4YZE367U.jpg?smart=true&auth=c34573ea85fb8bc1345341f004db3e48154011fe7db99bc43d132eb4e1a88874&width=1200&height=630",
+      "PublishedAt": "2025-07-11T17:12:36Z",
+      "Content": "Desde comienzos de 2025, el peso mexicano ha mostrado una robustez sorprendente. Contra la mayoría de los pronósticos, se ha mantenido por debajo de los 18.80 pesos por dólar durante buena parte del … [+4488 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/04/3336724.jpg",
       "PublishedAt": "2025-07-04T14:07:20Z",
       "Content": "El peso mexicano retrocede ligeramente en la jornada de este viernes, con lo que el precio del dólar hoy 4 de julio de 2025 cotiza en 18.63 unidades por cada billete verde; conoce aquí cuál es el tip… [+1344 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 4 de julio en Estados Unidos",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 4 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-4-de-julio-en-estados-unidos-nid04072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-4-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-04T14:06:26Z",
-      "Content": "Este viernes 4 de julio de 2025,el precio del dólar en México es de $18,6652, de acuerdo con el Diario Oficial de la Federación (DOF). Durante la mañana, el desempeño del peso mexicano se vio impacta… [+1984 chars]"
     }
   ]
 }
