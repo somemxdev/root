@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Dollar Tree, Inc. (NASDAQ:DLTR) Shares Sold by Bank of New York Mellon Corp",
+      "Description": "Bank of New York Mellon Corp lessened its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.5% during the first quarter, according to the company in its most recent 13F filing with the SEC. The institutional investor owned 1,124,649 shares of the co…",
+      "Url": "https://www.etfdailynews.com/2025/07/11/dollar-tree-inc-nasdaqdltr-shares-sold-by-bank-of-new-york-mellon-corp/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2025-07-11T09:12:57Z",
+      "Content": "Bank of New York Mellon Corp lessened its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.5% during the first quarter, according to the company in its most recent 13F filing with the SEC.… [+6264 chars]"
+    },
     {
       "Source": {
         "Id": "cbc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2025/02/bank-of-america-stablecoin.jpg",
       "PublishedAt": "2025-06-11T21:33:30Z",
       "Content": "Bank of America CEO Brian Moynihan confirmed the lender plans to issue a dollar-pegged stablecoin and is working on an internal build conducted alongside other industry participants, Reuters reported… [+3199 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Chainwire",
-      "Title": "Falcon Finance Announces Custody Integration with BitGo for USDf Synthetic Dollar",
-      "Description": "June 10th, 2025 – Dubai, UAE class=”ql-align-justify”>Falcon Finance, the synthetic dollar protocol backed by DWF Labs, has announced an upcoming integration with BitGo to provide secure custody support for its overcollateralized synthetic dollar, USDf. The p…",
-      "Url": "https://dailyhodl.com/2025/06/11/falcon-finance-announces-custody-integration-with-bitgo-for-usdf-synthetic-dollar/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/Bitgo_17492221183JY8v3rjax.jpg",
-      "PublishedAt": "2025-06-11T13:00:20Z",
-      "Content": "June 10th, 2025 Dubai, UAE\r\nclass=”ql-align-justify”&gt;Falcon Finance, the synthetic dollar protocol backed by DWF Labs, has announced an upcoming integration with BitGo to provide secure custody su… [+4588 chars]"
     }
   ]
 }
