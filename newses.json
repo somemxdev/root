@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Arancel de 35% de Trump a Canadá ‘presiona’ al peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Trump dijo que impondrá un arancel de 35% a Canadá si no cierra un acuerdo antes del 1 de agosto. Las amenazas del presidente de EU impulsan al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/11/peso-dolar-precio-hoy-11-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2TKXAEOKURB7RLHJRBADLVUYJ4.jpg?smart=true&auth=8d2ec82c67c94e0a637e59aac3c41d6da4e7b21b6e431d61aac06f56abcaa013&width=1200&height=630",
+      "PublishedAt": "2025-07-11T15:53:24Z",
+      "Content": "El peso mexicano se presiona ante el dólar este viernes 11 de julio ante la amenaza de Donald Trump de aplicar un arancel de 35 por ciento a Canadá, uno de sus mayores socios comerciales. \r\nLa cadena… [+2091 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-4-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-04T14:06:26Z",
       "Content": "Este viernes 4 de julio de 2025,el precio del dólar en México es de $18,6652, de acuerdo con el Diario Oficial de la Federación (DOF). Durante la mañana, el desempeño del peso mexicano se vio impacta… [+1984 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 4 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 4 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba, poniendo fin a una racha de siete jorna…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-07-04T11:24:00Z",
-      "Content": "El dólar HOY 4 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.\r\nEl peso … [+608 chars]"
     }
   ]
 }
