@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,32 +366,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/failed-zelle-payments.jpg",
       "PublishedAt": "2025-06-12T16:55:01Z",
       "Content": "One billion-dollar US bank reportedly refused to resolve a Zelle transfer for more than half a year, until the bank faced questions from the media.\r\nKaren Weber, of Raleigh, North Carolina, says a $3… [+1534 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Bitwise CIO Matt Hougan Says Worries Over US Dollar and Money Printing To Accelerate One ‘Megatrend’",
-      "Description": "Matt Hougan, the chief investment officer (CIO) of crypto asset management firm Bitwise, says concern over US dollar weakness is creating one massive Bitcoin (BTC) trend. In a new interview on CNBC Television, Hougan says that more public companies are buying…",
-      "Url": "https://dailyhodl.com/2025/06/12/bitwise-cio-matt-hougan-says-worries-over-us-dollar-and-money-printing-to-accelerate-one-megatrend/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/Money-Printing-To-Accelerate.jpg",
-      "PublishedAt": "2025-06-12T07:04:10Z",
-      "Content": "Matt Hougan, the chief investment officer (CIO) of crypto asset management firm Bitwise, says concern over US dollar weakness is creating one massive Bitcoin (BTC) trend.\r\nIn a new interview on CNBC … [+1476 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Gino Matos",
-      "Title": "Bank of America eyes dollar-pegged stablecoin amid Senate fast-tracking GENIUS Act",
-      "Description": "Bank of America CEO Brian Moynihan confirmed the lender plans to issue a dollar-pegged stablecoin and is working on an internal build conducted alongside other industry participants, Reuters reported on June 11. However, Moynihan added that any progress in a …",
-      "Url": "https://cryptoslate.com/bank-of-america-eyes-dollar-pegged-stablecoin-amid-senate-fast-tracking-genius-act/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2025/02/bank-of-america-stablecoin.jpg",
-      "PublishedAt": "2025-06-11T21:33:30Z",
-      "Content": "Bank of America CEO Brian Moynihan confirmed the lender plans to issue a dollar-pegged stablecoin and is working on an internal build conducted alongside other industry participants, Reuters reported… [+3199 chars]"
     }
   ]
 }
