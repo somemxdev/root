@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--9LNcdNAd--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-16t023108z_1_lynxmpel5f02n_rtroptp_3_global-currencies-dollar.jpg?itok=CLioWqui",
       "PublishedAt": "2025-06-16T02:31:08Z",
       "Content": "The dollar held its ground in choppy trading on Monday, as investors keenly monitored Israel-Iran fighting for any signs that it could escalate into a broader regional conflict and braced for a week … [+3763 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Refuses To Resolve Failed Zelle Transfer for Over Six Months – Until the Media Starts Digging Deeper: Report",
-      "Description": "One billion-dollar US bank reportedly refused to resolve a Zelle transfer for more than half a year, until the bank faced questions from the media. Karen Weber, of Raleigh, North Carolina, says a $300 transfer via Zelle never made it into her friend’s account…",
-      "Url": "https://dailyhodl.com/2025/06/12/billion-dollar-bank-refuses-to-resolve-failed-zelle-transfer-for-over-six-months-until-the-media-starts-digging-deeper-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/failed-zelle-payments.jpg",
-      "PublishedAt": "2025-06-12T16:55:01Z",
-      "Content": "One billion-dollar US bank reportedly refused to resolve a Zelle transfer for more than half a year, until the bank faced questions from the media.\r\nKaren Weber, of Raleigh, North Carolina, says a $3… [+1534 chars]"
     }
   ]
 }
