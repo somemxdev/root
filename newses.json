@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 12 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 12 de julio el tipo de cambio interbancario, se ubica en 18.63 pesos por unidad, con una ganancia del 0.17 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bols…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-12T14:17:27Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 12 de julio el tipo de cambio interbancario, se ubica en 18.63 pesos por unidad, con una ganancia del 0.17 por cient… [+1701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ROFFFSPKYRFVHNMF4NMX2PEQGM.jpg?smart=true&auth=aadec09f2169d2c4019ad3ca8d9756840d65a147a567aeb1a87590a0c12f5e48&width=1200&height=630",
       "PublishedAt": "2025-07-04T17:10:41Z",
       "Content": "El peso mexicano arruina el Día de la Independencia para el dólar y extiende sus ganancias récord en 2025 este viernes 4 de julio. Se espera que este día sea de poca liquidez en los mercados debido a… [+1563 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae ligeramente! Precio del dólar hoy 4 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede ligeramente en la jornada de este viernes, con lo que el precio del dólar hoy 4 de julio de 2025 cotiza en 18.63 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divi…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-4-julio-2025-tipo-cambio-bancos-mexico/1725340",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/04/3336724.jpg",
-      "PublishedAt": "2025-07-04T14:07:20Z",
-      "Content": "El peso mexicano retrocede ligeramente en la jornada de este viernes, con lo que el precio del dólar hoy 4 de julio de 2025 cotiza en 18.63 unidades por cada billete verde; conoce aquí cuál es el tip… [+1344 chars]"
     }
   ]
 }
