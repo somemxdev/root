@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cae en operaciones internacionales a 18.66 por dólar",
+      "Description": "Ante la amenaza de Donald Trump, presidente de Estados Unidos, de imponer aranceles de 30 por ciento el primero de agosto, el peso mexicano cedía 0.2 por ciento en el arranque de las operaciones electrónicas a escala mundial en los mercados asiáticos y operab…",
+      "Url": "https://www.jornada.com.mx/2025/07/14/economia/016n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-07-14T09:06:52Z",
+      "Content": "Periódico La JornadaLunes 14 de julio de 2025, p. 16\r\nAnte la amenaza de Donald Trump, presidente de Estados Unidos, de imponer aranceles de 30 por ciento el primero de agosto, el peso mexicano cedía… [+1072 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-07-05T12:55:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de julio el tipo de cambio interbancario, se ubica en 18.62 pesos por unidad, con una pérdida del 0.11 por ciento,… [+1945 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘arruina’ Día de la Independencia al dólar y extiende nivel récord: ¿En cuánto se cotiza HOY?",
-      "Description": "El dólar se debilitó en los mercados por los comentarios de Trump sobre que aplicará aranceles de hasta 70% a socios comerciales.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/04/peso-dolar-precio-hoy-4-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ROFFFSPKYRFVHNMF4NMX2PEQGM.jpg?smart=true&auth=aadec09f2169d2c4019ad3ca8d9756840d65a147a567aeb1a87590a0c12f5e48&width=1200&height=630",
-      "PublishedAt": "2025-07-04T17:10:41Z",
-      "Content": "El peso mexicano arruina el Día de la Independencia para el dólar y extiende sus ganancias récord en 2025 este viernes 4 de julio. Se espera que este día sea de poca liquidez en los mercados debido a… [+1563 chars]"
     }
   ]
 }
