@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve alza sobre $ 960 luego que Trump anunciara aranceles sobre bienes de México y la UE",
+      "Description": "El tipo de cambio chileno viene de anotar su mayor alza semanal desde septiembre y quedar en nuevos máximos desde abril. Este lunes las tasas largas estadounidenses subían y con ello el treasury a 30 años volvía a niveles de 5%, como había ocurrido previament…",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoyip32insd",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250714/imag/foto_0000000620250714080530/Copia_de_pxfuel.jpg",
+      "PublishedAt": "2025-07-14T12:39:00Z",
+      "Content": "El dólar abrió la sesión de este lunes con un leve avance sobre la marca de $ 960, en medio de riesgos comerciales que se han vuelto más tangibles tras los envíos de cartas arancelarias desde Estados… [+1476 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-7-de-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-07T14:11:40Z",
       "Content": "Este lunes 7 de julio de 2025, el precio del dólar en México es de $18,6327, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se … [+2101 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Serrat García,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 7 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 7 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera alza del 0.48 por ciento, según datos de Bloomberg. El peso mexicano retrocedió el viernes desde su mejor nivel en más de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-07-07T10:58:00Z",
-      "Content": "El dólar HOY 7 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera alza del 0.48 por ciento, según datos de Bloomberg. \r\nEl peso… [+872 chars]"
     }
   ]
 }
