@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 117,
+  "TotalResults": 118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 14 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólarHOY 14 de julio inicia operaciones con el tipo de cambio interbancario en 18.69pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicanose depreciaba el viernes, cerrando la semana con pérdid…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-07-14T11:03:00Z",
+      "Content": "El dólar HOY 14 de julio inicia operaciones con el tipo de cambio interbancario en 18.69 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nEl peso… [+764 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-07-07T10:58:00Z",
       "Content": "El dólar HOY 7 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera alza del 0.48 por ciento, según datos de Bloomberg. \r\nEl peso… [+872 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 5 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de julio el tipo de cambio interbancario, se ubica en 18.62 pesos por unidad, con una pérdida del 0.11 por ciento, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-07-05T12:55:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de julio el tipo de cambio interbancario, se ubica en 18.62 pesos por unidad, con una pérdida del 0.11 por ciento,… [+1945 chars]"
     }
   ]
 }
