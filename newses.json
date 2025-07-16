@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 123,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso pierde tras dato de inflación en EU: Se ubica en 18.74 unidades por dólar",
+      "Description": "El dólar se cotiza en 19.19 pesos por billete verde en ventanillas bancarias, de acuerdo con Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/15/peso-dolar-tipo-de-cambio-hoy-15-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4TCFKNOASFGOBBZKBRQTI7UDAU.jpg?smart=true&auth=62780379b6f73213426aad5ea3a71e4b0c1fe5f4463099e01f4a10dc72fe9129&width=1200&height=630",
+      "PublishedAt": "2025-07-15T15:59:44Z",
+      "Content": "El peso mexicano inicia la sesión reflejando un retroceso marginal frente al billete verde, al tiempo que los operadores se encuentran asimilando el reporte de inflación para la economía de Estados U… [+1588 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano resiste amenazas de aranceles; avanza frente al dólar",
+      "Description": "La moneda nacional logró una ganancia de un 0.26% frente al precio de referencia del lunes.",
+      "Url": "https://aristeguinoticias.com/150725/dinero-y-economia/peso-mexicano-resiste-amenazas-de-aranceles-avanza-frente-al-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-2.jpg",
+      "PublishedAt": "2025-07-15T15:13:52Z",
+      "Content": "El peso mexicano se apreciaba el martes después de dos jornadas de pérdidas, mientras los inversionistas asimilaban cifras de la inflación estadounidense que resultaron en línea con lo esperado.\r\nLa … [+619 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-baja-global-del-dolar-y-su-suba-local-claves-63JV23NDGZALBB4QT5JLDUXSNA.JPG?auth=1ac71ac828571f252caaa8eab6e9301dd32de36a88bffeb583f76ffc5b5c409c&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-09T13:39:37Z",
       "Content": "El tipo de cambio real multilateral acumuló una recuperación del 15,8% desde que el Gobierno decidió dejar flotar al dólar entre bandas de precios divergentes -que van ahora de los $972 a los $1440-.… [+3624 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 9 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 9 de julio inicia operaciones con el tipo de cambio interbancario en 18.58 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer al inicio de la sesión, aunque pos…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-07-09T10:57:00Z",
-      "Content": "El dólar HOY 9 de julio inicia operaciones con el tipo de cambio interbancario en 18.58 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso … [+841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cae por segunda sesión! Precio del dólar hoy 8 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por segunda jornada consecutiva, con lo que el precio del dólar hoy 8 de julio de 2025 cotiza en 18.67 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexican…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-8-julio-2025-tipo-cambio-bancos-mexico/1725937",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/08/3338571.jpg",
-      "PublishedAt": "2025-07-08T14:28:49Z",
-      "Content": "El peso mexicano retrocede por segunda jornada consecutiva, con lo que el precio del dólar hoy 8 de julio de 2025 cotiza en 18.67 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi… [+1424 chars]"
     }
   ]
 }
