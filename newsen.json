@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "Breaking News: US Dollar and British Pound Prices Increase, Euro Holds Steady – What’s Happening with Currency Exchange Rates Today?",
+      "Description": "Today’s Foreign Exchange Rates in Nepal: Updated Daily Currency Exchange Rates Nepal Rastra Bank (NRB) has released the latest foreign exchange rates for today! Stay updated on the currency exchange rates to make informed decisions about your foreign currency…",
+      "Url": "https://nep123.com/breaking-news-us-dollar-and-british-pound-prices-increase-euro-holds-steady-whats-happening-with-currency-exchange-rates-today/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-15T00:50:04Z",
+      "Content": "Nepal Rastra Bank (NRB) has released the latest foreign exchange rates for today! Stay updated on the currency exchange rates to make informed decisions about your foreign currency exchange needs. Th… [+2707 chars]"
+    },
     {
       "Source": {
         "Id": null,
