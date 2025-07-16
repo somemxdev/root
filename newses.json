@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY martes 15 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 18.68 pesos por unidad, con una pérdida del 0.27 por ciento, según datos de Bloomberg.Ayer, el peso y la bolsa de México…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-07-15T12:28:40Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 18.68 pesos por unidad, con una pérdida del 0.27 por ciento,… [+944 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-07-08T10:59:00Z",
       "Content": "El dólar HOY 8 de julio inicia operaciones con el tipo de cambiointerbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso m… [+615 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Al peso se le ‘acaban’ los récords ante el dólar: ¿Cuántos centavos pierde HOY ?",
-      "Description": "Los mercados se 'estresan' este lunes 7 de julio después de que el presidente Donald Trump reveló que Corea del Sur y Japón pagarán un arancel de 25%",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/07/peso-dolar-precio-hoy-7-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CXL3P3N2ENEM3BGDSYLQJWP3BE.jpg?smart=true&auth=f317e035c951e0c946897bf897c0ca75b45c896b4bda0d4bc5b25991eda48d4f&width=1200&height=630",
-      "PublishedAt": "2025-07-07T17:56:27Z",
-      "Content": "El peso mexicano arranca la semana con pérdidas ante el dólar en una sesión marcada por el anuncio de aranceles de Donald Trump a Corea del Sur y Japón. \r\nLa depreciación del peso mexicano es de 0.34… [+1765 chars]"
     }
   ]
 }
