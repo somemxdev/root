@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Liga peso tercera caída consecutiva; dólar cierra en $18.82",
+      "Description": "El tipo de cambio cerró en $18.82 por dólar, con un retroceso de un 0.44% para la moneda mexicana frente al precio de referencia del lunes.",
+      "Url": "https://www.reforma.com/liga-peso-tercera-caida-consecutiva-dolar-cierra-en-18-82/ar3039056",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/903/5902141.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-07-15T13:50:39Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (15 julio 2025) .-07:48 (Actualización: 15:05 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-8-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-08T13:46:15Z",
       "Content": "Este martes 8 de julio de 2025, el precio del dólar en México es de $18,6698, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 8 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 8 de julio inicia operaciones con el tipo de cambio interbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se replegaba ante un repunte generalizado del dólar, …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-07-08T10:59:00Z",
-      "Content": "El dólar HOY 8 de julio inicia operaciones con el tipo de cambiointerbancario en 18.64 pesos mexicanos por billete verde, con una ligera baja del 0.10 por ciento, según datos de Bloomberg.\r\nEl peso m… [+615 chars]"
     }
   ]
 }
