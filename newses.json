@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Internacional ,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 16 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 16 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el martes después de dos jornadas de p…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
+      "PublishedAt": "2025-07-16T11:07:00Z",
+      "Content": "El dólar HOY 16 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.\r\n El pes… [+761 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/09/3339281.jpg",
       "PublishedAt": "2025-07-09T14:37:35Z",
       "Content": "El peso mexicano avanzó tras el informe de la inflación de junio, con lo que el precio del dólar hoy 9 de julio de 2025 cotiza en 18.58 unidades por cada billete verde; conoce aquí cuál es el tipo de… [+1502 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 9 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 9 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-9-de-julio-nid09072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-9-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-09T14:09:05Z",
-      "Content": "Este miércoles 9 de julio de 2025, el precio del dólar en México es de $18,714, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano se v… [+2312 chars]"
     }
   ]
 }
