@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 125,
+  "TotalResults": 126,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso pierde terreno y cierra en 18.81 por dólar; Nvidia impulsa al Nasdaq",
+      "Description": "El peso se depreció ayer luego de que en Estados Unidos se dio a conocer que la inflación en junio repuntó a 2.7 por ciento –el mayor nivel desde enero–, un dato que fortaleció el valor del dólar ante la percepción de que no habrá recorte en la tasa de interé…",
+      "Url": "https://www.jornada.com.mx/2025/07/16/economia/019n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-07-16T10:40:11Z",
+      "Content": "Periódico La JornadaMiércoles 16 de julio de 2025, p. 19\r\nEl peso se depreció ayer luego de que en Estados Unidos se dio a conocer que la inflación en junio repuntó a 2.7 por ciento el mayor nivel de… [+2625 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-9-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-09T14:09:05Z",
       "Content": "Este miércoles 9 de julio de 2025, el precio del dólar en México es de $18,714, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano se v… [+2312 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "¿Un dólar más alto?: desde que flota, el tipo de cambio real se recuperó sin un impacto en la inflación",
-      "Description": "Rebotó 16% por la suba local de la moneda, mientras la divisa estadounidense caía a la vez en el mercado global",
-      "Url": "https://www.lanacion.com.ar/economia/un-dolar-mas-alto-desde-que-flota-el-tipo-de-cambio-real-mostro-una-fuerte-recuperacion-nid09072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-baja-global-del-dolar-y-su-suba-local-claves-63JV23NDGZALBB4QT5JLDUXSNA.JPG?auth=1ac71ac828571f252caaa8eab6e9301dd32de36a88bffeb583f76ffc5b5c409c&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-09T13:39:37Z",
-      "Content": "El tipo de cambio real multilateral acumuló una recuperación del 15,8% desde que el Gobierno decidió dejar flotar al dólar entre bandas de precios divergentes -que van ahora de los $972 a los $1440-.… [+3624 chars]"
     }
   ]
 }
