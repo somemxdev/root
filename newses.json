@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 16 de julio en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 16 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-16-de-julio-en-estados-unidos-nid16072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-miercoles-16-de-julio-el-peso-mexicano-es-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-16T14:29:00Z",
+      "Content": "Este miércoles 16 de julio de 2025, el precio del dólar en México es de $18,8397, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano se… [+1404 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Tiene peso leve repunte; dólar cotiza en $18.80",
+      "Description": "El tipo de cambio cotiza en $18.80 por dólar, con un ligero avance de 0.09% para la moneda mexicana frente al precio de cierre del martes.",
+      "Url": "https://www.reforma.com/tiene-peso-leve-repunte-dolar-cotiza-en-18-80/ar3039700",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/986/5985942.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-07-16T14:19:57Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (16 julio 2025) .-08:10 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso repunta! Precio del dólar hoy 16 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano repunta en la sesión de este miércoles tras tres jornadas de pérdidas, con lo que el precio del dólar hoy 16 de julio de 2025 cotiza en 18.80 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-16-julio-2025-tipo-cambio-bancos-mexico/1727412",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/16/3343138.jpg",
+      "PublishedAt": "2025-07-16T14:06:50Z",
+      "Content": "El peso mexicano repunta en la sesión de este miércoles tras tres jornadas de pérdidas, con lo que el precio del dólar hoy 16 de julio de 2025 cotiza en 18.80 unidades por cada billete verde; conoce … [+1093 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/1920x1048/2/9/7/1200x655_gobernador_banco_espana_escriva.jpg",
       "PublishedAt": "2025-07-10T14:13:11Z",
       "Content": "Ante la predominancia del dólar, que acapara un 60% de las transacciones económicas a nivel globa, el euro debe seguir luchando por aumentar su cuota del 20%. Y, en este sentido, soluciones de futuro… [+1568 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 10 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 10 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-10-de-julio-nid10072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-10-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-10T14:12:51Z",
-      "Content": "Este jueves 10 de julio de 2025,el precio del dólar en México es de $18,5733, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2267 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 10 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 10 de julio inicia operaciones con el tipo de cambio interbancario en 18.66 pesos mexicanos por billete verde, con una ligera baja del 0.15 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer luego de darse a conocer el dato d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-07-10T11:00:00Z",
-      "Content": "El dólar HOY 10 de julio inicia operaciones con el tipo de cambio interbancario en 18.66 pesos mexicanos por billete verde, con una ligera baja del 0.15 por ciento, según datos de Bloomberg.  \r\nEl pe… [+800 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘le echa ganas’ tras dato de inflación en México: Abre en 18.55 unidades por dólar",
-      "Description": "El peso mexicano registra ganancias por el efecto estacional de julio, señalan especialistas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/09/peso-dolar-tipo-de-cambio-hoy-9-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T24RSEXHMFBDPNORH2FTYSU36E.jpg?smart=true&auth=28a26711a609ce153f229478ff1120513d1e708080eb6b20a51cf7b2e5dedc12&width=1200&height=630",
-      "PublishedAt": "2025-07-09T16:12:47Z",
-      "Content": "El peso mexicano inicia la sesión cotizando aún en terreno de ganancias, al tiempo que los inversionistas asimilan los datos de inflación en México, que se desaceleró a 4.32 por ciento en junio.\r\nLa … [+1700 chars]"
     }
   ]
 }
