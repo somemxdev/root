@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Mayte Baena",
+      "Title": "Oficial. Éste es el lugar que vende MÁS BARATO el dólar en México hoy 16 de julio | Lista de bancos",
+      "Description": "Hoy miércoles 16 de julio, bancos del país y casas de cambio mantienen la compra venta de dólares; sin embargo, no todas las instituciones financieras manejan el mismo precio por lo que en MILENIO te contamos cuál es el sitio donde te conviene más realizar es…",
+      "Url": "https://www.milenio.com/negocios/donde-es-mas-barato-el-dolar-hoy-16-de-julio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/16/precio-dolar-julio-sitio-vende.jpeg",
+      "PublishedAt": "2025-07-16T13:25:00Z",
+      "Content": "Hoy miércoles 16 de julio, bancos del país y casas de cambio mantienen la compra venta de dólares; sin embargo, no todas las instituciones financieras manejan el mismo precio por lo que en MILENIO te… [+2084 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T24RSEXHMFBDPNORH2FTYSU36E.jpg?smart=true&auth=28a26711a609ce153f229478ff1120513d1e708080eb6b20a51cf7b2e5dedc12&width=1200&height=630",
       "PublishedAt": "2025-07-09T16:12:47Z",
       "Content": "El peso mexicano inicia la sesión cotizando aún en terreno de ganancias, al tiempo que los inversionistas asimilan los datos de inflación en México, que se desaceleró a 4.32 por ciento en junio.\r\nLa … [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Reporte de inflación impulsa al peso! Precio del dólar hoy 9 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano avanzó tras el informe de la inflación de junio, con lo que el precio del dólar hoy 9 de julio de 2025 cotiza en 18.58 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa m…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-9-julio-2025-tipo-cambio-bancos-mexico/1726161",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/09/3339281.jpg",
-      "PublishedAt": "2025-07-09T14:37:35Z",
-      "Content": "El peso mexicano avanzó tras el informe de la inflación de junio, con lo que el precio del dólar hoy 9 de julio de 2025 cotiza en 18.58 unidades por cada billete verde; conoce aquí cuál es el tipo de… [+1502 chars]"
     }
   ]
 }
