@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘recupera su brillo’ ante el dólar: Así cotiza este 16 de julio",
+      "Description": "El tipo de cambio se estabiliza este miércoles; el dólar se vende en 19.31 pesos en ventanillas bancarias, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/16/peso-dolar-tipo-de-cambio-hoy-16-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UJFKEX4HZ5GDBB5A4UWQYTDHBQ.jpg?smart=true&auth=59e42197dc22dd6af684e12e173cac9b9478b4ec4836a04876aa66dec4ed642d&width=1200&height=630",
+      "PublishedAt": "2025-07-16T15:59:24Z",
+      "Content": "El peso mexicano inicia la sesión recuperando su avance frente al dólar como parte de una corrección después de haber operado por tres jornadas consecutivas con retrocesos, mientras se mantiene la ca… [+1702 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/10/3339942.jpg",
       "PublishedAt": "2025-07-10T15:05:49Z",
       "Content": "El peso mexicano opera estable en la jornada de este jueves, con lo que el precio del dólar hoy 10 de julio de 2025 cotiza en 18.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cam… [+1036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Aida M. Pereda",
-      "Title": "El gobernador del Banco de España apuesta por el euro digital para ganar terreno al dólar y protegerse de \"riesgos futuros\"",
-      "Description": "Ante la predominancia del dólar, que acapara un 60% de las transacciones económicas a nivel global, el euro debe seguir luchando por aumentar su cuota del 20%. Y, en este sentido, soluciones de futuro como la del euro digital puede servir para ganar el terren…",
-      "Url": "https://www.eleconomista.es/banca-finanzas/noticias/13457848/07/25/escriva-apuesta-por-el-euro-digital-para-ganar-terreno-al-dolar-y-protegerse-de-riesgos-futuros.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1920x1048/2/9/7/1200x655_gobernador_banco_espana_escriva.jpg",
-      "PublishedAt": "2025-07-10T14:13:11Z",
-      "Content": "Ante la predominancia del dólar, que acapara un 60% de las transacciones económicas a nivel globa, el euro debe seguir luchando por aumentar su cuota del 20%. Y, en este sentido, soluciones de futuro… [+1568 chars]"
     }
   ]
 }
