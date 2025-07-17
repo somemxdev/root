@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2025-06-18T07:27:03Z",
       "Content": "Farther Finance Advisors LLC grew its holdings in shares of Dollar General Corporation (NYSE:DG – Free Report) by 48.9% in the 1st quarter, according to the company in its most recent 13F filing with… [+6290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Dollar steady with focus on Middle East conflict, central bank meetings",
-      "Description": "The dollar held its ground in choppy trading on Monday, as investors keenly monitored Israel-Iran fighting for any signs that it could escalate into a broader regional conflict and braced for a week packed with central bank meetings.As both Iran and Israel sh…",
-      "Url": "https://www.channelnewsasia.com/business/dollar-steady-focus-middle-east-conflict-central-bank-meetings-5184021",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--9LNcdNAd--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-16t023108z_1_lynxmpel5f02n_rtroptp_3_global-currencies-dollar.jpg?itok=CLioWqui",
-      "PublishedAt": "2025-06-16T02:31:08Z",
-      "Content": "The dollar held its ground in choppy trading on Monday, as investors keenly monitored Israel-Iran fighting for any signs that it could escalate into a broader regional conflict and braced for a week … [+3763 chars]"
     }
   ]
 }
