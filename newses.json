@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "Índice Big Mac: el cambio de julio que refleja un nuevo escenario para el dólar y el peso argentino",
+      "Description": "Tras la suba reciente en la cotización, la moneda local ahora se ubica entre las que lucen sub-valuadas frente a la divisa estadounidense; si se ajusta por el PBI per cápita local, el peso sigue sobrevaluado, pero con menor margen",
+      "Url": "https://www.lanacion.com.ar/economia/indice-big-mac-el-cambio-de-julio-que-refleja-un-nuevo-escenario-para-el-dolar-y-el-peso-argentino-nid17072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/the-economist-indica-que-la-hamburguesa-big-mac-EQEVALWJCFGLNOITX2MOB3QE5Q.jpg?auth=43edc0d8f943d6c4fcfd84441ad1d88f919189cdbcbf04e2b2ba9bb6af9cff65&width=1200&quality=70&smart=false&height=674",
+      "PublishedAt": "2025-07-17T17:43:59Z",
+      "Content": "El tipo de cambio cambió su tendencia en julio: luego de un contexto de estabilidad tras la flexibilización del cepo, acumula en lo que va de este mes una suba del 5,4%. Y ese movimiento, que provocó… [+5337 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/11/precio-del-dolar-hoy-de.jpeg",
       "PublishedAt": "2025-07-11T14:19:00Z",
       "Content": "Una de las mejores formas de ahorrar es a través de la compra y venta de divisas, por lo que a diario, miles de personas se interesan en conocer cuál es el comportamiento de monedas extrajeras ante e… [+2105 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 11 julio 2025. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede y se encamina a cerrar la semana con pérdidas, con lo que el precio del dólar hoy 11 de julio de 2025 cotiza en 18.70 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-11-julio-2025-tipo-cambio-bancos-mexico/1726594",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/11/3340647.jpg",
-      "PublishedAt": "2025-07-11T14:17:53Z",
-      "Content": "El peso mexicano retrocede y se encamina a cerrar la semana con pérdidas, con lo que el precio del dólar hoy 11 de julio de 2025 cotiza en 18.70 unidades por cada billete verde; conoce aquí cuál es e… [+1598 chars]"
     }
   ]
 }
