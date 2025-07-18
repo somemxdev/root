@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 129,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso cae ante el dólar por datos económicos en EU: Así cotiza HOY",
+      "Description": "El dólar se cotiza en 19.27 pesos por billete en ventanillas bancarias, según los datos publicados por Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/17/peso-dolar-tipo-de-cambio-hoy-17-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/H26RNIC56REZ7PMQMBAHNYH5G4.jpg?smart=true&auth=f4636f00d9afdc2d53f1a5153c72af4dd0e0b078190bc0073e8a27a53917dbf6&width=1200&height=630",
+      "PublishedAt": "2025-07-17T16:31:22Z",
+      "Content": "El peso mexicano inicia la sesión de este jueves en terreno de pérdidas ante un fortalecimiento del dólar respaldado por el dato de ventas minoristas en Estados Unidos, las cuales registraron su prim… [+1602 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde terreno ante repunte del dólar",
+      "Description": "Forbes México.\n Peso pierde terreno ante repunte del dólar\n\nPara el resto de la jornada, se espera que el peso oscile en un rango de 18.73 a 18.93 por dólar, de acuerdo con la firma Banco Base. \nPeso pierde terreno ante repunte del dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/peso-pierde-terreno-ante-repunte-del-dolar-2/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9227.webp",
+      "PublishedAt": "2025-07-17T16:03:18Z",
+      "Content": "Ciudad de México (Reuters) – El peso se depreciaba el jueves ante una revalorización generalizada del dólar luego de la divulgación de sólidas cifras de ventas minoristas y solicitudes de subsidio po… [+1764 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/11/3340647.jpg",
       "PublishedAt": "2025-07-11T14:17:53Z",
       "Content": "El peso mexicano retrocede y se encamina a cerrar la semana con pérdidas, con lo que el precio del dólar hoy 11 de julio de 2025 cotiza en 18.70 unidades por cada billete verde; conoce aquí cuál es e… [+1598 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 11 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 11 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-11-de-julio-nid11072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-11-de-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-11T13:49:47Z",
-      "Content": "Este viernes 11 de julio de 2025, el precio del dólar en México es de $18,6267, de acuerdo con el Diario Oficial de la Federación (DOF). Durante la mañana, el desempeño del peso mexicano se ve impact… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 11 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 11 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera ganancia del 0.57 por ciento, según datos de Bloomberg.El peso mexicano mostraba pocos cambios al inicio de la jornada d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-07-11T12:35:00Z",
-      "Content": "El dólar HOY 11 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera ganancia del 0.57 por ciento, según datos de Bloomberg. \r\nEl… [+820 chars]"
     }
   ]
 }
