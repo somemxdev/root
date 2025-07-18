@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 17 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de julio el tipo de cambio interbancario, se ubica en 18.38 pesos por unidad, con una ganancia del 0.63 por ciento, según datos de Bloomberg.Ayer en bancos, Banco Azteca ven…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-07-17T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de julio el tipo de cambio interbancario, se ubica en 18.38 pesos por unidad, con una ganancia del 0.63 por cient… [+298 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UNCW2INQGBHIDCDQEPM3ZXAWME.jpg?smart=true&auth=e25de9b5c3ebadebb01b5da618f37767ec05948c67a82aedd06e4a5b295d5801&width=1200&height=630",
       "PublishedAt": "2025-07-10T16:11:20Z",
       "Content": "El peso mexicano presenta una depreciación moderada en las primeras horas de este jueves, digiriendo el datos de inflación en México referentes a junio y los recientes anuncios hechos por el presiden… [+1825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Christopher Tepedino",
-      "Title": "Sygnum: EEUU ve a las stablecoins como clave para preservar al dólar como moneda de reserva",
-      "Description": "El presidente de Estados Unidos, Donald Trump, y los miembros de su administración han impulsado la aprobación de la Ley GENIUS, que regularía las monedas estables en EE. UU.\n De acuerdo con un nuevo informe del grupo bancario de activos digitales Sygnum, Est…",
-      "Url": "https://es.cointelegraph.com/news/us-administration-stablecoins-reversing-usd-falling-reserve-status-sygnum",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-04/01960c3d-da26-76a0-aacc-0727beb72ce7",
-      "PublishedAt": "2025-07-10T16:09:00Z",
-      "Content": "De acuerdo con un nuevo informe del grupo bancario de activos digitales Sygnum, Estados Unidos considera que las stablecoins vinculadas al dólar son una herramienta para ayudar a revertir el declive … [+3968 chars]"
     }
   ]
 }
