@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "US Dollar and Euro Exchange Rates Hold Steady, While the British Pound’s Value Drops: What’s Happening with Currency Prices Today?",
+      "Description": "Foreign Exchange Rates Today: Your Guide to Currency Conversion Are you looking for the latest foreign exchange rates in Nepal? Stay informed with our daily updates on the currency exchange market, brought to you by the Nepal Rastra Bank! This is your go-to g…",
+      "Url": "https://nep123.com/us-dollar-and-euro-exchange-rates-hold-steady-while-the-british-pounds-value-drops-whats-happening-with-currency-prices-today/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-17T02:01:54Z",
+      "Content": "Are you looking for the latest foreign exchange rates in Nepal? Stay informed with our daily updates on the currency exchange market, brought to you by the Nepal Rastra Bank! This is your go-to guide… [+2604 chars]"
+    },
     {
       "Source": {
         "Id": null,
