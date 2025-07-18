@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso corta racha de tres días de pérdidas ante un retroceso generalizado del dólar",
+      "Description": "Forbes México.\n Peso corta racha de tres días de pérdidas ante un retroceso generalizado del dólar\n\nLa sesión tuvo altibajos en medio de versiones de que Trump probablemente despediría pronto al jefe de la Reserva Federal, que luego fueron desmentidas.\nPeso c…",
+      "Url": "https://forbes.com.mx/peso-corta-racha-de-tres-dias-de-perdidas-ante-un-retroceso-generalizado-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2020/01/dolar-chapo2.jpg",
+      "PublishedAt": "2025-07-17T00:08:41Z",
+      "Content": "Ciudad de México, (Reuters).- El peso se apreció ante un declive generalizado del dólar, tras una sesión de altibajos en medio de versiones de que el presidente Donald Trump probablemente despediría … [+1348 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-04/01960c3d-da26-76a0-aacc-0727beb72ce7",
       "PublishedAt": "2025-07-10T16:09:00Z",
       "Content": "De acuerdo con un nuevo informe del grupo bancario de activos digitales Sygnum, Estados Unidos considera que las stablecoins vinculadas al dólar son una herramienta para ayudar a revertir el declive … [+3968 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso opera estable! Precio del dólar hoy 10 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano opera estable en la jornada de este jueves, con lo que el precio del dólar hoy 10 de julio de 2025 cotiza en 18.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexic…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-10-julio-2025-tipo-cambio-bancos-mexico/1726384",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/10/3339942.jpg",
-      "PublishedAt": "2025-07-10T15:05:49Z",
-      "Content": "El peso mexicano opera estable en la jornada de este jueves, con lo que el precio del dólar hoy 10 de julio de 2025 cotiza en 18.62 unidades por cada billete verde; conoce aquí cuál es el tipo de cam… [+1036 chars]"
     }
   ]
 }
