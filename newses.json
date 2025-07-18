@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Retrocede peso: dólar cotiza en $18.81",
+      "Description": "El tipo de cambio cotiza en $18.81 por dólar, con una pérdida de 0.61% para la moneda mexicana frente al precio de cierre del miércoles.",
+      "Url": "https://www.reforma.com/retrocede-peso-dolar-cotiza-en-18-81/ar3040416",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/851/5850729.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-07-17T14:40:22Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 julio 2025) .-08:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 17 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-julio-nid17072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-jueves-el-desempeno-del-peso-mexicano-es-EEZOYMLC5FA75EUNDFBW3KD3WU.jpg?auth=2c2d55a5cfc24f4e659212923a74155cb99e40a222b41005a5f338749857dd4f&width=1200&quality=70&smart=false&height=798",
+      "PublishedAt": "2025-07-17T14:04:04Z",
+      "Content": "Este jueves 17 de julio de 2025, el precio del dólar en México es de $18,7178, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+1653 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/28/pago-de-utilidades-en-guanajuato.jpg",
       "PublishedAt": "2025-07-10T20:28:00Z",
       "Content": "El peso mexicano se apreció ligeramente 0.08 por ciento, cerrando la jornada en 18.61 unidades por dólar, este jueves 10 de julio de 2025.\r\nLas pequeñas ganancias se presentaron en medio de un avance… [+1920 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Bloomberg",
-      "Title": "El dólar podría volver a cotizar como moneda de riesgo.- GS",
-      "Description": "Volatilidad del dólar parece haberse estabilizado, pero Goldman Sachs cree que podría volver a cotizar como un activo de mayor riesgo.",
-      "Url": "https://www.reforma.com/el-dolar-podria-volver-a-cotizar-como-moneda-de-riesgo-gs/ar3036575",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/686/5685586.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-07-10T16:24:19Z",
-      "Content": "02 MIN 30 SEG\r\nBloomberg\r\nNueva York, Estados Unidos (10 julio 2025) .-10:15 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso ‘resbala’ ante los aranceles al cobre de Trump: Cotiza en 18.69 unidades por dólar",
-      "Description": "El peso tiene una leve baja ante el dólar este jueves, tras los comentarios de Trump sobre un arancel al cobre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/10/peso-dolar-tipo-de-cambio-hoy-10-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UNCW2INQGBHIDCDQEPM3ZXAWME.jpg?smart=true&auth=e25de9b5c3ebadebb01b5da618f37767ec05948c67a82aedd06e4a5b295d5801&width=1200&height=630",
-      "PublishedAt": "2025-07-10T16:11:20Z",
-      "Content": "El peso mexicano presenta una depreciación moderada en las primeras horas de este jueves, digiriendo el datos de inflación en México referentes a junio y los recientes anuncios hechos por el presiden… [+1825 chars]"
     }
   ]
 }
