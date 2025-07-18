@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Stefania  Spezzati, Jesús Aguado and Lawrence White",
+      "Title": "Exclusive-Bank of England scrutinizes lenders for dollar risk amid Trump worries, sources say",
+      "Description": "LONDON (Reuters) -The Bank of England has asked some lenders to test their resilience to potential U.S. dollar shocks, three sources said, the latest sign of...",
+      "Url": "https://finance.yahoo.com/news/exclusive-bank-england-scrutinizes-lenders-154647140.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/494d7e6016c40af36f3894378049e900",
+      "PublishedAt": "2025-07-17T15:46:47Z",
+      "Content": "By Stefania Spezzati, Jesús Aguado and Lawrence White\r\nLONDON (Reuters) -The Bank of England has asked some lenders to test their resilience to potential U.S. dollar shocks, three sources said, the l… [+4889 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2025-06-19T07:58:53Z",
       "Content": "Exchange Traded Concepts LLC increased its position in shares of Dollar General Corporation (NYSE:DG – Free Report) by 475.7% in the first quarter, according to the company in its most recent Form 13… [+6355 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Farther Finance Advisors LLC Grows Holdings in Dollar General Corporation (NYSE:DG)",
-      "Description": "Farther Finance Advisors LLC grew its holdings in shares of Dollar General Corporation (NYSE:DG – Free Report) by 48.9% in the 1st quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The fund owned 3,29…",
-      "Url": "https://www.etfdailynews.com/2025/06/18/farther-finance-advisors-llc-grows-holdings-in-dollar-general-corporation-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-06-18T07:27:03Z",
-      "Content": "Farther Finance Advisors LLC grew its holdings in shares of Dollar General Corporation (NYSE:DG – Free Report) by 48.9% in the 1st quarter, according to the company in its most recent 13F filing with… [+6290 chars]"
     }
   ]
 }

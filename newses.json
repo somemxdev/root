@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 128,
+  "TotalResults": 129,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "Precio dólar hoy a peso mexicano 17 julio 2025. Tipo cambio bancos México",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se deprecia en la jornada de este jueves, con lo que el precio del dólar hoy 17 de julio de 2025 cotiza en 18.81 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexican…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-17-julio-2025-tipo-cambio-bancos-mexico/1727644",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/17/3343857.jpg",
+      "PublishedAt": "2025-07-17T15:44:44Z",
+      "Content": "El peso mexicano se deprecia en la jornada de este jueves, con lo que el precio del dólar hoy 17 de julio de 2025 cotiza en 18.81 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi… [+1005 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-07-11T12:35:00Z",
       "Content": "El dólar HOY 11 de julio inicia operaciones con el tipo de cambio interbancario en 18.71 pesos mexicanos por billete verde, con una ligera ganancia del 0.57 por ciento, según datos de Bloomberg. \r\nEl… [+820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se aprecia, en medio de un avance global del dólar",
-      "Description": "El peso mexicano se apreció ligeramente 0.08 por ciento, cerrando la jornada en 18.61 unidades por dólar, este jueves 10 de julio de 2025.Las pequeñas ganancias se presentaron en medio de un avance global del dólar y luego de la divulgación de cifras que most…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-10-julio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/28/pago-de-utilidades-en-guanajuato.jpg",
-      "PublishedAt": "2025-07-10T20:28:00Z",
-      "Content": "El peso mexicano se apreció ligeramente 0.08 por ciento, cerrando la jornada en 18.61 unidades por dólar, este jueves 10 de julio de 2025.\r\nLas pequeñas ganancias se presentaron en medio de un avance… [+1920 chars]"
     }
   ]
 }
