@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "pymnts.com"
+      },
+      "Author": "PYMNTS",
+      "Title": "Bank of England Asks Lenders to Assess Dependence on US Dollar",
+      "Description": "The Bank of England reportedly asked some banks to assess their dependence on U.S. dollars and test whether they could handle a U.S. dollar shock. [contact-form-7] This move came after European Central Bank supervisors made a similar request of lenders in tha…",
+      "Url": "http://www.pymnts.com/news/banking/2025/bank-of-england-asks-lenders-to-assess-dependence-on-us-dollar/",
+      "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/us-dollar.jpg",
+      "PublishedAt": "2025-07-17T21:46:00Z",
+      "Content": "The Bank of England reportedly asked some banks to assess their dependence on U.S. dollars and test whether they could handle a U.S. dollar shock.This move came after European Central Bank supervisor… [+2008 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108067125-1732301547621-gettyimages-1236251599-porzycki-itcompan211030_npbuy.jpeg?v=1732301595&w=1920&h=1080",
       "PublishedAt": "2025-06-23T16:54:02Z",
       "Content": "Fiserv is making a big entrance into the stablecoin market. \r\nThe payments and fintech giant announced on Monday plans to roll out a new blockchain-based digital asset platform anchored by a U.S. dol… [+2646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Conor Devitt",
-      "Title": "$659,191,000,000 Bank Says Foreign Exporters No Longer Want To Be Paid in Dollars, Preferring Euros, Chinese Renminbi, Canadian Dollar and Mexican Peso: Report",
-      "Description": "Foreign exporters are reportedly less interested in being paid in US dollars due to the currency’s recent volatility, according to US Bank. Paula Comings, head of FX sales at US Bank, says in a new interview with Bloomberg that American importers have been re…",
-      "Url": "https://dailyhodl.com/2025/06/19/659191000000-bank-says-foreign-exporters-no-longer-want-to-be-paid-in-dollars-preferring-euros-chinese-renminbi-canadian-dollar-and-mexican-peso-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/no-longer-want.jpg",
-      "PublishedAt": "2025-06-19T16:55:49Z",
-      "Content": "Foreign exporters are reportedly less interested in being paid in US dollars due to the currency’s recent volatility, according to US Bank.\r\nPaula Comings, head of FX sales at US Bank, says in a new … [+1172 chars]"
     }
   ]
 }
