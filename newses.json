@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY viernes 18 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 18 de julio el tipo de cambio interbancario, se ubica en 18.69 pesos por unidad, según datos de Bloomberg.Ayer, el peso mexicano se depreció ante un repunte global del dólar lu…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-07-18T12:31:19Z",
+      "Content": "Analistas de grupos financieros y corredurías opinan sobre los mercados mexicanos y la economía. A continuación, un resumen de los reportes del 18 de julio. Las opiniones reflejadas no representan pu… [+1753 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XEW6IODYOBEN5OYOGZ4YZE367U.jpg?smart=true&auth=c34573ea85fb8bc1345341f004db3e48154011fe7db99bc43d132eb4e1a88874&width=1200&height=630",
       "PublishedAt": "2025-07-11T17:12:36Z",
       "Content": "Desde comienzos de 2025, el peso mexicano ha mostrado una robustez sorprendente. Contra la mayoría de los pronósticos, se ha mantenido por debajo de los 18.80 pesos por dólar durante buena parte del … [+4488 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Arancel de 35% de Trump a Canadá ‘presiona’ al peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Trump dijo que impondrá un arancel de 35% a Canadá si no cierra un acuerdo antes del 1 de agosto. Las amenazas del presidente de EU impulsan al dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/11/peso-dolar-precio-hoy-11-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2TKXAEOKURB7RLHJRBADLVUYJ4.jpg?smart=true&auth=8d2ec82c67c94e0a637e59aac3c41d6da4e7b21b6e431d61aac06f56abcaa013&width=1200&height=630",
-      "PublishedAt": "2025-07-11T15:53:24Z",
-      "Content": "El peso mexicano se presiona ante el dólar este viernes 11 de julio ante la amenaza de Donald Trump de aplicar un arancel de 35 por ciento a Canadá, uno de sus mayores socios comerciales. \r\nLa cadena… [+2091 chars]"
     }
   ]
 }
