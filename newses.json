@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Dólar cede frente al peso por postura de Waller de la Fed sobre recorte en julio",
+      "Description": "Forbes México.\n Dólar cede frente al peso por postura de Waller de la Fed sobre recorte en julio\n\nA nivel local, la sesión fue marcada por la divulgación de cifras que anticiparon que la economía de México habría crecido en junio.\nDólar cede frente al peso po…",
+      "Url": "https://forbes.com.mx/dolar-cede-frente-al-peso-por-postura-de-waller-de-la-fed-sobre-recorte-en-julio/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2025-07-18T15:49:44Z",
+      "Content": "El peso se apreciaba el viernes después de que el gobernador de la Reserva Federal Christopher Waller afirmó en la víspera que sigue creyendo que el banco central estadounidense debería recortar este… [+1469 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
       "PublishedAt": "2025-07-14T11:03:00Z",
       "Content": "El dólar HOY 14 de julio inicia operaciones con el tipo de cambio interbancario en 18.69 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nEl peso… [+764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cae en operaciones internacionales a 18.66 por dólar",
-      "Description": "Ante la amenaza de Donald Trump, presidente de Estados Unidos, de imponer aranceles de 30 por ciento el primero de agosto, el peso mexicano cedía 0.2 por ciento en el arranque de las operaciones electrónicas a escala mundial en los mercados asiáticos y operab…",
-      "Url": "https://www.jornada.com.mx/2025/07/14/economia/016n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-07-14T09:06:52Z",
-      "Content": "Periódico La JornadaLunes 14 de julio de 2025, p. 16\r\nAnte la amenaza de Donald Trump, presidente de Estados Unidos, de imponer aranceles de 30 por ciento el primero de agosto, el peso mexicano cedía… [+1072 chars]"
     }
   ]
 }
