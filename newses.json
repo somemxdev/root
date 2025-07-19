@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 18 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-julio-nid18072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-viernes-el-peso-es-influenciado-por-la-X6K36C2LVBAIBPW3MHGXNI2P4Y.jpg?auth=cee4a37e5a50fe08fff9ba41e8ad0cdd24358657c0bdc186090c171c5fe28b18&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-18T13:54:15Z",
+      "Content": "Este viernes 18 de julio de 2025, el precio del dólar en México es de $18,7685, de acuerdo con el Diario Oficial de la Federación (DOF). Durante las primeras horas del día, el desempeño del peso mexi… [+1484 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
       "PublishedAt": "2025-07-12T14:17:27Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 12 de julio el tipo de cambio interbancario, se ubica en 18.63 pesos por unidad, con una ganancia del 0.17 por cient… [+1701 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "UANL",
-      "Title": "Jorge O. Moreno: La robustez del peso y la debilidad del dólar: algunas reflexiones",
-      "Description": null,
-      "Url": "https://www.elfinanciero.com.mx/monterrey/2025/07/11/jorge-o-moreno-la-robustez-del-peso-y-la-debilidad-del-dolar-algunas-reflexiones/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XEW6IODYOBEN5OYOGZ4YZE367U.jpg?smart=true&auth=c34573ea85fb8bc1345341f004db3e48154011fe7db99bc43d132eb4e1a88874&width=1200&height=630",
-      "PublishedAt": "2025-07-11T17:12:36Z",
-      "Content": "Desde comienzos de 2025, el peso mexicano ha mostrado una robustez sorprendente. Contra la mayoría de los pronósticos, se ha mantenido por debajo de los 18.80 pesos por dólar durante buena parte del … [+4488 chars]"
     }
   ]
 }
