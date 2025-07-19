@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Mayte Baena",
+      "Title": "Confirmado. Éste es el sitio que vende MÁS BARATO el dólar en México | Precios",
+      "Description": "Cientos de bancos en el país tendrán operaciones hasta este viernes 18 de julio debido a que los fines de semana el personal disfruta de un buen descanso. Si entre tus planes de hoy está comprar dólares, en MILENIO te decimos cuál es el lugar donde lo venden …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-aqui-se-vende-mas-barato-hoy-18-de-julio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/18/lugar-donde-se-vende-el.jpeg",
+      "PublishedAt": "2025-07-18T16:22:00Z",
+      "Content": "Cientos de bancos en el país tendrán operaciones hasta este viernes 18 de julio debido a que los fines de semana el personal disfruta de un buen descanso. Si entre tus planes de hoy está comprar dóla… [+4154 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20250714/imag/foto_0000000620250714080530/Copia_de_pxfuel.jpg",
       "PublishedAt": "2025-07-14T12:39:00Z",
       "Content": "El dólar abrió la sesión de este lunes con un leve avance sobre la marca de $ 960, en medio de riesgos comerciales que se han vuelto más tangibles tras los envíos de cartas arancelarias desde Estados… [+1476 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 14 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólarHOY 14 de julio inicia operaciones con el tipo de cambio interbancario en 18.69pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.El peso mexicanose depreciaba el viernes, cerrando la semana con pérdid…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-07-14T11:03:00Z",
-      "Content": "El dólar HOY 14 de julio inicia operaciones con el tipo de cambio interbancario en 18.69 pesos mexicanos por billete verde, con una ligera baja del 0.30 por ciento, según datos de Bloomberg.\r\nEl peso… [+764 chars]"
     }
   ]
 }
