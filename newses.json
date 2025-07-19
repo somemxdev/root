@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede tras repunte del dólar por sólidos datos económicos de EU",
+      "Description": "Forbes México.\n Peso retrocede tras repunte del dólar por sólidos datos económicos de EU\n\nEl tipo de cambio se ubica en 18.7569 pesos por dólar, una depreciación de 0.16% para la moneda nacional, según datos de cierre de Banxico.\nPeso retrocede tras repunte d…",
+      "Url": "https://forbes.com.mx/peso-retrocede-tras-repunte-del-dolar-por-solidos-datos-economicos-de-eu/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-2-e1745852040955.webp",
+      "PublishedAt": "2025-07-17T23:32:28Z",
+      "Content": "Ciudad de México.- El peso se depreció este jueves ante un repunte global del dólar luego de la publicación de sólidos datos de la economía estadounidense, mientras que la Bolsa Mexicana de Valores s… [+1701 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2TKXAEOKURB7RLHJRBADLVUYJ4.jpg?smart=true&auth=8d2ec82c67c94e0a637e59aac3c41d6da4e7b21b6e431d61aac06f56abcaa013&width=1200&height=630",
       "PublishedAt": "2025-07-11T15:53:24Z",
       "Content": "El peso mexicano se presiona ante el dólar este viernes 11 de julio ante la amenaza de Donald Trump de aplicar un arancel de 35 por ciento a Canadá, uno de sus mayores socios comerciales. \r\nLa cadena… [+2091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Mayte Baena",
-      "Title": "Confirmado. Éste es el lugar donde el dólar se vende MÁS BARATO hoy 11 de julio en México | Lista",
-      "Description": "Una de las mejores formas de ahorrar es a través de la compra y venta de divisas, por lo que a diario, miles de personas se interesan en conocer cuál es el comportamiento de monedas extrajeras ante el peso mexicano. Si este viernes 11 de julio buscas comprar …",
-      "Url": "https://www.milenio.com/negocios/donde-comprar-dolar-mas-barato-compra-venta-hoy-11-julio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/11/precio-del-dolar-hoy-de.jpeg",
-      "PublishedAt": "2025-07-11T14:19:00Z",
-      "Content": "Una de las mejores formas de ahorrar es a través de la compra y venta de divisas, por lo que a diario, miles de personas se interesan en conocer cuál es el comportamiento de monedas extrajeras ante e… [+2105 chars]"
     }
   ]
 }
