@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘levanta la cabeza’ tras acumular pérdidas contra el dólar: Así cotiza el tipo de cambio HOY",
+      "Description": "Los inversionistas esperan más detalles de los aranceles de Trump que entrarán en vigor el 1 de agosto, incluyen una tasa de 30% designada para México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/18/peso-levanta-la-cabeza-tras-acumular-perdidas-contra-el-dolar-asi-cotiza-el-tipo-de-cambio-hoy/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SI5LNL3B7JAUJKQADM4MEO7TVQ.jpg?smart=true&auth=f70c493b0761f37b7cd029ae9720f51b2d2221b47fdc0a18d6cb42ba312fa28e&width=1200&height=630",
+      "PublishedAt": "2025-07-18T17:15:17Z",
+      "Content": "El peso mexicano busca recortar las pérdidas acumuladas contra el dólar durante la semana y aprovecha un debilitamiento del billete verde mientras el mercado está a la espera de más novedades en el f… [+2185 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/14/3341890.jpg",
       "PublishedAt": "2025-07-14T14:14:19Z",
       "Content": "El peso mexicano retrocede en la jornada de este lunes tras amenaza de aranceles del 30% por parte de Estados Unidos, con lo que el precio del dólar hoy 14 de julio de 2025 cotiza en 18.70 unidades p… [+1004 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre con leve alza sobre $ 960 luego que Trump anunciara aranceles sobre bienes de México y la UE",
-      "Description": "El tipo de cambio chileno viene de anotar su mayor alza semanal desde septiembre y quedar en nuevos máximos desde abril. Este lunes las tasas largas estadounidenses subían y con ello el treasury a 30 años volvía a niveles de 5%, como había ocurrido previament…",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoyip32insd",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250714/imag/foto_0000000620250714080530/Copia_de_pxfuel.jpg",
-      "PublishedAt": "2025-07-14T12:39:00Z",
-      "Content": "El dólar abrió la sesión de este lunes con un leve avance sobre la marca de $ 960, en medio de riesgos comerciales que se han vuelto más tangibles tras los envíos de cartas arancelarias desde Estados… [+1476 chars]"
     }
   ]
 }
