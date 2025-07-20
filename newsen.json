@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Christina Comben",
+      "Title": "Bank of Japan’s quiet dollar liquidity move: warning sign or just the beginning?",
+      "Description": "On July 15, 2025, the Bank of Japan (BOJ) quietly announced that it would begin supplying U.S. dollar funds against pooled collateral, starting on July 17, a move that might seem like standard liquidity management. However, according to macro analyst EndGame …",
+      "Url": "https://cryptoslate.com/bank-of-japans-quiet-dollar-liquidity-move-warning-sign-or-just-the-beginning/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2025/07/japan-dollar.jpg",
+      "PublishedAt": "2025-07-19T12:27:15Z",
+      "Content": "On July 15, 2025, the Bank of Japan (BOJ) quietly announced that it would begin supplying U.S. dollar funds against pooled collateral, starting on July 17, a move that might seem like standard liquid… [+3364 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.chzbgr.com/thumb1200/41086725/hB3EFA4C5/reddit-thread-story-parenting-parenting-fail-parents-entitled-parent-entitled-people-entitlement",
       "PublishedAt": "2025-06-24T18:00:00Z",
       "Content": "Parents are supposed to provide for their children, even if the budget is tight. Their children didn't ask to be born into this world, so it's only right that you make their lives a bit easier while … [+900 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "Fiserv debuts bank-friendly stablecoin as fintechs join digital dollar race",
-      "Description": "The launch coincides with growing momentum in Congress, as the Senate’s passage of the Genius Act signals rising institutional support for stablecoins.",
-      "Url": "https://www.cnbc.com/2025/06/23/fiserv-stablecoin-digital-dollar.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108067125-1732301547621-gettyimages-1236251599-porzycki-itcompan211030_npbuy.jpeg?v=1732301595&w=1920&h=1080",
-      "PublishedAt": "2025-06-23T16:54:02Z",
-      "Content": "Fiserv is making a big entrance into the stablecoin market. \r\nThe payments and fintech giant announced on Monday plans to roll out a new blockchain-based digital asset platform anchored by a U.S. dol… [+2646 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 133,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 19 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de julio el tipo de cambio interbancario, se ubica en 18.74 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se aprecia…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-19T12:33:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de julio el tipo de cambio interbancario, se ubica en 18.74 pesos por unidad, con una pérdida del 0.23 por ciento… [+1756 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
       "PublishedAt": "2025-07-15T12:28:40Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de julio el tipo de cambio interbancario, se ubica en 18.68 pesos por unidad, con una pérdida del 0.27 por ciento,… [+944 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 14 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, lunes 14 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-14-de-julio-nid14072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-14-de-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-14T14:52:03Z",
-      "Content": "Este lunes 14 de julio de 2025, el precio del dólar en México es de $18,6695, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+2038 chars]"
     }
   ]
 }
