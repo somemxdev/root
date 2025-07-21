@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Exchange Rates OUT!  Dollar, Euro & More! Updated Today!",
+      "Description": "Foreign Exchange Rates Today – Nepal Rastra Bank Update! Hello currency traders and financial enthusiasts! Are you looking for the latest foreign exchange rates in Nepal? Look no further! This blog post provides a comprehensive overview of the currency exchan…",
+      "Url": "https://nep123.com/%f0%9f%87%b3%f0%9f%87%b5%f0%9f%92%b8-exchange-rates-out-%f0%9f%92%b0-dollar-euro-more-updated-today/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-20T00:08:54Z",
+      "Content": "Hello currency traders and financial enthusiasts! Are you looking for the latest foreign exchange rates in Nepal? Look no further! This blog post provides a comprehensive overview of the currency exc… [+3267 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-183730.png",
       "PublishedAt": "2025-06-26T14:15:35Z",
       "Content": "Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling predictions that its price could surge as high as $4,300. This remarkable optimism comes alongsid… [+3744 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Conor Devitt",
-      "Title": "Employee at Billion Dollar Bank Embezzles $44,000 From Customer Accounts Before Being Banned From Industry",
-      "Description": "An employee at a $23.8 billion bank embezzled $44,000 worth of customer money before getting slapped with an industry ban. The Federal Reserve says former Bank of Hawaii employee Alohi Kaupu-Grace, 23, stole from customer accounts and falsified the customers’…",
-      "Url": "https://dailyhodl.com/2025/06/25/employee-at-billion-dollar-bank-embezzles-44000-from-customer-accounts-before-being-banned-from-industry/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-executive-embezzle.jpg",
-      "PublishedAt": "2025-06-25T20:00:26Z",
-      "Content": "An employee at a $23.8 billion bank embezzled $44,000 worth of customer money before getting slapped with an industry ban.\r\nThe Federal Reserve says former Bank of Hawaii employee Alohi Kaupu-Grace, … [+1330 chars]"
     }
   ]
 }
