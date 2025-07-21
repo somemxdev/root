@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Loses $107,635 in One Day As Thieves Allegedly Infect ATMs With Malware: Report",
+      "Description": "A Michigan-based bank has reportedly lost tens of thousands of dollars in just 24 hours to thieves running an advanced ATM scheme. Authorities are charging Florida residents Robert R. Rosales Rivero and Geniver Antonio Pinuela Testa with conspiracy to commit …",
+      "Url": "https://dailyhodl.com/2025/07/20/billion-dollar-bank-loses-107635-in-one-day-as-thieves-allegedly-infect-atms-with-malware-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/07/bank-at-breach.jpg",
+      "PublishedAt": "2025-07-20T08:04:17Z",
+      "Content": "A Michigan-based bank has reportedly lost tens of thousands of dollars in just 24 hours to thieves running an advanced ATM scheme.\r\nAuthorities are charging Florida residents Robert R. Rosales Rivero… [+2086 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--jrcBQqZg--/c_crop,h_900,w_1600,x_0,y_69/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/06/30/_wal3368.jpg?itok=kRKrFPVx",
       "PublishedAt": "2025-06-30T11:09:56Z",
       "Content": "ACCUSED WANTED TO TAKE CONTROL OF CARS QUICKLY\r\nOn the day of the raids, Liew drove Su out of Singapore via Tuas Checkpoint in the evening. \r\nHe dropped Su off at Kuala Lumpur International Airport o… [+2548 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ambcrypto.com"
-      },
-      "Author": "AMBCrypto Team",
-      "Title": "BCH Bulls Buy More Bitcoin Cash and Pepe Dollar (PEPD) In BCH Bank RUN!",
-      "Description": "Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling […]",
-      "Url": "https://ambcrypto.com/bch-bulls-buy-more-bitcoin-cash-and-pepe-dollar-pepd-in-bch-bank-run/",
-      "UrlToImage": "https://ambcrypto.com/wp-content/uploads/2025/06/Screenshot-2025-06-26-183730.png",
-      "PublishedAt": "2025-06-26T14:15:35Z",
-      "Content": "Bitcoin Cash (BCH) is drawing renewed attention from investors in 2025, with bullish momentum fueling predictions that its price could surge as high as $4,300. This remarkable optimism comes alongsid… [+3744 chars]"
     }
   ]
 }
