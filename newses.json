@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "PIB de EU ‘atora’ al peso mexicano: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "La depreciación del peso se debe a la publicación de indicadores económicos positivos en Estados Unidos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/30/peso-dolar-precio-hoy-30-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/H3LH2HDFSRAJTBPHDHP5N33DFU.jpg?smart=true&auth=cec624ba6842acc2e0209e7a8ebce52778b9580711d6c624f0c6c58395c6ae4f&width=1200&height=630",
+      "PublishedAt": "2025-07-30T15:35:29Z",
+      "Content": "El peso mexicano extiende sus pérdidas ante el dólar, que se enfila a su racha de ganancias más larga desde febrero, mientras el mercado asimila el dato del PIB de EU.\r\nLa economía de Estados Unidos … [+1679 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/10/sitio-precio-dolar-barato-julio.jpeg",
       "PublishedAt": "2025-07-24T10:57:00Z",
       "Content": "El dólar HOY 24 de julio inicia operaciones con el tipo de cambio interbancario en 18.55 pesos mexicanos por billete verde, con un ligero aumento de 0.07 por ciento, según datos de Bloomberg.\r\nEl pes… [+832 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Logra el peso su mejor nivel en un año; cierra en 18.53 por dólar spot",
-      "Description": "En medio de un optimismo global, que llevó a Wall Street a máximos históricos, la moneda mexicana cerró este miércoles en 18.5329 pesos por dólar spot, nivel no visto en casi un año.",
-      "Url": "https://www.jornada.com.mx/2025/07/24/economia/018n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-07-24T10:13:16Z",
-      "Content": "Periódico La JornadaJueves 24 de julio de 2025, p. 18\r\nEn medio de un optimismo global, que llevó a Wall Street a máximos históricos, la moneda mexicana cerró este miércoles en 18.5329 pesos por dóla… [+2444 chars]"
     }
   ]
 }
