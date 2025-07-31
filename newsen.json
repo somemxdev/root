@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Jake Ferguson delayed signing his million-dollar contract with the Cowboys while watching a money laundering operation",
+      "Description": "The Dallas Cowboys spent the offseason bracing for a possible shakeup at tight end and Luke Schoonmaker&apos;s development only added fuel to the conversation. \nHis flashes of pote",
+      "Url": "https://www.marca.com/en/nfl/dallas-cowboys/2025/07/30/688a41bfca474175658b459a.html",
+      "UrlToImage": "https://phantom-marca.uecdn.es/38691ef132abb249371db35a93ae1c29/crop/0x0/2044x1363/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/30/17538907018475.jpg",
+      "PublishedAt": "2025-07-30T17:17:43Z",
+      "Content": "The Dallas Cowboys spent the offseason bracing for a possible shakeup at tight end and Luke Schoonmaker's development only added fuel to the conversation. \r\nHis flashes of potential late in the seaso… [+2067 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-fraud-dollars.jpg",
       "PublishedAt": "2025-07-06T10:00:57Z",
       "Content": "The US dollar index (DXY) has suffered its steepest first-half decline in over half a century amid new all-time high levels for the country’s money supply.\r\nThe DXY witnessed a 10.8% drop in the firs… [+2169 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Handing Thousands of Dollars To Data Breach Victim After Cybersecurity Incident Exposed Names, Social Security Numbers, Account Details",
-      "Description": "Victims of a bank data breach are set to receive up to $3,000 each after a settlement was reached in a class action lawsuit. According to the settlement administration portal, impacted customers at Arizona-based Evolve Bank & Trust who file a claim and provid…",
-      "Url": "https://dailyhodl.com/2025/07/05/billion-dollar-bank-handing-thousands-of-dollars-to-data-breach-victim-after-cybersecurity-incident-exposed-names-social-security-numbers-account-details/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/07/breach-cash-settlement.jpg",
-      "PublishedAt": "2025-07-05T17:46:28Z",
-      "Content": "Victims of a bank data breach are set to receive up to $3,000 each after a settlement was reached in a class action lawsuit.\r\nAccording to the settlement administration portal, impacted customers at … [+1745 chars]"
     }
   ]
 }
