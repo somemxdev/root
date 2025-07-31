@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal’s Foreign Exchange Rates TODAY!  US Dollar, Euro, & More: Find Out How Your Money Stacks Up! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal: Your Guide to Currency Exchange Hello currency exchange enthusiasts! Keeping track of the latest currency rates is crucial, especially if you’re involved in international transactions, traveling abroad, or simply inter…",
+      "Url": "https://nep123.com/nepals-foreign-exchange-rates-today-us-dollar-euro-more-find-out-how-your-money-stacks-up/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-30T00:54:54Z",
+      "Content": "Hello currency exchange enthusiasts! Keeping track of the latest currency rates is crucial, especially if you’re involved in international transactions, traveling abroad, or simply interested in glob… [+3744 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bitcoinist"
+      },
+      "Author": "Ronaldo Marquez",
+      "Title": "Bitcoin Blitz: Bakkt Holdings Gear Up To Finance $1 Billion-Dollar Purchase",
+      "Description": "On Monday, crypto software firm Bakkt Holdings (BKKT) announced an ambitious plan to raise up to $1 billion through various securities offerings to boost its own Bitcoin (BTC) treasury reserve, in line with the growing trend among publicly traded companies. T…",
+      "Url": "https://bitcoinist.com/bitcoin-blitz-bakkt-1-billion-dollar-purchase/",
+      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2024/11/Screenshot_580.jpg",
+      "PublishedAt": "2025-07-29T11:00:37Z",
+      "Content": "On Monday, crypto software firm Bakkt Holdings (BKKT) announced an ambitious plan to raise up to $1 billion through various securities offerings to boost its own Bitcoin (BTC) treasury reserve, in li… [+2836 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi trades at GH¢10.48 to a dollar on the interbank market",
+      "Description": "Ghana's local currency, the cedi, has maintained stability against major trading currencies on the interbank market, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-trades-at-GH-10-48-to-a-dollar-on-the-interbank-market-1993717",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/189/18922978.jpg",
+      "PublishedAt": "2025-07-29T08:16:28Z",
+      "Content": "Ghana's local currency, the cedi, has maintained stability against major trading currencies on the interbank market, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the… [+689 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Breaking: Today’s Foreign Exchange Rates in Nepal!  Dollar, Euro & More!",
+      "Description": "Nepal Rastra Bank Announces Today’s Foreign Exchange Rates! Hello, currency exchange enthusiasts! Stay informed about the latest exchange rates in Nepal. Nepal Rastra Bank, the country’s central bank, has released the official foreign exchange rates for today…",
+      "Url": "https://nep123.com/breaking-todays-foreign-exchange-rates-in-nepal-dollar-euro-more/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-29T00:09:53Z",
+      "Content": "Hello, currency exchange enthusiasts! Stay informed about the latest exchange rates in Nepal. Nepal Rastra Bank, the country’s central bank, has released the official foreign exchange rates for today… [+2936 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Stocks Hold at Record, Dollar Jumps on Trade Hopes: Markets Wrap - Yahoo Finance",
+      "Description": "Stocks Hold at Record, Dollar Jumps on Trade Hopes: Markets WrapYahoo Finance Dollar gains against major peers after US-EU trade pactReuters Dollar strengthens against euro as US-EU trade deal limits uncertainty – as it happenedThe Guardian Europeans lament t…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=178495530",
+      "UrlToImage": null,
+      "PublishedAt": "2025-07-28T20:32:56Z",
+      "Content": "When someone says \"I want a programming language in which I need only\r\nsay what I wish done,\" give him a lollipop."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Straits Times"
+      },
+      "Author": "Sue-ann Tan",
+      "Title": "Me and My Money: Being down to her last dollar gave finance exec a lasting budgeting lesson",
+      "Description": "She now focuses on saving and prioritising future planning, rather than just spending money.  Read more at straitstimes.com. Read more at straitstimes.com.",
+      "Url": "https://www.straitstimes.com/business/invest/me-and-my-money-being-down-to-her-last-dollar-gave-finance-exec-a-lasting-budgeting-lesson",
+      "UrlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b9db2169b9c04a1586ef0339fb037cf1225271c99d86a29cbae6319c7ded815a",
+      "PublishedAt": "2025-07-26T21:00:00Z",
+      "Content": "Published Jul 27, 2025, 05:00 AM\r\nUpdated Jul 27, 2025, 06:10 AM"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Dollar & Euro Rates SHOCK! Nepal’s Exchange Rates Revealed! ",
+      "Description": "Today’s Currency Exchange Rates: Your Quick Guide Hey everyone! Keeping track of the ever-changing currency exchange rates can feel like a full-time job, but don’t worry, I’ve got you covered! Today, we’re diving into the latest foreign currency exchange rate…",
+      "Url": "https://nep123.com/%f0%9f%92%b0%f0%9f%92%b8-dollar-euro-rates-shock-nepals-exchange-rates-revealed-%f0%9f%87%b3%f0%9f%87%b5/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-24T00:50:49Z",
+      "Content": "Hey everyone! Keeping track of the ever-changing currency exchange rates can feel like a full-time job, but don’t worry, I’ve got you covered! Today, we’re diving into the latest foreign currency exc… [+2491 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal’s Exchange Rates TODAY! Dollar, Euro & More! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal – Your Guide to Currency Conversion Welcome, fellow financial enthusiasts, to your daily dose of Nepal Rastra Bank (NRB) foreign exchange rates! Staying informed about the latest currency exchange values is crucial whet…",
+      "Url": "https://nep123.com/%f0%9f%92%b0%f0%9f%92%b8-nepals-exchange-rates-today-dollar-euro-more-%f0%9f%87%b3%f0%9f%87%b5/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-24T00:36:53Z",
+      "Content": "Welcome, fellow financial enthusiasts, to your daily dose of Nepal Rastra Bank (NRB) foreign exchange rates! Staying informed about the latest currency exchange values is crucial whether you’re a sea… [+4005 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "newsBTC"
+      },
+      "Author": "tariks",
+      "Title": "Online Slots Real Money No Down Payment: A Guide to Winning Huge Without Investing a Dollar",
+      "Description": "Are you trying to find a thrilling and possibly lucrative method to kill time online? Look no further than online ports actual cash no deposit. These digital slots supply the exhilaration of traditional slot video games however with the included perk of playi…",
+      "Url": "http://www.newsbtc.com/news/online-slots-real-money-no-down-payment-a-guide-to-winning-huge-without-investing-a-dollar/",
+      "UrlToImage": null,
+      "PublishedAt": "2025-07-23T13:21:08Z",
+      "Content": "Are you trying to find a thrilling and possibly lucrative method to kill time online? Look no further than online ports actual cash no deposit. These digital slots supply the exhilaration of traditio… [+4310 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "list.metadata.agency",
+      "Title": "Swiss Bank EFG Warns of Weakening Dollar as Net Profit Jumps 36%",
+      "Description": "EFG International AG said a weakening dollar mostly eroded the value of its assets by 11.7 billion Swiss francs ($14.8 billion) in the first half of the year as the Swiss bank reported a 36% gain in net profit.",
+      "Url": "https://www.livemint.com/companies/news/swiss-bank-efg-warns-of-weakening-dollar-as-net-profit-jumps-36-11753257676793.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_2_1733465085102_1733465089141.png",
+      "PublishedAt": "2025-07-23T08:01:16Z",
+      "Content": "(Bloomberg) -- EFG International AG said a weakening dollar mostly eroded the value of its assets by 11.7 billion Swiss francs ($14.8 billion) in the first half of the year as the Swiss bank reported… [+1575 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -262,136 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/07/breach-cash-settlement.jpg",
       "PublishedAt": "2025-07-05T17:46:28Z",
       "Content": "Victims of a bank data breach are set to receive up to $3,000 each after a settlement was reached in a class action lawsuit.\r\nAccording to the settlement administration portal, impacted customers at … [+1745 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar slips versus major currencies as US tariff deadline looms - Yahoo Finance",
-      "Description": "Dollar slips versus major currencies as US tariff deadline loomsYahoo Finance Stocks, Futures Slide on Trump’s Tariff Threat: Markets WrapBloomberg.com Why is the dollar off to a weak start this year?NPR U.S. Dollar Eases as Tariff Deadline LoomsWSJ An Indepe…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=178282928",
-      "UrlToImage": null,
-      "PublishedAt": "2025-07-04T20:54:52Z",
-      "Content": "\"The value of marriage is not that adults produce children, but that children \r\nproduce adults.\"\r\n-- Peter De Vries"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ZyCrypto"
-      },
-      "Author": "Troy Watson",
-      "Title": "Chinese Tech Giants JD and Ant Group Push Central Bank to Launch Yuan Stablecoins Against Dollar Dominance",
-      "Description": "Chinese e-commerce companies JD and Ant Group have been petitioning the People’s Bank of China (PBOC) to approve Yuan-based stablecoins, aiming to compete with US dollar stablecoins that currently dominate the market. E-commerce companies suggest that the PBO…",
-      "Url": "https://zycrypto.com/chinese-tech-giants-jd-and-ant-group-push-central-bank-to-launch-yuan-stablecoins-against-dollar-dominance/",
-      "UrlToImage": "https://zycrypto.com/wp-content/uploads/2021/06/Chinas-State-Owned-ICBC-Bank-To-Offer-Digital-Yuans-Cash-Withdrawals-In-Beijing.jpg",
-      "PublishedAt": "2025-07-04T13:01:32Z",
-      "Content": "Chinese e-commerce companies JD and Ant Group have been petitioning the People’s Bank of China (PBOC) to approve Yuan-based stablecoins, aiming to compete with US dollar stablecoins that currently do… [+3712 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Gigi Suhanic",
-      "Title": "Posthaste: Canadian dollar could hit 78 cents U.S. and sooner than expected, says Scotiabank analyst",
-      "Description": "The loonie has clocked a strong run over the last six months and more upside is expected as headwinds build for its U.S. counterpart",
-      "Url": "https://financialpost.com/news/canadian-dollar-could-hit-78-us-cents-scotiabank",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/07/canadian-dollar-gs0703.jpg",
-      "PublishedAt": "2025-07-04T12:06:28Z",
-      "Content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+5020 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: MAS slaps 9 financial institutions with S$27.45 million in penalties",
-      "Description": "Credit Suisse, UOB, UBS, UOB Kay Hian and Citibank were among the financial institutions penalised.",
-      "Url": "https://www.channelnewsasia.com/singapore/mas-27-million-penalty-banks-credit-suisse-uob-ubs-money-laundering-case-5220456",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--Dajdj1yJ--/c_crop,h_900,w_1600,x_0,y_124/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/07/04/monetary_authority_of_singapore_mas.jpg?itok=cVo5zsrP",
-      "PublishedAt": "2025-07-04T09:30:05Z",
-      "Content": "MAS said that it found shortcomings in four areas.\r\nFirst, lapses in customer risk assessment were found in Bank Julius Baer, Blue Ocean Invest, Citibank, Credit Suisse and UOB Kay Hian.\r\nThese insti… [+3084 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Amalgamated Bank Purchases 526 Shares of Dollar General Corporation (NYSE:DG)",
-      "Description": "Amalgamated Bank raised its stake in Dollar General Corporation (NYSE:DG – Free Report) by 1.2% during the first quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 42,891 shares of the company’s stock afte…",
-      "Url": "https://www.etfdailynews.com/2025/07/04/amalgamated-bank-purchases-526-shares-of-dollar-general-corporation-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-07-04T08:24:50Z",
-      "Content": "Amalgamated Bank raised its stake in Dollar General Corporation (NYSE:DG – Free Report) by 1.2% during the first quarter, according to its most recent filing with the Securities and Exchange Commissi… [+6413 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalresearch.ca"
-      },
-      "Author": "Uriel Araujo",
-      "Title": "The BRICS New Development Bank (NDB) versus US Dollar Empire: Quietly Challenging US Financial Hegemony",
-      "Description": "The global financial system, long dominated by Western institutions like the World Bank and the IMF, faces a quiet but persistent challenge from the New Development Bank (NDB), often referred to as the BRICS Bank. Under the leadership of former …\nThe post The…",
-      "Url": "https://www.globalresearch.ca/brics-bank-vs-dollar-empire/5893614",
-      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2021/09/A-NDB.jpg",
-      "PublishedAt": "2025-07-02T14:11:50Z",
-      "Content": "The global financial system, long dominated by Western institutions like the World Bank and the IMF, faces a quiet but persistent challenge from the New Development Bank (NDB), often referred to as t… [+6745 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Scammers Drain $20,000 From Billion-Dollar Bank Customer Who Took Out Loan for Business Purposes: Report",
-      "Description": "A customer of a billion-dollar US bank reportedly says scammers stole the funds from her small business loan that she had just received. Lele Ewah, a small business owner in Houston, Texas, says the scam all started with a call from a woman impersonating an o…",
-      "Url": "https://dailyhodl.com/2025/07/02/scammers-drain-20000-from-billion-dollar-bank-customer-who-took-out-loan-for-business-purposes-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/03/freeze-bank-lawsuit.jpg",
-      "PublishedAt": "2025-07-02T11:45:50Z",
-      "Content": "A customer of a billion-dollar US bank reportedly says scammers stole the funds from her small business loan that she had just received.\r\nLele Ewah, a small business owner in Houston, Texas, says the… [+1623 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Dollar tumbles, Japan trade tensions, European bank rally: 3 Things",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77f5267c-5007-477b-ad86-447c34e53fbb",
-      "UrlToImage": null,
-      "PublishedAt": "2025-07-01T11:32:28Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Betty Hou, Matthew Burgess, Bloomberg",
-      "Title": "Taiwan dollar surges more than 2% as traders test central bank",
-      "Description": "The Taiwan dollar is the best performer in Asia this year following its jump against the U.S. dollar on Tuesday.",
-      "Url": "https://fortune.com/asia/2025/07/01/taiwan-dollar-surges-more-than-2-as-traders-test-central-bank/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2213118503-e1751353599681.jpg?resize=1200,600",
-      "PublishedAt": "2025-07-01T07:16:15Z",
-      "Content": "The Taiwan dollar surged more than 2% in another day of volatility for the currency, as exporters sales of the greenback tested the central banks tolerance for local currency strength. The currency j… [+3363 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Jail for personal driver who lied about 4 luxury cars out of greed",
-      "Description": "Liew Yik Kit had been instructed by a man implicated in the large-scale money laundering case to sell four luxury cars.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-money-laundering-personal-driver-lied-luxury-cars-5211411",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--jrcBQqZg--/c_crop,h_900,w_1600,x_0,y_69/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/06/30/_wal3368.jpg?itok=kRKrFPVx",
-      "PublishedAt": "2025-06-30T11:09:56Z",
-      "Content": "ACCUSED WANTED TO TAKE CONTROL OF CARS QUICKLY\r\nOn the day of the raids, Liew drove Su out of Singapore via Tuas Checkpoint in the evening. \r\nHe dropped Su off at Kuala Lumpur International Airport o… [+2548 chars]"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 136,
   "Articles": [
     {
       "Source": {
@@ -9,64 +9,51 @@
         "Name": "La Nacion"
       },
       "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 21 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, lunes 21 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-21-de-julio-nid21072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-desempeno-del-peso-mexicano-ante-el-dolar-se-G3S7PXEE4VCWRFTCVHTD2ETU34.jpg?auth=2e023b5da352e85e4fafef51992a16f8f67a41e866906b3851824afa09ea051d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-21T14:49:01Z",
-      "Content": "Este lunes 21 de julio de 2025 el precio del dólar en México fue de $18,72, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano se v… [+1638 chars]"
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 30 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 30 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-30-de-julio-nid30072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-la-manana-de-este-miercoles-el-peso-mexicano-LQOD7XIRLVADRISTB7ISQEM63A.jpg?auth=72904e726a602679752d243bdc43ccb63c7cb0d9885eba15b02ca5de6a0fdad6&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-30T13:57:20Z",
+      "Content": "Este miércoles 30 de julio de 2025, el precio del dólar en México fue de $18,7642, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano s… [+1589 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Excelsior.com.mx"
+        "Name": "Www.df.cl"
       },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 21 julio 2025. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano mantiene la racha positiva al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 21 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-21-julio-2025-tipo-cambio-bancos-mexico/1728270",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/21/3345702.jpg",
-      "PublishedAt": "2025-07-21T14:08:52Z",
-      "Content": "El peso mexicano mantiene la racha positiva al apreciarse en la jornada de este lunes, con lo que el precio del dólar hoy 21 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce a… [+1487 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 21 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 21 de julio inicia operaciones con el tipo de cambio interbancario en 18.60 pesos mexicanos por billete verde, con una ligera baja del 0.46 por ciento, según datos de Bloomberg.El peso mexicano se apreció el viernes ante un debilitamiento general…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/14/este-es-el-lugar-donde.jpeg",
-      "PublishedAt": "2025-07-21T11:14:00Z",
-      "Content": "El dólar HOY 21 de julio inicia operaciones con el tipo de cambio interbancario en 18.60 pesos mexicanos por billete verde, con una ligera baja del 0.46 por ciento, según datos de Bloomberg.\r\nEl peso… [+855 chars]"
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre al alza cerca de $ 980 tras recorte de tasas del Banco Central y en espera de la decisión de la Fed",
+      "Description": "El escenario externo hoy es desfavorable para el peso chileno: el dollar index subía 0,2% a 99 puntos y los rendimientos del Tesoro se elevaban cerca de 3 puntos base a lo largo de la curva. Los precios del cobre bajaban 0,7% en la Bolsa de Metales de Londres…",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hotmi20es",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250730/imag/foto_0000000220250730081406/paper-g18f6eee8d_1920.jpg",
+      "PublishedAt": "2025-07-30T12:38:00Z",
+      "Content": "El dólar abrió al alza este miércoles, después de que el Banco Central de Chile retomó la bajas de tasas de interés tal como se esperaba, y con mercados internacionales en espera de la decisión de po… [+2622 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Milenio"
       },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 19 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de julio el tipo de cambio interbancario, se ubica en 18.74 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano se aprecia…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-07-19T12:33:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 19 de julio el tipo de cambio interbancario, se ubica en 18.74 pesos por unidad, con una pérdida del 0.23 por ciento… [+1756 chars]"
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 30 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario en 18.76 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer por segunda jornada consecutiva a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-julio-2025-en-vivo-peso-tipo-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/09/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-07-30T11:25:00Z",
+      "Content": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario en 18.76 pesos mexicanos por billete verde, con una ligera baja del 0.06 por ciento, según datos de Bloomberg. \r\nEl pes… [+836 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Milenio"
+        "Name": "El Financiero"
       },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se apreció ante repliegue del dólar",
-      "Description": "El peso mexicano se apreció 0.25 por ciento, cerrando la jornada en 18.72 unidades por dólar, este viernes 18 de julio de 2025, ante un debilitamiento generalizado del dólar.Mientras que la Bolsa Mexicana de Valores retrocedió después de tres sesiones de gana…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-hoy-18-julio-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/13/el-dinero-de-las-utilidades.jpg",
-      "PublishedAt": "2025-07-18T20:26:56Z",
-      "Content": "El peso mexicano se apreció 0.25 por ciento, cerrando la jornada en 18.72 unidades por dólar, este viernes 18 de julio de 2025, ante un debilitamiento generalizado del dólar.\r\nMientras que la Bolsa M… [+718 chars]"
+      "Author": "EFE",
+      "Title": "Euro se ‘debilita’ frente al dólar por pacto comercial entre Trump y Europa: ¿Cuánto cayó HOY?",
+      "Description": "El euro se debilitó frente al dólar por segundo día consecutivo tras el reciente acuerdo comercial entre la UE y Trump.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/29/euro-se-debilita-frente-al-dolar-por-pacto-comercial-entre-trump-y-europa-cuanto-cayo-hoy/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LR7BB246QZF3TO5TGDWIUMTZTQ.jpeg?smart=true&auth=1689da9fedd2a8c1bd35a3bbdb9de8f88e992ecd0251d28429658abbc8ab5075&width=1200&height=630",
+      "PublishedAt": "2025-07-29T19:20:56Z",
+      "Content": "El euro cayó este martes hasta los 1.1529 dólares y continuó perdiendo valor frente a la moneda estadounidense, dos días después del anuncio del acuerdo comercial entre la Comisión Europea (CE) y Est… [+2243 chars]"
     },
     {
       "Source": {
@@ -74,51 +61,25 @@
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
-      "Title": "Peso ‘levanta la cabeza’ tras acumular pérdidas contra el dólar: Así cotiza el tipo de cambio HOY",
-      "Description": "Los inversionistas esperan más detalles de los aranceles de Trump que entrarán en vigor el 1 de agosto, incluyen una tasa de 30% designada para México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/18/peso-levanta-la-cabeza-tras-acumular-perdidas-contra-el-dolar-asi-cotiza-el-tipo-de-cambio-hoy/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SI5LNL3B7JAUJKQADM4MEO7TVQ.jpg?smart=true&auth=f70c493b0761f37b7cd029ae9720f51b2d2221b47fdc0a18d6cb42ba312fa28e&width=1200&height=630",
-      "PublishedAt": "2025-07-18T17:15:17Z",
-      "Content": "El peso mexicano busca recortar las pérdidas acumuladas contra el dólar durante la semana y aprovecha un debilitamiento del billete verde mientras el mercado está a la espera de más novedades en el f… [+2185 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Mayte Baena",
-      "Title": "Confirmado. Éste es el sitio que vende MÁS BARATO el dólar en México | Precios",
-      "Description": "Cientos de bancos en el país tendrán operaciones hasta este viernes 18 de julio debido a que los fines de semana el personal disfruta de un buen descanso. Si entre tus planes de hoy está comprar dólares, en MILENIO te decimos cuál es el lugar donde lo venden …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-aqui-se-vende-mas-barato-hoy-18-de-julio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/18/lugar-donde-se-vende-el.jpeg",
-      "PublishedAt": "2025-07-18T16:22:00Z",
-      "Content": "Cientos de bancos en el país tendrán operaciones hasta este viernes 18 de julio debido a que los fines de semana el personal disfruta de un buen descanso. Si entre tus planes de hoy está comprar dóla… [+4154 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Dólar cede frente al peso por postura de Waller de la Fed sobre recorte en julio",
-      "Description": "Forbes México.\n Dólar cede frente al peso por postura de Waller de la Fed sobre recorte en julio\n\nA nivel local, la sesión fue marcada por la divulgación de cifras que anticiparon que la economía de México habría crecido en junio.\nDólar cede frente al peso po…",
-      "Url": "https://forbes.com.mx/dolar-cede-frente-al-peso-por-postura-de-waller-de-la-fed-sobre-recorte-en-julio/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2025-07-18T15:49:44Z",
-      "Content": "El peso se apreciaba el viernes después de que el gobernador de la Reserva Federal Christopher Waller afirmó en la víspera que sigue creyendo que el banco central estadounidense debería recortar este… [+1469 chars]"
+      "Title": "Peso profundiza pérdidas ante el dólar: ¿En cuánto cotiza el tipo de cambio HOY?",
+      "Description": "Faltan 3 días para que se acabe la tregua arancelaria dada por Donald Trump. Países como México buscan cerrar nuevos acuerdos con EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/29/peso-dolar-precio-hoy-29-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Y6LX3GRHJJCQPOZQXXAS6MT2S4.jpg?smart=true&auth=c6174607ad791ca989c755dd039057b0dbfce4a4bc3579ca53f0435680a0087b&width=1200&height=630",
+      "PublishedAt": "2025-07-29T15:57:57Z",
+      "Content": "El dólar amplía sus ganancias ante el peso en medio de especulaciones a favor más acuerdos comerciales antes de la fecha límite del 1 de agosto impuesta por Donald Trump. \r\nEl mercado también asimila… [+1799 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Excelsior.com.mx"
       },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se fortalece! Precio del dólar hoy 18 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en la jornada del viernes tras comentarios sobre las tasas de interés de Estados Unidos, con lo que el precio del dólar hoy 18 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-18-julio-2025-tipo-cambio-bancos-mexico/1727865",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/18/3344527.jpg",
-      "PublishedAt": "2025-07-18T14:19:44Z",
-      "Content": "El peso mexicano se aprecia en la jornada del viernes tras comentarios sobre las tasas de interés de Estados Unidos, con lo que el precio del dólar hoy 18 de julio de 2025 cotiza en 18.68 unidades po… [+1299 chars]"
+      "Author": "ricardo.lara",
+      "Title": "Peso retrocede por segunda jornada consecutiva ante avance del dólar",
+      "Description": "Ricardo Lara\r\nEl peso mexicano retrocedió por segunda jornada consecutiva ante un avance generalizado del dólar al inicio de una reunión de dos días del Comité de Mercado Abierto de la Reserva Federal estadunidense, que decide sobre las tasas de interés.\r\n\nLa…",
+      "Url": "https://www.excelsior.com.mx/nacional/peso-cae-tipo-de-cambio-hoy-precio-del-dolar-29-de-julio/1729724",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/29/3350074.jpg",
+      "PublishedAt": "2025-07-29T14:52:14Z",
+      "Content": "El peso mexicano retrocedió por segunda jornada consecutiva ante un avance generalizado del dólar al inicio de una reunión de dos días del Comité de Mercado Abierto de la Reserva Federal estadunidens… [+1587 chars]"
     },
     {
       "Source": {
@@ -126,220 +87,38 @@
         "Name": "La Nacion"
       },
       "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 18 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 18 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-18-de-julio-nid18072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-viernes-el-peso-es-influenciado-por-la-X6K36C2LVBAIBPW3MHGXNI2P4Y.jpg?auth=cee4a37e5a50fe08fff9ba41e8ad0cdd24358657c0bdc186090c171c5fe28b18&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-18T13:54:15Z",
-      "Content": "Este viernes 18 de julio de 2025, el precio del dólar en México es de $18,7685, de acuerdo con el Diario Oficial de la Federación (DOF). Durante las primeras horas del día, el desempeño del peso mexi… [+1484 chars]"
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 29 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, martes 29 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-29-de-julio-nid29072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-la-sesion-de-este-martes-el-dolar-se-mantiene-X6K36C2LVBAIBPW3MHGXNI2P4Y.jpg?auth=cee4a37e5a50fe08fff9ba41e8ad0cdd24358657c0bdc186090c171c5fe28b18&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-29T14:02:14Z",
+      "Content": "Este martes 29 de julio de 2025, el precio del dólar en México fue de $18,7267, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de la jornada, el desempeño del peso mexicano se ve … [+1456 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve subida a $ 970 previo al esperado recorte de tasas del Banco Central",
+      "Description": "El tipo de cambio viene de cerrar ayer en máximos desde abril, impulsado por el fortalecimiento mundial del dólar y los diferenciales de tasas esperados entre Chile y EEUU. Los agentes extranjeros registraron una posición neta de US$ 4 mil millones contra el …",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-6bdcn",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250729/imag/foto_0000000520250729081222/2025-06-02T215827Z_1866864016_RC2ODV9G5HDE_RTRMADP.jpg",
+      "PublishedAt": "2025-07-29T12:37:00Z",
+      "Content": "El dólar abrió ligeramente al alza este martes, con mercados en compás de espera antes de conocer el posible regreso del Banco Central de Chile a los recortes de tasas de interés, previo a que la Res… [+1958 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Milenio"
       },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY viernes 18 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 18 de julio el tipo de cambio interbancario, se ubica en 18.69 pesos por unidad, según datos de Bloomberg.Ayer, el peso mexicano se depreció ante un repunte global del dólar lu…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2025-07-18T12:31:19Z",
-      "Content": "Analistas de grupos financieros y corredurías opinan sobre los mercados mexicanos y la economía. A continuación, un resumen de los reportes del 18 de julio. Las opiniones reflejadas no representan pu… [+1753 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede tras repunte del dólar por sólidos datos económicos de EU",
-      "Description": "Forbes México.\n Peso retrocede tras repunte del dólar por sólidos datos económicos de EU\n\nEl tipo de cambio se ubica en 18.7569 pesos por dólar, una depreciación de 0.16% para la moneda nacional, según datos de cierre de Banxico.\nPeso retrocede tras repunte d…",
-      "Url": "https://forbes.com.mx/peso-retrocede-tras-repunte-del-dolar-por-solidos-datos-economicos-de-eu/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-2-e1745852040955.webp",
-      "PublishedAt": "2025-07-17T23:32:28Z",
-      "Content": "Ciudad de México.- El peso se depreció este jueves ante un repunte global del dólar luego de la publicación de sólidos datos de la economía estadounidense, mientras que la Bolsa Mexicana de Valores s… [+1701 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Índice Big Mac: el cambio de julio que refleja un nuevo escenario para el dólar y el peso argentino",
-      "Description": "Tras la suba reciente en la cotización, la moneda local ahora se ubica entre las que lucen sub-valuadas frente a la divisa estadounidense; si se ajusta por el PBI per cápita local, el peso sigue sobrevaluado, pero con menor margen",
-      "Url": "https://www.lanacion.com.ar/economia/indice-big-mac-el-cambio-de-julio-que-refleja-un-nuevo-escenario-para-el-dolar-y-el-peso-argentino-nid17072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/the-economist-indica-que-la-hamburguesa-big-mac-EQEVALWJCFGLNOITX2MOB3QE5Q.jpg?auth=43edc0d8f943d6c4fcfd84441ad1d88f919189cdbcbf04e2b2ba9bb6af9cff65&width=1200&quality=70&smart=false&height=674",
-      "PublishedAt": "2025-07-17T17:43:59Z",
-      "Content": "El tipo de cambio cambió su tendencia en julio: luego de un contexto de estabilidad tras la flexibilización del cepo, acumula en lo que va de este mes una suba del 5,4%. Y ese movimiento, que provocó… [+5337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso cae ante el dólar por datos económicos en EU: Así cotiza HOY",
-      "Description": "El dólar se cotiza en 19.27 pesos por billete en ventanillas bancarias, según los datos publicados por Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/17/peso-dolar-tipo-de-cambio-hoy-17-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/H26RNIC56REZ7PMQMBAHNYH5G4.jpg?smart=true&auth=f4636f00d9afdc2d53f1a5153c72af4dd0e0b078190bc0073e8a27a53917dbf6&width=1200&height=630",
-      "PublishedAt": "2025-07-17T16:31:22Z",
-      "Content": "El peso mexicano inicia la sesión de este jueves en terreno de pérdidas ante un fortalecimiento del dólar respaldado por el dato de ventas minoristas en Estados Unidos, las cuales registraron su prim… [+1602 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde terreno ante repunte del dólar",
-      "Description": "Forbes México.\n Peso pierde terreno ante repunte del dólar\n\nPara el resto de la jornada, se espera que el peso oscile en un rango de 18.73 a 18.93 por dólar, de acuerdo con la firma Banco Base. \nPeso pierde terreno ante repunte del dólar\nForbes Staff",
-      "Url": "https://forbes.com.mx/peso-pierde-terreno-ante-repunte-del-dolar-2/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9227.webp",
-      "PublishedAt": "2025-07-17T16:03:18Z",
-      "Content": "Ciudad de México (Reuters) – El peso se depreciaba el jueves ante una revalorización generalizada del dólar luego de la divulgación de sólidas cifras de ventas minoristas y solicitudes de subsidio po… [+1764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "Precio dólar hoy a peso mexicano 17 julio 2025. Tipo cambio bancos México",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se deprecia en la jornada de este jueves, con lo que el precio del dólar hoy 17 de julio de 2025 cotiza en 18.81 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexican…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-17-julio-2025-tipo-cambio-bancos-mexico/1727644",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/17/3343857.jpg",
-      "PublishedAt": "2025-07-17T15:44:44Z",
-      "Content": "El peso mexicano se deprecia en la jornada de este jueves, con lo que el precio del dólar hoy 17 de julio de 2025 cotiza en 18.81 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi… [+1005 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Retrocede peso: dólar cotiza en $18.81",
-      "Description": "El tipo de cambio cotiza en $18.81 por dólar, con una pérdida de 0.61% para la moneda mexicana frente al precio de cierre del miércoles.",
-      "Url": "https://www.reforma.com/retrocede-peso-dolar-cotiza-en-18-81/ar3040416",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/851/5850729.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-07-17T14:40:22Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 julio 2025) .-08:34 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 17 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 17 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-17-de-julio-nid17072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-jueves-el-desempeno-del-peso-mexicano-es-EEZOYMLC5FA75EUNDFBW3KD3WU.jpg?auth=2c2d55a5cfc24f4e659212923a74155cb99e40a222b41005a5f338749857dd4f&width=1200&quality=70&smart=false&height=798",
-      "PublishedAt": "2025-07-17T14:04:04Z",
-      "Content": "Este jueves 17 de julio de 2025, el precio del dólar en México es de $18,7178, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano e… [+1653 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 17 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de julio el tipo de cambio interbancario, se ubica en 18.38 pesos por unidad, con una ganancia del 0.63 por ciento, según datos de Bloomberg.Ayer en bancos, Banco Azteca ven…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 29 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con un ligero aumento del 0.22 por ciento, según datos de Bloomberg.El peso mexicano se debilitaba ayer ante un fortalecimiento general…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2025-07-17T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 17 de julio el tipo de cambio interbancario, se ubica en 18.38 pesos por unidad, con una ganancia del 0.63 por cient… [+298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso corta racha de tres días de pérdidas ante un retroceso generalizado del dólar",
-      "Description": "Forbes México.\n Peso corta racha de tres días de pérdidas ante un retroceso generalizado del dólar\n\nLa sesión tuvo altibajos en medio de versiones de que Trump probablemente despediría pronto al jefe de la Reserva Federal, que luego fueron desmentidas.\nPeso c…",
-      "Url": "https://forbes.com.mx/peso-corta-racha-de-tres-dias-de-perdidas-ante-un-retroceso-generalizado-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2020/01/dolar-chapo2.jpg",
-      "PublishedAt": "2025-07-17T00:08:41Z",
-      "Content": "Ciudad de México, (Reuters).- El peso se apreció ante un declive generalizado del dólar, tras una sesión de altibajos en medio de versiones de que el presidente Donald Trump probablemente despediría … [+1348 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘recupera su brillo’ ante el dólar: Así cotiza este 16 de julio",
-      "Description": "El tipo de cambio se estabiliza este miércoles; el dólar se vende en 19.31 pesos en ventanillas bancarias, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/16/peso-dolar-tipo-de-cambio-hoy-16-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UJFKEX4HZ5GDBB5A4UWQYTDHBQ.jpg?smart=true&auth=59e42197dc22dd6af684e12e173cac9b9478b4ec4836a04876aa66dec4ed642d&width=1200&height=630",
-      "PublishedAt": "2025-07-16T15:59:24Z",
-      "Content": "El peso mexicano inicia la sesión recuperando su avance frente al dólar como parte de una corrección después de haber operado por tres jornadas consecutivas con retrocesos, mientras se mantiene la ca… [+1702 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 16 de julio en Estados Unidos",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 16 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-16-de-julio-en-estados-unidos-nid16072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-miercoles-16-de-julio-el-peso-mexicano-es-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-16T14:29:00Z",
-      "Content": "Este miércoles 16 de julio de 2025, el precio del dólar en México es de $18,8397, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano se… [+1404 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Tiene peso leve repunte; dólar cotiza en $18.80",
-      "Description": "El tipo de cambio cotiza en $18.80 por dólar, con un ligero avance de 0.09% para la moneda mexicana frente al precio de cierre del martes.",
-      "Url": "https://www.reforma.com/tiene-peso-leve-repunte-dolar-cotiza-en-18-80/ar3039700",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/986/5985942.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-07-16T14:19:57Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (16 julio 2025) .-08:10 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso repunta! Precio del dólar hoy 16 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano repunta en la sesión de este miércoles tras tres jornadas de pérdidas, con lo que el precio del dólar hoy 16 de julio de 2025 cotiza en 18.80 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-16-julio-2025-tipo-cambio-bancos-mexico/1727412",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/16/3343138.jpg",
-      "PublishedAt": "2025-07-16T14:06:50Z",
-      "Content": "El peso mexicano repunta en la sesión de este miércoles tras tres jornadas de pérdidas, con lo que el precio del dólar hoy 16 de julio de 2025 cotiza en 18.80 unidades por cada billete verde; conoce … [+1093 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Mayte Baena",
-      "Title": "Oficial. Éste es el lugar que vende MÁS BARATO el dólar en México hoy 16 de julio | Lista de bancos",
-      "Description": "Hoy miércoles 16 de julio, bancos del país y casas de cambio mantienen la compra venta de dólares; sin embargo, no todas las instituciones financieras manejan el mismo precio por lo que en MILENIO te contamos cuál es el sitio donde te conviene más realizar es…",
-      "Url": "https://www.milenio.com/negocios/donde-es-mas-barato-el-dolar-hoy-16-de-julio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/16/precio-dolar-julio-sitio-vende.jpeg",
-      "PublishedAt": "2025-07-16T13:25:00Z",
-      "Content": "Hoy miércoles 16 de julio, bancos del país y casas de cambio mantienen la compra venta de dólares; sin embargo, no todas las instituciones financieras manejan el mismo precio por lo que en MILENIO te… [+2084 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Internacional ,Karla Vázquez",
-      "Title": "Precio del dólar HOY miércoles 16 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 16 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg. El peso mexicano se apreciaba el martes después de dos jornadas de p…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
-      "PublishedAt": "2025-07-16T11:07:00Z",
-      "Content": "El dólar HOY 16 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.\r\n El pes… [+761 chars]"
+      "PublishedAt": "2025-07-29T11:12:00Z",
+      "Content": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con un ligero aumento del 0.22 por ciento, según datos de Bloomberg. \r\nEl p… [+571 chars]"
     },
     {
       "Source": {
@@ -347,12 +126,25 @@
         "Name": "Jornada.com.mx"
       },
       "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso pierde terreno y cierra en 18.81 por dólar; Nvidia impulsa al Nasdaq",
-      "Description": "El peso se depreció ayer luego de que en Estados Unidos se dio a conocer que la inflación en junio repuntó a 2.7 por ciento –el mayor nivel desde enero–, un dato que fortaleció el valor del dólar ante la percepción de que no habrá recorte en la tasa de interé…",
-      "Url": "https://www.jornada.com.mx/2025/07/16/economia/019n3eco",
+      "Title": "Cae el peso por la fortaleza del dólar",
+      "Description": "Tras el acuerdo comercial entre Estados Unidos y la Unión Europea, el dólar se fortaleció y golpeó ayer al peso, que tuvo una depreciación diaria de 1.17 por ciento para cerrar en 18.7643 unidades por dólar spot. La moneda mexicana, que cerró en su peor nivel…",
+      "Url": "https://www.jornada.com.mx/2025/07/29/economia/019n6eco",
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-07-16T10:40:11Z",
-      "Content": "Periódico La JornadaMiércoles 16 de julio de 2025, p. 19\r\nEl peso se depreció ayer luego de que en Estados Unidos se dio a conocer que la inflación en junio repuntó a 2.7 por ciento el mayor nivel de… [+2625 chars]"
+      "PublishedAt": "2025-07-29T09:16:28Z",
+      "Content": "Periódico La JornadaMartes 29 de julio de 2025, p. 19\r\nTras el acuerdo comercial entre Estados Unidos y la Unión Europea, el dólar se fortaleció y golpeó ayer al peso, que tuvo una depreciación diari… [+288 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se da su ‘azotón’ contra el dólar: ¿Por qué perdió más de 20 centavos HOY?",
+      "Description": "La expectativa de que Donald Trump no cumplirá sus amenazas arancelarias provocaron un 'efecto dominó' en el mercado que debilitó al peso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/28/por-que-el-peso-se-deprecio-hoy-28-de-julio-ante-el-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KDRNEBIUYVA7ZJCXJV3X3FIURM.jpeg?smart=true&auth=4463c9a8ba04258c53d093f299aa9c68d49f8f013fae6dbbcf74c3b81b84a6cb&width=1200&height=630",
+      "PublishedAt": "2025-07-28T21:22:07Z",
+      "Content": "El peso mexicano se desmoronó ante el dólar después de sufrir el impacto de los recientes acuerdos arancelarios de Donald Trump y la influencia de las tensiones económicas globales. \r\n¿Cómo afectará … [+2125 chars]"
     },
     {
       "Source": {
@@ -360,25 +152,116 @@
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
-      "Title": "Peso pierde tras dato de inflación en EU: Se ubica en 18.74 unidades por dólar",
-      "Description": "El dólar se cotiza en 19.19 pesos por billete verde en ventanillas bancarias, de acuerdo con Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/15/peso-dolar-tipo-de-cambio-hoy-15-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4TCFKNOASFGOBBZKBRQTI7UDAU.jpg?smart=true&auth=62780379b6f73213426aad5ea3a71e4b0c1fe5f4463099e01f4a10dc72fe9129&width=1200&height=630",
-      "PublishedAt": "2025-07-15T15:59:44Z",
-      "Content": "El peso mexicano inicia la sesión reflejando un retroceso marginal frente al billete verde, al tiempo que los operadores se encuentran asimilando el reporte de inflación para la economía de Estados U… [+1588 chars]"
+      "Title": "Acuerdos comerciales de Trump ‘pegan al peso’: Pierde casi 1% ante el dólar",
+      "Description": "El próximo 1 de agosto se vence la tregua que el presidente Donald Trump dio a cientos de países, incluido México, para alcanzar nuevos acuerdos arancelarios.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/28/peso-dolar-precio-hoy-28-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/V7YTUFMDCJEAJLA5HQXOXLHDA4.jpg?smart=true&auth=843ee4cc089750d4e4e5fee997a3735f9b71c05ad9048f4cbac8c61cd320a402&width=1200&height=630",
+      "PublishedAt": "2025-07-28T15:54:16Z",
+      "Content": "La ganancia de doble dígito del peso mexicano ante el dólar se esfuma en la sesión de este lunes 28 de julio, esto mientras el mercado asimila el acuerdo comercial entre Donald Trump y la Unión Europ… [+2193 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Aristeguinoticias.com"
+        "Name": "Forbes.com.mx"
       },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano resiste amenazas de aranceles; avanza frente al dólar",
-      "Description": "La moneda nacional logró una ganancia de un 0.26% frente al precio de referencia del lunes.",
-      "Url": "https://aristeguinoticias.com/150725/dinero-y-economia/peso-mexicano-resiste-amenazas-de-aranceles-avanza-frente-al-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-2.jpg",
-      "PublishedAt": "2025-07-15T15:13:52Z",
-      "Content": "El peso mexicano se apreciaba el martes después de dos jornadas de pérdidas, mientras los inversionistas asimilaban cifras de la inflación estadounidense que resultaron en línea con lo esperado.\r\nLa … [+619 chars]"
+      "Author": "Mitchel Montiel Leal",
+      "Title": "Peso se deprecia por avance del dólar tras acuerdo de Estados Unidos con la UE; BMV cae",
+      "Description": "Forbes México.\n Peso se deprecia por avance del dólar tras acuerdo de Estados Unidos con la UE; BMV cae\n\nEl peso cotizaba en 18.6523 por dólar, con una pérdida de 0.71% frente al precio de referencia de LSEG del viernes.\nPeso se deprecia por avance del dólar …",
+      "Url": "https://forbes.com.mx/peso-se-deprecia-por-avance-del-dolar-tras-acuerdo-de-estados-unidos-con-la-ue-bmv-cae/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2025-07-28T15:15:38Z",
+      "Content": "El peso se debilitaba este lunes ante un fortalecimiento generalizado del dólar luego de que se anunciara el fin de semana que Estados Unidos y la Unión Europea llegaron a un acuerdo comercial.\r\nEl p… [+1380 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Helen Partz",
+      "Title": "Asesor del BCE duda que el euro digital pueda igualar a stablecoins vinculadas al dólar de EEUU",
+      "Description": "El Banco Central Europeo podría recurrir a las stablecoins reguladas en euros y a la innovación privada para contrarrestar el dominio de las stablecoins en dólares estadounidenses, afirma el asesor Jürgen Schaaf.\n Según un asesor del Banco Central Europeo (BC…",
+      "Url": "https://es.cointelegraph.com/news/digital-euro-alone-curb-usd-stablecoin-rise-ecb-adviser",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-07/0198511c-6f90-77bd-8562-52503aeca469",
+      "PublishedAt": "2025-07-28T14:38:39Z",
+      "Content": "Según un asesor del Banco Central Europeo (BCE), una moneda digital del banco central (CBDC) por sí sola no será suficiente para hacer frente al auge de las stablecoins vinculadas al dólar estadounid… [+4616 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "ricardo.lara",
+      "Title": "¡Peso cae! Moneda mexicana retrocede ante fortalecimiento del dólar",
+      "Description": "Ricardo Lara\r\nEl peso mexicano retrocede y el precio del dólar hoy lunes 28 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una pérdida de 0.71% frente …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-hoy-lunes-28-de-julio-de-2025/1729536",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/28/3349499.jpg",
+      "PublishedAt": "2025-07-28T14:30:32Z",
+      "Content": "El peso mexicano retrocede y el precio del dólar hoy lunes 28 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\nLa divisa m… [+1445 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 28 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 28 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-28-de-julio-nid28072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-desempeno-del-peso-mexicano-ante-el-dolar-se-G3S7PXEE4VCWRFTCVHTD2ETU34.jpg?auth=2e023b5da352e85e4fafef51992a16f8f67a41e866906b3851824afa09ea051d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-28T14:18:13Z",
+      "Content": "Este lunes 28 de julio de 2025 el precio del dólar en México fue de $18,557, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es … [+2184 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 28 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "El dólarHOY 28 de julio inicia operaciones con el tipo de cambio interbancario cotizando en un promedio de 18.63 pesos mexicanos por billete verde, con un alza de 0.50 por ciento.El viernes, la moneda mexicana registró una ligera recuperación del 0.15 por cie…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/24/este-es-el-lugar-donde.jpeg",
+      "PublishedAt": "2025-07-28T11:15:00Z",
+      "Content": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario cotizando en un promedio de 18.63 pesos mexicanos por billete verde, con un alza de 0.50 por ciento.\r\nEl viernes, la mo… [+557 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 26 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de julio el tipo de cambio interbancario, se ubica en 18.54 pesos por unidad, según datos de Bloomberg.Ayer, el peso mexicano y la bolsa culminaron una semana de ganancias, …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-07-26T12:28:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de julio el tipo de cambio interbancario, se ubica en 18.54 pesos por unidad, según datos de Bloomberg.\r\nAyer, el… [+2146 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso va por ganancia semanal de doble dígito ante el dólar: ¿En cuánto está el tipo de cambio?",
+      "Description": "Los mercados están a la espera de lo que diga el presidente Donald Trump sobre nuevos acuerdos arancelarios con cientos de países... incluyendo a México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/25/peso-dolar-precio-hoy-25-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KRRFRT6L6JFWLH3OB2IIERDFQQ.jpg?smart=true&auth=5dc35a3c3b872021c0e3e8c1dcf438c63ec90327f15b2a0ee98f37b70130617e&width=1200&height=630",
+      "PublishedAt": "2025-07-25T15:53:59Z",
+      "Content": "El peso mexicano cede levemente ante el dólar, pero se perfila para una ganancia semanal de más de 10 centavos, esto a pocos días de que venza el plazo para que países cierren nuevos acuerdos comerci… [+1828 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 25 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 25 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-25-de-julio-nid25072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/al-inicio-de-la-jornada-de-este-viernes-el-DN244MAFKBE7ZJEVUAZQ37NJ4U.jpg?auth=b95a6f8fee21151062e2571e409e880b2dfd00bd989d7402d39557dd34b87d7e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-25T14:35:53Z",
+      "Content": "Este viernes 25 de julio de 2025, el precio del dólar en México es de $18,5538, de acuerdo con el Diario Oficial de la Federación (DOF). Durante las primeras horas del día, el desempeño del peso mexi… [+1438 chars]"
     },
     {
       "Source": {
@@ -386,12 +269,129 @@
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
-      "Title": "¡Peso gana! Precio del dólar hoy 15 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera en la jornada de este martes, con lo que el precio del dólar hoy 15 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexican…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-15-julio-2025-tipo-cambio-bancos-mexico/1727180",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/15/3342432.jpg",
-      "PublishedAt": "2025-07-15T14:36:35Z",
-      "Content": "El peso mexicano se recupera en la jornada de este martes, con lo que el precio del dólar hoy 15 de julio de 2025 cotiza en 18.68 unidades por cada billete verde; conoce aquí cuál es el tipo de cambi… [+1121 chars]"
+      "Title": "¡Peso cae levemente! Precio del dólar hoy 25 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano retrocede por segunda jornada consecutiva pero se encamina a cerrar la semana con ganancias, con lo que el precio del dólar hoy 25 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuál es el tipo…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-25-julio-2025-tipo-cambio-bancos-mexico/1729121",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/25/3348291.jpg",
+      "PublishedAt": "2025-07-25T14:12:13Z",
+      "Content": "El peso mexicano retrocede por segunda jornada consecutiva pero se encamina a cerrar la semana con ganancias, con lo que el precio del dólar hoy 25 de julio de 2025 cotiza en 18.56 unidades por cada … [+1236 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Mayte Baena",
+      "Title": "¿En dónde se vende el dólar MÁS BARATO? Éste es el lugar que oferta la moneda de EU al mejor precio",
+      "Description": "Hoy viernes 25 de julio es el último día en que los bancos tendrán operaciones. Si deseas realizar transacciones en ventanillas, deberás apresuraste especialmente si se trata de comprar o vender dólares. En MILENIO te contamos dónde se vende más barato hoy. L…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-lugar-donde-esta-mas-barato-hoy-25-de-julio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/25/lugar-donde-se-vende-mas.jpeg",
+      "PublishedAt": "2025-07-25T13:04:00Z",
+      "Content": "Hoy viernes 25 de julio es el último día en que losbancos tendrán operaciones. Si deseas realizar transacciones en ventanillas, deberás apresuraste especialmente si se trata de comprar o vender dólar… [+2533 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY viernes 25 de julio de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de julio el tipo de cambio interbancario, se ubica en un promedio de 18.00 pesos por unidad, según datos de Bloomberg.DÓLAR EN TIEMPO REAL",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-07-25T11:03:00Z",
+      "Content": "En la última semana, el peso mexicano presentó una leve pérdida de valor frente al dólar, equivalente al 0.99%, al cerrar en 18.636 unidades por dólar el pasado martes 22 de julio. No obstante, los ú… [+454 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Deutsche Bank prevé una caída del dólar a cerca de $ 910 por ventaja de la derecha en la carrera hacia La Moneda",
+      "Description": "Los estrategas atribuyen el reciente mal desempeño del peso chileno al anuncio de los aranceles de 50% sobre el cobre y a un mercado que ha descontado una postura más flexible del Banco Central previo a su reunión de fines de este mes.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/deutsche-bank-preve-una-caida-del-dolar-a-cerca-de-910-por-ventaja-de-la",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250724/imag/foto_0000000620250724123927/401837306.jpg",
+      "PublishedAt": "2025-07-24T17:40:00Z",
+      "Content": "La paridad dólar-peso posiblemente caerá a medida que se acercan las elecciones de noviembre en Chile, movido por las expectativas de triunfo de una candidatura de oposición, según planteó Deutsche B… [+3281 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se aleja de su marca récord: ¿Cuánto pierde ante el dólar?",
+      "Description": "Los mercados también empieza a 'prepararse' para la recta final de las negociaciones de nuevos acuerdos con el presidente Trump. La fecha límite es el 1 de agosto.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/24/peso-dolar-precio-hoy-24-de-julio-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MRM3PURO2BCHLOMXCGPMODWNFQ.jpg?smart=true&auth=bb6db0fc08ca713445885a207dfa675a105fb7a7efdb4ff999243caa214230ed&width=1200&height=630",
+      "PublishedAt": "2025-07-24T17:19:27Z",
+      "Content": "Después de imponer (otro) récord en 2025, el peso mexicano retrocede ante el dólar en la sesión de este 24 de julio, mientras el mercado asimila el nuevo reporte de inflación, que fue mejor de lo esp… [+1855 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Mayte Baena",
+      "Title": "¿Dónde se vende más barato? Así se oferta el dólar en bancos de México hoy 24 de julio | Lista",
+      "Description": "El peso mexicano se ha apreciado y con ello, el precio dólar se muestra más bajo, por lo que muchos involucrados en realizar transacciones usando esta moneda internacional aprovechan su valor. ¿Quieres comprar o vender dólares? En MILENIO te decimos cuál es e…",
+      "Url": "https://www.milenio.com/negocios/donde-sale-mas-barato-comprar-y-vender-el-dolar-hoy-24-de-julio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/24/este-es-el-lugar-donde.jpeg",
+      "PublishedAt": "2025-07-24T14:52:00Z",
+      "Content": "El peso mexicano se ha apreciado y con ello, el precio dólar se muestra más bajo, por lo que muchos involucrados en realizar transacciones usando esta moneda internacional aprovechan su valor. ¿Quier… [+5130 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso corta racha de ganancias! Precio del dólar hoy 24 de julio de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano cortó la buena racha de ganancias en la sesión de este jueves, con lo que el precio del dólar hoy 24 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-julio-2025-tipo-cambio-bancos-mexico/1728896",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/24/3347619.jpg",
+      "PublishedAt": "2025-07-24T14:36:29Z",
+      "Content": "El peso mexicano cortó la buena racha de ganancias en la sesión de este jueves, con lo que el precio del dólar hoy 24 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuá… [+1232 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 24 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 24 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-24-de-julio-nid24072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-jueves-24-de-julio-el-peso-es-impactado-por-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-24T14:09:52Z",
+      "Content": "Este jueves 24 de julio de 2025,el precio del dólar en México es de $18,5735, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+1618 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Serrat García,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 24 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 24 de julio inicia operaciones con el tipo de cambio interbancario en 18.55 pesos mexicanos por billete verde, con un ligero aumento de 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el miércoles por cuarta jornada consec…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/10/sitio-precio-dolar-barato-julio.jpeg",
+      "PublishedAt": "2025-07-24T10:57:00Z",
+      "Content": "El dólar HOY 24 de julio inicia operaciones con el tipo de cambio interbancario en 18.55 pesos mexicanos por billete verde, con un ligero aumento de 0.07 por ciento, según datos de Bloomberg.\r\nEl pes… [+832 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Logra el peso su mejor nivel en un año; cierra en 18.53 por dólar spot",
+      "Description": "En medio de un optimismo global, que llevó a Wall Street a máximos históricos, la moneda mexicana cerró este miércoles en 18.5329 pesos por dólar spot, nivel no visto en casi un año.",
+      "Url": "https://www.jornada.com.mx/2025/07/24/economia/018n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-07-24T10:13:16Z",
+      "Content": "Periódico La JornadaJueves 24 de julio de 2025, p. 18\r\nEn medio de un optimismo global, que llevó a Wall Street a máximos históricos, la moneda mexicana cerró este miércoles en 18.5329 pesos por dóla… [+2444 chars]"
     }
   ]
 }
