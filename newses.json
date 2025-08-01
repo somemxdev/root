@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Esteban Lafuente",
+      "Title": "Sube el dólar: las razones que explican la escalada del tipo de cambio",
+      "Description": "La divisa estadounidense superó los $1300 esta semana",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/sube-el-dolar-las-razones-que-explican-la-escalada-del-tipo-de-cambio-nid31072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-comenzo-a-subir-desde-comienzos-de-R3FXOPUYSFDE3I65UDNFDZNWWA.jpg?auth=45bfb6b7622e5cb4f9db6a23937c032b2cc201bf2c2bceba7ae7b7c2d27a6bdc&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-31T18:27:00Z",
+      "Content": "Solo en julio, el dólar oficial subió un 13%. El minorista quebró su máximo nominal histórico y llegó a $1380, en un escenario que se aceleró en las últimas semanas y se acompañó con el movimiento de… [+5226 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MRM3PURO2BCHLOMXCGPMODWNFQ.jpg?smart=true&auth=bb6db0fc08ca713445885a207dfa675a105fb7a7efdb4ff999243caa214230ed&width=1200&height=630",
       "PublishedAt": "2025-07-24T17:19:27Z",
       "Content": "Después de imponer (otro) récord en 2025, el peso mexicano retrocede ante el dólar en la sesión de este 24 de julio, mientras el mercado asimila el nuevo reporte de inflación, que fue mejor de lo esp… [+1855 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Mayte Baena",
-      "Title": "¿Dónde se vende más barato? Así se oferta el dólar en bancos de México hoy 24 de julio | Lista",
-      "Description": "El peso mexicano se ha apreciado y con ello, el precio dólar se muestra más bajo, por lo que muchos involucrados en realizar transacciones usando esta moneda internacional aprovechan su valor. ¿Quieres comprar o vender dólares? En MILENIO te decimos cuál es e…",
-      "Url": "https://www.milenio.com/negocios/donde-sale-mas-barato-comprar-y-vender-el-dolar-hoy-24-de-julio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/24/este-es-el-lugar-donde.jpeg",
-      "PublishedAt": "2025-07-24T14:52:00Z",
-      "Content": "El peso mexicano se ha apreciado y con ello, el precio dólar se muestra más bajo, por lo que muchos involucrados en realizar transacciones usando esta moneda internacional aprovechan su valor. ¿Quier… [+5130 chars]"
     }
   ]
 }
