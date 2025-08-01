@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Cristóbal Muñoz",
+      "Title": "Expuesto al carry trade y con un cobre en retroceso: lo que se viene para el peso chileno frente al dólar en el mediano plazo",
+      "Description": "PwC Chile proyectó un rango de entre $ 980 y $ 1.000 para el tipo de cambio, ante un diferencial de tasas que se podría acrecentar con dos eventuales recortes extra.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/expuesto-al-carry-trade-y-con-un-cobre-en-retroceso-lo-que-se-viene-para",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250731/imag/foto_0000000820250731131937/Dolar_RTRS1.jpg",
+      "PublishedAt": "2025-07-31T17:12:00Z",
+      "Content": "Una batería de noticias está siendo procesada por las mesas de dinero, en busca de descifrar el rumbo que tomará el precio del dólar en el mercado local.\r\nMientras el Banco Central bajó su tasa por p… [+4462 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/24/este-es-el-lugar-donde.jpeg",
       "PublishedAt": "2025-07-24T14:52:00Z",
       "Content": "El peso mexicano se ha apreciado y con ello, el precio dólar se muestra más bajo, por lo que muchos involucrados en realizar transacciones usando esta moneda internacional aprovechan su valor. ¿Quier… [+5130 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso corta racha de ganancias! Precio del dólar hoy 24 de julio de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano cortó la buena racha de ganancias en la sesión de este jueves, con lo que el precio del dólar hoy 24 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-24-julio-2025-tipo-cambio-bancos-mexico/1728896",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/24/3347619.jpg",
-      "PublishedAt": "2025-07-24T14:36:29Z",
-      "Content": "El peso mexicano cortó la buena racha de ganancias en la sesión de este jueves, con lo que el precio del dólar hoy 24 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuá… [+1232 chars]"
     }
   ]
 }
