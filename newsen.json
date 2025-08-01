@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " NEPAL’S MONEY UPDATE: US Dollar, Euro, & More! Latest Exchange Rates Revealed! ",
+      "Description": "Nepal Rastra Bank Releases Today’s Foreign Exchange Rates: Currency Exchange Updates Welcome to our daily currency update! Stay informed with the latest foreign exchange rates provided by the Nepal Rastra Bank (NRB). Whether you’re planning a currency convers…",
+      "Url": "https://nep123.com/nepals-money-update-us-dollar-euro-more-latest-exchange-rates-revealed/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-31T00:45:54Z",
+      "Content": "Welcome to our daily currency update! Stay informed with the latest foreign exchange rates provided by the Nepal Rastra Bank (NRB). Whether you’re planning a currency conversion, remittance, or just … [+3837 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/374/37428733.jpg",
       "PublishedAt": "2025-07-07T08:27:24Z",
       "Content": "Ghana's local currency, the cedi, has appreciated slightly on the interbank market against major trading currencies, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the… [+764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "US Dollar Witnesses Worst First-Half Performance in 52 Years As Money Supply Explodes To $21,942,000,000,000",
-      "Description": "The US dollar index (DXY) has suffered its steepest first-half decline in over half a century amid new all-time high levels for the country’s money supply. The DXY witnessed a 10.8% drop in the first six months of 2025, the worst since its 14.8% decline in th…",
-      "Url": "https://dailyhodl.com/2025/07/06/us-dollar-witnesses-worst-first-half-performance-in-52-years-as-money-supply-explodes-to-21942000000000/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/bank-fraud-dollars.jpg",
-      "PublishedAt": "2025-07-06T10:00:57Z",
-      "Content": "The US dollar index (DXY) has suffered its steepest first-half decline in over half a century amid new all-time high levels for the country’s money supply.\r\nThe DXY witnessed a 10.8% drop in the firs… [+2169 chars]"
     }
   ]
 }
