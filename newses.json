@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 136,
+  "TotalResults": 137,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 31 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY jueves 31 de julio inicia operaciones con el tipo de cambio interbancario en 18.82 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano mantenía ayer sus pérdidas de alrededor de 0.…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
+      "PublishedAt": "2025-07-31T11:15:00Z",
+      "Content": "El dólar HOY jueves 31 de julio inicia operaciones con el tipo de cambio interbancario en 18.82 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.  … [+877 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-jueves-24-de-julio-el-peso-es-impactado-por-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
       "PublishedAt": "2025-07-24T14:09:52Z",
       "Content": "Este jueves 24 de julio de 2025,el precio del dólar en México es de $18,5735, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+1618 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Serrat García,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 24 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 24 de julio inicia operaciones con el tipo de cambio interbancario en 18.55 pesos mexicanos por billete verde, con un ligero aumento de 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el miércoles por cuarta jornada consec…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/10/sitio-precio-dolar-barato-julio.jpeg",
-      "PublishedAt": "2025-07-24T10:57:00Z",
-      "Content": "El dólar HOY 24 de julio inicia operaciones con el tipo de cambio interbancario en 18.55 pesos mexicanos por billete verde, con un ligero aumento de 0.07 por ciento, según datos de Bloomberg.\r\nEl pes… [+832 chars]"
     }
   ]
 }
