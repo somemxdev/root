@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 31 de julio",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 31 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-31-de-julio-nid31072025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-inicio-de-sesion-de-este-jueves-31-de-julio-5RN6DVK3FFH47IL6RWYMUENUUU.jpg?auth=75d6dd631e487f14628a3bd91b68492aae5602cc2d814c4cf4644293946c01b2&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-07-31T14:06:42Z",
+      "Content": "Este jueves 31 de julio de 2025, el precio del dólar en México fue de $18,796, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano r… [+1482 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/24/3347619.jpg",
       "PublishedAt": "2025-07-24T14:36:29Z",
       "Content": "El peso mexicano cortó la buena racha de ganancias en la sesión de este jueves, con lo que el precio del dólar hoy 24 de julio de 2025 cotiza en 18.56 unidades por cada billete verde; conoce aquí cuá… [+1232 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 24 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 24 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-24-de-julio-nid24072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-jueves-24-de-julio-el-peso-es-impactado-por-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-24T14:09:52Z",
-      "Content": "Este jueves 24 de julio de 2025,el precio del dólar en México es de $18,5735, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano es… [+1618 chars]"
     }
   ]
 }
