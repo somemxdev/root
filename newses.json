@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 127,
+  "TotalResults": 128,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 5 de agosto en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, martes 5 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-5-de-agosto-en-estados-unidos-nid05082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-desempeno-del-peso-mexicano-en-las-primeras-RPYJGJGGYRBVBFF5HXHU5JZWEM.jpg?auth=d8b760efa37f6962dfa2556ad87055bd029a764fe13f1f037acdb90781957cba&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-05T14:00:47Z",
+      "Content": "Este martes 5 de agosto de 2025, el precio del dólar en México fue de $18,8783, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de la jornada, el desempeño del peso mexicano es imp… [+1494 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
       "PublishedAt": "2025-07-28T15:15:38Z",
       "Content": "El peso se debilitaba este lunes ante un fortalecimiento generalizado del dólar luego de que se anunciara el fin de semana que Estados Unidos y la Unión Europea llegaron a un acuerdo comercial.\r\nEl p… [+1380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Helen Partz",
-      "Title": "Asesor del BCE duda que el euro digital pueda igualar a stablecoins vinculadas al dólar de EEUU",
-      "Description": "El Banco Central Europeo podría recurrir a las stablecoins reguladas en euros y a la innovación privada para contrarrestar el dominio de las stablecoins en dólares estadounidenses, afirma el asesor Jürgen Schaaf.\n Según un asesor del Banco Central Europeo (BC…",
-      "Url": "https://es.cointelegraph.com/news/digital-euro-alone-curb-usd-stablecoin-rise-ecb-adviser",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-07/0198511c-6f90-77bd-8562-52503aeca469",
-      "PublishedAt": "2025-07-28T14:38:39Z",
-      "Content": "Según un asesor del Banco Central Europeo (BCE), una moneda digital del banco central (CBDC) por sí sola no será suficiente para hacer frente al auge de las stablecoins vinculadas al dólar estadounid… [+4616 chars]"
     }
   ]
 }
