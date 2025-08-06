@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso sube en medio de alza global del dólar; BMV también avanza",
+      "Description": "Forbes México.\n Peso sube en medio de alza global del dólar; BMV también avanza\n\nEl peso cotizaba en 18.8481 por dólar, con una ganancia del 0.25% frente al precio de referencia de LSEG del lunes.\nPeso sube en medio de alza global del dólar; BMV también avanz…",
+      "Url": "https://forbes.com.mx/peso-sube-en-medio-de-alza-global-del-dolar-bmv-tambien-avanza/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
+      "PublishedAt": "2025-08-05T15:44:38Z",
+      "Content": "El peso se apreciaba el martes, pese a un avance a nivel global del dólar, mientras el mercado local aguarda la reunión de política monetaria de Banco de México esta semana.\r\nEl peso cotizaba en 18.8… [+1681 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
       "PublishedAt": "2025-07-29T11:12:00Z",
       "Content": "El dólar HOY 28 de julio inicia operaciones con el tipo de cambio interbancario en 18.81 pesos mexicanos por billete verde, con un ligero aumento del 0.22 por ciento, según datos de Bloomberg. \r\nEl p… [+571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cae el peso por la fortaleza del dólar",
-      "Description": "Tras el acuerdo comercial entre Estados Unidos y la Unión Europea, el dólar se fortaleció y golpeó ayer al peso, que tuvo una depreciación diaria de 1.17 por ciento para cerrar en 18.7643 unidades por dólar spot. La moneda mexicana, que cerró en su peor nivel…",
-      "Url": "https://www.jornada.com.mx/2025/07/29/economia/019n6eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2025-07-29T09:16:28Z",
-      "Content": "Periódico La JornadaMartes 29 de julio de 2025, p. 19\r\nTras el acuerdo comercial entre Estados Unidos y la Unión Europea, el dólar se fortaleció y golpeó ayer al peso, que tuvo una depreciación diari… [+288 chars]"
     }
   ]
 }
