@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 5 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 5 de agosto inicia operaciones con el tipo de cambio interbancario en 18.92pesos mexicanos por billete verde, con una ligera alza del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ante un retroceso generalizado del dólar…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
+      "PublishedAt": "2025-08-05T11:02:00Z",
+      "Content": "El dólar HOY 5 de agosto inicia operaciones con el tipo de cambio interbancario en 18.92 pesos mexicanos por billete verde, con una ligera alza del 0.12 por ciento, según datos de Bloomberg. \r\nEl pes… [+799 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-07/0198511c-6f90-77bd-8562-52503aeca469",
       "PublishedAt": "2025-07-28T14:38:39Z",
       "Content": "Según un asesor del Banco Central Europeo (BCE), una moneda digital del banco central (CBDC) por sí sola no será suficiente para hacer frente al auge de las stablecoins vinculadas al dólar estadounid… [+4616 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "ricardo.lara",
-      "Title": "¡Peso cae! Moneda mexicana retrocede ante fortalecimiento del dólar",
-      "Description": "Ricardo Lara\r\nEl peso mexicano retrocede y el precio del dólar hoy lunes 28 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una pérdida de 0.71% frente …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-hoy-lunes-28-de-julio-de-2025/1729536",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/28/3349499.jpg",
-      "PublishedAt": "2025-07-28T14:30:32Z",
-      "Content": "El peso mexicano retrocede y el precio del dólar hoy lunes 28 de julio de 2025 cotiza en 18.65 unidades por cada billete verde; conoce aquí cuál es el tipo de cambio en bancos de México.\r\nLa divisa m… [+1445 chars]"
     }
   ]
 }
