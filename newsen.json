@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "Here’s a viral SEO title based on your news snippet:\n Breaking: Nepali Rupee’s Daily Exchange Rates Revealed! Dollar, Euro, & Pound Updates Inside! ",
+      "Description": "Your Daily Dose of Currency Exchange Rates in Nepal! Hey everyone, and welcome back to the blog! Today, we’re diving into the latest Nepal Rastra Bank announcements regarding foreign currency exchange rates. Staying informed about the current exchange rates i…",
+      "Url": "https://nep123.com/pheres-a-viral-seo-title-based-on-your-news-snippetp-pstrong-breaking-nepali-rupees-daily-exchange-rates-revealed-dollar-euro-amp-pound-updates-inside-strongp/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-03T00:39:50Z",
+      "Content": "Hey everyone, and welcome back to the blog! Today, we’re diving into the latest Nepal Rastra Bank announcements regarding foreign currency exchange rates. Staying informed about the current exchange … [+2110 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: 4 law firms linked to seized properties named, 2 more identified and reprimanded",
+      "Description": "Five lawyers involved in the conveyancing of the seized real estate properties have also been referred to the Law Society for possible professional disciplinary action.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-firms-lawyers-law-society-disciplinary-action-5272491",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--f31lcK1T--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/07/15/lawyer_office_file_photo.jpg?itok=-qGfaKod",
+      "PublishedAt": "2025-08-01T15:37:20Z",
+      "Content": "SINGAPORE: Four law firms that breached their anti-money laundering obligations over the purchase of properties in the S$3 billion (US$2.2 billion) money laundering case have been named, following th… [+9304 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "  Nepal’s Currency Rates TODAY: US Dollar, Euro & More!  Check Latest Exchange Rates Now! ",
+      "Description": "Nepal Rastra Bank Releases Foreign Exchange Rates for Today – Currency Exchange News Are you looking for the latest foreign exchange rates in Nepal? Stay informed with the most recent updates from Nepal Rastra Bank! This blog post provides a comprehensive ove…",
+      "Url": "https://nep123.com/nepals-currency-rates-today-us-dollar-euro-more-check-latest-exchange-rates-now/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-01T00:58:50Z",
+      "Content": "Are you looking for the latest foreign exchange rates in Nepal? Stay informed with the most recent updates from Nepal Rastra Bank! This blog post provides a comprehensive overview of the currency exc… [+2078 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2025-07-10T09:44:51Z",
       "Content": "Bank of New York Mellon Corp cut its position in shares of Dollar General Corporation (NYSE:DG – Free Report) by 1.9% during the 1st quarter, according to its most recent disclosure with the Securiti… [+6286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Vivian Nguyen",
-      "Title": "Trillion-dollar bank clears Bitwise crypto ETF for advisor-managed accounts",
-      "Description": "Institutional adoption of crypto ETFs signals a shift towards mainstream acceptance, potentially increasing crypto's role in diversified portfolios.\nThe post Trillion-dollar bank clears Bitwise crypto ETF for advisor-managed accounts appeared first on Crypto …",
-      "Url": "https://cryptobriefing.com/crypto-etf-approval-bitwise-bank/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/07/08201603/8f930958-3015-4fc3-a336-ebbf5dfc6a92-800x420.jpg",
-      "PublishedAt": "2025-07-09T00:18:07Z",
-      "Content": "Key Takeaways\r\n<ul><li>A trillion-dollar bank has cleared the Bitwise crypto ETF for advisor-managed accounts.</li><li>The approval signals growing institutional acceptance of regulated crypto invest… [+916 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Exclusive-China's central bank asks financial institutions about dollar weakness, sources say",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42312431-059a-4616-9549-c6ce535fac84",
-      "UrlToImage": null,
-      "PublishedAt": "2025-07-07T09:44:29Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Cedi gains by a pesewa to sell at GH¢10.32 to $1 dollar on the interbank market",
-      "Description": "Ghana's local currency, the cedi, has appreciated slightly on the interbank market against major trading currencies, particularly the US dollar.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-gains-by-a-pesewa-to-sell-at-GH-10-32-to-1-dollar-on-the-interbank-market-1990618",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/374/37428733.jpg",
-      "PublishedAt": "2025-07-07T08:27:24Z",
-      "Content": "Ghana's local currency, the cedi, has appreciated slightly on the interbank market against major trading currencies, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the… [+764 chars]"
     }
   ]
 }
