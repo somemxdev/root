@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Shocking! US Dollar Drops, Euro & Pound SOAR! Nepal’s Exchange Rates Shift Today!  #Nepal #CurrencyExchange #BreakingNews",
+      "Description": "Foreign Exchange Rates Today in Nepal: US Dollar Sees Slight Dip! Kathmandu, Nepal – Stay informed! Today’s foreign exchange rates from Nepal Rastra Bank (NRB) have been released, offering a snapshot of the currency exchange market in Nepal. If you’re plannin…",
+      "Url": "https://nep123.com/shocking-us-dollar-drops-euro-pound-soar-nepals-exchange-rates-shift-today-nepal-currencyexchange-breakingnews/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-07T00:31:00Z",
+      "Content": "Kathmandu, Nepal – Stay informed! Today’s foreign exchange rates from Nepal Rastra Bank (NRB) have been released, offering a snapshot of the currency exchange market in Nepal. If you’re planning to c… [+2393 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.cbc.ca/1.7580088.1752003038!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/troy-and-friends.jpg?im=Resize%3D620",
       "PublishedAt": "2025-07-10T10:00:46Z",
       "Content": "This week, the tiny village of Craven, Sask. will explode from a population of about 260 people to more than 25,000 ready to rock out with some of country music's biggest names.\r\nWhat started as Big … [+4187 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Bank of New York Mellon Corp Sells 24,532 Shares of Dollar General Corporation (NYSE:DG)",
-      "Description": "Bank of New York Mellon Corp cut its position in shares of Dollar General Corporation (NYSE:DG – Free Report) by 1.9% during the 1st quarter, according to its most recent disclosure with the Securities & Exchange Commission. The institutional investor owned 1…",
-      "Url": "https://www.etfdailynews.com/2025/07/10/bank-of-new-york-mellon-corp-sells-24532-shares-of-dollar-general-corporation-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-07-10T09:44:51Z",
-      "Content": "Bank of New York Mellon Corp cut its position in shares of Dollar General Corporation (NYSE:DG – Free Report) by 1.9% during the 1st quarter, according to its most recent disclosure with the Securiti… [+6286 chars]"
     }
   ]
 }
