@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 139,
+  "TotalResults": 140,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "S. FUENTES y C. VERGARA",
+      "Title": "Banco Central explica decisión de compra de reservas internacionales y dólar sube casi $10",
+      "Description": "El ente emisor detalló que el programa le “permitirá mantener el actual nivel total de liquidez internacional” y que el timing se basa en un contexto global que se ha estabilizado.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/banco-central-explica-decision-de-compra-de-reservas-internacionales-y",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250806/imag/foto_0000001120250806191225.jpg",
+      "PublishedAt": "2025-08-07T08:00:00Z",
+      "Content": "La sorpresiva decisión que tomó este martes el Consejo del Banco Central de iniciar un programa de acumulación de reservas internacionales por hasta US$ 25 millones diarios durante tres años no dejó … [+4150 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/H3LH2HDFSRAJTBPHDHP5N33DFU.jpg?smart=true&auth=cec624ba6842acc2e0209e7a8ebce52778b9580711d6c624f0c6c58395c6ae4f&width=1200&height=630",
       "PublishedAt": "2025-07-30T15:35:29Z",
       "Content": "El peso mexicano extiende sus pérdidas ante el dólar, que se enfila a su racha de ganancias más larga desde febrero, mientras el mercado asimila el dato del PIB de EU.\r\nLa economía de Estados Unidos … [+1679 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 30 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 30 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-30-de-julio-nid30072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-la-manana-de-este-miercoles-el-peso-mexicano-LQOD7XIRLVADRISTB7ISQEM63A.jpg?auth=72904e726a602679752d243bdc43ccb63c7cb0d9885eba15b02ca5de6a0fdad6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-30T13:57:20Z",
-      "Content": "Este miércoles 30 de julio de 2025, el precio del dólar en México fue de $18,7642, de acuerdo con el Diario Oficial de la Federación (DOF). Al comienzo de la jornada, el desempeño del peso mexicano s… [+1589 chars]"
     }
   ]
 }
