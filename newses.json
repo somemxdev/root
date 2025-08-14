@@ -1,8 +1,294 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 134,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Inflación en EU le ‘da una mano’ al peso: ¿Cuánto gana al dólar HOY?",
+      "Description": "El peso se recupera ante el dólar en una sesión marcada por el dato de inflación en EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/08/12/peso-dolar-precio-hoy-12-de-agosto-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/C32BSE2PXVCONDJQCEBO2EH3PM.jpg?smart=true&auth=d2ef343e81a2118a847bf8e21a65d604e2e5be8dea1194dc28b4b4d3bb40e937&width=1200&height=630",
+      "PublishedAt": "2025-08-12T15:11:36Z",
+      "Content": "La cotización del peso mexicano frente al dólar tras la publicación del dato de inflación en EU captura la atención del mercado este martes 12 de agosto\r\n¿Cuál es la cotización del dólar HOY?\r\nEl dól… [+1898 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 12 de agosto",
+      "Description": "Consulta el precio del dólar en México hoy, martes 12 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-12-de-agosto-nid12082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-martes-el-peso-mexicano-y-el-dolar-R3WEIXU6DZAFVAUXSPVKV7TKYA.jpg?auth=3ea1684085ea102e53ffa6372e6209fc6394c1520ce3c184953c242928522a0e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-12T14:23:22Z",
+      "Content": "Este martes 12 de agosto de 2025, el precio del dólar en México fue de $18,6683, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de la jornada, el desempeño del peso mexicano se ve… [+1432 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "ricardo.lara",
+      "Title": "Precio del dólar hoy 12 de agosto: peso mexicano se mantiene estable",
+      "Description": "Ricardo Lara / Reuters\r\nEl peso mexicano registra ligeros cambios el martes mientras los inversionistas asimilaban cifras que mostraron que los precios al consumidor en Estados Unidos aumentaron moderadamente en julio.\r\n\nLa moneda cotiza en 18.6438 pesos por …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-hoy-12-de-agosto-peso-mexicano-se-mantiene-estable/1732472",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/12/3358394.jpg",
+      "PublishedAt": "2025-08-12T14:07:06Z",
+      "Content": "El peso mexicano registra ligeros cambios el martes mientras los inversionistas asimilaban cifras que mostraron que los precios al consumidor en Estados Unidos aumentaron moderadamente en julio.\r\nLa … [+1201 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 12 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 12 de agosto inicia operaciones con el tipo de cambio interbancario en 18.67 pesos mexicanos por billete verde, con una ligera alza del 0.02 por ciento, según datos de Bloomberg.El peso mexicano descendía ayer en medio de un alza generalizada del…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-08-12T11:10:00Z",
+      "Content": "El dólar HOY 12 de agosto inicia operaciones con el tipo de cambio interbancario en 18.67 pesos mexicanos por billete verde, con una ligera alza del 0.02 por ciento, según datos de Bloomberg. \r\nEl pe… [+553 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "ricardo.lara",
+      "Title": "Tipo de cambio hoy 11 de agosto; peso cae ante fortalecimiento del dólar",
+      "Description": "Ricardo Lara / Reuters\r\nEl peso mexicano cayó este lunes en medio de un alza generalizada del dólar en los mercados externos, tras datos que mostraron una caída en la producción industrial a nivel local.\r\n\nLa moneda cotiza en 18.62 pesos por dólar, con un des…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-hoy-11-de-agosto-peso-cae-ante-fortalecimiento-del-dolar/1732267",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/11/3357686.jpg",
+      "PublishedAt": "2025-08-11T15:04:58Z",
+      "Content": "El peso mexicano cayó este lunes en medio de un alza generalizada del dólar en los mercados externos, tras datos que mostraron una caída en la producción industrial a nivel local.\r\nLa moneda cotiza e… [+1216 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cae tras datos de producción industrial y avance del dólar; BMV cotiza estable",
+      "Description": "Forbes México.\n Peso cae tras datos de producción industrial y avance del dólar; BMV cotiza estable\n\nEl peso cotizaba en 18.6260 por dólar, con un descenso de un 0.33% frente a las 18.5650 unidades del precio de referencia de LSEG del viernes, tras anotar una…",
+      "Url": "https://forbes.com.mx/peso-cae-tras-datos-de-produccion-industrial-y-avance-del-dolar-bmv-cotiza-estable/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
+      "PublishedAt": "2025-08-11T14:54:08Z",
+      "Content": "El peso descendía el lunes en medio de un alza generalizada del dólar en los mercados externos, tras datos que mostraron una caída en la producción industrial a nivel local.\r\nEl peso cotizaba en 18.6… [+1631 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 11 de agosto",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 11 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-11-de-agosto-nid11082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-lunes-el-dolar-estadounidense-registra-una-NYROPEPU7NCZZKZSNK6HWOZIFE.jpg?auth=31cbde5167628488548fbba4b793cfb38c4ed82ee16643b1ece3d856c603341a&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-11T14:27:50Z",
+      "Content": "Este lunes 11 de agosto de 2025, el precio del dólar estadounidense en México fue de $18,5518, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de esta jornada, el desempeño del pes… [+1634 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY lunes 11 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 11 de agosto inicia operaciones con el tipo de cambio interbancario en 18.61 pesos mexicanos por billete verde, con una ligera alza del 0.22 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba por cuarta sesión consecutiva, mientra…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-11-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
+      "PublishedAt": "2025-08-11T11:08:00Z",
+      "Content": "El dólar HOY 11 de agosto inicia operaciones con el tipo de cambio interbancario en 18.61 pesos mexicanos por billete verde, con una ligera alza del 0.22 por ciento, según datos de Bloomberg.  \r\nEl p… [+587 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "“Indian Head”: así es la moneda de cobre de un centavo de dólar que puede valer US$70.000",
+      "Description": "Una edición particular captó la atención de coleccionistas por su rareza, conservación y características históricas; hoy es una de las más destacadas de la serie",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/indian-head-asi-es-la-moneda-de-cobre-de-un-centavo-de-dolar-que-puede-valer-us70000-nid09082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-valiosa-pertenece-a-la-serie-acunada-en-A5JTQFAXGNCXDHJRVRLS6YNPJU.jpg?auth=785aab52e306c00df20f6e7f4b41f11c29808fba3ca35b2fd3a8553837d78afe&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-09T19:05:00Z",
+      "Content": "En la numismática, ciertas monedas alcanzan valores elevados por su estado de preservación, su escasez y su relevancia histórica. Uno de los casos más representativos es el centavo estadounidense de … [+3156 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 9 de agosto de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de agosto el tipo de cambio interbancario, se ubica en 18.57 pesos por unidad, con una baja del 0.21 por ciento, según datos de Bloomberg.Ayer elpeso mexicanotuvocambios mixt…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-08-09T12:40:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de agosto el tipo de cambio interbancario, se ubica en 18.57 pesos por unidad, con una baja del 0.21 por ciento, s… [+1909 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso se aprecia frente a dólar luego de que Banxico recortó su tasa de interés",
+      "Description": "El peso mexicano se apreció este viernes en 0.02 por ciento, cerrando en 18.60 unidades por dólar un día después de que el Banco de México moderó la magnitud de sus recortes a la tasa clave de interés.El banco central rebajó el costo de los créditos en 25 pun…",
+      "Url": "https://www.milenio.com/negocios/peso-se-aprecia-frente-a-dolar-tras-recorte-de-tasa-de-interes-banxico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/08/banxico-recorto-tasa-interes-referencia.jpg",
+      "PublishedAt": "2025-08-08T21:06:00Z",
+      "Content": "El peso mexicano se apreció este viernes en 0.02 por ciento, cerrando en 18.60 unidades por dólar un día después de que el Banco de México moderó la magnitud de sus recortes a la tasa clave de interé… [+2154 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Baja dólar a $18.56 tras decisión de Banxico",
+      "Description": "El tipo de cambio cotiza en $18.56 por dólar, con una ganancia de 0.24% para la moneda mexicana respecto al cierre del jueves.",
+      "Url": "https://www.reforma.com/baja-dolar-a-18-56-tras-decision-de-banxico/ar3052373",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639607.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-08-08T14:06:08Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (08 agosto 2025) .-08:04 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cierra dólar en $18.59; peso acumula avance semanal de 1.4%",
+      "Description": "El tipo de cambio cerró en $18.59 por dólar, con una apreciación marginal de un 0.04% frente al precio de referencia del jueves.",
+      "Url": "https://www.reforma.com/cierra-dolar-en-18-59-peso-acumula-avance-semanal-de-1-4/ar3052373",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639607.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-08-08T14:06:08Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (08 agosto 2025) .-08:04 (Actualización: 15:05 hrs)"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 8 de agosto",
+      "Description": "Aquí puedes consultar el precio del dólar en México, según el Diario Oficial de la Federación (DOF); un resumen completo de la situación económica y el valor de la divisa hoy",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-8-de-agosto-nid08082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-viernes-el-dolar-estadounidense-se-debilita-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-08T14:03:26Z",
+      "Content": "Este viernes 8 de agosto de 2025, el precio del dólar en México es de $18,6765, de acuerdo con el Diario Oficial de la Federación (DOF). Durante las primeras horas del día, el desempeño del peso mexi… [+1320 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "ricardo.lara",
+      "Title": "Precio del dólar hoy 8 de agosto: Peso suma cuatro jornadas de ganancias",
+      "Description": "Ricardo Lara / Reuters\r\nEl peso mexicano avanzó este viernes por cuarta sesión consecutiva, mientras los inversionistas continuaban asimilando la decisión en la víspera del banco central de moderar la magnitud de sus recortes a la tasa clave de interés.\r\n\nLa …",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-hoy-8-de-agosto-peso-suma-cuatro-jornadas-de-ganancias/1731805",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/08/3356386.jpg",
+      "PublishedAt": "2025-08-08T14:02:27Z",
+      "Content": "El peso mexicano avanzó este viernes por cuarta sesión consecutiva, mientras los inversionistas continuaban asimilando la decisión en la víspera del banco central de moderar la magnitud de sus recort… [+1323 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez",
+      "Title": "Precio del dólar HOY viernes 8 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 8 de agosto inicia operaciones con el tipo de cambio interbancario en 18.60 pesos mexicanos por billete verde, con una ligera baja del 0.03 por ciento, según datos de Bloomberg.El peso mexicano ampliaba ligeramente sus pérdidas ayer luego de que …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
+      "PublishedAt": "2025-08-08T11:12:00Z",
+      "Content": "El peso mexicano cerró estable, cotizando en 18.60 unidades por dólar, ayer jueves 7 de agosto de 2025.\r\nBorrando sus pérdidas iniciales, después de que el banco central moderó la magnitud de sus rec… [+479 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede pese al debilitamiento del dólar",
+      "Description": "Forbes México.\n Peso retrocede pese al debilitamiento del dólar\n\nEl dólar perdió fuerza tras la nominación de Stephen Miran por parte de Trump como integrante del banco central de ese país.\nPeso retrocede pese al debilitamiento del dólar\nForbes Staff",
+      "Url": "https://forbes.com.mx/peso-retrocede-pese-al-debilitamiento-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero02.webp",
+      "PublishedAt": "2025-08-07T21:30:00Z",
+      "Content": "El peso retrocedió a pesar de un debilitamiento general del dólar ocasionado por la nominación que hizo el presidente Trump de Stephen Miran como próximo integrante de la Reserva Federal.\r\nEl tipo de… [+3243 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se bajonea’ antes de la decisión del Banxico: ¿Cuánto pierde HOY ante el dólar?",
+      "Description": "El peso mexicano tiene una leve baja ante el dólar esta mañana, tras la publicación del dato de inflación en México y antes de la decisión de Banxico.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/08/07/peso-dolar-tipo-de-cambio-hoy-7-de-agosto-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ICM5BPRNDZGFREH3RYYVBGGPF4.jpg?smart=true&auth=c6de43b82c402b3c2c026c3eed0ebaea9dc743565bffaa2068d4ec6513e52b9c&width=1200&height=630",
+      "PublishedAt": "2025-08-07T16:47:33Z",
+      "Content": "El peso mexicano inicia la sesión con una caída frente al dólar, luego de que el dato de inflación en México se desaceleró durante el mes de julio, lo que aumentó la expectativas sobre ver más recort… [+1650 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "ricardo.lara",
+      "Title": "Precio del dólar: Peso cae y corta dos días de ganancias",
+      "Description": "Ricardo Lara / Reuters\r\nEl peso mexicano se depreció ligeramente el jueves, mientras los inversionistas asimilaban cifras locales de la inflación de julio en las horas previas al anuncio de política monetaria de Banco de México.\r\n\nLa moneda cotiza en 18.61 po…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-peso-cae-y-corta-dos-dias-de-ganancias/1731553",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/07/3355602.jpg",
+      "PublishedAt": "2025-08-07T14:50:19Z",
+      "Content": "El peso mexicano se depreció ligeramente el jueves, mientras los inversionistas asimilaban cifras locales de la inflación de julio en las horas previas al anuncio de política monetaria de Banco de Mé… [+1186 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 7 de agosto en Estados Unidos",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 7 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-7-de-agosto-en-estados-unidos-nid07082025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-la-manana-de-este-jueves-el-dolar-G3S7PXEE4VCWRFTCVHTD2ETU34.jpg?auth=2e023b5da352e85e4fafef51992a16f8f67a41e866906b3851824afa09ea051d&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-08-07T14:36:26Z",
+      "Content": "Este jueves 7 de agosto de 2025,el precio del dólar en México fue de $18,6192, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano r… [+1465 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Retrocede peso levemente; dólar cotiza en $18.61",
+      "Description": "El tipo de cambio cotiza en $18.61 por dólar, con una pérdida marginal de 0.06% para la moneda mexicana frente al precio del miércoles.",
+      "Url": "https://www.reforma.com/retrocede-peso-levemente-dolar-cotiza-en-18-61/ar3051722",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/932/5931426.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2025-08-07T13:35:15Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (07 agosto 2025) .-07:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 7 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 7 de agosto inicia operaciones con el tipo de cambio interbancario en 18.61 pesos mexicanos por billete verde, con una ligera alza del 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer por segunda jornada consecutiva, a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-7-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-08-07T11:54:00Z",
+      "Content": "El dólar HOY 7 de agosto inicia operaciones con el tipo de cambio interbancario en 18.61 pesos mexicanos por billete verde, con una ligera alza del 0.07 por ciento, según datos de Bloomberg. \r\nEl pes… [+599 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -106,292 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-6.jpeg",
       "PublishedAt": "2025-08-06T11:19:00Z",
       "Content": "El dólar HOY 6 de agosto inicia operaciones con el tipo de cambio interbancario en 18.74 pesos mexicanos por billete verde, con una ligera baja del 0.01 por ciento, según datos de Bloomberg. \r\nEl pes… [+533 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Maximiliano Villena",
-      "Title": "Banco Central anuncia plan de compra de reservas internacionales y expertos prevén que precio del dólar salte hasta $30",
-      "Description": "El ente rector informó este martes por la tarde que iniciará un plan de acumulación de reservas internacionales por hasta US$18.500 millones en tres años. La noticia sorprendió al mercado.",
-      "Url": "https://www.latercera.com/pulso/noticia/banco-central-anuncia-plan-de-compra-de-reservas-internacionales-y-expertos-preven-que-precio-del-dolar-salte-hasta-30/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/XRHK7GNBWRG3LFDRSOOTECKHZI.jpg?auth=6c88cab5cd29c5286de1c6e1ddd4f8b5614679b1d544af7376dff322aee97700&height=630&width=1200&focal=698%2C368",
-      "PublishedAt": "2025-08-06T01:18:23Z",
-      "Content": "Por sorpresa tomó a los economistas y al mercado financiero el anuncio del Banco Central (BC) realizado la tarde de este martes, de iniciar un programa de acumulación de reservas internacionales por … [+6017 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso sube en medio de alza global del dólar; BMV también avanza",
-      "Description": "Forbes México.\n Peso sube en medio de alza global del dólar; BMV también avanza\n\nEl peso cotizaba en 18.8481 por dólar, con una ganancia del 0.25% frente al precio de referencia de LSEG del lunes.\nPeso sube en medio de alza global del dólar; BMV también avanz…",
-      "Url": "https://forbes.com.mx/peso-sube-en-medio-de-alza-global-del-dolar-bmv-tambien-avanza/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
-      "PublishedAt": "2025-08-05T15:44:38Z",
-      "Content": "El peso se apreciaba el martes, pese a un avance a nivel global del dólar, mientras el mercado local aguarda la reunión de política monetaria de Banco de México esta semana.\r\nEl peso cotizaba en 18.8… [+1681 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘se agarra fuerte’ tras presentación del plan de Pemex: Así gana ante el dólar HOY",
-      "Description": "El dólar se cotiza en 19.31 pesos por billete verde en ventanillas bancarias, de acuerdo con Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/08/05/peso-dolar-tipo-de-cambio-hoy-5-de-agosto-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/64FIMFDDXVBSBA2SBGKHC2AZDQ.jpg?smart=true&auth=bc6a2b25b9eebeac5e82bd0dbe82c8191900d7e44fcdfddf32b360b17fe1d05b&width=1200&height=630",
-      "PublishedAt": "2025-08-05T14:50:21Z",
-      "Content": "El peso mexicano se aprecia este martes 5 de agosto, al arranque de la sesión, mientras en México la presidenta Claudia Sheinbaum presenta un plan de rescate para Petróleos Mexicanos (Pemex), la petr… [+3133 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Tiene peso ligero avance; dólar cotiza en $18.84",
-      "Description": "El tipo de cambio cotiza en $18.84 por dólar, con una ganancia del 0.25% para la moneda mexicana frente al precio de cierre del lunes.",
-      "Url": "https://www.reforma.com/tiene-peso-ligero-avance-dolar-cotiza-en-18-84/ar3050462",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/654/5653201.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2025-08-05T14:30:18Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (05 agosto 2025) .-08:28 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "ricardo.lara",
-      "Title": "Peso avanza pese a fortalecimiento del dólar y en espera de política de Banxico",
-      "Description": "Ricardo Lara\r\nEl peso mexicano se apreció al arranque de este martes, pese a un avance a nivel global del dólar, mientras el mercado local aguarda la reunión de política monetaria de Banco de México esta semana.\r\n\nLa moneda cotiza en 18.8481 pesos por dólar, …",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-a-peso-mexicano-5-de-agosto-tipo-cambio-bancos-mexico/1731069",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/05/3354056.jpg",
-      "PublishedAt": "2025-08-05T14:17:54Z",
-      "Content": "El peso mexicano se apreció al arranque de este martes, pese a un avance a nivel global del dólar, mientras el mercado local aguarda la reunión de política monetaria de Banco de México esta semana.\r\n… [+1171 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 5 de agosto en Estados Unidos",
-      "Description": "Consulta el precio del dólar en México hoy, martes 5 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-5-de-agosto-en-estados-unidos-nid05082025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-desempeno-del-peso-mexicano-en-las-primeras-RPYJGJGGYRBVBFF5HXHU5JZWEM.jpg?auth=d8b760efa37f6962dfa2556ad87055bd029a764fe13f1f037acdb90781957cba&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-08-05T14:00:47Z",
-      "Content": "Este martes 5 de agosto de 2025, el precio del dólar en México fue de $18,8783, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de la jornada, el desempeño del peso mexicano es imp… [+1494 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 5 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 5 de agosto inicia operaciones con el tipo de cambio interbancario en 18.92pesos mexicanos por billete verde, con una ligera alza del 0.12 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ante un retroceso generalizado del dólar…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-3.jpeg",
-      "PublishedAt": "2025-08-05T11:02:00Z",
-      "Content": "El dólar HOY 5 de agosto inicia operaciones con el tipo de cambio interbancario en 18.92 pesos mexicanos por billete verde, con una ligera alza del 0.12 por ciento, según datos de Bloomberg. \r\nEl pes… [+799 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso amanece ‘de buenas’ y le gana al dólar: Así cotiza HOY",
-      "Description": "El dólar se vende en 19.31 pesos por billete verde en ventanillas bancarias, según Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/08/04/peso-dolar-tipo-de-cambio-hoy-4-de-agosto-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2SR65LSP2NBHRPNGQCHPZGIZPM.jpg?smart=true&auth=ec185bf255cb47249776c0af4cb9b3cee716455da4ac551c47073e17b445bd09&width=1200&height=630",
-      "PublishedAt": "2025-08-04T15:52:32Z",
-      "Content": "El peso mexicano presenta un avance al inicio de la jornada, a la par que se observa un debilitamiento del dólar, ya que los últimos datos de empleo en Estados Unidos inclinaron la balanza a favor de… [+1614 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar estadounidense a peso mexicano hoy: a cuánto cotizó la moneda este lunes 4 de agosto",
-      "Description": "Consulta el precio actualizado del dólar en peso mexicano este lunes 4 de agosto de 2025, con datos oficiales del Diario Oficial de la Federación y Banco de México. Conoce la cotización exacta, análisis económico y factores que influyen en el valor del dólar …",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-estadounidense-a-peso-mexicano-hoy-a-cuanto-cotizo-la-moneda-este-lunes-4-de-agosto-nid04082025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-4-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-08-04T15:31:29Z",
-      "Content": "Este lunes 4 de agosto de 2025, el precio del dólar estadounidense en México fue de $18,9160, de acuerdo con el Diario Oficial de la Federación (DOF). Al inicio de esta jornada, la tendencia del dóla… [+1299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "ricardo.lara",
-      "Title": "Peso avanza ante debilitamiento general del dólar; tipo de cambio hoy 4 de agosto",
-      "Description": "Ricardo Lara / Reuters\r\nEl peso mexicano arrancó la semana con ganancias y este lunes 4 de agosto avanzó ante un retroceso generalizado del dólar en el comienzo de una semana que estará marcada por la divulgación de cifras locales de inflación y la decisión d…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-del-dolar-tipo-de-cambio-hoy-4-de-agosto-de-2025/1730862",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/04/3353434.jpg",
-      "PublishedAt": "2025-08-04T14:37:58Z",
-      "Content": "El peso mexicano arrancó la semana con ganancias y este lunes 4 de agosto avanzó ante un retroceso generalizado del dólar en el comienzo de una semana que estará marcada por la divulgación de cifras … [+1224 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar navega en relativa estabilidad este 2025",
-      "Description": "Descubra los factores clave que explican la relativa estabilidad y menor volatilidad del tipo de cambio del dólar en Costa Rica durante el primer semestre de 2025.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-navega-en-relativa/BXYOD42NXBFZJA33H2NWYOICQI/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/4CV3B4FGXJEXTEWOJ5IIT3I6WQ.jpg?smart=true&auth=6f2b7ecbe0094a6a1bd8c0352b1da63ca1ef04b29e565b022d70f094e914b808&width=1440",
-      "PublishedAt": "2025-08-04T14:00:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón navega en una relativa estabilidad en lo que va de este 2025, situándose en valores entre ¢500 y ¢510 en el Mercado de Monedas Extranjeras (Monex). Este … [+4914 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 4 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 4 de agosto inicia operaciones con el tipo de cambio interbancario en 18.85 pesos mexicanos por billete verde, con una ligera baja del 0.04 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba el viernes luego de la divulgación de …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-1.jpeg",
-      "PublishedAt": "2025-08-04T11:17:00Z",
-      "Content": "El dólar HOY 4 de agosto inicia operaciones con el tipo de cambio interbancario en 18.85 pesos mexicanos por billete verde, con una ligera baja del 0.04 por ciento, según datos de Bloomberg. \r\nEl pes… [+556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 2 de agosto de 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de agosto el tipo de cambio interbancario, se ubica en 18.85 pesos por unidad, con una pérdida del 0.09 por ciento, según datos de Bloomberg.Ayer, el peso mexicano retrocedió…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/06/12/dolar-gana-frente-peso-mexicano.jpg",
-      "PublishedAt": "2025-08-02T12:38:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 2 de agosto el tipo de cambio interbancario, se ubica en 18.85 pesos por unidad, con una pérdida del 0.09 por ciento… [+1957 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así luce la moneda “mula” de un dólar del nuevo milenio que en realidad vale más de US$80.000",
-      "Description": "En el mercado de coleccionistas, algunos ejemplares presentan fallas de su proceso de acuñación que aumentan notablemente su cotización",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-luce-la-moneda-mula-de-un-dolar-del-nuevo-milenio-que-en-realidad-vale-mas-de-us80000-nid02082025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-monedas-de-un-dolar-acunadas-en-el-ano-2000-y-PBX3YCLFCFDXFN5OB2F7EE5VFU.jpg?auth=83365010a92d99e9dbdab5673e06f708a9f5ef20d03066398d4b5e883f30dea2&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-08-02T11:50:00Z",
-      "Content": "Las piezas conocidas como mula presentan un inusual error de diseño. Identificarlo puede transformar un simple dólar en un objeto de alto valor para coleccionistas. Entre una oferta escasa con esta c… [+3659 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘huele el peligro’: Se acerca a techo de las 19 unidades ante el dólar tras reporte de empleo en EU",
-      "Description": "El mercado se mueve de manera volátil este viernes 1 de agosto debido al reporte de empleo en EU, que fue peor de lo esperado en julio. ¿Cómo reaccionó el peso a esta noticia?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/08/01/peso-dolar-precio-hoy-1-de-agosto-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ED5EMM2JEFC2NE3DJFU7BJ44AE.jpg?smart=true&auth=ea0176c33894c8f55a8aa3546a7980d49a8bb01d6c62afb6350bfba65b9bddad&width=1200&height=630",
-      "PublishedAt": "2025-08-01T14:53:41Z",
-      "Content": "El peso mexicano se acerca al techo de las 19 unidades ante el dólar después de que el reporte de empleo en EU fue peor de lo esperado en julio. \r\nEl dato de 77 mil puestos creados durante el mes pas… [+1861 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotizó la moneda este viernes 1° de agosto",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 1 de agosto, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotizo-la-moneda-este-viernes-1-de-agosto-nid01082025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-las-primeras-horas-de-este-viernes-el-dolar-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-08-01T14:04:24Z",
-      "Content": "Este viernes 1° de agosto de 2025,el precio del dólar en México es de $18,7963, de acuerdo con el Diario Oficial de la Federación (DOF). Durante las primeras horas del día, el desempeño del peso mexi… [+1630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 1 de agosto de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 1 de agosto inicia operaciones con el tipo de cambio interbancario en 18.96 pesos mexicanos por billete verde, con un ligero incremento del 0.45 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba después de que México evitó un aum…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-de-agosto-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso.jpeg",
-      "PublishedAt": "2025-08-01T11:04:00Z",
-      "Content": "El dólar HOY 1 de agosto inicia operaciones con el tipo de cambio interbancario en 18.96 pesos mexicanos por billete verde, con un ligero incremento del 0.45 por ciento, según datos de Bloomberg.\r\nEl… [+605 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Sube el dólar: las razones que explican la escalada del tipo de cambio",
-      "Description": "La divisa estadounidense superó los $1300 esta semana",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/sube-el-dolar-las-razones-que-explican-la-escalada-del-tipo-de-cambio-nid31072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-comenzo-a-subir-desde-comienzos-de-R3FXOPUYSFDE3I65UDNFDZNWWA.jpg?auth=45bfb6b7622e5cb4f9db6a23937c032b2cc201bf2c2bceba7ae7b7c2d27a6bdc&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-31T18:27:00Z",
-      "Content": "Solo en julio, el dólar oficial subió un 13%. El minorista quebró su máximo nominal histórico y llegó a $1380, en un escenario que se aceleró en las últimas semanas y se acompañó con el movimiento de… [+5226 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Cristóbal Muñoz",
-      "Title": "Expuesto al carry trade y con un cobre en retroceso: lo que se viene para el peso chileno frente al dólar en el mediano plazo",
-      "Description": "PwC Chile proyectó un rango de entre $ 980 y $ 1.000 para el tipo de cambio, ante un diferencial de tasas que se podría acrecentar con dos eventuales recortes extra.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/expuesto-al-carry-trade-y-con-un-cobre-en-retroceso-lo-que-se-viene-para",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20250731/imag/foto_0000000820250731131937/Dolar_RTRS1.jpg",
-      "PublishedAt": "2025-07-31T17:12:00Z",
-      "Content": "Una batería de noticias está siendo procesada por las mesas de dinero, en busca de descifrar el rumbo que tomará el precio del dólar en el mercado local.\r\nMientras el Banco Central bajó su tasa por p… [+4462 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 31 de julio",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 31 de julio, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-31-de-julio-nid31072025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-inicio-de-sesion-de-este-jueves-31-de-julio-5RN6DVK3FFH47IL6RWYMUENUUU.jpg?auth=75d6dd631e487f14628a3bd91b68492aae5602cc2d814c4cf4644293946c01b2&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-07-31T14:06:42Z",
-      "Content": "Este jueves 31 de julio de 2025, el precio del dólar en México fue de $18,796, de acuerdo con el Diario Oficial de la Federación (DOF). En las primeras horas del día, el desempeño del peso mexicano r… [+1482 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY jueves 31 de julio de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY jueves 31 de julio inicia operaciones con el tipo de cambio interbancario en 18.82 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.El peso mexicano mantenía ayer sus pérdidas de alrededor de 0.…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-de-julio-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/21/enterate-precio-dolar-cotiza-peso.jpg",
-      "PublishedAt": "2025-07-31T11:15:00Z",
-      "Content": "El dólar HOY jueves 31 de julio inicia operaciones con el tipo de cambio interbancario en 18.82 pesos mexicanos por billete verde, con una ligera baja del 0.29 por ciento, según datos de Bloomberg.  … [+877 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "PIB de EU ‘atora’ al peso mexicano: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "La depreciación del peso se debe a la publicación de indicadores económicos positivos en Estados Unidos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/07/30/peso-dolar-precio-hoy-30-de-julio-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/H3LH2HDFSRAJTBPHDHP5N33DFU.jpg?smart=true&auth=cec624ba6842acc2e0209e7a8ebce52778b9580711d6c624f0c6c58395c6ae4f&width=1200&height=630",
-      "PublishedAt": "2025-07-30T15:35:29Z",
-      "Content": "El peso mexicano extiende sus pérdidas ante el dólar, que se enfila a su racha de ganancias más larga desde febrero, mientras el mercado asimila el dato del PIB de EU.\r\nLa economía de Estados Unidos … [+1679 chars]"
     }
   ]
 }

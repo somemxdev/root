@@ -1,8 +1,112 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Luxury handbags and 58 gold bars among items handed to Deloitte for liquidation",
+      "Description": "The non-cash assets seized during the high profile case will be sold via various channels, including through auctions.",
+      "Url": "https://www.channelnewsasia.com/singapore/3-billion-dollar-money-laundering-case-seized-assets-police-5290061",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--QSvVGYYv--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/12/photo-output.jpg?itok=aIAtuNQZ",
+      "PublishedAt": "2025-08-12T08:56:00Z",
+      "Content": "SINGAPORE: Luxury handbags, watches and gold bars that were seized during the $3 billion (US$2.33 billion) money laundering case were among the assets handed over by the police to Deloitte for liquid… [+1627 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Luxury handbags and 58 gold bars among items handed to Deloitte for liquidation",
+      "Description": "The non-cash assets seized during the high-profile case will be sold via various channels, including through auctions.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seized-assets-police-5290061",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--QSvVGYYv--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/12/photo-output.jpg?itok=aIAtuNQZ",
+      "PublishedAt": "2025-08-12T08:56:00Z",
+      "Content": "Among the handbags are: a Hermes Birkin 25 Togo bag with an estimated value of S$30,000, and a Hermes Kelly Alligator bag that can cost between S$70,000 and S$120,000, according to online listings by… [+593 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi continues to sell at GH¢10.60 to a dollar on interbank market",
+      "Description": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-continues-to-sell-at-GH-10-60-to-a-dollar-on-interbank-market-1995735",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/348/34817427.jpg",
+      "PublishedAt": "2025-08-12T07:35:34Z",
+      "Content": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the cedi is … [+767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Radaronline.com"
+      },
+      "Author": "Nate Grant",
+      "Title": "'Fake' Furore Explodes as Piers Morgan Delivers Groveling Statement to Jake Paul — After Boxer Threatened Multimillion Dollar Legal Challenge Over Fix Claims",
+      "Description": "Piers Morgan has clarified his 'staged' fight remarks after Jake Paul’s camp threatens legal action, Radar can reveal. The boxing star fired back with a fiery response.",
+      "Url": "https://radaronline.com/p/piers-morgan-apology-jake-paul-fight-fix-claims-legal-threats/",
+      "UrlToImage": "https://media.radaronline.com/brand-img/Sq5nNx68X/1200x628/jake-paul-piers-morgan-apology-fight-1-1754954367792.jpg",
+      "PublishedAt": "2025-08-11T23:01:01Z",
+      "Content": "After threats from Pauls camp, Morgan issued what he called a clarification, insisting he never meant to suggest the outcomes were fixed or illegal.\r\nWhat I meant is that his fights have been predomi… [+1370 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal Exchange Rates TODAY: US Dollar, Euro, & More! Check the Latest NRB Updates! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal: A Quick Guide for Currency Exchange Are you looking to convert currency in Nepal? Stay informed with the latest foreign exchange rates published by Nepal Rastra Bank. This blog provides a snapshot of today’s currency m…",
+      "Url": "https://nep123.com/nepal-exchange-rates-today-us-dollar-euro-more-check-the-latest-nrb-updates/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-09T00:56:50Z",
+      "Content": "Are you looking to convert currency in Nepal? Stay informed with the latest foreign exchange rates published by Nepal Rastra Bank. This blog provides a snapshot of today’s currency market and gives y… [+2892 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Trump's Fed pick, Bank of England's 'hawkish' cut weigh on dollar",
+      "Description": "The dollar faced pressure, nearing a weekly decline as Trump's Fed nominee fueled expectations of a dovish replacement for Powell. Sterling held gains after a divided Bank of England rate cut. Meanwhile, the euro gained ground amid optimism surrounding potent…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/trumps-fed-pick-bank-of-englands-hawkish-cut-weigh-on-dollar/articleshow/123178008.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-123178018,width-1200,height-630,imgsize-205976,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-08-08T01:59:04Z",
+      "Content": "The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill-in Federal Reserve Governor stoked expectations for a dovish p… [+3483 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Jaspreet Kalra and Ankur Banerjee",
+      "Title": "Trump's Fed pick, Bank of England's 'hawkish' cut weigh on dollar",
+      "Description": "SINGAPORE (Reuters) -The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill...",
+      "Url": "https://finance.yahoo.com/news/trumps-fed-pick-bank-englands-014906844.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/b127ae5c6f257af40d13b83ac881e367",
+      "PublishedAt": "2025-08-08T01:49:06Z",
+      "Content": "By Jaspreet Kalra and Ankur Banerjee\r\nSINGAPORE (Reuters) -The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill-in … [+3563 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Bank of America Economists Rule Out Rate Cut in 2025, According to the Trillion-Dollar Lender’s CEO Brian Moynihan – Here’s Why",
+      "Description": "Bank of America’s economists are predicting that the Fed will not cut rates this year, according to the lender’s CEO Brian Moynihan. In a new CNBC interview, Moynihan says that the bank’s economists believe inflation pressures will cause the Fed to hold off c…",
+      "Url": "https://dailyhodl.com/2025/08/07/bank-of-america-economists-rule-out-rate-cut-in-2025-according-to-the-trillion-dollar-lenders-ceo-brian-moynihan-heres-why/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/08/trillion-dollar-lender.jpg",
+      "PublishedAt": "2025-08-07T16:55:50Z",
+      "Content": "Bank of America’s economists are predicting that the Fed will not cut rates this year, according to the lender’s CEO Brian Moynihan.\r\nIn a new CNBC interview, Moynihan says that the bank’s economists… [+2014 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -288,110 +392,6 @@
       "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/us-dollar.jpg",
       "PublishedAt": "2025-07-17T21:46:00Z",
       "Content": "The Bank of England reportedly asked some banks to assess their dependence on U.S. dollars and test whether they could handle a U.S. dollar shock.This move came after European Central Bank supervisor… [+2008 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Conor Devitt",
-      "Title": "Billion-Dollar Bank To Hand Out $510,000 To Settle Class Action Lawsuit Alleging Improper Charging of Overdraft Fees",
-      "Description": "A multi-billion-dollar bank is planning to shell out $510,000 to settle a class action lawsuit stemming from allegations that the financial institution hit customers with improper overdraft fees. Customers accuse Park National Bank of assessing allegedly impr…",
-      "Url": "https://dailyhodl.com/2025/07/17/billion-dollar-bank-to-hand-out-510000-to-settle-class-action-lawsuit-alleging-improper-charging-of-overdraft-fees/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/07/billsion-dollar-bank.jpg",
-      "PublishedAt": "2025-07-17T18:45:37Z",
-      "Content": "A multi-billion-dollar bank is planning to shell out $510,000 to settle a class action lawsuit stemming from allegations that the financial institution hit customers with improper overdraft fees.\r\nCu… [+1309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Stefania  Spezzati, Jesús Aguado and Lawrence White",
-      "Title": "Exclusive-Bank of England scrutinizes lenders for dollar risk amid Trump worries, sources say",
-      "Description": "LONDON (Reuters) -The Bank of England has asked some lenders to test their resilience to potential U.S. dollar shocks, three sources said, the latest sign of...",
-      "Url": "https://finance.yahoo.com/news/exclusive-bank-england-scrutinizes-lenders-154647140.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/494d7e6016c40af36f3894378049e900",
-      "PublishedAt": "2025-07-17T15:46:47Z",
-      "Content": "By Stefania Spezzati, Jesús Aguado and Lawrence White\r\nLONDON (Reuters) -The Bank of England has asked some lenders to test their resilience to potential U.S. dollar shocks, three sources said, the l… [+4889 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nep123.com"
-      },
-      "Author": "Editor",
-      "Title": "US Dollar and Euro Exchange Rates Hold Steady, While the British Pound’s Value Drops: What’s Happening with Currency Prices Today?",
-      "Description": "Foreign Exchange Rates Today: Your Guide to Currency Conversion Are you looking for the latest foreign exchange rates in Nepal? Stay informed with our daily updates on the currency exchange market, brought to you by the Nepal Rastra Bank! This is your go-to g…",
-      "Url": "https://nep123.com/us-dollar-and-euro-exchange-rates-hold-steady-while-the-british-pounds-value-drops-whats-happening-with-currency-prices-today/",
-      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
-      "PublishedAt": "2025-07-17T02:01:54Z",
-      "Content": "Are you looking for the latest foreign exchange rates in Nepal? Stay informed with our daily updates on the currency exchange market, brought to you by the Nepal Rastra Bank! This is your go-to guide… [+2604 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: 4 law firms dealt with over conveyancing of properties",
-      "Description": "One lawyer has been flagged for disciplinary action.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-properties-law-firms-fined-5238561",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--y2c2i-_a--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/minlaw---1536770--1-_0.png?itok=REVyZbRZ",
-      "PublishedAt": "2025-07-15T02:36:56Z",
-      "Content": "SINGAPORE: Two law practices that were involved in the conveyancing of real estate properties seized in Singapore's billion-dollar money laundering case have been ordered to pay tens of thousands in … [+1759 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "MinLaw acts against firms over billion-dollar money laundering case; Singapore cracks down on drug-laced vapes: Singapore live news",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3097046-2158-48fb-bc31-ef75f4561274",
-      "UrlToImage": null,
-      "PublishedAt": "2025-07-15T01:32:23Z",
-      "Content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nep123.com"
-      },
-      "Author": "Editor",
-      "Title": "Breaking News: US Dollar and British Pound Prices Increase, Euro Holds Steady – What’s Happening with Currency Exchange Rates Today?",
-      "Description": "Today’s Foreign Exchange Rates in Nepal: Updated Daily Currency Exchange Rates Nepal Rastra Bank (NRB) has released the latest foreign exchange rates for today! Stay updated on the currency exchange rates to make informed decisions about your foreign currency…",
-      "Url": "https://nep123.com/breaking-news-us-dollar-and-british-pound-prices-increase-euro-holds-steady-whats-happening-with-currency-exchange-rates-today/",
-      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
-      "PublishedAt": "2025-07-15T00:50:04Z",
-      "Content": "Nepal Rastra Bank (NRB) has released the latest foreign exchange rates for today! Stay updated on the currency exchange rates to make informed decisions about your foreign currency exchange needs. Th… [+2707 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar Tree, Inc. (NASDAQ:DLTR) Shares Sold by Bank of New York Mellon Corp",
-      "Description": "Bank of New York Mellon Corp lessened its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.5% during the first quarter, according to the company in its most recent 13F filing with the SEC. The institutional investor owned 1,124,649 shares of the co…",
-      "Url": "https://www.etfdailynews.com/2025/07/11/dollar-tree-inc-nasdaqdltr-shares-sold-by-bank-of-new-york-mellon-corp/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2025-07-11T09:12:57Z",
-      "Content": "Bank of New York Mellon Corp lessened its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 2.5% during the first quarter, according to the company in its most recent 13F filing with the SEC.… [+6264 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbc-news",
-        "Name": "CBC News"
-      },
-      "Author": null,
-      "Title": "Small town, big money: How Country Thunder became a multimillion-dollar business",
-      "Description": "Country Thunder is a multimillion-dollar brand that encompasses five music festivals across North America, but its president and CEO started off by being a stagehand at Craven's Big Valley Jamboree.",
-      "Url": "https://www.cbc.ca/news/canada/saskatchewan/country-thunder-music-festival-1.7579926",
-      "UrlToImage": "https://i.cbc.ca/1.7580088.1752003038!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/troy-and-friends.jpg?im=Resize%3D620",
-      "PublishedAt": "2025-07-10T10:00:46Z",
-      "Content": "This week, the tiny village of Craven, Sask. will explode from a population of about 260 people to more than 25,000 ready to rock out with some of country music's biggest names.\r\nWhat started as Big … [+4187 chars]"
     }
   ]
 }
