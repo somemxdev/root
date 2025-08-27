@@ -1,0 +1,397 @@
+{
+  "Status": 0,
+  "Error": null,
+  "TotalResults": 32,
+  "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Global Sports Desk",
+      "Title": "The shocking billion-dollar price tag to purchase the Pittsburgh Penguins has finally been revealed by insider Josh Yohe",
+      "Description": "The Pittsburgh Penguins face potential ownership changes as Fenway Sports Group might sell if offered around $1.75 billion. Hockey legend Mario Lemieux and the billionaire Hoffmann Family are reportedly interested, potentially sparking a bidding war. This dev…",
+      "Url": "https://timesofindia.indiatimes.com/sports/nhl/news/the-shocking-billion-dollar-price-tag-to-purchase-the-pittsburgh-penguins-has-finally-been-revealed-by-insider-josh-yohe/articleshow/123397037.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-123397033,width-1070,height-580,imgsize-37690,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2025-08-20T01:00:09Z",
+      "Content": "Is stress taking over your new parenthood? Here are 9 ways to beat it"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Shouvik Das",
+      "Title": "Centre to ban all online real-money games. Billion-dollar industry faces existential threat.",
+      "Description": "A new bill seeking to ban all online games involving real money could lead to severe repercussions for the industry, including possible imprisonment for violators.",
+      "Url": "https://www.livemint.com/industry/new-bill-online-real-money-games-existential-threat-11755611284173.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2025/08/19/1600x900/GST-online_game_1690943651514_1755614658431.jpg",
+      "PublishedAt": "2025-08-19T14:47:01Z",
+      "Content": "New Delhi: A new bill to be tabled in the Lok Sabha shortly seeks to ban all online games involving any monetary transaction, irrespective of whether these are fantasy sports or involve gambling.\r\nOn… [+4171 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Wccftech"
+      },
+      "Author": "Ramish Zafar",
+      "Title": "Intel Share Price Is Being Dragged To Mid $20s Due To Former CEO Gelsinger’s Multi-Billion Dollar “Smart Capital” Investments, Says Investment Bank",
+      "Description": "Chipmaker Intel's shares could be worth $40 if its chip manufacturing business is valued in comparison to global peers, believes investment bank UBS. Intel's shares have gained 4% in premarket trading after Japanese investment conglomerate Softbank announced …",
+      "Url": "https://wccftech.com/intel-share-price-is-being-dragged-to-mid-20s-due-to-former-ceo-gelsingers-multi-billion-dollar-smart-capital-investments-says-investment-bank/",
+      "UrlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/12/Intel-CEO-Pat-Gelsinger-Retires-After-40-Year-Career-1.jpg",
+      "PublishedAt": "2025-08-19T12:33:38Z",
+      "Content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\r\nChipmaker Intel's shares could be worth $40 if its chip man… [+3428 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Typeforyou.org"
+      },
+      "Author": "typeforyou Pedro",
+      "Title": "Tools to Track America Dollar to Indian Rupees Exchange Rate Easily",
+      "Description": "Tracking the America Dollar to Indian Rupees exchange rate is critical for travelers, investors, businesses, and anyone involved in international transactions. With exchange rates fluctuating...",
+      "Url": "https://typeforyou.org/america-dollar-to-indian-rupees/",
+      "UrlToImage": "https://typeforyou.org/wp-content/uploads/2025/08/america-dollar-to-indian-rupees-.png",
+      "PublishedAt": "2025-08-14T19:02:23Z",
+      "Content": "Tracking the America Dollar to Indian Rupees exchange rate is critical for travelers, investors, businesses, and anyone involved in international transactions. With exchange rates fluctuating constan… [+8929 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Futurism"
+      },
+      "Author": "Maggie Harrison Dupré",
+      "Title": "Billion-Dollar AI Company Gives Up on AGI While Desperately Fighting to Stop Bleeding Money",
+      "Description": "The new CEO of Character.AI — the controversial AI chatbot startup currently fighting a high-profile child welfare lawsuit over the suicide of a 14-year-old user — says the company has abandoned its founding mission of shepherding forth artificial general int…",
+      "Url": "https://futurism.com/billion-dollar-ai-company-gives-up-on-agi",
+      "UrlToImage": "https://wordpress-assets.futurism.com/2025/08/billion-dollar-ai-company-gives-up-on-agi.jpg",
+      "PublishedAt": "2025-08-14T15:55:34Z",
+      "Content": "The new CEO of Character.AI the controversial AI chatbot startup currently fighting a high-profile child welfare lawsuit over the suicide of a 14-year-old user says the company has abandoned its foun… [+5231 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Omkar Godbole",
+      "Title": "Yen Rises Against Bitcoin, Dollar as Scott Bessent Predicts Bank of Japan Rate Hike",
+      "Description": "The yen is no longer the most attractive funding currency, and the currency's strength may not necessarily lead to broad-based risk aversion, one expert said.",
+      "Url": "https://www.coindesk.com/markets/2025/08/14/yen-rises-against-bitcoin-dollar-as-scott-bessent-predicts-bank-of-japan-rate-hike",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg",
+      "PublishedAt": "2025-08-14T08:06:24Z",
+      "Content": "The yen (JPY) strengthened against the dollar (USD) and bitcoin \r\n after U.S. Treasury Secretary Scott Bessent said the Bank of Japan is behind the curve on inflation and will probably have to raise … [+2154 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Conversation Africa"
+      },
+      "Author": "Ana Gamarra Rondinel, Research Fellow, Faculty of Business and Economics, The University of Melbourne, Guyonne Kalb, Professorial Fellow, The University of Melbourne, Miranda Stewart, Visiting Professor of Tax Law, New York University, and Professor of Law, The University of Melbourne",
+      "Title": "Many parents – mostly mothers – lose family payments from the first dollar they earn. Here’s how we could fix it",
+      "Description": "More than 1.2 million families rely on these payments, worth $20 billion – yet some unfairly miss out.",
+      "Url": "https://theconversation.com/many-parents-mostly-mothers-lose-family-payments-from-the-first-dollar-they-earn-heres-how-we-could-fix-it-262119",
+      "UrlToImage": "https://images.theconversation.com/files/684440/original/file-20250807-64-exl8zk.jpg?ixlib=rb-4.1.0&rect=0%2C106%2C4828%2C2414&q=45&auto=format&w=1356&h=668&fit=crop",
+      "PublishedAt": "2025-08-14T01:01:00Z",
+      "Content": "Roman Biernacki/Pexels, CC BY\r\nFrom paid parental leave to expanded childcare and free kindergarten, Australia has made positive changes over the past two decades to better support families. \n\nBut fo… [+5476 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi weakens to GH¢10.63 to a dollar on interbank market",
+      "Description": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-weakens-to-GH-10-63-to-a-dollar-on-interbank-market-1995921",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/611/61110540.jpg",
+      "PublishedAt": "2025-08-13T08:00:31Z",
+      "Content": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the cedi is … [+821 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Luxury handbags and 58 gold bars among items handed to Deloitte for liquidation",
+      "Description": "The non-cash assets seized during the high-profile case will be sold via various channels, including through auctions.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seized-assets-police-5290061",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--QSvVGYYv--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/12/photo-output.jpg?itok=aIAtuNQZ",
+      "PublishedAt": "2025-08-12T08:56:00Z",
+      "Content": "Among the handbags are: a Hermes Birkin 25 Togo bag with an estimated value of S$30,000, and a Hermes Kelly Alligator bag that can cost between S$70,000 and S$120,000, according to online listings by… [+593 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Luxury handbags and 58 gold bars among items handed to Deloitte for liquidation",
+      "Description": "The non-cash assets seized during the high profile case will be sold via various channels, including through auctions.",
+      "Url": "https://www.channelnewsasia.com/singapore/3-billion-dollar-money-laundering-case-seized-assets-police-5290061",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--QSvVGYYv--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/12/photo-output.jpg?itok=aIAtuNQZ",
+      "PublishedAt": "2025-08-12T08:56:00Z",
+      "Content": "SINGAPORE: Luxury handbags, watches and gold bars that were seized during the $3 billion (US$2.33 billion) money laundering case were among the assets handed over by the police to Deloitte for liquid… [+1627 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi continues to sell at GH¢10.60 to a dollar on interbank market",
+      "Description": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-continues-to-sell-at-GH-10-60-to-a-dollar-on-interbank-market-1995735",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/348/34817427.jpg",
+      "PublishedAt": "2025-08-12T07:35:34Z",
+      "Content": "Ghana's local currency, the cedi, has depreciated against major trading currencies on the interbank market, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the cedi is … [+767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Radaronline.com"
+      },
+      "Author": "Nate Grant",
+      "Title": "'Fake' Furore Explodes as Piers Morgan Delivers Groveling Statement to Jake Paul — After Boxer Threatened Multimillion Dollar Legal Challenge Over Fix Claims",
+      "Description": "Piers Morgan has clarified his 'staged' fight remarks after Jake Paul’s camp threatens legal action, Radar can reveal. The boxing star fired back with a fiery response.",
+      "Url": "https://radaronline.com/p/piers-morgan-apology-jake-paul-fight-fix-claims-legal-threats/",
+      "UrlToImage": "https://media.radaronline.com/brand-img/Sq5nNx68X/1200x628/jake-paul-piers-morgan-apology-fight-1-1754954367792.jpg",
+      "PublishedAt": "2025-08-11T23:01:01Z",
+      "Content": "After threats from Pauls camp, Morgan issued what he called a clarification, insisting he never meant to suggest the outcomes were fixed or illegal.\r\nWhat I meant is that his fights have been predomi… [+1370 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal Exchange Rates TODAY: US Dollar, Euro, & More! Check the Latest NRB Updates! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal: A Quick Guide for Currency Exchange Are you looking to convert currency in Nepal? Stay informed with the latest foreign exchange rates published by Nepal Rastra Bank. This blog provides a snapshot of today’s currency m…",
+      "Url": "https://nep123.com/nepal-exchange-rates-today-us-dollar-euro-more-check-the-latest-nrb-updates/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-09T00:56:50Z",
+      "Content": "Are you looking to convert currency in Nepal? Stay informed with the latest foreign exchange rates published by Nepal Rastra Bank. This blog provides a snapshot of today’s currency market and gives y… [+2892 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Trump's Fed pick, Bank of England's 'hawkish' cut weigh on dollar",
+      "Description": "The dollar faced pressure, nearing a weekly decline as Trump's Fed nominee fueled expectations of a dovish replacement for Powell. Sterling held gains after a divided Bank of England rate cut. Meanwhile, the euro gained ground amid optimism surrounding potent…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/trumps-fed-pick-bank-of-englands-hawkish-cut-weigh-on-dollar/articleshow/123178008.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-123178018,width-1200,height-630,imgsize-205976,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-08-08T01:59:04Z",
+      "Content": "The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill-in Federal Reserve Governor stoked expectations for a dovish p… [+3483 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Jaspreet Kalra and Ankur Banerjee",
+      "Title": "Trump's Fed pick, Bank of England's 'hawkish' cut weigh on dollar",
+      "Description": "SINGAPORE (Reuters) -The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill...",
+      "Url": "https://finance.yahoo.com/news/trumps-fed-pick-bank-englands-014906844.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/b127ae5c6f257af40d13b83ac881e367",
+      "PublishedAt": "2025-08-08T01:49:06Z",
+      "Content": "By Jaspreet Kalra and Ankur Banerjee\r\nSINGAPORE (Reuters) -The dollar was under pressure on Friday and was on course for a weekly fall as U.S. President Donald Trump's temporary choice for a fill-in … [+3563 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Bank of America Economists Rule Out Rate Cut in 2025, According to the Trillion-Dollar Lender’s CEO Brian Moynihan – Here’s Why",
+      "Description": "Bank of America’s economists are predicting that the Fed will not cut rates this year, according to the lender’s CEO Brian Moynihan. In a new CNBC interview, Moynihan says that the bank’s economists believe inflation pressures will cause the Fed to hold off c…",
+      "Url": "https://dailyhodl.com/2025/08/07/bank-of-america-economists-rule-out-rate-cut-in-2025-according-to-the-trillion-dollar-lenders-ceo-brian-moynihan-heres-why/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/08/trillion-dollar-lender.jpg",
+      "PublishedAt": "2025-08-07T16:55:50Z",
+      "Content": "Bank of America’s economists are predicting that the Fed will not cut rates this year, according to the lender’s CEO Brian Moynihan.\r\nIn a new CNBC interview, Moynihan says that the bank’s economists… [+2014 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Shocking! US Dollar Drops, Euro & Pound SOAR! Nepal’s Exchange Rates Shift Today!  #Nepal #CurrencyExchange #BreakingNews",
+      "Description": "Foreign Exchange Rates Today in Nepal: US Dollar Sees Slight Dip! Kathmandu, Nepal – Stay informed! Today’s foreign exchange rates from Nepal Rastra Bank (NRB) have been released, offering a snapshot of the currency exchange market in Nepal. If you’re plannin…",
+      "Url": "https://nep123.com/shocking-us-dollar-drops-euro-pound-soar-nepals-exchange-rates-shift-today-nepal-currencyexchange-breakingnews/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-07T00:31:00Z",
+      "Content": "Kathmandu, Nepal – Stay informed! Today’s foreign exchange rates from Nepal Rastra Bank (NRB) have been released, offering a snapshot of the currency exchange market in Nepal. If you’re planning to c… [+2393 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "Here’s a viral SEO title based on your news snippet:\n Breaking: Nepali Rupee’s Daily Exchange Rates Revealed! Dollar, Euro, & Pound Updates Inside! ",
+      "Description": "Your Daily Dose of Currency Exchange Rates in Nepal! Hey everyone, and welcome back to the blog! Today, we’re diving into the latest Nepal Rastra Bank announcements regarding foreign currency exchange rates. Staying informed about the current exchange rates i…",
+      "Url": "https://nep123.com/pheres-a-viral-seo-title-based-on-your-news-snippetp-pstrong-breaking-nepali-rupees-daily-exchange-rates-revealed-dollar-euro-amp-pound-updates-inside-strongp/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-03T00:39:50Z",
+      "Content": "Hey everyone, and welcome back to the blog! Today, we’re diving into the latest Nepal Rastra Bank announcements regarding foreign currency exchange rates. Staying informed about the current exchange … [+2110 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: 4 law firms linked to seized properties named, 2 more identified and reprimanded",
+      "Description": "Five lawyers involved in the conveyancing of the seized real estate properties have also been referred to the Law Society for possible professional disciplinary action.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-firms-lawyers-law-society-disciplinary-action-5272491",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--f31lcK1T--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/07/15/lawyer_office_file_photo.jpg?itok=-qGfaKod",
+      "PublishedAt": "2025-08-01T15:37:20Z",
+      "Content": "SINGAPORE: Four law firms that breached their anti-money laundering obligations over the purchase of properties in the S$3 billion (US$2.2 billion) money laundering case have been named, following th… [+9304 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": "  Nepal’s Currency Rates TODAY: US Dollar, Euro & More!  Check Latest Exchange Rates Now! ",
+      "Description": "Nepal Rastra Bank Releases Foreign Exchange Rates for Today – Currency Exchange News Are you looking for the latest foreign exchange rates in Nepal? Stay informed with the most recent updates from Nepal Rastra Bank! This blog post provides a comprehensive ove…",
+      "Url": "https://nep123.com/nepals-currency-rates-today-us-dollar-euro-more-check-latest-exchange-rates-now/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-08-01T00:58:50Z",
+      "Content": "Are you looking for the latest foreign exchange rates in Nepal? Stay informed with the most recent updates from Nepal Rastra Bank! This blog post provides a comprehensive overview of the currency exc… [+2078 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " NEPAL’S MONEY UPDATE: US Dollar, Euro, & More! Latest Exchange Rates Revealed! ",
+      "Description": "Nepal Rastra Bank Releases Today’s Foreign Exchange Rates: Currency Exchange Updates Welcome to our daily currency update! Stay informed with the latest foreign exchange rates provided by the Nepal Rastra Bank (NRB). Whether you’re planning a currency convers…",
+      "Url": "https://nep123.com/nepals-money-update-us-dollar-euro-more-latest-exchange-rates-revealed/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-31T00:45:54Z",
+      "Content": "Welcome to our daily currency update! Stay informed with the latest foreign exchange rates provided by the Nepal Rastra Bank (NRB). Whether you’re planning a currency conversion, remittance, or just … [+3837 chars]"
+    },
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Jake Ferguson delayed signing his million-dollar contract with the Cowboys while watching a money laundering operation",
+      "Description": "The Dallas Cowboys spent the offseason bracing for a possible shakeup at tight end and Luke Schoonmaker&apos;s development only added fuel to the conversation. \nHis flashes of pote",
+      "Url": "https://www.marca.com/en/nfl/dallas-cowboys/2025/07/30/688a41bfca474175658b459a.html",
+      "UrlToImage": "https://phantom-marca.uecdn.es/38691ef132abb249371db35a93ae1c29/crop/0x0/2044x1363/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/30/17538907018475.jpg",
+      "PublishedAt": "2025-07-30T17:17:43Z",
+      "Content": "The Dallas Cowboys spent the offseason bracing for a possible shakeup at tight end and Luke Schoonmaker's development only added fuel to the conversation. \r\nHis flashes of potential late in the seaso… [+2067 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal’s Foreign Exchange Rates TODAY!  US Dollar, Euro, & More: Find Out How Your Money Stacks Up! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal: Your Guide to Currency Exchange Hello currency exchange enthusiasts! Keeping track of the latest currency rates is crucial, especially if you’re involved in international transactions, traveling abroad, or simply inter…",
+      "Url": "https://nep123.com/nepals-foreign-exchange-rates-today-us-dollar-euro-more-find-out-how-your-money-stacks-up/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-30T00:54:54Z",
+      "Content": "Hello currency exchange enthusiasts! Keeping track of the latest currency rates is crucial, especially if you’re involved in international transactions, traveling abroad, or simply interested in glob… [+3744 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bitcoinist"
+      },
+      "Author": "Ronaldo Marquez",
+      "Title": "Bitcoin Blitz: Bakkt Holdings Gear Up To Finance $1 Billion-Dollar Purchase",
+      "Description": "On Monday, crypto software firm Bakkt Holdings (BKKT) announced an ambitious plan to raise up to $1 billion through various securities offerings to boost its own Bitcoin (BTC) treasury reserve, in line with the growing trend among publicly traded companies. T…",
+      "Url": "https://bitcoinist.com/bitcoin-blitz-bakkt-1-billion-dollar-purchase/",
+      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2024/11/Screenshot_580.jpg",
+      "PublishedAt": "2025-07-29T11:00:37Z",
+      "Content": "On Monday, crypto software firm Bakkt Holdings (BKKT) announced an ambitious plan to raise up to $1 billion through various securities offerings to boost its own Bitcoin (BTC) treasury reserve, in li… [+2836 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Cedi trades at GH¢10.48 to a dollar on the interbank market",
+      "Description": "Ghana's local currency, the cedi, has maintained stability against major trading currencies on the interbank market, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-trades-at-GH-10-48-to-a-dollar-on-the-interbank-market-1993717",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/189/18922978.jpg",
+      "PublishedAt": "2025-07-29T08:16:28Z",
+      "Content": "Ghana's local currency, the cedi, has maintained stability against major trading currencies on the interbank market, particularly the US dollar.\r\nIn its daily update, the Bank of Ghana noted that the… [+689 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Breaking: Today’s Foreign Exchange Rates in Nepal!  Dollar, Euro & More!",
+      "Description": "Nepal Rastra Bank Announces Today’s Foreign Exchange Rates! Hello, currency exchange enthusiasts! Stay informed about the latest exchange rates in Nepal. Nepal Rastra Bank, the country’s central bank, has released the official foreign exchange rates for today…",
+      "Url": "https://nep123.com/breaking-todays-foreign-exchange-rates-in-nepal-dollar-euro-more/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-29T00:09:53Z",
+      "Content": "Hello, currency exchange enthusiasts! Stay informed about the latest exchange rates in Nepal. Nepal Rastra Bank, the country’s central bank, has released the official foreign exchange rates for today… [+2936 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Stocks Hold at Record, Dollar Jumps on Trade Hopes: Markets Wrap - Yahoo Finance",
+      "Description": "Stocks Hold at Record, Dollar Jumps on Trade Hopes: Markets WrapYahoo Finance Dollar gains against major peers after US-EU trade pactReuters Dollar strengthens against euro as US-EU trade deal limits uncertainty – as it happenedThe Guardian Europeans lament t…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=178495530",
+      "UrlToImage": null,
+      "PublishedAt": "2025-07-28T20:32:56Z",
+      "Content": "When someone says \"I want a programming language in which I need only\r\nsay what I wish done,\" give him a lollipop."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Straits Times"
+      },
+      "Author": "Sue-ann Tan",
+      "Title": "Me and My Money: Being down to her last dollar gave finance exec a lasting budgeting lesson",
+      "Description": "She now focuses on saving and prioritising future planning, rather than just spending money.  Read more at straitstimes.com. Read more at straitstimes.com.",
+      "Url": "https://www.straitstimes.com/business/invest/me-and-my-money-being-down-to-her-last-dollar-gave-finance-exec-a-lasting-budgeting-lesson",
+      "UrlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b9db2169b9c04a1586ef0339fb037cf1225271c99d86a29cbae6319c7ded815a",
+      "PublishedAt": "2025-07-26T21:00:00Z",
+      "Content": "Published Jul 27, 2025, 05:00 AM\r\nUpdated Jul 27, 2025, 06:10 AM"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Dollar & Euro Rates SHOCK! Nepal’s Exchange Rates Revealed! ",
+      "Description": "Today’s Currency Exchange Rates: Your Quick Guide Hey everyone! Keeping track of the ever-changing currency exchange rates can feel like a full-time job, but don’t worry, I’ve got you covered! Today, we’re diving into the latest foreign currency exchange rate…",
+      "Url": "https://nep123.com/%f0%9f%92%b0%f0%9f%92%b8-dollar-euro-rates-shock-nepals-exchange-rates-revealed-%f0%9f%87%b3%f0%9f%87%b5/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-24T00:50:49Z",
+      "Content": "Hey everyone! Keeping track of the ever-changing currency exchange rates can feel like a full-time job, but don’t worry, I’ve got you covered! Today, we’re diving into the latest foreign currency exc… [+2491 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nep123.com"
+      },
+      "Author": "Editor",
+      "Title": " Nepal’s Exchange Rates TODAY! Dollar, Euro & More! ",
+      "Description": "Today’s Foreign Exchange Rates in Nepal – Your Guide to Currency Conversion Welcome, fellow financial enthusiasts, to your daily dose of Nepal Rastra Bank (NRB) foreign exchange rates! Staying informed about the latest currency exchange values is crucial whet…",
+      "Url": "https://nep123.com/%f0%9f%92%b0%f0%9f%92%b8-nepals-exchange-rates-today-dollar-euro-more-%f0%9f%87%b3%f0%9f%87%b5/",
+      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "PublishedAt": "2025-07-24T00:36:53Z",
+      "Content": "Welcome, fellow financial enthusiasts, to your daily dose of Nepal Rastra Bank (NRB) foreign exchange rates! Staying informed about the latest currency exchange values is crucial whether you’re a sea… [+4005 chars]"
+    }
+  ]
+}
