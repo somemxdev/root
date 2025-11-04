@@ -1,254 +1,111 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 30,
   "Articles": [
     {
       "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
       },
-      "Author": "Credit Finance Ltd",
-      "Title": "Credit Finance Ltd Launches NOVA at Sibos 2025: Standing Ovation from 15,000 Global Leaders as Investors Signal Billion-Dollar Confidence",
-      "Description": "FRANKFURT, Germany, Oct. 01, 2025 (GLOBE NEWSWIRE) -- In a defining moment for the future of financial infrastructure, Credit Finance Ltd unveiled its flagship platform, NOVA, during a live video conference at SWIFT Sibos 2025. Addressing over 15,000 global f…",
-      "Url": "https://www.globenewswire.com/news-release/2025/10/01/3159831/0/en/Credit-Finance-Ltd-Launches-NOVA-at-Sibos-2025-Standing-Ovation-from-15-000-Global-Leaders-as-Investors-Signal-Billion-Dollar-Confidence.html",
+      "Author": "Reuters",
+      "Title": "Rupee holds above record low on state bank dollar sales, ends month flat",
+      "Description": "The Indian rupee faced a modest depreciation on Friday, yet it resiliently stayed above its all-time low, buoyed by dollar sales from government banks. The currency concluded the month on a subdued note, while the Indian equity markets reflected a similar dow…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-holds-above-record-low-on-state-bank-dollar-sales-ends-month-flat/articleshow/124991542.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-124991542,width-1200,height-630,imgsize-2431786,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-10-31T10:24:38Z",
+      "Content": "The Indian rupee fell on Friday but managed to hold above its all-time low on the back of intermittent dollar sales by state-run banks that also helped the currency end the month on a quiet note.The … [+1619 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "youtube.com",
+      "Title": "The Trillion Dollar Scam - How Google Really Makes Money",
+      "Description": "FortNine explores how a search engine generates revenue, using the example of bicycle parts. The video examines the PageRank algorithm and its evolution into targeted advertising. This investigation reveals a surprising method for attributing sales, raising q…",
+      "Url": "https://freerepublic.com/focus/f-chat/4349414/posts",
       "UrlToImage": null,
-      "PublishedAt": "2025-10-01T17:00:00Z",
-      "Content": "FRANKFURT, Germany, Oct. 01, 2025 (GLOBE NEWSWIRE) -- In a defining moment for the future of financial infrastructure, Credit Finance Ltd unveiled its flagship platform, NOVA, during a live video con… [+2524 chars]"
+      "PublishedAt": "2025-10-29T16:47:38Z",
+      "Content": "Skip to comments.\r\nThe Trillion Dollar Scam - How Google Really Makes Moneyyoutube.com ^\r\n | 29 October 2025\r\n | FortNine\r\nPosted on 10/29/2025 9:47:38 AM PDT by ShadowAce\r\nFortNine explores how a se… [+1840 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar soft as traders brace for Trump-Xi, central bank meetings",
+      "Description": "The dollar weakened as central banks prepare for meetings. Investors watch President Donald Trump's Asia tour for a trade deal with China. The US Federal Reserve is expected to cut rates. The Bank of Japan and European Central Bank also hold meetings. Markets…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-soft-as-traders-brace-for-trump-xi-central-bank-meetings/articleshow/124861906.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-124861923,width-1200,height-630,imgsize-246016,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-10-28T02:05:03Z",
+      "Content": "The dollar was weaker on Tuesday ahead of a slate of central bank meetings that will likely see a rate cut in the U.S. and as investors kept a wary eye on President Donald Trump's Asia tour, hoping f… [+3531 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "The Conversation Africa"
+        "Name": "BeInCrypto"
       },
-      "Author": "John Hawkins, Head, Canberra School of Government, University of Canberra",
-      "Title": "New data shows the US dollar still dominates foreign exchange markets – despite Trump’s economic chaos",
-      "Description": "The trade wars could eventually undermine the importance of the US dollar, but it isn’t happening yet.",
-      "Url": "https://theconversation.com/new-data-shows-the-us-dollar-still-dominates-foreign-exchange-markets-despite-trumps-economic-chaos-266233",
-      "UrlToImage": "https://images.theconversation.com/files/693770/original/file-20251001-56-vnhrer.jpg?ixlib=rb-4.1.0&rect=0%2C1001%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
-      "PublishedAt": "2025-10-01T04:18:03Z",
-      "Content": "NurPhoto/Getty\r\nReports of the death of the US dollar appear to be greatly exaggerated (like that of author Mark Twain). \n\nGlobal trading in the foreign exchange market has risen to almost US$10 tril… [+5390 chars]"
+      "Author": "Shota Oba",
+      "Title": "Is the Dollar Losing Its Crown? How AI and Crypto Are Rewiring Global Finance",
+      "Description": "AI and Crypto are reshaping global money. As the dollar’s share slips to 56%, new digital rails signal a slow, data-driven power shift.",
+      "Url": "https://beincrypto.com/is-the-dollar-losing-its-crown/",
+      "UrlToImage": "https://media.zenfs.com/en/beincrypto_us_662/b21b880213546c5efafebd34494acf21",
+      "PublishedAt": "2025-10-27T23:53:46Z",
+      "Content": "BRICS accelerates new payment system and challenges the hegemony of the dollar and SWIFT. Photo by BeInCrypto\r\nThe dollars dominance has long defined global finance. Yet as central banks trial crypto… [+11034 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Reason"
+        "Name": "Investopedia"
       },
-      "Author": "Eric Boehm, Peter Suderman",
-      "Title": "Shutdown Livestream: This Won't Fix Trillion-Dollar Deficits",
-      "Description": "Reason's Peter Suderman and Eric Boehm discuss the government shutdown live at 3 p.m. Eastern time today.",
-      "Url": "https://reason.com/2025/10/01/shutdown-livestream-this-wont-fix-trillion-dollar-deficits/",
-      "UrlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/09/9-30-25-v2-a.png",
-      "PublishedAt": "2025-09-30T21:19:53Z",
-      "Content": "Reason's Peter Suderman and Eric Boehm discuss the government shutdown live at 3 p.m. Eastern time today. Join the livestream here.\nThe government has shut down—but don't get too excited. Taxes are s… [+1883 chars]"
+      "Author": "Bill McColl",
+      "Title": "Another Multibillion-Dollar Bank Merger Just Arrived Today",
+      "Description": "Huntington Bancshares will pay $7.4 billion in an all-stock purchase of Cadence Bank.",
+      "Url": "https://www.investopedia.com/another-multibillion-dollar-bank-merger-just-arrived-today-11837381",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/DQONarJ1E7dhrbPYdwZhLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/2eb179e50928caa8fab0f65c05db157c",
+      "PublishedAt": "2025-10-27T17:25:25Z",
+      "Content": "Emily Elconin /Bloomberg via Getty Images\r\n Huntington Bancshares is buying Cadence Bank\r\n<ul><li>Huntington Bancshares will pay $7.4 billion in an all-stock purchase of Cadence Bank.\r\n</li><li>The a… [+2076 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Cointelegraph"
+        "Name": "Yahoo Entertainment"
       },
-      "Author": "Cointelegraph by Ezra Reguerra",
-      "Title": "Qatar bank taps JPMorgan’s blockchain for faster US dollar payments",
-      "Description": "Qatar National Bank has adopted JPMorgan’s Kinexys blockchain platform to process US dollar corporate payments, marking a major step in institutional blockchain adoption.",
-      "Url": "https://cointelegraph.com/news/qnb-adopts-jpmorgan-kinexys-blockchain-for-corporate-payments",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-09/019994c5-4128-7b48-85f3-8d9003e67eb0",
-      "PublishedAt": "2025-09-29T10:59:53Z",
-      "Content": "Qatar National Bank Group (QNB), one of the Middle Easts largest banks, has adopted JPMorgans blockchain platform, Kinexys, to process corporate payments in Qatar, according to a Monday Bloomberg rep… [+2292 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Privatebankerinternational.com"
-      },
-      "Author": "GlobalData",
-      "Title": "Dollar Bank expands wealth management services in Ohio, US",
-      "Description": "The expansion is expected to enhance customer support in financial planning for retirement, education, and wealth management.",
-      "Url": "https://www.privatebankerinternational.com/news/dollar-bank-wealth-management-ohio/",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/6Kn7C107hWQoBbhQM3YNpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/private_banker_international_938/3128d19d7b5aeeb6b3627f043c0240a2",
-      "PublishedAt": "2025-09-26T08:57:39Z",
-      "Content": "Dollar Bank has broadened the reach of its Dollar Investment Services wealth management programme to encompass all 28 of its branches in Northeast Ohio, US.\r\nThe expansion, backed by Cetera Financial… [+2365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nep123.com"
-      },
-      "Author": "Editor",
-      "Title": " Dollar Dips! Foreign Currencies Fall  #exchange #money #finance #news",
-      "Description": "Today’s Currency Exchange Rates: A Forex Market Update Today’s currency exchange rates, as determined by the Nepal Rastra Bank, reveal a decrease in the value of most major foreign currencies. This shift impacts individuals and businesses involved in internat…",
-      "Url": "https://nep123.com/%f0%9f%93%89-dollar-dips-foreign-currencies-fall-%f0%9f%8c%8d%f0%9f%92%b0-exchange-money-finance-news/",
-      "UrlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "PublishedAt": "2025-09-26T03:58:54Z",
-      "Content": "Today’s Currency Exchange Rates: A Forex Market Update\r\nToday’s currency exchange rates, as determined by the Nepal Rastra Bank, reveal a decrease in the value of most major foreign currencies. This … [+2752 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
-      },
-      "Author": "DAVIS COMMODITIES LIMITED",
-      "Title": "Davis Commodities Explores Billion-Dollar Longevity Finance Tokenization Network",
-      "Description": "Davis Commodities explores tokenizing $1B+ for longevity finance, linking biotech, health, and agriculture.......",
-      "Url": "https://www.globenewswire.com/news-release/2025/09/25/3156473/0/en/Davis-Commodities-Explores-Billion-Dollar-Longevity-Finance-Tokenization-Network.html",
+      "Author": null,
+      "Title": "Dollar softens amid trade optimism, central bank watch, offshore yuan jumps",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b5747e53-ce16-4347-b585-137ef7eacd7b",
       "UrlToImage": null,
-      "PublishedAt": "2025-09-25T15:15:00Z",
-      "Content": "SINGAPORE, Sept. 25, 2025 (GLOBE NEWSWIRE) -- Davis Commodities Limited (Nasdaq: DTCK), an agricultural and digital finance group based in Singapore, announced today that it is evaluating the potenti… [+3979 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "UMB Bank n.a. Purchases 331 Shares of Dollar Tree, Inc. $DLTR",
-      "Description": "UMB Bank n.a. grew its position in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 53.4% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The institutional investor owned 951…",
-      "Url": "https://www.etfdailynews.com/2025/09/25/umb-bank-n-a-purchases-331-shares-of-dollar-tree-inc-dltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2025-09-25T08:06:54Z",
-      "Content": "UMB Bank n.a. grew its position in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 53.4% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities… [+6303 chars]"
+      "PublishedAt": "2025-10-27T12:50:38Z",
+      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Yahoo Entertainment"
       },
-      "Author": "Vishaal Sanjay",
-      "Title": "Ray Dalio Warns Of 1970s-Style Currency Shock: All Fiat Money Will 'Go Down' As Gold Becomes 'Second Largest Reserve Currency' Behind The Dollar",
-      "Description": "Billionaire hedge fund manager Ray Dalio issued a stark warning regarding the current state of global currencies, drawing historical parallels to the 1930s...",
-      "Url": "https://finance.yahoo.com/news/ray-dalio-warns-1970s-style-013216051.html",
-      "UrlToImage": "https://media.zenfs.com/en/benzinga_79/6ea29b7755c6836651b2ad1c3be9472b",
-      "PublishedAt": "2025-09-25T01:32:16Z",
-      "Content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nBillionaire hedge fund manager Ray Dalio issued a stark warning regarding the current state of gl… [+5790 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "UMB Bank n.a. Buys 368 Shares of Dollar General Corporation $DG",
-      "Description": "UMB Bank n.a. lifted its stake in Dollar General Corporation (NYSE:DG – Free Report) by 35.9% during the second quarter, Holdings Channel reports. The fund owned 1,392 shares of the company’s stock after acquiring an additional 368 shares during the quarter. …",
-      "Url": "https://www.etfdailynews.com/2025/09/24/umb-bank-n-a-buys-368-shares-of-dollar-general-corporation-dg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2025-09-24T07:37:01Z",
-      "Content": "UMB Bank n.a. lifted its stake in Dollar General Corporation (NYSE:DG – Free Report) by 35.9% during the second quarter, Holdings Channel reports. The fund owned 1,392 shares of the company’s stock a… [+5263 chars]"
+      "Author": "By Stefano Rebaudo",
+      "Title": "Dollar softens amid trade optimism, central bank watch, offshore yuan jumps",
+      "Description": "By Stefano Rebaudo (Reuters) -The U.S. dollar snapped a six-day rally against the yen and extended a three-day falling streak versus the euro on Monday, as...",
+      "Url": "https://finance.yahoo.com/news/dollar-softens-amid-trade-optimism-124116705.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters.com/0c946f61b3be84a5dda628cfc45b569e",
+      "PublishedAt": "2025-10-27T12:41:16Z",
+      "Content": "By Stefano Rebaudo\r\n(Reuters) -The U.S. dollar snapped a six-day rally against the yen and extended a three-day falling streak versus the euro on Monday, as investors welcomed a possible U.S.-China t… [+4005 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Yahoo Entertainment"
       },
-      "Author": "Snigdha Gairola",
-      "Title": "Dave Ramsey Advises Daughter Torn Over Giving Retired Father Money After He Sold Her Million-Dollar Childhood Home: 'You Don't Have An Obligation'",
-      "Description": "Financial guru Dave Ramsey weighed in on a daughter's dilemma after her father, a retired 73-year-old living on Social Security, requested a portion of her...",
-      "Url": "https://finance.yahoo.com/news/dave-ramsey-advises-daughter-torn-013103545.html",
-      "UrlToImage": "https://media.zenfs.com/en/Benzinga/958135c77c96d2a900bc680701fa906d",
-      "PublishedAt": "2025-09-24T01:31:03Z",
-      "Content": "Financial guru Dave Ramsey weighed in on a daughter's dilemma after her father, a retired 73-year-old living on Social Security, requested a portion of her rental profits despite having previously so… [+2239 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Benjamin Cottrell",
-      "Title": "An Old Man Tried To Exchange A Hundred Dollar Bill At The Counter, But The Cashier Shut It Down And Suggested He Try The Bank Instead",
-      "Description": "Sometimes you just have to keep it movin'.",
-      "Url": "http://twistedsifter.com/2025/09/an-old-man-tried-to-exchange-a-hundred-dollar-bill-at-the-counter-but-the-cashier-shut-it-down-and-suggested-he-try-the-bank-instead/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2025/08/portrait-of-an-old-man.png",
-      "PublishedAt": "2025-09-23T23:55:56Z",
-      "Content": "Pexels/Reddit\r\nNot every customer makes paying quick and simple.\r\nOne older mans odd request for change made a regular day at the landscaping supply counter feel unnecessarily complicated.\r\nIt only g… [+2029 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Aniket Verma",
-      "Title": "Mexican Billionaire, Who Set Up One of the Nation's Top Banks, Called Dollar-Like Fiat Money The 'Biggest Fraud' And Sees Bitcoin As The Only Escape",
-      "Description": "Mexican business tycoon Ricardo Salinas Pliego has been vocal about his unwavering faith in Bitcoin (CRYPTO: BTC) while voicing an equally strong disdain for...",
-      "Url": "https://finance.yahoo.com/news/mexican-billionaire-set-one-nations-094603796.html",
-      "UrlToImage": "https://media.zenfs.com/en/benzinga_79/3dbe8d5b26b998411ed16c5063007f91",
-      "PublishedAt": "2025-09-22T09:46:03Z",
-      "Content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nMexican business tycoon Ricardo Salinas Pliego has been vocal about his unwavering faith in Bitco… [+5312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Interbank Market Update: Cedi at GH¢12.27 against US dollar",
-      "Description": "The Ghana cedi has crossed the GH¢12 mark on the interbank exchange market.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Update-Cedi-at-GH-12-27-against-US-dollar-2001754",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/611/61110540.jpg",
-      "PublishedAt": "2025-09-22T07:52:43Z",
-      "Content": "The Ghana cedi has crossed the GH¢12 mark on the interbank exchange market.\r\nThis is the first time since May 2025, following a period of consistent appreciation against the US dollar.\r\nAs of Monday,… [+1154 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Meal"
-      },
-      "Author": "Persy House",
-      "Title": "Say Goodbye To Messy Fridge Leaks With A Double-Duty Dollar Tree Fix",
-      "Description": "Leaky containers in your refrigerator can create big messes. This simple item from the Dollar Tree can help reduce spillage and make it easier to clean.",
-      "Url": "https://www.thedailymeal.com/1968183/dollar-tree-home-find-fridge-clean-aesthetic-placemats/",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/12lzjUCU2.UmYaxBsRUXXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_daily_meal_185/f5074ae903349369815712405ae277b3",
-      "PublishedAt": "2025-09-20T20:09:00Z",
-      "Content": "It can be quite annoying when things leak in your fridge. Not only does it get smelly quickly, but to clean it out, you have to take out all of your perishables and struggle to reach into the shelvin… [+2882 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
-      },
-      "Author": "GRVT Technologies Pte Ltd",
-      "Title": "Grvt raises $19m to pioneer privacy-first onchain finance and unlock trillion-dollar markets",
-      "Description": "PANAMA CITY, Sept. 19, 2025 (GLOBE NEWSWIRE) -- Grvt\r\n, the preeminent DEX (decentralized exchange) for onchain financial privacy that is powered by zero-knowledge (“ZK”) technology, today announced the close of a $19 million Series A funding round.",
-      "Url": "https://www.globenewswire.com/news-release/2025/09/19/3153051/0/en/Grvt-raises-19m-to-pioneer-privacy-first-onchain-finance-and-unlock-trillion-dollar-markets.html",
-      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/d91df528-8b6e-41d6-9b0d-01116153763c",
-      "PublishedAt": "2025-09-19T09:46:00Z",
-      "Content": "PANAMA CITY, Sept. 19, 2025 (GLOBE NEWSWIRE) -- Grvt\r\n, the preeminent DEX (decentralized exchange) for onchain financial privacy that is powered by zero-knowledge (ZK) technology, today announced th… [+12353 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Czech National Bank Has $4.78 Million Stock Holdings in Dollar Tree, Inc. $DLTR",
-      "Description": "Czech National Bank boosted its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.0% in the 2nd quarter, according to its most recent filing with the SEC. The fund owned 48,285 shares of the company’s stock after purchasing an additional 1,858 sh…",
-      "Url": "https://www.etfdailynews.com/2025/09/19/czech-national-bank-has-4-78-million-stock-holdings-in-dollar-tree-inc-dltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2025-09-19T07:44:50Z",
-      "Content": "Czech National Bank boosted its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 4.0% in the 2nd quarter, according to its most recent filing with the SEC. The fund owned 48,285 shares of… [+5893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cryptonews"
-      },
-      "Author": "Amin Ayan",
-      "Title": "Latin America’s Largest Digital Bank Nubank Eyes Dollar-Pegged Stablecoins",
-      "Description": "Nubank, the biggest digital bank in Latin America, is preparing to integrate dollar-pegged stablecoins into its payment ecosystem, starting with credit card ...",
-      "Url": "https://cryptonews.com/news/latin-americas-largest-digital-bank-eyes-dollar-pegged-stablecoins/",
-      "UrlToImage": "https://media.zenfs.com/en/cryptonews_us_711/2266604c9b1b80fef83db44c87028491",
-      "PublishedAt": "2025-09-19T07:03:10Z",
-      "Content": "Nubank, the biggest digital bank in Latin America, is preparing to integrate dollar-pegged stablecoins into its payment ecosystem, starting with credit card transactions.\r\nKey Takeaways:\r\n<ul><li>Nub… [+3382 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mexico News Daily"
-      },
-      "Author": "Mnd Staff",
-      "Title": "Mexican peso hits a year's best against the dollar",
-      "Description": "The Mexican peso seems headed for a very positive week after rising to a yearly high in overnight trading.",
-      "Url": "https://mexiconewsdaily.com/business/peso-dollar-years-best-mexico-economy/",
-      "UrlToImage": "https://mexiconewsdaily.com/wp-content/uploads/2025/09/1026336_Precio-dolar_impreso.jpg",
-      "PublishedAt": "2025-09-12T21:01:31Z",
-      "Content": "The peso seems headed for a very positive week after rising to a yearly high in overnight trading before halting its advance when the markets opened on Friday.\r\nMexicos currency appreciated against t… [+2196 chars]"
+      "Author": "By Stefano Rebaudo and Rocky Swift",
+      "Title": "Dollar mixed as investors eye central bank decisions, trade talks",
+      "Description": "dollar was mixed on Monday, coming off a six-day rally against the yen and a three-day losing streak versus the euro, as investors braced for a week packed...",
+      "Url": "https://finance.yahoo.com/news/dollar-mixed-investors-eye-central-093321321.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters.com/c906c4729ed593cf1000fc65d90a590f",
+      "PublishedAt": "2025-10-27T09:33:21Z",
+      "Content": "By Stefano Rebaudo and Rocky Swift\r\n(Reuters) -The U.S. dollar was mixed on Monday, coming off a six-day rally against the yen and a three-day losing streak versus the euro, as investors braced for a… [+3980 chars]"
     },
     {
       "Source": {
@@ -256,38 +113,272 @@
         "Name": "CNA"
       },
       "Author": null,
-      "Title": "Indonesia's central bank wants rupiah to trade around 16,300 a dollar",
-      "Description": "JAKARTA :Indonesia's central bank has been guiding the rupiah to a stronger level and will try to get it to trade around 16,300 a dollar, its governor said on Tuesday, after the currency fell amid unrest across the country.\"The rupiah, which yesterday morning…",
-      "Url": "https://www.channelnewsasia.com/business/indonesias-central-bank-wants-rupiah-trade-around-16300-dollar-5328226",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--ftYusAgd--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-09-02t063316z_1_lynxmpel8109u_rtroptp_3_indonesia-economy-rates.jpg?itok=Pf972th6",
-      "PublishedAt": "2025-09-02T06:33:16Z",
-      "Content": "JAKARTA :Indonesia's central bank has been guiding the rupiah to a stronger level and will try to get it to trade around 16,300 a dollar, its governor said on Tuesday, after the currency fell amid un… [+1026 chars]"
+      "Title": "Former Julius Baer relationship manager jailed for involvement in billion-dollar money laundering case",
+      "Description": "Liu Kai's case relates to his assistance of Lin Baoying - one of the 10 people convicted in the case earlier - while he was a relationship manager at the bank's Singapore branch.",
+      "Url": "https://www.channelnewsasia.com/singapore/liu-kai-billion-dollar-money-laundering-case-lin-baoying-forgery-5422696",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--3S0lOMsZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/tdy/image/2024/07/04/20200506_ili_state_courts.jpeg?itok=g_ZxQEbA",
+      "PublishedAt": "2025-10-24T09:04:06Z",
+      "Content": "Lin later sent Liu a tax payment certificate purportedly issued by the Chinese tax authorities as proof of her income for the application.\r\nLiu suspected that the document was forged, via edits made … [+1154 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "GlobeNewswire",
+      "Title": "USBC Partners with Uphold and Vast Bank to Launch the First Retail Tokenized Deposits, Designed to Provide Worldwide Access to U.S. Dollar Deposit Accounts",
+      "Description": "Combines traditional banking protections with blockchain innovation, bringing real U.S. dollar deposits securely on-chain with global accessibility RENO, Nev., Oct. 23, 2025 (GLOBE NEWSWIRE) — USBC, Inc. (NYSE American: USBC) (“USBC” or the “Company”), an ind…",
+      "Url": "https://financialpost.com/globe-newswire/usbc-partners-with-uphold-and-vast-bank-to-launch-the-first-retail-tokenized-deposits-designed-to-provide-worldwide-access-to-u-s-dollar-deposit-accounts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-10-23T20:07:41Z",
+      "Content": "Combines traditional banking protections with blockchain innovation, bringing real U.S. dollar deposits securely on-chain with global accessibility\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSub… [+5616 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Naturalnews.com"
+        "Name": "CNA"
       },
-      "Author": "Kevin Hughes",
-      "Title": "Decentralize TV: Chris Sullivan on the future of the dollar, crypto assets and finance",
-      "Description": "Mike Adams and Todd Pitner emphasized the growing threat of centralized control over personal finances through Central Bank Digital Currencies (CBDCs). They highlighted the potential for CBDCs to be used as tools for surveillance and control by governments, l…",
-      "Url": "https://www.naturalnews.com/2025-09-02-chris-sullivan-future-dollar-crypto-assets-finance.html",
-      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/CBDC-Digital-Currency-Online-Internet-Bank.jpg",
-      "PublishedAt": "2025-09-02T06:00:00Z",
-      "Content": "<ul><li>Mike Adams and Todd Pitner emphasized the growing threat of centralized control over personal finances through Central Bank Digital Currencies (CBDCs). They highlighted the potential for CBDC… [+7973 chars]"
+      "Author": null,
+      "Title": "Former Citibank relationship manager jailed for involvement in billion-dollar money laundering case",
+      "Description": "<![CDATA[ Chinese national Wang Qiming, 27, held S$481,678 in laundered cash for Su Baolin. Two others involved in one of Singapore’s biggest money laundering cases, Su Haijin and Vang Shuiming, were also his clients. ]]>",
+      "Url": "https://www.channelnewsasia.com/singapore/singapore-billion-dollar-money-laundering-case-su-haijin-su-baolin-vang-shuiming-5419716",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--KLp0irVL--/c_crop,h_1687,w_3000,x_0,y_83/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/23/jem_0540.jpg?itok=mh6HYD94",
+      "PublishedAt": "2025-10-23T05:34:00Z",
+      "Content": "WORKING WITH SU BAOLIN\r\nAround December 2020, Wang started working with Su Baolin to open a bank account with Citibank and officially became his relationship manager from January the following year.\r… [+5755 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Slashdot.org"
       },
-      "Author": "feedfeeder",
-      "Title": "Dollar weak on rate outlook, gold hits record high - Yahoo Finance",
-      "Description": "Dollar weak on rate outlook, gold hits record highYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=178972198",
+      "Author": "EditorDavid",
+      "Title": "Sony Applies to Establish National Crypto Bank, Issue Stablecoin for US Dollar",
+      "Description": "An anonymous reader shared this report from Cryptonews:\n\n\n\nSony has taken Wall Street by surprise after its banking division, Sony Bank, filed an application with the U.S. Office of the Comptroller of the Currency (OCC) to establish a national crypto bank und…",
+      "Url": "https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/sony_64.png",
+      "PublishedAt": "2025-10-19T17:53:00Z",
+      "Content": "An anonymous reader shared this report from Cryptonews:\r\nSony has taken Wall Street by surprise after its banking division, Sony Bank, filed an application with the U.S. Office of the Comptroller of … [+2536 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "BL Mumbai Bureau",
+      "Title": "Rupee may gain further this week on potential inflows from RBL Bank acquisition, weakening dollar",
+      "Description": "Rupee may strengthen on potential $3 billion inflows, dollar weakness, and rate cut possibility, supported by RBI intervention.",
+      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-may-gain-further-this-week-on-potential-inflows-from-rbl-bank-acquisition-weakening-dollar/article70182983.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/jtl2xq/article70183356.ece/alternates/LANDSCAPE_1200/PO01_Rupee.jpg",
+      "PublishedAt": "2025-10-19T16:07:06Z",
+      "Content": "The rupee, which gained 71 paise last week, may get further support on potential inflows of $3 billion from the proposed acquisition of up to 60 per cent stake in RBL Bank by Emirates NBD and the pos… [+2001 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bitcoinist"
+      },
+      "Author": "Scott Matherson",
+      "Title": "Robert Kiyosaki Calls US Dollar Fake Money, Urges Move To Gold And Bitcoin",
+      "Description": "Popular financial educator and “Rich Dad Poor Dad” author Robert Kiyosaki has once again criticized the US dollar, calling it “fake money” and warning that inflation is making life harder for the poor and middle class.  In one of his recent posts on the socia…",
+      "Url": "https://bitcoinist.com/robert-kiyosaki-calls-us-dollar-fake-money-urges-move-to-gold-and-bitcoin/",
+      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2025/10/a_9c69ee.jpg",
+      "PublishedAt": "2025-10-19T08:00:14Z",
+      "Content": "Popular financial educator and “Rich Dad Poor Dad” author Robert Kiyosaki has once again criticized the US dollar, calling it “fake money” and warning that inflation is making life harder for the poo… [+2887 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Show 487 of Paul's Memory Bank tonight (8PM EDT). Some protest and \"antifa\" music tonight, with some of the normal fare mixed in. On \"The Adventures of Superman\", parts 6 to 10 of \"The Yellow Mask and the Five Million Dollar Jewel Robbery\" [Live]",
+      "Description": "Show 487 of Paul's Memory Bank tonight (8PM EDT). Some protest and \"antifa\" music tonight, with some of the normal fare mixed in. On \"The Adventures of Superman\", parts 6 to 10 of \"The Yellow Mask and the Five Million Dollar Jewel Robbery\"",
+      "Url": "https://www.fark.com/comments/13849688/Show-487-of-Pauls-Memory-Bank-tonight-8PM-EDT-Some-protest-antifa-music-tonight-with-some-of-normal-fare-mixed-in-On-The-Adventures-of-Superman-parts-6-to-10-of-The-Yellow-Mask-the-Five-Million-Dollar-Jewel-Robbery",
+      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+      "PublishedAt": "2025-10-18T23:30:27Z",
+      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneydigest.com"
+      },
+      "Author": "Tamilore Onikosi",
+      "Title": "You're Wasting Money If You Buy This Kind Of Household Item At A Dollar Store",
+      "Description": "As prices continue to rise, more and more of us will be tempted to turn to the dollar store. Some items, however, are always worth splashing out on.",
+      "Url": "https://www.moneydigest.com/1994785/wasting-money-buy-tools-at-dollar-store/",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/DXwIhEQ7o0gZ7ajgufUhYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/money_digest_articles_438/3fb0aadee5d2d68f5aa4263052c92f93",
+      "PublishedAt": "2025-10-18T16:30:00Z",
+      "Content": "Shopping at a dollar store is always a tricky thing to do: On the one hand, you're there to get value for your money, but on the other hand, getting the wrong items will cost you more than it should … [+3883 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneydigest.com"
+      },
+      "Author": "Toni Matthews - El",
+      "Title": "12 Groceries You Should Buy At Dollar Tree To Save You Money",
+      "Description": "Shipping at Dollar Tree often means lower prices than at competing retailers, especially on brands including Kraft, Nutella, and others.",
+      "Url": "https://www.moneydigest.com/1996489/best-household-items-buy-at-dollar-store/",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/wPmcK.nVnnjvwe0tYv3c9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/money_digest_articles_438/de89db466410f6d3a7da0f4f9bc292ff",
+      "PublishedAt": "2025-10-17T17:15:00Z",
+      "Content": "When it comes to food shopping, saving money is essential to customers looking for ways to get around the rising cost of groceries. Food prices have increased by 29% from where they were in early 202… [+16505 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Vassilis Karamanis and Carter Johnson",
+      "Title": "Dollar on Edge of Worst Week Since August on Fed Bets, Bank Woes",
+      "Description": "The Bloomberg Dollar Spot Index edged higher on Friday but is still on pace to lose some 0.4% since Monday’s open, the largest weekly decline since August.  ...",
+      "Url": "https://finance.yahoo.com/news/dollar-set-worst-week-since-062541155.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/as7LtDeoPqjQ80fDb.2nWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a57d3f710631ac01a3761da6fb92031c",
+      "PublishedAt": "2025-10-17T14:20:11Z",
+      "Content": "(Bloomberg) -- The dollar traded on the cusp of its worst week in more than two months as expectations of Federal Reserve interest-rate cuts coupled with emerging credit risks in the US banking secto… [+3629 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Survivalblog.com"
+      },
+      "Author": "SurvivalBlog Contributor",
+      "Title": "Gold: The US Dollar Bank Run Is Speeding Up, by Hubert Moolman",
+      "Description": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and nations are running to an asset like gold as a reserve asset …",
+      "Url": "https://survivalblog.com/2025/10/18/gold-the-us-dollar-bank-run-is-speeding-up-by-hubert-moolman/",
+      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2025/10/October-2025-Gold-Chart.jpg",
+      "PublishedAt": "2025-10-17T12:16:20Z",
+      "Content": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and n… [+2589 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Jim Edwards",
+      "Title": "Plummeting bank stocks lead global selloff as fear of private credit ‘contagion’ moves across equities and the dollar",
+      "Description": "The fear is that \"the U.S. business environment and credit quality are in a poorer state than what data suggests,\" ING said in a note this morning.",
+      "Url": "https://fortune.com/2025/10/17/bank-stocks-global-selloff-private-credit-contagion-dollar/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1296010680.jpg?resize=1200,600",
+      "PublishedAt": "2025-10-17T11:21:14Z",
+      "Content": "S&amp;P 500 futures were down more than a full percentage point this morning, after markets in Asia and Europe sold off heavily in reaction to two small regional U.S. banks that reported exposure to … [+3830 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Jim Edwards",
+      "Title": "Plummeting bank stocks lead global selloff as fear of private credit ‘contagion’ moves across equities and the dollar",
+      "Description": "The fear is that “the U.S. business environment and credit quality are in a poorer state than what data suggests,” ING said in a note this morning.",
+      "Url": "https://finance.yahoo.com/news/plummeting-bank-stocks-lead-global-112114182.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/GKT8oSsB0nBvNIpZ1wyxDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjM-/https://media.zenfs.com/en/fortune_175/73290295bd7beaed528238d2bb812767",
+      "PublishedAt": "2025-10-17T11:21:14Z",
+      "Content": "<ul><li>Global markets fell sharply after two U.S. regional banks disclosed exposure to fraudulent loans, sparking fears of wider problems in the private credit market. Bank stocks, Asian and Europea… [+4209 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Survivalblog.com"
+      },
+      "Author": "SurvivalBlog Contributor",
+      "Title": "Gold: The US Dollar Bank Run Is Speeding Up, by Hubert Moolman",
+      "Description": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and nations are running to an asset like gold as a reserve asset …",
+      "Url": "https://survivalblog.com/2025/10/17/gold-the-us-dollar-bank-run-is-speeding-up-by-hubert-moolman/",
+      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2025/10/October-2025-Gold-Chart.jpg",
+      "PublishedAt": "2025-10-17T03:39:09Z",
+      "Content": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and n… [+2589 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TheWrap"
+      },
+      "Author": "Sharon Waxman",
+      "Title": "What Happened to Saudi Blood Money? Hollywood Gives the Kingdom a Green Light With Billion-Dollar Investment in Arena SNK",
+      "Description": "It's a new day for taking Saudi cash. “Everything is complicated,” an individual close to the company tells TheWrap. “That’s the world we’re in”\nThe post What Happened to Saudi Blood Money? Hollywood Gives the Kingdom a Green Light With Billion-Dollar Investm…",
+      "Url": "https://www.thewrap.com/saudi-hollywood-greenlight-1-billion-investment-arena-snk/",
+      "UrlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/10/101425-Mohammed-bin-Salman-v1.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "PublishedAt": "2025-10-15T13:00:00Z",
+      "Content": "In case you were wondering whether Hollywood was having second thoughts about Saudi involvement in the entertainment industry, the answer came in a quiet press release on Tuesday with $1 billion wort… [+4764 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Drum"
+      },
+      "Author": "Margo Waldrop",
+      "Title": "How Revolve is utilizing AI styling to fix fashion’s billion-dollar returns problem",
+      "Description": "The retailer’s new collaboration with Zelig turns shopping into a real-time styling experience – one that promises to boost confidence, cut waste and reimagine how fashion discovery works online.The online fashion industry has a dirty secret: for every four g…",
+      "Url": "https://www.thedrum.com/news/2025/10/14/how-revolve-utilizing-ai-styling-fix-fashion-s-billion-dollar-returns-problem",
+      "UrlToImage": "https://thedrum-media.imgix.net//thedrum-prod/s3/news/357179/1_zelig_revolve_build_a_look_product_listing_page.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "PublishedAt": "2025-10-14T18:39:00Z",
+      "Content": "The retailers new collaboration with Zelig turns shopping into a real-time styling experience one that promises to boost confidence, cut waste and reimagine how fashion discovery works online.The onl… [+3636 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": null,
+      "Title": "Alex Murdaugh’s money man pays the price after admitting role in million-dollar crime scheme",
+      "Description": "Russell Laffitte gets 13-year sentence and must pay $3.5 million restitution for financial crimes that helped Alex Murdaugh conceal fraudulent schemes for years.",
+      "Url": "https://www.foxnews.com/us/alex-murdaughs-money-man-pays-price-after-admitting-role-million-dollar-crime-scheme",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/alex-murdaugh-russell-laffitte_02.jpg",
+      "PublishedAt": "2025-10-13T19:32:13Z",
+      "Content": "A former banker and accomplice of Alex Murdaugh has learned his fate after pleading guilty to eight felony charges stemming from financial crimes committed alongside the convicted murderer. \r\nA South… [+3613 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ETMarkets.com",
+      "Title": "Bull run for gold & silver likely to continue on central bank demand, weaker dollar: Kotak AMC's Nilesh Shah",
+      "Description": "Gold and silver are expected to stay supported in the coming months, driven by central bank demand, a weakening dollar, and supply constraints. Kotak AMC’s Nilesh Shah highlights that these factors, alongside festival-driven premiums, make precious metals a k…",
+      "Url": "https://economictimes.indiatimes.com/markets/expert-view/bull-run-for-gold-silver-likely-to-continue-on-central-bank-demand-weaker-dollar-kotak-amcs-nilesh-shah/articleshow/124477318.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-124477305,width-1200,height-630,imgsize-10168,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-10-11T11:38:30Z",
+      "Content": "Precious metals are likely to remain supported in the coming months, driven by strong central bank demand, US monetary policy shifts, and supply constraints, according to Nilesh Shah, Managing Direct… [+2446 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Government Bank worried about threats of a \"sharp repricing of US dollar assets\" [Murica]",
+      "Description": "Government Bank worried about threats of a \"sharp repricing of US dollar assets\"",
+      "Url": "https://www.fark.com/comments/13839630/Government-Bank-worried-about-threats-of-a-sharp-repricing-of-US-dollar-assets",
+      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+      "PublishedAt": "2025-10-09T16:02:33Z",
+      "Content": "imashark:AI will work because it has to work for companies to continue to exist. Many major companies with reach into every part of the US economy that have bet major portions of their business on AI… [+86 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Interbank Market: Cedi sells at GH¢12.40 to a dollar",
+      "Description": "Ghana’s local currency has recently experienced a slight depreciation against major trading currencies, particularly the US dollar.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Cedi-sells-at-GH-12-40-to-a-dollar-2004315",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/995/99591355.jpg",
+      "PublishedAt": "2025-10-09T08:17:25Z",
+      "Content": "Ghanas local currency has recently experienced a slight depreciation against major trading currencies, particularly the US dollar. \r\nThis comes after the cedi crossed the government's GH¢12 target on… [+1197 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Japan Today"
+      },
+      "Author": null,
+      "Title": "What would you like to see the yen-dollar exchange rate stabilize at?",
+      "Description": "",
+      "Url": "https://japantoday.com/category/have-your-say/what-would-you-like-to-see-the-yen-dollar-exchange-rate-stabilize-at-1",
       "UrlToImage": null,
-      "PublishedAt": "2025-09-02T03:34:11Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+      "PublishedAt": "2025-10-06T21:23:28Z",
+      "Content": "The Best Fukui Itinerary: Dinosaurs, Rainbows and Surf\r\nFukui is a coastal prefecture easily accessible from Tokyo; away from crowds and tourists, but with plenty to do, see and taste."
     }
   ]
 }
