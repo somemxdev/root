@@ -1,8 +1,164 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Liam 'Akiba' Wright",
+      "Title": "When M2 money supply and the dollar REALLY move Bitcoin price – The truth influencers aren’t telling you",
+      "Description": "Influencers on X love pointing to rising M2 charts or a softening dollar as proof that Bitcoin is about to blast off. Those overlays make for great engagement, but they flatten a far more complex relationship. They matter, but not in the simple, linear way th…",
+      "Url": "https://cryptoslate.com/the-truth-about-when-m2-money-supply-and-the-dollar-move-bitcoin-price-what-influencers-arent-telling-you/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/bitcoin-m2-supply.jpg",
+      "PublishedAt": "2025-11-23T15:42:09Z",
+      "Content": "Influencers on X love pointing to rising M2 charts or a softening dollar as proof that Bitcoin is about to blast off.\r\nThose overlays make for great engagement, but they flatten a far more complex re… [+7710 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-irish-times",
+        "Name": "The Irish Times"
+      },
+      "Author": "Tim O'Brien",
+      "Title": "International investigation targets billion dollar networks laundering money for Kinahans",
+      "Description": "Gardaí take role in NCA investigation into groups laundering money for Kinahans and other criminal organisations",
+      "Url": "https://www.irishtimes.com/crime-law/2025/11/21/international-investigation-targets-billion-dollar-networks-laundering-money-for-kinahans/",
+      "UrlToImage": "https://www.irishtimes.com/resizer/v2/OAL5EEONFHBVYUXT3YBAUEVPAA.jpg?smart=true&auth=661d7351201f005b031d8c7af506cd98a62493b84175fd531e0cc990f8b3376f&width=1200&height=630",
+      "PublishedAt": "2025-11-21T07:23:25Z",
+      "Content": "Gardaí seized 1.36 million and arrested seven people this year as part of an international investigation into billion-dollar networks that launder money for the Kinahans and other crime gangs. \r\nThe … [+4887 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee drifts higher tracking Asia FX, buoyed by interbank dollar offers",
+      "Description": "The Indian rupee saw a slight gain today, mirroring regional currency movements and supported by dollar sales from banks. Exporters are also reportedly increasing their hedging activities. Despite global market shifts and a hawkish U.S. Federal Reserve outloo…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/rupee-drifts-higher-tracking-asia-fx-buoyed-by-interbank-dollar-offers/articleshow/125478069.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-125478099,width-1200,height-630,imgsize-1325404,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-11-21T05:26:29Z",
+      "Content": "The Indian rupee firmed slightly on Friday, tracking mild gains across Asian currencies and aided by interbank dollar sales, with traders pointing to a pickup in exporter hedging.The rupee was last a… [+1485 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": null,
+      "Title": "Trump’s trillion-dollar Saudi deal could reshape markets — if the money ever materializes",
+      "Description": "Saudi Arabia's $1 trillion investment pledge to the U.S. sounds impressive, but experts warn much of the promised money exists only on paper and may take years to materialize.",
+      "Url": "https://www.foxnews.com/politics/trumps-trillion-dollar-saudi-deal-could-reshape-markets-money-ever-materializes",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/donald-trump-investment-forum.png",
+      "PublishedAt": "2025-11-20T17:24:48Z",
+      "Content": "President Donald Trump\r\n loves a deal and few partners have proven more willing or more powerful than Saudi Arabia.\r\nThis week, Saudi Arabias Crown Prince Mohammed bin Salman pledged to channel $1 tr… [+3545 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "ANI",
+      "Title": "Rupee likely fall to 90 against US dollar by March 2026, says Union Bank report",
+      "Description": "This trend is being supported by a consolidating US Dollar Index (DXY) and cautious foreign portfolio flows due to high domestic equity valuations",
+      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-fall-to-90-against-us-dollar-by-march-2026-says-union-bank-report/article70301649.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/vswsf5/article70274066.ece/alternates/LANDSCAPE_1200/BL03_Think_Digital_rupee.jpg",
+      "PublishedAt": "2025-11-20T04:05:53Z",
+      "Content": "The Indian Rupee may continue to weaken gradually and inch towards the psychological level of 90 per US dollar by March 2026, highlighted a report by Union Bank of India. According to the report, the… [+2253 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Interbank dollar sales, exporter hedging lifts rupee to two-week high",
+      "Description": "The Indian rupee strengthened to a two-week high on Wednesday, driven by positive sentiment among traders and increased exporter activity.  This rise comes amid ongoing concerns about trade deals and potential central bank intervention.  Meanwhile, expectatio…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/interbank-dollar-sales-exporter-hedging-lifts-rupee-to-two-week-high/articleshow/125427874.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-125427903,width-1200,height-630,imgsize-90758,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-11-19T05:22:01Z",
+      "Content": "The rupee firmed on Wednesday to touch a two-week high, bolstered by a slight bias towards bullish wagers on the currency rupee among interbank traders and a pickup in exporter hedging activity.The r… [+1655 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "PTI",
+      "Title": "Pakistan's top bank restricts cash dollar transactions",
+      "Description": "In a bold move to regulate its economy, Pakistan's central bank is tightening access to cash dollar withdrawals. Under the new regulations, individuals can no longer receive cash in dollars directly. Instead, all dollar transactions will be routed to bank acc…",
+      "Url": "https://economictimes.indiatimes.com/news/international/business/pakistans-top-bank-restricts-cash-dollar-transactions/articleshow/125379126.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-125379209,width-1200,height-630,imgsize-12338,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2025-11-17T07:02:45Z",
+      "Content": "Pakistan's central bank has taken steps to limit the cash flow of US dollars to individuals as part of its policy to prevent the Pakistan rupee from devaluing in the market and curtail undocumented o… [+2220 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Radaronline.com"
+      },
+      "Author": "Haley Gunn",
+      "Title": "EXCLUSIVE: White House Releases Scathing 2566-word Dossier on Trump Critic Michael Wolff Amid Epstein Email Scandal — and After He Sues First Lady Melania Over Alleged Billion-dollar Hush Money Threat",
+      "Description": "The White House's blistering document seeking to discredit the author followed his lawsuit against the first lady.",
+      "Url": "https://radaronline.com/p/donald-trump-michael-wolff-white-house-releases-scathing-dossier-epstein-emails/",
+      "UrlToImage": "https://media.radaronline.com/brand-img/wFqDgFwr3/1200x628/trump-biographer-michael-wolff-melania-trump-white-house-scathing-dossier-1763172597643.png",
+      "PublishedAt": "2025-11-15T12:45:00Z",
+      "Content": "While the latest Epstein release included communications with the author, the timing of the Wolff dossier raised eyebrows given his current legal battle with the first lady. \r\nAs RadarOnline.com repo… [+893 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Madfientist.com"
+      },
+      "Author": "The Mad Fientist",
+      "Title": "Learning How to Spend Money (While Enjoying Every Dollar Spent)",
+      "Description": "After decades of saving/investing, it's hard to immediately switch to spending mode. Here's what worked for me over the last few years!\nRead more →\nThe post Learning How to Spend Money (While Enjoying Every Dollar Spent) appeared first on Mad Fientist.",
+      "Url": "https://www.madfientist.com/how-to-spend-money/",
+      "UrlToImage": "https://www.madfientist.com/wp-content/uploads/2025/11/how-to-spend-money.jpg",
+      "PublishedAt": "2025-11-14T14:29:43Z",
+      "Content": "After decades of saving/investing, it’s hard to immediately flip a switch and go into spending mode.Spending is a skill that you should develop on your way to FI, so that you’re better at it when the… [+29635 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GhanaWeb"
+      },
+      "Author": "Ghanaweb",
+      "Title": "Interbank Market: Cedi depreciates slightly against the dollar",
+      "Description": "Ghana’s cedi depreciated slightly, selling at GH¢10.95 compared to GH¢10.92 recorded on Tuesday, November 11, 2025, on the interbank market.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Cedi-depreciates-slightly-against-the-dollar-2009112",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/896/89694946.jpg",
+      "PublishedAt": "2025-11-12T15:23:16Z",
+      "Content": "Ghanas cedi depreciated slightly, selling at GH¢10.95 compared to GH¢10.92 recorded on Tuesday, November 11, 2025, on the interbank market.\r\nDespite the marginal decline, some business analysts cauti… [+1048 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Ian Verrender",
+      "Title": "Elon Musk's potential trillion-dollar payday not just about money",
+      "Description": "The world's richest man's believers have once again agreed to enrich the Tesla boss to levels far beyond the realm of ordinary billionaires. But how much is enough?",
+      "Url": "https://www.abc.net.au/news/2025-11-08/elon-musk-tesla-shareholder-meeting-trillion-dollar-payday/105985856",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/2d50e9c05c5ca7ab6fbb920b3ccfe6f5?impolicy=wcms_watermark_news&cropH=1715&cropW=3048&xPos=0&yPos=28&width=862&height=485&imformat=generic",
+      "PublishedAt": "2025-11-07T21:17:19Z",
+      "Content": "The world's richest man emerged triumphant from a gathering of the faithful on Friday with a new goal to out-earn everyone else on the planet over the course of the next decade.\r\nHis believers, some … [+6284 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": null,
+      "Title": "Ether falls 7% following a multimillion dollar hack of a decentralized finance protocol",
+      "Description": "The Ethereum-linked token briefly fell below its critical $3,600 level as investors wrung their hands over several bearish events.",
+      "Url": "https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107419572-17165030692024-05-23t220608z_1076860562_rc2c4r9kcseq_rtrmadp_0_fintech-crypto-etf.jpeg?v=1716503125&w=1920&h=1080",
+      "PublishedAt": "2025-11-03T20:39:41Z",
+      "Content": "Ether fell as much as 9% on Monday, slipping below its critical $3,600 support level, shortly after a multimillion dollar hack affected a protocol on the token's native network. \r\nThe cryptocurrency,… [+1444 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -132,253 +288,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-10-23T20:07:41Z",
       "Content": "Combines traditional banking protections with blockchain innovation, bringing real U.S. dollar deposits securely on-chain with global accessibility\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSub… [+5616 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Former Citibank relationship manager jailed for involvement in billion-dollar money laundering case",
-      "Description": "<![CDATA[ Chinese national Wang Qiming, 27, held S$481,678 in laundered cash for Su Baolin. Two others involved in one of Singapore’s biggest money laundering cases, Su Haijin and Vang Shuiming, were also his clients. ]]>",
-      "Url": "https://www.channelnewsasia.com/singapore/singapore-billion-dollar-money-laundering-case-su-haijin-su-baolin-vang-shuiming-5419716",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--KLp0irVL--/c_crop,h_1687,w_3000,x_0,y_83/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/23/jem_0540.jpg?itok=mh6HYD94",
-      "PublishedAt": "2025-10-23T05:34:00Z",
-      "Content": "WORKING WITH SU BAOLIN\r\nAround December 2020, Wang started working with Su Baolin to open a bank account with Citibank and officially became his relationship manager from January the following year.\r… [+5755 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "EditorDavid",
-      "Title": "Sony Applies to Establish National Crypto Bank, Issue Stablecoin for US Dollar",
-      "Description": "An anonymous reader shared this report from Cryptonews:\n\n\n\nSony has taken Wall Street by surprise after its banking division, Sony Bank, filed an application with the U.S. Office of the Comptroller of the Currency (OCC) to establish a national crypto bank und…",
-      "Url": "https://news.slashdot.org/story/25/10/19/1749212/sony-applies-to-establish-national-crypto-bank-issue-stablecoin-for-us-dollar",
-      "UrlToImage": "https://a.fsdn.com/sd/topics/sony_64.png",
-      "PublishedAt": "2025-10-19T17:53:00Z",
-      "Content": "An anonymous reader shared this report from Cryptonews:\r\nSony has taken Wall Street by surprise after its banking division, Sony Bank, filed an application with the U.S. Office of the Comptroller of … [+2536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "BL Mumbai Bureau",
-      "Title": "Rupee may gain further this week on potential inflows from RBL Bank acquisition, weakening dollar",
-      "Description": "Rupee may strengthen on potential $3 billion inflows, dollar weakness, and rate cut possibility, supported by RBI intervention.",
-      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-may-gain-further-this-week-on-potential-inflows-from-rbl-bank-acquisition-weakening-dollar/article70182983.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/jtl2xq/article70183356.ece/alternates/LANDSCAPE_1200/PO01_Rupee.jpg",
-      "PublishedAt": "2025-10-19T16:07:06Z",
-      "Content": "The rupee, which gained 71 paise last week, may get further support on potential inflows of $3 billion from the proposed acquisition of up to 60 per cent stake in RBL Bank by Emirates NBD and the pos… [+2001 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bitcoinist"
-      },
-      "Author": "Scott Matherson",
-      "Title": "Robert Kiyosaki Calls US Dollar Fake Money, Urges Move To Gold And Bitcoin",
-      "Description": "Popular financial educator and “Rich Dad Poor Dad” author Robert Kiyosaki has once again criticized the US dollar, calling it “fake money” and warning that inflation is making life harder for the poor and middle class.  In one of his recent posts on the socia…",
-      "Url": "https://bitcoinist.com/robert-kiyosaki-calls-us-dollar-fake-money-urges-move-to-gold-and-bitcoin/",
-      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2025/10/a_9c69ee.jpg",
-      "PublishedAt": "2025-10-19T08:00:14Z",
-      "Content": "Popular financial educator and “Rich Dad Poor Dad” author Robert Kiyosaki has once again criticized the US dollar, calling it “fake money” and warning that inflation is making life harder for the poo… [+2887 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Show 487 of Paul's Memory Bank tonight (8PM EDT). Some protest and \"antifa\" music tonight, with some of the normal fare mixed in. On \"The Adventures of Superman\", parts 6 to 10 of \"The Yellow Mask and the Five Million Dollar Jewel Robbery\" [Live]",
-      "Description": "Show 487 of Paul's Memory Bank tonight (8PM EDT). Some protest and \"antifa\" music tonight, with some of the normal fare mixed in. On \"The Adventures of Superman\", parts 6 to 10 of \"The Yellow Mask and the Five Million Dollar Jewel Robbery\"",
-      "Url": "https://www.fark.com/comments/13849688/Show-487-of-Pauls-Memory-Bank-tonight-8PM-EDT-Some-protest-antifa-music-tonight-with-some-of-normal-fare-mixed-in-On-The-Adventures-of-Superman-parts-6-to-10-of-The-Yellow-Mask-the-Five-Million-Dollar-Jewel-Robbery",
-      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-      "PublishedAt": "2025-10-18T23:30:27Z",
-      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneydigest.com"
-      },
-      "Author": "Tamilore Onikosi",
-      "Title": "You're Wasting Money If You Buy This Kind Of Household Item At A Dollar Store",
-      "Description": "As prices continue to rise, more and more of us will be tempted to turn to the dollar store. Some items, however, are always worth splashing out on.",
-      "Url": "https://www.moneydigest.com/1994785/wasting-money-buy-tools-at-dollar-store/",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/DXwIhEQ7o0gZ7ajgufUhYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/money_digest_articles_438/3fb0aadee5d2d68f5aa4263052c92f93",
-      "PublishedAt": "2025-10-18T16:30:00Z",
-      "Content": "Shopping at a dollar store is always a tricky thing to do: On the one hand, you're there to get value for your money, but on the other hand, getting the wrong items will cost you more than it should … [+3883 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneydigest.com"
-      },
-      "Author": "Toni Matthews - El",
-      "Title": "12 Groceries You Should Buy At Dollar Tree To Save You Money",
-      "Description": "Shipping at Dollar Tree often means lower prices than at competing retailers, especially on brands including Kraft, Nutella, and others.",
-      "Url": "https://www.moneydigest.com/1996489/best-household-items-buy-at-dollar-store/",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/wPmcK.nVnnjvwe0tYv3c9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/money_digest_articles_438/de89db466410f6d3a7da0f4f9bc292ff",
-      "PublishedAt": "2025-10-17T17:15:00Z",
-      "Content": "When it comes to food shopping, saving money is essential to customers looking for ways to get around the rising cost of groceries. Food prices have increased by 29% from where they were in early 202… [+16505 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Vassilis Karamanis and Carter Johnson",
-      "Title": "Dollar on Edge of Worst Week Since August on Fed Bets, Bank Woes",
-      "Description": "The Bloomberg Dollar Spot Index edged higher on Friday but is still on pace to lose some 0.4% since Monday’s open, the largest weekly decline since August.  ...",
-      "Url": "https://finance.yahoo.com/news/dollar-set-worst-week-since-062541155.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/as7LtDeoPqjQ80fDb.2nWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a57d3f710631ac01a3761da6fb92031c",
-      "PublishedAt": "2025-10-17T14:20:11Z",
-      "Content": "(Bloomberg) -- The dollar traded on the cusp of its worst week in more than two months as expectations of Federal Reserve interest-rate cuts coupled with emerging credit risks in the US banking secto… [+3629 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Survivalblog.com"
-      },
-      "Author": "SurvivalBlog Contributor",
-      "Title": "Gold: The US Dollar Bank Run Is Speeding Up, by Hubert Moolman",
-      "Description": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and nations are running to an asset like gold as a reserve asset …",
-      "Url": "https://survivalblog.com/2025/10/18/gold-the-us-dollar-bank-run-is-speeding-up-by-hubert-moolman/",
-      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2025/10/October-2025-Gold-Chart.jpg",
-      "PublishedAt": "2025-10-17T12:16:20Z",
-      "Content": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and n… [+2589 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Jim Edwards",
-      "Title": "Plummeting bank stocks lead global selloff as fear of private credit ‘contagion’ moves across equities and the dollar",
-      "Description": "The fear is that \"the U.S. business environment and credit quality are in a poorer state than what data suggests,\" ING said in a note this morning.",
-      "Url": "https://fortune.com/2025/10/17/bank-stocks-global-selloff-private-credit-contagion-dollar/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1296010680.jpg?resize=1200,600",
-      "PublishedAt": "2025-10-17T11:21:14Z",
-      "Content": "S&amp;P 500 futures were down more than a full percentage point this morning, after markets in Asia and Europe sold off heavily in reaction to two small regional U.S. banks that reported exposure to … [+3830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Jim Edwards",
-      "Title": "Plummeting bank stocks lead global selloff as fear of private credit ‘contagion’ moves across equities and the dollar",
-      "Description": "The fear is that “the U.S. business environment and credit quality are in a poorer state than what data suggests,” ING said in a note this morning.",
-      "Url": "https://finance.yahoo.com/news/plummeting-bank-stocks-lead-global-112114182.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/GKT8oSsB0nBvNIpZ1wyxDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjM-/https://media.zenfs.com/en/fortune_175/73290295bd7beaed528238d2bb812767",
-      "PublishedAt": "2025-10-17T11:21:14Z",
-      "Content": "<ul><li>Global markets fell sharply after two U.S. regional banks disclosed exposure to fraudulent loans, sparking fears of wider problems in the private credit market. Bank stocks, Asian and Europea… [+4209 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Survivalblog.com"
-      },
-      "Author": "SurvivalBlog Contributor",
-      "Title": "Gold: The US Dollar Bank Run Is Speeding Up, by Hubert Moolman",
-      "Description": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and nations are running to an asset like gold as a reserve asset …",
-      "Url": "https://survivalblog.com/2025/10/17/gold-the-us-dollar-bank-run-is-speeding-up-by-hubert-moolman/",
-      "UrlToImage": "https://survivalblog.com/wp-content/uploads/2025/10/October-2025-Gold-Chart.jpg",
-      "PublishedAt": "2025-10-17T03:39:09Z",
-      "Content": "Previously, I have shown how the US dollar banking system is in the midst of a bank run. We have entered the critical part of this bank run. The US dollar banking system has become too debased, and n… [+2589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheWrap"
-      },
-      "Author": "Sharon Waxman",
-      "Title": "What Happened to Saudi Blood Money? Hollywood Gives the Kingdom a Green Light With Billion-Dollar Investment in Arena SNK",
-      "Description": "It's a new day for taking Saudi cash. “Everything is complicated,” an individual close to the company tells TheWrap. “That’s the world we’re in”\nThe post What Happened to Saudi Blood Money? Hollywood Gives the Kingdom a Green Light With Billion-Dollar Investm…",
-      "Url": "https://www.thewrap.com/saudi-hollywood-greenlight-1-billion-investment-arena-snk/",
-      "UrlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/10/101425-Mohammed-bin-Salman-v1.jpg?fit=1200%2C675&quality=89&ssl=1",
-      "PublishedAt": "2025-10-15T13:00:00Z",
-      "Content": "In case you were wondering whether Hollywood was having second thoughts about Saudi involvement in the entertainment industry, the answer came in a quiet press release on Tuesday with $1 billion wort… [+4764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Drum"
-      },
-      "Author": "Margo Waldrop",
-      "Title": "How Revolve is utilizing AI styling to fix fashion’s billion-dollar returns problem",
-      "Description": "The retailer’s new collaboration with Zelig turns shopping into a real-time styling experience – one that promises to boost confidence, cut waste and reimagine how fashion discovery works online.The online fashion industry has a dirty secret: for every four g…",
-      "Url": "https://www.thedrum.com/news/2025/10/14/how-revolve-utilizing-ai-styling-fix-fashion-s-billion-dollar-returns-problem",
-      "UrlToImage": "https://thedrum-media.imgix.net//thedrum-prod/s3/news/357179/1_zelig_revolve_build_a_look_product_listing_page.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "PublishedAt": "2025-10-14T18:39:00Z",
-      "Content": "The retailers new collaboration with Zelig turns shopping into a real-time styling experience one that promises to boost confidence, cut waste and reimagine how fashion discovery works online.The onl… [+3636 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": null,
-      "Title": "Alex Murdaugh’s money man pays the price after admitting role in million-dollar crime scheme",
-      "Description": "Russell Laffitte gets 13-year sentence and must pay $3.5 million restitution for financial crimes that helped Alex Murdaugh conceal fraudulent schemes for years.",
-      "Url": "https://www.foxnews.com/us/alex-murdaughs-money-man-pays-price-after-admitting-role-million-dollar-crime-scheme",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/alex-murdaugh-russell-laffitte_02.jpg",
-      "PublishedAt": "2025-10-13T19:32:13Z",
-      "Content": "A former banker and accomplice of Alex Murdaugh has learned his fate after pleading guilty to eight felony charges stemming from financial crimes committed alongside the convicted murderer. \r\nA South… [+3613 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ETMarkets.com",
-      "Title": "Bull run for gold & silver likely to continue on central bank demand, weaker dollar: Kotak AMC's Nilesh Shah",
-      "Description": "Gold and silver are expected to stay supported in the coming months, driven by central bank demand, a weakening dollar, and supply constraints. Kotak AMC’s Nilesh Shah highlights that these factors, alongside festival-driven premiums, make precious metals a k…",
-      "Url": "https://economictimes.indiatimes.com/markets/expert-view/bull-run-for-gold-silver-likely-to-continue-on-central-bank-demand-weaker-dollar-kotak-amcs-nilesh-shah/articleshow/124477318.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-124477305,width-1200,height-630,imgsize-10168,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-10-11T11:38:30Z",
-      "Content": "Precious metals are likely to remain supported in the coming months, driven by strong central bank demand, US monetary policy shifts, and supply constraints, according to Nilesh Shah, Managing Direct… [+2446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Government Bank worried about threats of a \"sharp repricing of US dollar assets\" [Murica]",
-      "Description": "Government Bank worried about threats of a \"sharp repricing of US dollar assets\"",
-      "Url": "https://www.fark.com/comments/13839630/Government-Bank-worried-about-threats-of-a-sharp-repricing-of-US-dollar-assets",
-      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-      "PublishedAt": "2025-10-09T16:02:33Z",
-      "Content": "imashark:AI will work because it has to work for companies to continue to exist. Many major companies with reach into every part of the US economy that have bet major portions of their business on AI… [+86 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Interbank Market: Cedi sells at GH¢12.40 to a dollar",
-      "Description": "Ghana’s local currency has recently experienced a slight depreciation against major trading currencies, particularly the US dollar.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Cedi-sells-at-GH-12-40-to-a-dollar-2004315",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/995/99591355.jpg",
-      "PublishedAt": "2025-10-09T08:17:25Z",
-      "Content": "Ghanas local currency has recently experienced a slight depreciation against major trading currencies, particularly the US dollar. \r\nThis comes after the cedi crossed the government's GH¢12 target on… [+1197 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Japan Today"
-      },
-      "Author": null,
-      "Title": "What would you like to see the yen-dollar exchange rate stabilize at?",
-      "Description": "",
-      "Url": "https://japantoday.com/category/have-your-say/what-would-you-like-to-see-the-yen-dollar-exchange-rate-stabilize-at-1",
-      "UrlToImage": null,
-      "PublishedAt": "2025-10-06T21:23:28Z",
-      "Content": "The Best Fukui Itinerary: Dinosaurs, Rainbows and Surf\r\nFukui is a coastal prefecture easily accessible from Tokyo; away from crowds and tourists, but with plenty to do, see and taste."
     }
   ]
 }
