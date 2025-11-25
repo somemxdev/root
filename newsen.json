@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -262,32 +262,6 @@
       "UrlToImage": "https://media.zenfs.com/en/reuters.com/c906c4729ed593cf1000fc65d90a590f",
       "PublishedAt": "2025-10-27T09:33:21Z",
       "Content": "By Stefano Rebaudo and Rocky Swift\r\n(Reuters) -The U.S. dollar was mixed on Monday, coming off a six-day rally against the yen and a three-day losing streak versus the euro, as investors braced for a… [+3980 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Former Julius Baer relationship manager jailed for involvement in billion-dollar money laundering case",
-      "Description": "Liu Kai's case relates to his assistance of Lin Baoying - one of the 10 people convicted in the case earlier - while he was a relationship manager at the bank's Singapore branch.",
-      "Url": "https://www.channelnewsasia.com/singapore/liu-kai-billion-dollar-money-laundering-case-lin-baoying-forgery-5422696",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--3S0lOMsZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/tdy/image/2024/07/04/20200506_ili_state_courts.jpeg?itok=g_ZxQEbA",
-      "PublishedAt": "2025-10-24T09:04:06Z",
-      "Content": "Lin later sent Liu a tax payment certificate purportedly issued by the Chinese tax authorities as proof of her income for the application.\r\nLiu suspected that the document was forged, via edits made … [+1154 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "GlobeNewswire",
-      "Title": "USBC Partners with Uphold and Vast Bank to Launch the First Retail Tokenized Deposits, Designed to Provide Worldwide Access to U.S. Dollar Deposit Accounts",
-      "Description": "Combines traditional banking protections with blockchain innovation, bringing real U.S. dollar deposits securely on-chain with global accessibility RENO, Nev., Oct. 23, 2025 (GLOBE NEWSWIRE) — USBC, Inc. (NYSE American: USBC) (“USBC” or the “Company”), an ind…",
-      "Url": "https://financialpost.com/globe-newswire/usbc-partners-with-uphold-and-vast-bank-to-launch-the-first-retail-tokenized-deposits-designed-to-provide-worldwide-access-to-u-s-dollar-deposit-accounts",
-      "UrlToImage": null,
-      "PublishedAt": "2025-10-23T20:07:41Z",
-      "Content": "Combines traditional banking protections with blockchain innovation, bringing real U.S. dollar deposits securely on-chain with global accessibility\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSub… [+5616 chars]"
     }
   ]
 }
