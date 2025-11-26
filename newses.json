@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘aprovecha’ la debilidad del dólar: Así cotiza HOY 25 de noviembre",
+      "Description": "El peso mexicano tiene un leve avance este martes, impulsado por datos económicos locales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/25/peso-dolar-tipo-de-cambio-hoy-25-de-noviembre/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YMKYERZNQNFHXONDRH3X34P6HE.jpg?smart=true&auth=de5d58e69d74ff123caefb21af725e67b6af824cec80e1379ccdad32a824e5d0&width=1200&height=630",
+      "PublishedAt": "2025-11-25T15:50:26Z",
+      "Content": "El peso mexicano inicia la sesión con ganancias, apoyado por un debilitamiento del dólar, dadas las expectativas de que la Reserva Federal (Fed) podría reducir nuevamente su tasa de interés este año.… [+1490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso se recupera de pérdidas de sesión previa! Precio del dólar hoy 25 de noviembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera en la sesión de este martes, con lo que el precio del dólar hoy 25 de noviembre de 2025 cotiza en $18.43 unidades; conoce aquí el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una ganancia del…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-25-noviembre-2025/1753691",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/25/3423041.jpg",
+      "PublishedAt": "2025-11-25T14:29:22Z",
+      "Content": "El peso mexicano se recupera en la sesión de este martes, con lo que el precio del dólar hoy 25 de noviembre de 2025 cotiza en $18.43 unidades; conoce aquí el tipo de cambio en bancos de México.\r\nLa … [+1380 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Negocios,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 25 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 25 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.47 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.El peso mexicano cotizaba estable ayer, por una baja del dólar…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/01/cotiza-peso-mexicano-frente-dolar.jpg",
+      "PublishedAt": "2025-11-25T12:13:00Z",
+      "Content": "El dólar HOY 25 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.47 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.\r\n… [+708 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY martes 25 de noviembre de 2025: Tipo de cambio actual",
+      "Description": "Este martes 25 de noviembre de 2025 el precio del dólar se exhibe en un promedio de 18.4365 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/25/precio-del-dolar-en-mexico-hoy-martes-25-de-noviembre-de-2025-tipo-de-cambio-actual-420543.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/25/f1280x720-479411_611086_5050.jpeg",
+      "PublishedAt": "2025-11-25T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este segundo día de la semana tienes pensado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya sea… [+2086 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "lanacionar",
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este martes 25 de noviembre",
+      "Description": "Consulta el precio del dólar en México hoy, martes 25 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-martes-25-de-noviembre-nid25112025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-11-25T11:58:50Z",
+      "Content": "Sobre el precio del dólar en Elektra, este 25 de noviembre abrió con la referencia del lunes en $17,10 a la compra y $18,99 a la venta. Es el mismo número en la consulta del precio del dólar hoy en B… [+11 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/36ZBQH2ATVH2JJJ4IG2H4O5Z4I.jpg?smart=true&auth=7c149630ebb5f2c4bd8e790cab9d042d7fb98c31e123b4847f7c0dae36aaae79&width=1200&height=630",
       "PublishedAt": "2025-11-19T15:32:22Z",
       "Content": "Pese a un avance en el fortalecimiento para el dólar estadounidense, el peso mexicano también se ve apuntalado a medida que el apetito por activos de riesgo se reanuda este miércoles 19 de noviembre.… [+1712 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso avanza levemente! Precio del dólar hoy 19 de noviembre de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se anota su segunda jornada de avances, con lo que el precio del dólar hoy 19 de noviembre de 2025 cotiza en $18.32 por dólar; conoce aquí el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una ganancia del…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-mexico-19-noviembre-2025/1752515",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/19/3419663.jpg",
-      "PublishedAt": "2025-11-19T15:09:06Z",
-      "Content": "El peso mexicano se anota su segunda jornada de avances, con lo que el precio del dólar hoy 19 de noviembre de 2025 cotiza en $18.32 por dólar; conoce aquí el tipo de cambio en bancos de México.\r\nLa … [+1149 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 19 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 19 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.32 pesos mexicanos por billete verde, con una ligera pérdida del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ante un retroceso generalizado d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/27/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2025-11-19T13:40:00Z",
-      "Content": "El dólar HOY 19 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.32 pesos mexicanos por billete verde, con una ligera pérdida del 0.10 por ciento, según datos de Bloomberg.\r\n… [+445 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY miércoles 19 de noviembre de 2025: Tipo de cambio actual",
-      "Description": "Este miércoles 19 de noviembre de 2025 el precio del dólar se muestra en un promedio de 18.3093 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/19/precio-del-dolar-en-mexico-hoy-miercoles-19-de-noviembre-de-2025-tipo-de-cambio-actual-419951.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/19/f1280x720-478561_610236_5050.jpeg",
-      "PublishedAt": "2025-11-19T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este tercer día de la semana tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya sea… [+2102 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "lanacionar",
-      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este miércoles 19 de noviembre",
-      "Description": "Consulta el precio del dólar en México hoy, miércoles 19 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-miercoles-19-de-noviembre-nid19112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-2IFKMNLDZBDTRBLETYINZMHI7Y.jpg?auth=170d6592b14e738f240088691425f53058ac1e515205ed5f694568ca8580742d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-19T11:47:31Z",
-      "Content": "Sobre el precio del dólar en Elektra, este 19 de noviembre, abrió con la referencia del día previo en $17 a la compra y $18,84 a la venta. Es el mismo número en la consulta del precio del dólar hoy e… [+14 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Rafael Ciruelos",
-      "Title": "El sector salud consolida su posición como refugio y las razones para reducir el peso del dólar en su cartera",
-      "Description": "En un entorno de elevada volatilidad macroeconómica, el sector salud se afianza como una de las apuestas más sólidas para los inversores que buscan estabilidad, innovación y...",
-      "Url": "https://www.elmundo.es/economia/ahorro-y-consumo/2025/11/19/69161112e9cf4a2d098b4595.html",
-      "UrlToImage": "https://phantom-elmundo.uecdn.es/41bafe6da66dafdd7d0ad6efc9d64222/crop/0x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/14/17631390440350.jpg",
-      "PublishedAt": "2025-11-18T23:05:52Z",
-      "Content": "En un entorno de elevada volatilidad macroeconómica, el sector salud se afianza como una de las apuestas más sólidas para los inversores que buscan estabilidad, innovación y valoraciones atractivas. … [+3925 chars]"
     }
   ]
 }
