@@ -1,20 +1,72 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con leve ganancia! Precio del dólar hoy 2 de diciembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se mantiene estable en la jornada de este martes, con lo que el precio del dólar hoy 2 de diciembre de 2025 cotiza en $28.28 unidades; conoe aquí el tipo de cambio en bancos.\r\n\nLa divisa mexicana registra una leve ganancia d…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-2-diciembre-2025/1755042",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/02/3427705.jpg",
+      "PublishedAt": "2025-12-02T15:21:28Z",
+      "Content": "El peso mexicano se mantiene estable en la jornada de este martes, con lo que el precio del dólar hoy 2 de diciembre de 2025 cotiza en $28.28 unidades; conoe aquí el tipo de cambio en bancos.\r\nLa div… [+1187 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "lanacionar",
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este martes 2 de diciembre",
+      "Description": "Consulta el precio del dólar en México hoy, martes 2 de diciembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-martes-2-de-diciembre-nid02122025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=1200&quality=70&smart=false&height=801",
+      "PublishedAt": "2025-12-02T13:25:30Z",
+      "Content": "Sobre el precio del dólar en Elektra, este martes 2 de diciembre abrió en $17,35 a la compra y $18,79 a la venta. Es el mismo número en la consulta del precio del dólar hoy en Banco Azteca."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY martes 2 de diciembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 2 de diciembre inicia operaciones con el tipo de cambio interbancario en 18.31pesos mexicanos por billete verde, con una ligera ganancia de 0.05 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba levemente ayer al inicio de una se…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-2-diciembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/31/lugar-donde-se-vende-mas.jpeg",
+      "PublishedAt": "2025-12-02T12:14:00Z",
+      "Content": "El dólar HOY 2 de diciembre inicia operaciones con el tipo de cambio interbancario en 18.31 pesos mexicanos por billete verde, con una ligera ganancia de 0.05 por ciento, según datos de Bloomberg.\r\nE… [+709 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar HOY en México MARTES 2 de diciembre de 2025: ¿Cómo amaneció el peso mexicano?",
+      "Description": "Este martes 2 de diciembre de 2025 el precio del dólar se muestra en un promedio de 18.3153 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/12/2/precio-del-dolar-hoy-en-mexico-martes-de-diciembre-de-2025-como-amanecio-el-peso-mexicano-421237.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/12/2/f1280x720-480442_612117_7373.jpeg",
+      "PublishedAt": "2025-12-02T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este segundo día del mes tienes planeado realizar operaciones que contemplan a la moneda oficial de los Estados Unidos (EU)? Si la respuesta es positiva, ya sea para compras o ven… [+2052 chars]"
+    },
     {
       "Source": {
         "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
-      "Title": "Peso ‘aprovecha’ la debilidad del dólar: Así cotiza HOY 25 de noviembre",
-      "Description": "El peso mexicano tiene un leve avance este martes, impulsado por datos económicos locales.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/25/peso-dolar-tipo-de-cambio-hoy-25-de-noviembre/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YMKYERZNQNFHXONDRH3X34P6HE.jpg?smart=true&auth=de5d58e69d74ff123caefb21af725e67b6af824cec80e1379ccdad32a824e5d0&width=1200&height=630",
-      "PublishedAt": "2025-11-25T15:50:26Z",
-      "Content": "El peso mexicano inicia la sesión con ganancias, apoyado por un debilitamiento del dólar, dadas las expectativas de que la Reserva Federal (Fed) podría reducir nuevamente su tasa de interés este año.… [+1490 chars]"
+      "Title": "Peso arranca diciembre con ganancias ante el dólar: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "Felipe Mendoza, CEO de IMB Capital Quants, advirtió que a pesar de la ganancia del peso, la moneda está 'amenazada' por el estancamiento del PIB y la inflación.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/12/01/peso-dolar-precio-hoy-1-de-diciembre-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XEDKABZGD5BDFFUXKYXBRGWMZM.jpg?smart=true&auth=5f10841d8a45759eb9577ad9c62cb1785bffb511f88fbd355c626250b8079c99&width=1200&height=630",
+      "PublishedAt": "2025-12-01T16:32:05Z",
+      "Content": "El dólar retrocede ante el peso mexicano y monedas de mercados emergentes este lunes 1 de diciembre debido a que especialistas subieron a 90 por ciento la probabilidad de que la Reserva Federal recor… [+1632 chars]"
     },
     {
       "Source": {
@@ -22,103 +74,12 @@
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera de pérdidas de sesión previa! Precio del dólar hoy 25 de noviembre de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera en la sesión de este martes, con lo que el precio del dólar hoy 25 de noviembre de 2025 cotiza en $18.43 unidades; conoce aquí el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una ganancia del…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-25-noviembre-2025/1753691",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/25/3423041.jpg",
-      "PublishedAt": "2025-11-25T14:29:22Z",
-      "Content": "El peso mexicano se recupera en la sesión de este martes, con lo que el precio del dólar hoy 25 de noviembre de 2025 cotiza en $18.43 unidades; conoce aquí el tipo de cambio en bancos de México.\r\nLa … [+1380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 25 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 25 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.47 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.El peso mexicano cotizaba estable ayer, por una baja del dólar…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/01/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2025-11-25T12:13:00Z",
-      "Content": "El dólar HOY 25 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.47 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.\r\n… [+708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY martes 25 de noviembre de 2025: Tipo de cambio actual",
-      "Description": "Este martes 25 de noviembre de 2025 el precio del dólar se exhibe en un promedio de 18.4365 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/25/precio-del-dolar-en-mexico-hoy-martes-25-de-noviembre-de-2025-tipo-de-cambio-actual-420543.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/25/f1280x720-479411_611086_5050.jpeg",
-      "PublishedAt": "2025-11-25T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este segundo día de la semana tienes pensado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya sea… [+2086 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "lanacionar",
-      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este martes 25 de noviembre",
-      "Description": "Consulta el precio del dólar en México hoy, martes 25 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-martes-25-de-noviembre-nid25112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-BG7QEDYEOVCCHIZZ43ERXRV5FI.jpg?auth=849d0bb91ff689ebe9cf3b9d86df3c26611104c6e92fb82f016a4105159dcc8b&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-25T11:58:50Z",
-      "Content": "Sobre el precio del dólar en Elektra, este 25 de noviembre abrió con la referencia del lunes en $17,10 a la compra y $18,99 a la venta. Es el mismo número en la consulta del precio del dólar hoy en B… [+11 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes México Staff",
-      "Title": "Peso hila cinco sesiones con pérdidas ante un dólar fortalecido",
-      "Description": "Forbes México.\n Peso hila cinco sesiones con pérdidas ante un dólar fortalecido\n\nEl dólar se ubica en 18.5133 pesos, una depreciación de 0.15% para la moneda nacional frente a la sesión previa, según datos de cierre de Banxico.\nPeso hila cinco sesiones con pé…",
-      "Url": "https://forbes.com.mx/peso-hila-cinco-sesiones-con-perdidas-ante-un-dolar-fortalecido/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2025/04/peso-mexicano-1.webp",
-      "PublishedAt": "2025-11-24T22:23:01Z",
-      "Content": "El peso descendió este lunes e hiló cinco sesiones con pérdidas, mientras que la BMV avanzó con fuerza, en medio de un alza de las expectativas de que la Reserva Federal recorte las tasas de interés … [+3810 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Emiliano Carrizo",
-      "Title": "Wells Fargo tiene en su lista de monedas más vulnerables al peso chileno y plantea escenarios con el dólar sobre $1.000",
-      "Description": "El banco estadounidense planteó que la depreciación de la moneda nacional estaría ligada al actuar de la Reserva Federal.",
-      "Url": "https://www.latercera.com/pulso/noticia/wells-fargo-tiene-en-su-lista-de-monedas-mas-vulnerables-al-peso-chileno-y-plantea-escenarios-con-el-dolar-sobre-1000/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/E2TBI4OJ4NG65CTTV6ILSWDIKY.jpg?auth=610dea72de8a0bb0869d18c6037f9a36b789addfc7054637bc691353201518db&height=630&width=1200&smart=true",
-      "PublishedAt": "2025-11-24T18:36:37Z",
-      "Content": "La incertidumbre en relación con el futuro de las tasas de interés en Estados Unidos motivó al banco estadounidense Wells Fargo a ubicar al peso chileno como una de las monedas más vulnerables. \r\nSeg… [+1882 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Arturo Luna",
-      "Title": "Peso ‘amanece’ con ganancias frente al dólar por posible recorte en la Fed: ¿En cuánto se vende HOY?",
-      "Description": "El peso se aprecia +¿en las primeras horas de cotización de este lunes 24 de noviembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/24/peso-dolar-tipo-de-cambio-hoy-24-de-noviembre-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XFWFJGZ2MFCMRGU6HSKTN6TLRA.png?smart=true&auth=7ad96a23b2fe9f6f0c3221b85cfc98fb933326755c8bc8732c2e8690e5e47ee3&width=1200&height=630",
-      "PublishedAt": "2025-11-24T15:19:32Z",
-      "Content": "El peso mexicano se aprecia de manera moderada en las primeras horas de cotización de este lunes 24 de noviembre.\r\nLa divisa mexicana presenta una apreciación moderada en las primeras horas derivado … [+1745 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso cotiza estable tras dato de inflación! Precio del dólar hoy 24 de noviembre de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano arranca la jornada estable tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 24 de noviembre de 2025 cotiza en $18.45 unidades; conoce aquí el tipo de cambio en bancos del país.\r\n\nLa divisa mex…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-24-noviembre-2025/1753491",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/24/3422457.jpg",
-      "PublishedAt": "2025-11-24T15:03:12Z",
-      "Content": "El peso mexicano arranca la jornada estable tras darse a conocer el dato de la inflación, con lo que el precio del dólar hoy 24 de noviembre de 2025 cotiza en $18.45 unidades; conoce aquí el tipo de … [+1140 chars]"
+      "Title": "¡Peso arranca el mes con ganancias! Precio del dólar hoy 1 de diciembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano se aprecia en la jornada de este lunes, con lo que el precio del dólar hoy 1 de diciembre de 2025 cotiza en $18.26 unidades; conoce aquí el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una alza del 0.13%…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-1-diciembre-2025/1754841",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/01/3426975.jpg",
+      "PublishedAt": "2025-12-01T15:07:58Z",
+      "Content": "El peso mexicano se aprecia en la jornada de este lunes, con lo que el precio del dólar hoy 1 de diciembre de 2025 cotiza en $18.26 unidades; conoce aquí el tipo de cambio en bancos de México.\r\nLa di… [+1516 chars]"
     },
     {
       "Source": {
@@ -126,12 +87,12 @@
         "Name": "Milenio"
       },
       "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY lunes 24 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 24 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.44 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el viernes ante un retroceso gen…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/26/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2025-11-24T13:21:00Z",
-      "Content": "El dólar HOY 24 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.44 pesos mexicanos por billete verde, con una ligera pérdida del 0.19 por ciento, según datos de Bloomberg.\r\n… [+432 chars]"
+      "Title": "Precio del dólar HOY lunes 1 de diciembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 1 de diciembre inicia operaciones con el tipo de cambio interbancario en 18.27 pesos mexicanos por billete verde, con una ligera pérdida del 0.09 por ciento, según datos de Bloomberg.El peso mexicano cotizaba estable, en medio del feriado en Esta…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-diciembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/10/cotiza-peso-mexicano-dolar-septiembre.jpg",
+      "PublishedAt": "2025-12-01T12:08:00Z",
+      "Content": "El peso mexicano se apreció con 0.27 por ciento, cerrando la jornada semanal con 18.29 unidades por dólar, el pasado viernes 28 de noviembre de 2025.\r\nMientras que la bolsa avanzó con fuerza también … [+759 chars]"
     },
     {
       "Source": {
@@ -139,12 +100,12 @@
         "Name": "Tribuna.com.mx"
       },
       "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY en México lunes 24 de noviembre de 2025: Tipo de cambio actual",
-      "Description": "Este lunes 24 de noviembre de 2025 el precio del dólar se muestra en un promedio de 18.4659 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/24/precio-del-dolar-hoy-en-mexico-lunes-24-de-noviembre-de-2025-tipo-de-cambio-actual-420408.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/24/f1280x720-479221_610896_5050.jpg",
-      "PublishedAt": "2025-11-24T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este primer día hábil de la semana tienes pensado realizar operaciones que contemplan a la moneda oficial de los Estados Unidos (EU)? Si la respuesta es positiva, ya sea para comp… [+1949 chars]"
+      "Title": "Precio del dólar en México HOY LUNES 1 de diciembre de 2025: Así amaneció el tipo de cambio",
+      "Description": "Este lunes 1 de diciembre de 2025 el precio del dólar se exhibe en un promedio de 18.2685 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/12/1/precio-del-dolar-en-mexico-hoy-lunes-de-diciembre-de-2025-asi-amanecio-el-tipo-de-cambio-421124.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/12/1/f1280x720-480282_611957_5050.jpg",
+      "PublishedAt": "2025-12-01T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este primer día del mes tienes planeado realizar operaciones que contemplan a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya sea para com… [+2056 chars]"
     },
     {
       "Source": {
@@ -152,12 +113,25 @@
         "Name": "La Nacion"
       },
       "Author": "lanacionar",
-      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este lunes 24 de noviembre",
-      "Description": "Consulta el precio del dólar en México hoy, lunes 24 de noviembre , según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-lunes-24-de-noviembre-nid24112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-24-de-FEPSCRII2RGJHCR4HVFFSGGKTY.jpg?auth=22328702219df09780a4108d9cf5defd6c75a55f37d63bdcc269d392b04f6cd6&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-24T11:11:49Z",
-      "Content": "Sobre el precio del dólar en Elektra, este lunes 24 de noviembre abrió con la referencia del viernes en $17,05 a la compra y $18,94 a la venta. Es el mismo número en la consulta del precio del dólar … [+19 chars]"
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este lunes 1º de diciembre",
+      "Description": "Consulta el precio del dólar en México hoy, lunes 1º de diciembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-lunes-1-de-diciembre-nid01122025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-lunes-1o-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-12-01T10:12:00Z",
+      "Content": "Sobre el precio del dólar en Elektra, este lunes 1º de diciembre abrió con la referencia de la jornada previa en $17 a la compra y $18,79 a la venta. Es el mismo número en la consulta del precio del … [+25 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "La fortaleza del peso este año, reflejo de la debilidad del dólar",
+      "Description": "En 2025, la fortaleza del peso mexicano es la debilidad del dólar. La moneda nacional acumula una ganancia de 12.4 por ciento en lo que va del año, de acuerdo con datos del mercado interbancario del Banco de México (BdeM), mientras el índice DXY, que mide el …",
+      "Url": "https://www.jornada.com.mx/2025/12/01/economia/020n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-12-01T09:42:35Z",
+      "Content": "Periódico La JornadaLunes 1º de diciembre de 2025, p. 20\r\nEn 2025, la fortaleza del peso mexicano es la debilidad del dólar. La moneda nacional acumula una ganancia de 12.4 por ciento en lo que va de… [+3009 chars]"
     },
     {
       "Source": {
@@ -165,51 +139,38 @@
         "Name": "Tribuna.com.mx"
       },
       "Author": "Frida Tochimani",
-      "Title": "Tipo de cambio en México: Este es el precio del DÓLAR HOY domingo 23 de noviembre de 2025",
-      "Description": "Este domingo 23 de noviembre de 2025 el precio del dólar se exhibe en un promedio de 18.4700 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/23/tipo-de-cambio-en-mexico-este-es-el-precio-del-dolar-hoy-domingo-23-de-noviembre-de-2025-420323.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/23/f1280x720-479084_610759_5050.jpeg",
-      "PublishedAt": "2025-11-23T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Para los próximos días tienes planeado realizar operaciones que contemplan a la moneda oficial de los Estados Unidos (EU)? Si la respuesta es positiva, ya sea para compras o venta… [+2068 chars]"
+      "Title": "Precio del dólar en México HOY domingo 30 de noviembre: Así amaneció el tipo de cambio",
+      "Description": "Te decimos cuál es el precio del dólar expuesto en los bancos de México este domingo 30 de noviembre, previo al inicio de operaciones bancarias",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/30/precio-del-dolar-en-mexico-hoy-domingo-30-de-noviembre-asi-amanecio-el-tipo-de-cambio-421044.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/30/f1280x720-480145_611820_5050.jpeg",
+      "PublishedAt": "2025-11-30T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Para el siguiente mes tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya sea para c… [+2077 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Milenio"
       },
-      "Author": "Equipo MILENIO Negocios",
-      "Title": "Precio del dólar HOY sábado 22 de noviembre 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de noviembre, el tipo de cambio interbancario, se ubica en 18.47 pesos por unidad, con una pérdida del 0.23 por ciento, según datos de Bloomberg.Ayer, el peso mexicano retro…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/26/tipo-cambio-vende-dolar-bancos.jpg",
-      "PublishedAt": "2025-11-22T13:53:56Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de noviembre, el tipo de cambio interbancario, se ubica en 18.47 pesos por unidad, con una pérdida del 0.23 por c… [+1676 chars]"
+      "Author": "Milenio Negocios",
+      "Title": "Precio del dólar HOY sábado 29 de noviembre 2025 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 29 de noviembre el tipo de cambio interbancario, se ubica en 18.29 pesos por unidad, con una pérdida del 0.32 por ciento, según datos de Bloomberg.Ayer, el peso mexicano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
+      "PublishedAt": "2025-11-29T14:05:12Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy sábado 29 de noviembre el tipo de cambio interbancario, se ubica en 18.29 pesos por unidad, con una pérdida del 0.32… [+1728 chars]"
     },
     {
       "Source": {
         "Id": null,
         "Name": "Tribuna.com.mx"
       },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 22 de noviembre del 2025 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 22 de noviembre del 2025, y si es que el peso cayó ante el tipo de cambio este fin de semana",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/22/precio-del-dolar-hoy-sabado-22-de-noviembre-del-2025-en-mexico-conoce-cual-es-el-tipo-de-cambio-420253.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/5/30/f1280x720-451441_583116_5176.jpg",
-      "PublishedAt": "2025-11-22T12:00:00Z",
-      "Content": "Ciudad de México.- Como cada día, el precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, advirtiendo si la moneda mexic… [+2153 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso ‘se resbala’ previo al fin de semana: ¿Cómo cotiza HOY ante el dólar?",
-      "Description": "El peso mexicano sopesa la confirmación de la contracción del PIB en México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/21/peso-dolar-tipo-de-cambio-hoy-21-de-noviembre-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AM4ZRM4S7JAONKZIBPFCDF7OQY.jpg?smart=true&auth=aa2287a3fea53d51701ce46dea5470c77066dea27d18c21c2b238d6b33aa2abf&width=1200&height=630",
-      "PublishedAt": "2025-11-21T15:18:23Z",
-      "Content": "El peso mexicano presenta una depreciación moderada en las primeras horas de este viernes derivado de la aversión al riesgo, principalmente en los mercados de capitales de Asia y Europa.\r\nEsto afecta… [+1535 chars]"
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY sábado 29 de noviembre de 2025: Tipo de cambio actual",
+      "Description": "Este sábado 29 de noviembre de 2025 el precio del dólar se exhibe en un promedio de 18.3000 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/29/precio-del-dolar-en-mexico-hoy-sabado-29-de-noviembre-de-2025-tipo-de-cambio-actual-420961.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/29/f1280x720-480021_611696_5050.jpeg",
+      "PublishedAt": "2025-11-29T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Para los siguientes días tienes planeado realizar operaciones que contemplan a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya sea para co… [+2076 chars]"
     },
     {
       "Source": {
@@ -217,12 +178,25 @@
         "Name": "Excelsior.com.mx"
       },
       "Author": "vanessa.campuzano",
-      "Title": "¡Peso cede terreno! Precio del dólar hoy 21 de noviembre de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano hila su tercera jornada continua de retrocesos, con lo que el precio del dólar hoy 21 de noviembre de 2025 cotiza en $18.45 por dólar; conoce aquí el tipo de cambio en bancos de México.\r\n\nLa divisa mexicana registra una pérd…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-21-noviembre-2025/1753018",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/21/3421158.jpg",
-      "PublishedAt": "2025-11-21T14:16:31Z",
-      "Content": "El peso mexicano hila su tercera jornada continua de retrocesos, con lo que el precio del dólar hoy 21 de noviembre de 2025 cotiza en $18.45 por dólar; conoce aquí el tipo de cambio en bancos de Méxi… [+1224 chars]"
+      "Title": "¡Sube el peso! Precio del dólar hoy 28 de noviembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano arrancó la jornada con ganancias, con lo que el precio del dólar hoy 28 de noviembre de 2025 cotiza en $18.30 unidades; conoce aquí el tipo de cambios en bancos de México este viernes.\r\n\nLa divisa mexicana registra un avance…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-28-noviembre-2025/1754437",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/28/3425674.jpg",
+      "PublishedAt": "2025-11-28T18:13:47Z",
+      "Content": "El peso mexicano arrancó la jornada con ganancias, con lo que el precio del dólar hoy 28 de noviembre de 2025 cotiza en $18.30 unidades; conoce aquí el tipo de cambios en bancos de México este vierne… [+1111 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza frente al dólar... y es la séptima moneda más apreciada HOY: ¿Cómo abrió el tipo de cambio?",
+      "Description": "El peso mexicano inicia con ganancias frente al dólar y es la séptima divisa emergente más apreciada en la sesión.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/28/peso-dolar-tipo-de-cambio-hoy-28-de-noviembre-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/NIT226TAAVBBVOWTLCSCYQZHGM.jpg?smart=true&auth=ba1fa14720d93181def9b88179ace6b4f931b2e97e1e5e4aa3de31fb17a5ab74&width=1200&height=630",
+      "PublishedAt": "2025-11-28T16:54:16Z",
+      "Content": "El peso mexicano inicia la jornada con ganancias frente al dólar y se ubica como la séptima divisa emergente más apreciada en la sesión.\r\nDe acuerdo con las cifras de Bloomberg, el tipo de cambiorond… [+1796 chars]"
     },
     {
       "Source": {
@@ -230,12 +204,12 @@
         "Name": "La Nacion"
       },
       "Author": "lanacionar",
-      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este viernes 21 de noviembre",
-      "Description": "Consulta el precio del dólar en México hoy, viernes 21 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-viernes-21-de-noviembre-nid21112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-hoy-21-de-ZDALXWAWMNB5NNKXROMF44AU74.jpg?auth=52dc9d2bc80febd321dbddcf7fdadcd7085a0d3e78dd794aa88059524fcec35d&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-21T13:25:36Z",
-      "Content": "Sobre el precio del dólar en Elektra, este viernes 21 de noviembre, abrió en $16,90 a la compra y $18,84 a la venta. Es el mismo número en la consulta del precio del dólar hoy en Banco Azteca."
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este viernes 28 de noviembre",
+      "Description": "Consulta el precio del dólar en México hoy, viernes 28 de noviembre de 2025, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-viernes-28-de-noviembre-nid28112025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-SFG3THCPCVBC7FIVHLO7BKANCU.jpg?auth=d0efb2aae483994a0617a4d46a0b272a4b0cd1112d96da641bfa8a7b7f339a72&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-11-28T13:16:06Z",
+      "Content": "Sobre el precio del dólar en Elektra, este viernes 28 de noviembre, abrió en $16,90 a la compra y $18,79 a la venta. Es el mismo número en la consulta del precio del dólar hoy en Banco Azteca."
     },
     {
       "Source": {
@@ -243,12 +217,12 @@
         "Name": "Milenio"
       },
       "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 21 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 21 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.46 pesos mexicanos por billete verde, con una ligera ganancia del 0.44 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ante un retroceso generalizado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/26/tipo-cambio-vende-dolar-bancos.jpg",
-      "PublishedAt": "2025-11-21T12:12:00Z",
-      "Content": "El peso mexicano se depreció con 0.32 por ciento, cerrando la jornada en 18.39 unidades por dólar, ayer jueves 20 de noviembre de 2025.\r\nMientras que la bolsa revirtió fuertes alzas previas para caer… [+875 chars]"
+      "Title": "Precio del dólar HOY viernes 28 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 28 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.34 pesos mexicanos por billete verde, con una ligera pérdida del 0.07 por ciento, según datos de Bloomberg.El peso mexicano cotizaba estable ayer, en medio del feriado e…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-28-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/11/cotiza-peso-mexicano-frente-dolar.jpg",
+      "PublishedAt": "2025-11-28T12:09:00Z",
+      "Content": "El dólar HOY 28 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.34 pesos mexicanos por billete verde, con una ligera pérdida del 0.07 por ciento, según datos de Bloomberg.\r\n… [+621 chars]"
     },
     {
       "Source": {
@@ -256,25 +230,38 @@
         "Name": "Tribuna.com.mx"
       },
       "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY VIERNES 21 de noviembre de 2025: ¿Cuál es el tipo de cambio actual?",
-      "Description": "Este viernes 21 de noviembre de 2025 el precio del dólar se exhibe en un promedio de 18.5043 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/21/precio-del-dolar-en-mexico-hoy-viernes-21-de-noviembre-de-2025-cual-es-el-tipo-de-cambio-actual-420153.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/21/f1280x720-478861_610536_5050.jpg",
-      "PublishedAt": "2025-11-21T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Para este último día hábil de la semana tienes pensado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU)? Si la respuesta es positiva, ya sea pa… [+2066 chars]"
+      "Title": "Precio del dólar en México HOY viernes 28 de noviembre de 2025: Tipo de cambio actual",
+      "Description": "Este viernes 28 de noviembre de 2025 el precio del dólar se muestra en un promedio de 18.3423 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/28/precio-del-dolar-en-mexico-hoy-viernes-28-de-noviembre-de-2025-tipo-de-cambio-actual-420862.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/28/f1280x720-479871_611546_5050.jpeg",
+      "PublishedAt": "2025-11-28T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Para este último día hábil de la semana tienes planeado realizar operaciones que contemplan a la monedaoficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa… [+2093 chars]"
     },
     {
       "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
+        "Id": null,
+        "Name": "Eleconomista.es"
       },
-      "Author": "Melisa Reinhold",
-      "Title": "El dólar sube, tras la baja de tasas que anunció el Banco Central",
-      "Description": "El tipo de cambio mayorista avanza $10, pero sigue lejos del techo de la banda; el minorista se vende a $1440 en el Banco Nación",
-      "Url": "https://www.lanacion.com.ar/economia/el-dolar-sube-tras-la-baja-de-tasas-que-anuncio-el-banco-central-nid20112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-este-jueves-20-de-WAL3J7VKE5H4JIOPOAYIGNWKOE.jpg?auth=05af1f70800f19430707d893586885f43e3fd069f68aa78c3aa26f8bfbd4bf1c&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-20T18:11:57Z",
-      "Content": "Luego de que el Banco Central (BCRA) decidiera reducir las tasas simultáneas del 22% al 20% nominal anual, tanto el dólar oficial como los financieros responden con una ligera alza. La medida llega a… [+3059 chars]"
+      "Author": "Mario Becedas",
+      "Title": "El padre de la 'sonrisa del dólar' le augura mucha tristeza a la libra y otros analistas van más lejos: \"Está a una sola catástrofe de ver al euro por encima\"",
+      "Description": "Reino Unido ha vuelto a ser protagonista destacado en los mercados esta semana. El Gobierno laborista tenía que presentar un presupuesto de otoño que tranquilizara por igual a los inversores (los temidos vigilantes de los bonos) y a aquellos sectores más izqu…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/13666512/11/25/el-padre-de-la-sonrisa-del-dolar-le-augura-mucha-tristeza-a-la-libra-y-otros-analistas-van-mas-lejos-esta-a-una-sola-catastrofe-de-ver-al-euro-por-encima.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1254x684/6/9/b/1200x655_iStock-8236791041.jpg",
+      "PublishedAt": "2025-11-28T09:30:56Z",
+      "Content": "Reino Unido ha vuelto a ser protagonista destacado en los mercados esta semana. El Gobierno laborista tenía que presentar un presupuesto de otoño que tranquilizara por igual a los inversores (los tem… [+10826 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso, con pocos cambios! Precio del dólar hoy 27 de noviembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano registra pocos cambios en la sesión de este jueves, con lo que el precio del dólar hoy 27 de noviembre de 2025 cotiza en $18.34 unidades; conoce aquí el tipo de cambio en bancos del país.\r\n\nLa divisa mexicana registra una li…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-27-noviembre-2025/1754216",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/27/3424848.jpg",
+      "PublishedAt": "2025-11-27T18:04:47Z",
+      "Content": "El peso mexicano registra pocos cambios en la sesión de este jueves, con lo que el precio del dólar hoy 27 de noviembre de 2025 cotiza en $18.34 unidades; conoce aquí el tipo de cambio en bancos del … [+1113 chars]"
     },
     {
       "Source": {
@@ -282,64 +269,12 @@
         "Name": "El Financiero"
       },
       "Author": "Redacción",
-      "Title": "‘Si el peso se fuera con otro’... ¿Cuánto gana al dólar en Día de la Revolución?",
-      "Description": "El mercado también reacciona al 'sorprendente' reporte de empleo de EU de septiembre, que fue publicado hasta este 20 de noviembre por el cierre del Gobierno de EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/20/peso-dolar-precio-hoy-20-de-noviembre-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MCNIOXU5YFFVTM6VFIQE4TGTNM.png?smart=true&auth=a703105c9666af5ca374fd840a9490aab7c84c796b764161cf5508d417f588ce&width=1200&height=630",
-      "PublishedAt": "2025-11-20T16:33:48Z",
-      "Content": "El peso mexicano se adelanta al dólar en este 20 de noviembre, Día de la Revolución Mexicana, gracias a que los mercados tienen apetito por activos de riesgo. \r\nEn Wall Street, el repunte de las acci… [+1569 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.campuzano",
-      "Title": "¡Peso se recupera! Precio del dólar hoy 20 de noviembre de 2025",
-      "Description": "Jimena Campuzano\r\nEl peso mexicano se recupera de las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 20 de noviembre de 2025 cotiza en $18.30 unidades; conoce aquí el tipo de cambio en bancos.\r\n\nLa divisa mexicana registra un alza del 0.15…",
-      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-20-noviembre-2025/1752761",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/20/3420395.jpg",
-      "PublishedAt": "2025-11-20T14:23:06Z",
-      "Content": "El peso mexicano se recupera de las pérdidas de la sesión anterior, con lo que el precio del dólar hoy 20 de noviembre de 2025 cotiza en $18.30 unidades; conoce aquí el tipo de cambio en bancos.\r\nLa … [+1065 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Ana Botín, presidenta de Banco Santander: «Por cada euro que ganamos en Europa, pagamos 58 céntimos de impuestos. Por cada dólar que ganamos en EE.UU., pagamos 42»",
-      "Description": "Ana Botín , presidenta ejecutiva del Banco Santander , ha concedió una entrevista en el programa 'Wall Street Week' de Bloomberg en la que analizó los retos a los que se enfrentan las entidades bancarias. Más allá de los éxitos del Santander, la presidenta de…",
-      "Url": "https://www.abc.es/economia/ana-botin-presidenta-banco-santander-euro-ganamos-20251120132201-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/11/20/ana-botin-kUaG--1024x512@diario_abc.jpg",
-      "PublishedAt": "2025-11-20T12:22:02Z",
-      "Content": "Ana Botín, presidenta ejecutiva del Banco Santander, ha concedió una entrevista en el programa 'Wall Street Week' de Bloomberg en la que analizó los retos a los que se enfrentan las entidades bancari… [+3589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY jueves 20 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 20 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.36 pesos mexicanos por billete verde, con una ligera ganancia del 0.13 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ante un retroceso generalizado …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/04/cotiza-peso-mexicano-dolar-septiembre.jpg",
-      "PublishedAt": "2025-11-20T12:03:00Z",
-      "Content": "El peso mexicano se mantuvo estable, cerrando la semana en una cotización de 18.35 unidades por dólar, ayer miércoles 19 de noviembre de 2025.\r\nMientras que la Bolsa Mexicana de Valores (BMV) subió l… [+866 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY JUEVES 20 de noviembre de 2025: Así amaneció el peso mexicano",
-      "Description": "Este jueves 20 de noviembre de 2025, el precio del dólar se exhibe en un promedio de 18.3699 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2025/11/20/precio-del-dolar-en-mexico-hoy-jueves-20-de-noviembre-de-2025-asi-amanecio-el-peso-mexicano-420056.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/20/f1280x720-478713_610388_5050.jpg",
-      "PublishedAt": "2025-11-20T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este cuarto día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya … [+2081 chars]"
+      "Title": "Peso ‘frena’ su avance ante el dólar: Así cotiza el tipo de cambio HOY",
+      "Description": "El dólar frenó su avance, mientras se debilita la expectativa de un nuevo recorte de tasa por parte de la Fed.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/27/peso-dolar-tipo-de-cambio-hoy-27-de-noviembre-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ULJ4TPXOH5BOTGI7PYUOII2WTE.png?smart=true&auth=2bb88aaf24eb22f0a05801302274b4c10df8c9236c789a3f7f3624a263ab0158&width=1200&height=630",
+      "PublishedAt": "2025-11-27T15:42:38Z",
+      "Content": "El peso mexicano frenó sus avances frente al dólar al iniciar la sesión con pérdidas marginales a pesar de que el billete estadounidense continúa debilitándose ante la expectativa de que la Reserva F… [+1713 chars]"
     },
     {
       "Source": {
@@ -347,38 +282,64 @@
         "Name": "La Nacion"
       },
       "Author": "lanacionar",
-      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este jueves 20 de noviembre",
-      "Description": "Consulta el precio del dólar en México hoy, jueves 20 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-jueves-20-de-noviembre-nid20112025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-moneda-de-estados-unidos-hoy-20-de-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-11-20T11:38:56Z",
-      "Content": "Sobre el precio del dólar en Elektra, este 20 de noviembre, abrió con la referencia del miércoles en $17 a la compra y $18,79 a la venta. Es el mismo número en la consulta del precio del dólar hoy en… [+13 chars]"
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este jueves 27 de noviembre",
+      "Description": "Consulta el precio del dólar en México hoy, jueves 27 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-jueves-27-de-noviembre-nid27112025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-AHHLT36S2RB2DDT5EXUDFLMLWM.jpg?auth=eec53349fed8ea074bedd54f80e94c38ff5279e8b352d50d4d54331aca6ae744&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-11-27T13:17:46Z",
+      "Content": "Sobre el precio del dólar en Elektra, este 27 de noviembre, abrió en $16,95 a la compra y $18,79 a la venta. Es el mismo número en la consulta del precio del dólar hoy en Banco Azteca."
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Cointelegraph"
+        "Name": "Milenio"
       },
-      "Author": "Aaron Wood",
-      "Title": "Cómo las stablecoins de euro podrían abordar las preocupaciones de la UE sobre el dólar",
-      "Description": "El BCE está preocupado de que las stablecoins de dólar estadounidense puedan debilitar su capacidad para influir en la política, y los emisores europeos tienen ideas sobre cómo esto podría resolverse.\n Los banqueros centrales de la Unión Europea argumentan qu…",
-      "Url": "https://es.cointelegraph.com/news/how-euro-stablecoins-could-address-eu-s-dollar-concerns",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/0194ac92-3bb2-70aa-a4df-eac3e3e0eee1",
-      "PublishedAt": "2025-11-19T23:41:06Z",
-      "Content": "Los banqueros centrales de la Unión Europea argumentan que las stablecoins respaldadas por el dólar estadounidense podrían ser una amenaza para su capacidad de formular política monetaria.\r\nEl mercad… [+8161 chars]"
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY jueves 27 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 27 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.34 pesos mexicanos por billete verde, con un ligero aumento del 0.01 por ciento, según datos de Bloomberg.El peso mexicano operaba estable, en medio de las expectativas …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-27-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/16/precio-dolar-julio-sitio-vende.jpeg",
+      "PublishedAt": "2025-11-27T12:21:00Z",
+      "Content": "El dólar HOY 27 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.34 pesos mexicanos por billete verde, con un ligero aumento del 0.01 por ciento, según datos de Bloomberg.\r\nE… [+657 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Elcomercio.com"
+        "Name": "Tribuna.com.mx"
       },
-      "Author": "Carolina Vasco",
-      "Title": "El peso colombiano marca su mejor nivel frente al dólar",
-      "Description": "El peso colombiano mostró una apreciación marcada, la moneda no estaba tan fuerte desde junio de 2022.",
-      "Url": "https://www.elcomercio.com/actualidad/mundo/peso-colombiano-marca-mejor-nivel-frente-dolar/",
-      "UrlToImage": "https://media.elcomercio.com/wp-content/uploads/2025/11/dolares-billetes-pexels.jpg",
-      "PublishedAt": "2025-11-19T19:40:34Z",
-      "Content": "Suscríbete a nuestro canal de WhatsApp y recibe noticias al instante, directo en tu celular."
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY jueves 27 de noviembre de 2025 en México: ¿Cuál es el tipo de cambio?",
+      "Description": "Este jueves 27 de noviembre de 2025, el precio del dólar aparece en un promedio de 18.3442 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/27/precio-del-dolar-hoy-jueves-27-de-noviembre-de-2025-en-mexico-cual-es-el-tipo-de-cambio-420772.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/27/f1280x720-479746_611421_5050.jpg",
+      "PublishedAt": "2025-11-27T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este cuarto día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2083 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso mexicano extendió sus ganancias frente al dólar",
+      "Description": "A medida que crece la convicción de otra baja de tasas de interés de la Reserva Federal (Fed) en diciembre, el dólar se mantuvo volátil durante la sesión de ayer. La moneda mexicana aprovechó la corrección de la divisa estadunidense para presentar una gananci…",
+      "Url": "https://www.jornada.com.mx/2025/11/27/economia/022n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2025-11-27T09:45:21Z",
+      "Content": "Periódico La JornadaJueves 27 de noviembre de 2025, p. 22\r\nA medida que crece la convicción de otra baja de tasas de interés de la Reserva Federal (Fed) en diciembre, el dólar se mantuvo volátil dura… [+1879 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.campuzano",
+      "Title": "¡Peso opera estable! Precio del dólar hoy 26 de noviembre de 2025",
+      "Description": "Jimena Campuzano\r\nEl peso mexicano opera estable en la sesión de este miércoles, con lo que el precio del dólar hoy 26 de noviembre de 2025 cotiza en $18.38 unidades; conoce aquí el tipo de cambio en bancos.\r\n\n\"Hoy, el peso es impulsado por las expectativas o…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-tipo-cambio-bancos-mexico-26-noviembre-2025/1753966",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/26/3423946.jpg",
+      "PublishedAt": "2025-11-26T16:54:25Z",
+      "Content": "El peso mexicano opera estable en la sesión de este miércoles, con lo que el precio del dólar hoy 26 de noviembre de 2025 cotiza en $18.38 unidades; conoce aquí el tipo de cambio en bancos.\r\n\"Hoy, el… [+1299 chars]"
     },
     {
       "Source": {
@@ -386,12 +347,51 @@
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
-      "Title": "Peso ‘le echa ganas’ a mitad de semana: Así cotiza ante el dólar",
-      "Description": "El dólar se vende en 18.79 pesos por billete verde en ventanillas bancarias, según Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/19/peso-dolar-tipo-de-cambio-hoy-19-de-noviembre-de-2025/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/36ZBQH2ATVH2JJJ4IG2H4O5Z4I.jpg?smart=true&auth=7c149630ebb5f2c4bd8e790cab9d042d7fb98c31e123b4847f7c0dae36aaae79&width=1200&height=630",
-      "PublishedAt": "2025-11-19T15:32:22Z",
-      "Content": "Pese a un avance en el fortalecimiento para el dólar estadounidense, el peso mexicano también se ve apuntalado a medida que el apetito por activos de riesgo se reanuda este miércoles 19 de noviembre.… [+1712 chars]"
+      "Title": "Peso amplía ganancias por posible recorte en tasa de interés de la Fed: ¿Cómo se vende el dólar HOY?",
+      "Description": "El tipo de cambio opera alrededor de los 18.3657 pesos por dólar, nivel bajo el cual presenta una apreciación de 0.09 por ciento o 1.75 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2025/11/26/peso-dolar-tipo-de-cambio-hoy-26-de-noviembre-de-2025/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/52JGF5SZKBHUVKGNZ6LPJMVU44.jpg?smart=true&auth=4ae563dead0412fc200dfab8bec9676278a8db40f502a3e2e7d686243201f2fc&width=1200&height=630",
+      "PublishedAt": "2025-11-26T16:26:00Z",
+      "Content": "El peso mexicano amplía sus correcciones, en espera de nuevos indicadores relevantes, mientras el mercado sigue anticipando otro ajuste a la baja a los tipos de interés por parte del banco central de… [+1829 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Miriam Ramírez,Karla Vázquez",
+      "Title": "Precio del dólar HOY miércoles 26 de noviembre de 2025: ¿Cuál es el tipo de cambio en México?",
+      "Description": "El dólar HOY 26 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.37 pesos mexicanos por billete verde, con una ligera pérdida del 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer, recuperándose de las pérdi…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-noviembre-2025-a-cuanto-cotiza-en-vivo-atm",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/09/10/cotiza-peso-mexicano-frente-dolar.jpg",
+      "PublishedAt": "2025-11-26T12:12:00Z",
+      "Content": "El dólar HOY 26 de noviembre inicia operaciones con el tipo de cambio interbancario en 18.37 pesos mexicanos por billete verde, con una ligera pérdida del 0.07 por ciento, según datos de Bloomberg.\r\n… [+669 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "lanacionar",
+      "Title": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este miércoles 26 de noviembre",
+      "Description": "Consulta el precio del dólar en México hoy, miércoles 26 de noviembre, según el DOF. Revisa la cotización oficial, el tipo de cambio en bancos y el contexto económico que influye en la moneda.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-miercoles-26-de-noviembre-nid26112025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizo-la-divisa-TX2YLHGCT5G2BPVBALEIYAQOBY.jpg?auth=9f49766930260e5b8f205722eea02f263f43059b5c9c59c6d704cc8ee2d098f4&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-11-26T12:11:20Z",
+      "Content": "Sobre el precio del dólar en Elektra, este 26 de noviembre, abrió con la referencia del día previo en $17 a la compra y $18,84 a la venta. Es el mismo número en la consulta del precio del dólar hoy e… [+14 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY miércoles 26 de noviembre de 2025: Tipo de cambio actual",
+      "Description": "Este miércoles 26 de noviembre de 2025 el precio del dólar se muestra en un promedio de 18.3813 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2025/11/26/precio-del-dolar-en-mexico-hoy-miercoles-26-de-noviembre-de-2025-tipo-de-cambio-actual-420656.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/26/f1280x720-479569_611244_5050.jpeg",
+      "PublishedAt": "2025-11-26T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este tercer día de la semana tienes pensado realizar operaciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya sea para… [+2086 chars]"
     }
   ]
 }

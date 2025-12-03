@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 15,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Finextra"
+      },
+      "Author": "Editorial Team",
+      "Title": "Amina bank adopts Paxos' USDG sablecoin; joins Global Dollar Network",
+      "Description": "AMINA Bank AG (\"AMINA Bank\"), a Swiss Financial Market Supervisory Authority (FINMA)-regulated crypto bank with global reach, today announces the addition of Paxos’ USDG stablecoin to its custody, trading, and rewards offerings.",
+      "Url": "https://www.finextra.com/pressarticle/108142/amina-bank-adopts-paxos-usdg-sablecoin-joins-global-dollar-network",
+      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "PublishedAt": "2025-12-02T11:05:00Z",
+      "Content": "AMINA Bank AG (\"AMINA Bank\"), a Swiss Financial Market Supervisory Authority (FINMA)-regulated crypto bank with global reach, today announces the addition of Paxos USDG stablecoin to its custody, tra… [+2379 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kernel.org"
+      },
+      "Author": "Linus Torvalds",
+      "Title": "Fix Intel Dollar Cove TI battery driver 32-bit build error",
+      "Description": null,
+      "Url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ad8cccc24887655ebf0a3f459d38d1fb683df46a",
+      "UrlToImage": null,
+      "PublishedAt": "2025-11-26T20:31:48Z",
+      "Content": "Loading...You are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does c… [+840 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -158,110 +184,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107419572-17165030692024-05-23t220608z_1076860562_rc2c4r9kcseq_rtrmadp_0_fintech-crypto-etf.jpeg?v=1716503125&w=1920&h=1080",
       "PublishedAt": "2025-11-03T20:39:41Z",
       "Content": "Ether fell as much as 9% on Monday, slipping below its critical $3,600 support level, shortly after a multimillion dollar hack affected a protocol on the token's native network. \r\nThe cryptocurrency,… [+1444 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee holds above record low on state bank dollar sales, ends month flat",
-      "Description": "The Indian rupee faced a modest depreciation on Friday, yet it resiliently stayed above its all-time low, buoyed by dollar sales from government banks. The currency concluded the month on a subdued note, while the Indian equity markets reflected a similar dow…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-holds-above-record-low-on-state-bank-dollar-sales-ends-month-flat/articleshow/124991542.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-124991542,width-1200,height-630,imgsize-2431786,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-10-31T10:24:38Z",
-      "Content": "The Indian rupee fell on Friday but managed to hold above its all-time low on the back of intermittent dollar sales by state-run banks that also helped the currency end the month on a quiet note.The … [+1619 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "youtube.com",
-      "Title": "The Trillion Dollar Scam - How Google Really Makes Money",
-      "Description": "FortNine explores how a search engine generates revenue, using the example of bicycle parts. The video examines the PageRank algorithm and its evolution into targeted advertising. This investigation reveals a surprising method for attributing sales, raising q…",
-      "Url": "https://freerepublic.com/focus/f-chat/4349414/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2025-10-29T16:47:38Z",
-      "Content": "Skip to comments.\r\nThe Trillion Dollar Scam - How Google Really Makes Moneyyoutube.com ^\r\n | 29 October 2025\r\n | FortNine\r\nPosted on 10/29/2025 9:47:38 AM PDT by ShadowAce\r\nFortNine explores how a se… [+1840 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar soft as traders brace for Trump-Xi, central bank meetings",
-      "Description": "The dollar weakened as central banks prepare for meetings. Investors watch President Donald Trump's Asia tour for a trade deal with China. The US Federal Reserve is expected to cut rates. The Bank of Japan and European Central Bank also hold meetings. Markets…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-soft-as-traders-brace-for-trump-xi-central-bank-meetings/articleshow/124861906.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-124861923,width-1200,height-630,imgsize-246016,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-10-28T02:05:03Z",
-      "Content": "The dollar was weaker on Tuesday ahead of a slate of central bank meetings that will likely see a rate cut in the U.S. and as investors kept a wary eye on President Donald Trump's Asia tour, hoping f… [+3531 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BeInCrypto"
-      },
-      "Author": "Shota Oba",
-      "Title": "Is the Dollar Losing Its Crown? How AI and Crypto Are Rewiring Global Finance",
-      "Description": "AI and Crypto are reshaping global money. As the dollar’s share slips to 56%, new digital rails signal a slow, data-driven power shift.",
-      "Url": "https://beincrypto.com/is-the-dollar-losing-its-crown/",
-      "UrlToImage": "https://media.zenfs.com/en/beincrypto_us_662/b21b880213546c5efafebd34494acf21",
-      "PublishedAt": "2025-10-27T23:53:46Z",
-      "Content": "BRICS accelerates new payment system and challenges the hegemony of the dollar and SWIFT. Photo by BeInCrypto\r\nThe dollars dominance has long defined global finance. Yet as central banks trial crypto… [+11034 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investopedia"
-      },
-      "Author": "Bill McColl",
-      "Title": "Another Multibillion-Dollar Bank Merger Just Arrived Today",
-      "Description": "Huntington Bancshares will pay $7.4 billion in an all-stock purchase of Cadence Bank.",
-      "Url": "https://www.investopedia.com/another-multibillion-dollar-bank-merger-just-arrived-today-11837381",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/DQONarJ1E7dhrbPYdwZhLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/2eb179e50928caa8fab0f65c05db157c",
-      "PublishedAt": "2025-10-27T17:25:25Z",
-      "Content": "Emily Elconin /Bloomberg via Getty Images\r\n Huntington Bancshares is buying Cadence Bank\r\n<ul><li>Huntington Bancshares will pay $7.4 billion in an all-stock purchase of Cadence Bank.\r\n</li><li>The a… [+2076 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Dollar softens amid trade optimism, central bank watch, offshore yuan jumps",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b5747e53-ce16-4347-b585-137ef7eacd7b",
-      "UrlToImage": null,
-      "PublishedAt": "2025-10-27T12:50:38Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "By Stefano Rebaudo",
-      "Title": "Dollar softens amid trade optimism, central bank watch, offshore yuan jumps",
-      "Description": "By Stefano Rebaudo (Reuters) -The U.S. dollar snapped a six-day rally against the yen and extended a three-day falling streak versus the euro on Monday, as...",
-      "Url": "https://finance.yahoo.com/news/dollar-softens-amid-trade-optimism-124116705.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters.com/0c946f61b3be84a5dda628cfc45b569e",
-      "PublishedAt": "2025-10-27T12:41:16Z",
-      "Content": "By Stefano Rebaudo\r\n(Reuters) -The U.S. dollar snapped a six-day rally against the yen and extended a three-day falling streak versus the euro on Monday, as investors welcomed a possible U.S.-China t… [+4005 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "By Stefano Rebaudo and Rocky Swift",
-      "Title": "Dollar mixed as investors eye central bank decisions, trade talks",
-      "Description": "dollar was mixed on Monday, coming off a six-day rally against the yen and a three-day losing streak versus the euro, as investors braced for a week packed...",
-      "Url": "https://finance.yahoo.com/news/dollar-mixed-investors-eye-central-093321321.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters.com/c906c4729ed593cf1000fc65d90a590f",
-      "PublishedAt": "2025-10-27T09:33:21Z",
-      "Content": "By Stefano Rebaudo and Rocky Swift\r\n(Reuters) -The U.S. dollar was mixed on Monday, coming off a six-day rally against the yen and a three-day losing streak versus the euro, as investors braced for a… [+3980 chars]"
     }
   ]
 }
