@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 15,
+  "TotalResults": 20,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "TCA Srinivasa Raghavan",
+      "Title": "Dollar rule: Powered by money or muscle?",
+      "Description": "The dollar achieving reserve currency status is as much to do with US’ military might as it is with the size of its economy",
+      "Url": "https://www.thehindubusinessline.com/opinion/dollar-rule-powered-by-money-or-muscle/article70373370.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/4g6a81/article70373386.ece/alternates/LANDSCAPE_1200/BL09_Think_crystal_globe_currency.jpg",
+      "PublishedAt": "2025-12-09T00:30:00Z",
+      "Content": "There are only three weeks left in this 25th year of the 21st century. And as this first quarter comes to an end, everyone is talking about the end of the old world order. No one, however, knows what… [+4284 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bitcoinist"
+      },
+      "Author": "Scott Matherson",
+      "Title": "Betting Big On XRP: Billion-Dollar Asset Manager Confirms What Smart Money Has Been Doing",
+      "Description": "Institutional investors are quietly reshaping the narrative around XRP, with the latest analysis report from the billion-dollar asset manager WisdomTree confirming what insiders have long suspected. According to the report, XRP is garnering institutional inte…",
+      "Url": "https://bitcoinist.com/smart-money-betting-big-on-xrp/",
+      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2025/12/XRP-from-Freepik-27.avif",
+      "PublishedAt": "2025-12-09T00:00:59Z",
+      "Content": "Institutional investors are quietly reshaping the narrative around XRP, with the latest analysis report from the billion-dollar asset manager WisdomTree confirming what insiders have long suspected. … [+3250 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "International Business Times"
+      },
+      "Author": "Pedro Camacho",
+      "Title": "Latin American Currencies Gain Favor in Bank of America's 2026 Outlook as Dollar Expected to Slide",
+      "Description": "Bank of America expects the U.S. dollar to weaken in 2026 and is recommending investment strategies tied to Latin American currencies, particularly the Brazilian real.",
+      "Url": "https://www.ibtimes.com/latin-american-currencies-gain-favor-bank-americas-2026-outlook-dollar-expected-slide-3792135",
+      "UrlToImage": "https://d.ibtimes.com/en/full/4629048/bank-america-shares-4-rise-q2-after-announcing-net-interest-income-rebound-imminent.jpg",
+      "PublishedAt": "2025-12-08T22:49:11Z",
+      "Content": "Bank of America expects the U.S. dollar to weaken in 2026 and is recommending investment strategies tied to Latin American currencies, particularly the Brazilian real, according to a foreign-exchange… [+2450 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CBM (Comic Book Movie)"
+      },
+      "Author": "DanielKlissmman",
+      "Title": "Miles Morales Co-Creator Reveals She Hasn’t Received Any Money For The Character’s Billion-Dollar Franchise",
+      "Description": "Sara Pichelli, co-creator of Miles Morales, revealed during an interview that she does not get royalties for any of the character’s films or games, calling it “the saddest part” of her life.",
+      "Url": "https://comicbookmovie.com/spider_man/into-the-spider_verse/miles-morales-co-creator-reveals-she-hasnt-received-any-money-for-the-characters-billion-dollar-franchise-a225400",
+      "UrlToImage": "https://comicbookmovie.com/images/articles/banners/miles-morales-co-creator-reveals-she-hasnt-received-any-money-for-the-characters-billion-dollar-franchise-ab225400.jpg",
+      "PublishedAt": "2025-12-07T19:50:00Z",
+      "Content": "Despite being a relatively new creation, having debuted in 2011 from artist Sara Pichelli and writer Brian Michael Bendis, Miles Morales has become an integral part of the Marvel Universe. He has his… [+3686 chars]"
+    },
+    {
+      "Source": {
+        "Id": "breitbart-news",
+        "Name": "Breitbart News"
+      },
+      "Author": "Amy Furr",
+      "Title": "Trump Administration Launches 'One Dollar, One Tree' Effort to Save Americans Money During Holidays",
+      "Description": "President Donald Trump's administration has launched an effort to save Americans money during the Christmas and holiday season.\nThe post Trump Administration Launches ‘One Dollar, One Tree’ Effort to Save Americans Money During Holidays appeared first on Brei…",
+      "Url": "https://www.breitbart.com/economy/2025/12/05/trump-administration-launches-one-dollar-one-tree-effort-save-americans-money-holidays/",
+      "UrlToImage": "https://media.breitbart.com/media/2025/12/Older-and-younger-man-carrying-Christmas-tree-they-cut-down-640x335.jpg",
+      "PublishedAt": "2025-12-05T20:05:47Z",
+      "Content": "President Donald Trump’s administration has launched an effort to save Americans money during the Christmas and holiday season.\r\nOn Friday the U.S. Department of the Interior announced the effort, wh… [+2188 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hoover.org"
+      },
+      "Author": "December 5, 2025",
+      "Title": "Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank As A Pseudonymous \"Doe Corporation\"",
+      "Description": "Appellants have not shown that the district court erred by utilizing the five factors set forth in In re Sealed Case (D.C. Cir. 2019), or by considering the risk of retaliatory physical or mental harm or the ages of the persons whose privacy interests are sou…",
+      "Url": "https://www.hoover.org/research/multi-billion-dollar-corporation-cant-sue-inter-american-development-bank-pseudonymous-doe",
+      "UrlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2022-07/law.jpeg?itok=j9z2Px96",
+      "PublishedAt": "2025-12-05T00:00:00Z",
+      "Content": "Located on the campus of Stanford University and in Washington, DC, the Hoover Institution is the nations preeminent research center dedicated to generating policy ideas that promote economic prosper… [+62 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reason"
+      },
+      "Author": "Eugene Volokh",
+      "Title": "Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank as a Pseudonymous \"Doe Corporation\"",
+      "Description": "From today's Doe Corp. 1 v. Inter-American Development Bank, decided by Judges Karen LeCraft Henderson, Robert Wilkins, and Florence Pan…\nThe post Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank as a Pseudonymous \"Doe Corporation\" a…",
+      "Url": "https://reason.com/volokh/2025/12/04/multi-billion-dollar-corporation-cant-sue-inter-american-development-bank-as-a-pseudonymous-doe-corporation/",
+      "UrlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
+      "PublishedAt": "2025-12-04T21:51:19Z",
+      "Content": "From today's Doe Corp. 1 v. Inter-American Development Bank, decided by Judges Karen LeCraft Henderson, Robert Wilkins, and Florence Pan (I filed an amicus brief in the case on my own behalf, urging … [+36572 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -158,32 +249,6 @@
       "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/896/89694946.jpg",
       "PublishedAt": "2025-11-12T15:23:16Z",
       "Content": "Ghanas cedi depreciated slightly, selling at GH¢10.95 compared to GH¢10.92 recorded on Tuesday, November 11, 2025, on the interbank market.\r\nDespite the marginal decline, some business analysts cauti… [+1048 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Ian Verrender",
-      "Title": "Elon Musk's potential trillion-dollar payday not just about money",
-      "Description": "The world's richest man's believers have once again agreed to enrich the Tesla boss to levels far beyond the realm of ordinary billionaires. But how much is enough?",
-      "Url": "https://www.abc.net.au/news/2025-11-08/elon-musk-tesla-shareholder-meeting-trillion-dollar-payday/105985856",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/2d50e9c05c5ca7ab6fbb920b3ccfe6f5?impolicy=wcms_watermark_news&cropH=1715&cropW=3048&xPos=0&yPos=28&width=862&height=485&imformat=generic",
-      "PublishedAt": "2025-11-07T21:17:19Z",
-      "Content": "The world's richest man emerged triumphant from a gathering of the faithful on Friday with a new goal to out-earn everyone else on the planet over the course of the next decade.\r\nHis believers, some … [+6284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": null,
-      "Title": "Ether falls 7% following a multimillion dollar hack of a decentralized finance protocol",
-      "Description": "The Ethereum-linked token briefly fell below its critical $3,600 level as investors wrung their hands over several bearish events.",
-      "Url": "https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107419572-17165030692024-05-23t220608z_1076860562_rc2c4r9kcseq_rtrmadp_0_fintech-crypto-etf.jpeg?v=1716503125&w=1920&h=1080",
-      "PublishedAt": "2025-11-03T20:39:41Z",
-      "Content": "Ether fell as much as 9% on Monday, slipping below its critical $3,600 support level, shortly after a multimillion dollar hack affected a protocol on the token's native network. \r\nThe cryptocurrency,… [+1444 chars]"
     }
   ]
 }
