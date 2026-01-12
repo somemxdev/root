@@ -1,241 +1,241 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 30,
   "Articles": [
     {
       "Source": {
         "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "TCA Srinivasa Raghavan",
-      "Title": "Dollar rule: Powered by money or muscle?",
-      "Description": "The dollar achieving reserve currency status is as much to do with US’ military might as it is with the size of its economy",
-      "Url": "https://www.thehindubusinessline.com/opinion/dollar-rule-powered-by-money-or-muscle/article70373370.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/4g6a81/article70373386.ece/alternates/LANDSCAPE_1200/BL09_Think_crystal_globe_currency.jpg",
-      "PublishedAt": "2025-12-09T00:30:00Z",
-      "Content": "There are only three weeks left in this 25th year of the 21st century. And as this first quarter comes to an end, everyone is talking about the end of the old world order. No one, however, knows what… [+4284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bitcoinist"
-      },
-      "Author": "Scott Matherson",
-      "Title": "Betting Big On XRP: Billion-Dollar Asset Manager Confirms What Smart Money Has Been Doing",
-      "Description": "Institutional investors are quietly reshaping the narrative around XRP, with the latest analysis report from the billion-dollar asset manager WisdomTree confirming what insiders have long suspected. According to the report, XRP is garnering institutional inte…",
-      "Url": "https://bitcoinist.com/smart-money-betting-big-on-xrp/",
-      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2025/12/XRP-from-Freepik-27.avif",
-      "PublishedAt": "2025-12-09T00:00:59Z",
-      "Content": "Institutional investors are quietly reshaping the narrative around XRP, with the latest analysis report from the billion-dollar asset manager WisdomTree confirming what insiders have long suspected. … [+3250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "International Business Times"
-      },
-      "Author": "Pedro Camacho",
-      "Title": "Latin American Currencies Gain Favor in Bank of America's 2026 Outlook as Dollar Expected to Slide",
-      "Description": "Bank of America expects the U.S. dollar to weaken in 2026 and is recommending investment strategies tied to Latin American currencies, particularly the Brazilian real.",
-      "Url": "https://www.ibtimes.com/latin-american-currencies-gain-favor-bank-americas-2026-outlook-dollar-expected-slide-3792135",
-      "UrlToImage": "https://d.ibtimes.com/en/full/4629048/bank-america-shares-4-rise-q2-after-announcing-net-interest-income-rebound-imminent.jpg",
-      "PublishedAt": "2025-12-08T22:49:11Z",
-      "Content": "Bank of America expects the U.S. dollar to weaken in 2026 and is recommending investment strategies tied to Latin American currencies, particularly the Brazilian real, according to a foreign-exchange… [+2450 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CBM (Comic Book Movie)"
-      },
-      "Author": "DanielKlissmman",
-      "Title": "Miles Morales Co-Creator Reveals She Hasn’t Received Any Money For The Character’s Billion-Dollar Franchise",
-      "Description": "Sara Pichelli, co-creator of Miles Morales, revealed during an interview that she does not get royalties for any of the character’s films or games, calling it “the saddest part” of her life.",
-      "Url": "https://comicbookmovie.com/spider_man/into-the-spider_verse/miles-morales-co-creator-reveals-she-hasnt-received-any-money-for-the-characters-billion-dollar-franchise-a225400",
-      "UrlToImage": "https://comicbookmovie.com/images/articles/banners/miles-morales-co-creator-reveals-she-hasnt-received-any-money-for-the-characters-billion-dollar-franchise-ab225400.jpg",
-      "PublishedAt": "2025-12-07T19:50:00Z",
-      "Content": "Despite being a relatively new creation, having debuted in 2011 from artist Sara Pichelli and writer Brian Michael Bendis, Miles Morales has become an integral part of the Marvel Universe. He has his… [+3686 chars]"
-    },
-    {
-      "Source": {
-        "Id": "breitbart-news",
-        "Name": "Breitbart News"
-      },
-      "Author": "Amy Furr",
-      "Title": "Trump Administration Launches 'One Dollar, One Tree' Effort to Save Americans Money During Holidays",
-      "Description": "President Donald Trump's administration has launched an effort to save Americans money during the Christmas and holiday season.\nThe post Trump Administration Launches ‘One Dollar, One Tree’ Effort to Save Americans Money During Holidays appeared first on Brei…",
-      "Url": "https://www.breitbart.com/economy/2025/12/05/trump-administration-launches-one-dollar-one-tree-effort-save-americans-money-holidays/",
-      "UrlToImage": "https://media.breitbart.com/media/2025/12/Older-and-younger-man-carrying-Christmas-tree-they-cut-down-640x335.jpg",
-      "PublishedAt": "2025-12-05T20:05:47Z",
-      "Content": "President Donald Trump’s administration has launched an effort to save Americans money during the Christmas and holiday season.\r\nOn Friday the U.S. Department of the Interior announced the effort, wh… [+2188 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hoover.org"
-      },
-      "Author": "December 5, 2025",
-      "Title": "Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank As A Pseudonymous \"Doe Corporation\"",
-      "Description": "Appellants have not shown that the district court erred by utilizing the five factors set forth in In re Sealed Case (D.C. Cir. 2019), or by considering the risk of retaliatory physical or mental harm or the ages of the persons whose privacy interests are sou…",
-      "Url": "https://www.hoover.org/research/multi-billion-dollar-corporation-cant-sue-inter-american-development-bank-pseudonymous-doe",
-      "UrlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2022-07/law.jpeg?itok=j9z2Px96",
-      "PublishedAt": "2025-12-05T00:00:00Z",
-      "Content": "Located on the campus of Stanford University and in Washington, DC, the Hoover Institution is the nations preeminent research center dedicated to generating policy ideas that promote economic prosper… [+62 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reason"
-      },
-      "Author": "Eugene Volokh",
-      "Title": "Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank as a Pseudonymous \"Doe Corporation\"",
-      "Description": "From today's Doe Corp. 1 v. Inter-American Development Bank, decided by Judges Karen LeCraft Henderson, Robert Wilkins, and Florence Pan…\nThe post Multi-Billion Dollar Corporation Can't Sue Inter-American Development Bank as a Pseudonymous \"Doe Corporation\" a…",
-      "Url": "https://reason.com/volokh/2025/12/04/multi-billion-dollar-corporation-cant-sue-inter-american-development-bank-as-a-pseudonymous-doe-corporation/",
-      "UrlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
-      "PublishedAt": "2025-12-04T21:51:19Z",
-      "Content": "From today's Doe Corp. 1 v. Inter-American Development Bank, decided by Judges Karen LeCraft Henderson, Robert Wilkins, and Florence Pan (I filed an amicus brief in the case on my own behalf, urging … [+36572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finextra"
-      },
-      "Author": "Editorial Team",
-      "Title": "Amina bank adopts Paxos' USDG sablecoin; joins Global Dollar Network",
-      "Description": "AMINA Bank AG (\"AMINA Bank\"), a Swiss Financial Market Supervisory Authority (FINMA)-regulated crypto bank with global reach, today announces the addition of Paxos’ USDG stablecoin to its custody, trading, and rewards offerings.",
-      "Url": "https://www.finextra.com/pressarticle/108142/amina-bank-adopts-paxos-usdg-sablecoin-joins-global-dollar-network",
-      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
-      "PublishedAt": "2025-12-02T11:05:00Z",
-      "Content": "AMINA Bank AG (\"AMINA Bank\"), a Swiss Financial Market Supervisory Authority (FINMA)-regulated crypto bank with global reach, today announces the addition of Paxos USDG stablecoin to its custody, tra… [+2379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kernel.org"
-      },
-      "Author": "Linus Torvalds",
-      "Title": "Fix Intel Dollar Cove TI battery driver 32-bit build error",
-      "Description": null,
-      "Url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ad8cccc24887655ebf0a3f459d38d1fb683df46a",
-      "UrlToImage": null,
-      "PublishedAt": "2025-11-26T20:31:48Z",
-      "Content": "Loading...You are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does c… [+840 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Liam 'Akiba' Wright",
-      "Title": "When M2 money supply and the dollar REALLY move Bitcoin price – The truth influencers aren’t telling you",
-      "Description": "Influencers on X love pointing to rising M2 charts or a softening dollar as proof that Bitcoin is about to blast off. Those overlays make for great engagement, but they flatten a far more complex relationship. They matter, but not in the simple, linear way th…",
-      "Url": "https://cryptoslate.com/the-truth-about-when-m2-money-supply-and-the-dollar-move-bitcoin-price-what-influencers-arent-telling-you/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/bitcoin-m2-supply.jpg",
-      "PublishedAt": "2025-11-23T15:42:09Z",
-      "Content": "Influencers on X love pointing to rising M2 charts or a softening dollar as proof that Bitcoin is about to blast off.\r\nThose overlays make for great engagement, but they flatten a far more complex re… [+7710 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-irish-times",
-        "Name": "The Irish Times"
-      },
-      "Author": "Tim O'Brien",
-      "Title": "International investigation targets billion dollar networks laundering money for Kinahans",
-      "Description": "Gardaí take role in NCA investigation into groups laundering money for Kinahans and other criminal organisations",
-      "Url": "https://www.irishtimes.com/crime-law/2025/11/21/international-investigation-targets-billion-dollar-networks-laundering-money-for-kinahans/",
-      "UrlToImage": "https://www.irishtimes.com/resizer/v2/OAL5EEONFHBVYUXT3YBAUEVPAA.jpg?smart=true&auth=661d7351201f005b031d8c7af506cd98a62493b84175fd531e0cc990f8b3376f&width=1200&height=630",
-      "PublishedAt": "2025-11-21T07:23:25Z",
-      "Content": "Gardaí seized 1.36 million and arrested seven people this year as part of an international investigation into billion-dollar networks that launder money for the Kinahans and other crime gangs. \r\nThe … [+4887 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee drifts higher tracking Asia FX, buoyed by interbank dollar offers",
-      "Description": "The Indian rupee saw a slight gain today, mirroring regional currency movements and supported by dollar sales from banks. Exporters are also reportedly increasing their hedging activities. Despite global market shifts and a hawkish U.S. Federal Reserve outloo…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/rupee-drifts-higher-tracking-asia-fx-buoyed-by-interbank-dollar-offers/articleshow/125478069.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-125478099,width-1200,height-630,imgsize-1325404,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-11-21T05:26:29Z",
-      "Content": "The Indian rupee firmed slightly on Friday, tracking mild gains across Asian currencies and aided by interbank dollar sales, with traders pointing to a pickup in exporter hedging.The rupee was last a… [+1485 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
+        "Name": "Thefly.com"
       },
       "Author": null,
-      "Title": "Trump’s trillion-dollar Saudi deal could reshape markets — if the money ever materializes",
-      "Description": "Saudi Arabia's $1 trillion investment pledge to the U.S. sounds impressive, but experts warn much of the promised money exists only on paper and may take years to materialize.",
-      "Url": "https://www.foxnews.com/politics/trumps-trillion-dollar-saudi-deal-could-reshape-markets-money-ever-materializes",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/donald-trump-investment-forum.png",
-      "PublishedAt": "2025-11-20T17:24:48Z",
-      "Content": "President Donald Trump\r\n loves a deal and few partners have proven more willing or more powerful than Saudi Arabia.\r\nThis week, Saudi Arabias Crown Prince Mohammed bin Salman pledged to channel $1 tr… [+3545 chars]"
+      "Title": "Dollar Tree resumed with a Hold at Deutsche Bank",
+      "Description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "Url": "https://thefly.com/permalinks/entry.php/id4267311/DLTR-Dollar-Tree-resumed-with-a-Hold-at-Deutsche-Bank",
+      "UrlToImage": "https://thefly.com/images/meta/streetresearch_initiate.jpg",
+      "PublishedAt": "2026-01-08T14:13:35Z",
+      "Content": "Earnings calls, analyst events, roadshows and more"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "BusinessLine"
+        "Name": "Thefly.com"
       },
-      "Author": "ANI",
-      "Title": "Rupee likely fall to 90 against US dollar by March 2026, says Union Bank report",
-      "Description": "This trend is being supported by a consolidating US Dollar Index (DXY) and cautious foreign portfolio flows due to high domestic equity valuations",
-      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-fall-to-90-against-us-dollar-by-march-2026-says-union-bank-report/article70301649.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/vswsf5/article70274066.ece/alternates/LANDSCAPE_1200/BL03_Think_Digital_rupee.jpg",
-      "PublishedAt": "2025-11-20T04:05:53Z",
-      "Content": "The Indian Rupee may continue to weaken gradually and inch towards the psychological level of 90 per US dollar by March 2026, highlighted a report by Union Bank of India. According to the report, the… [+2253 chars]"
+      "Author": null,
+      "Title": "Dollar General resumed with a Buy at Deutsche Bank",
+      "Description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "Url": "https://thefly.com/permalinks/entry.php/id4267310/DG-Dollar-General-resumed-with-a-Buy-at-Deutsche-Bank",
+      "UrlToImage": "https://thefly.com/images/meta/streetresearch_initiate.jpg",
+      "PublishedAt": "2026-01-08T14:13:13Z",
+      "Content": "Earnings calls, analyst events, roadshows and more"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Barchart.com"
+      },
+      "Author": "Don Dawson",
+      "Title": "Why the Mexican Peso Could Keep Crushing the U.S. Dollar in 2026",
+      "Description": "The Mexican Peso crushed it in 2025 – up over 20% vs the USD! Higher rates in Mexico, a nearshoring boom from U.S. and Canadian companies, and a softer...",
+      "Url": "https://www.barchart.com/story/news/36891087/why-the-mexican-peso-could-keep-crushing-the-u-s-dollar-in-2026",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/dCNvyZHc11zvHK.jLWeHqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/07965ca589be5a5740f321374a9c190c",
+      "PublishedAt": "2026-01-05T19:09:08Z",
+      "Content": "The Mexican Peso has gained significantly against the U.S. Dollar during 2025, by 22%, as higher interest rates in Mexico and U.S. companies moving manufacturing closer to home (and to Mexico) have s… [+5696 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PBS"
+      },
+      "Author": "Associated Press",
+      "Title": "Head of Iran's Central Bank resigns amid protests as rial hits record low against the dollar",
+      "Description": "Iran's rial fell to 1.38 million to the dollar Monday, worsening inflation and straining budgets.",
+      "Url": "https://www.pbs.org/newshour/world/head-of-irans-central-bank-resigns-amid-protests-as-rial-hits-record-low-against-the-dollar",
+      "UrlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/12/2025-12-20T155614Z_411027184_RC2EKIAB8JNY_RTRMADP_3_IRAN-ECONOMY-1024x683.jpg",
+      "PublishedAt": "2025-12-29T16:39:25Z",
+      "Content": "TEHRAN, Iran (AP) The head of Iran's Central Bank resigned Monday as protests erupted in Tehran and several other cities after the country's currency plummeted to a new record low against the U.S. do… [+2997 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Project Syndicate"
+      },
+      "Author": "Silvia Sgherri",
+      "Title": "Will Dollar Dominance Survive Digital Money?",
+      "Description": "Depending on how they are designed, the rails conveying digital money can underpin an open monetary system or entrench a bipolar system of competing blocs with incompatible standards. For the US, continued global monetary leadership will require upgrading dom…",
+      "Url": "https://www.project-syndicate.org/commentary/to-preserve-dollar-dominance-us-must-build-the-rails-through-which-digital-money-moves-by-silvia-sgherri-2025-12",
+      "UrlToImage": "https://webapi.project-syndicate.org/library/d1a7000aea4da8c83a42ed6e576f5dde.2-1-super.1.jpg",
+      "PublishedAt": "2025-12-29T12:45:53Z",
+      "Content": "Depending on how they are designed, the rails conveying digital money can underpin an open monetary system or entrench a bipolar system of competing blocs with incompatible standards. For the US, con… [+6315 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguardnewsng.com"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, December 29, 2025",
+      "Description": "Data from the Nigerian Foreign Exchange Market (NFEM) and various parallel market sources indicate that the currency is maintaining a steady range as holiday-driven demand begins to plateau.\nThe post Dollar to Naira exchange rate today, December 29, 2025 appe…",
+      "Url": "https://www.vanguardnewsng.com/2025/12/dollar-to-naira-exchange-rate-today-december-29-2025/",
+      "UrlToImage": "https://cdn.vanguardnewsng.com/wp-content/uploads/2025/04/Nigerians-have-been-approved-to-earn-Dollars-in-2025.jpg",
+      "PublishedAt": "2025-12-29T05:51:31Z",
+      "Content": "The Nigerian Naira started the final week of the year with relative stability across both official and informal markets. \r\nData from the Nigerian Foreign Exchange Market (NFEM) and various parallel m… [+1698 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Mehron Rokhy",
+      "Title": "Chinese Yuan Rallies Against US Dollar, Forcing BRICS Nation’s Central Bank To Abruptly Buy USD: Report",
+      "Description": "The Chinese yuan is rising against the US dollar, prompting the nation’s central bank to purchase USD. The yuan rose 0.2% against USD earlier this week to 6.9964 yuan per US dollar, forcing the People’s Bank of China to take action, reports Bloomberg. Sources…",
+      "Url": "https://dailyhodl.com/2025/12/27/chinese-yuan-rallies-against-us-dollar-forcing-brics-nations-central-bank-to-abruptly-buy-usd-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/12/china-buy-dollar.jpg?resize=1300,728",
+      "PublishedAt": "2025-12-27T21:00:04Z",
+      "Content": "The Chinese yuan is rising against the US dollar, prompting the nation’s central bank to purchase USD.\r\nThe yuan rose 0.2% against USD earlier this week to 6.9964 yuan per US dollar, forcing the Peop… [+1231 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BroBible"
+      },
+      "Author": "Grayson Weir",
+      "Title": "UAB Football Star Creates NIL Money Dispute With Promise To Return Every Dollar Before Transferring",
+      "Description": "UAB star Iverson Hooks is choosing to enter the transfer portal. His decision not to continue his college football career creates an interesting situation regarding his NIL money. Does he owe it all back to the Blazers? I do not know the specific terms of Hoo…",
+      "Url": "https://brobible.com/sports/article/iverson-hooks-nil-contract-uab-football-buyout-money-pay-back-transfer-portal/",
+      "UrlToImage": "https://brobible.com/wp-content/uploads/2025/12/iverson-hooks-nil-contract-uab-football-buyout-money-pay-back-transfer-portal.jpg",
+      "PublishedAt": "2025-12-26T20:18:00Z",
+      "Content": "iStockphoto / © Tommy Gilligan-Imagn Images\r\nUAB star Iverson Hooks is choosing to enter the transfer portal. His decision not to continue his college football career creates an interesting situation… [+2760 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Punch Newspapers",
+      "Title": "Why investors chose dollar over naira investments –Lukefield Finance boss",
+      "Description": "Lukefield Finance CEO discusses the economy, why investors chose dollars, and the crucial role of transparent SME financing in Nigeria’s recovery.\n\nRead More: https://punchng.com/why-investors-chose-dollar-over-naira-investments-lukefield-finance-boss/",
+      "Url": "https://punchng.com/why-investors-chose-dollar-over-naira-investments-lukefield-finance-boss/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/22211352/Asupoto-1200x630.jpg",
+      "PublishedAt": "2025-12-22T23:35:46Z",
+      "Content": "As Nigerias economy begins to show tentative signs of improvement, with inflation easing and the naira gaining stability, many Nigerians are yet to feel any real relief. In this interview, the Chief … [+11763 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Market Watch",
+      "Title": "Opinion: China is quietly destroying the dollar — and that’ll cost you. Fight back with these money moves.",
+      "Description": "When the U.S. dollar loses its monopoly on pricing the world’s critical resources, Americans’ purchasing power weakens The dollar losing monopoly power is a slow leak, not a blowout. But slow leaks still leave you flat. If the 21st century runs on anything be…",
+      "Url": "https://freerepublic.com/focus/f-chat/4358534/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2025-12-22T15:13:38Z",
+      "Content": "Skip to comments.\r\nOpinion: China is quietly destroying the dollar and thatll cost you. Fight back with these money moves.Market Watch ^\r\n | 20 Dec 2025\r\n | Charlie Garcia\r\nPosted on 12/22/2025 7:13:… [+3821 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Sarah Raza, The Associated Press",
+      "Title": "No, you can’t ban all Native Americans if you own a hotel, jury rules. ‘This was never about the money. We sued for one dollar’",
+      "Description": "The case was delayed when the company filed for bankruptcy in September 2024. The head of the company, Connie Uhre, passed away this September.",
+      "Url": "https://fortune.com/2025/12/21/south-dakota-hotel-banned-native-americans-discrimination/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25354710951612.jpg?resize=1200,600",
+      "PublishedAt": "2025-12-21T11:08:31Z",
+      "Content": "The owner of a South Dakota hotel who said Native Americans were banned from the establishment was found liable for discrimination against Native Americans on Friday.A federal jury decided the owner … [+2025 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Roundtable.io"
+      },
+      "Author": "Madison Richmann",
+      "Title": "Connor and Williams Top Money Earners at Kimes Ranch Million Dollar Breakaway",
+      "Description": "Three straight round wins for Josie Connor and consistent fast throw for Hali Williams end in a tie with the most money won in Scotssdale, highlighting just how life-changing the Kimes Ranch Million Dollar Breakaway has become.",
+      "Url": "https://roundtable.io/rodeo/timed-events/connor-and-williams-top-money-earners-at-kimes-ranch-million-dollar-breakaway",
+      "UrlToImage": "https://media.zenfs.com/en/western_sports_articles_589/e922df4a2c7581b644b3fc7f3d3bde87",
+      "PublishedAt": "2025-12-21T10:30:03Z",
+      "Content": "At the end of 10 fast rounds, the Kimes Ranch Million Dollar Breakaway ended with a very fitting result. Two of the sports best are at the top of their game, and shared the spotlight at the top.\r\nJos… [+3064 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Trillion-Dollar Bank Warns BRICS Nations Are Quietly Exiting U.S. Treasury Market As China, India and Brazil Sell $28,800,000,000 of Exposure in Just One Month",
+      "Description": "Banking giant ING just issued a major warning on BRICS and the future of the U.S. Treasury market. The bank says the economic alliance is “quietly leaving” the market, as the nations’ holdings of U.S. Treasuries continue to move lower. “…One enduring trend is…",
+      "Url": "https://dailyhodl.com/2025/12/20/trillion-dollar-bank-warns-brics-nations-are-quietly-exiting-u-s-treasury-market-as-china-india-and-brazil-sell-28800000000-of-exposure-in-just-one-month/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/12/brics-treasuries-quietly.jpg?resize=266,156",
+      "PublishedAt": "2025-12-20T19:28:53Z",
+      "Content": "Banking giant ING just issued a major warning on BRICS and the future of the U.S. Treasury market.\r\nThe bank says the economic alliance is “quietly leaving” the market, as the nations’ holdings of U.… [+1854 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BeInCrypto"
+      },
+      "Author": "FXStreet",
+      "Title": "US Dollar Price Annual Forecast: Will 2026 be a Year of Transition?",
+      "Description": "The US Dollar enters 2026 in transition, not collapse, as Fed easing, geopolitics, and positioning reshape FX markets.",
+      "Url": "https://beincrypto.com/us-dollar-price-prediction-2026/",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/Gfc0vTwk8PtDMLf2wdyBww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/5902f2fcfecff92cd6c4153e5c806797",
+      "PublishedAt": "2025-12-20T03:06:03Z",
+      "Content": "us CPI. Photo by BeInCrypto\r\nThe US Dollar (USD) enters the new year at a crossroads. After several years of sustained strength driven by US growth outperformance, aggressive Federal Reserve (Fed) ti… [+12522 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gossiplankanews.com"
+      },
+      "Author": "noreply@blogger.com (Unknown)",
+      "Title": "US Dollar Exchange Rate in Sri Lanka Today (Dec. 19)",
+      "Description": "The Sri Lankan Rupee has slightly appreciated against the US Dollar in commercial banks today (December 19).\r\n<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});At Seylan Bank, the dollar's buying price remains unchanged at Rs. 3…",
+      "Url": "https://english.gossiplankanews.com/2025/12/us-dollar-exchange-rate-in-sri-lanka.html",
+      "UrlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t67g3pTxE-d1m8_hTosqOXjA7ILHwKp1kfuMVrtah0Ib0zKxFYLzA7O_4Y8nVlHebFfUI_e9tXPPMv5hUsIOxiNNDqPu1rQXY7SnNCdo1VS8gnEPktZkFpsjNRPcwLCsM=w1600",
+      "PublishedAt": "2025-12-19T06:10:20Z",
+      "Content": "The Sri Lankan Rupee has slightly appreciated against the US Dollar in commercial banks today (December 19).\r\nAt Seylan Bank, the dollar's buying price remains unchanged at Rs. 306.35, while the sell… [+690 chars]"
     },
     {
       "Source": {
         "Id": "the-times-of-india",
         "Name": "The Times of India"
       },
-      "Author": "Reuters",
-      "Title": "Interbank dollar sales, exporter hedging lifts rupee to two-week high",
-      "Description": "The Indian rupee strengthened to a two-week high on Wednesday, driven by positive sentiment among traders and increased exporter activity.  This rise comes amid ongoing concerns about trade deals and potential central bank intervention.  Meanwhile, expectatio…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/interbank-dollar-sales-exporter-hedging-lifts-rupee-to-two-week-high/articleshow/125427874.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-125427903,width-1200,height-630,imgsize-90758,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2025-11-19T05:22:01Z",
-      "Content": "The rupee firmed on Wednesday to touch a two-week high, bolstered by a slight bias towards bullish wagers on the currency rupee among interbank traders and a pickup in exporter hedging activity.The r… [+1655 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "PTI",
-      "Title": "Pakistan's top bank restricts cash dollar transactions",
-      "Description": "In a bold move to regulate its economy, Pakistan's central bank is tightening access to cash dollar withdrawals. Under the new regulations, individuals can no longer receive cash in dollars directly. Instead, all dollar transactions will be routed to bank acc…",
-      "Url": "https://economictimes.indiatimes.com/news/international/business/pakistans-top-bank-restricts-cash-dollar-transactions/articleshow/125379126.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-125379209,width-1200,height-630,imgsize-12338,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2025-11-17T07:02:45Z",
-      "Content": "Pakistan's central bank has taken steps to limit the cash flow of US dollars to individuals as part of its policy to prevent the Pakistan rupee from devaluing in the market and curtail undocumented o… [+2220 chars]"
+      "Author": "Bloomberg",
+      "Title": "Digital Bank SoFi enters Stablecoin race with US dollar token",
+      "Description": "SoFi Technologies has launched its own US dollar stablecoin, SoFiUSD, fully backed by cash reserves. The digital bank plans to offer the token to its members soon, aiming to facilitate 24/7 settlements for card networks, retailers, and businesses. This move a…",
+      "Url": "https://economictimes.indiatimes.com/markets/cryptocurrency/digital-bank-sofi-enters-stablecoin-race-with-us-dollar-token/articleshow/126067289.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-126067283,width-1200,height-630,imgsize-91130,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-12-19T00:39:33Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Radaronline.com"
+        "Name": "Cointelegraph"
       },
-      "Author": "Haley Gunn",
-      "Title": "EXCLUSIVE: White House Releases Scathing 2566-word Dossier on Trump Critic Michael Wolff Amid Epstein Email Scandal — and After He Sues First Lady Melania Over Alleged Billion-dollar Hush Money Threat",
-      "Description": "The White House's blistering document seeking to discredit the author followed his lawsuit against the first lady.",
-      "Url": "https://radaronline.com/p/donald-trump-michael-wolff-white-house-releases-scathing-dossier-epstein-emails/",
-      "UrlToImage": "https://media.radaronline.com/brand-img/wFqDgFwr3/1200x628/trump-biographer-michael-wolff-melania-trump-white-house-scathing-dossier-1763172597643.png",
-      "PublishedAt": "2025-11-15T12:45:00Z",
-      "Content": "While the latest Epstein release included communications with the author, the timing of the Wolff dossier raised eyebrows given his current legal battle with the first lady. \r\nAs RadarOnline.com repo… [+893 chars]"
+      "Author": "Cointelegraph by Nate Kostar",
+      "Title": "SoFi rolls out US dollar stablecoin issued by bank subsidiary",
+      "Description": "SoFi has launched SoFiUSD, a fully reserved US dollar stablecoin issued by its nationally chartered bank, offering settlement and payment infrastructure for banks, fintechs and enterprises.",
+      "Url": "https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b324a-e7fd-7634-aa2f-95876e8bc208.jpg",
+      "PublishedAt": "2025-12-18T18:07:58Z",
+      "Content": "SoFi Technologies has launched SoFiUSD, a fully reserved US dollar stablecoin issued by its banking subsidiary, SoFi Bank.\r\nAccording to Thursdays announcement, SoFiUSD is backed one-to-one by cash h… [+3276 chars]"
     },
     {
       "Source": {
         "Id": null,
-        "Name": "Madfientist.com"
+        "Name": "Yahoo Entertainment"
       },
-      "Author": "The Mad Fientist",
-      "Title": "Learning How to Spend Money (While Enjoying Every Dollar Spent)",
-      "Description": "After decades of saving/investing, it's hard to immediately switch to spending mode. Here's what worked for me over the last few years!\nRead more →\nThe post Learning How to Spend Money (While Enjoying Every Dollar Spent) appeared first on Mad Fientist.",
-      "Url": "https://www.madfientist.com/how-to-spend-money/",
-      "UrlToImage": "https://www.madfientist.com/wp-content/uploads/2025/11/how-to-spend-money.jpg",
-      "PublishedAt": "2025-11-14T14:29:43Z",
-      "Content": "After decades of saving/investing, it’s hard to immediately flip a switch and go into spending mode.Spending is a skill that you should develop on your way to FI, so that you’re better at it when the… [+29635 chars]"
+      "Author": null,
+      "Title": "Falcon Finance Deploys $2.1B USDf Synthetic Dollar on Base Network",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_853793b2-fd16-424f-bc47-7bff3a6a4a41",
+      "UrlToImage": null,
+      "PublishedAt": "2025-12-18T13:59:15Z",
+      "Content": "If you click 'Accept all', we and our partners, including 242 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
     },
     {
       "Source": {
@@ -243,12 +243,155 @@
         "Name": "GhanaWeb"
       },
       "Author": "Ghanaweb",
-      "Title": "Interbank Market: Cedi depreciates slightly against the dollar",
-      "Description": "Ghana’s cedi depreciated slightly, selling at GH¢10.95 compared to GH¢10.92 recorded on Tuesday, November 11, 2025, on the interbank market.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Cedi-depreciates-slightly-against-the-dollar-2009112",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/896/89694946.jpg",
-      "PublishedAt": "2025-11-12T15:23:16Z",
-      "Content": "Ghanas cedi depreciated slightly, selling at GH¢10.95 compared to GH¢10.92 recorded on Tuesday, November 11, 2025, on the interbank market.\r\nDespite the marginal decline, some business analysts cauti… [+1048 chars]"
+      "Title": "Interbank Market: Cedi trading at GH¢11.50 to a dollar",
+      "Description": "The Ghana cedi continues to experience pressure against major trading currencies, raising concerns about rising costs ahead of the festive season.",
+      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Interbank-Market-Cedi-trading-at-GH-11-50-to-a-dollar-2014300",
+      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/198/19857825.jpg",
+      "PublishedAt": "2025-12-18T08:33:03Z",
+      "Content": "The Ghana cedi continues to experience pressure against major trading currencies, raising concerns about rising costs ahead of the festive season.\r\nAccording to Bank of Ghana data, the local currency… [+1213 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar holds gains against sterling, yen as central bank decisions loom",
+      "Description": "The yen trimmed losses from the previous session as the Bank of Japan starts a two-day meeting that is expected to result in a hike in policy rates to a three-decade high.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-gains-against-sterling-yen-as-central-bank-decisions-loom/articleshow/126048570.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-126048570,width-1200,height-630,imgsize-166192,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2025-12-18T01:35:45Z",
+      "Content": "The dollar held gains against its major counterparts on Thursday as markets positioned for central bank decisions in Britain, Europe and Japan.Sterling remained lower after an unexpected drop in UK i… [+2413 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar broadly firm as markets brace for central bank decisions",
+      "Description": "TOKYO, Dec 18 : The dollar held gains against its major counterparts on Thursday as markets positioned for central bank decisions in Britain, Europe and Japan.Sterling remained lower after an unexpected drop in UK inflation backed the case for a rate cut by t…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-broadly-firm-markets-brace-central-bank-decisions-5624771",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--86Kw0QLP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T011351Z_2_LYNXMPELBH01T_RTROPTP_3_MONEY-FED-ADVICE.JPG?itok=jSUIyQvZ",
+      "PublishedAt": "2025-12-18T01:13:10Z",
+      "Content": "TOKYO, Dec 18 : The dollar held gains against its major counterparts on Thursday as markets positioned for central bank decisions in Britain, Europe and Japan.\r\nSterling remained lower after an unexp… [+3650 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Sterling weakens after UK inflation data, dollar gains ahead of central bank decisions",
+      "Description": "NEW YORK/LONDON, Dec 17 : Sterling fell on Wednesday after an unexpected drop in UK inflation all but guaranteed the Bank of England would cut interest rates, while the dollar rose as markets awaited central bank decisions and weighed commentary from Federal …",
+      "Url": "https://www.channelnewsasia.com/business/sterling-weakens-after-uk-inflation-data-dollar-gains-ahead-central-bank-decisions-5613811",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--VgBdCAR---/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-17T103356Z_1_LYNXMPELBG0IN_RTROPTP_3_BRITAIN-BUDGET.JPG?itok=0LOPTuPv",
+      "PublishedAt": "2025-12-17T10:29:37Z",
+      "Content": "NEW YORK/LONDON, Dec 17 : Sterling fell on Wednesday after an unexpected drop in UK inflation all but guaranteed the Bank of England would cut interest rates, while the dollar rose as markets awaited… [+3228 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "China is quietly destroying the dollar — and that’ll cost you. Fight back with these money moves.",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cc7dc6c-22c2-41aa-8716-1e61e012c868",
+      "UrlToImage": null,
+      "PublishedAt": "2025-12-17T00:19:00Z",
+      "Content": "If you click 'Accept all', we and our partners, including 242 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Omkar Godbole, AI Boost",
+      "Title": "StraitX to debut Singapore and U.S. dollar stablecoins on Solana for quick currency exchange",
+      "Description": "The debut will enable instant swaps between SGD and USD on Solana, facilitating digital forex trading.",
+      "Url": "https://www.coindesk.com/markets/2025/12/16/straitx-to-debut-singapore-and-u-s-dollar-stablecoins-on-solana-for-quick-sgd-usd-swaps",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/477076ed6674e9cc4c54beb4412229ed736edd74-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "PublishedAt": "2025-12-16T06:38:27Z",
+      "Content": "Solana users could soon swap Singapore dollars (SGD) for U.S. dollars (USD) instantly online, marking the popular high speed blockchain's first access to digital tokens tied to one of the premier Asi… [+2795 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gossiplankanews.com"
+      },
+      "Author": "noreply@blogger.com (Unknown)",
+      "Title": "Sri Lanka's Dollar Exchange Rate Today (Dec. 16)",
+      "Description": "The Sri Lankan Rupee has slightly depreciated against the US Dollar in local commercial banks today (December 16), compared to Monday.At Seylan Bank, the buying price of the US Dollar remains unchanged at Rs. 305.75, while the selling price also remains uncha…",
+      "Url": "https://english.gossiplankanews.com/2025/12/sri-lankas-dollar-exchange-rate-today.html",
+      "UrlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vw8ChiMVXO5W-Nc-6OKlBZQWl50JyywYHkBQQ9GosarpVcIiMTBRLTbNjO3BJa9JPoIC4ZQW866zjLTIJ9z-lTr15kvmVXX_hfYb-sRNqh7_pf3w0R1erghV-gp76b5QU=w1600",
+      "PublishedAt": "2025-12-16T06:10:22Z",
+      "Content": "The Sri Lankan Rupee has slightly depreciated against the US Dollar in local commercial banks today (December 16), compared to Monday.\r\nAt Seylan Bank, the buying price of the US Dollar remains uncha… [+783 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar edges lower against yen in week packed with data releases and central bank decisions",
+      "Description": "NEW YORK/LONDON, Dec 15 : The U.S. dollar edged lower against rivals including the yen and Swiss franc on Monday in a week packed with central bank decisions and U.S. data that could shed light on the Federal Reserve's near-term policy outlook.The dollar was …",
+      "Url": "https://www.channelnewsasia.com/business/dollar-edges-lower-against-yen-in-week-packed-data-releases-and-central-bank-decisions-5582256",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--kwpTuf0h--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-15T163300Z_1_LYNXMPELBE100_RTROPTP_3_IRAN-ECONOMY.JPG?itok=PgRS_s4X",
+      "PublishedAt": "2025-12-15T16:04:44Z",
+      "Content": "NEW YORK/LONDON, Dec 15 : The U.S. dollar edged lower against rivals including the yen and Swiss franc on Monday in a week packed with central bank decisions and U.S. data that could shed light on th… [+3759 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar weakens against yen in week packed with data releases and central bank decisions",
+      "Description": "NEW YORK/LONDON, Dec 15 : The U.S. dollar weakened against rivals including the yen, euro and Swiss franc in a week packed with central bank decisions and U.S. data that could shed light on the Federal Reserve's near-term policy outlook.The dollar was last do…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-weakens-against-yen-in-week-packed-data-releases-and-central-bank-decisions-5582256",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--MU2Ao0Ww--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-15T063237Z_1_LYNXMPELBE09H_RTROPTP_3_JAPAN-YEN-INTERVENTION.JPG?itok=w15SzWG1",
+      "PublishedAt": "2025-12-15T16:04:44Z",
+      "Content": "NEW YORK/LONDON, Dec 15 : The U.S. dollar weakened against rivals including the yen, euro and Swiss franc in a week packed with central bank decisions and U.S. data that could shed light on the Feder… [+2787 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Rolling Out"
+      },
+      "Author": "Gabriel Yakubu",
+      "Title": "Deutsche Bank predicts dollar disaster ahead",
+      "Description": "Major investment banks anticipate the greenback will weaken as Federal Reserve rate cuts widen the gap with other central banks holding steady or hiking. The American dollar enjoyed a brief reprieve from its historic tumble, but Wall Street’s biggest players …",
+      "Url": "https://rollingout.com/2025/12/13/deutsche-bank-predicts-dollar-disaster/",
+      "UrlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2609145619.jpg",
+      "PublishedAt": "2025-12-13T16:39:08Z",
+      "Content": "Major investment banks anticipate the greenback will weaken as Federal Reserve rate cuts widen the gap with other central banks holding steady or hiking.\r\nThe American dollar enjoyed a brief reprieve… [+5679 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Khabarhub.com"
+      },
+      "Author": "Khabarhub",
+      "Title": "US dollar hits record high in NRB’s exchange rate update",
+      "Description": "KATHMANDU: Nepal Rastra Bank (NRB) has published today’s foreign currency exchange rates, with the US dollar reaching its highest value to date. According to the official rates, the buying price of one US dollar has been set at Rs 144.37 and the selling price…",
+      "Url": "https://english.khabarhub.com/2025/13/511334/",
+      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX-e1764984075308.webp",
+      "PublishedAt": "2025-12-13T02:45:45Z",
+      "Content": "KATHMANDU: Nepal Rastra Bank (NRB) has published todays foreign currency exchange rates, with the US dollar reaching its highest value to date. According to the official rates, the buying price of on… [+2105 chars]"
+    },
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "David Ibekwe,Carter Thallon,Ju Shardlow",
+      "Title": "How billion-dollar bank fraud actually works, according to a former trader",
+      "Description": "Nick Leeson is a former derivatives trader who caused the collapse of Barings, London's oldest merchant bank, which had operated for 233 years.",
+      "Url": "https://www.businessinsider.com/how-billion-dollar-bank-fraud-actually-works-2025-12",
+      "UrlToImage": "https://i.insider.com/693aa56504d0f0a114f1d2a2?width=1200&format=jpeg",
+      "PublishedAt": "2025-12-12T12:29:01Z",
+      "Content": "Nick Leeson is an English former derivatives trader who caused the collapse of Barings, London's oldest merchant bank, which had operated for 233 years. Working in the bank's Singapore office, he mad… [+1160 chars]"
     }
   ]
 }
