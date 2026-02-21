@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": "techradar",
+        "Name": "TechRadar"
+      },
+      "Author": "tom.bedford@hotmail.co.uk (Tom Bedford) , Tom Bedford",
+      "Title": "Money no object? This turntable cartridge is made from the same wood as million-dollar violins, as well as diamonds (of course)",
+      "Description": "Crafted in Japan, with a body carved from the Tyrolean tonewood with which Stradivari made violins",
+      "Url": "https://www.techradar.com/audio/money-no-object-this-turntable-cartridge-is-made-from-the-same-wood-as-million-dollar-violins-as-well-as-diamonds-of-course",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/x6Eyk8TQ3V2358BLrQCnBT-1920-80.jpg",
+      "PublishedAt": "2026-02-20T10:53:35Z",
+      "Content": "<ul><li>Analog Relax's new moving-coil turntable cartridge is called the EX700</li><li>Made from Tyrolean spruce, boron and, of course, diamonds</li><li>Sells for £7,288 (around $9,400, AU$13,300) – … [+3080 chars]"
+    },
     {
       "Source": {
         "Id": null,

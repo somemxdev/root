@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 146,
+  "TotalResults": 148,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar ‘sufre’ tras cancelación de aranceles de Trump: ¿Cuánto gana el peso HOY?",
+      "Description": "Antes de la cancelación de los aranceles de Trump, el tipo de cambio se acercaba 'peligrosamente' a los niveles de los 17.30 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/20/peso-dolar-precio-hoy-20-de-febrero-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2ESB4LYWQJHLVHL5LOAW7PUA44.png?smart=true&auth=fe4c90e25ece5c16c0a0918858fb4f557dc689a04c8087ca28075be47f76a094&width=1200&height=630",
+      "PublishedAt": "2026-02-20T16:41:41Z",
+      "Content": "El peso avanza con fuerza ante el dólar después de que la Corte Suprema invalidó los aranceles de Donald Trump, al considerar que el presidente de EU no tiene la facultad legal para imponerlos. \r\nJoh… [+1997 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY viernes 20 de febrero de 2026 en México: Tipo de cambio actual",
+      "Description": "Este viernes 20 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.2211 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/20/precio-del-dolar-hoy-viernes-20-de-febrero-de-2026-en-mexico-tipo-de-cambio-actual-430056.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/20/f1280x720-493226_624901_5050.jpg",
+      "PublishedAt": "2026-02-20T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2085 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/URF6DQFZHVCMPAHXDNANHJJHFU.png?smart=true&auth=64c4333d47a46a6b27a3e98bdfcbbf7ceb3968f492ded9428c959fde0309028b&width=1200&height=630",
       "PublishedAt": "2026-02-12T17:14:25Z",
       "Content": "El peso mexicano se aprecia de manera marginal en el inicio de la jornada de este jueves.\r\nLa divisa mexicana presenta una mínima apreciación en las primeras horas de este día donde los operadores se… [+1652 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY jueves 12 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 12 de febrero inicia operaciones con el tipo de cambio interbancario en 17.17 pesos mexicanos por billete verde, con una pérdida del 0.04 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba ayer ante un fortalecimiento del dólar, …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-5.jpeg",
-      "PublishedAt": "2026-02-12T13:07:00Z",
-      "Content": "El peso mexicano avanzó ligeramente con 0.09 por ciento, cerrando la jornada en 17.17 unidades por dólar, este miércoles 11 de febrero de 2026, revirtiendo sus pérdidas iniciales. \r\nLa divisa naciona… [+722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY jueves 12 de febrero de 2026: Tipo de cambio actual",
-      "Description": "Este jueves 12 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.1557 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/12/precio-del-dolar-en-mexico-hoy-jueves-12-de-febrero-de-2026-tipo-de-cambio-actual-429323.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/12/f1280x720-492106_623781_5050.jpg",
-      "PublishedAt": "2026-02-12T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este cuarto día de la semana tienes pensado realizar operaciones que contemplan a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya sea para… [+2061 chars]"
     }
   ]
 }
