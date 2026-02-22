@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Alejandra HolguÍn",
+      "Title": "Precio del dólar HOY sábado 21 de febrero de 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 21 de febrero del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/21/precio-del-dolar-hoy-sabado-21-de-febrero-de-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-430165.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/1/29/f1280x720-489984_621659_5050.jpeg",
+      "PublishedAt": "2026-02-21T12:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1930 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/12/03/sindicatos-ip-puebla-respaldan-aumento.jpg",
       "PublishedAt": "2026-02-12T21:36:19Z",
       "Content": "El peso mexicano se depreció con 0.32 por ciento, cerrando la jornada en 17.23 unidades por dólar, este jueves 12 de febrero de 2026.\r\nMercados a la espera de datos económicos de EU\r\nLos mercados nac… [+2276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Mario Luna",
-      "Title": "Peso ‘le echa ganas’ y gana al dólar: Así cotiza HOY 12 de febrero",
-      "Description": "El dólar se cotiza en 17.61 pesos por billete verde en ventanillas, según datos de Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/12/peso-dolar-tipo-de-cambio-hoy-12-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/URF6DQFZHVCMPAHXDNANHJJHFU.png?smart=true&auth=64c4333d47a46a6b27a3e98bdfcbbf7ceb3968f492ded9428c959fde0309028b&width=1200&height=630",
-      "PublishedAt": "2026-02-12T17:14:25Z",
-      "Content": "El peso mexicano se aprecia de manera marginal en el inicio de la jornada de este jueves.\r\nLa divisa mexicana presenta una mínima apreciación en las primeras horas de este día donde los operadores se… [+1652 chars]"
     }
   ]
 }
