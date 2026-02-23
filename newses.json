@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 144,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY domingo 22 de febrero de 2026: Así amaneció el peso mexicano",
+      "Description": "Este domingo 22 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.1400 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/22/precio-del-dolar-en-mexico-hoy-domingo-22-de-febrero-de-2026-asi-amanecio-el-peso-mexicano-430218.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/22/f1280x720-493458_625133_5050.jpeg",
+      "PublishedAt": "2026-02-22T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 22 de febrero de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para la siguiente semana t… [+2056 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-6.jpeg",
       "PublishedAt": "2026-02-13T11:58:00Z",
       "Content": "El dólar HOY 13 de febrero inicia operaciones con el tipo de cambio interbancario en 17.23 pesos mexicanos por billete verde, con una ganancia del 0.06 por ciento, según datos de Bloomberg.\r\nEl peso … [+657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Dólar en la balanza: ¿Cómo cerró la cotización 12 de febrero en México?",
-      "Description": "El peso mexicano se depreció con 0.32 por ciento, cerrando la jornada en 17.23 unidades por dólar, este jueves 12 de febrero de 2026.Mercados a la espera de datos económicos de EULos mercados nacionales cayeron luego de conocer que las solicitudes semanales d…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-12-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/12/03/sindicatos-ip-puebla-respaldan-aumento.jpg",
-      "PublishedAt": "2026-02-12T21:36:19Z",
-      "Content": "El peso mexicano se depreció con 0.32 por ciento, cerrando la jornada en 17.23 unidades por dólar, este jueves 12 de febrero de 2026.\r\nMercados a la espera de datos económicos de EU\r\nLos mercados nac… [+2276 chars]"
     }
   ]
 }

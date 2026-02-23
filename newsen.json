@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -262,19 +262,6 @@
       "UrlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/java-logo.jpg",
       "PublishedAt": "2026-01-26T16:37:00Z",
       "Content": "In 2009, computer scientist Tony Hoare apologized for inventing the null reference in 1965. He called it his “billion-dollar mistake,” estimating that null pointer exceptions have caused billions of … [+10512 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GhanaWeb"
-      },
-      "Author": "Ghanaweb",
-      "Title": "Cedi moves from GH¢10.85 to GH¢10.87 to a dollar on the interbank market",
-      "Description": "The Ghana cedi, in the third week of January 2026, is trading at GH¢10.87 to the US dollar on the Bank of Ghana’s interbank foreign exchange market.",
-      "Url": "https://www.ghanaweb.com/GhanaHomePage/business/Cedi-moves-from-GH-10-85-to-GH-10-87-to-a-dollar-on-the-interbank-market-2018331",
-      "UrlToImage": "https://cdn.ghanaweb.com/imagelib/pics/189/18922978.jpg",
-      "PublishedAt": "2026-01-22T08:22:38Z",
-      "Content": "The Ghana cedi, in the third week of January 2026, is trading at GH¢10.87 to the US dollar on the Bank of Ghanas interbank foreign exchange market.\r\nData released by the central bank on Thursday, Jan… [+1547 chars]"
     }
   ]
 }
