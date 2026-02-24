@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 135,
+  "TotalResults": 130,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY LUNES 23 de febrero de 2026: Tipo de cambio actual",
+      "Description": "Este lunes 23 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.2147 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/23/precio-del-dolar-en-mexico-hoy-lunes-23-de-febrero-de-2026-tipo-de-cambio-actual-430288.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/23/f1280x720-493573_625248_5050.jpeg",
+      "PublishedAt": "2026-02-23T12:00:00Z",
+      "Content": "Ciudad de México.- ¡Arranca una nueva semana! Y si hoy, lunes 23 de febrero de 2026, tienes planeadas actividades bancarias que contemplan a la moneda oficial de los Estados Unidos (EU), es important… [+2016 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/13/f1280x720-492260_623935_5050.jpeg",
       "PublishedAt": "2026-02-13T12:00:00Z",
       "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, … [+2091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY viernes 13 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 13 de febrero inicia operaciones con el tipo de cambio interbancario en 17.23pesos mexicanos por billete verde, con una ganancia del 0.06 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ayer ante un declive global del dólar, lu…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/06/20/enterate-precio-dolar-cotiza-peso-6.jpeg",
-      "PublishedAt": "2026-02-13T11:58:00Z",
-      "Content": "El dólar HOY 13 de febrero inicia operaciones con el tipo de cambio interbancario en 17.23 pesos mexicanos por billete verde, con una ganancia del 0.06 por ciento, según datos de Bloomberg.\r\nEl peso … [+657 chars]"
     }
   ]
 }
