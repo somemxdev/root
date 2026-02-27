@@ -1,8 +1,112 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Mónica Cerdas Gómez",
+      "Title": "Dólar toca mínimo histórico: Esto dijo Rodrigo Chaves sobre el futuro del tipo de cambio",
+      "Description": "Tipo de cambio en el Monex llegó a ¢472,5 este 25 de febrero",
+      "Url": "https://www.nacion.com/economia/dolar-toca-minimo-historico-esto-dijo-rodrigo/YJD55S6HBZGLVMHGINYUS2FDQY/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/S7RB5GLD6JAHTEFDHFSTLQOY6E.jpg?smart=true&auth=9af4191f2055e7c5e44c0fcc7d997d00e3b475900f63d37e65e2a655be876acc&width=1440",
+      "PublishedAt": "2026-02-26T00:21:10Z",
+      "Content": "El presidente de Costa Rica, Rodrigo Chaves, respondió este miércoles 25 de febrero a quienes cuestionan la apreciación del colón frente al dólar y señaló que deben acostumbrarse. \r\nDígame qué quiere… [+2605 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca con ‘el pie izquierdo’ por inseguridad en México: ¿Cuánto pierde frente al dólar HOY?",
+      "Description": "El tipo de cambio se ubica en los 17.2140 pesos por dólar,  una depreciación de 0.23 por ciento o 3.87 centavos este miércoles 25 de febrero.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/25/peso-dolar-precio-hoy-25-de-febrero-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YW33NLCBQZB6DKDSZDJ7Z5GHHY.jpg?smart=true&auth=381ba6fe28ed7d9ce72c6eae491e6f1827fe153ec38479ba65e61a76dbd3cfaa&width=1200&height=630",
+      "PublishedAt": "2026-02-25T18:04:24Z",
+      "Content": "El peso mexicano inició la jornada este miércoles 25 de febrero cediendo terreno a pesar del debilitamiento que registra el billete estadounidense.\r\nHasta el momento los datos de Bloomberg reflejan q… [+1700 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY miércoles 25 de febrero 2026: Así amanece el peso mexicano",
+      "Description": "Este miércoles 25 de febrero de 2026 el precio del dólar se expone en un promedio de 17.1758 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/25/precio-del-dolar-en-mexico-hoy-miercoles-25-de-febrero-2026-asi-amanece-el-peso-mexicano-430505.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/25/f1280x720-493914_625589_5050.jpeg",
+      "PublishedAt": "2026-02-25T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este tercer día hábil de la semana tienes pensado realizar operaciones bancarias que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respuesta es afirmativa, ya s… [+2071 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Se levanta en el mastil mi bandera del peso: ¿Cuánto se aprecia ante el dólar HOY?",
+      "Description": "El peso puede apreciarse aún más en la jornada de este martes 24 de febrero si el presidente Donald Trump mantiene un 'tono conciliador' en su informe del Estado de la Nación.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/24/peso-dolar-precio-hoy-24-de-febrero-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KJ6QRDZ5OZH7FE5NXHBEYGV64Y.png?smart=true&auth=a0889eb82c5d344877c62beb04c446145837983c185b2d1ac84c9e22f7a73c75&width=1200&height=630",
+      "PublishedAt": "2026-02-24T16:36:34Z",
+      "Content": "El peso mexicano gana terreno al dólar en el Día de la Bandera, esto después de que se conoció que la inflación en México aceleró más de lo esperado en la primera quincena de febrero.\r\nSegún datos de… [+2215 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "¿Cuál es el precio del dólar en México HOY martes 24 de febrero de 2026? Tipo de cambio actual",
+      "Description": "Este martes 24 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.2727 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/24/cual-es-el-precio-del-dolar-en-mexico-hoy-martes-24-de-febrero-de-2026-tipo-de-cambio-actual-430392.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/24/f1280x720-493737_625412_5050.jpg",
+      "PublishedAt": "2026-02-24T12:00:00Z",
+      "Content": "Ciudad de México.- ¡Continúa la última semana del mes! Y si hoy, martes 24 de febrero de 2026, tienes pensado realizar transacciones bancarias que involucran a la moneda oficial de los Estados Unidos… [+2037 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "S. de Diego",
+      "Title": "La Junta de Paz de Trump estudia imponer una moneda estable en Gaza vinculada al dólar y creada por un israelí",
+      "Description": "El objetivo es que las empresas de los países árabes del Golfo ayuden a la reestructuración de la economía de la Franja de Gaza. \nMás información: Trump presenta su 'Junta de Paz' mientras prepara una guerra inminente contra Irán: \"No puede tener armas nuclea…",
+      "Url": "https://www.elespanol.com/mundo/oriente-proximo/20260224/junta-paz-trump-estudia-imponer-moneda-estable-gaza-vinculada-dolar-creada-israeli/1003744142968_0.html",
+      "UrlToImage": "https://s3.elespanol.com/2026/02/24/actualidad/1003744143148_261593507_1706x960.jpg?fmt=jpeg",
+      "PublishedAt": "2026-02-24T10:56:33Z",
+      "Content": "La Junta de Paz de Trump estudia crear una moneda estable digital vinculada al dólar para la Franja de Gaza, desarrollada por un ejecutivo israelí.\r\nEl objetivo de la criptomoneda es facilitar transa… [+4211 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Lautaro Brum",
+      "Title": "El dólar en Uruguay cae por cuarta jornada consecutiva y el interbancario se aleja de los $ 39",
+      "Description": "El dólar bajó y en lo que va del mes la moneda norteamericana disminuyó 0,38%, mientras que en el año cae 1,76%. En Argentina, la moneda también bajó.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-cae-por-cuarta-jornada-consecutiva-y-el-interbancario-se-aleja-de-los-39",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6a7b71c/2147483647/strip/true/crop/418x203+0+37/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2Fd2%2F80b0bf854459aba4002a6984a4cf%2Fdolar-blue.jpg",
+      "PublishedAt": "2026-02-24T06:10:00Z",
+      "Content": "El dólaren Uruguay cayó ayer por cuarta jornada consecutiva, en esta intancia 0,92% y el interbancario se negoció en promedio a $ 38,353. En la jornada, la moneda estadounidense cotizó entre $ 38,20 … [+1003 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Lucía Astorga",
+      "Title": "Banco Central: Retiro masivo del ROP dispararía la inflación, subiría las tasas y hundiría el precio de dólar",
+      "Description": "Estudo del Banco Central advierte que la eventual conversión de activos externos a colones incrementaría la liquidez en la economía y generaría efectos sobre inflación, tasas y mercado cambiario.",
+      "Url": "https://www.nacion.com/politica/banco-central-retiro-masivo-del-rop-dispararia-la/AM7OXGPYSJCOBN5F4U5SIIWOWI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/F652PJY7AFECRJCYVHS46E7U4Q.jpg?smart=true&auth=a386c87ebef04fbff9c4ba1efaa4d793e3d111a2a74d3acd60cb057a3375ba5c&width=1440",
+      "PublishedAt": "2026-02-24T00:11:41Z",
+      "Content": "El Banco Central de Costa Rica (BCCR) advirtió que las propuestas para acelerar el retiro de los fondos acumulados en el Régimen Obligatorio de Pensiones (ROP) tendría efectos macroeconómicos signifi… [+4439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -288,110 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/15/f1280x720-492487_624162_5050.jpg",
       "PublishedAt": "2026-02-15T12:00:00Z",
       "Content": "Ciudad de México.- Este domingo 15 de febrero de 2026 los bancos de México y demás instituciones financieras permanecen cerradas. No obstante, si para los siguientes días tienes pensado realizar oper… [+2027 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Negocios",
-      "Title": "Precio del dólar HOY sábado 14 de febrero de 2026 en México: ¿Cómo está el peso mexicano en el tipo de cambio?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.17 pesos por unidad, con una caída de 0.32 por ciento, de acuerdo con datos de Bloomberg.Ayer, el peso mexicano se…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/26/tipo-cambio-vende-dolar-bancos.jpg",
-      "PublishedAt": "2026-02-14T14:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.17 pesos por unidad, con una caída de 0.32 por ciento,… [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 14 de febrero de 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 14 de febrero del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/14/precio-del-dolar-hoy-sabado-14-de-febrero-de-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-429532.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/14/f1280x720-492421_624096_5369.jpg",
-      "PublishedAt": "2026-02-14T12:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Lautaro Brum",
-      "Title": "El dólar en Uruguay aumenta por cuarta jornada consecutiva y se acerca a los $ 39 a nivel interbancario",
-      "Description": "El dólar encadenó su cuarta suba consecutiva en el mercado local y cerró la semana con un avance de 0,84%, mientras se mantiene en alza en febrero pese a la caída acumulada en el año.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-aumenta-por-cuarta-jornada-consecutiva-y-se-acerca-a-los-39-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6e6973b/2147483647/strip/true/crop/6720x3267+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F09%2F3e34174f42bcaa220fa6e9bac322%2Fpexels-karolina-grabowska-4386442.jpg",
-      "PublishedAt": "2026-02-14T06:55:00Z",
-      "Content": "El dólaren Uruguay subió por cuarta jornada consecutiva ayer, esta vez 0,28%, y el interbancario se negoció en promedio a $ 38,841. En la jornada, la moneda estadounidense cotizó entre $ 38,80 y $ 38… [+1709 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso alcanza su mejor nivel del año y cierra en 17.14 por dólar",
-      "Description": "De acuerdo con los datos oficiales del banco central mexicano el peso osciló entre un mínimo de 17.13 y un máximo de 17.21, apuntando también un avance semanal del 0.67%.",
-      "Url": "https://aristeguinoticias.com/1302/dinero-y-economia/peso-alcanza-su-mejor-nivel-del-ano-y-cierra-en-17-14-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
-      "PublishedAt": "2026-02-14T00:10:23Z",
-      "Content": "El tipo de cambio cerró la séptima semana de 2026 con su menor nivel en lo que va del año, un registro no visto desde junio de 2024, al cotizar 17.14 pesos por dólar, según datos del Banco de México.… [+2287 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Dólar en la balanza: ¿Cómo cerró la cotización HOY 13 de febrero en México?",
-      "Description": "El peso mexicano se apreció con 0.36 por ciento, cerrando la jornada en 17.15 unidades por dólar, este viernes 13 de febrero de 2026.Mientras que la bolsa revirtió sus pérdidas iniciales, luego de una sesión errática marcada por la divulgación de cifras menor…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-13-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/27/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2026-02-13T23:05:01Z",
-      "Content": "El peso mexicano se apreció con 0.36 por ciento, cerrando la jornada en 17.15 unidades por dólar, este viernes 13 de febrero de 2026.\r\nMientras que la bolsa revirtió sus pérdidas iniciales, luego de … [+2977 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central compró esta semana US$632 millones para que el dólar mayorista no se aleje de los $1400",
-      "Description": "Analistas ven a la entidad dispuesta a sostener al tipo de cambio para cuidar la competitividad",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-compro-esta-semana-us632-millones-para-que-el-mayorista-no-se-aleje-de-los-1400-nid13022026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-estrategia-oficial-buscaria-no-incrementar-los-5NHFVQMCW5BBVID5JDGCG6UJUQ.jpg?auth=a69e5fd7c5016b28d78717c8e3a0e4d6b6e44874fc3fabb304bc5378a528e23e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2026-02-13T21:47:23Z",
-      "Content": "El mercado comenzó a tomar nota y busca intrepetar la actitud que tomó en las últimas ruedas el Banco Central (BCRA), al volver a incrementar sus compras de dólares mediante intervenciones sobre la p… [+5198 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Fernanda Murillo",
-      "Title": "Inflación en EU debilita al dólar: peso mexicano se aprecia al cierre de la semana",
-      "Description": "El peso mexicano reafirmó su fortaleza en los mercados internacionales al concluir la semana en 17.16 unidades por dólar, hilando ganancias tanto en la jornada como en el balance semanal.Además, la divisa local registró una apreciación diaria de 0.37 por cien…",
-      "Url": "https://www.milenio.com/negocios/inflacion-en-eu-debilita-al-dolar-peso-mexicano-se-aprecia",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/11/06/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2026-02-13T21:46:18Z",
-      "Content": "El peso mexicano reafirmó su fortaleza en los mercados internacionales al concluir la semana en 17.16 unidades por dólar, hilando ganancias tanto en la jornada como en el balance semanal.\r\nAdemás, la… [+3057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY viernes 13 de febrero de 2026: Así amanece el tipo de cambio",
-      "Description": "Este viernes 13 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.2376 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/13/precio-del-dolar-en-mexico-hoy-viernes-13-de-febrero-de-2026-asi-amanece-el-tipo-de-cambio-429424.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/13/f1280x720-492260_623935_5050.jpeg",
-      "PublishedAt": "2026-02-13T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, … [+2091 chars]"
     }
   ]
 }

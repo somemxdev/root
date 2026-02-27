@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Federalreserve.gov"
+      },
+      "Author": null,
+      "Title": "FEDS Paper: Contrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems",
+      "Description": "Melissa LeistraThis paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.",
+      "Url": "https://www.federalreserve.gov/econres/feds/contrasting-ledgers-considerations-for-us-dollar-interbank-payment-systems.htm",
+      "UrlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "PublishedAt": "2026-02-25T22:00:00Z",
+      "Content": "February 2026\r\nContrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems\r\nMelissa Leistra\r\nAbstract:\r\nThis paper describes the current U.S. dollar interbank payments landscape and… [+921 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Atmadip Ray",
+      "Title": "IIFL Finance to raise up to $750 million via ECBs, dollar bonds",
+      "Description": "Fairfax-backed IIFL Finance is planning to raise $500-750 million in external commercial borrowings and dollar bonds this March. This move aims to diversify its funding sources and support business growth, with discussions underway with existing investors and…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-to-raise-up-to-750-million-via-ecbs-dollar-bonds/articleshow/128798313.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-128792410,width-1200,height-630,imgsize-7082,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-02-25T18:40:55Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Atmadip Ray",
+      "Title": "IIFL Finance to raise up to $750 million via ECBs, dollar bonds",
+      "Description": "Fairfax-backed IIFL Finance is planning to raise $500-750 million in external commercial borrowings and dollar bonds this March. This move aims to diversify its funding sources and support business growth, with discussions underway with existing investors and…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-to-raise-up-to-750-million-via-ecbs-dollar-bonds/articleshow/128792394.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-128792410,width-1200,height-630,imgsize-7082,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-02-25T18:40:55Z",
+      "Content": "Kolkata: Fairfax-backed IIFL Finance plans to raise $500-750 million (4,547-6,820 crore) in external commercial borrowings and dollar bonds in March, as part of its strategy to diversify the resource… [+1720 chars]"
+    },
     {
       "Source": {
         "Id": "techradar",
