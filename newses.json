@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY domingo 1 de marzo de 2026 en México: ¿Cómo amaneció el peso mexicano?",
+      "Description": "Este domingo 1 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.2295 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/1/precio-del-dolar-hoy-domingo-de-marzo-de-2026-en-mexico-como-amanecio-el-peso-mexicano-430885.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/1/f1280x720-494512_626187_5050.jpeg",
+      "PublishedAt": "2026-03-01T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 1 de marzo de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para la siguiente semana tien… [+2060 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Alejandra HolguÍn",
+      "Title": "Precio del dólar HOY sábado 28 de febrero de 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 28 de febrero del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/28/precio-del-dolar-hoy-sabado-28-de-febrero-de-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-430825.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/4/f1280x720-490895_622570_5050.jpg",
+      "PublishedAt": "2026-02-28T12:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1953 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘amanece’ con pérdidas: ¿Cuánto se deprecia HOY frente al dólar por dato de inflación en EU?",
+      "Description": "En ventanillas bancarias, el precio del dólar ahora se coloca en los 17.64 pesos cada uno, según los datos publicados por Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/27/peso-dolar-precio-hoy-27-de-febrero-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MUFXI72JERAW3DDHSN3I5Q6OYY.jpg?smart=true&auth=cd86ab384850cea1546e3ed2d84abc91be58ce54324088af6acdd8a45e998d3d&width=1200&height=630",
+      "PublishedAt": "2026-02-27T16:43:03Z",
+      "Content": "El peso mexicano opera con retrocesos frente al dólar, al tiempo que el mercado analiza el reporte de inflación al productor publicado para la economía estadounidense.\r\nLas cifras de Bloomberg indica… [+1682 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar HOY viernes 27 de febrero de 2026 en México: Tipo de cambio actual",
+      "Description": "Este viernes 27 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1882 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/27/precio-del-dolar-hoy-viernes-27-de-febrero-de-2026-en-mexico-tipo-de-cambio-actual-430721.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/27/f1280x720-494258_625933_7770.jpg",
+      "PublishedAt": "2026-02-27T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, … [+2082 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Fabián Tiscornia",
+      "Title": "El dólar en Uruguay se incrementa y se queda muy cerca de los $ 38,50 a nivel interbancario",
+      "Description": "La divisa estadounidense subió 0,10% ayer y se negoció en promedio a $ 38,436 y cerró a $ 38,45. El valor de cierre aumenta 0,16% respecto al del miércoles.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-se-incrementa-y-se-queda-muy-cerca-de-los-38-50-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6e6973b/2147483647/strip/true/crop/6720x3267+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F09%2F3e34174f42bcaa220fa6e9bac322%2Fpexels-karolina-grabowska-4386442.jpg",
+      "PublishedAt": "2026-02-27T06:05:00Z",
+      "Content": "El dólaren Uruguay subió 0,10% ayer y se negoció en promedio a $ 38,436. En la jornada, la divisa estadounidense cotizó entre $ 38,35 y $ 38,55 para finalizar en el $ 38,45. El valor de cierre aument… [+1240 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY jueves 26 de febrero de 2026: Tipo de cambio actual",
+      "Description": "Este jueves 26 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1833 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/2/26/precio-del-dolar-en-mexico-hoy-jueves-26-de-febrero-de-2026-tipo-de-cambio-actual-430614.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/26/f1280x720-494091_625766_5050.jpeg",
+      "PublishedAt": "2026-02-26T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2064 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/27/cotiza-peso-mexicano-frente-dolar.jpg",
       "PublishedAt": "2026-02-17T21:53:00Z",
       "Content": "El peso mexicano se apreció con 0.21 por ciento, cerrando la jornada en 17.12 unidades por dólar, este martes 17 de febrero de 2026.\r\nMientras que la Bolsa Mexicana de Valores (BMV) se debilitó, lueg… [+2889 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY martes 17 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 17 de febrero inicia operaciones con el tipo de cambio interbancario en 17.18 pesos mexicanos por billete verde, con una ganancia del 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el viernes luego de la divulgación de un…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-17-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/13/mujer-sostiene-billetes-dolar-estadunidense.jpg",
-      "PublishedAt": "2026-02-17T12:05:00Z",
-      "Content": "El dólar HOY 17 de febrero inicia operaciones con el tipo de cambio interbancario en 17.18 pesos mexicanos por billete verde, con una ganancia del0.07 por ciento, según datos de Bloomberg.\r\nEl peso m… [+605 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY MARTES 17 de febrero de 2026 en México: Tipo de cambio actual",
-      "Description": "Este martes 17 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1807 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/17/precio-del-dolar-hoy-martes-17-de-febrero-de-2026-en-mexico-tipo-de-cambio-actual-429751.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/17/f1280x720-492747_624422_5050.jpg",
-      "PublishedAt": "2026-02-17T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Continúa la semana! Y si hoy, martes 17 de febrero de 2026, tienes pensado realizar transacciones bancarias que involucran a la divisa oficial de los Estados Unidos (EU), es indis… [+2029 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters ,Redacción",
-      "Title": "Así quedó la cotización del dólar en México este lunes 16 de febrero de 2026",
-      "Description": "El peso mexicano mostró movimientos acotados, sin presentar cambios, con una cotización de 17.15 unidades por dólar, este lunes 16 de enero de 2026.La Bolsa Mexicana de Valores (BMV), por su parte, retrocedió, aunque se mantuvo oscilando muy cerca de sus máxi…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-16-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/30/participacion-utilidades-derecho-personas-trabajadoras.jpg",
-      "PublishedAt": "2026-02-16T22:20:00Z",
-      "Content": "El peso mexicano mostró movimientos acotados, sin presentar cambios, con una cotización de 17.15 unidades por dólar, este lunes 16 de enero de 2026.\r\nLa Bolsa Mexicana de Valores (BMV), por su parte,… [+3431 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez,Karla Vázquez",
-      "Title": "Precio del dólar HOY lunes 16 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 16 de febrero inicia operaciones con el tipo de cambio interbancario en 17.15 pesos mexicanos por billete verde, con una pérdida, del 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el viernes luego de la divulgación de un…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/billete-dolar-estadunidense-aparece-grafico.jpg",
-      "PublishedAt": "2026-02-16T12:09:00Z",
-      "Content": "El dólar HOY 16 de febrero inicia operaciones con el tipo de cambio interbancario en 17.15 pesos mexicanos por billete verde, con una pérdida, del 0.07 por ciento, según datos de Bloomberg.\r\nEl peso … [+607 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY lunes 16 de febrero de 2026: Así amanece el peso mexicano",
-      "Description": "Este lunes 16 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1591 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/16/precio-del-dolar-en-mexico-hoy-lunes-16-de-febrero-de-2026-asi-amanece-el-peso-mexicano-429645.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/16/f1280x720-492590_624265_5050.jpg",
-      "PublishedAt": "2026-02-16T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Arranca una nueva semana! Y si hoy, lunes 16 de febrero de 2026, tienes planeado realizar actividades bancarias que involucran a la moneda oficial de los Estados Unidos (EU), es c… [+2030 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY domingo 15 de febrero 2026: ¿Cuál es el tipo de cambio actual?",
-      "Description": "Te decimos cuál es el precio del dólar en los bancos de México este domingo 15 de febrero de 2026, día previo al inicio de operaciones bancarias",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/15/precio-del-dolar-en-mexico-hoy-domingo-15-de-febrero-2026-cual-es-el-tipo-de-cambio-actual-429586.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/15/f1280x720-492487_624162_5050.jpg",
-      "PublishedAt": "2026-02-15T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 15 de febrero de 2026 los bancos de México y demás instituciones financieras permanecen cerradas. No obstante, si para los siguientes días tienes pensado realizar oper… [+2027 chars]"
     }
   ]
 }
