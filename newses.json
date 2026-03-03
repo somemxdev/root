@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Matthew Griffin, Ruth Carson y Matthew Burgess",
+      "Title": "Guerra en Medio Oriente: ¿Cómo le afectan las tensiones entre EU e Irán al tipo de cambio peso-dólar?",
+      "Description": "¿Qué pasará con el peso mexicano tras la escalada de la guerra en Medio Oriente? Estos son los pronósticos para el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/bloomberg/2026/03/01/precio-del-dolar-sube-en-mexico-por-guerra-estados-unidos-iran-como-afecta-al-peso-mexicano/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KDHHD7FEWVGNJCR5J5RXSLIBCQ.jpeg?smart=true&auth=d4ebf82639a19666bd3951283632a114fbab393027acf42f9cc6d1c0d1a5d038&width=1200&height=630",
+      "PublishedAt": "2026-03-01T23:39:18Z",
+      "Content": "La escalada de la guerra en Medio Oriente está poniendo a prueba nuevamente la resiliencia del mercado global mientras los inversores se preparan para la apertura de los mercados de acciones, bonos y… [+4825 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2026/02/18/fotos/017n2eco-1.jpg",
       "PublishedAt": "2026-02-18T09:30:22Z",
       "Content": "Periódico La JornadaMiércoles 18 de febrero de 2026, p. 17\r\nEl dólar, a pesar de su fortaleza mundial, no inhibió ayer el avance del peso mexicano. Mientras el oro y el petróleo giraron a las pérdida… [+2761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Dólar en la balanza: ¿Cómo cerró la cotización este 17 de febrero, en México?",
-      "Description": "El peso mexicano se apreció con 0.21 por ciento, cerrando la jornada en 17.12 unidades por dólar, este martes 17 de febrero de 2026.Mientras que la Bolsa Mexicana de Valores (BMV) se debilitó, luego de una jornada volátil marcada por declaraciones de autorida…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-17-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/27/cotiza-peso-mexicano-frente-dolar.jpg",
-      "PublishedAt": "2026-02-17T21:53:00Z",
-      "Content": "El peso mexicano se apreció con 0.21 por ciento, cerrando la jornada en 17.12 unidades por dólar, este martes 17 de febrero de 2026.\r\nMientras que la Bolsa Mexicana de Valores (BMV) se debilitó, lueg… [+2889 chars]"
     }
   ]
 }
