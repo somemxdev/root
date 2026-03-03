@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso mexicano registra pérdidas frente al dólar tras conflicto entre Trump e Irán: Así va el tipo de cambio",
+      "Description": "Así es como el peso mexicano enfrenta la escalada del conflicto en Medio Oriente y la apreciación del dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/01/sube-el-precio-del-dolar-en-mexico-por-conflicto-entre-donald-trump-israel-e-iran-tipo-de-cambio-en-vivo-1-de-marzo/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VOGW7U4DA5BBJK32EP5IQPBGXU.jpg?smart=true&auth=5ca5d656e1c52e016529d65fa4002bf764e52ccb7ae91fdf6e41c239fd12be92&width=1200&height=630",
+      "PublishedAt": "2026-03-02T00:55:16Z",
+      "Content": "El peso mexicano se depreció frente al dólar la tarde de este domingo 1 de marzo, tras la apertura de mercados asiáticos y luego de los ataques de Estados Unidos e Israel contra Irán, en una operació… [+2137 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/18/f1280x720-492917_624592_5050.jpeg",
       "PublishedAt": "2026-02-18T12:00:00Z",
       "Content": "Ciudad de México.- ¿Este tercer día hábil de la semana tienes planeado realizar transacciones bancarias que contemplan a la divisa oficial de los Estados Unidos (EU)? Si la respuesta es afirmativa, y… [+2082 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso gana frente al dólar; la bolsa mexicana, a la baja",
-      "Description": "El dólar, a pesar de su fortaleza mundial, no inhibió ayer el avance del peso mexicano. Mientras el oro y el petróleo giraron a las pérdidas, la moneda mexicana registró una apreciación de 0.17 por ciento, equivalente a 3 centavos frente a la estadunidense, p…",
-      "Url": "https://www.jornada.com.mx/2026/02/18/economia/017n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2026/02/18/fotos/017n2eco-1.jpg",
-      "PublishedAt": "2026-02-18T09:30:22Z",
-      "Content": "Periódico La JornadaMiércoles 18 de febrero de 2026, p. 17\r\nEl dólar, a pesar de su fortaleza mundial, no inhibió ayer el avance del peso mexicano. Mientras el oro y el petróleo giraron a las pérdida… [+2761 chars]"
     }
   ]
 }
