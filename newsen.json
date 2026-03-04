@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 19,
+  "TotalResults": 20,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Israelnationalnews.com"
+      },
+      "Author": null,
+      "Title": "The dollar exchange rate has been set at 3.073 shekels",
+      "Description": "Real time news brief - The dollar exchange rate has been set at 3.073 shekels - Israel National News flashes around the clock are waiting for you on the site",
+      "Url": "https://www.israelnationalnews.com/flashes/677666",
+      "UrlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "PublishedAt": "2026-03-02T13:52:14Z",
+      "Content": "The U.S. dollar weakened by 1.57%, with its representative rate set at 3.073 shekels. The euro fell by 2.245%, with its rate set at 3.605 shekels."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "IIFL Finance eyes $750 million fundraise via social dollar bonds",
+      "Description": "Gold loan financier IIFL Finance plans to raise as much as $750 ​million through a combination of debut dollar-denominated social bonds and an overseas loan ‌in March, two banking sources and a company source aware ​of the matter said on Monday.",
+      "Url": "https://www.thehindubusinessline.com/companies/iifl-finance-eyes-750-million-fundraise-via-social-dollar-bonds/article70694973.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/prcwcw/article70694990.ece/alternates/LANDSCAPE_1200/IMG_BL18_IIFL_new_2_1_JQDS2V3T.jpg",
+      "PublishedAt": "2026-03-02T10:20:23Z",
+      "Content": "Gold loan financier IIFL Finance plans to raise as much as $750 million through a combination of debut dollar-denominated social bonds and an overseas loan in March, two banking sources and a company… [+2189 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -236,19 +262,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-employee-st.jpg?resize=1365,800",
       "PublishedAt": "2026-02-04T10:15:55Z",
       "Content": "A US bank employee has allegedly stolen a pile of cash from the lender, triggering tens of thousands of dollars in losses.\r\nThe Federal Deposit Insurance Corporation (FDIC) accuses Matthew Lewis Robi… [+1377 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Liam 'Akiba' Wright",
-      "Title": "Foreign money from UAE royal reportedly buying Trump influence through WLFI digital dollar",
-      "Description": "New reports says Abu Dhabi royal Sheikh Tahnoon bin Zayed al-Nahyan, or investors tied to him, agreed in January 2025 to invest $500 million into Trump-linked World Liberty Financial for about a 49% stake. WLFI, the governance token of World Liberty Financial…",
-      "Url": "https://cryptoslate.com/foreign-money-from-uae-royal-reportedly-buying-trump-influence-through-wlfi-digital-dollar/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/02/wlfi-uae-chip-.jpg",
-      "PublishedAt": "2026-02-02T17:10:04Z",
-      "Content": "New reports says Abu Dhabi royal Sheikh Tahnoon bin Zayed al-Nahyan, or investors tied to him, agreed in January 2025 to invest $500 million into Trump-linked World Liberty Financial for about a 49% … [+7864 chars]"
     }
   ]
 }

@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Guerra entre EU, Israel e Irán ‘bombardea’ al peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Un nuevo capítulo de la guerra entre la alianza EU-Israel contra Irán está afectando a las monedas de mercados emergentes por un aumento en la aversión al riesgo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/02/peso-dolar-precio-hoy-2-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E72M3PPMENA7ZHYEVJXAYNU7SI.png?smart=true&auth=599791d2778d7ae2fc9ec664f17ef6e465608ce4a86b0a587c246c2eb7fb8f97&width=1200&height=630",
+      "PublishedAt": "2026-03-02T16:16:58Z",
+      "Content": "El peso mexicano se ve afectado este lunes 2 de marzo por el guerra en Medio Oriente y pierde ante el dólar debido al crecimiento de la aversión el riesgo en los mercados. \r\nIsrael asesinó al ayatolá… [+1660 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY en México: Así amaneció el peso mexicano este LUNES 2 de marzo de 2026",
+      "Description": "Este lunes 2 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.3177 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/2/precio-del-dolar-hoy-en-mexico-asi-amanecio-el-peso-mexicano-este-lunes-de-marzo-de-2026-430953.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/2/f1280x720-494635_626310_5050.jpeg",
+      "PublishedAt": "2026-03-02T12:00:00Z",
+      "Content": "Ciudad de México.- ¡Arranca la primera semana del mes! Y si hoy, lunes 2 de marzo de 2026, tienes pensadas transacciones que contemplan a la moneda oficial de los Estados Unidos (EU), es importante q… [+2019 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": null,
+      "Title": "Donald Trump, el dólar y los aranceles: ¿puede el yuan convertirse en una moneda de reserva?",
+      "Description": "Los países que han ido firmando acuerdos bilaterales con Estados Unidos —como Argentina—, \"se empiezan a preguntar para qué sirve este acuerdo\", afirma Héctor Torres, ex director del FMI y ex consejero de la OMC.",
+      "Url": "https://www.elpais.com.uy/economia-y-mercado/trump-el-dolar-y-los-aranceles-puede-elyuan-convertirtse-en-una-moneda-de-reserva",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/223cd1c/2147483647/strip/true/crop/2086x1014+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F01%2F6dc066414ab2bbb293d6e15a1582%2Fhector-r-torres-21502424.jpg",
+      "PublishedAt": "2026-03-02T07:00:00Z",
+      "Content": "La réplica de Donald Trump a la resolución de la Corte Suprema de EE.UU. que suspendió la aplicación de aranceles tiene varios puntos débiles y genera una gran confusión entre sus socios comerciales.… [+9293 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/17/peso-mexicano-alcanza-nivel-meses.jpeg",
       "PublishedAt": "2026-02-18T21:55:00Z",
       "Content": "El peso mexicano se debilitó 0.51 por ciento, cerrando la jornada en 17.21 unidades por dólar, este miércoles 18 de febrero de 2026.\r\n La depreciación del peso ocurrió ante un fortalecimiento del dól… [+4574 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso pierde ante el dólar antes de publicación de las minutas de la Fed: ¿En cuánto está el tipo de cambio?",
-      "Description": "Si las minutas de la Fed muestran que el Banco Central adoptará una postura más restrictiva, el peso podría depreciarse más ante el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/18/peso-dolar-precio-hoy-18-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/M3GVYGBKFZF2HCZ4VVWBIQ2VNM.png?smart=true&auth=bed687e9cb0a36c6e7d4091a9725539514eb36538ebac62bb11208dcd14bd226&width=1200&height=630",
-      "PublishedAt": "2026-02-18T17:32:52Z",
-      "Content": "El peso mexicano se deprecia ligeramente ante el dólar en la sesión de este miércoles 18 de febrero, mientras espera a la publicación de las minutas de la Reserva Federal que pausó los recortes a la … [+1781 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY martes 18 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 18 de febrero inicia operaciones con el tipo de cambio interbancario en 17.11 pesos mexicanos por billete verde, con una pérdida del 0.07 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el viernes luego de la divulgación de un …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-18-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/08/26/tipo-cambio-vende-dolar-bancos.jpg",
-      "PublishedAt": "2026-02-18T13:44:00Z",
-      "Content": "El dólar HOY 18 de febrero subía, en un momento en que los riesgos geopolíticos mantienen a los mercados atentos y los inversionistas esperan las acciones de la Reserva Federal (Fed, por sus siglos e… [+1032 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY miércoles 18 de febrero 2026 en México: Así amanece el tipo de cambio",
-      "Description": "Este miércoles 18 de febrero de 2026 el precio del dólar se expone en un promedio de 17.0959 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/18/precio-del-dolar-hoy-miercoles-18-de-febrero-2026-en-mexico-asi-amanece-el-tipo-de-cambio-429861.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/18/f1280x720-492917_624592_5050.jpeg",
-      "PublishedAt": "2026-02-18T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este tercer día hábil de la semana tienes planeado realizar transacciones bancarias que contemplan a la divisa oficial de los Estados Unidos (EU)? Si la respuesta es afirmativa, y… [+2082 chars]"
     }
   ]
 }
