@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar HOY en México: ¿Cómo amaneció el peso mexicano este MARTES 3 de marzo?",
+      "Description": "Te decimos cuál es el precio del dólar que manejan los bancos de México este martes 3 de marzo de 2026; anticipa tus transacciones",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/3/precio-del-dolar-hoy-en-mexico-como-amanecio-el-peso-mexicano-este-martes-de-marzo-431041.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/3/f1280x720-494787_626462_5050.jpeg",
+      "PublishedAt": "2026-03-03T12:00:00Z",
+      "Content": "Ciudad de México.-  Si hoy, martes 3 de marzo de 2026, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU), es clave que te informes sobre cuál es el … [+1987 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/19/f1280x720-493097_624772_5050.jpg",
       "PublishedAt": "2026-02-19T12:00:00Z",
       "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya … [+2072 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Así quedó la cotización del dólar en México este miércoles 18 de febrero de 2026",
-      "Description": "El peso mexicano se debilitó 0.51 por ciento, cerrando la jornada en 17.21 unidades por dólar, este miércoles 18 de febrero de 2026. La depreciación del peso ocurrió ante un fortalecimiento del dólar estadounidense de 0.50 por ciento de acuerdo con el índice …",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-18-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/04/17/peso-mexicano-alcanza-nivel-meses.jpeg",
-      "PublishedAt": "2026-02-18T21:55:00Z",
-      "Content": "El peso mexicano se debilitó 0.51 por ciento, cerrando la jornada en 17.21 unidades por dólar, este miércoles 18 de febrero de 2026.\r\n La depreciación del peso ocurrió ante un fortalecimiento del dól… [+4574 chars]"
     }
   ]
 }
