@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "AI Agents Pick Bitcoin Over US Dollar As Best Form of Money, According To Crypto Think Tank",
+      "Description": "AI agents strongly prefer to transact with Bitcoin over other forms of money, according to a new study. Researchers at the Bitcoin Policy Institute say they ran 9,072 controlled experiments across 36 leading AI models. In the blank-slate scenarios, 48.3% of r…",
+      "Url": "https://dailyhodl.com/2026/03/04/ai-agents-pick-bitcoin-over-us-dollar-as-best-form-of-money-according-to-crypto-think-tank/",
+      "UrlToImage": null,
+      "PublishedAt": "2026-03-04T08:04:56Z",
+      "Content": "AI agents strongly prefer to transact with Bitcoin over other forms of money, according to a new study.\r\nResearchers at the Bitcoin Policy Institute say they ran 9,072 controlled experiments across 3… [+1693 chars]"
+    },
     {
       "Source": {
         "Id": null,

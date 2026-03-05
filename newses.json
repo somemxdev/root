@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY en México: ¿Cuál es el tipo de cambio este MIÉRCOLES 4 de marzo de 2026?",
+      "Description": "Este miércoles 4 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.5922 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/4/precio-del-dolar-hoy-en-mexico-cual-es-el-tipo-de-cambio-este-miercoles-de-marzo-de-2026-431150.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/4/f1280x720-494946_626621_5050.jpg",
+      "PublishedAt": "2026-03-04T12:00:00Z",
+      "Content": "Ciudad de México.-  Si hoy, miércoles 4 de marzo de 2026, tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos (EU), es indispensable que te informes sobre … [+2016 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/20/f1280x720-493226_624901_5050.jpg",
       "PublishedAt": "2026-02-20T12:00:00Z",
       "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2085 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Dólar en la balanza: ¿Cómo cerró la cotización HOY 19 de Febrero en México?",
-      "Description": "El peso mexicano retrocedió con 0.33 por ciento, cerrando la jornada en 17.25 unidades por dólar, este jueves 19 de febrero de 2026.La divisa nacional anotaba su segunda jornada en declive luego de haberse aproximado brevemente a la barrera de 17 unidades, un…",
-      "Url": "https://www.milenio.com/negocios/cierre-del-dolar-cotizacion-peso-mexicano-hoy-19-febrero-2026",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/12/peso-mexicano-frente-dolar-foto.jpg",
-      "PublishedAt": "2026-02-19T21:48:00Z",
-      "Content": "El peso mexicano retrocedió con 0.33 por ciento, cerrando la jornada en 17.25 unidades por dólar, este jueves 19 de febrero de 2026.\r\nLa divisa nacional anotaba su segunda jornada en declive luego de… [+2130 chars]"
     }
   ]
 }
