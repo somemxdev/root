@@ -5,6 +5,58 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "El Banco Central lleva 40 ruedas comprando, pero bajó el ritmo para no sumar presión al dólar",
+      "Description": "Adquirió apenas US$17 millones, menos del 5% de lo operado en el mercado",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-lleva-40-ruedas-comprando-pero-bajo-el-ritmo-para-no-sumar-presion-al-dolar-nid03032026/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-intervencion-del-bcra-busco-no-alterar-la-RY4NWELRCNB4PPTGQ6LGZT44YQ.JPG?auth=4edef86102ed1c56baf41818b16ceb7df56fc5a8a0d2b1f9443fdf1273473923&width=1200&quality=85&smart=true&height=675",
+      "PublishedAt": "2026-03-03T20:34:28Z",
+      "Content": "El Banco Central (BCRA) completó hoy 40 ruedas consecutivas comprando dólares en el mercado local, aunque por primera vez en más de un mes y medio se quedó con menos del 5% del volumen operado.\r\nSe a… [+2548 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Fabián Tiscornia",
+      "Title": "Banco Central reduce tasa de interés de referencia a 5,75% al evaluar efectos del conflicto en Medio Oriente y el dólar",
+      "Description": "El directorio del Banco Central (BCU) resolvió por unanimidad reducir la tasa de interés de referencia, es decir \"el precio del dinero\" en 75 puntos básicos.",
+      "Url": "https://www.elpais.com.uy/negocios/finanzas/banco-central-reduce-tasa-de-interes-de-referencia-a-5-75-al-evaluar-efectos-del-conflicto-en-medio-oriente-y-el-dolar",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/c90f4f2/2147483647/strip/true/crop/3606x2254+0+46/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F40%2F00bef9d8449ca1149b7e2db1a4c7%2Farchive-fotos-1-2597800-70fdb6de4f08472f5111064ae4ce3a2b-15507579.jpg",
+      "PublishedAt": "2026-03-03T20:15:56Z",
+      "Content": "El directorio del Banco Central (BCU) resolvió este martes por unanimidad reducir la tasa de interés de referencia, es decir \"el precio del dinero\" en 75 puntos básicos. Es la séptima reunión consecu… [+3272 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Expansión",
+      "Title": "El euro sigue cayendo frente al dólar porque los inversores se refugian en el 'billete verde'",
+      "Description": "El euro se cambiaba hacia las 16:00 horas del martes a 1,1577 dólares, frente a los 1,1697 dólares en las últimas horas de la negociación europea del mercado de divisas de la jornada anterior. Leer",
+      "Url": "https://www.expansion.com/mercados/divisas/2026/03/03/69a710e3e5fdead13d8b4596.html",
+      "UrlToImage": "https://e01-phantom-expansion.uecdn.es/bf175aeafb8218806e0de2eb5bcd2541/crop/40x0/2027x1325/resize/1200/f/webp/assets/multimedia/imagenes/2022/03/02/16462370851291.jpg",
+      "PublishedAt": "2026-03-03T16:48:47Z",
+      "Content": "El euro se cambiaba hacia las 16:00 horas del martes a 1,1577 dólares, frente a los 1,1697 dólares en las últimas horas de la negociación europea del mercado de divisas de la jornada anterior.El euro… [+2630 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se desploma ante el dólar por guerra en Medio Oriente: Tipo de cambio sube a 17.73 unidades",
+      "Description": "El dólar se fortalece a nivel mundial gracias que los inversionistas mueven sus capitales a este activo de refugio. Este movimiento provoca un desplome en la cotización de las monedas de mercados emergentes, como el peso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/03/peso-dolar-precio-hoy-3-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KQH76DYWBRC37JQFVSYPKMWB6M.png?smart=true&auth=dbb6b696f2b5e8b795b24709dd06a97037f0ee37f1357f87c270ba76860b7404&width=1200&height=630",
+      "PublishedAt": "2026-03-03T15:30:06Z",
+      "Content": "El peso mexicano pierde cerca de 50 centavos ante el dólar este martes 3 de marzo ante la incertidumbre por la guerra entre EU, Israel e Irán. \r\nEl conflicto armado en Medio Oriente provoca que los i… [+2057 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Tribuna.com.mx"
       },
@@ -340,58 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/07/12/peso-mexicano-frente-dolar-foto.jpg",
       "PublishedAt": "2026-02-19T21:48:00Z",
       "Content": "El peso mexicano retrocedió con 0.33 por ciento, cerrando la jornada en 17.25 unidades por dólar, este jueves 19 de febrero de 2026.\r\nLa divisa nacional anotaba su segunda jornada en declive luego de… [+2130 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El peso está entre las tres monedas que más se apreció frente al dólar",
-      "Description": "Está en el podio, detrás del real de Brasil y el peso mexicano;  la mejora fue de 4,36% frente a la divisa norteamericana",
-      "Url": "https://www.lanacion.com.ar/economia/el-peso-esta-entre-las-tres-monedas-que-mas-se-aprecio-frente-al-dolar-nid19022026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/los-vaivenes-del-dolar-en-el-mundo-y-el-ID6HUWFYURE7DAURXPDYDJ2PBE.JPG?auth=29282e7adf6f5c48c4ef1a579eb141eb9494e84b7fb0d1b2d9db3357fd21d204&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2026-02-19T21:02:11Z",
-      "Content": "El peso argentino figura en el top tres de las monedas del mundo más apreciadas frente al dólar estadounidense en lo que va del presente año.\r\nSe revalorizó hasta aquí -considerando el descenso de $7… [+3962 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Peru21.pe"
-      },
-      "Author": "Nicolás Castillo Arévalo",
-      "Title": "Dólar hoy: ¿cómo reacciona el tipo de cambio con la elección de Balcazar como presidente?",
-      "Description": "Dólar hoy: cómo reacciona el tipo de cambio con lección Balcazar. En el plano internacional, el dólar operaba al alza debido a que las actas de la FED mostraran que no subirían tasas",
-      "Url": "https://peru21.pe/economia/dolar-hoy-como-reacciona-el-tipo-de-cambio-con-eleccion-de-balcazar/",
-      "UrlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2023-10/MUMESFS4BZF5NHDU37VU2KW4GE.jpg?itok=NiQnNKfw",
-      "PublishedAt": "2026-02-19T15:47:30Z",
-      "Content": "El dólar empezó la jornada al alza. El tipo de cambió hasta alrededor de las 10:30 a.m. cotizaba en 3.3644 soles por dólar, un incremento de 0.34% frente a la víspera. En la jornada del miércoles, el… [+961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Miriam Ramírez",
-      "Title": "Precio del dólar HOY miércoles 19 de febrero de 2026: ¿Cuál es el tipo de cambio en México?",
-      "Description": "El dólar HOY 19 de febrero inicia operaciones con el tipo de cambio interbancario en 17.25 pesos mexicanos por billete verde, con una ganancia del 0.25 por ciento, según datos de Bloomberg.El peso mexicano mostraba pocos cambios, consolidando en torno a sus m…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-febrero-2026-a-cuanto-cotiza-en-vivo-atm",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/05/01/anda-dolar-frente-peso-mexicano.jpg",
-      "PublishedAt": "2026-02-19T12:00:14Z",
-      "Content": "El peso mexicano se debilitó 0.51 por ciento, cerrando la jornada en 17.21 unidades por dólar, ayer miércoles 18 de febrero de 2026.\r\nMientras que la Bolsa Mexicana de Valores (BMV) también cedió, al… [+996 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "Precio del dólar HOY jueves 19 de febrero de 2026: Peso mexicano pierde terreno",
-      "Description": "Este jueves 19 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.2518 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/19/precio-del-dolar-hoy-jueves-19-de-febrero-de-2026-peso-mexicano-pierde-terreno-429976.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/19/f1280x720-493097_624772_5050.jpg",
-      "PublishedAt": "2026-02-19T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya … [+2072 chars]"
     }
   ]
 }
