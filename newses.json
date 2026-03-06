@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se recupera del ‘trancazo’ por guerra de EU vs. Irán: ¿Cuánto gana al dólar HOY?",
+      "Description": "El New York Times publicó que agentes de Irán se contactaron con la administración de Trump para negociar el fin a los ataques contra Teherán.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/04/peso-dolar-precio-hoy-4-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QM7OULKCMVBZFBHWK5ECJF6ZNY.png?smart=true&auth=1b00c522f60911bf1d5548786d712d391dda3ae8f91cb155055479a804daaca9&width=1200&height=630",
+      "PublishedAt": "2026-03-04T16:32:57Z",
+      "Content": "El peso se recupera después de sufrir su peor pérdida intradía desde abril de 2025 ante reportes de que altos mandos de Irán buscan una negociación con Donald Trump para terminar la guerra en Medio O… [+2331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2ESB4LYWQJHLVHL5LOAW7PUA44.png?smart=true&auth=fe4c90e25ece5c16c0a0918858fb4f557dc689a04c8087ca28075be47f76a094&width=1200&height=630",
       "PublishedAt": "2026-02-20T16:41:41Z",
       "Content": "El peso avanza con fuerza ante el dólar después de que la Corte Suprema invalidó los aranceles de Donald Trump, al considerar que el presidente de EU no tiene la facultad legal para imponerlos. \r\nJoh… [+1997 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY viernes 20 de febrero de 2026 en México: Tipo de cambio actual",
-      "Description": "Este viernes 20 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.2211 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/20/precio-del-dolar-hoy-viernes-20-de-febrero-de-2026-en-mexico-tipo-de-cambio-actual-430056.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/20/f1280x720-493226_624901_5050.jpg",
-      "PublishedAt": "2026-02-20T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2085 chars]"
     }
   ]
 }

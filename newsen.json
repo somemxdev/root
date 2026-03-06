@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 18,
   "Articles": [
     {
       "Source": {
@@ -236,45 +236,6 @@
       "UrlToImage": "https://staticimg.publishstory.co/thumb/127922810.cms?imgsize=67174&width=1280&height=720&resizemode=8",
       "PublishedAt": "2026-02-05T06:20:20Z",
       "Content": "NOBODY NOTICED THIS HAPPENING AT THE GRAMMYS - AND IT WASNT RANDOMWATCH CLOSELY.\r\n$2 bills. On celebrity tables. In their hands. On camera.\r\nSeen with Lady Gaga, Sabrina Carpenter, Rosé, and Chappell… [+133 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar recovers as central bank decisions loom",
-      "Description": "In a day filled with anticipation, global financial markets are keeping a close watch on central bank decisions. The U.S. dollar is maintaining its course as investors hold their breath for rate announcements from the European Central Bank and the Bank of Eng…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-recovers-as-central-bank-decisions-loom/articleshow/127921698.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-127921698,width-1200,height-630,imgsize-154356,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-02-05T01:56:13Z",
-      "Content": "The dollar steadied at the start of Asian trade on Thursday ahead of interest rate decisions from the European Central Bank and the Bank of England, both of which are expected to keep rates on hold l… [+2676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "It Isn't a Trillion-Dollar Stock, But Investors Shouldn't Overlook This Digital Bank",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b919becd-291e-4dd0-85d5-dfe7baa40256",
-      "UrlToImage": null,
-      "PublishedAt": "2026-02-04T13:35:00Z",
-      "Content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Bank Insider Accused of Stealing $50,997 From Billion-Dollar Lender, Taking Cash Directly From Drive-Through Drawer",
-      "Description": "A US bank employee has allegedly stolen a pile of cash from the lender, triggering tens of thousands of dollars in losses. The Federal Deposit Insurance Corporation (FDIC) accuses Matthew Lewis Robinson of stealing $50,997 from the drive-through teller drawer…",
-      "Url": "https://dailyhodl.com/2026/02/04/bank-insider-accused-of-stealing-50997-from-billion-dollar-lender-taking-cash-directly-from-drive-through-drawer/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/02/bank-employee-st.jpg?resize=1365,800",
-      "PublishedAt": "2026-02-04T10:15:55Z",
-      "Content": "A US bank employee has allegedly stolen a pile of cash from the lender, triggering tens of thousands of dollars in losses.\r\nThe Federal Deposit Insurance Corporation (FDIC) accuses Matthew Lewis Robi… [+1377 chars]"
     }
   ]
 }
