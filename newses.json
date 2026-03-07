@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso pierde ante el dólar tras nuevos ataques de Irán a base y petrolero de EU",
+      "Description": "El peso se dirige a perder la semana ante el dólar después de que la incertidumbre por la guerra entre EU e Irán inquieta a los mercados.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/05/peso-dolar-precio-hoy-5-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HKLPVYDZ5BBATJ2N7GVF2GKI6U.png?smart=true&auth=b21eb67af30b63b1634c2e7b3ce3acd2611f2aca07bddd714c130e35e9bdbf38&width=1200&height=630",
+      "PublishedAt": "2026-03-05T15:43:02Z",
+      "Content": "El peso mexicano pierde de nuevo ante el dólar este jueves 5 de marzo mientras la guerra entre EU e Irán llega a su sexto día. \r\nEl Ejército de Irán afirmó que hizo dos ataques: Uno con drones contra… [+1643 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY en México: Así amaneció en peso mexicano este JUEVES 5 de marzo",
+      "Description": "Este jueves 5 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.6227 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/5/precio-del-dolar-hoy-en-mexico-asi-amanecio-en-peso-mexicano-este-jueves-de-marzo-431246.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/5/f1280x720-495096_626771_5050.jpeg",
+      "PublishedAt": "2026-03-05T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya … [+2054 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Rurales El País",
+      "Title": "Baja de tasas del Banco Central busca estimular la economía y podría dar impulso al dólar",
+      "Description": "El Banco Central del Uruguay redujo la tasa de política monetaria a 5,75%. La medida responde a una inflación controlada y a una economía que muestra señales de desaceleración, y podría contribuir a una leve recuperación del tipo de cambio",
+      "Url": "https://rurales.elpais.com.uy/valor-agregado/baja-de-tasas-del-banco-central-busca-estimular-la-economia-y-podria-dar-impulso-al-dolar",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/9a1fd6b/2147483647/strip/true/crop/1110x540+0+15/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F11%2F274eaf5c4a8986c75210108df11e%2F21fachada-1110.jpg",
+      "PublishedAt": "2026-03-05T07:00:00Z",
+      "Content": "El Banco Central del Uruguay (BCU) decidió reducir la tasa de política monetaria en 75 puntos básicos, llevándola a 5,75%, en una decisión que busca acompañar el actual escenario económico del país. … [+4690 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/23/f1280x720-493573_625248_5050.jpeg",
       "PublishedAt": "2026-02-23T12:00:00Z",
       "Content": "Ciudad de México.- ¡Arranca una nueva semana! Y si hoy, lunes 23 de febrero de 2026, tienes planeadas actividades bancarias que contemplan a la moneda oficial de los Estados Unidos (EU), es important… [+2016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY domingo 22 de febrero de 2026: Así amaneció el peso mexicano",
-      "Description": "Este domingo 22 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.1400 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/22/precio-del-dolar-en-mexico-hoy-domingo-22-de-febrero-de-2026-asi-amanecio-el-peso-mexicano-430218.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/22/f1280x720-493458_625133_5050.jpeg",
-      "PublishedAt": "2026-02-22T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 22 de febrero de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para la siguiente semana t… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 21 de febrero de 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 21 de febrero del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/21/precio-del-dolar-hoy-sabado-21-de-febrero-de-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-430165.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/1/29/f1280x720-489984_621659_5050.jpeg",
-      "PublishedAt": "2026-02-21T12:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar ‘sufre’ tras cancelación de aranceles de Trump: ¿Cuánto gana el peso HOY?",
-      "Description": "Antes de la cancelación de los aranceles de Trump, el tipo de cambio se acercaba 'peligrosamente' a los niveles de los 17.30 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/20/peso-dolar-precio-hoy-20-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2ESB4LYWQJHLVHL5LOAW7PUA44.png?smart=true&auth=fe4c90e25ece5c16c0a0918858fb4f557dc689a04c8087ca28075be47f76a094&width=1200&height=630",
-      "PublishedAt": "2026-02-20T16:41:41Z",
-      "Content": "El peso avanza con fuerza ante el dólar después de que la Corte Suprema invalidó los aranceles de Donald Trump, al considerar que el presidente de EU no tiene la facultad legal para imponerlos. \r\nJoh… [+1997 chars]"
     }
   ]
 }

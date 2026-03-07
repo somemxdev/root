@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "National Post"
+      },
+      "Author": "Kenn Oliver",
+      "Title": "Vegas 'at par' dollar exchange promo lures 15,000-plus Canadians in a month",
+      "Description": "Offer at Three Fremont street venues applies to 'select gaming, hotel and beverage and entertainment offerings'",
+      "Url": "https://nationalpost.com/news/canada/vegas-at-par-dollar-exchange-promo-lures-15000-plus-canadians-in-a-month",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/03/Circa-Ryan-Gobuty.jpg",
+      "PublishedAt": "2026-03-05T17:23:45Z",
+      "Content": "A dollar-for-dollar Canada-U.S. exchange rate offer introduced by three off-strip Las Vegas casinos earlier this year resulted in more than 15,000 Canadian visitors in the first month of the promotio… [+5183 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "The Daily Hodl"
       },
       "Author": "Daily Hodl Staff",
@@ -223,19 +236,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/11/withdraw-deposit-bank-dollar.jpg?resize=1365,800",
       "PublishedAt": "2026-02-06T21:00:08Z",
       "Content": "A US bank is preparing to hand thousands of dollars to customers after a network breach placed their sensitive data at risk.\r\nAmerican National Bank &amp; Trust has settled a class action lawsuit acc… [+1383 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Shivani Negi",
-      "Title": "$2 bills crash 2026 Grammys: Two Dollar Steve's luck charm or crypto's sneaky money laundering plot? The internet has theories",
-      "Description": "At the 2026 Grammys, celebrities were spotted carrying rare $2 bills, sparking a flurry of internet theories ranging from good luck charms to crypto conspiracies. Fans quickly turned up with conspiracy theories, debating everything from superstition to secret…",
-      "Url": "https://www.indiatimes.com/trending/2-bills-crash-2026-grammys-two-dollar-steves-luck-charm-or-cryptos-sneaky-money-laundering-plot-the-internet-has-theories/articleshow/127922554.html",
-      "UrlToImage": "https://staticimg.publishstory.co/thumb/127922810.cms?imgsize=67174&width=1280&height=720&resizemode=8",
-      "PublishedAt": "2026-02-05T06:20:20Z",
-      "Content": "NOBODY NOTICED THIS HAPPENING AT THE GRAMMYS - AND IT WASNT RANDOMWATCH CLOSELY.\r\n$2 bills. On celebrity tables. In their hands. On camera.\r\nSeen with Lady Gaga, Sabrina Carpenter, Rosé, and Chappell… [+133 chars]"
     }
   ]
 }
