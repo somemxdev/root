@@ -6,6 +6,71 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso se deprecia 3.25% ante dólar debido a escalada en Medio Oriente",
+      "Description": "De acuerdo con datos del Banco de México, el tipo de cambio cerró la jornada de este viernes en 17.8 pesos por dólar, unos 52 centavos por encima que al inicio de la semana.",
+      "Url": "https://aristeguinoticias.com/0603/dinero-y-economia/peso-se-deprecia-3-25-ante-dolar-debido-a-escalada-en-medio-oriente/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/07/superpeso-peso-dolar-tipo-cambio-remesas-310723-2.jpg",
+      "PublishedAt": "2026-03-07T00:09:30Z",
+      "Content": "El peso mexicano se depreció un 3.25% semanal frente al dólar, baja que ocurrió a la par de un fortalecimiento del dólar estadounidense del 1.36% debido a la escalada en Medio Oriente.\r\nDe acuerdo co… [+2515 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Sofía Diamante",
+      "Title": "Dólar e inflación: el Gobierno busca contener el tipo de cambio con un menú de intervenciones",
+      "Description": "La administración libertaria despliega un mix de herramientas para mantener la cotización mayorista en torno a los $1400; los analistas ya califican abiertamente al actual régimen como de flotación sucia",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-e-inflacion-el-gobierno-busca-contener-el-tipo-de-cambio-con-un-menu-de-intervenciones-nid06032026/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-siguio-comprando-divisas-en-el-D3GGCFMWPZAD3BUE4EX4GJGALU.jpeg?auth=364728c0b5808e8a4acdd5ab4197e44c28ee65ce6c51eda65f01014ba2f2ec5c&width=1200&quality=85&smart=true&height=675",
+      "PublishedAt": "2026-03-06T19:07:35Z",
+      "Content": "El dato pasó casi desapercibido en el ruido de una semana cargada, pero su lectura es elocuente: el martes 24 de febrero, cuando el dólar mayorista comenzó a repuntar en el mercado oficial, el Tesoro… [+4564 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencialdigital.com"
+      },
+      "Author": "Luis Montero Fernández-Peña",
+      "Title": "El euro sigue cayendo frente al dólar y deja una señal que inquieta a los mercados globales",
+      "Description": "El euro sigue cayendo frente al dólar en un contexto marcado por tensiones geopolíticas, volatilidad energética y dudas sobre la evolución de la política monetaria en Europa. La moneda única europea atraviesa un momento delicado en los mercados internacionale…",
+      "Url": "https://www.elconfidencialdigital.com/articulo/dinero/euro-sigue-cayendo-frente-dolar-deja-senal-que-inquieta-mercados-globales/202603061930111008019.html",
+      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/06/2026030619295488838.jpg",
+      "PublishedAt": "2026-03-06T18:30:11Z",
+      "Content": "El euro sigue cayendo frente al dólar en medio de la incertidumbre global\r\nEl euro sigue cayendo frente al dólar y esta tendencia refleja el nerviosismo creciente en los mercados financieros internac… [+5450 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Tipo de cambio se acerca a los 18 pesos por dólar en semana de guerra EU-Irán",
+      "Description": "Se prevé que la pérdida semanal del peso ante el dólar sea mayor a los 50 centavos, lo que sería uno de sus peores balances en meses.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/06/peso-dolar-precio-hoy-6-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/L5LABJKHAJGWPIPW6UMSDX4ROU.png?smart=true&auth=282d4dc2abc8f73e81f9ce218cf2fad2ac476d9d630088a0d8ccc4c141c6f89e&width=1200&height=630",
+      "PublishedAt": "2026-03-06T15:35:48Z",
+      "Content": "El peso mexicano amplía sus pérdidas ante el dólar este viernes 6 de marzo después de que el séptimo día de guerra entre EU e Irán trajo más amenazas del presidente Donald Trump. \r\nEl mandatario de E… [+1939 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY viernes 6 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este viernes 6 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.8096 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/6/precio-del-dolar-en-mexico-hoy-viernes-de-marzo-de-2026-tipo-de-cambio-actual-431350.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/6/f1280x720-495252_626927_5050.jpeg",
+      "PublishedAt": "2026-03-06T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2067 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Redacción",
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KJ6QRDZ5OZH7FE5NXHBEYGV64Y.png?smart=true&auth=a0889eb82c5d344877c62beb04c446145837983c185b2d1ac84c9e22f7a73c75&width=1200&height=630",
       "PublishedAt": "2026-02-24T16:36:34Z",
       "Content": "El peso mexicano gana terreno al dólar en el Día de la Bandera, esto después de que se conoció que la inflación en México aceleró más de lo esperado en la primera quincena de febrero.\r\nSegún datos de… [+2215 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "¿Cuál es el precio del dólar en México HOY martes 24 de febrero de 2026? Tipo de cambio actual",
-      "Description": "Este martes 24 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.2727 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/24/cual-es-el-precio-del-dolar-en-mexico-hoy-martes-24-de-febrero-de-2026-tipo-de-cambio-actual-430392.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/24/f1280x720-493737_625412_5050.jpg",
-      "PublishedAt": "2026-02-24T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Continúa la última semana del mes! Y si hoy, martes 24 de febrero de 2026, tienes pensado realizar transacciones bancarias que involucran a la moneda oficial de los Estados Unidos… [+2037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "S. de Diego",
-      "Title": "La Junta de Paz de Trump estudia imponer una moneda estable en Gaza vinculada al dólar y creada por un israelí",
-      "Description": "El objetivo es que las empresas de los países árabes del Golfo ayuden a la reestructuración de la economía de la Franja de Gaza. \nMás información: Trump presenta su 'Junta de Paz' mientras prepara una guerra inminente contra Irán: \"No puede tener armas nuclea…",
-      "Url": "https://www.elespanol.com/mundo/oriente-proximo/20260224/junta-paz-trump-estudia-imponer-moneda-estable-gaza-vinculada-dolar-creada-israeli/1003744142968_0.html",
-      "UrlToImage": "https://s3.elespanol.com/2026/02/24/actualidad/1003744143148_261593507_1706x960.jpg?fmt=jpeg",
-      "PublishedAt": "2026-02-24T10:56:33Z",
-      "Content": "La Junta de Paz de Trump estudia crear una moneda estable digital vinculada al dólar para la Franja de Gaza, desarrollada por un ejecutivo israelí.\r\nEl objetivo de la criptomoneda es facilitar transa… [+4211 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Lautaro Brum",
-      "Title": "El dólar en Uruguay cae por cuarta jornada consecutiva y el interbancario se aleja de los $ 39",
-      "Description": "El dólar bajó y en lo que va del mes la moneda norteamericana disminuyó 0,38%, mientras que en el año cae 1,76%. En Argentina, la moneda también bajó.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-cae-por-cuarta-jornada-consecutiva-y-el-interbancario-se-aleja-de-los-39",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6a7b71c/2147483647/strip/true/crop/418x203+0+37/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2Fd2%2F80b0bf854459aba4002a6984a4cf%2Fdolar-blue.jpg",
-      "PublishedAt": "2026-02-24T06:10:00Z",
-      "Content": "El dólaren Uruguay cayó ayer por cuarta jornada consecutiva, en esta intancia 0,92% y el interbancario se negoció en promedio a $ 38,353. En la jornada, la moneda estadounidense cotizó entre $ 38,20 … [+1003 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Lucía Astorga",
-      "Title": "Banco Central: Retiro masivo del ROP dispararía la inflación, subiría las tasas y hundiría el precio de dólar",
-      "Description": "Estudo del Banco Central advierte que la eventual conversión de activos externos a colones incrementaría la liquidez en la economía y generaría efectos sobre inflación, tasas y mercado cambiario.",
-      "Url": "https://www.nacion.com/politica/banco-central-retiro-masivo-del-rop-dispararia-la/AM7OXGPYSJCOBN5F4U5SIIWOWI/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/F652PJY7AFECRJCYVHS46E7U4Q.jpg?smart=true&auth=a386c87ebef04fbff9c4ba1efaa4d793e3d111a2a74d3acd60cb057a3375ba5c&width=1440",
-      "PublishedAt": "2026-02-24T00:11:41Z",
-      "Content": "El Banco Central de Costa Rica (BCCR) advirtió que las propuestas para acelerar el retiro de los fondos acumulados en el Régimen Obligatorio de Pensiones (ROP) tendría efectos macroeconómicos signifi… [+4439 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY LUNES 23 de febrero de 2026: Tipo de cambio actual",
-      "Description": "Este lunes 23 de febrero de 2026 el precio del dólar se exhibe en un promedio de 17.2147 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/23/precio-del-dolar-en-mexico-hoy-lunes-23-de-febrero-de-2026-tipo-de-cambio-actual-430288.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/23/f1280x720-493573_625248_5050.jpeg",
-      "PublishedAt": "2026-02-23T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Arranca una nueva semana! Y si hoy, lunes 23 de febrero de 2026, tienes planeadas actividades bancarias que contemplan a la moneda oficial de los Estados Unidos (EU), es important… [+2016 chars]"
     }
   ]
 }

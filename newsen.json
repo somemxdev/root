@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 18,
+  "TotalResults": 17,
   "Articles": [
     {
       "Source": {
@@ -223,19 +223,6 @@
       "UrlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/02/20240626185755767593-original.jpg?quality=70&w=1024",
       "PublishedAt": "2026-02-08T23:11:45Z",
       "Content": "Crikey is an independent Australian source for news, investigations, analysis and opinion focusing on politics, media, economics, health, international affairs, the climate, business, society and cul… [+4 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Handing Up To $4,500 To Customers After ‘Unauthorized Actor’ Breaches Network, Steals Sensitive Information",
-      "Description": "A US bank is preparing to hand thousands of dollars to customers after a network breach placed their sensitive data at risk. American National Bank & Trust has settled a class action lawsuit accusing the lender of failing to implement or maintain adequate dat…",
-      "Url": "https://dailyhodl.com/2026/02/06/billion-dollar-bank-handing-up-to-4500-to-customers-after-unauthorized-actor-breaches-network-steals-sensitive-information/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/11/withdraw-deposit-bank-dollar.jpg?resize=1365,800",
-      "PublishedAt": "2026-02-06T21:00:08Z",
-      "Content": "A US bank is preparing to hand thousands of dollars to customers after a network breach placed their sensitive data at risk.\r\nAmerican National Bank &amp; Trust has settled a class action lawsuit acc… [+1383 chars]"
     }
   ]
 }
