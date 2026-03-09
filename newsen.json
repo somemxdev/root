@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 17,
+  "TotalResults": 18,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thecityceleb.com"
+      },
+      "Author": "Aboki Exchange",
+      "Title": "Aboki Naira to Dollar Black Market Exchange Rate Today, 8th March 2026",
+      "Description": "The Aboki Naira to Dollar Black Market Exchange Rate on March 8, 2026, shows the Nigerian Naira trading at approximately…",
+      "Url": "https://www.thecityceleb.com/business/aboki-naira-to-dollar-black-market-exchange-rate-today-8th-march-2026/",
+      "UrlToImage": "https://www.thecityceleb.com/wp-content/uploads/2021/09/Dollar-to-Naira-black-market-Today.webp",
+      "PublishedAt": "2026-03-08T09:56:42Z",
+      "Content": "The Aboki Naira to Dollar Black Market Exchange Rate on March 8, 2026, shows the Nigerian Naira trading at approximately 1,420 per US Dollar in the parallel (black) market, based on the latest update… [+1350 chars]"
+    },
     {
       "Source": {
         "Id": null,

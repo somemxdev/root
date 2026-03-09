@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY domingo 8 de marzo de 2026 en México: Tipo de cambio actual",
+      "Description": "Este domingo 8 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.8020 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/8/precio-del-dolar-hoy-domingo-de-marzo-de-2026-en-mexico-tipo-de-cambio-actual-431519.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/8/f1280x720-495494_627169_5050.jpg",
+      "PublishedAt": "2026-03-08T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 1 de marzo de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para los próximos días tienes… [+2049 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Alejandra HolguÍn",
+      "Title": "Precio del dólar HOY sábado 7 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 7 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/7/precio-del-dolar-hoy-sabado-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-431447.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/7/f1280x720-495403_627078_5050.jpg",
+      "PublishedAt": "2026-03-07T12:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2033 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YW33NLCBQZB6DKDSZDJ7Z5GHHY.jpg?smart=true&auth=381ba6fe28ed7d9ce72c6eae491e6f1827fe153ec38479ba65e61a76dbd3cfaa&width=1200&height=630",
       "PublishedAt": "2026-02-25T18:04:24Z",
       "Content": "El peso mexicano inició la jornada este miércoles 25 de febrero cediendo terreno a pesar del debilitamiento que registra el billete estadounidense.\r\nHasta el momento los datos de Bloomberg reflejan q… [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY miércoles 25 de febrero 2026: Así amanece el peso mexicano",
-      "Description": "Este miércoles 25 de febrero de 2026 el precio del dólar se expone en un promedio de 17.1758 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/25/precio-del-dolar-en-mexico-hoy-miercoles-25-de-febrero-2026-asi-amanece-el-peso-mexicano-430505.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/25/f1280x720-493914_625589_5050.jpeg",
-      "PublishedAt": "2026-02-25T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este tercer día hábil de la semana tienes pensado realizar operaciones bancarias que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respuesta es afirmativa, ya s… [+2071 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Se levanta en el mastil mi bandera del peso: ¿Cuánto se aprecia ante el dólar HOY?",
-      "Description": "El peso puede apreciarse aún más en la jornada de este martes 24 de febrero si el presidente Donald Trump mantiene un 'tono conciliador' en su informe del Estado de la Nación.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/24/peso-dolar-precio-hoy-24-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KJ6QRDZ5OZH7FE5NXHBEYGV64Y.png?smart=true&auth=a0889eb82c5d344877c62beb04c446145837983c185b2d1ac84c9e22f7a73c75&width=1200&height=630",
-      "PublishedAt": "2026-02-24T16:36:34Z",
-      "Content": "El peso mexicano gana terreno al dólar en el Día de la Bandera, esto después de que se conoció que la inflación en México aceleró más de lo esperado en la primera quincena de febrero.\r\nSegún datos de… [+2215 chars]"
     }
   ]
 }
