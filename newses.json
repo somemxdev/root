@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso modera pérdidas ante el dólar tras pasar techo de las 18 unidades: Tipo de cambio está en 17.77",
+      "Description": "La guerra entre Estados Unidos e Irán llega a su día 10. El presidente Donald Trump no dio señales de que su administración baje el número de ataques, mientras que el país persa eligió a un nuevo ayatolá.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/09/peso-dolar-precio-hoy-9-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SC4HXA4UHZAUREG5CIBNEOJKYY.png?smart=true&auth=fa772024f9dfcb84aced405b21f7a18c4b16bdf7c7afcabe2ad8a0cb958a397f&width=1200&height=630",
+      "PublishedAt": "2026-03-09T15:37:34Z",
+      "Content": "El peso mexicano reduce sus pérdidas esto después de que el dólar rompió el techo de las 18 unidades durante la noche del domingo 8 de marzo por el caos provocado por la guerra entre Estados Unidos e… [+1771 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6e6973b/2147483647/strip/true/crop/6720x3267+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F09%2F3e34174f42bcaa220fa6e9bac322%2Fpexels-karolina-grabowska-4386442.jpg",
       "PublishedAt": "2026-02-27T06:05:00Z",
       "Content": "El dólaren Uruguay subió 0,10% ayer y se negoció en promedio a $ 38,436. En la jornada, la divisa estadounidense cotizó entre $ 38,35 y $ 38,55 para finalizar en el $ 38,45. El valor de cierre aument… [+1240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY jueves 26 de febrero de 2026: Tipo de cambio actual",
-      "Description": "Este jueves 26 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1833 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/26/precio-del-dolar-en-mexico-hoy-jueves-26-de-febrero-de-2026-tipo-de-cambio-actual-430614.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/26/f1280x720-494091_625766_5050.jpeg",
-      "PublishedAt": "2026-02-26T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2064 chars]"
     }
   ]
 }
