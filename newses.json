@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY lunes 9 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este lunes 9 de marzo de 2026, el precio del dólar se exhibe en un promedio de 17.8960 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/9/precio-del-dolar-en-mexico-hoy-lunes-de-marzo-de-2026-tipo-de-cambio-actual-431586.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/9/f1280x720-495604_627279_5050.jpg",
+      "PublishedAt": "2026-03-09T12:00:00Z",
+      "Content": "Ciudad de México.- ¡Arranca la segunda semana del mes! Y si hoy, lunes 9 de marzo de 2026, tienes planeadas transacciones que contemplan a la divisa oficial de los Estados Unidos (EU), es clave  que … [+2017 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/26/f1280x720-494091_625766_5050.jpeg",
       "PublishedAt": "2026-02-26T12:00:00Z",
       "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2064 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Mónica Cerdas Gómez",
-      "Title": "Dólar toca mínimo histórico: Esto dijo Rodrigo Chaves sobre el futuro del tipo de cambio",
-      "Description": "Tipo de cambio en el Monex llegó a ¢472,5 este 25 de febrero",
-      "Url": "https://www.nacion.com/economia/dolar-toca-minimo-historico-esto-dijo-rodrigo/YJD55S6HBZGLVMHGINYUS2FDQY/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/S7RB5GLD6JAHTEFDHFSTLQOY6E.jpg?smart=true&auth=9af4191f2055e7c5e44c0fcc7d997d00e3b475900f63d37e65e2a655be876acc&width=1440",
-      "PublishedAt": "2026-02-26T00:21:10Z",
-      "Content": "El presidente de Costa Rica, Rodrigo Chaves, respondió este miércoles 25 de febrero a quienes cuestionan la apreciación del colón frente al dólar y señaló que deben acostumbrarse. \r\nDígame qué quiere… [+2605 chars]"
     }
   ]
 }
