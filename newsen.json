@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 18,
+  "TotalResults": 17,
   "Articles": [
     {
       "Source": {
@@ -223,19 +223,6 @@
       "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2026/01/Twisted-Sifter-2392.jpg",
       "PublishedAt": "2026-02-12T05:55:14Z",
       "Content": "Freepik/Reddit\r\nHard work and loyalty deserve recognition and a raise.\r\nIn this story, a woman watched her husband work as a lube tech at a dealership with promises of growth that never came.\r\nHe wor… [+2008 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crikey"
-      },
-      "Author": "Monique Hurley",
-      "Title": "As Australia’s prisons keep swelling, so too does their billion-dollar price tag",
-      "Description": "Rather than reckoning with the reasons people become caught up in the criminal legal system to begin with, governments across the country appear content to pour endless amounts of money into prisons that do not make us safer. \nThe post As Australia’s prisons …",
-      "Url": "http://www.crikey.com.au/2026/02/09/australia-prison-politics-crime-billion-dollars/",
-      "UrlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/02/20240626185755767593-original.jpg?quality=70&w=1024",
-      "PublishedAt": "2026-02-08T23:11:45Z",
-      "Content": "Crikey is an independent Australian source for news, investigations, analysis and opinion focusing on politics, media, economics, health, international affairs, the climate, business, society and cul… [+4 chars]"
     }
   ]
 }
