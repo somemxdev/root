@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Despluman’ al peso: Precio del dólar ‘coquetea’ con las 18 unidades por aumento del petróleo",
+      "Description": "El peso mexicano sufre el incremento de precios al petróleo y que el dólar quede como activo de refugio por las tensiones globales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/08/precio-del-dolar-hoy-8-de-marzo-tipo-de-cambio-en-vivo-peso-mexicano-se-deprecia-por-aumento-al-petroleo/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DS3ZM7N24ZDLXCQAZZZV2LY64M.jpeg?smart=true&auth=75d8df710c42a32c9c8c4b5e803158796c306695458c1fa5bea2cfc62897afa0&width=1200&height=630",
+      "PublishedAt": "2026-03-09T00:05:00Z",
+      "Content": "El tipo de cambio está cerca de romper el techo de los 18 pesos por dólar, luego de que el incremento en los precios del petróleo a nivel global borrara meses de ganancias de la moneda mexicana.\r\nA c… [+3134 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/S7RB5GLD6JAHTEFDHFSTLQOY6E.jpg?smart=true&auth=9af4191f2055e7c5e44c0fcc7d997d00e3b475900f63d37e65e2a655be876acc&width=1440",
       "PublishedAt": "2026-02-26T00:21:10Z",
       "Content": "El presidente de Costa Rica, Rodrigo Chaves, respondió este miércoles 25 de febrero a quienes cuestionan la apreciación del colón frente al dólar y señaló que deben acostumbrarse. \r\nDígame qué quiere… [+2605 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca con ‘el pie izquierdo’ por inseguridad en México: ¿Cuánto pierde frente al dólar HOY?",
-      "Description": "El tipo de cambio se ubica en los 17.2140 pesos por dólar,  una depreciación de 0.23 por ciento o 3.87 centavos este miércoles 25 de febrero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/25/peso-dolar-precio-hoy-25-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/YW33NLCBQZB6DKDSZDJ7Z5GHHY.jpg?smart=true&auth=381ba6fe28ed7d9ce72c6eae491e6f1827fe153ec38479ba65e61a76dbd3cfaa&width=1200&height=630",
-      "PublishedAt": "2026-02-25T18:04:24Z",
-      "Content": "El peso mexicano inició la jornada este miércoles 25 de febrero cediendo terreno a pesar del debilitamiento que registra el billete estadounidense.\r\nHasta el momento los datos de Bloomberg reflejan q… [+1700 chars]"
     }
   ]
 }
