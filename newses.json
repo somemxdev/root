@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY miércoles 11 de marzo de 2026 en México: Tipo de cambio actual",
+      "Description": "Este miércoles 11 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.6274 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/11/precio-del-dolar-hoy-miercoles-11-de-marzo-de-2026-en-mexico-tipo-de-cambio-actual-431794.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/11/f1280x720-495926_627601_5050.jpg",
+      "PublishedAt": "2026-03-11T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este miércoles 11 de marzo de 2026, tercer día hábil de la semana, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU)? Si la resp… [+2076 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Buenas noticias en México: el peso se recupera frente al dólar y se aleja de la temida barrera de los 18",
+      "Description": "El peso mexicano se recupera tras rozar los 18 por dólar, impulsado por señales de menor tensión geopolítica y estabilidad en los mercados energéticos.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/buenas-noticias-en-mexico-el-peso-se-recupera-frente-al-dolar-y-se-aleja-de-la-temida-barrera-de-los-nid10032026/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tras-rozar-la-barrera-psicologica-de-las-18-X3GSQOZPWVBZZHTPZZ6VG7SQPE.JPG?auth=aabe826b8567805b9bf21b6a1071c25c6801f35174e2c0762cb666535c79fa59&width=1200&quality=85&smart=true&height=675",
+      "PublishedAt": "2026-03-10T15:50:41Z",
+      "Content": "El mercado financiero mexicano atraviesa días de alta volatilidadmarcados por tensiones internacionales y movimientos en los precios de la energía. Luego de haber tocado niveles cercanos a la barrera… [+3049 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY martes 10 de marzo de 2026 en México: Así amanece el peso mexicano",
+      "Description": "Conoce toda la información sobre el precio del dólar en México expuesta este martes 10 de marzo de 2026; aquí los detalles del tipo de cambio",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/10/precio-del-dolar-hoy-martes-10-de-marzo-de-2026-en-mexico-asi-amanece-el-peso-mexicano-431676.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/10/f1280x720-495748_627423_5050.jpeg",
+      "PublishedAt": "2026-03-10T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este martes 10 de marzo de 2026, segundo día hábil de la semana, tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respue… [+2054 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/4/f1280x720-490895_622570_5050.jpg",
       "PublishedAt": "2026-02-28T12:00:00Z",
       "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1953 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘amanece’ con pérdidas: ¿Cuánto se deprecia HOY frente al dólar por dato de inflación en EU?",
-      "Description": "En ventanillas bancarias, el precio del dólar ahora se coloca en los 17.64 pesos cada uno, según los datos publicados por Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/02/27/peso-dolar-precio-hoy-27-de-febrero-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MUFXI72JERAW3DDHSN3I5Q6OYY.jpg?smart=true&auth=cd86ab384850cea1546e3ed2d84abc91be58ce54324088af6acdd8a45e998d3d&width=1200&height=630",
-      "PublishedAt": "2026-02-27T16:43:03Z",
-      "Content": "El peso mexicano opera con retrocesos frente al dólar, al tiempo que el mercado analiza el reporte de inflación al productor publicado para la economía estadounidense.\r\nLas cifras de Bloomberg indica… [+1682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "Precio del dólar HOY viernes 27 de febrero de 2026 en México: Tipo de cambio actual",
-      "Description": "Este viernes 27 de febrero de 2026 el precio del dólar se muestra en un promedio de 17.1882 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/27/precio-del-dolar-hoy-viernes-27-de-febrero-de-2026-en-mexico-tipo-de-cambio-actual-430721.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/27/f1280x720-494258_625933_7770.jpg",
-      "PublishedAt": "2026-02-27T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, … [+2082 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "El dólar en Uruguay se incrementa y se queda muy cerca de los $ 38,50 a nivel interbancario",
-      "Description": "La divisa estadounidense subió 0,10% ayer y se negoció en promedio a $ 38,436 y cerró a $ 38,45. El valor de cierre aumenta 0,16% respecto al del miércoles.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-se-incrementa-y-se-queda-muy-cerca-de-los-38-50-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6e6973b/2147483647/strip/true/crop/6720x3267+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F09%2F3e34174f42bcaa220fa6e9bac322%2Fpexels-karolina-grabowska-4386442.jpg",
-      "PublishedAt": "2026-02-27T06:05:00Z",
-      "Content": "El dólaren Uruguay subió 0,10% ayer y se negoció en promedio a $ 38,436. En la jornada, la divisa estadounidense cotizó entre $ 38,35 y $ 38,55 para finalizar en el $ 38,45. El valor de cierre aument… [+1240 chars]"
     }
   ]
 }

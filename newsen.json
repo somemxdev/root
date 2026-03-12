@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 17,
+  "TotalResults": 18,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Conversation Africa"
+      },
+      "Author": "Freddie Daley, Research Associate, Centre for Global Political Economy, University of Sussex",
+      "Title": "How a grassroots UK campaign sparked a multi-billion-dollar exit from public fossil fuel finance",
+      "Description": "It began with red paint at the UK Treasury, and ended in one of the most successful international climate initiatives.",
+      "Url": "https://theconversation.com/how-a-grassroots-uk-campaign-sparked-a-multi-billion-dollar-exit-from-public-fossil-fuel-finance-277850",
+      "UrlToImage": "https://images.theconversation.com/files/723072/original/file-20260310-57-lql9i5.jpg?ixlib=rb-4.1.0&rect=0%2C478%2C3765%2C1882&q=45&auto=format&w=1356&h=668&fit=crop",
+      "PublishedAt": "2026-03-10T15:18:53Z",
+      "Content": "In 2021, dozens of governments quietly agreed to stop using public money to finance fossil fuel projects overseas. \n\nTheir pledge – now known as the Clean Energy Transition Partnership (CETP) – has h… [+6937 chars]"
+    },
     {
       "Source": {
         "Id": null,
