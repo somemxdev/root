@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar en México HOY jueves 12 de marzo de 2026: ¿Cuál es el tipo de cambio?",
+      "Description": "Infórmate sobre cuál es el precio del dólar que manejan los bancos de México este jueves 12 de marzo de 2026; aquí los detalles",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/12/precio-del-dolar-en-mexico-hoy-jueves-12-de-marzo-de-2026-cual-es-el-tipo-de-cambio-431910.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/12/f1280x720-496108_627783_5050.jpeg",
+      "PublishedAt": "2026-03-12T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este penúltimo día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2062 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Madrugada ‘de terror’ para el peso: Sube precio del dólar por aumento en costo del barril del petróleo",
+      "Description": "Así es cómo la situación en Irán afectó al rendimiento del peso mexicano la madrugada de este 12 de marzo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/12/precio-del-dolar-hoy-12-de-marzo-peso-se-deprecia-por-aumento-en-el-barril-de-petroleo-y-guerra-en-iran/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UCJHLEW5DZDTJA34I6BX5VF7AA.jpg?smart=true&auth=fd2b8b8696b36573fa268ac8d24a82a4987ee048cef69672b4283233f145d417&width=1200&height=630",
+      "PublishedAt": "2026-03-12T09:19:06Z",
+      "Content": "El peso mexicano registró pérdidas durante la noche del miércoles 11 y jueves 12 de marzo, luego de que las acciones retrocedieran a nivel global tras los ataques de Irán contra buques petroleros.\r\nE… [+3384 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KDHHD7FEWVGNJCR5J5RXSLIBCQ.jpeg?smart=true&auth=d4ebf82639a19666bd3951283632a114fbab393027acf42f9cc6d1c0d1a5d038&width=1200&height=630",
       "PublishedAt": "2026-03-01T23:39:18Z",
       "Content": "La escalada de la guerra en Medio Oriente está poniendo a prueba nuevamente la resiliencia del mercado global mientras los inversores se preparan para la apertura de los mercados de acciones, bonos y… [+4825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY domingo 1 de marzo de 2026 en México: ¿Cómo amaneció el peso mexicano?",
-      "Description": "Este domingo 1 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.2295 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/1/precio-del-dolar-hoy-domingo-de-marzo-de-2026-en-mexico-como-amanecio-el-peso-mexicano-430885.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/1/f1280x720-494512_626187_5050.jpeg",
-      "PublishedAt": "2026-03-01T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 1 de marzo de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para la siguiente semana tien… [+2060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 28 de febrero de 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 28 de febrero del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/2/28/precio-del-dolar-hoy-sabado-28-de-febrero-de-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-430825.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/4/f1280x720-490895_622570_5050.jpg",
-      "PublishedAt": "2026-02-28T12:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1953 chars]"
     }
   ]
 }

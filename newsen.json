@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "US dollar hovers near 2026 highs as oil's rise spurs hawkish central bank bets",
+      "Description": "Global markets are on edge as oil prices surge, nearing $100 a barrel. This spike fuels inflation fears, prompting central banks to consider aggressive interest rate hikes. The U.S. dollar is strengthening as investors seek safety. Tensions in the Strait of H…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/us-dollar-hovers-near-2026-highs-as-oils-rise-spurs-hawkish-central-bank-bets/articleshow/129488447.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-129488463,width-1200,height-630,imgsize-181336,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-03-12T02:25:27Z",
+      "Content": "The safe-haven U.S. dollar hovered close to its strongest levels this year on Thursday as climbing oil prices threatened to spur inflation and force central banks globally to adopt more hawkish polic… [+3485 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "The Conversation Africa"
       },
@@ -223,19 +236,6 @@
       "UrlToImage": "https://nebraskapublicmedia.org/assets/images/Untitled_design_1_40eg3d8.2e16d0ba.fill-1200x630.png",
       "PublishedAt": "2026-02-16T12:31:20Z",
       "Content": "Just before the new year, Nebraska discovered it would enter 2026 with $218 million in federal funds to strengthen rural health care.\r\nThe money is part of nearly $1.1 billion in total Rural Health T… [+12857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Heide Lazaro",
-      "Title": "Woman Witnessed Her Husband Request A One Dollar Raise And Get Denied, And Then She Saw The Dealership Lose Workers And Money Because Of This",
-      "Description": "Turns out saving a dollar an hour can cost way more than anyone planned.",
-      "Url": "http://twistedsifter.com/2026/02/woman-witnessed-her-husband-request-a-one-dollar-raise-and-get-denied-and-then-she-saw-the-dealership-lose-workers-and-money-because-of-this/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2026/01/Twisted-Sifter-2392.jpg",
-      "PublishedAt": "2026-02-12T05:55:14Z",
-      "Content": "Freepik/Reddit\r\nHard work and loyalty deserve recognition and a raise.\r\nIn this story, a woman watched her husband work as a lube tech at a dealership with promises of growth that never came.\r\nHe wor… [+2008 chars]"
     }
   ]
 }
