@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY domingo 15 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este domingo 15 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.9535 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/15/precio-del-dolar-en-mexico-hoy-domingo-15-de-marzo-de-2026-tipo-de-cambio-actual-432184.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/15/f1280x720-496542_628217_5050.jpeg",
+      "PublishedAt": "2026-03-15T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 15 de marzo de 2026, previo al Día de Asueto, los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si pa… [+2086 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "¿Adiós al ‘superpeso’? tipo de cambio ronda 18 por dólar",
+      "Description": "La divisa mexicana no ha escalado de los 18 pesos desde el 31 de diciembre de 2025 y había acumulado una apreciación de 4.88% hasta el 17 de febrero pasado.",
+      "Url": "https://aristeguinoticias.com/1303/dinero-y-economia/adios-al-superpeso-tipo-de-cambio-ronda-18-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2021/08/remesas-tipo-cambio-peso-dolar2.jpg",
+      "PublishedAt": "2026-03-14T00:48:48Z",
+      "Content": "El peso mexicano recorta su avance en lo que va del año y se acerca al piso de las 18 unidades frente al dólar, según datos del Banco de México (Banxico).\r\nAl cierre de la segunda semana de marzo, el… [+1532 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar HOY sábado 14 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 14 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/14/precio-del-dolar-hoy-sabado-14-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-432112.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/18/f1280x720-492918_624593_5050.jpeg",
+      "PublishedAt": "2026-03-14T00:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1739 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Medio Oriente: el peso argentino desafía al dólar y es la segunda moneda emergente más fuertes",
+      "Description": "Analistas destacan la mayor oferta de divisas y el sesgo monetario restrictivo, aunque advierten por la apreciación cambiaria",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/medio-oriente-el-peso-argentino-desafia-al-dolar-y-es-la-segunda-moneda-emergente-mas-fuertes-nid13032026/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/solo-el-peso-colombiano-y-el-peso-argentino-se-LGWBX4Z4GVG7PNTEPSXN7FQYRE.jpg?auth=a98c514ca109f85f7a425f218380ce4ae97c7e1639ad35813d4c5c8a263fb9a8&width=1200&quality=85&smart=true&height=675",
+      "PublishedAt": "2026-03-13T22:34:20Z",
+      "Content": "El peso argentino fue una de las monedas emergentes con mejor desempeño desde que arrancó el conflicto en Medio Oriente. Incluso cuando el dólar estadounidense se fortaleció a nivel global y alcanzó … [+5205 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar y mercados: por el conflicto en Medio Oriente, el petróleo cotiza arriba de los US$100 y las acciones argentinas vuelven a caer mientras el peso se fortalece",
+      "Description": "La escalada en Medio Oriente golpea a los mercados globales y la Bolsa porteña cae 1,2%; sin embargo, el tipo de cambio oficial se vende  a$1410 en Banco Nación",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-y-mercados-por-el-conflicto-en-medio-oriente-el-petroleo-cotiza-arriba-de-los-us100-y-las-nid13032026/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-precio-del-petroleo-brent-supera-los-S2EWF2SOBFH6BACLXSOCP7QWHE.jpg?auth=ff15bc9a81fb92584c09c4b022e944fdc065bb5e0e64a8030c7fec9b6c4c7f23&width=1200&quality=85&smart=true&height=675",
+      "PublishedAt": "2026-03-13T16:50:48Z",
+      "Content": "La guerra en Medio Oriente sigue condicionando a mercados globales y consolida la presión sobre los suministros energéticos, con el precio del petróleo Brent por encima de los US$100. A nivel local, … [+2865 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY en México VIERNES 13 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Infórmate sobre cuál es el precio del dólar expuesto en los bancos de México este viernes 13 de marzo de 2026; aquí el tipo de cambio",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/13/precio-del-dolar-hoy-en-mexico-viernes-13-de-marzo-de-2026-tipo-de-cambio-actual-432008.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/13/f1280x720-496273_627948_5050.jpg",
+      "PublishedAt": "2026-03-13T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la monedaoficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, y… [+2071 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Tiene el peso cotización más baja ante el dólar en el año",
+      "Description": "El nerviosismo de los inversionistas internacionales pegó a los activos financieros mexicanos, que registraron sus peores niveles desde principios de enero pasado.",
+      "Url": "https://www.jornada.com.mx/2026/03/13/mundo/023n3mun",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-03-13T07:35:46Z",
+      "Content": "Periódico La JornadaViernes 13 de marzo de 2026, p. 23\r\nEl nerviosismo de los inversionistas internacionales pegó a los activos financieros mexicanos, que registraron sus peores niveles desde princip… [+1623 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,97 +392,6 @@
       "UrlToImage": "https://e01-phantom-expansion.uecdn.es/bf175aeafb8218806e0de2eb5bcd2541/crop/40x0/2027x1325/resize/1200/f/webp/assets/multimedia/imagenes/2022/03/02/16462370851291.jpg",
       "PublishedAt": "2026-03-03T16:48:47Z",
       "Content": "El euro se cambiaba hacia las 16:00 horas del martes a 1,1577 dólares, frente a los 1,1697 dólares en las últimas horas de la negociación europea del mercado de divisas de la jornada anterior.El euro… [+2630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se desploma ante el dólar por guerra en Medio Oriente: Tipo de cambio sube a 17.73 unidades",
-      "Description": "El dólar se fortalece a nivel mundial gracias que los inversionistas mueven sus capitales a este activo de refugio. Este movimiento provoca un desplome en la cotización de las monedas de mercados emergentes, como el peso.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/03/peso-dolar-precio-hoy-3-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KQH76DYWBRC37JQFVSYPKMWB6M.png?smart=true&auth=dbb6b696f2b5e8b795b24709dd06a97037f0ee37f1357f87c270ba76860b7404&width=1200&height=630",
-      "PublishedAt": "2026-03-03T15:30:06Z",
-      "Content": "El peso mexicano pierde cerca de 50 centavos ante el dólar este martes 3 de marzo ante la incertidumbre por la guerra entre EU, Israel e Irán. \r\nEl conflicto armado en Medio Oriente provoca que los i… [+2057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "Precio del dólar HOY en México: ¿Cómo amaneció el peso mexicano este MARTES 3 de marzo?",
-      "Description": "Te decimos cuál es el precio del dólar que manejan los bancos de México este martes 3 de marzo de 2026; anticipa tus transacciones",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/3/precio-del-dolar-hoy-en-mexico-como-amanecio-el-peso-mexicano-este-martes-de-marzo-431041.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/3/f1280x720-494787_626462_5050.jpeg",
-      "PublishedAt": "2026-03-03T12:00:00Z",
-      "Content": "Ciudad de México.-  Si hoy, martes 3 de marzo de 2026, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU), es clave que te informes sobre cuál es el … [+1987 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Guerra entre EU, Israel e Irán ‘bombardea’ al peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Un nuevo capítulo de la guerra entre la alianza EU-Israel contra Irán está afectando a las monedas de mercados emergentes por un aumento en la aversión al riesgo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/02/peso-dolar-precio-hoy-2-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E72M3PPMENA7ZHYEVJXAYNU7SI.png?smart=true&auth=599791d2778d7ae2fc9ec664f17ef6e465608ce4a86b0a587c246c2eb7fb8f97&width=1200&height=630",
-      "PublishedAt": "2026-03-02T16:16:58Z",
-      "Content": "El peso mexicano se ve afectado este lunes 2 de marzo por el guerra en Medio Oriente y pierde ante el dólar debido al crecimiento de la aversión el riesgo en los mercados. \r\nIsrael asesinó al ayatolá… [+1660 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY en México: Así amaneció el peso mexicano este LUNES 2 de marzo de 2026",
-      "Description": "Este lunes 2 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.3177 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/2/precio-del-dolar-hoy-en-mexico-asi-amanecio-el-peso-mexicano-este-lunes-de-marzo-de-2026-430953.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/2/f1280x720-494635_626310_5050.jpeg",
-      "PublishedAt": "2026-03-02T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Arranca la primera semana del mes! Y si hoy, lunes 2 de marzo de 2026, tienes pensadas transacciones que contemplan a la moneda oficial de los Estados Unidos (EU), es importante q… [+2019 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": null,
-      "Title": "Donald Trump, el dólar y los aranceles: ¿puede el yuan convertirse en una moneda de reserva?",
-      "Description": "Los países que han ido firmando acuerdos bilaterales con Estados Unidos —como Argentina—, \"se empiezan a preguntar para qué sirve este acuerdo\", afirma Héctor Torres, ex director del FMI y ex consejero de la OMC.",
-      "Url": "https://www.elpais.com.uy/economia-y-mercado/trump-el-dolar-y-los-aranceles-puede-elyuan-convertirtse-en-una-moneda-de-reserva",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/223cd1c/2147483647/strip/true/crop/2086x1014+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F01%2F6dc066414ab2bbb293d6e15a1582%2Fhector-r-torres-21502424.jpg",
-      "PublishedAt": "2026-03-02T07:00:00Z",
-      "Content": "La réplica de Donald Trump a la resolución de la Corte Suprema de EE.UU. que suspendió la aplicación de aranceles tiene varios puntos débiles y genera una gran confusión entre sus socios comerciales.… [+9293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso mexicano registra pérdidas frente al dólar tras conflicto entre Trump e Irán: Así va el tipo de cambio",
-      "Description": "Así es como el peso mexicano enfrenta la escalada del conflicto en Medio Oriente y la apreciación del dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/01/sube-el-precio-del-dolar-en-mexico-por-conflicto-entre-donald-trump-israel-e-iran-tipo-de-cambio-en-vivo-1-de-marzo/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VOGW7U4DA5BBJK32EP5IQPBGXU.jpg?smart=true&auth=5ca5d656e1c52e016529d65fa4002bf764e52ccb7ae91fdf6e41c239fd12be92&width=1200&height=630",
-      "PublishedAt": "2026-03-02T00:55:16Z",
-      "Content": "El peso mexicano se depreció frente al dólar la tarde de este domingo 1 de marzo, tras la apertura de mercados asiáticos y luego de los ataques de Estados Unidos e Israel contra Irán, en una operació… [+2137 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Matthew Griffin, Ruth Carson y Matthew Burgess",
-      "Title": "Guerra en Medio Oriente: ¿Cómo le afectan las tensiones entre EU e Irán al tipo de cambio peso-dólar?",
-      "Description": "¿Qué pasará con el peso mexicano tras la escalada de la guerra en Medio Oriente? Estos son los pronósticos para el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/bloomberg/2026/03/01/precio-del-dolar-sube-en-mexico-por-guerra-estados-unidos-iran-como-afecta-al-peso-mexicano/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KDHHD7FEWVGNJCR5J5RXSLIBCQ.jpeg?smart=true&auth=d4ebf82639a19666bd3951283632a114fbab393027acf42f9cc6d1c0d1a5d038&width=1200&height=630",
-      "PublishedAt": "2026-03-01T23:39:18Z",
-      "Content": "La escalada de la guerra en Medio Oriente está poniendo a prueba nuevamente la resiliencia del mercado global mientras los inversores se preparan para la apertura de los mercados de acciones, bonos y… [+4825 chars]"
     }
   ]
 }

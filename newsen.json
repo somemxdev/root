@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 18,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "tmohamed@businessinsider.com (Theron Mohamed)",
+      "Title": "US consumers will feel the pinch from the Iran war even if stocks and the dollar don't, a finance guru says",
+      "Description": "Finance professor Derek Horstmeyer said it was striking how the \"US can cause this havoc around the world\" yet still win from an exodus to the dollar.",
+      "Url": "https://www.businessinsider.com/iran-consumers-horstmeyer-stock-market-outlook-bubble-crash-dollar-ai-2026-3",
+      "UrlToImage": "https://i.insider.com/69b42640a96e437d6eb84524?width=1200&format=jpeg",
+      "PublishedAt": "2026-03-14T10:24:01Z",
+      "Content": "American consumers will feel the pinch from the Iran conflict even if stocks and the dollar don't, one market guru says.\r\nDerek Horstmeyer, a finance professor at George Mason University's Costello C… [+3775 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalresearch.ca"
+      },
+      "Author": "Eric Buesing",
+      "Title": "The Strategic Petroleum Reserve (SPR) and the Dollar Price Gasoline Crisis: There Is a Number Nobody in Washington Will Say Out Loud",
+      "Description": "We’ve Been Spending America’s Emergency Oil Savings Account. Nobody Mentioned the Account Can Only Be Opened So Many Times.\r\n\n\n\n\nYesterday evening, Energy Secretary Chris Wright announced that the United States will release 172 million barrels of crude oil fr…",
+      "Url": "https://www.globalresearch.ca/the-strategic-petroleum-reserve-spr-and-the-dollar-price-gasoline-crisis-there-is-a-number-nobody-in-washington-will-say-out-loud/5918788",
+      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/02/us-iran-oil-blockade.jpeg",
+      "PublishedAt": "2026-03-14T10:18:23Z",
+      "Content": "Here is what the press releases did not mention. The SPR currently holds about 415 million barrels. After this drawdown it will hold roughly 243 million barrels, the lowest level since the reserve wa… [+26736 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Billionaire who broke Bank of England issues dire warning on dollar",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_974aa607-d157-44f3-b124-e521c7e0716a",
+      "UrlToImage": null,
+      "PublishedAt": "2026-03-13T22:00:36Z",
+      "Content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Notebookcheck.net"
+      },
+      "Author": "Anubhav Sharma",
+      "Title": "New mixed-rated card-idler RPG launches on Steam with revamped guilds and a zero dollar price tag",
+      "Description": "DPS Idle 2 hit 1.0 on March 12, 2026, to a \"Mixed\" 52% rating on Steam. Despite 75% positive recent reviews, the free-to-play card idler is facing a lot of criticism over its late-game scaling and aggressive monetization.",
+      "Url": "https://www.notebookcheck.net/New-mixed-rated-card-idler-RPG-launches-on-Steam-with-revamped-guilds-and-a-zero-dollar-price-tag.1249550.0.html",
+      "UrlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/DPS-Idle-2.png",
+      "PublishedAt": "2026-03-13T08:17:00Z",
+      "Content": "The long-awaited sequel to the card-based incremental hit DPS Idle finally left early access this week. Developer YDKR (also known for the original DPS Idle) wanted to provide a deeper, more technica… [+2211 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
