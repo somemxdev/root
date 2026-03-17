@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se aprecia’ ante el dólar pese a feriado en México: Tipo de cambio se ubica en 18.81",
+      "Description": "Los operadores se preparan para conocer la decisión de política monetaria de la Fed esta semana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/16/peso-dolar-tipo-de-cambio-hoy-16-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2HG6KQOCIBCNFCETKK6A4ETJVU.png?smart=true&auth=843daf0a3362e5129c0db8f133af43c38a233aa5aae8c540f8f9bbe4c7f471bf&width=1200&height=630",
+      "PublishedAt": "2026-03-16T15:35:38Z",
+      "Content": "El peso mexicano inicia la jornada operando en terreno de ganancias, a pesar de que el mercado a nivel local permanecerá cerrado por el feriado que conmemora el natalicio de Benito Juárez, mientras l… [+1689 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-intervencion-del-bcra-busco-no-alterar-la-RY4NWELRCNB4PPTGQ6LGZT44YQ.JPG?auth=4edef86102ed1c56baf41818b16ceb7df56fc5a8a0d2b1f9443fdf1273473923&width=1200&quality=85&smart=true&height=675",
       "PublishedAt": "2026-03-03T20:34:28Z",
       "Content": "El Banco Central (BCRA) completó hoy 40 ruedas consecutivas comprando dólares en el mercado local, aunque por primera vez en más de un mes y medio se quedó con menos del 5% del volumen operado.\r\nSe a… [+2548 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "Banco Central reduce tasa de interés de referencia a 5,75% al evaluar efectos del conflicto en Medio Oriente y el dólar",
-      "Description": "El directorio del Banco Central (BCU) resolvió por unanimidad reducir la tasa de interés de referencia, es decir \"el precio del dinero\" en 75 puntos básicos.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/banco-central-reduce-tasa-de-interes-de-referencia-a-5-75-al-evaluar-efectos-del-conflicto-en-medio-oriente-y-el-dolar",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/c90f4f2/2147483647/strip/true/crop/3606x2254+0+46/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F40%2F00bef9d8449ca1149b7e2db1a4c7%2Farchive-fotos-1-2597800-70fdb6de4f08472f5111064ae4ce3a2b-15507579.jpg",
-      "PublishedAt": "2026-03-03T20:15:56Z",
-      "Content": "El directorio del Banco Central (BCU) resolvió este martes por unanimidad reducir la tasa de interés de referencia, es decir \"el precio del dinero\" en 75 puntos básicos. Es la séptima reunión consecu… [+3272 chars]"
     }
   ]
 }
