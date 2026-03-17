@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Alejandra HolguÍn",
+      "Title": "Precio del dólar HOY lunes 16 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, lunes 16 de marzo del 2026, según el tipo de cambio en este inicio de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/16/precio-del-dolar-hoy-lunes-16-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-432258.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/21/f1280x720-474344_606019_5050.jpeg",
+      "PublishedAt": "2026-03-16T12:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2056 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/c90f4f2/2147483647/strip/true/crop/3606x2254+0+46/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F40%2F00bef9d8449ca1149b7e2db1a4c7%2Farchive-fotos-1-2597800-70fdb6de4f08472f5111064ae4ce3a2b-15507579.jpg",
       "PublishedAt": "2026-03-03T20:15:56Z",
       "Content": "El directorio del Banco Central (BCU) resolvió este martes por unanimidad reducir la tasa de interés de referencia, es decir \"el precio del dinero\" en 75 puntos básicos. Es la séptima reunión consecu… [+3272 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Expansión",
-      "Title": "El euro sigue cayendo frente al dólar porque los inversores se refugian en el 'billete verde'",
-      "Description": "El euro se cambiaba hacia las 16:00 horas del martes a 1,1577 dólares, frente a los 1,1697 dólares en las últimas horas de la negociación europea del mercado de divisas de la jornada anterior. Leer",
-      "Url": "https://www.expansion.com/mercados/divisas/2026/03/03/69a710e3e5fdead13d8b4596.html",
-      "UrlToImage": "https://e01-phantom-expansion.uecdn.es/bf175aeafb8218806e0de2eb5bcd2541/crop/40x0/2027x1325/resize/1200/f/webp/assets/multimedia/imagenes/2022/03/02/16462370851291.jpg",
-      "PublishedAt": "2026-03-03T16:48:47Z",
-      "Content": "El euro se cambiaba hacia las 16:00 horas del martes a 1,1577 dólares, frente a los 1,1697 dólares en las últimas horas de la negociación europea del mercado de divisas de la jornada anterior.El euro… [+2630 chars]"
     }
   ]
 }
