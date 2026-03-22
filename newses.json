@@ -1,8 +1,125 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Rurales El País",
+      "Title": "En Uruguay el dólar debería de ubicarse en $41 o algo por encima, según Gustavo Trelles de banco Santander",
+      "Description": "Desde el banco hay confianza en la resiliencia del sector agrícola para superar el mal momento que se atraviesa por la sequía",
+      "Url": "https://rurales.elpais.com.uy/valor-agregado/en-uruguay-el-dolar-deberia-de-ubicarse-en-41-o-algo-por-encima-segun-gustavo-trelles-de-banco-santander",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/a438180/2147483647/strip/true/crop/1600x778+0+144/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F87%2Fcb%2F13d13c5fcbbb72d1665a4604a69b%2Fwhatsapp-image-2021-05-29-at-14-36-15.jpeg",
+      "PublishedAt": "2026-03-20T23:35:57Z",
+      "Content": "El principal de Santander en Uruguay, Gustavo Trelles, señaló la situación internacional actual, con diversos factores el conflicto bélico, genera que sea un momento de cautela, donde hay que ver cóm… [+3017 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso abre con pérdidas por nuevos ataques en Medio Oriente: ¿Cuánto cede ante el dólar HOY?",
+      "Description": "En el mercado de dinero, el rendimiento del bono a 10 años para Estados Unidos es de 4.38 por ciento.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/20/peso-abre-con-perdidas-por-nuevos-ataques-en-medio-oriente-cuanto-cede-ante-el-dolar-hoy/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XB4ATQEEMRDIDCZUVOG55P3HXQ.jpeg?smart=true&auth=06cc270109dd9ccf6f7251265b1e42654dabbea04bb9e7488438fefd6a8b39ec&width=1200&height=630",
+      "PublishedAt": "2026-03-20T16:54:58Z",
+      "Content": "El peso mexicano inicia la jornada operando en terreno de pérdidas, mientras se incrementa la aversión al riesgo entre los participantes del mercado tras informarse nuevos ataques en Medio Oriente.\r\n… [+1634 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY viernes 20 de marzo de 2026: ¿Cuál es el tipo de cambio?",
+      "Description": "Este viernes 20 de marzo de 2026 el precio del dólar se expone en un promedio de 17.8004 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/20/precio-del-dolar-en-mexico-hoy-viernes-20-de-marzo-de-2026-cual-es-el-tipo-de-cambio-432651.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/20/f1280x720-497286_628961_5050.jpg",
+      "PublishedAt": "2026-03-20T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes pensado realizar operaciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2067 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY jueves 19 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este jueves 19 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.8566 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/19/precio-del-dolar-en-mexico-hoy-jueves-19-de-marzo-de-2026-tipo-de-cambio-actual-432552.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/19/f1280x720-497126_628801_5050.jpg",
+      "PublishedAt": "2026-03-19T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este penúltimo día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativ… [+2061 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso retrocede ante el dólar en día de la Fed: ¿Cómo amanece el tipo de cambio?",
+      "Description": "El peso mexicano registra un retroceso este miércoles, de acuerdo con datos de apertura de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/18/peso-dolar-tipo-de-cambio-hoy-18-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7ETVQPA47FATDF7XLE5D5W5G3U.png?smart=true&auth=1632b62158529e9831c7ec521f9e76cfa1092a43b4b14dcb1337797e88b795a6&width=1200&height=630",
+      "PublishedAt": "2026-03-18T16:20:37Z",
+      "Content": "El peso mexicano refleja un retroceso frente al dólar, mientras el mercado se prepara para conocer la decisión de política monetaria de la Reserva Federal, programada para hoy, para la que no se espe… [+1564 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY miércoles 18 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este miércoles 18 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.7240 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/18/precio-del-dolar-en-mexico-hoy-miercoles-18-de-marzo-de-2026-tipo-de-cambio-actual-432438.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/18/f1280x720-496928_628603_5050.jpeg",
+      "PublishedAt": "2026-03-18T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este miércoles 18 de marzo de 2026, segundo día hábil de esta semana, tienes planeado realizar operaciones que contemplan a la moneda oficial de los Estados Unidos (EU)? Si la res… [+2076 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza ante el dólar pese a tensión geopolítica: Tipo de cambio se ubica en 17.68",
+      "Description": "El peso tiene una ganancia de más de 1 por ciento al inicio de este martes, luego de tomar un descanso por el feriado del natalicio de Benito Juárez.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/17/peso-dolar-tipo-de-cambio-hoy-17-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/EAGXOKO6CREFFL3RBPRMNNTHMQ.png?smart=true&auth=46ae3ec7c6ec07587fd16f32f65080fb32c7cf96bfb98f671c05f83567d85fb5&width=1200&height=630",
+      "PublishedAt": "2026-03-17T15:54:52Z",
+      "Content": "A pesar de que se mantiene la incertidumbre geopolítica, los inversionistas muestran un mayor apetito por activos de riesgo, lo que inyecta debilidad al billete estadounidense y abre paso a que el pe… [+1579 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "Precio del dólar en México HOY martes 17 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este martes 17 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.6637 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/17/precio-del-dolar-en-mexico-hoy-martes-17-de-marzo-de-2026-tipo-de-cambio-actual-432328.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/17/f1280x720-496768_628443_5050.jpeg",
+      "PublishedAt": "2026-03-17T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este martes 17 de marzo de 2026, primer día hábil de la semana tras el día de asueto, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unid… [+2076 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar baja en Uruguay aunque se mantiene por encima del nivel de los $ 40 a nivel interbancario",
+      "Description": "El dólar bajó 0,4% y cerró en $ 40,47, aunque acumula una suba de 5,4% en marzo. Subieron el riesgo país y los rendimientos, con tasas en línea del BCU.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-baja-en-uruguay-aunque-se-mantiene-por-encima-del-nivel-de-los-40-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ab3daed/2147483647/strip/true/crop/800x500+0+36/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2017%2F09%2F08%2F59b3117da8e5d.jpeg",
+      "PublishedAt": "2026-03-17T06:10:00Z",
+      "Content": "El dólaren Uruguaybajó ayer0,4% y se negoció en promedio a $ 40,477. En la jornada, la moneda estadounidense cotizó entre $ 40,35 y $ 40,58 y cerró en el máximo, una reducción de 0,17% respecto al ci… [+1215 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -275,123 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-siguio-comprando-divisas-en-el-D3GGCFMWPZAD3BUE4EX4GJGALU.jpeg?auth=364728c0b5808e8a4acdd5ab4197e44c28ee65ce6c51eda65f01014ba2f2ec5c&width=1200&quality=85&smart=true&height=675",
       "PublishedAt": "2026-03-06T19:07:35Z",
       "Content": "El dato pasó casi desapercibido en el ruido de una semana cargada, pero su lectura es elocuente: el martes 24 de febrero, cuando el dólar mayorista comenzó a repuntar en el mercado oficial, el Tesoro… [+4564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Luis Montero Fernández-Peña",
-      "Title": "El euro sigue cayendo frente al dólar y deja una señal que inquieta a los mercados globales",
-      "Description": "El euro sigue cayendo frente al dólar en un contexto marcado por tensiones geopolíticas, volatilidad energética y dudas sobre la evolución de la política monetaria en Europa. La moneda única europea atraviesa un momento delicado en los mercados internacionale…",
-      "Url": "https://www.elconfidencialdigital.com/articulo/dinero/euro-sigue-cayendo-frente-dolar-deja-senal-que-inquieta-mercados-globales/202603061930111008019.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/06/2026030619295488838.jpg",
-      "PublishedAt": "2026-03-06T18:30:11Z",
-      "Content": "El euro sigue cayendo frente al dólar en medio de la incertidumbre global\r\nEl euro sigue cayendo frente al dólar y esta tendencia refleja el nerviosismo creciente en los mercados financieros internac… [+5450 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Tipo de cambio se acerca a los 18 pesos por dólar en semana de guerra EU-Irán",
-      "Description": "Se prevé que la pérdida semanal del peso ante el dólar sea mayor a los 50 centavos, lo que sería uno de sus peores balances en meses.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/06/peso-dolar-precio-hoy-6-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/L5LABJKHAJGWPIPW6UMSDX4ROU.png?smart=true&auth=282d4dc2abc8f73e81f9ce218cf2fad2ac476d9d630088a0d8ccc4c141c6f89e&width=1200&height=630",
-      "PublishedAt": "2026-03-06T15:35:48Z",
-      "Content": "El peso mexicano amplía sus pérdidas ante el dólar este viernes 6 de marzo después de que el séptimo día de guerra entre EU e Irán trajo más amenazas del presidente Donald Trump. \r\nEl mandatario de E… [+1939 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY viernes 6 de marzo de 2026: Tipo de cambio actual",
-      "Description": "Este viernes 6 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.8096 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/6/precio-del-dolar-en-mexico-hoy-viernes-de-marzo-de-2026-tipo-de-cambio-actual-431350.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/6/f1280x720-495252_626927_5050.jpeg",
-      "PublishedAt": "2026-03-06T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2067 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso pierde ante el dólar tras nuevos ataques de Irán a base y petrolero de EU",
-      "Description": "El peso se dirige a perder la semana ante el dólar después de que la incertidumbre por la guerra entre EU e Irán inquieta a los mercados.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/05/peso-dolar-precio-hoy-5-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HKLPVYDZ5BBATJ2N7GVF2GKI6U.png?smart=true&auth=b21eb67af30b63b1634c2e7b3ce3acd2611f2aca07bddd714c130e35e9bdbf38&width=1200&height=630",
-      "PublishedAt": "2026-03-05T15:43:02Z",
-      "Content": "El peso mexicano pierde de nuevo ante el dólar este jueves 5 de marzo mientras la guerra entre EU e Irán llega a su sexto día. \r\nEl Ejército de Irán afirmó que hizo dos ataques: Uno con drones contra… [+1643 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY en México: Así amaneció en peso mexicano este JUEVES 5 de marzo",
-      "Description": "Este jueves 5 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.6227 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/5/precio-del-dolar-hoy-en-mexico-asi-amanecio-en-peso-mexicano-este-jueves-de-marzo-431246.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/5/f1280x720-495096_626771_5050.jpeg",
-      "PublishedAt": "2026-03-05T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este penúltimo día de la semana tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, ya … [+2054 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Rurales El País",
-      "Title": "Baja de tasas del Banco Central busca estimular la economía y podría dar impulso al dólar",
-      "Description": "El Banco Central del Uruguay redujo la tasa de política monetaria a 5,75%. La medida responde a una inflación controlada y a una economía que muestra señales de desaceleración, y podría contribuir a una leve recuperación del tipo de cambio",
-      "Url": "https://rurales.elpais.com.uy/valor-agregado/baja-de-tasas-del-banco-central-busca-estimular-la-economia-y-podria-dar-impulso-al-dolar",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/9a1fd6b/2147483647/strip/true/crop/1110x540+0+15/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F11%2F274eaf5c4a8986c75210108df11e%2F21fachada-1110.jpg",
-      "PublishedAt": "2026-03-05T07:00:00Z",
-      "Content": "El Banco Central del Uruguay (BCU) decidió reducir la tasa de política monetaria en 75 puntos básicos, llevándola a 5,75%, en una decisión que busca acompañar el actual escenario económico del país. … [+4690 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se recupera del ‘trancazo’ por guerra de EU vs. Irán: ¿Cuánto gana al dólar HOY?",
-      "Description": "El New York Times publicó que agentes de Irán se contactaron con la administración de Trump para negociar el fin a los ataques contra Teherán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/04/peso-dolar-precio-hoy-4-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QM7OULKCMVBZFBHWK5ECJF6ZNY.png?smart=true&auth=1b00c522f60911bf1d5548786d712d391dda3ae8f91cb155055479a804daaca9&width=1200&height=630",
-      "PublishedAt": "2026-03-04T16:32:57Z",
-      "Content": "El peso se recupera después de sufrir su peor pérdida intradía desde abril de 2025 ante reportes de que altos mandos de Irán buscan una negociación con Donald Trump para terminar la guerra en Medio O… [+2331 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY en México: ¿Cuál es el tipo de cambio este MIÉRCOLES 4 de marzo de 2026?",
-      "Description": "Este miércoles 4 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.5922 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/4/precio-del-dolar-hoy-en-mexico-cual-es-el-tipo-de-cambio-este-miercoles-de-marzo-de-2026-431150.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/4/f1280x720-494946_626621_5050.jpg",
-      "PublishedAt": "2026-03-04T12:00:00Z",
-      "Content": "Ciudad de México.-  Si hoy, miércoles 4 de marzo de 2026, tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos (EU), es indispensable que te informes sobre … [+2016 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central lleva 40 ruedas comprando, pero bajó el ritmo para no sumar presión al dólar",
-      "Description": "Adquirió apenas US$17 millones, menos del 5% de lo operado en el mercado",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-lleva-40-ruedas-comprando-pero-bajo-el-ritmo-para-no-sumar-presion-al-dolar-nid03032026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-intervencion-del-bcra-busco-no-alterar-la-RY4NWELRCNB4PPTGQ6LGZT44YQ.JPG?auth=4edef86102ed1c56baf41818b16ceb7df56fc5a8a0d2b1f9443fdf1273473923&width=1200&quality=85&smart=true&height=675",
-      "PublishedAt": "2026-03-03T20:34:28Z",
-      "Content": "El Banco Central (BCRA) completó hoy 40 ruedas consecutivas comprando dólares en el mercado local, aunque por primera vez en más de un mes y medio se quedó con menos del 5% del volumen operado.\r\nSe a… [+2548 chars]"
     }
   ]
 }
