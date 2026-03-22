@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bossip"
+      },
+      "Author": "lizsmith23",
+      "Title": "4x MVP A’ja Wilson’s Massive Money Move: From $200K To Million-Dollar Mogul In New WNBA Agreement",
+      "Description": "The bag might finally be catching up to the talent in the WNBA, and honestly, it’s about time. For years, WNBA players have been speaking up, speaking out, and straight up demanding what they’ve always deserved, fair pay. While fans have packed arenas, tuned …",
+      "Url": "https://bossip.com/4533732/aja-wilson-wnba-pay-deal/",
+      "UrlToImage": "https://bossip.com/wp-content/uploads/sites/28/2026/03/17741262666427.jpg?quality=80&strip=all&w=1024&crop=0,0,100,683px",
+      "PublishedAt": "2026-03-21T21:09:30Z",
+      "Content": "The bag might finally be catching up to the talent in the WNBA, and honestly, its about time.\r\nSource: Ian Maule / Getty\r\nFor years, WNBA players have been speaking up, speaking out, and straight up … [+1153 chars]"
+    },
     {
       "Source": {
         "Id": null,
