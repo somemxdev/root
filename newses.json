@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "¿Cuál es el precio del dólar en México? Tipo de cambio HOY domingo 22 de marzo de 2026",
+      "Description": "Te decimos todo sobre el precio del dólar en los bancos de México previo al inicio de semana; aquí información del tipo de cambio",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/22/cual-es-el-precio-del-dolar-en-mexico-tipo-de-cambio-hoy-domingo-22-de-marzo-de-2026-432842.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/22/f1280x720-497585_629260_5050.jpeg",
+      "PublishedAt": "2026-03-22T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 22 de marzo de 2026, los bancos de México y demás instituciones financieras no brindan servicios, solo de manera digital. Sin embargo, si para los próximos días tienes… [+2037 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/7/f1280x720-495403_627078_5050.jpg",
       "PublishedAt": "2026-03-07T12:00:00Z",
       "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2033 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso se deprecia 3.25% ante dólar debido a escalada en Medio Oriente",
-      "Description": "De acuerdo con datos del Banco de México, el tipo de cambio cerró la jornada de este viernes en 17.8 pesos por dólar, unos 52 centavos por encima que al inicio de la semana.",
-      "Url": "https://aristeguinoticias.com/0603/dinero-y-economia/peso-se-deprecia-3-25-ante-dolar-debido-a-escalada-en-medio-oriente/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/07/superpeso-peso-dolar-tipo-cambio-remesas-310723-2.jpg",
-      "PublishedAt": "2026-03-07T00:09:30Z",
-      "Content": "El peso mexicano se depreció un 3.25% semanal frente al dólar, baja que ocurrió a la par de un fortalecimiento del dólar estadounidense del 1.36% debido a la escalada en Medio Oriente.\r\nDe acuerdo co… [+2515 chars]"
     }
   ]
 }
