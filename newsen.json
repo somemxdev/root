@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Billion-Dollar Bank Handing $2,400,000 To Customers and Attorneys In Settlement Over Data Breach That Impacted 204,291 People",
+      "Description": "A US bank is preparing to hand out millions of dollars after a data breach exposed customers’ personal information. The Nebraska-based Union Bank and Trust Company (UBT) has agreed to shell out $2.4 million to settle a class action lawsuit accusing the lender…",
+      "Url": "https://dailyhodl.com/2026/03/22/billion-dollar-bank-handing-2400000-to-customers-and-attorneys-in-settlement-over-data-breach-that-impacted-204291-people/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/04/bank-gol-dollar.jpg?resize=266,156",
+      "PublishedAt": "2026-03-22T17:12:05Z",
+      "Content": "A US bank is preparing to hand out millions of dollars after a data breach exposed customers personal information.\r\nThe Nebraska-based Union Bank and Trust Company (UBT) has agreed to shell out $2.4 … [+2158 chars]"
+    },
     {
       "Source": {
         "Id": null,
