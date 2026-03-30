@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Trump just ended a 165-year tradition by signing your dollar bills — here's why no president has ever done it before - Yahoo Finance",
+      "Description": "Trump just ended a 165-year tradition by signing your dollar bills — here's why no president has ever done it beforeYahoo Finance Everything With Trump’s Signature, Name and Likeness: Currency, Buildings and MoreThe New York Times All the Things Trump Has Put…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=181163782",
+      "UrlToImage": null,
+      "PublishedAt": "2026-03-28T20:52:20Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Econbrowser.com"
+      },
+      "Author": "Menzie Chinn",
+      "Title": "Dollar Dominance in Central Bank Reserves",
+      "Description": "Talking about the dollar, Trump, and stupidity as an exogenous variable, next couple of days… Figure 1: Share of total foreign exchange reserves for US dollar (blue), euro (brown), British pound (red), Japanese yen (green), Chinese yuan (pink), all in %. Oran…",
+      "Url": "https://econbrowser.com/archives/2026/03/dollar-dominance-in-central-bank-reserves",
+      "UrlToImage": null,
+      "PublishedAt": "2026-03-24T07:33:19Z",
+      "Content": "Talking about the dollar, Trump, and stupidity as an exogenous variable, next couple of days…\r\nFigure 1: Share of total foreign exchange reserves for US dollar (blue), euro (brown), British pound (re… [+146 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Hedge Funds Feed Dollar Gains as US, Iran Exchange Threats",
+      "Description": "The dollar advanced and traders bet on further gains for the reserve currency as the war in the Middle East entered its fourth week and the US exchanged threats with Iran.",
+      "Url": "https://financialpost.com/pmn/business-pmn/hedge-funds-feed-dollar-gains-as-us-iran-exchange-threats",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/tail-risk-demand-stays-elevated-even-as-volumes-retreat.jpg",
+      "PublishedAt": "2026-03-23T09:25:51Z",
+      "Content": "(Bloomberg) The dollar advanced and traders bet on further gains for the reserve currency as the war in the Middle East entered its fourth week and the US exchanged threats with Iran.\r\nTHIS CONTENT I… [+4150 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -249,71 +288,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/03/wells-fargo-p-bank.jpg?resize=1365,800",
       "PublishedAt": "2026-02-28T08:04:27Z",
       "Content": "A US bank is preparing to shell out more than $10 million to settle allegations that it harassed customers.\r\nA civil lawsuit accused the Las Vegas-based bank Credit One of instructing agent vendors t… [+2210 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "India state bank dollar sales anchor rupee, investors await GDP data",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_081f65f1-82df-47b8-ae17-88cf5fea0319",
-      "UrlToImage": null,
-      "PublishedAt": "2026-02-27T06:13:33Z",
-      "Content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Activistpost.com"
-      },
-      "Author": "Editor",
-      "Title": "BRICS vs. US Dollar: The Hidden Strategy that Could Reshape Global Finance by 2026",
-      "Description": "Imagine a world where the US dollar, the bedrock of global finance for nearly a century, is no longer the unchallenged king Imagine a world where the US dollar, the bedrock of global finance for nearly a century, is no longer the unchallenged king. As of Janu…",
-      "Url": "https://www.activistpost.com/brics-vs-us-dollar-the-hidden-strategy-that-could-reshape-global-finance-by-2026/",
-      "UrlToImage": "https://www.activistpost.com/wp-content/uploads/2026/02/BRICS-Money28-1.jpg",
-      "PublishedAt": "2026-02-26T19:01:00Z",
-      "Content": "Imagine a world where the US dollar, the bedrock of global finance for nearly a century, is no longer the unchallenged king\r\nImagine a world where the US dollar, the bedrock of global finance for nea… [+3306 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Federalreserve.gov"
-      },
-      "Author": null,
-      "Title": "FEDS Paper: Contrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems",
-      "Description": "Melissa LeistraThis paper describes the current U.S. dollar interbank payments landscape and identifies its key characteristics. It then discusses major considerations and potential tradeoffs that various conceptual alternatives might raise.",
-      "Url": "https://www.federalreserve.gov/econres/feds/contrasting-ledgers-considerations-for-us-dollar-interbank-payment-systems.htm",
-      "UrlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "PublishedAt": "2026-02-25T22:00:00Z",
-      "Content": "February 2026\r\nContrasting Ledgers: Considerations for U.S. Dollar Interbank Payment Systems\r\nMelissa Leistra\r\nAbstract:\r\nThis paper describes the current U.S. dollar interbank payments landscape and… [+921 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Atmadip Ray",
-      "Title": "IIFL Finance to raise up to $750 million via ECBs, dollar bonds",
-      "Description": "Fairfax-backed IIFL Finance is planning to raise $500-750 million in external commercial borrowings and dollar bonds this March. This move aims to diversify its funding sources and support business growth, with discussions underway with existing investors and…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-to-raise-up-to-750-million-via-ecbs-dollar-bonds/articleshow/128798313.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-128792410,width-1200,height-630,imgsize-7082,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-02-25T18:40:55Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Atmadip Ray",
-      "Title": "IIFL Finance to raise up to $750 million via ECBs, dollar bonds",
-      "Description": "Fairfax-backed IIFL Finance is planning to raise $500-750 million in external commercial borrowings and dollar bonds this March. This move aims to diversify its funding sources and support business growth, with discussions underway with existing investors and…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-to-raise-up-to-750-million-via-ecbs-dollar-bonds/articleshow/128792394.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-128792410,width-1200,height-630,imgsize-7082,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-02-25T18:40:55Z",
-      "Content": "Kolkata: Fairfax-backed IIFL Finance plans to raise $500-750 million (4,547-6,820 crore) in external commercial borrowings and dollar bonds in March, as part of its strategy to diversify the resource… [+1720 chars]"
     }
   ]
 }

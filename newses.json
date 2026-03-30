@@ -1,8 +1,229 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Redacción Tribuna",
+      "Title": "¿Cuál es el precio del dólar en México expuesto HOY domingo 29 de marzo? Tipo de cambio",
+      "Description": "Este domingo 29 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.1255 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/29/cual-es-el-precio-del-dolar-en-mexico-expuesto-hoy-domingo-29-de-marzo-tipo-de-cambio-433483.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/29/f1280x720-498613_630288_5050.jpeg",
+      "PublishedAt": "2026-03-29T12:00:00Z",
+      "Content": "Ciudad de México.- Este domingo 29 de marzo de 2026, los bancos de México y demás instituciones financieras no brindan servicios, más que de manera digital. No obstante, si para la siguiente semana t… [+2053 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Alejandra HolguÍn",
+      "Title": "Precio del dólar HOY sábado 28 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
+      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 28 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/28/precio-del-dolar-hoy-sabado-28-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-433428.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/28/f1280x720-498545_630220_5467.jpg",
+      "PublishedAt": "2026-03-28T12:00:00Z",
+      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1950 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Guerra en Medio Oriente se extenderá hasta abril... y tipo de cambio supera los 18 pesos por dólar",
+      "Description": "Los precios del petróleo se mantienen altos debido a que Irán mantiene bloqueado el Estrecho de Ormuz, canal por el que pasan 1 de cada 5 barriles de crudo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KJH6H32RIBH2JA25XBOZC4R6AU.png?smart=true&auth=1651d31885d74b6e083c77c095d9b2975d57f022c4e9cbb846888ba669b55a47&width=1200&height=630",
+      "PublishedAt": "2026-03-27T15:10:04Z",
+      "Content": "El tipo de cambio superó de nuevo los 18 pesos por dólar como resultado de una mayor incertidumbre geopolítica por la guerra entre Estados Unidos e Irán.\r\nDonald Trump extendió el plazo para que Irán… [+1895 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY viernes 27 de marzo de 2026 en México: Así amaneció el tipo de cambio",
+      "Description": "Este viernes 27 de marzo de 2026, el precio del dólar se expone en un promedio de 18.0222 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/27/precio-del-dolar-hoy-viernes-27-de-marzo-de-2026-en-mexico-asi-amanecio-el-tipo-de-cambio-433321.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/27/f1280x720-498365_630040_5050.jpg",
+      "PublishedAt": "2026-03-27T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, … [+2047 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay retoma la suba y se ubica por encima de los $ 40,50 a nivel interbancario",
+      "Description": "La moneda estadounidense subió 0,39% ayer y se negoció en promedio a $ 40,61, mientras que cerró la jornada a $ 40,60, lo que significó un alza de 0,30% sobre el cierre del miércoles.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-retoma-la-suba-y-se-ubica-por-encima-de-los-40-50-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/bcf6d7d/2147483647/strip/true/crop/630x394+0+18/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2017%2F09%2F10%2F59b4b733ebdaf.jpeg",
+      "PublishedAt": "2026-03-27T06:05:00Z",
+      "Content": "El dólar en Uruguay subió 0,39% ayer y se negoció en promedio a $ 40,613 a nivel interbancario. En la jornada, la moneda estadounidense apenas se movió entre $ 40,60 y $ 40,67 para finalizar en el mí… [+1342 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso cede ante el dólar antes de decisión del Banxico: Así está el tipo de cambio HOY 26 de marzo",
+      "Description": "La mitad de los especialistas consultados por Bloomberg considera que el Banxico dejará su tasa de interés en 7%, pero la otra mitad prevé un recorte de 25 puntos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/26/peso-dolar-precio-hoy-26-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/U2N44E5TSBFPFF3EPG3PBTBUZM.png?smart=true&auth=7f1f1e0a8688dc6c9e9e070fbd4095e4d934ad31a3c318deb97480d03dae2a10&width=1200&height=630",
+      "PublishedAt": "2026-03-26T17:20:09Z",
+      "Content": "El peso mexicano cede pocos centavos ante el dólar este jueves 26 de marzo a minutos de que el Banco de México (Banxico) publique su nueva decisión de política monetaria. \r\nLos especialistas están di… [+1812 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph.es"
+      },
+      "Author": "Zoltan Vardai",
+      "Title": "Las stablecoins de euro dominan el mercado no-dólar estadounidense, según un informe respaldado por Visa",
+      "Description": "Las stablecoins de euro ahora representan más del 80% de la oferta no-dólar estadounidense, con EURC liderando los volúmenes a medida que MiCA y las integraciones de infraestructuras de pago impulsan la adopción.Las stablecoins denominadas en euros constituye…",
+      "Url": "https://cointelegraph.es/news/euro-stablecoins-non-dollar-market-visa",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019ae08e-3d6e-7a90-a21f-2f6796516d94",
+      "PublishedAt": "2026-03-26T16:12:30Z",
+      "Content": "Las stablecoins denominadas en euros constituyen más del 80% del mercado de stablecoins no-dólar estadounidense que, según Dune, ha crecido hasta alcanzar una oferta total de aproximadamente 1.200 mi… [+3265 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "¿Cuál es el precio del dólar en México HOY jueves 26 de marzo de 2026? Tipo de cambio actual",
+      "Description": "Este jueves 26 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.8066 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/26/cual-es-el-precio-del-dolar-en-mexico-hoy-jueves-26-de-marzo-de-2026-tipo-de-cambio-actual-433217.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/26/f1280x720-498193_629868_5050.jpeg",
+      "PublishedAt": "2026-03-26T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este penúltimo día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2057 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘come’ centavos al dólar a pesar de rechazo de Irán a plan de alto al fuego de Trump",
+      "Description": "Felipe Mendoza, analista de mercados EBC Financial Group, afirmó que si Irán y Trump sí acuerdan un alto al fuego, el tipo de cambio podría establizarse en las 17.60 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/25/peso-dolar-precio-hoy-25-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3E4R2Q7KBBGDRNUQOFQFRJ76U4.png?smart=true&auth=b56fa2349b54e46b57aa94b893cbb13ab4fe6df32e41025cd6457634c576181b&width=1200&height=630",
+      "PublishedAt": "2026-03-25T16:29:03Z",
+      "Content": "El peso mexicano avanza marginalmente ante el dólar este miércoles 25 de marzo, esto a pesar de que Irán rechazó la propuesta de alto al fuego hecha por Donald Trump. \r\nLa guerra en Medio Oriente ha … [+1784 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Gustavo Ortega Campos",
+      "Title": "Empresarios turísticos piden al Banco Central intervenir para frenar caída del dólar y bajar tasas en colones",
+      "Description": "Canatur solicitó este miércoles al BCCR intervenir el mercado cambiario, reducir la tasa de política monetaria y bajar el encaje legal para mitigar los efectos de la apreciación del colón",
+      "Url": "https://www.nacion.com/economia/empresarios-turisticos-piden-al-banco-central/PSYX7CTTTRCXPFPKAZLHHFYBNI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/S7RB5GLD6JAHTEFDHFSTLQOY6E.jpg?smart=true&auth=9af4191f2055e7c5e44c0fcc7d997d00e3b475900f63d37e65e2a655be876acc&width=1440",
+      "PublishedAt": "2026-03-25T15:40:11Z",
+      "Content": "La Cámara Nacional de Turismo (Canatur) solicitó este miércoles al Banco Central de Costa Rica (BCCR) que tome acciones para contrarestar los efectos de la apreciación del tipo de cambio.\r\nEntre las … [+850 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY miércoles 25 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este miércoles 25 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.7598 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/25/precio-del-dolar-en-mexico-hoy-miercoles-25-de-marzo-de-2026-tipo-de-cambio-actual-433116.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/25/f1280x720-498027_629702_5050.jpg",
+      "PublishedAt": "2026-03-25T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este miércoles 25 de marzo de 2026, tercer día hábil de esta semana, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU)? Si la re… [+2082 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso cae por las cifras de inflación en México: Así cotiza ante el dólar HOY",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.26 pesos por billete verde, según Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/24/peso-dolar-tipo-de-cambio-hoy-24-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TAN3FEBNLZCKNPBVLXIECZ75WY.png?smart=true&auth=da3ac31d07368e4b31597070f481df08eee11f31f9dcc6a48cb373da8df3fce0&width=1200&height=630",
+      "PublishedAt": "2026-03-24T15:38:53Z",
+      "Content": "La cotización del peso mexicano inicia la jornada en terreno de pérdidas a medida que se continúan intensificando las tensiones geopolíticas, mientras que en paralelo los inversionistas asimilan una … [+1498 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar HOY martes 24 de marzo de 2026 en México: Tipo de cambio actual",
+      "Description": "Este martes 24 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.8811 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/24/precio-del-dolar-hoy-martes-24-de-marzo-de-2026-en-mexico-tipo-de-cambio-actual-432998.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/24/f1280x720-497837_629512_5050.jpeg",
+      "PublishedAt": "2026-03-24T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este martes 24 de marzo de 2026, segundo día hábil de la semana, tienes pensado realizar operaciones que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respuesta… [+2058 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar y el nivel clave de los 1,14",
+      "Description": "A pesar de las caídas del euro/dólar desde finales de enero, pasando de los 1,2083 hasta los recientes 1,1410 euros por cada dólar, en realidad el cruce lleva encajado dentro de...",
+      "Url": "https://www.expansion.com/mercados/2026/03/24/69c24438468aeb7b498b45b3.html",
+      "UrlToImage": "https://e01-phantom-expansion.uecdn.es/a26ba959592f4d5327fb66c93e7ee8dd/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/24/17743394986244.jpg",
+      "PublishedAt": "2026-03-24T08:22:11Z",
+      "Content": "El cruce se lleva moviendo lateralmente desde junio del año pasado.A pesar de las caídas del euro/dólar desde finales de enero, pasando de los 1,2083 hasta los recientes 1,1410 euros por cada dólar, … [+1201 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar sigue bajando y acumula 12 sesiones en caída",
+      "Description": "Este 23 de marzo, el precio del dólar en el Monex alcanzó un nuevo mínimo.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-sigue-bajando-y-acumula/TKNO4HOP7BDYRHCKY4QJ26LW2Q/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/RWU5FO6YDZDRNPBBTM6LPCY2YE.jpg?smart=true&auth=affe047160ade0390eb6f3d11758ae818505c92860153c4468a3af17f55acc7f&width=1440",
+      "PublishedAt": "2026-03-23T21:43:35Z",
+      "Content": "El tipo de cambio del dólar respecto al colón continúa bajando en el Mercado de Monedas Extranjeras (Monex). Este lunes sumó 12 sesiones consecutivas con reducciones en su cotización y marcó un nuevo… [+1912 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se recupera’ por supuesta conversación entre Trump e Irán: Así avanza ante el dólar HOY",
+      "Description": "En las primeras operaciones de este lunes, el peso mexicano se aprecia ante el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/23/peso-dolar-tipo-de-cambio-hoy-23-de-marzo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HP6ZXOQWTNAE5CQHQMJU4AS434.png?smart=true&auth=e1178978a7d7636012907c86054f8cbe2d357a4ff489a1dee1ef879453647a70&width=1200&height=630",
+      "PublishedAt": "2026-03-23T16:12:14Z",
+      "Content": "El peso mexicano arrancó la semana con ganancias, en medio de un mayor debilitamiento del dólar estadounidense, como resultado de un avance en las conversaciones entre Estados Unidos e Irán.\r\nEste lu… [+1467 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Tribuna.com.mx"
+      },
+      "Author": "Frida Tochimani",
+      "Title": "Precio del dólar en México HOY lunes 23 de marzo de 2026: Tipo de cambio actual",
+      "Description": "Este lunes 23 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.7591 pesos de la Moneda Nacional Mexicana (MXN)",
+      "Url": "https://www.tribuna.com.mx/politica/2026/3/23/precio-del-dolar-en-mexico-hoy-lunes-23-de-marzo-de-2026-tipo-de-cambio-actual-432897.html",
+      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/23/f1280x720-497672_629347_5050.jpeg",
+      "PublishedAt": "2026-03-23T12:00:00Z",
+      "Content": "Ciudad de México.- ¿Este lunes 23 de marzo de 2026, primer día hábil de la semana, tienes pensado realizar operaciones que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respuesta e… [+2061 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -171,227 +392,6 @@
       "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/21/f1280x720-474344_606019_5050.jpeg",
       "PublishedAt": "2026-03-16T12:00:00Z",
       "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY domingo 15 de marzo de 2026: Tipo de cambio actual",
-      "Description": "Este domingo 15 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.9535 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/15/precio-del-dolar-en-mexico-hoy-domingo-15-de-marzo-de-2026-tipo-de-cambio-actual-432184.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/15/f1280x720-496542_628217_5050.jpeg",
-      "PublishedAt": "2026-03-15T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 15 de marzo de 2026, previo al Día de Asueto, los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si pa… [+2086 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "¿Adiós al ‘superpeso’? tipo de cambio ronda 18 por dólar",
-      "Description": "La divisa mexicana no ha escalado de los 18 pesos desde el 31 de diciembre de 2025 y había acumulado una apreciación de 4.88% hasta el 17 de febrero pasado.",
-      "Url": "https://aristeguinoticias.com/1303/dinero-y-economia/adios-al-superpeso-tipo-de-cambio-ronda-18-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2021/08/remesas-tipo-cambio-peso-dolar2.jpg",
-      "PublishedAt": "2026-03-14T00:48:48Z",
-      "Content": "El peso mexicano recorta su avance en lo que va del año y se acerca al piso de las 18 unidades frente al dólar, según datos del Banco de México (Banxico).\r\nAl cierre de la segunda semana de marzo, el… [+1532 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "Precio del dólar HOY sábado 14 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 14 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/14/precio-del-dolar-hoy-sabado-14-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-432112.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/18/f1280x720-492918_624593_5050.jpeg",
-      "PublishedAt": "2026-03-14T00:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1739 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Medio Oriente: el peso argentino desafía al dólar y es la segunda moneda emergente más fuertes",
-      "Description": "Analistas destacan la mayor oferta de divisas y el sesgo monetario restrictivo, aunque advierten por la apreciación cambiaria",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/medio-oriente-el-peso-argentino-desafia-al-dolar-y-es-la-segunda-moneda-emergente-mas-fuertes-nid13032026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/solo-el-peso-colombiano-y-el-peso-argentino-se-LGWBX4Z4GVG7PNTEPSXN7FQYRE.jpg?auth=a98c514ca109f85f7a425f218380ce4ae97c7e1639ad35813d4c5c8a263fb9a8&width=1200&quality=85&smart=true&height=675",
-      "PublishedAt": "2026-03-13T22:34:20Z",
-      "Content": "El peso argentino fue una de las monedas emergentes con mejor desempeño desde que arrancó el conflicto en Medio Oriente. Incluso cuando el dólar estadounidense se fortaleció a nivel global y alcanzó … [+5205 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar y mercados: por el conflicto en Medio Oriente, el petróleo cotiza arriba de los US$100 y las acciones argentinas vuelven a caer mientras el peso se fortalece",
-      "Description": "La escalada en Medio Oriente golpea a los mercados globales y la Bolsa porteña cae 1,2%; sin embargo, el tipo de cambio oficial se vende  a$1410 en Banco Nación",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-y-mercados-por-el-conflicto-en-medio-oriente-el-petroleo-cotiza-arriba-de-los-us100-y-las-nid13032026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-precio-del-petroleo-brent-supera-los-S2EWF2SOBFH6BACLXSOCP7QWHE.jpg?auth=ff15bc9a81fb92584c09c4b022e944fdc065bb5e0e64a8030c7fec9b6c4c7f23&width=1200&quality=85&smart=true&height=675",
-      "PublishedAt": "2026-03-13T16:50:48Z",
-      "Content": "La guerra en Medio Oriente sigue condicionando a mercados globales y consolida la presión sobre los suministros energéticos, con el precio del petróleo Brent por encima de los US$100. A nivel local, … [+2865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY en México VIERNES 13 de marzo de 2026: Tipo de cambio actual",
-      "Description": "Infórmate sobre cuál es el precio del dólar expuesto en los bancos de México este viernes 13 de marzo de 2026; aquí el tipo de cambio",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/13/precio-del-dolar-hoy-en-mexico-viernes-13-de-marzo-de-2026-tipo-de-cambio-actual-432008.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/13/f1280x720-496273_627948_5050.jpg",
-      "PublishedAt": "2026-03-13T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes planeado realizar transacciones que contemplan a la monedaoficial de los Estados Unidos de América (EU)? Si la respuesta es afirmativa, y… [+2071 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Tiene el peso cotización más baja ante el dólar en el año",
-      "Description": "El nerviosismo de los inversionistas internacionales pegó a los activos financieros mexicanos, que registraron sus peores niveles desde principios de enero pasado.",
-      "Url": "https://www.jornada.com.mx/2026/03/13/mundo/023n3mun",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-03-13T07:35:46Z",
-      "Content": "Periódico La JornadaViernes 13 de marzo de 2026, p. 23\r\nEl nerviosismo de los inversionistas internacionales pegó a los activos financieros mexicanos, que registraron sus peores niveles desde princip… [+1623 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "Precio del dólar en México HOY jueves 12 de marzo de 2026: ¿Cuál es el tipo de cambio?",
-      "Description": "Infórmate sobre cuál es el precio del dólar que manejan los bancos de México este jueves 12 de marzo de 2026; aquí los detalles",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/12/precio-del-dolar-en-mexico-hoy-jueves-12-de-marzo-de-2026-cual-es-el-tipo-de-cambio-431910.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/12/f1280x720-496108_627783_5050.jpeg",
-      "PublishedAt": "2026-03-12T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este penúltimo día hábil de la semana tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya… [+2062 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Madrugada ‘de terror’ para el peso: Sube precio del dólar por aumento en costo del barril del petróleo",
-      "Description": "Así es cómo la situación en Irán afectó al rendimiento del peso mexicano la madrugada de este 12 de marzo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/12/precio-del-dolar-hoy-12-de-marzo-peso-se-deprecia-por-aumento-en-el-barril-de-petroleo-y-guerra-en-iran/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/UCJHLEW5DZDTJA34I6BX5VF7AA.jpg?smart=true&auth=fd2b8b8696b36573fa268ac8d24a82a4987ee048cef69672b4283233f145d417&width=1200&height=630",
-      "PublishedAt": "2026-03-12T09:19:06Z",
-      "Content": "El peso mexicano registró pérdidas durante la noche del miércoles 11 y jueves 12 de marzo, luego de que las acciones retrocedieran a nivel global tras los ataques de Irán contra buques petroleros.\r\nE… [+3384 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY miércoles 11 de marzo de 2026 en México: Tipo de cambio actual",
-      "Description": "Este miércoles 11 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.6274 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/11/precio-del-dolar-hoy-miercoles-11-de-marzo-de-2026-en-mexico-tipo-de-cambio-actual-431794.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/11/f1280x720-495926_627601_5050.jpg",
-      "PublishedAt": "2026-03-11T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este miércoles 11 de marzo de 2026, tercer día hábil de la semana, tienes planeado realizar transacciones que involucran a la divisa oficial de los Estados Unidos (EU)? Si la resp… [+2076 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Buenas noticias en México: el peso se recupera frente al dólar y se aleja de la temida barrera de los 18",
-      "Description": "El peso mexicano se recupera tras rozar los 18 por dólar, impulsado por señales de menor tensión geopolítica y estabilidad en los mercados energéticos.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/buenas-noticias-en-mexico-el-peso-se-recupera-frente-al-dolar-y-se-aleja-de-la-temida-barrera-de-los-nid10032026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tras-rozar-la-barrera-psicologica-de-las-18-X3GSQOZPWVBZZHTPZZ6VG7SQPE.JPG?auth=aabe826b8567805b9bf21b6a1071c25c6801f35174e2c0762cb666535c79fa59&width=1200&quality=85&smart=true&height=675",
-      "PublishedAt": "2026-03-10T15:50:41Z",
-      "Content": "El mercado financiero mexicano atraviesa días de alta volatilidadmarcados por tensiones internacionales y movimientos en los precios de la energía. Luego de haber tocado niveles cercanos a la barrera… [+3049 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY martes 10 de marzo de 2026 en México: Así amanece el peso mexicano",
-      "Description": "Conoce toda la información sobre el precio del dólar en México expuesta este martes 10 de marzo de 2026; aquí los detalles del tipo de cambio",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/10/precio-del-dolar-hoy-martes-10-de-marzo-de-2026-en-mexico-asi-amanece-el-peso-mexicano-431676.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/10/f1280x720-495748_627423_5050.jpeg",
-      "PublishedAt": "2026-03-10T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este martes 10 de marzo de 2026, segundo día hábil de la semana, tienes planeado realizar transacciones que involucran a la moneda oficial de los Estados Unidos (EU)? Si la respue… [+2054 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso modera pérdidas ante el dólar tras pasar techo de las 18 unidades: Tipo de cambio está en 17.77",
-      "Description": "La guerra entre Estados Unidos e Irán llega a su día 10. El presidente Donald Trump no dio señales de que su administración baje el número de ataques, mientras que el país persa eligió a un nuevo ayatolá.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/09/peso-dolar-precio-hoy-9-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SC4HXA4UHZAUREG5CIBNEOJKYY.png?smart=true&auth=fa772024f9dfcb84aced405b21f7a18c4b16bdf7c7afcabe2ad8a0cb958a397f&width=1200&height=630",
-      "PublishedAt": "2026-03-09T15:37:34Z",
-      "Content": "El peso mexicano reduce sus pérdidas esto después de que el dólar rompió el techo de las 18 unidades durante la noche del domingo 8 de marzo por el caos provocado por la guerra entre Estados Unidos e… [+1771 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY lunes 9 de marzo de 2026: Tipo de cambio actual",
-      "Description": "Este lunes 9 de marzo de 2026, el precio del dólar se exhibe en un promedio de 17.8960 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/9/precio-del-dolar-en-mexico-hoy-lunes-de-marzo-de-2026-tipo-de-cambio-actual-431586.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/9/f1280x720-495604_627279_5050.jpg",
-      "PublishedAt": "2026-03-09T12:00:00Z",
-      "Content": "Ciudad de México.- ¡Arranca la segunda semana del mes! Y si hoy, lunes 9 de marzo de 2026, tienes planeadas transacciones que contemplan a la divisa oficial de los Estados Unidos (EU), es clave  que … [+2017 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Despluman’ al peso: Precio del dólar ‘coquetea’ con las 18 unidades por aumento del petróleo",
-      "Description": "El peso mexicano sufre el incremento de precios al petróleo y que el dólar quede como activo de refugio por las tensiones globales.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/08/precio-del-dolar-hoy-8-de-marzo-tipo-de-cambio-en-vivo-peso-mexicano-se-deprecia-por-aumento-al-petroleo/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DS3ZM7N24ZDLXCQAZZZV2LY64M.jpeg?smart=true&auth=75d8df710c42a32c9c8c4b5e803158796c306695458c1fa5bea2cfc62897afa0&width=1200&height=630",
-      "PublishedAt": "2026-03-09T00:05:00Z",
-      "Content": "El tipo de cambio está cerca de romper el techo de los 18 pesos por dólar, luego de que el incremento en los precios del petróleo a nivel global borrara meses de ganancias de la moneda mexicana.\r\nA c… [+3134 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar HOY domingo 8 de marzo de 2026 en México: Tipo de cambio actual",
-      "Description": "Este domingo 8 de marzo de 2026 el precio del dólar se exhibe en un promedio de 17.8020 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/8/precio-del-dolar-hoy-domingo-de-marzo-de-2026-en-mexico-tipo-de-cambio-actual-431519.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/8/f1280x720-495494_627169_5050.jpg",
-      "PublishedAt": "2026-03-08T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 1 de marzo de 2026 los bancos de México y demás instituciones financieras no brindan servicios, mas que en banca digital. Sin embargo, si para los próximos días tienes… [+2049 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 7 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 7 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/7/precio-del-dolar-hoy-sabado-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-431447.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/7/f1280x720-495403_627078_5050.jpg",
-      "PublishedAt": "2026-03-07T12:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+2033 chars]"
     }
   ]
 }
