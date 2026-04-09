@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Dólar ‘se poncha’ tras alto al fuego entre EU e Irán: Peso mexicano se aprecia más de 20 centavos",
+      "Description": "El precio del dólar cayó luego del alto al fuego de dos semanas acordado entre Estados Unidos e Irán.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/08/peso-se-precia-tras-alto-al-fuego-entre-estados-unidos-e-iran-dolar-registra-caida-este-miercoles-8-de-abril/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CVV2XP35YJCQXLPC3YPXJQE6FM.jpg?smart=true&auth=7ed1330b57b71a046f8e5d52dab0239602e558579f6c2f49a36d5e60a3ffff9b&width=1200&height=630",
+      "PublishedAt": "2026-04-08T08:55:22Z",
+      "Content": "El peso mexicano se apreció ante el dólar entre la noche del martes 7 y las primeras horas del miércoles 8 de abril, luego de que se confirmara un alto al fuego entre Estados Unidos e Irán.\r\nAl cierr… [+3077 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XB4ATQEEMRDIDCZUVOG55P3HXQ.jpeg?smart=true&auth=06cc270109dd9ccf6f7251265b1e42654dabbea04bb9e7488438fefd6a8b39ec&width=1200&height=630",
       "PublishedAt": "2026-03-20T16:54:58Z",
       "Content": "El peso mexicano inicia la jornada operando en terreno de pérdidas, mientras se incrementa la aversión al riesgo entre los participantes del mercado tras informarse nuevos ataques en Medio Oriente.\r\n… [+1634 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY viernes 20 de marzo de 2026: ¿Cuál es el tipo de cambio?",
-      "Description": "Este viernes 20 de marzo de 2026 el precio del dólar se expone en un promedio de 17.8004 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/20/precio-del-dolar-en-mexico-hoy-viernes-20-de-marzo-de-2026-cual-es-el-tipo-de-cambio-432651.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/20/f1280x720-497286_628961_5050.jpg",
-      "PublishedAt": "2026-03-20T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este último día hábil de la semana tienes pensado realizar operaciones que involucran a la moneda oficial de los Estados Unidos de América (EU)? Si la respuesta es positiva, ya se… [+2067 chars]"
     }
   ]
 }
