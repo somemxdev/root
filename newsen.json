@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Post Nigeria"
+      },
+      "Author": "Ogaga Ariemu",
+      "Title": "Dollar to Naira exchange rate Today, April 16, 2026: Nigerian currency records first depreciation",
+      "Description": "The Naira on Friday depreciated against the dollar at the official foreign exchange market to end the rally and week on a negative note. The Central Bank of Nigeria's data showed that the Naira weakened on Friday to N1,343.64 per dollar, down from N1,342.30 r…",
+      "Url": "https://dailypost.ng/2026/04/18/dollar-to-naira-exchange-rate-today-april-16-2026-nigerian-currency-records-first-depreciation/",
+      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
+      "PublishedAt": "2026-04-18T04:55:50Z",
+      "Content": "The Naira on Friday depreciated against the dollar at the official foreign exchange market to end the rally and week on a negative note.\r\nThe Central Bank of Nigeria’s data showed that the Naira weak… [+550 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "'Million Dollar Secret' Season 2 Spoilers: Who Was Eliminated in Episodes 1-3 & Who Has the Money Now?",
+      "Description": "Million Dollar Secret is back for Season 2 on Netflix, and the twists are already coming fast. We’re bringing you all of the early spoilers from the first three episodes, including who was eliminated and who held the million, as well as when new episodes will…",
+      "Url": "https://www.justjared.com/2026/04/16/million-dollar-secret-season-2-spoilers-eliminations-episodes-1-2-3/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/million-dollar-secret-s2-social.jpg",
+      "PublishedAt": "2026-04-16T20:21:19Z",
+      "Content": "Million Dollar Secret is back for Season 2 on Netflix, and the twists are already coming fast.\r\nWe’re bringing you all of the early spoilers from the first three episodes, including who was eliminate… [+908 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-irish-times",
+        "Name": "The Irish Times"
+      },
+      "Author": "Mary Hannigan",
+      "Title": "Floyd ‘Money’ Mayweather and the blown billion dollar fortune",
+      "Description": "Dublin players in the dark about Brennan; Crowley on the current state of affairs in Munster",
+      "Url": "https://www.irishtimes.com/sport/2026/04/16/floyd-money-mayweather-and-the-blown-billion-dollar-fortune/",
+      "UrlToImage": "https://www.irishtimes.com/resizer/v2/XPWXJXGMX5DLPJDRMAHUF5DYSY.jpg?smart=true&auth=f1b03293f2153035affee10aebd410c45495fcabb61d241893fd03d7939b03c7&width=1200&height=630",
+      "PublishedAt": "2026-04-16T09:17:12Z",
+      "Content": "At the peak of his powers, former world boxing champion Floyd Mayweather was so rich he bought a second private jet to transport his retinue of bodyguards about the place. In all, it was estimated th… [+3156 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Independent.ie"
+      },
+      "Author": "PA and Sheena McGinley",
+      "Title": "Today’s top TV and streaming picks: Margo’s Got Money Trouble, Grayson Perry Has Seen The Future and Million Dollar Secret",
+      "Description": "Planning a night on the couch? Here are today’s top TV and streaming picks:",
+      "Url": "https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-picks-margos-got-money-trouble-grayson-perry-has-seen-the-future-and-million-dollar-secret/a64882470.html",
+      "UrlToImage": "https://focus.independent.ie/thumbor/PUJPKdcJB5B9EEbuLVx0grAPirQ=/170x0:1183x675/629x0/prod-mh-ireland/bff95187-a71d-4966-8ca6-1e233cf7a47c/ba71f069-36df-4aed-8729-5b3c3d185ad9/bff95187-a71d-4966-8ca6-1e233cf7a47c.jpg",
+      "PublishedAt": "2026-04-15T04:30:00Z",
+      "Content": "Pick of the day\r\nGAA Beo\r\nTG4, 7.25pm\r\nMicheál Ó Domhnaill presents the clash between Waterford and Cork in the U20 Munster Hurling Championship.\r\nMichael Jackson: An American Tragedy\r\nBBC Two, 9pm\r\n… [+4116 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, April 14, 2026",
+      "Description": "The Nigerian Naira showed signs of marginal recovery in the early trading hours of Tuesday, April 14, 2026, as the foreign exchange market reacted to mid-month liquidity shifts and ongoing central bank interventions.\nThe post Dollar to Naira exchange rate tod…",
+      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-14-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-04-14T06:05:34Z",
+      "Content": "The Nigerian Naira showed signs of marginal recovery in the early trading hours of Tuesday, April 14, 2026, as the foreign exchange market reacted to mid-month liquidity shifts and ongoing central ba… [+1582 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Online",
+      "Title": "Quote of the day by USA’s first billionaire John D. Rockefeller: 'How much money does it take to make a man happy? Just one more dollar' - One of the world's richest man questions the psychology behind endless chase for wealth",
+      "Description": "The quote of the day explains how John D. Rockefeller’s famous line highlights the endless nature of human ambition and the difficulty of feeling satisfied with wealth alone. It shows that people often keep chasing more even after achieving success, as goals …",
+      "Url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-usas-first-billionaire-john-d-rockefeller-how-much-money-does-it-take-to-make-a-man-happy-just-one-more-dollar-one-of-the-worlds-richest-man-questions-the-psychology-behind-endless-chase-for-wealth/articleshow/130244060.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-130246951,width-1200,height-630,imgsize-23108,overlay-etpanache/articleshow.jpg",
+      "PublishedAt": "2026-04-13T21:51:09Z",
+      "Content": "Money, ambition and the idea of enough have always been tied together in complicated ways, and that becomes very clear when looking at the lives of people who had more wealth than most could imagine.… [+5575 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, April 13, 2026",
+      "Description": "The Nigerian Naira opened the new trading week with slight variations against the United States Dollar on Monday, April 13, 2026, across the various segments of the foreign exchange market.\nThe post Dollar to Naira exchange rate today, April 13, 2026 appeared…",
+      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-13-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/10/Earning-Dollars-made-easy-for-Nigerians-in-2025.jpeg",
+      "PublishedAt": "2026-04-13T05:43:25Z",
+      "Content": "The Nigerian Naira opened the new trading week with slight variations against the United States Dollar on Monday, April 13, 2026, across the various segments of the foreign exchange market.\r\nIn the N… [+1528 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GlobeNewswire"
+      },
+      "Author": "Weiss Ratings",
+      "Title": "Safe Money Report Under Investigation: Martin Weiss's 2026 \"Age of Chaos\" Report Outlines Six-Step Framework Addressing Dollar Instability, Gold, and Bitcoin Amid Rising Market Volatility",
+      "Description": "Weiss Ratings' 2026 Age of Chaos report: six steps on gold, Bitcoin, farmland, dollar instability, and independent ratings on 53,000+ securities....",
+      "Url": "https://www.globenewswire.com/news-release/2026/04/11/3272124/0/en/Safe-Money-Report-Under-Investigation-Martin-Weiss-s-2026-Age-of-Chaos-Report-Outlines-Six-Step-Framework-Addressing-Dollar-Instability-Gold-and-Bitcoin-Amid-Rising-Market-Volatili.html",
+      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/7b54c346-1880-440e-9477-fb12d826bcfd",
+      "PublishedAt": "2026-04-11T21:08:00Z",
+      "Content": "Palm Beach Gardens, FL, April 11, 2026 (GLOBE NEWSWIRE) -- Note: This publication contains affiliate links. A commission may be earned if a subscription is completed through links in this content, at… [+18138 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, April 10, 2026",
+      "Description": "The Nigerian Naira maintained a steady position against the United States Dollar in the early hours of Friday, April 10, 2026, across both the official and informal currency markets.\nThe post Dollar to Naira exchange rate today, April 10, 2026 appeared first …",
+      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-10-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-04-10T05:48:13Z",
+      "Content": "The Nigerian Naira maintained a steady position against the United States Dollar in the early hours of Friday, April 10, 2026, across both the official and informal currency markets.\r\nAt the Nigerian… [+1375 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GlobeNewswire"
+      },
+      "Author": "NETSOL Technologies Inc.",
+      "Title": "NETSOL Technologies renews multi-million-dollar agreement with tier-one multinational bank in the United Kingdom",
+      "Description": "NETSOL Technologies renews multi-million-dollar agreement with tier-one multinational bank in the United Kingdom to support it's asset finance operations....",
+      "Url": "https://www.globenewswire.com/news-release/2026/04/09/3271058/15855/en/NETSOL-Technologies-renews-multi-million-dollar-agreement-with-tier-one-multinational-bank-in-the-United-Kingdom.html",
+      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
+      "PublishedAt": "2026-04-09T13:06:00Z",
+      "Content": "ENCINO, Calif., April 09, 2026 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a provider of AI-enabled solutions and services powering OEMs, dealerships and financial institutions to s… [+3378 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -158,123 +288,6 @@
       "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--CQ3BR_XL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-19T083826Z_1_LYNXMPEM2I0GM_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=az43CLtV",
       "PublishedAt": "2026-03-19T14:42:15Z",
       "Content": "NEW YORK/LONDON, March 19 : The euro and the Japanese yen advanced against the U.S. dollar on Thursday as key central banks kept interest rates steady amid concerns about inflation from rising oil pr… [+3602 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar holds losses as risk appetite flickers ahead of central bank meetings",
-      "Description": "Global markets saw a return of risk appetite on Wednesday. The dollar eased as investors looked towards key central bank announcements. The Japanese yen strengthened significantly. The euro remained steady ahead of the European Central Bank's meeting. Investo…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-losses-as-risk-appetite-flickers-ahead-of-central-bank-meetings/articleshow/129645264.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-129645269,width-1200,height-630,imgsize-163058,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-03-18T01:53:56Z",
-      "Content": "The dollar held losses on Wednesday as a glimmer of risk appetite came back to markets ahead of a slate of key central bank decisions.The yen rallied from levels that conjured concerns of interventio… [+2481 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Dollar holds losses as risk appetite flickers ahead of central bank meetings",
-      "Description": "TOKYO, March 18 : The dollar held losses on Wednesday as a glimmer of risk appetite came back to markets ahead of a slate of key central bank decisions.The yen rallied from levels that conjured concerns of intervention in markets by Tokyo ahead of Japanese Pr…",
-      "Url": "https://www.channelnewsasia.com/business/dollar-holds-losses-risk-appetite-flickers-ahead-central-bank-meetings-6000236",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--KWpH2XKC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-18T001050Z_2_LYNXMPEM2H007_RTROPTP_3_AUSTRALIA-RBA-USD.JPG?itok=aur-09LJ",
-      "PublishedAt": "2026-03-18T00:06:40Z",
-      "Content": "TOKYO, March 18 : The dollar held losses on Wednesday as a glimmer of risk appetite came back to markets ahead of a slate of key central bank decisions.\r\nThe yen rallied from levels that conjured con… [+2544 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Two former bank employees handed prohibition orders",
-      "Description": "The Monetary Authority of Singapore issued Wang Qiming with a 16-year prohibition order and Liu Kai with a seven-year prohibition order barring their involvement in various MAS-regulated activities, among other restrictions.",
-      "Url": "https://www.channelnewsasia.com/singapore/mas-prohibition-order-bank-relationship-manager-wang-qiming-liu-kai-5998521",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s---xj7veoP--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-29T010622Z_1_LYNXMPEM0S015_RTROPTP_3_SINGAPORE-CENBANK.JPG?itok=wEpOkjTu",
-      "PublishedAt": "2026-03-17T10:20:00Z",
-      "Content": "SINGAPORE: Prohibition orders have been issued against two former bank relationship managers convicted of offences related to money laundering, said the Monetary Authority of Singapore (MAS) on Tuesd… [+1129 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "tmohamed@businessinsider.com (Theron Mohamed)",
-      "Title": "US consumers will feel the pinch from the Iran war even if stocks and the dollar don't, a finance guru says",
-      "Description": "Finance professor Derek Horstmeyer said it was striking how the \"US can cause this havoc around the world\" yet still win from an exodus to the dollar.",
-      "Url": "https://www.businessinsider.com/iran-consumers-horstmeyer-stock-market-outlook-bubble-crash-dollar-ai-2026-3",
-      "UrlToImage": "https://i.insider.com/69b42640a96e437d6eb84524?width=1200&format=jpeg",
-      "PublishedAt": "2026-03-14T10:24:01Z",
-      "Content": "American consumers will feel the pinch from the Iran conflict even if stocks and the dollar don't, one market guru says.\r\nDerek Horstmeyer, a finance professor at George Mason University's Costello C… [+3775 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalresearch.ca"
-      },
-      "Author": "Eric Buesing",
-      "Title": "The Strategic Petroleum Reserve (SPR) and the Dollar Price Gasoline Crisis: There Is a Number Nobody in Washington Will Say Out Loud",
-      "Description": "We’ve Been Spending America’s Emergency Oil Savings Account. Nobody Mentioned the Account Can Only Be Opened So Many Times.\r\n\n\n\n\nYesterday evening, Energy Secretary Chris Wright announced that the United States will release 172 million barrels of crude oil fr…",
-      "Url": "https://www.globalresearch.ca/the-strategic-petroleum-reserve-spr-and-the-dollar-price-gasoline-crisis-there-is-a-number-nobody-in-washington-will-say-out-loud/5918788",
-      "UrlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/02/us-iran-oil-blockade.jpeg",
-      "PublishedAt": "2026-03-14T10:18:23Z",
-      "Content": "Here is what the press releases did not mention. The SPR currently holds about 415 million barrels. After this drawdown it will hold roughly 243 million barrels, the lowest level since the reserve wa… [+26736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Billionaire who broke Bank of England issues dire warning on dollar",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_974aa607-d157-44f3-b124-e521c7e0716a",
-      "UrlToImage": null,
-      "PublishedAt": "2026-03-13T22:00:36Z",
-      "Content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Notebookcheck.net"
-      },
-      "Author": "Anubhav Sharma",
-      "Title": "New mixed-rated card-idler RPG launches on Steam with revamped guilds and a zero dollar price tag",
-      "Description": "DPS Idle 2 hit 1.0 on March 12, 2026, to a \"Mixed\" 52% rating on Steam. Despite 75% positive recent reviews, the free-to-play card idler is facing a lot of criticism over its late-game scaling and aggressive monetization.",
-      "Url": "https://www.notebookcheck.net/New-mixed-rated-card-idler-RPG-launches-on-Steam-with-revamped-guilds-and-a-zero-dollar-price-tag.1249550.0.html",
-      "UrlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/DPS-Idle-2.png",
-      "PublishedAt": "2026-03-13T08:17:00Z",
-      "Content": "The long-awaited sequel to the card-based incremental hit DPS Idle finally left early access this week. Developer YDKR (also known for the original DPS Idle) wanted to provide a deeper, more technica… [+2211 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "US dollar hovers near 2026 highs as oil's rise spurs hawkish central bank bets",
-      "Description": "Global markets are on edge as oil prices surge, nearing $100 a barrel. This spike fuels inflation fears, prompting central banks to consider aggressive interest rate hikes. The U.S. dollar is strengthening as investors seek safety. Tensions in the Strait of H…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/us-dollar-hovers-near-2026-highs-as-oils-rise-spurs-hawkish-central-bank-bets/articleshow/129488447.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-129488463,width-1200,height-630,imgsize-181336,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-03-12T02:25:27Z",
-      "Content": "The safe-haven U.S. dollar hovered close to its strongest levels this year on Thursday as climbing oil prices threatened to spur inflation and force central banks globally to adopt more hawkish polic… [+3485 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Conversation Africa"
-      },
-      "Author": "Freddie Daley, Research Associate, Centre for Global Political Economy, University of Sussex",
-      "Title": "How a grassroots UK campaign sparked a multi-billion-dollar exit from public fossil fuel finance",
-      "Description": "It began with red paint at the UK Treasury, and ended in one of the most successful international climate initiatives.",
-      "Url": "https://theconversation.com/how-a-grassroots-uk-campaign-sparked-a-multi-billion-dollar-exit-from-public-fossil-fuel-finance-277850",
-      "UrlToImage": "https://images.theconversation.com/files/723072/original/file-20260310-57-lql9i5.jpg?ixlib=rb-4.1.0&rect=0%2C478%2C3765%2C1882&q=45&auto=format&w=1356&h=668&fit=crop",
-      "PublishedAt": "2026-03-10T15:18:53Z",
-      "Content": "In 2021, dozens of governments quietly agreed to stop using public money to finance fossil fuel projects overseas. \n\nTheir pledge – now known as the Clean Energy Transition Partnership (CETP) – has h… [+6937 chars]"
     }
   ]
 }
