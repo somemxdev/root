@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 20,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Ellyn Lapointe",
+      "Title": "Trillion-Dollar Flip-Flop? SpaceX Says Orbital Data Centers May Never Make Money",
+      "Description": "In a pre-IPO filing, Elon Musk's company fessed up to the immense challenges and risks of putting AI in space.",
+      "Url": "https://gizmodo.com/trillion-dollar-flip-flop-spacex-says-orbital-data-centers-may-never-make-money-2000749584",
+      "UrlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2256968069-1200x675.jpg",
+      "PublishedAt": "2026-04-22T15:45:27Z",
+      "Content": "For more than a year, Elon Musk has been prophesying a new era for AI. The SpaceX CEO has said that building AI data centers in space is a no brainer, and that it would be the cheapest place to put A… [+3672 chars]"
+    },
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Zimbabwe gold-backed currency undervalued against dollar – central bank",
+      "Description": "Zimbabwe’s central bank chief has said the gold-backed ZiG is undervalued and should be trading at around 15 to the US dollar Read Full Article at RT.com",
+      "Url": "https://www.rt.com/africa/638832-zimbabwe-gold-zig-currency-undervalued-dollar/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2026.04/article/69e76d4585f54052c6484de8.jpg",
+      "PublishedAt": "2026-04-21T12:45:14Z",
+      "Content": "Zimbabwe’s gold-backed currency (ZiG) is undervalued by nearly half and should be trading much stronger against the US dollar, the southern African nation’s central bank has said. \r\nReserve Bank of Z… [+2049 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -236,58 +262,6 @@
       "UrlToImage": null,
       "PublishedAt": "2026-03-24T07:33:19Z",
       "Content": "Talking about the dollar, Trump, and stupidity as an exogenous variable, next couple of days…\r\nFigure 1: Share of total foreign exchange reserves for US dollar (blue), euro (brown), British pound (re… [+146 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Hedge Funds Feed Dollar Gains as US, Iran Exchange Threats",
-      "Description": "The dollar advanced and traders bet on further gains for the reserve currency as the war in the Middle East entered its fourth week and the US exchanged threats with Iran.",
-      "Url": "https://financialpost.com/pmn/business-pmn/hedge-funds-feed-dollar-gains-as-us-iran-exchange-threats",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/tail-risk-demand-stays-elevated-even-as-volumes-retreat.jpg",
-      "PublishedAt": "2026-03-23T09:25:51Z",
-      "Content": "(Bloomberg) The dollar advanced and traders bet on further gains for the reserve currency as the war in the Middle East entered its fourth week and the US exchanged threats with Iran.\r\nTHIS CONTENT I… [+4150 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Handing $2,400,000 To Customers and Attorneys In Settlement Over Data Breach That Impacted 204,291 People",
-      "Description": "A US bank is preparing to hand out millions of dollars after a data breach exposed customers’ personal information. The Nebraska-based Union Bank and Trust Company (UBT) has agreed to shell out $2.4 million to settle a class action lawsuit accusing the lender…",
-      "Url": "https://dailyhodl.com/2026/03/22/billion-dollar-bank-handing-2400000-to-customers-and-attorneys-in-settlement-over-data-breach-that-impacted-204291-people/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/04/bank-gol-dollar.jpg?resize=266,156",
-      "PublishedAt": "2026-03-22T17:12:05Z",
-      "Content": "A US bank is preparing to hand out millions of dollars after a data breach exposed customers personal information.\r\nThe Nebraska-based Union Bank and Trust Company (UBT) has agreed to shell out $2.4 … [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bossip"
-      },
-      "Author": "lizsmith23",
-      "Title": "4x MVP A’ja Wilson’s Massive Money Move: From $200K To Million-Dollar Mogul In New WNBA Agreement",
-      "Description": "The bag might finally be catching up to the talent in the WNBA, and honestly, it’s about time. For years, WNBA players have been speaking up, speaking out, and straight up demanding what they’ve always deserved, fair pay. While fans have packed arenas, tuned …",
-      "Url": "https://bossip.com/4533732/aja-wilson-wnba-pay-deal/",
-      "UrlToImage": "https://bossip.com/wp-content/uploads/sites/28/2026/03/17741262666427.jpg?quality=80&strip=all&w=1024&crop=0,0,100,683px",
-      "PublishedAt": "2026-03-21T21:09:30Z",
-      "Content": "The bag might finally be catching up to the talent in the WNBA, and honestly, its about time.\r\nSource: Ian Maule / Getty\r\nFor years, WNBA players have been speaking up, speaking out, and straight up … [+1153 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Euro and yen gain, pushing dollar index lower following central bank decisions",
-      "Description": "NEW YORK/LONDON, March 19 : The euro and the Japanese yen advanced against the U.S. dollar on Thursday as key central banks kept interest rates steady amid concerns about inflation from rising oil prices in the midst of the Middle East conflict.The European C…",
-      "Url": "https://www.channelnewsasia.com/business/euro-and-yen-gain-pushing-dollar-index-lower-following-central-bank-decisions-6003086",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--CQ3BR_XL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-19T083826Z_1_LYNXMPEM2I0GM_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=az43CLtV",
-      "PublishedAt": "2026-03-19T14:42:15Z",
-      "Content": "NEW YORK/LONDON, March 19 : The euro and the Japanese yen advanced against the U.S. dollar on Thursday as key central banks kept interest rates steady amid concerns about inflation from rising oil pr… [+3602 chars]"
     }
   ]
 }
