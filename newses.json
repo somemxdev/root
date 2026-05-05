@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7WGXXUZGEFCFJL3J5CXP63TIUU.jpeg?smart=true&auth=6150f35e686caaf2c5545ef9bca4fc4c7eb6f3f7198dfc10812ce25d22ec1b45&width=1200&height=630",
       "PublishedAt": "2026-04-06T17:10:10Z",
       "Content": "El peso mexicano refleja ganancias respecto a su último cierre oficial. Este lunes, Irán rechazó una propuesta de alto al fuego y el gobierno iraní advirtió que solo aceptará el fin de la guerra si h… [+2564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Así cerró el tipo de cambio del dólar esta Semana Santa",
-      "Description": "El precio del dólar continúa a la baja, por lo que el BCCR intervino en la última sesión de la semana para frenar una caída más fuerte",
-      "Url": "https://www.nacion.com/economia/asi-cerro-el-tipo-de-cambio-del-dolar-esta-semana/GJZ4IGR24ZHPPJHDUJRNZNL3J4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/APIKFSWZ4FC7LDSVIAALB5OE4Q.jpg?smart=true&auth=2b892668462eb57ea91a5a4a415a848200070b53ec376da3d1e70470a423277f&width=1440",
-      "PublishedAt": "2026-04-04T16:37:40Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró a la baja en la sesión del miércoles 1.° en el Mercado de Monedas Extranjeras (Monex). Esta fue la última jornada previa a la pausa por Semana Sant… [+2464 chars]"
     }
   ]
 }
