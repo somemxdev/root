@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso avanza ante el dólar por propuesta de Irán a EU: Así está el tipo de cambio este 1 de mayo",
+      "Description": "Irán envió una nueva propuesta de paz a EU, aunque remarcó que no renunciará a su programa nuclear ni al control del Estrecho de Ormuz.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/01/peso-dolar-precio-hoy-1-de-mayo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LFZ6INJ3FRGPFOA5C7E43ZIV74.png?smart=true&auth=02c1ab0f277a0a4f3a41843795dd20e6d03f5867b700d4deb331b5d5bb815eb7&width=1200&height=630",
+      "PublishedAt": "2026-05-01T15:59:31Z",
+      "Content": "El peso mexicano avanza ante el dólar este viernes 1 de mayo, después de que Irán envió una nueva propuesta para un acuerdo de paz con Estados Unidos, tras semanas de negociaciones estancadas. \r\nLa p… [+1798 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay sube por segundo día consecutivo, al seguir a Brasil, y se acerca a los $ 40 a nivel interbancario",
+      "Description": "El dólar subió 0,23% y encadenó su segundo avance, con mayor operativa en Bevsa y ajustes al alza en pizarras del BROU, mientras Brasil mostró una leve suba y Argentina volvió a bajar.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-por-segundo-dia-consecutivo-al-seguir-a-brasil-y-se-acerca-a-los-40-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
+      "PublishedAt": "2026-04-29T06:00:00Z",
+      "Content": "El dólaren Uruguaysubió ayer por segundo día consecutivo, esta vez 0,23% y se negoció en promedio en $ 39,871. En la jornada, la moneda estadounidense cotizó entre $ 39,70 y $ 39,95 para finalizar en… [+1338 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay se separa de su referencia Brasil, sube y se acerca a los $ 40 a nivel interbancario",
+      "Description": "El dólar subió 0,56% y volvió a mostrar volatilidad, en un mercado sin tendencia clara, con operaciones por US$ 68,2 millones y movimientos dispares en Brasil y Argentina.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-se-separa-de-su-referencia-brasil-sube-y-se-acerca-a-los-40-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/4b097db/2147483647/strip/true/crop/418x261+0+8/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2Fd2%2F80b0bf854459aba4002a6984a4cf%2Fdolar-blue.jpg",
+      "PublishedAt": "2026-04-28T06:00:00Z",
+      "Content": "El dólaren Uruguay continúa sin una tendencia y al comenzar la semana subió 0,56%(tras haber bajado el viernes) y se negoció en promedio en $ 39,781. En la jornada, el billete verde cotizó entre $ 39… [+1319 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Nicolás Pizzi, Ignacio Grimaldi",
+      "Title": "El Banco Central le aplicó una multa millonaria al financista cercano al “Chiqui” Tapia por presuntas operaciones con el dólar blue",
+      "Description": "Ariel Vallejo, de Sur Finanzas, vendió US$25 millones a otras casas de cambio que luego no registraron ventas; el sumario oficial agrega que no recabó información sobre el motivo de las operatorias ni el origen de fondos",
+      "Url": "https://www.lanacion.com.ar/politica/el-banco-central-le-aplico-una-multa-millonaria-al-financista-cercano-al-chiqui-tapia-por-presuntas-nid27042026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/maximiliano-ariel-24OKKA7KAJBGLN7C4KZLHYBQAE.JPG?auth=5535d081d1b76e8bc5213850cd8272e7384be850f88fb44d89e0f61871c3118d&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-04-27T19:06:06Z",
+      "Content": "Las investigaciones sobre el acceso a millones de dólares en época de cepo y su posterior venta en el mercado paralelo alcanzaron al financista cercano a Claudio Chiqui Tapia, Ariel Vallejo. El Banco… [+2123 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "RÉCORD",
+      "Title": "Precio del dólar hoy 27 de abril de 2026 en México: arranca en 17.36 pesos y se mantiene estable",
+      "Description": "El billete verde se cotiza promedio en 16.95 pesos a la compra y 17.66 pesos a la venta",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-27-de-abril-de-2026-en-mexico-arranca-en-1736-pesos-y-se-mantiene-estable-2026042713433803262",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/27042026/d8a88224-c5ef-4196-b680-9253b2f6200e.jpg?operations=crop(0:4:1142:646),autocrop(1200:630)",
+      "PublishedAt": "2026-04-27T13:43:38Z",
+      "Content": "El precio del dólar hoy lunes 27 de abril de 2026 inicia la jornada en 17.36 pesos por unidad, mostrando un comportamiento estable frente al peso mexicano en el arranque de la semana.\r\nLa divisa esta… [+2205 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Cierra dólar en $17.37 se deprecia peso en semana",
+      "Description": "Dólar cerró este viernes con una cotización de $17.37, aunque a nivel semanal avanzó 6.69 centavos logrando su segunda semana con ganancias.",
+      "Url": "https://www.reforma.com/cierra-dolar-en-17-37-se-deprecia-peso-en-semana/ar3192735",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732917.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-04-27T03:17:01Z",
+      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia\r\nCd. de México (24 abril 2026) .-17:12 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay sube por segundo día consecutivo y se acerca a los $ 40 en la cotización del interbancario",
+      "Description": "El billete verde se negoció en promedio en $ 39,75, lo que significó una suba de 0,40% y cerró la jornada en $ 39,60.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-por-segundo-dia-consecutivo-y-se-acerca-a-los-40-en-la-cotizacion-del-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
+      "PublishedAt": "2026-04-24T06:05:00Z",
+      "Content": "Por segundo día consecutivo, el dólar en Uruguay subió ayer, esta vez 0,40% y se negoció en promedio en $ 39,757. El billete verde cotizó entre $ 39,60 y $ 39,80 para finalizar en el mínimo, estable … [+1354 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -275,123 +366,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/APIKFSWZ4FC7LDSVIAALB5OE4Q.jpg?smart=true&auth=2b892668462eb57ea91a5a4a415a848200070b53ec376da3d1e70470a423277f&width=1440",
       "PublishedAt": "2026-04-04T16:37:40Z",
       "Content": "El tipo de cambio del dólar respecto al colón cerró a la baja en la sesión del miércoles 1.° en el Mercado de Monedas Extranjeras (Monex). Esta fue la última jornada previa a la pausa por Semana Sant… [+2464 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay comienza abril al alza y se consolida en los $ 40,50 a nivel interbancario",
-      "Description": "El dólar arrancó abril en alza en Uruguay, en una semana corta por feriados, mientras el riesgo país bajó y la tasa call quedó debajo del objetivo del BCU.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-comienza-abril-al-alza-y-se-consolida-en-los-40-50-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ab3daed/2147483647/strip/true/crop/800x500+0+36/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2017%2F09%2F08%2F59b3117da8e5d.jpeg",
-      "PublishedAt": "2026-04-02T06:10:00Z",
-      "Content": "El dólaren Uruguay comenzó abril al alza, al subir 0,14% ayer y negociarse en promedio a $ 40,538. La moneda estadounidense cotizó ayer entre $ 40,40 y $ 40,60 y finalizó en el máximo, un 0,12% por e… [+1319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Tribuna",
-      "Title": "Precio del dólar en México HOY miércoles 1 de abril de 2026: Tipo de cambio actual",
-      "Description": "Te decimos cuál es el precio del dólar que manejan los bancos de México este miércoles 1 de abril de 2026; aquí los detalles del tipo de cambio actual",
-      "Url": "https://tribuna.com.mx/2026/04/01/precio-dolar-miercoles-1-de-abril-tipo-de-cambio-mexico/",
-      "UrlToImage": "https://tribuna-media.s3.mx-central-1.amazonaws.com/uploads/2026/04/precio-dolar-1-de-abril.jpg",
-      "PublishedAt": "2026-04-01T13:44:31Z",
-      "Content": "Ciudad de México.- ¿Este miércoles 1 de abril de 2026, tercer día hábil de la semana, tienes pensado realizar operaciones que involucran a la divisa oficial de los Estados Unidos (EU)? Si la respuest… [+2107 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "El gobierno definirá un plan de capitalización para el Banco Central que se vio impactado por el dólar, ¿qué pasó?",
-      "Description": "El patrimonio del Banco Central (BCU) se ubica por debajo del mínimo legal, por lo que el Poder Ejecutivo capitalizará al ente de acuerdo con un plan de capitalización que informará al Parlamento.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-gobierno-definira-un-plan-de-capitalizacion-para-el-banco-central-que-se-vio-impactado-por-el-dolar-que-paso",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/820d840/2147483647/strip/true/crop/2464x1540+0+46/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F65%2Ff6b31a634071bdedf07ae2317b80%2F20001-2.JPG",
-      "PublishedAt": "2026-04-01T06:30:00Z",
-      "Content": "El gobierno capitalizará al Banco Central (BCU), ya que su patrimonio está por debajo del mínimo legal. Pero, a diferencia de lo que ocurriría con cualquier empresa (el BCU no lo es) la capitalizació… [+2755 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay empieza la semana al alza y se ubica por encima de los $ 40,50 a nivel interbancario",
-      "Description": "La moneda estadounidense se negoció ayer en promedio a $ 40,62 y cerró la jornada en $ 40,65, lo que significó un aumento de 0,25% en comparación al cierre del viernes.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-empieza-la-semana-al-alza-y-se-ubica-por-encima-de-los-40-50-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/0e56702/2147483647/strip/true/crop/546x341+127+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fanexos%2Fimagen%2F12%2F251671.jpg",
-      "PublishedAt": "2026-03-31T06:05:00Z",
-      "Content": "El dólar en Uruguay comenzó la semana al alza, al subir ayer 0,16% y negociarse en promedio a $ 40,626 a nivel interbancario. La moneda estadounidense cotizó ayer entre $ 40,50 y $ 40,70, para finali… [+1373 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso extiende su ‘bajón’ ante el dólar: Tipo de cambio sube a 18.14 unidades",
-      "Description": "Donald Trump admitió que una de las metas de la guerra con Irán es hacerse con el control del petróleo de ese país, un movimiento similar al que hizo en Venezuela.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/30/peso-dolar-precio-hoy-30-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/6ATCO54RCJAUZD322JFN7TTCYA.png?smart=true&auth=9ea0edc4d790c9f30d55b83f144100dc4990cfae2f07f2cce39c930b5f9cd48f&width=1200&height=630",
-      "PublishedAt": "2026-03-30T15:00:41Z",
-      "Content": "El peso mexicano extendió marginalmente sus pérdidas ante el dólar gracias a que el billete verde aprovecha la incertidumbre por la guerra entre Estados Unidos e Irán para fortalecerse en el cruce co… [+1847 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Frida Tochimani",
-      "Title": "Precio del dólar en México HOY lunes 30 de marzo de 2026: Tipo de cambio actual",
-      "Description": "Este lunes 30 de marzo de 2026 el precio del dólar se muestra en un promedio de 18.0566 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/30/precio-del-dolar-en-mexico-hoy-lunes-30-de-marzo-de-2026-tipo-de-cambio-actual-433535.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/30/f1280x720-498716_630391_5050.jpg",
-      "PublishedAt": "2026-03-30T12:00:00Z",
-      "Content": "Ciudad de México.- ¿Este lunes 30 de marzo de 2026, primer día hábil de la semana, tienes planeado realizar transacciones que contemplan a la moneda oficial de los Estados Unidos (EU)? Si la respuest… [+2060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Redacción Tribuna",
-      "Title": "¿Cuál es el precio del dólar en México expuesto HOY domingo 29 de marzo? Tipo de cambio",
-      "Description": "Este domingo 29 de marzo de 2026 el precio del dólar se muestra en un promedio de 17.1255 pesos de la Moneda Nacional Mexicana (MXN)",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/29/cual-es-el-precio-del-dolar-en-mexico-expuesto-hoy-domingo-29-de-marzo-tipo-de-cambio-433483.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/29/f1280x720-498613_630288_5050.jpeg",
-      "PublishedAt": "2026-03-29T12:00:00Z",
-      "Content": "Ciudad de México.- Este domingo 29 de marzo de 2026, los bancos de México y demás instituciones financieras no brindan servicios, más que de manera digital. No obstante, si para la siguiente semana t… [+2053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Tribuna.com.mx"
-      },
-      "Author": "Alejandra HolguÍn",
-      "Title": "Precio del dólar HOY sábado 28 de marzo del 2026 en México: Conoce cuál es el tipo de cambio",
-      "Description": "Descubre cuál es el precio del dólar para HOY, sábado 28 de marzo del 2026, según el tipo de cambio en este fin de semana, ¿cae o sube el peso?",
-      "Url": "https://www.tribuna.com.mx/politica/2026/3/28/precio-del-dolar-hoy-sabado-28-de-marzo-del-2026-en-mexico-conoce-cual-es-el-tipo-de-cambio-433428.html",
-      "UrlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/28/f1280x720-498545_630220_5467.jpg",
-      "PublishedAt": "2026-03-28T12:00:00Z",
-      "Content": "Ciudad de México.- El precio del dólar sigue en un flujo constante, siguiendo las tendencias económicas y políticas, que hacen cambiar su valor a diario, por lo que las páginas oficiales que manejan … [+1950 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Guerra en Medio Oriente se extenderá hasta abril... y tipo de cambio supera los 18 pesos por dólar",
-      "Description": "Los precios del petróleo se mantienen altos debido a que Irán mantiene bloqueado el Estrecho de Ormuz, canal por el que pasan 1 de cada 5 barriles de crudo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KJH6H32RIBH2JA25XBOZC4R6AU.png?smart=true&auth=1651d31885d74b6e083c77c095d9b2975d57f022c4e9cbb846888ba669b55a47&width=1200&height=630",
-      "PublishedAt": "2026-03-27T15:10:04Z",
-      "Content": "El tipo de cambio superó de nuevo los 18 pesos por dólar como resultado de una mayor incertidumbre geopolítica por la guerra entre Estados Unidos e Irán.\r\nDonald Trump extendió el plazo para que Irán… [+1895 chars]"
     }
   ]
 }
