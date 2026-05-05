@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, May 4, 2026",
+      "Description": "The Nigerian Naira opened the first week of May with a relatively stable performance against the US Dollar across the different segments of the foreign exchange market. According to data from the Nigerian Foreign Exchange Market (NFEM), the Naira is currently…",
+      "Url": "https://www.vanguardngr.com/2026/05/dollar-to-naira-exchange-rate-today-may-4-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
+      "PublishedAt": "2026-05-04T06:11:37Z",
+      "Content": "The Nigerian Naira opened the first week of May with a relatively stable performance against the US Dollar across the different segments of the foreign exchange market.\r\nAccording to data from the Ni… [+1502 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/..HwlJvbcUs83khD_lGUag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/7a0eae7581bdc58efdfe97415bed27b1",
       "PublishedAt": "2026-04-05T13:11:04Z",
       "Content": "Just as the journey of a thousand miles starts with a single step, the pathway to your first million dollars could begin with a few small money moves.\r\nFor You: Heres the Minimum Net Worth To Be Cons… [+4663 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Mark Emem",
-      "Title": "Billion-Dollar Bank Handing $1,500,000 To Current and Former Customers To Settle Class Action Lawsuit Over Data Breach",
-      "Description": "A billion-dollar bank has agreed to pay $1.5 million to current and former customers affected by a data breach. According to the settlement administrator’s portal, the Florida-based SouthState Bank has agreed to establish a $1.5 million cash fund to reimburse…",
-      "Url": "https://dailyhodl.com/2026/04/04/billion-dollar-bank-handing-1500000-to-current-and-former-customers-to-settle-class-action-lawsuit-over-data-breach/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/05/bank-thirty-dollar.jpg?resize=1365,800",
-      "PublishedAt": "2026-04-04T13:50:26Z",
-      "Content": "A billion-dollar bank has agreed to pay $1.5 million to current and former customers affected by a data breach.\r\nAccording to the settlement administrators portal, the Florida-based SouthState Bank h… [+2048 chars]"
     }
   ]
 }
