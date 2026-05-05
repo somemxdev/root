@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "RÉCORD",
+      "Title": "Precio del dólar hoy 4 de mayo: Peso se mantiene estable y arranca semana en 17.45 pesos",
+      "Description": "El billete verde se cotiza promedio en 17.05 pesos a la compra y 17.75 pesos a la venta",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-4-de-mayo-peso-se-mantiene-estable-y-arranca-semana-en-1745-pesos-2026050413245882107",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/12032026/860a3a7c-84b4-421e-9b1e-e8132dee6534.jpg?operations=crop(0:0:1300:731),autocrop(1200:630)",
+      "PublishedAt": "2026-05-04T13:24:58Z",
+      "Content": "El precio del dólar hoy lunes 4 de mayo de 2026 se ubica en 17.45 pesos por unidad, marcando un inicio de semana con estabilidad en el tipo de cambio.\r\nLa divisa estadounidense arranca la jornada sin… [+1839 chars]"
+    },
     {
       "Source": {
         "Id": null,
