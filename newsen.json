@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Maldives’ Biggest Bank Seeks Dollar Sukuk as War Hits Tourism",
+      "Description": "Bank of Maldives Plc is holding global investor meetings to gauge appetite for what would be its first foray into international capital markets, a transaction that may help buttress the island nation’s key tourism industry against fallout from the Middle East.",
+      "Url": "https://financialpost.com/pmn/business-pmn/maldives-biggest-bank-seeks-dollar-sukuk-as-war-hits-tourism",
+      "UrlToImage": null,
+      "PublishedAt": "2026-05-05T13:13:51Z",
+      "Content": "(Bloomberg) Bank of Maldives Plc is holding global investor meetings to gauge appetite for what would be its first foray into international capital markets, a transaction that may help buttress the i… [+4823 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Shivam Shukla",
+      "Title": "Rupee falls to 95.16 vs dollar; Steve Hanke warns of further slide—5 ways it hits your personal finance",
+      "Description": "Rupee falls to ₹95.16/USD, highlighting currency weakness, as Steve Hanke warns of a continued slide without inflows, which could impact inflation, travel costs, EMIs, investments and savings across the country.&nbsp;",
+      "Url": "https://www.livemint.com/money/personal-finance/rupee-falls-to-95-16-vs-dollar-steve-hanke-warns-of-further-slide-5-ways-it-hits-your-personal-finance-11777967994475.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2026/05/05/1600x900/logo/lm_story_1_1758002274847_1758002295012_1777969088372.png",
+      "PublishedAt": "2026-05-05T09:12:23Z",
+      "Content": "Are you planning your dream vacation abroad or taking an EMI on a personal loan, only to see your savings erode as the rupee continues to weaken against the dollar? This stark reality came into focus… [+4850 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,32 +379,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/16ZYrnljEPUxnUXz.Nr_jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/d88b6a5c0e7fdd7053d881a89ee8bdac",
       "PublishedAt": "2026-04-07T20:26:09Z",
       "Content": "Magnus Carlsen is widely regarded as one of, if not the, greatest chessplayers of all time.\r\nCarlsen was a child prodigy, though he didn't love chess at first. The Norway-born grandmaster told the Te… [+4389 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New Zealand Herald"
-      },
-      "Author": "Liam Dann",
-      "Title": "Inside Economics: RBNZ in better shape than Aussie central bank, plus could Iran conflict end US dollar dominance",
-      "Description": "ANALYSIS: Liam Dann takes a deeper dive into the week's economic news.",
-      "Url": "https://www.nzherald.co.nz/business/economy/inside-economics-rbnz-in-better-shape-than-aussie-central-bank-plus-could-iran-conflict-end-us-dollar-dominance/premium/IMXEIR5WV5BT7COQYXBQ72BK54/",
-      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/3LHCOJR3A5F5PAXPWLCI5DVBYQ.jpg?auth=3db00ff66454ba473ee6159b6f7388478e764b0ea341fa8bb9f942c42f378e32&width=1200&height=675&quality=70&smart=true",
-      "PublishedAt": "2026-04-07T18:00:00Z",
-      "Content": "More inflation and lower growth seem to be the general expectation of most economists. But what does that mean for monetary policy?\r\nWill the supply-side inflation be transitory? How long can the RBN… [+12778 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Laura Bogart",
-      "Title": "5 Small Money Decisions That Can Add Up to a Million-Dollar Difference",
-      "Description": "Smart, simple money moves — like saving, automating, and cutting wast — can add up over time and set you on the path to building a million-dollar future.",
-      "Url": "https://finance.yahoo.com/markets/articles/5-small-money-decisions-add-131104589.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/..HwlJvbcUs83khD_lGUag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/7a0eae7581bdc58efdfe97415bed27b1",
-      "PublishedAt": "2026-04-05T13:11:04Z",
-      "Content": "Just as the journey of a thousand miles starts with a single step, the pathway to your first million dollars could begin with a few small money moves.\r\nFor You: Heres the Minimum Net Worth To Be Cons… [+4663 chars]"
     }
   ]
 }
