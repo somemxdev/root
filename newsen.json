@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "X",
+      "Title": "California Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofits",
+      "Description": "California Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofits “What we have learned is absolutely beyond belief — Tens of thousands of people donated raising a hundred million do…",
+      "Url": "https://freerepublic.com/focus/f-bloggers/4377994/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2026-05-06T20:07:15Z",
+      "Content": "Skip to comments.\r\nCalifornia Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofitsX ^\r\n | 05/06/2026\r\n | Wall Street Ape… [+5258 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Thomas Kent",
+      "Title": "‘Hidden tax’ on Americans as US dollar drops 10% — why your money buys less and how to protect your portfolio",
+      "Description": "Are you prepared for the impact a weak dollar will have on the economy?",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/hidden-tax-americans-us-dollar-110000535.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/AJdhCiJBkidisFYPj9qAzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/56bde28533bd849d2e74eecfa4a7aff3",
+      "PublishedAt": "2026-05-06T11:00:00Z",
+      "Content": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nThe U.S. dollar has fallen roughly 10% against major global currencies since Donald Trump returned … [+10384 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -353,32 +379,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
       "PublishedAt": "2026-04-10T05:48:13Z",
       "Content": "The Nigerian Naira maintained a steady position against the United States Dollar in the early hours of Friday, April 10, 2026, across both the official and informal currency markets.\r\nAt the Nigerian… [+1375 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
-      },
-      "Author": "NETSOL Technologies Inc.",
-      "Title": "NETSOL Technologies renews multi-million-dollar agreement with tier-one multinational bank in the United Kingdom",
-      "Description": "NETSOL Technologies renews multi-million-dollar agreement with tier-one multinational bank in the United Kingdom to support it's asset finance operations....",
-      "Url": "https://www.globenewswire.com/news-release/2026/04/09/3271058/15855/en/NETSOL-Technologies-renews-multi-million-dollar-agreement-with-tier-one-multinational-bank-in-the-United-Kingdom.html",
-      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
-      "PublishedAt": "2026-04-09T13:06:00Z",
-      "Content": "ENCINO, Calif., April 09, 2026 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a provider of AI-enabled solutions and services powering OEMs, dealerships and financial institutions to s… [+3378 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PEOPLE"
-      },
-      "Author": "Jessica Sager",
-      "Title": "How Much Money Has Magnus Carlsen Made from Chess? Inside the Grandmaster's Million Dollar Net Worth",
-      "Description": "The erstwhile chess world champion broke earnings records for the game",
-      "Url": "https://people.com/magnus-carlsen-net-worth-11938238",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/16ZYrnljEPUxnUXz.Nr_jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/d88b6a5c0e7fdd7053d881a89ee8bdac",
-      "PublishedAt": "2026-04-07T20:26:09Z",
-      "Content": "Magnus Carlsen is widely regarded as one of, if not the, greatest chessplayers of all time.\r\nCarlsen was a child prodigy, though he didn't love chess at first. The Norway-born grandmaster told the Te… [+4389 chars]"
     }
   ]
 }

@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay cae por cuarta jornada consecutiva y se aleja de los $ 40 a nivel interbancario",
+      "Description": "El dólar cayó por cuarta jornada consecutiva y cerró por debajo de los $ 40, mientras el riesgo país subió a 59 puntos y la tasa call se mantuvo en el objetivo del BCU.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-cae-por-cuarta-jornada-consecutiva-y-se-aleja-de-los-40-a-nivel-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
+      "PublishedAt": "2026-05-07T06:05:00Z",
+      "Content": "El dólaren Uruguaycayó ayer por cuarta jornada consecutiva, en esta oportunidad 0,26%, y se negoció en promedio en $39,868. El billete verde cotizó en la jornada entre $ 39,82 y $ 39,95, para finaliz… [+1279 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se ‘ilusiona’ con posible reapertura del Estrecho de Ormuz: ¿Cuánto gana al dólar HOY?",
+      "Description": "El peso mexicano está casi en el top 10 de las monedas que más se aprecian ante el dólar este miércoles 6 de abril.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/06/peso-dolar-precio-hoy-6-de-mayo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HHVLHERGUJG7RBJHKPKMNHGAR4.png?smart=true&auth=b1112a28313808901d34a1f9754443119770da9f425aaf4db25ef805730b75b1&width=1200&height=630",
+      "PublishedAt": "2026-05-06T17:10:40Z",
+      "Content": "El peso mexicano avanza ante el dólar este miércoles 6 de mayo ante las expectativas de que se alcance un acuerdo para la reapertura del Estrecho de Ormuz. \r\nDe acuerdo con Bloomberg, el peso mexican… [+1479 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,19 +379,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CVV2XP35YJCQXLPC3YPXJQE6FM.jpg?smart=true&auth=7ed1330b57b71a046f8e5d52dab0239602e558579f6c2f49a36d5e60a3ffff9b&width=1200&height=630",
       "PublishedAt": "2026-04-08T08:55:22Z",
       "Content": "El peso mexicano se apreció ante el dólar entre la noche del martes 7 y las primeras horas del miércoles 8 de abril, luego de que se confirmara un alto al fuego entre Estados Unidos e Irán.\r\nAl cierr… [+3077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso sube luego del feriado de Semana Santa 2026: Así cotiza ante el dólar",
-      "Description": "El peso mexicano cotiza al alza, mientras inversionistas están pendientes de las negociaciones entre EU e Irán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/06/peso-dolar-tipo-de-cambio-hoy-6-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7WGXXUZGEFCFJL3J5CXP63TIUU.jpeg?smart=true&auth=6150f35e686caaf2c5545ef9bca4fc4c7eb6f3f7198dfc10812ce25d22ec1b45&width=1200&height=630",
-      "PublishedAt": "2026-04-06T17:10:10Z",
-      "Content": "El peso mexicano refleja ganancias respecto a su último cierre oficial. Este lunes, Irán rechazó una propuesta de alto al fuego y el gobierno iraní advirtió que solo aceptará el fin de la guerra si h… [+2564 chars]"
     }
   ]
 }
