@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay retrocede 1,26% en la semana a nivel interbancario y se aleja de la barrera de los $ 40",
+      "Description": "El billete verde se negoció en promedio en $ 39,747 a nivel interbancario y cerró la jornada en $ 39,73, un 0,18% por debajo del cierre anterior.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-retrocede-1-26-en-la-semana-a-nivel-interbancario-y-se-aleja-de-la-barrera-de-los-40",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
+      "PublishedAt": "2026-05-09T06:05:00Z",
+      "Content": "Eldólar en Uruguay quedó prácticamente estable ayer (tuvo una ínfima baja de 0,01%), luego de cinco jornadas consecutivas a la baja, y se negoció en promedio en $ 39,747 a nivel interbancario. En la … [+1836 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/G22NERLM6BCDJBSCCTG4LHTA3M.png?smart=true&auth=834bd77c23e9b3f591f9d2ade2ea89f0e30ed7344211a42a44ca018e38c0621f&width=1200&height=630",
       "PublishedAt": "2026-04-10T15:23:23Z",
       "Content": "El peso mexicano se perfila para cerrar con broche de oro la semana al extender sus avances ante el dólar y acercarse un poco más al terreno de las 16 unidades. \r\nLa guerra entre EU e Irán ya se hizo… [+1819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso aprovecha ‘frágil’ alto al fuego entre Trump e Irán: ¿Cuánto se aprecia ante el dólar HOY?",
-      "Description": "El peso mexicano se ubica en el 'podio' de las monedas emergentes que más ganancias acumulan frente al dólar en la sesión de este jueves 9 de abril.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/09/peso-dolar-precio-hoy-9-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/G75I4OTAANGYRKTBCHCEKCUUBE.png?smart=true&auth=4b738deb487305133a515671efcfba9f79b5b8e0ac74af5049e90f2e88d2434a&width=1200&height=630",
-      "PublishedAt": "2026-04-09T16:33:11Z",
-      "Content": "El peso mexicano extiende sus ganancias ante el dólar este jueves 9 de abril, esto a pesar de las acusaciones de Irán contra EU por violar el alto al fuego acordado por Donald Trump. \r\nA pesar de pac… [+1761 chars]"
     }
   ]
 }
