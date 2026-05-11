@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": "https://ml.globenewswire.com/Resource/Download/7b54c346-1880-440e-9477-fb12d826bcfd",
       "PublishedAt": "2026-04-11T21:08:00Z",
       "Content": "Palm Beach Gardens, FL, April 11, 2026 (GLOBE NEWSWIRE) -- Note: This publication contains affiliate links. A commission may be earned if a subscription is completed through links in this content, at… [+18138 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 10, 2026",
-      "Description": "The Nigerian Naira maintained a steady position against the United States Dollar in the early hours of Friday, April 10, 2026, across both the official and informal currency markets.\nThe post Dollar to Naira exchange rate today, April 10, 2026 appeared first …",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-10-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-04-10T05:48:13Z",
-      "Content": "The Nigerian Naira maintained a steady position against the United States Dollar in the early hours of Friday, April 10, 2026, across both the official and informal currency markets.\r\nAt the Nigerian… [+1375 chars]"
     }
   ]
 }

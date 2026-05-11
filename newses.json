@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/13042026/e2120957-edde-4692-acd7-8fe40f132b86.jpg?operations=crop(0:0:1152:648),autocrop(1200:630)",
       "PublishedAt": "2026-04-13T13:32:03Z",
       "Content": "El precio del dólar hoy lunes 13 de abril de 2026 arranca la jornada en 17.34 pesos por unidad, reflejando una caída frente a la moneda mexicana y marcando una tendencia de ajuste en el tipo de cambi… [+2268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso, en el top 5 de monedas emergentes que más se aprecian ante el dólar: ¿Cuánto gana HOY?",
-      "Description": "El peso se ha apreciado con fuerza ante el dólar después de que las tensiones entre Donald Trump e Irán se 'calmaron' tras un acuerdo de un alto al fuego.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/10/peso-dolar-precio-hoy-10-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/G22NERLM6BCDJBSCCTG4LHTA3M.png?smart=true&auth=834bd77c23e9b3f591f9d2ade2ea89f0e30ed7344211a42a44ca018e38c0621f&width=1200&height=630",
-      "PublishedAt": "2026-04-10T15:23:23Z",
-      "Content": "El peso mexicano se perfila para cerrar con broche de oro la semana al extender sus avances ante el dólar y acercarse un poco más al terreno de las 16 unidades. \r\nLa guerra entre EU e Irán ya se hizo… [+1819 chars]"
     }
   ]
 }
