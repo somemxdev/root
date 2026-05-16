@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar marca nuevo mínimo histórico en Monex por segundo día consecutivo",
+      "Description": "Precio del dólar tocó un nuevo mínimo por segunda sesión consecutiva en Monex desde diciembre de 2007",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-marca-nuevo-minimo/CFSRZ5TM3VCCRPSDIGPBGMP53Y/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
+      "PublishedAt": "2026-05-14T19:33:27Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo durante la sesión de este jueves 14 de mayo en el Mercado de Monedas Extranjeras (Monex) y registró su valor más bajo de la serie… [+538 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Martín Arrúa",
+      "Title": "Société Générale expandirá sus stablecoins del dólar y el euro a la red Canton",
+      "Description": "El banco francés busca fortalecer su infraestructura financiera digital con foco en liquidación y garantías tokenizadas.\nLa entrada Société Générale expandirá sus stablecoins del dólar y el euro a la red Canton se publicó primero en CriptoNoticias - Noticias …",
+      "Url": "https://www.criptonoticias.com/mercados/societe-generale-expandira-stablecoins-dolar-euro-canton/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2026/05/canton-network-societe-generale.jpg",
+      "PublishedAt": "2026-05-14T10:31:38Z",
+      "Content": "<ul><li>Société Générale realizó en 2025 su primera emisión de bonos tokenizados en EE.UU.\r\n</li><li>La firma también se unirá a Canton Network como super validador del ecosistema.\r\n</li></ul>\r\nSocié… [+3607 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso mexicano resiste presión del dólar y gana terreno tras dato de inflación en EU; así abre HOY",
+      "Description": "La moneda mexicana opera con ganancias marginales en medio de un mayor fortalecimiento del billete verde.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/13/peso-dolar-hoy-13-de-mayo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4LOJZ65YLVFKLNR7W5IWOY4TMA.png?smart=true&auth=d98e9fd5c3a19917834a465c1d81e3f22a888247555cb9cd57ed790d90499d06&width=1200&height=630",
+      "PublishedAt": "2026-05-13T15:44:02Z",
+      "Content": "La moneda mexicana opera este miércoles 13 de mayo con ganancias marginales en medio de un mayor fortalecimiento del billete verde, a medida que los inversionistas asimilan una mayor inflación al pro… [+1588 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Ignacio Grimaldi",
+      "Title": "Dólar blue: la Justicia estimó que el perjuicio al Estado fue de US$607 millones en efectivo y cuestionó el rol del Banco Central",
+      "Description": "Además, la jueza Servini dispuso un embargo de $859 mil millones sobre Elías Piccirillo y más de cien financistas y casas de cambio; puso la lupa sobre operaciones no informadas y el accionar de las autoridades",
+      "Url": "https://www.lanacion.com.ar/politica/dolar-blue-la-justicia-estimo-que-el-perjuicio-al-estado-fue-de-us607-millones-en-efectivo-y-nid12052026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/elias-piccirillo-exesposo-de-jesica-cirio-fue-NROWFDYIXJESRNY7T2VCUWSCGM.JPG?auth=191727cd5f8388f566a1a4ec81a421824109cdf6b606d514b879c50144261242&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-05-12T21:08:25Z",
+      "Content": "La Justicia le puso por primera vez un número al presunto perjuicio al Estado por el circuito del dólar blue durante la gestión de Alberto Fernández: US$607 millones. \r\nEl cálculo se basa en un traba… [+5552 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "RÉCORD",
+      "Title": "Precio del dólar hoy 11 de mayo: Peso gana terreno y la divisa cae a 17.20",
+      "Description": "El billete verde se cotiza promedio en 16.84 pesos a la compra y 17.43 pesos a la venta",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-11-de-mayo-peso-gana-terreno-y-la-divisa-cae-a-1720-2026051113294841653",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17042026/a6becf68-0eee-4598-8251-f78684c7a38d.jpg?operations=crop(0:0:1300:731),autocrop(1200:630)",
+      "PublishedAt": "2026-05-11T13:29:48Z",
+      "Content": "El precio del dólar hoy lunes 11 de mayo de 2026 arrancó la jornada en 17.20 pesos por unidad, mostrando una nueva baja frente al peso mexicano y consolidando una tendencia descendente en el tipo de … [+1932 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,84 +366,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WDKS462QQRHVRGM5KOHFZB6HPQ.png?smart=true&auth=8304b191e0623cafaf63b97d38cbb5ccd2110763ca0e9c920db12235d0b44973&width=1200&height=630",
       "PublishedAt": "2026-04-15T16:25:56Z",
       "Content": "El peso mexicano se deprecia marginalmente ante el dólar después de siete sesiones con ganancias, esto mientras los inversionistas son más cautelosos ante el desarrollo de la guerra entre EU e Irán. … [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay cae por debajo del \"piso\" de los $ 40 y hay fuerte avidez por deuda en moneda local",
-      "Description": "El dólar cayó 0,77% y tocó su menor nivel en un mes, mientras fuerte demanda por deuda en UI cuadriplicó la oferta. En abril baja 1,43%, aunque en 2026 aún sube 2,2%.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-cae-por-debajo-del-piso-de-los-40-y-hay-fuerte-avidez-por-deuda-en-moneda-local",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/a2cb190/2147483647/strip/true/crop/6720x4200+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F09%2F3e34174f42bcaa220fa6e9bac322%2Fpexels-karolina-grabowska-4386442.jpg",
-      "PublishedAt": "2026-04-15T06:00:00Z",
-      "Content": "El dólaren Uruguay bajó ayer por tercer día consecutivo al tiempo que hubo fuerte avidez por deuda en Unidades Indexadas. La caída de la moneda estadounidese esta vez fue de 0,77% y se negoció en pro… [+1858 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Hambre’ por activos de riesgo fortalece al peso frente al dólar: ¿Cuánto se aprecia HOY?",
-      "Description": "El peso se perfila para conseguir su séptima sesión de ganancias ante el dólar. La moneda mexicana vivió un periodo de 'estrés' por el conflicto en Medio Oriente.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/14/peso-dolar-precio-hoy-14-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/445RXSNPYRFBLB3OTRMLZ5LQ3U.png?smart=true&auth=e5572e399b3fa896ecda5b310abf4333b2c6b16b2d23910f1b31446c4e1a0a23&width=1200&height=630",
-      "PublishedAt": "2026-04-14T15:44:49Z",
-      "Content": "El peso mexicano se fortalece ante el dólar este martes 14 de abril gracias a que los inversionsitas del mercado tienen más hambre de activos de riesgo. \r\nEn noticias sobre el Estrecho de Ormuz, el p… [+1580 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Esteban Lafuente",
-      "Title": "Perfora los $1400: el dólar acelera la baja, mientras el Banco Central extiende su racha de compra de reservas",
-      "Description": "La caída del tipo de cambio oficial se replica en los financieros, en un movimiento que acompañan otras monedas de la región",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/perfora-los-1400-el-dolar-acelera-la-baja-mientras-el-banco-central-extiende-su-racha-de-compra-de-nid14042026/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-cuanto-cotiza-hoy-martes-14-de-WV7GA7AVGVGSZDRHCXSTJPNF6E.png?auth=d58a47efeb1f03ed6e0bde0a7532f4e616058b4d58d3c7f89f265f6389d43e47&width=1200&quality=85&smart=true&height=675",
-      "PublishedAt": "2026-04-14T15:34:15Z",
-      "Content": "El dólar continúa su tendencia a la baja y pareciera no encontrar un piso. Mientras el Banco Central extiende su racha de compra de reservas rueda tras rueda, el mercado avanza hacia su época de mayo… [+2880 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Novena alza al hilo del peso frente al dólar",
-      "Description": "El dólar se debilitó y el peso mexicano extendió su racha ganadora, al acumular nueve cierres con ganancias en el mercado al mayoreo. La moneda nacional registró una apreciación diaria de 0.11 por ciento frente a la divisa estadunidense, para cerrar en 17.299…",
-      "Url": "https://www.jornada.com.mx/2026/04/14/economia/014n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-04-14T08:41:32Z",
-      "Content": "Periódico La JornadaMartes 14 de abril de 2026, p. 14\r\nEl dólar se debilitó y el peso mexicano extendió su racha ganadora, al acumular nueve cierres con ganancias en el mercado al mayoreo. La moneda … [+1886 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso tiene leve ‘descalabro’ ante el dólar por bloqueo de EU en Estrecho de Ormuz",
-      "Description": "Los precios del petróleo también volvieron a despuntar este lunes 13 de abril luego de que el presidente Trump amenazó a Irán con destruir cualquier buque que trate de romper su bloqueo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/13/peso-dolar-precio-hoy-13-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/FRWUAO6JFFCIHFZLGGWAFGS4PQ.png?smart=true&auth=261fd8cfee498522a5acc0d7c3b03d91d72344f633902a5955ccfdd99c89c2e8&width=1200&height=630",
-      "PublishedAt": "2026-04-13T16:13:30Z",
-      "Content": "El bloque de Estados Unidos al Estrecho de Ormuz redujo el apetito por los activos de riesgo en el mercado, un problema que afecta a monedas como el peso mexicano que inicia la semana con depreciació… [+1936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "RÉCORD",
-      "Title": "Precio del dólar hoy 13 de abril de 2026 en México: baja a 17.34 pesos y el peso se fortalece",
-      "Description": "La divisa estadounidense se cotiza promedio en 16.90 pesos a la compra y 17.60 pesos a la venta",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-13-de-abril-de-2026-en-mexico-baja-a-1734-pesos-y-el-peso-se-fortalece-2026041313320330855",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/13042026/e2120957-edde-4692-acd7-8fe40f132b86.jpg?operations=crop(0:0:1152:648),autocrop(1200:630)",
-      "PublishedAt": "2026-04-13T13:32:03Z",
-      "Content": "El precio del dólar hoy lunes 13 de abril de 2026 arranca la jornada en 17.34 pesos por unidad, reflejando una caída frente a la moneda mexicana y marcando una tendencia de ajuste en el tipo de cambi… [+2268 chars]"
     }
   ]
 }
