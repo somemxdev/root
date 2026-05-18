@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -340,32 +340,6 @@
       "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
       "PublishedAt": "2026-04-18T04:55:50Z",
       "Content": "The Naira on Friday depreciated against the dollar at the official foreign exchange market to end the rally and week on a negative note.\r\nThe Central Bank of Nigeria’s data showed that the Naira weak… [+550 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "'Million Dollar Secret' Season 2 Spoilers: Who Was Eliminated in Episodes 1-3 & Who Has the Money Now?",
-      "Description": "Million Dollar Secret is back for Season 2 on Netflix, and the twists are already coming fast. We’re bringing you all of the early spoilers from the first three episodes, including who was eliminated and who held the million, as well as when new episodes will…",
-      "Url": "https://www.justjared.com/2026/04/16/million-dollar-secret-season-2-spoilers-eliminations-episodes-1-2-3/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/million-dollar-secret-s2-social.jpg",
-      "PublishedAt": "2026-04-16T20:21:19Z",
-      "Content": "Million Dollar Secret is back for Season 2 on Netflix, and the twists are already coming fast.\r\nWe’re bringing you all of the early spoilers from the first three episodes, including who was eliminate… [+908 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-irish-times",
-        "Name": "The Irish Times"
-      },
-      "Author": "Mary Hannigan",
-      "Title": "Floyd ‘Money’ Mayweather and the blown billion dollar fortune",
-      "Description": "Dublin players in the dark about Brennan; Crowley on the current state of affairs in Munster",
-      "Url": "https://www.irishtimes.com/sport/2026/04/16/floyd-money-mayweather-and-the-blown-billion-dollar-fortune/",
-      "UrlToImage": "https://www.irishtimes.com/resizer/v2/XPWXJXGMX5DLPJDRMAHUF5DYSY.jpg?smart=true&auth=f1b03293f2153035affee10aebd410c45495fcabb61d241893fd03d7939b03c7&width=1200&height=630",
-      "PublishedAt": "2026-04-16T09:17:12Z",
-      "Content": "At the peak of his powers, former world boxing champion Floyd Mayweather was so rich he bought a second private jet to transport his retinue of bodyguards about the place. In all, it was estimated th… [+3156 chars]"
     }
   ]
 }
