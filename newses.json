@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Milei habló sobre la cotización del dólar hoy: “Si no estuviéramos comprando, el tipo de cambio estaría en $1100″",
+      "Description": "Lo afirmó durante una exposición sobre economía en el Malba",
+      "Url": "https://www.lanacion.com.ar/economia/milei-hablo-sobre-la-cotizacion-del-dolar-hoy-si-no-estuvieramos-comprando-el-tipo-de-cambio-estaria-nid20052026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-milei-en-el-malba-junto-a-7FB7KBIYMBBNHCHIE43RHB5OS4.jpeg?auth=8e2d03a86efc7ffcec53ddb14304bcf7cce660fa7b0abdf29aa4fedaf0acdcc8&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-05-20T13:27:10Z",
+      "Content": "El presidente Javier Milei, al disertar el este martes por la mañana en un evento del Banco de Valores (VALO) que se desarrolló en el Museo de Arte Latinoamericano de Buenos Aires (Malba), se refirió… [+2829 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diariobitcoin.com"
+      },
+      "Author": "Canuto",
+      "Title": "Consorcio en Europa se expande a 37 bancos para lanzar stablecoin de euro y desafiar al dólar",
+      "Description": "Qivalis amplió de forma significativa su consorcio para una stablecoin en euros al incorporar 25 bancos adicionales, llevando el total a 37 entidades. El movimiento refuerza la idea de que la banca europea quiere participar de forma más directa en la infraest…",
+      "Url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/consorcio-en-europa-se-expande-a-37-bancos-para-lanzar-stablecoin-de-euro-y-desafiar-al-dolar/",
+      "UrlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/05/canuto-imagine-1779275101.jpg",
+      "PublishedAt": "2026-05-20T11:18:17Z",
+      "Content": "Por Canuto   Qivalis amplió su consorcio para una stablecoin en euros al incorporar 25 bancos adicionales, llevando el total a 37 entidades. El movimiento refuerza la idea de que la banca europea qui… [+6921 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LUS4KRSXNBDNHGRTPIQ2FHZHEM.png?smart=true&auth=d608922cc6915b2611a89fe6844025c85c4ff267271804d7585c7365877863bf&width=1200&height=630",
       "PublishedAt": "2026-04-20T15:08:54Z",
       "Content": "El peso mexicano se deprecia ante el dólar en la sesión de este lunes 20 de abril, ante una mayor demanda por activos refugio por la incertidumbre que rodea el alto al fuego en Medio Oriente. \r\nIrán … [+1744 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "¿Baja el dólar por la deuda del Gobierno? Banco Central da su versión de lo que ocurre",
-      "Description": "El precio del dólar atraviesa mínimos históricos en el Monex y suma casi cuatro años con tendencia a la baja",
-      "Url": "https://www.nacion.com/economia/baja-el-dolar-por-la-deuda-del-gobierno-banco/I3PFKYA5VRFD5JVLYWAEEXWYO4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/2XOYPTAQHFGZNNBGL5IKJ6TSRE.jpg?smart=true&auth=787476c4e18af504d6e98ecf470294e939fe64ff538c79053968803964c7fd78&width=1440",
-      "PublishedAt": "2026-04-20T11:30:00Z",
-      "Content": "Róger Madrigal, presidente del Banco Central de Costa Rica (BCCR), se refirió a la influencia que tiene el endeudamiento externo del Gobierno en la baja del tipo de cambio del dólar, que atraviesa mí… [+5833 chars]"
     }
   ]
 }
