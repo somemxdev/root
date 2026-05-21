@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "newsBTC"
+      },
+      "Author": "Sandra White",
+      "Title": "Trillion-Dollar Italian Bank Moves To XRP, But How Much Have They Bought?",
+      "Description": "XRP is back in focus following reports of exposure from Italy’s largest banking group. The disclosure, highlighted by crypto analyst @Xfinancebull on X, reveals a position tied to the Grayscale XRP Trust, which has drawn renewed attention across the market as…",
+      "Url": "http://www.newsbtc.com/analysis/xrp/trillion-dollar-italian-bank-xrp/",
+      "UrlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-price.jpeg?fit=1536%2C1024",
+      "PublishedAt": "2026-05-18T10:30:37Z",
+      "Content": "XRP is back in focus following reports of exposure from Italys largest banking group. The disclosure, highlighted by crypto analyst @Xfinancebull on X, reveals a position tied to the Grayscale XRP Tr… [+3202 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Crypto Briefing"
       },
       "Author": "Editorial Team",
@@ -327,19 +340,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/files/2026.04/article/69e76d4585f54052c6484de8.jpg",
       "PublishedAt": "2026-04-21T12:45:14Z",
       "Content": "Zimbabwe’s gold-backed currency (ZiG) is undervalued by nearly half and should be trading much stronger against the US dollar, the southern African nation’s central bank has said. \r\nReserve Bank of Z… [+2049 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Post Nigeria"
-      },
-      "Author": "Ogaga Ariemu",
-      "Title": "Dollar to Naira exchange rate Today, April 16, 2026: Nigerian currency records first depreciation",
-      "Description": "The Naira on Friday depreciated against the dollar at the official foreign exchange market to end the rally and week on a negative note. The Central Bank of Nigeria's data showed that the Naira weakened on Friday to N1,343.64 per dollar, down from N1,342.30 r…",
-      "Url": "https://dailypost.ng/2026/04/18/dollar-to-naira-exchange-rate-today-april-16-2026-nigerian-currency-records-first-depreciation/",
-      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
-      "PublishedAt": "2026-04-18T04:55:50Z",
-      "Content": "The Naira on Friday depreciated against the dollar at the official foreign exchange market to end the rally and week on a negative note.\r\nThe Central Bank of Nigeria’s data showed that the Naira weak… [+550 chars]"
     }
   ]
 }
