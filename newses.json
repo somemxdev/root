@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se aprecia ante el dólar a pesar de amenaza de Irán a EU: Así está el tipo de cambio HOY",
+      "Description": "Especialistas advirtieron que la apreciación del peso de este miércoles 20 de mayo es solo una corrección en el tipo de cambio y no un cambio de tendencia.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/20/peso-dolar-precio-hoy-20-de-mayo-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ETWOUBSB4BGAHAJH4QNV4P4L2M.png?smart=true&auth=f2ee4f32a9fb802e242f13d1d011f8301773acd80d4dbdd4f1df349171d12e03&width=1200&height=630",
+      "PublishedAt": "2026-05-20T17:23:16Z",
+      "Content": "A pesar de la incertidumbre entre Estados Unidos Irán, que amenazó con ataques en Medio Oriente, los inversionistas muestran un mayor apetito por activos de riesgo, lo que inyecta debilidad al billet… [+1739 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -340,58 +353,6 @@
       "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732917.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
       "PublishedAt": "2026-04-27T03:17:01Z",
       "Content": "02 MIN 00 SEG\r\nErnesto Sarabia\r\nCd. de México (24 abril 2026) .-17:12 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay sube por segundo día consecutivo y se acerca a los $ 40 en la cotización del interbancario",
-      "Description": "El billete verde se negoció en promedio en $ 39,75, lo que significó una suba de 0,40% y cerró la jornada en $ 39,60.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-por-segundo-dia-consecutivo-y-se-acerca-a-los-40-en-la-cotizacion-del-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
-      "PublishedAt": "2026-04-24T06:05:00Z",
-      "Content": "Por segundo día consecutivo, el dólar en Uruguay subió ayer, esta vez 0,40% y se negoció en promedio en $ 39,757. El billete verde cotizó entre $ 39,60 y $ 39,80 para finalizar en el mínimo, estable … [+1354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso avanza tras nueva extensión al alto al fuego entre Trump e Irán: ¿Cuánto gana al dólar HOY?",
-      "Description": "La guerra entre EU, Israel e Irán se acerca ya a dos meses de duración, en medio de negociaciones sobre cómo reabrir el Estrecho de Ormuz.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/22/peso-dolar-precio-hoy-22-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QHC2NL5CHVDXBDWJ3YETFZAQGY.png?smart=true&auth=b7fb67129ccc627239c9764d40d6b034770d9ff1b69015b68fd3899395427eec&width=1200&height=630",
-      "PublishedAt": "2026-04-22T16:17:01Z",
-      "Content": "El peso mexicano avanza ante el dólar este miércoles 22 de abril, mientras los inversionistas están a la espera de ver cómo se desenvuelven las conversaciones entre Estados Unidos e Irán.\r\nEl preside… [+1723 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Caen los mercados accionarios en EU y México; el dólar sube",
-      "Description": "Mientras creció la ansiedad de los inversionistas por falta de progreso en el diálogo entre Estados Unidos e Irán, el dólar se fortaleció y los índices accionarios retrocedieron ayer.",
-      "Url": "https://www.jornada.com.mx/2026/04/22/economia/018n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-04-22T09:38:33Z",
-      "Content": "Periódico La JornadaMiércoles 22 de abril de 2026, p. 18\r\nMientras creció la ansiedad de los inversionistas por falta de progreso en el diálogo entre Estados Unidos e Irán, el dólar se fortaleció y l… [+2080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Desacuerdo de Irán con EU ‘destantea’ al peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Uno de los puntos en los que Trump e Irán no se ponen de acuerdo es sobre qué pasará con el Estrecho de Ormuz. Teherán exige que su control pase a sus manos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/04/20/peso-dolar-precio-hoy-20-de-abril-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LUS4KRSXNBDNHGRTPIQ2FHZHEM.png?smart=true&auth=d608922cc6915b2611a89fe6844025c85c4ff267271804d7585c7365877863bf&width=1200&height=630",
-      "PublishedAt": "2026-04-20T15:08:54Z",
-      "Content": "El peso mexicano se deprecia ante el dólar en la sesión de este lunes 20 de abril, ante una mayor demanda por activos refugio por la incertidumbre que rodea el alto al fuego en Medio Oriente. \r\nIrán … [+1744 chars]"
     }
   ]
 }

@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Stocks climb despite Iran uncertainty, dollar near recent highs, oil up - Yahoo Finance",
+      "Description": "Stocks climb despite Iran uncertainty, dollar near recent highs, oil upYahoo Finance See more headlines &amp; perspectives on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=183322784",
+      "UrlToImage": null,
+      "PublishedAt": "2026-05-22T15:52:56Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar future - Yahoo Finance",
+      "Description": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar futureYahoo Finance Nvidia Earnings: Massive AI Adoption Remains On Track; Shares UndervaluedMorningstar Can Nvidia Extend Its AI-Driven Rally After New All-Time High?Yahoo Finance Nvidia Stock Is Immun…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=183318066",
+      "UrlToImage": null,
+      "PublishedAt": "2026-05-22T01:52:56Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nextbigwhat.com"
+      },
+      "Author": "Editorial Team",
+      "Title": "How AI Might Cause the Next Billion-Dollar Finance Blunder",
+      "Description": "AI systems can execute thousands of transactions rapidly, posing a risk if unchecked. Unlike traditional systems, AI's leverage can lead to billion-dollar ...",
+      "Url": "https://nextbigwhat.com/how-ai-might-cause-the-next-billion-dollar-finance-blunder/",
+      "UrlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2026/05/6f820d53-56df-4948-8899-426fc4471cd3.jpg?fit=1200%2C675&ssl=1",
+      "PublishedAt": "2026-05-21T15:31:44Z",
+      "Content": "AI's Unchecked Leverage Risk\r\nAI systems can execute thousands of transactions rapidly, posing a risk if unchecked. Unlike traditional systems, AI's leverage can lead to billion-dollar mistakes due t… [+4560 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sputnikglobe.com"
+      },
+      "Author": "Sputnik International",
+      "Title": "No SWIFT, No Dollar: Ruble–Yuan System Paves Way for Multipolar Finance",
+      "Description": "Nearly 100% of Russia-China trade is now settled in national currencies, which is a landmark in financial sovereignty, Hong Kong-based political analyst Angelo Giuliano tells Sputnik.",
+      "Url": "https://sputnikglobe.com/20260520/no-swift-no-dollar-rubleyuan-system-paves-way-for-multipolar-finance-1124160260.html",
+      "UrlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124160260.jpg?10714552211779286270",
+      "PublishedAt": "2026-05-20T14:11:09Z",
+      "Content": "He noted that national currency settlements have created a resilient and sanctions-proof ecosystem."
+    },
     {
       "Source": {
         "Id": null,
@@ -288,58 +340,6 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2026/04/MixCollage-24-Apr-2026-04-39-PM-49.jpg?w=1024",
       "PublishedAt": "2026-04-24T15:47:06Z",
       "Content": "Rai Cinema touched down at the National Italian American Foundation (NIAF) New York gala on Thursday evening to present Giuseppe Tornatore’s upcoming film The First Dollar to the high-profile guests.… [+2399 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 24, 2026",
-      "Description": "The Nigerian naira continues to trade within a relatively narrow band against the United States dollar across both the official and parallel foreign exchange markets, reflecting sustained demand pressures and cautious market sentiment.\nThe post Dollar to Nair…",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-24-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
-      "PublishedAt": "2026-04-24T06:00:54Z",
-      "Content": "The Nigerian naira continues to trade within a relatively narrow band against the United States dollar across both the official and parallel foreign exchange markets, reflecting sustained demand pres… [+1677 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Estefano Gomez",
-      "Title": "US dollar rebounds amid US-Iran conflict; Bank of Japan rate cut odds unchanged",
-      "Description": "The US-Iran conflict boosts the dollar's safe-haven appeal, but Japan's rate cut odds remain unaffected, highlighting market inertia.\nThe post US dollar rebounds amid US-Iran conflict; Bank of Japan rate cut odds unchanged appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/us-dollar-rebounds-amid-us-iran-conflict-bank-of-japan-rate-cut-odds-unchanged/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/23203555/boj-emergency-rate-cut-in-august-K4KcXEDWiliA-46-465x457.jpg",
-      "PublishedAt": "2026-04-24T00:36:01Z",
-      "Content": "The US dollar is showing signs of a rebound after forming a long-legged doji pattern on the DXY index, driven by safe-haven flows from the escalating US-Iran conflict. The Bank of Japan rate cut mark… [+1573 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Ellyn Lapointe",
-      "Title": "Trillion-Dollar Flip-Flop? SpaceX Says Orbital Data Centers May Never Make Money",
-      "Description": "In a pre-IPO filing, Elon Musk's company fessed up to the immense challenges and risks of putting AI in space.",
-      "Url": "https://gizmodo.com/trillion-dollar-flip-flop-spacex-says-orbital-data-centers-may-never-make-money-2000749584",
-      "UrlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2256968069-1200x675.jpg",
-      "PublishedAt": "2026-04-22T15:45:27Z",
-      "Content": "For more than a year, Elon Musk has been prophesying a new era for AI. The SpaceX CEO has said that building AI data centers in space is a no brainer, and that it would be the cheapest place to put A… [+3672 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Zimbabwe gold-backed currency undervalued against dollar – central bank",
-      "Description": "Zimbabwe’s central bank chief has said the gold-backed ZiG is undervalued and should be trading at around 15 to the US dollar Read Full Article at RT.com",
-      "Url": "https://www.rt.com/africa/638832-zimbabwe-gold-zig-currency-undervalued-dollar/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2026.04/article/69e76d4585f54052c6484de8.jpg",
-      "PublishedAt": "2026-04-21T12:45:14Z",
-      "Content": "Zimbabwe’s gold-backed currency (ZiG) is undervalued by nearly half and should be trading much stronger against the US dollar, the southern African nation’s central bank has said. \r\nReserve Bank of Z… [+2049 chars]"
     }
   ]
 }
