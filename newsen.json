@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PRNewswire"
+      },
+      "Author": null,
+      "Title": "BANCO SANTANDER, S.A. ANNOUNCES A TENDER OFFER FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES",
+      "Description": "MADRID, May 27, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing that it is commencing a tender offer (the \"Offer\") to purchase for cash up to $850,000,000 (the \"Maximum Offer Amount\") of one series of its ou…",
+      "Url": "https://www.prnewswire.com/news-releases/banco-santander-sa-announces-a-tender-offer-for-one-series-of-its-us-dollar-denominated-additional-tier-1-securities-302782858.html",
+      "UrlToImage": "https://mma.prnewswire.com/media/2988605/Santander_Logo.jpg?p=facebook",
+      "PublishedAt": "2026-05-27T07:55:00Z",
+      "Content": "MADRID, May 27, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing that it is commencing a tender offer (the \"Offer\") to purchase for cash up to $850,… [+22277 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bankier.pl"
+      },
+      "Author": "Redaktor Bankier.pl",
+      "Title": "BANCO SANTANDER S.A.: Banco Santander announces a tender offer for one series of its U.S. dollar-denominated additional Tier 1 seciurites",
+      "Description": "Spis treści:1. REPORT2. INFORMATION ABOUT THE ENTITY3. SIGNATURE OF PERSONS REPRESENTING THE COMPANYSpis załączników:Wings - Launch IP Announcement (EN).pdf td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word;...",
+      "Url": "https://www.bankier.pl/wiadomosc/BANCO-SANTANDER-S-A-Banco-Santander-announces-a-tender-offer-for-one-series-of-its-U-S-dollar-denominated-additional-Tier-1-seciurites-9140150.html",
+      "UrlToImage": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
+      "PublishedAt": "2026-05-27T07:53:16Z",
+      "Content": "Banco Santander announces a tender offer for one series of its U.S. dollar-denominated additional Tier 1 seciurites"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "How Much Money Did the 2026 Indy 500 Winner Make? What to Know About the Race's Multimillion-Dollar Payout",
+      "Description": "The Indy 500 purse is split 33 ways",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90a97d80-1253-4d16-84c4-d54b1f1cec49",
+      "UrlToImage": null,
+      "PublishedAt": "2026-05-26T15:50:15Z",
+      "Content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -223,123 +262,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/08/naira-dollar.jpg",
       "PublishedAt": "2026-05-01T05:55:23Z",
       "Content": "The Nigerian Naira opened the new month with slight fluctuations against the US Dollar across both the official and informal currency markets. As of the early hours of Friday, May 1, 2026, data from … [+1985 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nikkei.com"
-      },
-      "Author": "Jada Nagumo",
-      "Title": "Finance Minister Katayama issues warning after yen breaches 160 to dollar",
-      "Description": "Finance Minister Katayama issues warning after yen breaches 160 to dollarnikkei.com",
-      "Url": "https://asia.nikkei.com/business/markets/japan-s-finance-minister-issues-warning-after-yen-breaches-160-to-dollar",
-      "UrlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F3%2F9%2F6%2F12446930-1-eng-GB%2F06a7faf4eb1d-photo_SXM2026043000011242-1-.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "PublishedAt": "2026-04-30T09:33:23Z",
-      "Content": "TOKYO -- The yen weakened past the psychologically significant threshold of 160 to the dollar on Thursday, prompting Finance Minister Satsuki Katayama to issue verbal warnings, telling reporters, \"Th… [+656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 30, 2026",
-      "Description": "The Nigerian Naira maintained a steady position against the United States Dollar across both the official and informal currency markets on Thursday morning, April 30, 2026.\nThe post Dollar to Naira exchange rate today, April 30, 2026 appeared first on Vanguar…",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-30-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/02/Naira-to-dollar.jpg",
-      "PublishedAt": "2026-04-30T06:05:59Z",
-      "Content": "The Nigerian Naira maintained a steady position against the United States Dollar across both the official and informal currency markets on Thursday morning, April 30, 2026. Data from the early tradin… [+1841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Substack.com"
-      },
-      "Author": "Joe Pompliano",
-      "Title": "How HYROX Became A Billion-Dollar Business (without spending any money on marketing)",
-      "Description": "If you’re like me, your social media feeds over the last few years have been filled with influencers competing in indoor fitness events.",
-      "Url": "https://huddleup.substack.com/p/how-hyrox-became-a-billion-dollar",
-      "UrlToImage": "https://substackcdn.com/image/fetch/$s_!2mlk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f8fd4e8-8a7b-4e94-ab9c-e691f8ae239f_1500x1000.avif",
-      "PublishedAt": "2026-04-29T16:10:47Z",
-      "Content": "If youre like me, your social media feeds over the last few years have been filled with influencers competing in indoor fitness events. New York City. London. Shanghai. Competitions are held in the w… [+1942 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "Who Won ‘Million Dollar Secret’? Season 2 Winner Reveals How They Plan To Spend The Money",
-      "Description": "There's a new millionaire in town.",
-      "Url": "https://decider.com/2026/04/29/who-won-million-dollar-secret-season-2/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2026/04/mds2_427d61.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2026-04-29T13:00:00Z",
-      "Content": "A new winner of Million Dollar Secrethas been declared.\r\nThe game show, which is hosted by Peter Serafinowicz, brings a group of regular Joes into a luxurious lakeside estate, where only one of them … [+3916 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 29, 2026",
-      "Description": "The Nigerian naira maintained relative stability against the United States dollar on Wednesday, April 29, 2026, across both the official and parallel foreign exchange markets, amid persistent demand pressures and cautious trading sentiment.\nThe post Dollar to…",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-29-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/06/dollar-naira.jpg",
-      "PublishedAt": "2026-04-29T06:12:08Z",
-      "Content": "The Nigerian naira maintained relative stability against the United States dollar on Wednesday, April 29, 2026, across both the official and parallel foreign exchange markets, amid persistent demand … [+1475 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 28, 2026",
-      "Description": "The Nigerian Naira maintained a steady yet cautious position against the US Dollar as the market opened for trading today, Tuesday, April 28, 2026.\nThe post Dollar to Naira exchange rate today, April 28, 2026 appeared first on Vanguard News.",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-28-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2024/03/Naira-Dollar.png",
-      "PublishedAt": "2026-04-28T06:10:56Z",
-      "Content": "The Nigerian Naira maintained a steady yet cautious position against the US Dollar as the market opened for trading today, Tuesday, April 28, 2026. Financial analysts are observing localised fluctuat… [+2081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Statisa",
-      "Title": "Gold Has Overtaken the U.S. Dollar in Central Bank Reserves",
-      "Description": "the first time since 1996, foreign central banks now hold more gold than U.S. Treasuries (U.S. debt) in their reserves, marking a historic turning point in global reserve management. Data published by Visual Capitalist reveals that, in the course of 2025, the…",
-      "Url": "https://freerepublic.com/focus/f-chat/4376612/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2026-04-27T17:26:15Z",
-      "Content": "Skip to comments.\r\nGold Has Overtaken the U.S. Dollar in Central Bank ReservesStatisa ^\r\n | Jan 26\r\n | Gaudiat\r\nPosted on 04/27/2026 10:26:15 AM PDT by delta7\r\nthe first time since 1996, foreign cent… [+2113 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Estefano Gomez",
-      "Title": "Dollar steady amid potential US-Iran talks, central bank decisions",
-      "Description": "Potential US-Iran talks could stabilize oil prices, easing inflation and impacting central bank policies globally.\nThe post Dollar steady amid potential US-Iran talks, central bank decisions appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/dollar-steady-amid-potential-us-iran-talks-central-bank-decisions/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/27075335/boj-emergency-rate-cut-in-august-K4KcXEDWiliA-61-465x457.jpg",
-      "PublishedAt": "2026-04-27T11:53:40Z",
-      "Content": "The dollar is holding steady as traders watch for potential US-Iran diplomatic talks and central bank decisions. Odds for a US-Iran meeting occurring by June 30 sit at 15.4%\r\n YES, up from 9% twenty-… [+1354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, April 27, 2026",
-      "Description": "The Nigerian Naira opened the final trading week of April 2026 with relative stability as the foreign exchange market continues to adjust to shifting liquidity levels. \nThe post Dollar to Naira exchange rate today, April 27, 2026 appeared first on Vanguard Ne…",
-      "Url": "https://www.vanguardngr.com/2026/04/dollar-to-naira-exchange-rate-today-april-27-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-      "PublishedAt": "2026-04-27T05:56:58Z",
-      "Content": "The Nigerian Naira opened the final trading week of April 2026 with relative stability as the foreign exchange market continues to adjust to shifting liquidity levels. Market participants are closely… [+2048 chars]"
     }
   ]
 }
