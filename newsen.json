@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Central bank hand contains rupee's fall, shrinks dollar-rupee forward premiums",
+      "Description": "The Indian rupee and dollar-rupee forward premiums declined as importer hedging, foreign portfolio outflows, and likely central bank interventions across FX market segments exerted opposing forces. Despite Reserve Bank of India's dollar-selling interventions …",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/central-bank-hand-contains-rupees-fall-shrinks-dollar-rupee-forward-premiums/articleshow/131461572.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131461681,width-1200,height-630,imgsize-41836,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-06-02T10:32:21Z",
+      "Content": "The Indian rupee and dollar-rupee forward premiums fell on Tuesday, driven by opposing forces of importer hedging, foreign portfolio outflows and likely central bank intervention across FX market seg… [+1877 chars]"
+    },
     {
       "Source": {
         "Id": null,
