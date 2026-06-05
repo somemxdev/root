@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -262,19 +262,6 @@
       "UrlToImage": "https://www.livemint.com/lm-img/img/2026/05/05/1600x900/logo/lm_story_1_1758002274847_1758002295012_1777969088372.png",
       "PublishedAt": "2026-05-05T09:12:23Z",
       "Content": "Are you planning your dream vacation abroad or taking an EMI on a personal loan, only to see your savings erode as the rupee continues to weaken against the dollar? This stark reality came into focus… [+4850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, May 4, 2026",
-      "Description": "The Nigerian Naira opened the first week of May with a relatively stable performance against the US Dollar across the different segments of the foreign exchange market. According to data from the Nigerian Foreign Exchange Market (NFEM), the Naira is currently…",
-      "Url": "https://www.vanguardngr.com/2026/05/dollar-to-naira-exchange-rate-today-may-4-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
-      "PublishedAt": "2026-05-04T06:11:37Z",
-      "Content": "The Nigerian Naira opened the first week of May with a relatively stable performance against the US Dollar across the different segments of the foreign exchange market.\r\nAccording to data from the Ni… [+1502 chars]"
     }
   ]
 }
