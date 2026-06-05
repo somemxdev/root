@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "El fiasco de EEUU en Irán podría suponer el fin del dólar como moneda mundial, advierten medios",
+      "Description": "La nacionalización del Canal de Suez en 1956 desencadenó la invasión de Egipto por parte del Reino Unido, Francia e Israel, lo que provocó un amplio rechazo internacional. La crisis aceleró el declive de la libra esterlina como moneda de reserva mundial, indi…",
+      "Url": "https://noticiaslatam.lat/20260604/el-fiasco-de-eeuu-en-iran-podria-suponer-el-fin-del-dolar-como-moneda-mundial-advierten-medios-1173735924.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1173735924.jpg?11499057971780587064",
+      "PublishedAt": "2026-06-04T15:31:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/EBDR5DS4ARHMZK4MDOCD3Q3X4Q.png?smart=true&auth=694ae4d1ee0365d555d08e60a7cdc25567dcac4d7567dd2e94402b731a6daa0e&width=1200&height=630",
       "PublishedAt": "2026-05-07T16:47:04Z",
       "Content": "El peso mexicano inicia la jornada de este jueves 7 de mayo con ligera ganancia ante el dólar tras la publicación del dato de inflación de abril, mientras que los analistas esperan la decisión de pol… [+1784 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay cae por cuarta jornada consecutiva y se aleja de los $ 40 a nivel interbancario",
-      "Description": "El dólar cayó por cuarta jornada consecutiva y cerró por debajo de los $ 40, mientras el riesgo país subió a 59 puntos y la tasa call se mantuvo en el objetivo del BCU.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-cae-por-cuarta-jornada-consecutiva-y-se-aleja-de-los-40-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
-      "PublishedAt": "2026-05-07T06:05:00Z",
-      "Content": "El dólaren Uruguaycayó ayer por cuarta jornada consecutiva, en esta oportunidad 0,26%, y se negoció en promedio en $39,868. El billete verde cotizó en la jornada entre $ 39,82 y $ 39,95, para finaliz… [+1279 chars]"
     }
   ]
 }
