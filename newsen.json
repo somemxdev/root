@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dailymail.com"
+      },
+      "Author": "Nick Allen",
+      "Title": "Inside Trump's plan to put himself on money forever: The $250 'Don dollar,' a secret artist... and why George Washington would not approve",
+      "Description": "It seems part of a wider effort to secure President Trump's enduring legacy.",
+      "Url": "https://www.dailymail.com/news/article-15865961/Trump-plan-money-forever-dollar.html",
+      "UrlToImage": "https://i.dailymail.com/1s/2026/06/04/20/109025647-0-image-a-1_1780601369226.jpg",
+      "PublishedAt": "2026-06-04T19:29:40Z",
+      "Content": "In 1864, amid the Civil War, an ambitious government official made a very Trumpian move.\r\nSpencer Clark, the first Superintendent of the National Currency Bureau, had been instructed to put the face … [+10640 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
