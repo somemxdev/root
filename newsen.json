@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dailymail.com"
+      },
+      "Author": "Benjamin Curry",
+      "Title": "A $6,700 Social Security pay cut? The trillion-dollar timebomb that could slash your benefits by 25% or more if Congress doesn't fix the problem",
+      "Description": "An ominous, multi-trillion-dollar time bomb is quietly ticking under the retirement dreams of nearly 70 million Americans.",
+      "Url": "https://www.dailymail.com/yourmoney/article-15874413/social-security-pay-cut-trillion-dollar-timebomb-slash-benefits.html",
+      "UrlToImage": "https://i.dailymail.com/1s/2026/06/04/19/109132075-0-image-m-20_1780596638663.jpg",
+      "PublishedAt": "2026-06-04T23:33:35Z",
+      "Content": "An ominous, multi-trillion-dollar time bomb is quietly ticking under the retirement dreams of nearly 70 million Americans.\r\nA terrifying new analysis reveals that if Congress fails to step in, the vi… [+3845 chars]"
+    },
     {
       "Source": {
         "Id": null,
