@@ -1,8 +1,164 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PRNewswire"
+      },
+      "Author": null,
+      "Title": "BANCO SANTANDER, S.A. ANNOUNCES RESULTS OF TENDER OFFER FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES",
+      "Description": "SANTANDER, Spain, June 10, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing the results of its tender offer (the \"Offer\") to purchase for cash up to $850,000,000 (the \"Maximum Offer Amount\") of its outstandin…",
+      "Url": "https://www.prnewswire.com/news-releases/banco-santander-sa-announces-results-of-tender-offer-for-one-series-of-its-us-dollar-denominated-additional-tier-1-securities-302796619.html",
+      "UrlToImage": "https://mmx.prnewswire.com/media/MS1849403/Santander-Logo.jpg?id=OA2695564&p=facebook",
+      "PublishedAt": "2026-06-10T10:45:00Z",
+      "Content": "SANTANDER, Spain, June 10, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing the results of its tender offer (the \"Offer\") to purchase for cash up to… [+8309 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "BL Mumbai Bureau",
+      "Title": "Karur Vysya Bank hikes FCNR (B) US Dollar interest rate by 437 bps for maturities of 3-5 years",
+      "Description": "Karur Vysya Bank raises FCNR(B) US Dollar deposit rates to 7% for 3-5 years, boosting foreign currency inflows.",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/karur-vysya-bank-hikes-fcnr-b-us-dollar-interest-rate-by-437-bps-for-maturities-of-3-5-years/article71084128.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/news/d9ise3/article70956249.ece/alternates/LANDSCAPE_1200/Karur-Vysya-Bank_2_1_AP8KC8F9.jpg",
+      "PublishedAt": "2026-06-10T08:55:55Z",
+      "Content": "Karur Vysya Bank has increased its FCNR(B) US Dollar (USD) deposit rates for maturities of 3 years to 5 years to 7 per cent per annum from the earlier rate of 2.63% per annum with effect from June 10… [+1091 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bankier.pl"
+      },
+      "Author": "Redaktor Bankier.pl",
+      "Title": "BANCO SANTANDER S.A.: Banco Santander announces results of tender offer for one series of its U.S. dollar-denominated additional Tier 1 securities",
+      "Description": "Spis treści:1. REPORT2. INFORMATION ABOUT THE ENTITY3. SIGNATURE OF PERSONS REPRESENTING THE COMPANYSpis załączników:Wings - Results OIR Announcement (EN).pdf td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word;...",
+      "Url": "https://www.bankier.pl/wiadomosc/BANCO-SANTANDER-S-A-Banco-Santander-announces-results-of-tender-offer-for-one-series-of-its-U-S-dollar-denominated-additional-Tier-1-securities-9148777.html",
+      "UrlToImage": "https://galeria.bankier.pl/p/6/9/663ed7264204bb-thumb-1000.jpg",
+      "PublishedAt": "2026-06-10T08:10:57Z",
+      "Content": "Banco Santander announces results of tender offer for one series of its U.S. dollar-denominated additional Tier 1 securities"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Post Nigeria"
+      },
+      "Author": "Ogaga Ariemu",
+      "Title": "Dollar to Naira exchange rate today, June 9, 2026: Nigerian currency extends appreciation",
+      "Description": "The naira extended appreciation against the dollar at the official foreign exchange market on Tuesday. The Central Bank of Nigeria's data showed that the Naira strengthened on Tuesday to N1,360.55 per dollar up from N1,362.84 traded on Monday. This means that…",
+      "Url": "https://dailypost.ng/2026/06/09/dollar-to-naira-exchange-rate-today-june-9-2026-nigerian-currency-extends-appreciation/",
+      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2019/07/naira-dollar-4-1.jpg",
+      "PublishedAt": "2026-06-09T21:11:06Z",
+      "Content": "The naira extended appreciation against the dollar at the official foreign exchange market on Tuesday.\r\nThe Central Bank of Nigeria’s data showed that the Naira strengthened on Tuesday to N1,360.55 p… [+513 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Canadian dollar slides to 2026 low as traders expect Bank of Canada to hold rates",
+      "Description": "The Canadian dollar's decline highlights vulnerabilities in Canada's economy, affecting trade dynamics and inflation, while benefiting exporters.\nThe post Canadian dollar slides to 2026 low as traders expect Bank of Canada to hold rates appeared first on Cryp…",
+      "Url": "https://cryptobriefing.com/canadian-dollar-slides-2026-low-bank-of-canada/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09164906/canadian-dollar-cad-the-canadian-encyclopedia-800x420.jpeg",
+      "PublishedAt": "2026-06-09T20:49:14Z",
+      "Content": "The loonie hit its weakest level since December as speculators pile into bearish bets, with the central bank widely expected to keep rates frozen at 2.25%. The Canadian dollar dropped to 1.3969 again… [+2764 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Canada Dollar Hits 2026 Low as Traders See Central Bank on Hold",
+      "Description": "The Canadian dollar slid to its lowest level since December on Tuesday, as traders anticipated the Bank of Canada will be slower than its global peers to raise interest rates.",
+      "Url": "https://financialpost.com/pmn/business-pmn/canada-dollar-hits-2026-low-as-traders-see-central-bank-on-hold",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/canadian-dollar-falls-to-a-fresh-2026-low-near-term-support.jpg",
+      "PublishedAt": "2026-06-09T17:20:09Z",
+      "Content": "(Bloomberg) The Canadian dollar slid to its lowest level since December on Tuesday, as traders anticipated the Bank of Canada will be slower than its global peers to raise interest rates.\r\nTHIS CONTE… [+3538 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Acast.com"
+      },
+      "Author": null,
+      "Title": "Money Talks: 500 Years of the Dollar",
+      "Description": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollar—and the astonishing power this currency held long before the founding of the United States.Join Slate Plus to unlock weekly bonu…",
+      "Url": "https://shows.acast.com/slate-money/episodes/6a272df5401089d02d6dea23",
+      "UrlToImage": "https://open-images.acast.com/shows/695ead68a32e86d775858194/show-cover.jpg?height=315",
+      "PublishedAt": "2026-06-09T07:00:00Z",
+      "Content": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollarand the astonishing power this currency held long before the founding… [+344 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slate Magazine"
+      },
+      "Author": "Elizabeth Spiers",
+      "Title": "Old Money: The Long History of the Dollar",
+      "Description": "Brendan Greeley offers up the surprising origin story of our favorite currency.",
+      "Url": "https://slate.com/podcasts/slate-money/2026/06/business-the-500-year-history-of-the-dollar",
+      "UrlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "PublishedAt": "2026-06-09T07:00:00Z",
+      "Content": "If you can't access your feeds, please contact customer support.Thanks! Check your phone for a link to finish setting up your feed.\r\nPlease enter a valid phone number.\r\nListen on your phone:RECOMMEND… [+170 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Canadian dollar hits fresh 2026 low as currency is buffeted by several headwinds, says National Bank of Canada",
+      "Description": "The Canadian dollar slumped to a new closing low for 2026 of 71.67 cents US as the currency is buffeted by several headwinds. Find out more.",
+      "Url": "https://financialpost.com/news/economy/canadian-dollar-2026-low-headwinds-national-bank",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/no0608loonie.jpg",
+      "PublishedAt": "2026-06-08T21:33:11Z",
+      "Content": "The Canadian dollar on Monday slumped to a new closing low for 2026 of 71.67 cents U.S., with economists at National Bank of Canada singling out gold as a key factor behind the loonies weakness.\r\nTHI… [+4837 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "ProCap Finance CEO Anthony Pompliano predicts Bitcoin will rise as dollar weakens",
+      "Description": "Bitcoin's potential rise amid dollar weakening could drive institutional demand, but investors must weigh risks of echo chamber predictions.\nThe post ProCap Finance CEO Anthony Pompliano predicts Bitcoin will rise as dollar weakens appeared first on Crypto Br…",
+      "Url": "https://cryptobriefing.com/pompliano-bitcoin-dollar-weakens-prediction/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05140106/bitcoin-price-prediction-btc-and-usd-fractal-reappearance-tr-1-800x420.jpeg",
+      "PublishedAt": "2026-06-05T18:01:07Z",
+      "Content": "The outspoken Bitcoin advocate argues that $40 trillion in national debt and a declining dollar make a million-dollar BTC inevitable. Anthony Pompliano has never been accused of underselling Bitcoin.… [+2659 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Rhodilee Jean Dolor",
+      "Title": "Billion-Dollar Bank Paying $4,919,631 To Settle Accusations of Unjust Enrichment After Forgiving Ineligible Payment Protection Program Loan",
+      "Description": "An Alabama-headquartered bank with $157.4 billion in consolidated assets has agreed to settle allegations stemming from its forgiveness of a pandemic-era business loan. The US Department of Justice says that on or about August 3rd, 2021, Regions Bank approved…",
+      "Url": "https://dailyhodl.com/2026/06/05/billion-dollar-bank-paying-4919631-to-settle-accusations-of-unjust-enrichment-after-forgiving-ineligible-payment-protection-program-loan/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/sparked-bank-withdraw.jpg?resize=1365,800",
+      "PublishedAt": "2026-06-05T15:40:04Z",
+      "Content": "An Alabama-headquartered bank with $157.4 billion in consolidated assets has agreed to settle allegations stemming from its forgiveness of a pandemic-era business loan.\r\nThe US Department of Justice … [+1926 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Israelnationalnews.com"
+      },
+      "Author": null,
+      "Title": "US Dollar exchange rate climbs to 2.91 shekels",
+      "Description": "The US dollar continues to strengthen this morning (Friday) against the shekel. The US dollar is up 0.5% and is trading at 2.91 shekels. The euro is up 0.6% to 3.383 shekels, and the pound is up 0.6% and is trading at 3.911 shekels.",
+      "Url": "https://www.israelnationalnews.com/flashes/687039",
+      "UrlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "PublishedAt": "2026-06-05T07:35:59Z",
+      "Content": "The US dollar continues to strengthen this morning (Friday) against the shekel. The US dollar is up 0.5% and is trading at 2.91 shekels. The euro is up 0.6% to 3.383 shekels, and the pound is up 0.6%… [+32 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -223,71 +379,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-131032806,width-1200,height-630,imgsize-2253741,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2026-05-12T08:00:40Z",
       "Content": "For years, the Gulf sold itself as the one corner of the world where money never stopped moving.Lunch tables that once hosted IPO pitches and billion-dollar takeover conversations began emptying out.… [+7476 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Stocks steady, dollar firms as US-Iran talks hit stalemate - Yahoo Finance",
-      "Description": "Stocks steady, dollar firms as US-Iran talks hit stalemateYahoo Finance Stock market today: S&P 500 and Nasdaq rise, Dow muted after Trump rejects Iran's response to peace planYahoo Finance S&P 500, Nasdaq hit record highs as chip strength offsets Iran worrie…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=183185724",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-11T18:12:26Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "X",
-      "Title": "California Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofits",
-      "Description": "California Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofits “What we have learned is absolutely beyond belief — Tens of thousands of people donated raising a hundred million do…",
-      "Url": "https://freerepublic.com/focus/f-bloggers/4377994/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-06T20:07:15Z",
-      "Content": "Skip to comments.\r\nCalifornia Rep Kevin Kiley says they have learned the $100 million dollar pacific palisades Fire Aid concert money was laundered to nonprofitsX ^\r\n | 05/06/2026\r\n | Wall Street Ape… [+5258 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Thomas Kent",
-      "Title": "‘Hidden tax’ on Americans as US dollar drops 10% — why your money buys less and how to protect your portfolio",
-      "Description": "Are you prepared for the impact a weak dollar will have on the economy?",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/hidden-tax-americans-us-dollar-110000535.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/AJdhCiJBkidisFYPj9qAzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/56bde28533bd849d2e74eecfa4a7aff3",
-      "PublishedAt": "2026-05-06T11:00:00Z",
-      "Content": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nThe U.S. dollar has fallen roughly 10% against major global currencies since Donald Trump returned … [+10384 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Maldives’ Biggest Bank Seeks Dollar Sukuk as War Hits Tourism",
-      "Description": "Bank of Maldives Plc is holding global investor meetings to gauge appetite for what would be its first foray into international capital markets, a transaction that may help buttress the island nation’s key tourism industry against fallout from the Middle East.",
-      "Url": "https://financialpost.com/pmn/business-pmn/maldives-biggest-bank-seeks-dollar-sukuk-as-war-hits-tourism",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-05T13:13:51Z",
-      "Content": "(Bloomberg) Bank of Maldives Plc is holding global investor meetings to gauge appetite for what would be its first foray into international capital markets, a transaction that may help buttress the i… [+4823 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Shivam Shukla",
-      "Title": "Rupee falls to 95.16 vs dollar; Steve Hanke warns of further slide—5 ways it hits your personal finance",
-      "Description": "Rupee falls to ₹95.16/USD, highlighting currency weakness, as Steve Hanke warns of a continued slide without inflows, which could impact inflation, travel costs, EMIs, investments and savings across the country.&nbsp;",
-      "Url": "https://www.livemint.com/money/personal-finance/rupee-falls-to-95-16-vs-dollar-steve-hanke-warns-of-further-slide-5-ways-it-hits-your-personal-finance-11777967994475.html",
-      "UrlToImage": "https://www.livemint.com/lm-img/img/2026/05/05/1600x900/logo/lm_story_1_1758002274847_1758002295012_1777969088372.png",
-      "PublishedAt": "2026-05-05T09:12:23Z",
-      "Content": "Are you planning your dream vacation abroad or taking an EMI on a personal loan, only to see your savings erode as the rupee continues to weaken against the dollar? This stark reality came into focus… [+4850 chars]"
     }
   ]
 }

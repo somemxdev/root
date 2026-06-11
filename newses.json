@@ -1,8 +1,125 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Inflació en EU ‘echa una mano’ al peso: ¿Cuánto gana al dólar HOY 10 de junio?",
+      "Description": "La guerra en Irán, el principal factor que ha 'erosionado' los salarios en EU, se complicó aún más después de que Irán derribara un helicóptero con dos soldados estadounidenses.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/10/peso-dolar-precio-hoy-10-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BV2UQ5IQX5D2RO5SJGQC7X5FZ4.png?smart=true&auth=40d77f0955d966524d19cb9bdacded76054a0fd3e4dfa8682f05e6f6e2980994&width=1200&height=630",
+      "PublishedAt": "2026-06-10T16:12:41Z",
+      "Content": "El retroceso del dólar en los mercados se extiende a este miércoles 10 de junio después de que la inflación en Estados Unidos se ubicó en su punto más alto de los últimos tres años, en parte por la g… [+1840 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Rublo ruso pega una ‘paliza’ al dólar: ¿Cuándo se aprecia el peso HOY 9 de junio?",
+      "Description": "En los bancos, el peso mexicano se cotiza debajo de las 18 unidades, reportó el banco Banamex. El rublo ruso se aprecia casi 2% en la sesión de este martes.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/09/peso-dolar-precio-hoy-9-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3ALD74GS7RCGVH7FUUSLLQRO7M.png?smart=true&auth=8123dbb4b6ab11d1bfc88bf613bf3ba1caf7765d66d4679c0249d18ccadc7af2&width=1200&height=630",
+      "PublishedAt": "2026-06-09T15:59:22Z",
+      "Content": "El peso mexicano gana ante el dólar este martes 9 de junio gracias a una menor aversión al riesgo entre el mercado. En el mercado local, los inversionista asimilan el dato de inflación de mayo que fu… [+1600 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "RÉCORD",
+      "Title": "Dólar hoy 9 de junio de 2026: así amaneció el tipo de cambio frente al peso",
+      "Description": "Así amaneció el tipo de cambio frente al peso",
+      "Url": "https://www.record.com.mx/historia/dolar-hoy-9-de-junio-de-2026-asi-amanecio-el-tipo-de-cambio-frente-al-peso-2026060213222637801",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/03062026/e0611fb3-bbd1-475b-9dd0-509c8e29ca44.jpg?operations=autocrop(1200:630)",
+      "PublishedAt": "2026-06-09T13:20:00Z",
+      "Content": "El precio del dólar hoy 9 de junio de 2026 se ubica alrededor de los 17.38 pesos por unidad.\r\nPara quienes tienen previsto comprar dólares, realizar pagos en moneda extranjera o viajar a Estados Unid… [+505 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay empieza la semana con una leve suba y se negocia en $ 40,50 a nivel del interbancario",
+      "Description": "El billete verde cotizó ayer entre $ 40,47 y $ 40,50 para finalizar en el máximo, con un alza de 0,25% respecto al viernes.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-empieza-la-semana-con-una-leve-suba-y-se-negocia-en-40-50-a-nivel-del-interbancario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
+      "PublishedAt": "2026-06-09T06:00:00Z",
+      "Content": "El dólar en Uruguay comenzó la semana con una leve suba de 0,07% y se negoció en promedio en $ 40,498. El billete verde cotizó ayer entre $ 40,47 y $ 40,50 para finalizar en el máximo, con un alza de… [+1297 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca la semana con ‘el pie derecho’: ¿Cuánto gana HOY frente al dólar pese a guerra en Irán?",
+      "Description": "El tipo de cambio se ubica en los 17.4615 pesos por dólar, lo que representa una apreciación de 0.10 por ciento o 1.78 centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/08/peso-dolar-precio-hoy-8-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MLKGC4HOCBHAJGUML6FUN7WVHU.jpg?smart=true&auth=b5b4c4dfb3b7119af4da780e8fc7494ea3831baa9171d92bd3109fbdbb8e6404&width=1200&height=630",
+      "PublishedAt": "2026-06-08T15:36:32Z",
+      "Content": "La cotización del peso mexicano inicia la jornada de este lunes 8 de junio operando con ganancias moderadas, a medida que los inversionistas muestran una menor aversión al riesgo, en espera de ver có… [+1536 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar pone rumbo al soporte clave de los 1,14",
+      "Description": "A la vista del gráfico semanal de medio y largo plazo podemos ver cómo el cruce se muestra impasible a cualquier dato macro europeo y de Wall Street, así como a las futuras...",
+      "Url": "https://www.expansion.com/mercados/2026/06/08/6a1d325ce5fdea060e8b45aa.html",
+      "UrlToImage": "https://e01-phantom-expansion.uecdn.es/aba583ee7ffa573916f236cbcca01800/resize/1200/f/webp/assets/multimedia/imagenes/2026/06/05/17806737992737.jpg",
+      "PublishedAt": "2026-06-08T05:19:12Z",
+      "Content": "Dilataciones puntuales aparte el cruce lleva encajado dentro de un estrecho movimiento lateral desde hace justo un año.A la vista del gráfico semanal de medio y largo plazo podemos ver cómo el cruce … [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar vuelve a situarse por debajo de ¢460",
+      "Description": "Este viernes el precio del dólar volvió a caer en Monex; se redujo ¢2,19 respecto al cierre del jueves",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-vuelve-a-situarse-por/JBQQBVOEZVFPHLFFLOYEAHDFIQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
+      "PublishedAt": "2026-06-05T19:56:24Z",
+      "Content": "El tipo de cambio del dólar respecto al colón volvió a situarse por debajo de ¢460 luego de tres sesiones consecutivas por encima de ese umbral en el Mercado de Monedax Extranjeras (Monex). \r\nEl prec… [+2493 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "EU ‘mete el pie’ al peso: Se deprecia 1.3% ante el dólar tras reporte de empleo",
+      "Description": "El reporte de empleo en EU muestra que a pesar de la inflación provocada por la guerra en Irán, la economía más grande del mundo tiene más espacio para crecer, lo que contribuyó a un fortalecimiento del dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/05/peso-dolar-precio-hoy-5-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/F5AAVD3KTZCFXK7M5QHECDEJDQ.png?smart=true&auth=506eaed9594a47df29e84589dded2b3c65a22a75747513998be1d0b53660b5ed&width=1200&height=630",
+      "PublishedAt": "2026-06-05T16:46:44Z",
+      "Content": "El peso mexicano sufre ante el dólar este viernes 5 de junio después de que el reporte de empleo en Estados Unidos de mayo superó todas las expectativas de los especialistas. \r\nLas nóminas no agrícol… [+1638 chars]"
+    },
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Putin: El robo de las reservas de Rusia afectó de forma irreversible a la posición del dólar y del euro",
+      "Description": "Según el presidente ruso, fueron los propios países occidentales los que provocaron el deterioro del comercio mundial cuando dejaron de obtener beneficios de él.",
+      "Url": "https://actualidad.rt.com/actualidad/609208-putin-occidente-le-interesan-reglas-comunes-comercio",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/article/6a22d42e59bf5b69a7284f6b.jpg",
+      "PublishedAt": "2026-06-05T13:44:43Z",
+      "Content": "<ul><li>Rusia acoge del 3 al 6 de junio el Foro Económico Internacional de San Petersburgo, el principal evento empresarial del país y uno de los mayores escenarios internacionales para debatir cuest… [+403 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -275,123 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/NYMECLEQVZDIVEEMGTPQ73SPWY.jpg?smart=true&auth=16f2d455bfaefd9ca2f05110b7feb17d8a450105df04764b2bea7326e9e93394&width=1200&height=630",
       "PublishedAt": "2026-05-15T18:10:05Z",
       "Content": "El peso mexicano inició la sesión ampliando sus pérdidas previas, ante la falta de acuerdo geopolíticos para poner fin al conflicto armado en Medio Oriente, lo que sigue limitando el apetito por acti… [+1600 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar marca nuevo mínimo histórico en Monex por segundo día consecutivo",
-      "Description": "Precio del dólar tocó un nuevo mínimo por segunda sesión consecutiva en Monex desde diciembre de 2007",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-marca-nuevo-minimo/CFSRZ5TM3VCCRPSDIGPBGMP53Y/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
-      "PublishedAt": "2026-05-14T19:33:27Z",
-      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo durante la sesión de este jueves 14 de mayo en el Mercado de Monedas Extranjeras (Monex) y registró su valor más bajo de la serie… [+538 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Criptonoticias.com"
-      },
-      "Author": "Martín Arrúa",
-      "Title": "Société Générale expandirá sus stablecoins del dólar y el euro a la red Canton",
-      "Description": "El banco francés busca fortalecer su infraestructura financiera digital con foco en liquidación y garantías tokenizadas.\nLa entrada Société Générale expandirá sus stablecoins del dólar y el euro a la red Canton se publicó primero en CriptoNoticias - Noticias …",
-      "Url": "https://www.criptonoticias.com/mercados/societe-generale-expandira-stablecoins-dolar-euro-canton/",
-      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2026/05/canton-network-societe-generale.jpg",
-      "PublishedAt": "2026-05-14T10:31:38Z",
-      "Content": "<ul><li>Société Générale realizó en 2025 su primera emisión de bonos tokenizados en EE.UU.\r\n</li><li>La firma también se unirá a Canton Network como super validador del ecosistema.\r\n</li></ul>\r\nSocié… [+3607 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso mexicano resiste presión del dólar y gana terreno tras dato de inflación en EU; así abre HOY",
-      "Description": "La moneda mexicana opera con ganancias marginales en medio de un mayor fortalecimiento del billete verde.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/13/peso-dolar-hoy-13-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4LOJZ65YLVFKLNR7W5IWOY4TMA.png?smart=true&auth=d98e9fd5c3a19917834a465c1d81e3f22a888247555cb9cd57ed790d90499d06&width=1200&height=630",
-      "PublishedAt": "2026-05-13T15:44:02Z",
-      "Content": "La moneda mexicana opera este miércoles 13 de mayo con ganancias marginales en medio de un mayor fortalecimiento del billete verde, a medida que los inversionistas asimilan una mayor inflación al pro… [+1588 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Ignacio Grimaldi",
-      "Title": "Dólar blue: la Justicia estimó que el perjuicio al Estado fue de US$607 millones en efectivo y cuestionó el rol del Banco Central",
-      "Description": "Además, la jueza Servini dispuso un embargo de $859 mil millones sobre Elías Piccirillo y más de cien financistas y casas de cambio; puso la lupa sobre operaciones no informadas y el accionar de las autoridades",
-      "Url": "https://www.lanacion.com.ar/politica/dolar-blue-la-justicia-estimo-que-el-perjuicio-al-estado-fue-de-us607-millones-en-efectivo-y-nid12052026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/elias-piccirillo-exesposo-de-jesica-cirio-fue-NROWFDYIXJESRNY7T2VCUWSCGM.JPG?auth=191727cd5f8388f566a1a4ec81a421824109cdf6b606d514b879c50144261242&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-05-12T21:08:25Z",
-      "Content": "La Justicia le puso por primera vez un número al presunto perjuicio al Estado por el circuito del dólar blue durante la gestión de Alberto Fernández: US$607 millones. \r\nEl cálculo se basa en un traba… [+5552 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "RÉCORD",
-      "Title": "Precio del dólar hoy 11 de mayo: Peso gana terreno y la divisa cae a 17.20",
-      "Description": "El billete verde se cotiza promedio en 16.84 pesos a la compra y 17.43 pesos a la venta",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-11-de-mayo-peso-gana-terreno-y-la-divisa-cae-a-1720-2026051113294841653",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17042026/a6becf68-0eee-4598-8251-f78684c7a38d.jpg?operations=crop(0:0:1300:731),autocrop(1200:630)",
-      "PublishedAt": "2026-05-11T13:29:48Z",
-      "Content": "El precio del dólar hoy lunes 11 de mayo de 2026 arrancó la jornada en 17.20 pesos por unidad, mostrando una nueva baja frente al peso mexicano y consolidando una tendencia descendente en el tipo de … [+1932 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay retrocede 1,26% en la semana a nivel interbancario y se aleja de la barrera de los $ 40",
-      "Description": "El billete verde se negoció en promedio en $ 39,747 a nivel interbancario y cerró la jornada en $ 39,73, un 0,18% por debajo del cierre anterior.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-retrocede-1-26-en-la-semana-a-nivel-interbancario-y-se-aleja-de-la-barrera-de-los-40",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/d4a4c24/2147483647/strip/true/crop/1875x1172+0+39/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7e%2Ff0106e5a4edfb98137b8d076743b%2Fdolar-americano-y-pes-11671165.jpg",
-      "PublishedAt": "2026-05-09T06:05:00Z",
-      "Content": "Eldólar en Uruguay quedó prácticamente estable ayer (tuvo una ínfima baja de 0,01%), luego de cinco jornadas consecutivas a la baja, y se negoció en promedio en $ 39,747 a nivel interbancario. En la … [+1836 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso se perfila para ganancia semanal de más de 20 centavos ante el dólar",
-      "Description": "Monedas como la corona noruega y el florín húngaros se aprecian casi 1%, aprovechando la debilidad del dólar por una nueva decisión contra los aranceles de Donald Trump.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/08/peso-dolar-precio-hoy-8-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/S2TQD7ULOJBU3NIZ55IOXZOXDU.png?smart=true&auth=ea9c8363e5b27bc1c1c7b64b7cc79c0e738ae540ff734cb223e1c2eb144ebfec&width=1200&height=630",
-      "PublishedAt": "2026-05-08T17:06:51Z",
-      "Content": "El peso mexicano se aprecia ante el dólar en el cierre de la semana, mientras el mercado asimila el reporte de empleos en Estados Unidos y la decisión de un juez en ese país de declarar como ilegal e… [+1706 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marcos Rodríguez",
-      "Title": "El Banco de Pagos Internacionales alerta de que las criptomonedas ligadas al dólar amenazan la soberanía monetaria de Europa",
-      "Description": "En plena apuesta de Europa por el euro digital, el auge de las llamadas stablecoins criptomonedas diseñadas para mantener un valor estable y normalmente vinculadas al dólar deja de ser una cuestión exclusiva del ecosistema cripto y se convierte también en una…",
-      "Url": "https://www.elperiodico.com/es/economia/20260508/banco-pagos-internacionales-bis-alerta-criptomonedas-dolar-amenazan-soberania-monetaria-europa-dv-130001766",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/0e072966-f52f-4d88-bca9-c6c87e9fe515_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2026-05-08T13:00:04Z",
-      "Content": "En plena apuesta de Europa por el euro digital, el auge de las llamadas stablecoins criptomonedas diseñadas para mantener un valor estable y normalmente vinculadas al dólar deja de ser una cuestión e… [+4669 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso, en ‘modo zen’ ante el dólar a la espera de la decisión del Banxico: Así está el tipo de cambio HOY",
-      "Description": "La mayoría de los especialistas prevén que el Banco de México recorte la tasa de interés a 6.50 por ciente este jueves... pero que tambiém sea la última reducción del año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/07/peso-dolar-precio-hoy-7-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/EBDR5DS4ARHMZK4MDOCD3Q3X4Q.png?smart=true&auth=694ae4d1ee0365d555d08e60a7cdc25567dcac4d7567dd2e94402b731a6daa0e&width=1200&height=630",
-      "PublishedAt": "2026-05-07T16:47:04Z",
-      "Content": "El peso mexicano inicia la jornada de este jueves 7 de mayo con ligera ganancia ante el dólar tras la publicación del dato de inflación de abril, mientras que los analistas esperan la decisión de pol… [+1784 chars]"
     }
   ]
 }
