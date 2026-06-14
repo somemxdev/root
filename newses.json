@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El detalle que debe tener la moneda de centavo de dólar para que alcance un valor de hasta US$340.000",
+      "Description": "La pieza es de las más buscadas por los especialistas debido a un rasgo específico de su diseño, sumado a su escasez y estado de conservación",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/el-detalle-que-debe-tener-la-moneda-de-centavo-de-dolar-para-que-alcance-un-valor-de-hasta-us340000-nid12062026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-moneda-valiosa-pertenece-a-la-serie-denominada-OPJMYALYKRGYLEVK7GK6ZHZGT4.jpg?auth=c6492062e56c0c6e2a082422d97cfc7385c9d1f322f49b2b444ff5c7a38063c3&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-06-12T22:05:00Z",
+      "Content": "Las monedas antiguas de Estados Unidos despiertan interés en el mercado de coleccionistas por sus características históricas y por los elementos que las diferencian de otras emisiones. Entre ellas de… [+3513 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar se mantiene por debajo de ¢460",
+      "Description": "Este viernes el precio del dólar se redujo ¢2,09 en Monex respecto al cierre del mismo día de la semana pasada",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-se-mantiene-por-debajo-de/TT2BACTZG5AAROGKA7DW66LF7M/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/IJLSFT3TCRGBJNZIRKO6OFROPQ.jpg?smart=true&auth=581fab4e9b7da778de44ce4c080db5b1e69a29f336c637aef2ab9d7aac5b07b8&width=1440",
+      "PublishedAt": "2026-06-12T21:53:50Z",
+      "Content": "El tipo de cambio del dólar respecto al colón se mantuvo por debajo de ¢460 en el Mercado de Monedas Extranjeras (Monex) durante la semana tras situarse por encima de ese umbral entre el 2 y el 4 de … [+2418 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CQSYYHOALZAGPKT64R2NADDBAE.png?smart=true&auth=2e5232a1c9cbdfa2d1b91a682f5c2675aace887a9c562b1b1e3e152926b3fca3&width=1200&height=630",
       "PublishedAt": "2026-05-18T16:53:46Z",
       "Content": "El peso avanza ante el dólar este lunes18 de mayo ante noticias que apuntan a un avance en las negociaciones entre Donald Trump e Irán para alcanzar un acuerdo de paz que reabra el Estrecho de Ormuz.… [+1789 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "RÉCORD",
-      "Title": "Precio del dólar hoy 18 de mayo: Tipo de cambio se mantiene estable en el arranque de semana",
-      "Description": "El billete verde se cotiza al inicio de la jornada en 16.95 pesos a la compra y 17.56 pesos a la venta",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-18-de-mayo-tipo-de-cambio-se-mantiene-estable-en-el-arranque-de-semana-2026051813260941154",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/18032026/51e85e11-3db1-42ef-9ef6-6ff9ca68a258.jpg?operations=crop(0:0:1152:648),autocrop(1200:630)",
-      "PublishedAt": "2026-05-18T13:26:09Z",
-      "Content": "El precio del dólar hoy lunes 18 de mayo de 2026 se ubica en 17.27 pesos por unidad, mostrando un comportamiento estable en el inicio de operaciones bancarias en México.\r\nLa moneda estadounidense ini… [+2162 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio sigue bajando: precio del dólar marca nuevo mínimo histórico por tercer día consecutivo",
-      "Description": "El precio del dólar mantiene tendencia a la baja y toca un nuevo mínimo en Monex",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-sigue-bajando-precio-del-dolar/AQGY265TONFGVOOF7KTYM3KWNU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/YJBGXBB3SRDLDDME2MJCVNOVCU.jpg?smart=true&auth=34940830d963ca09376ff1b2fbb1a0333760f2c49ccfced5ce8a64734ce72ea2&width=1440",
-      "PublishedAt": "2026-05-15T19:19:29Z",
-      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo durante la sesión de este viernes 15 de mayo en el Mercado de Monedas Extranjeras (Monex) y registró su valor más bajo de la seri… [+547 chars]"
     }
   ]
 }

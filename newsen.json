@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twistedsifter.com"
+      },
+      "Author": "Jayne Elliott",
+      "Title": "‘Every Last Dollar’: Woman Empties Her Account After Bank Hits Her With Unexplained Service Fees",
+      "Description": "Nobody likes banking fees.\nThe post ‘Every Last Dollar’: Woman Empties Her Account After Bank Hits Her With Unexplained Service Fees appeared first on TwistedSifter.",
+      "Url": "http://twistedsifter.com/2026/06/every-last-dollar-woman-empties-her-account-after-bank-hits-her-with-unexplained-service-fees/",
+      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2026/04/too-many-banking-fees.jpg",
+      "PublishedAt": "2026-06-12T22:55:27Z",
+      "Content": "Shutterstock\r\nImagine having all of your bank accounts and credit cards with one bank. If you looked at your account and noticed that the bank had suddenly taken $200 out of your account for unpaid s… [+2672 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "SBI, Bank of Baroda eye first dollar bonds since RBI subsidy, sources say",
+      "Description": "The RBI said this week that external\ncommercial borrowings with an average ‌maturity of at least three\nyears by state-run ​companies would qualify for a swap facility\nat a fixed rate of ⁠1.5% per annum, compounded semi-annually",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/sbi-bank-of-baroda-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/article71092977.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/vsbzmh/article71093130.ece/alternates/LANDSCAPE_1200/Coordinated-CenGUBG2T5QF.4.jpg.jpg",
+      "PublishedAt": "2026-06-12T10:02:42Z",
+      "Content": "State Bank of India and Bank of Baroda are set to become the first users of the\r\nReserve Bank of India's subsidised hedging window for overseas\r\nborrowings, with plans to raise about $1 billion throu… [+1520 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,58 +353,6 @@
       "UrlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-price.jpeg?fit=1536%2C1024",
       "PublishedAt": "2026-05-18T10:30:37Z",
       "Content": "XRP is back in focus following reports of exposure from Italys largest banking group. The disclosure, highlighted by crypto analyst @Xfinancebull on X, reveals a position tied to the Grayscale XRP Tr… [+3202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Arthur Hayes: Geopolitical conflicts are fueling inflation, nations are rethinking dollar reserves, and the petrodollar’s end could reshape global finance | Unchained",
-      "Description": "AI disruptions and global economic shifts could drive Bitcoin to new heights amid deflationary pressures.\nThe post Arthur Hayes: Geopolitical conflicts are fueling inflation, nations are rethinking dollar reserves, and the petrodollar’s end could reshape glob…",
-      "Url": "https://cryptobriefing.com/arthur-hayes-geopolitical-conflicts-are-fueling-inflation-nations-are-rethinking-dollar-reserves-and-the-petrodollars-end-could-reshape-global-finance-unchained/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141205/unchained-podcast-featured-800x420.png",
-      "PublishedAt": "2026-05-12T21:17:54Z",
-      "Content": "AI disruptions and global economic shifts could drive Bitcoin to new heights amid deflationary pressures. Key Takeaways\r\n<ul><li>A bull market in crypto is expected due to inflation from geopolitical… [+7372 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbc-news",
-        "Name": "CBC News"
-      },
-      "Author": null,
-      "Title": "Budget office estimates Trump's proposed Golden Dome will have trillion-dollar price tag over 20-year period",
-      "Description": "U.S. President Donald Trump's plan to put weapons in space — pitched as a \"Golden Dome for America\" missile defence program — is estimated to cost $1.2 trillion US over a 20-year period, according to a new analysis from the Congressional Budget Office, a far …",
-      "Url": "https://www.cbc.ca/news/world/golden-dome-trump-cbo-cost-estimate-9.7196982",
-      "UrlToImage": "https://i.cbc.ca/ais/fa81bc3f-6e3a-4ec4-887b-f6afa505d7a8,1778614667176/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C3092%2C1739%29%3BResize%3D620",
-      "PublishedAt": "2026-05-12T20:05:25Z",
-      "Content": "U.S. President Donald Trump's plan to put weapons in space pitched as a \"Golden Dome for America\" missile defence program is estimated to cost $1.2 trillion US over a 20-year period, according to a n… [+2621 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NewsX"
-      },
-      "Author": "Aishwarya Samant",
-      "Title": "REVEALED: The Billion-Dollar Truth Behind Airline Ticket Prices & How Airlines Really Make Money",
-      "Description": "Airlines turn one seat into many prices using demand-based pricing and add-ons. Business class funds profits, while economy passengers face extra fees, making the “cheap fare” just an entry point.",
-      "Url": "https://www.newsx.com/business/revealed-the-billion-dollar-truth-behind-airline-ticket-prices-how-airlines-really-make-money-217820/",
-      "UrlToImage": "https://www.newsx.com/wp-content/uploads/2026/05/airline-news.jpg",
-      "PublishedAt": "2026-05-12T13:28:39Z",
-      "Content": "161Airlines will sell you that “cheap” seat from point A to B with glee, but that ticket is really just a boarding pass into the money pit. And once you’ve pressed “book now”-want a seat? That’s opti… [+4952 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Missiles over Dubai rattle the Gulf’s billion-dollar money machine",
-      "Description": "The Gulf's image as a safe financial haven is under strain as regional conflicts disrupt deals and deter investors. Once booming IPO markets are slowing, with billions in transactions stalled. Even Dubai's property sector and major projects face delays and ri…",
-      "Url": "https://economictimes.indiatimes.com/news/international/uae/missiles-over-dubai-rattle-the-gulfs-billion-dollar-money-machine-dubai-property-uae-deal-ipo-market/articleshow/131031967.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131032806,width-1200,height-630,imgsize-2253741,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-05-12T08:00:40Z",
-      "Content": "For years, the Gulf sold itself as the one corner of the world where money never stopped moving.Lunch tables that once hosted IPO pitches and billion-dollar takeover conversations began emptying out.… [+7476 chars]"
     }
   ]
 }
