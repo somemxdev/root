@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Times Of India",
+      "Title": "Diamond trader cheated of Rs 9.11L in dollar exchange scam",
+      "Description": "Diamond trader in Surat alleges Rs 9.11 lakh fraud in Vadodara dollar exchange; six accused including a doctor booked after giving fake bundle with $1 notes.",
+      "Url": "https://timesofindia.indiatimes.com/city/surat/diamond-trader-cheated-of-rs-9-11l-in-dollar-exchange-scam/articleshow/131727803.cms",
+      "UrlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "PublishedAt": "2026-06-14T18:47:21Z",
+      "Content": "Follow Us On Social Media\r\nMerces creek cries for revival as sewage, waste choke watersA second chance on the menu for Vadodara inmatesIndustries hit by delayed groundwater extraction approvals as re… [+1195 chars]"
+    },
     {
       "Source": {
         "Id": null,
