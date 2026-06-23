@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Correcciones en el valor del dólar ayudan al peso: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "Además del peso mexicano, otras monedas que se aprecian ante el dólar este viernes 19 de junio son el won surcoreano y la corona noruega.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/19/peso-dolar-precio-hoy-19-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4UL6ZKNTSRBHTABAFACVS4HP6I.png?smart=true&auth=4bba3299b59f79920de7f33527569f341befa4b978a275f9af262ff6659ac6e3&width=1200&height=630",
+      "PublishedAt": "2026-06-19T16:50:16Z",
+      "Content": "Luego de que el dólar avanzó gracias a la expectativa de un aumento en la tasa de la Fed, el tipo de cambio tiene correcciones este viernes 19 de junio, lo que beneficia a monedas emergentes como el … [+1464 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Tono ‘serio’ de la Fed sobre aumento a tasa afecta a peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Kevin Warsh, nuevo presidente de la Fed, remarcó en conferencia que la Reserva Federal no 'tolerará' una inflación elevada, lo que aumentó las apuestas sobre un aumento a la tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/18/peso-dolar-precio-hoy-18-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2AIXLGIJPREXXP5OIEU7FRBR6M.png?smart=true&auth=f64824bad38b14acb54766aebaadd2833af0bf41d0a62a30c3ef8272edfd34b9&width=1200&height=630",
+      "PublishedAt": "2026-06-18T15:49:11Z",
+      "Content": "La expectativa de que la Reserva Federal subirá su tasa de interés este año debilitó al peso frente al dólar este jueves 18 de junio. \r\nEn su primera decisión de política monetaria al frente de la Fe… [+1843 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso baja de las 17.20 unidades ante el dólar: ¿En cuánto se cotiza HOY 17 de junio?",
+      "Description": "Los inversionistas reciben con ánimo, pero también con cautela, el acuerdo de paz entre EU e Irán.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/17/peso-dolar-precio-hoy-17-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E2CZHGYBW5AOZDIKGOWT46WK54.png?smart=true&auth=441e77cc167e1b576b606f092c03f1d05621748c4faeeae88fcf720da4639c7d&width=1200&height=630",
+      "PublishedAt": "2026-06-17T16:27:53Z",
+      "Content": "El peso mexicano se perfila para ligar su octava jornada de ganancias ante el dólar este 17 de junio, aunque persiste la cautela entre los inversionistas previo a que se firme el acuerdo entre Estado… [+1630 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve alza tras reunión de política del Banco Central y previo al anuncio de la Reserva Federal",
+      "Description": "El tipo de cambio viene de acumular seis jornadas consecutivas a la baja en el compilado de Bloomberg. De sumar otra, sería su racha de caídas más extensa desde mayo de 2024.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-pg6yr",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260617/imag/foto_0000000720260617080349/2023-08-03T211934Z_1994381855_RC2KG2ABEPUU_RTRMADP.jpg",
+      "PublishedAt": "2026-06-17T12:40:19Z",
+      "Content": "Tras varios días cayendo, el dólar abrió levemente al alza este miércoles. Luego de que el Banco Central de Chile mantuviera las tasas de interés y la Reserva Federal (Fed) publique más adelante en l… [+2960 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Enter.co"
+      },
+      "Author": "Digna Irene Urrea",
+      "Title": "¿Por qué el peso colombiano está tan fuerte? Lo que revela la caída histórica del dólar",
+      "Description": "Hace apenas cuatro años hablar de un dólar cerca de los $5.000 parecía una realidad permanente para Colombia. Hoy el escenario es muy distinto. Con una cotización cercana a los $3.400, el peso colombiano atraviesa uno de los momentos de mayor fortaleza frente…",
+      "Url": "https://www.enter.co/colombia/por-que-el-peso-colombiano-esta-tan-fuerte-lo-que-revela-la-caida-historica-del-dolar/",
+      "UrlToImage": "https://www.enter.co/wp-content/uploads/2026/06/Copilot_20260616_101409.png",
+      "PublishedAt": "2026-06-16T15:14:44Z",
+      "Content": "Hace apenas cuatro años hablar de un dólar cerca de los $5.000 parecía una realidad permanente para Colombia. Hoy el escenario es muy distinto. Con una cotización cercana a los $3.400, el peso colomb… [+4697 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar pierde los $ 890 en apertura tras nueva caída del petróleo y previo a decisión de política del Banco Central",
+      "Description": "El petróleo Brent arriesgaba perder la marca de US$ 80 por barril, viendo que la cuenta regresiva antes de la firma oficial del acuerdo entre EEUU e Irán no se ha perturbado hasta el momento.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-na34o",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260616/imag/foto_0000000720260616081306/2025-02-27T185854Z_1228747039_RC253DACAY22_RTRMADP.jpg",
+      "PublishedAt": "2026-06-16T12:43:30Z",
+      "Content": "El dólar abrió de nuevo a la baja este martes, previo a que el Banco Central de Chile publique su anuncio de política y mañana la Reserva Federal (Fed) haga lo propio, mientras se aproxima la firma o… [+1851 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Paz en Medio Oriente ‘serena’ al peso: ¿Cuánto gana al dólar HOY 15 de junio?",
+      "Description": "La moneda que más se aprecia ante el dólar este lunes 15 de junio es la corona sueca, que casi gana 1%.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/15/peso-dolar-precio-hoy-15-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/K6MEPDPOKZGG3FFGMHOWV2SAMQ.png?smart=true&auth=ca9d8e72f5197b636de89cba4667bd0ce45848d15c98c74310c580432de578aa&width=1200&height=630",
+      "PublishedAt": "2026-06-15T16:11:04Z",
+      "Content": "El peso mexicano inicia la semana con ganancias ante el dólar gracias a un mayor apetito por los riesgos fomentado por el acuerdo de paz alcanzado entre Estados Unidos e Irán el fin de semana. \r\nDona… [+1499 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -301,97 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LDI2MWNLZNFTDIIOOTATBDY2VY.png?smart=true&auth=8e18e266091b73d2e5f1aee88b43818633f89d388638a31849e2e03048398754&width=1200&height=630",
       "PublishedAt": "2026-05-26T16:57:43Z",
       "Content": "El dólar se aprecia ante el peso este martes 26 de mayo gracias a correcciones en el mercado mientras Estados Unidos e Irán dan señales contradictorias en su negociación sobre un acuerdo de paz. \r\nA … [+1650 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "El dólar en Uruguay sube por segunda jornada y vuelve al \"piso\" de los $ 40; el Banco Central resuelve sobre la tasa de interés",
-      "Description": "El dólar en Uruguay comienza la semana al alza y vuelve nuevamente al \"piso\" de los $ 40, luego que ayer la moneda estadounidense subiera por segunda jornada consecutiva.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-por-segunda-jornada-y-vuelve-al-piso-de-los-40-el-banco-central-resuelve-sobre-la-tasa-de-interes",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/6d7b2ab/2147483647/strip/true/crop/2658x1661+148+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2F39%2F30bfb6b34f758db436d1e6a90549%2Fimagen-a20240323t060230-m-10-1-20-66-4z-3246-6140-10-f.jpg",
-      "PublishedAt": "2026-05-26T06:00:00Z",
-      "Content": "El dólar en Uruguay comienza la semana al alza y vuelve nuevamente al \"piso\" de los $ 40. Ayer la moneda estadounidense subió por segunda jornada consecutiva (ya lo había hecho el viernes), esta vez … [+1687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso se aprecia ante el dólar a pesar de amenaza de Irán a EU: Así está el tipo de cambio HOY",
-      "Description": "Especialistas advirtieron que la apreciación del peso de este miércoles 20 de mayo es solo una corrección en el tipo de cambio y no un cambio de tendencia.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/20/peso-dolar-precio-hoy-20-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ETWOUBSB4BGAHAJH4QNV4P4L2M.png?smart=true&auth=f2ee4f32a9fb802e242f13d1d011f8301773acd80d4dbdd4f1df349171d12e03&width=1200&height=630",
-      "PublishedAt": "2026-05-20T17:23:16Z",
-      "Content": "A pesar de la incertidumbre entre Estados Unidos Irán, que amenazó con ataques en Medio Oriente, los inversionistas muestran un mayor apetito por activos de riesgo, lo que inyecta debilidad al billet… [+1739 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Milei habló sobre la cotización del dólar hoy: “Si no estuviéramos comprando, el tipo de cambio estaría en $1100″",
-      "Description": "Lo afirmó durante una exposición sobre economía en el Malba",
-      "Url": "https://www.lanacion.com.ar/economia/milei-hablo-sobre-la-cotizacion-del-dolar-hoy-si-no-estuvieramos-comprando-el-tipo-de-cambio-estaria-nid20052026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-milei-en-el-malba-junto-a-7FB7KBIYMBBNHCHIE43RHB5OS4.jpeg?auth=8e2d03a86efc7ffcec53ddb14304bcf7cce660fa7b0abdf29aa4fedaf0acdcc8&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-05-20T13:27:10Z",
-      "Content": "El presidente Javier Milei, al disertar el este martes por la mañana en un evento del Banco de Valores (VALO) que se desarrolló en el Museo de Arte Latinoamericano de Buenos Aires (Malba), se refirió… [+2829 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diariobitcoin.com"
-      },
-      "Author": "Canuto",
-      "Title": "Consorcio en Europa se expande a 37 bancos para lanzar stablecoin de euro y desafiar al dólar",
-      "Description": "Qivalis amplió de forma significativa su consorcio para una stablecoin en euros al incorporar 25 bancos adicionales, llevando el total a 37 entidades. El movimiento refuerza la idea de que la banca europea quiere participar de forma más directa en la infraest…",
-      "Url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/consorcio-en-europa-se-expande-a-37-bancos-para-lanzar-stablecoin-de-euro-y-desafiar-al-dolar/",
-      "UrlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/05/canuto-imagine-1779275101.jpg",
-      "PublishedAt": "2026-05-20T11:18:17Z",
-      "Content": "Por Canuto   Qivalis amplió su consorcio para una stablecoin en euros al incorporar 25 bancos adicionales, llevando el total a 37 entidades. El movimiento refuerza la idea de que la banca europea qui… [+6921 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar registra nuevo mínimo histórico por quinta sesión consecutiva",
-      "Description": "El precio del dólar mantiene tendencia a la baja en el Monex y ya se ubica en el rango de los ¢452; Banco Central intervino para evitar una menor caída",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-registra-nuevo-minimo/4E6P6YKAJFBYJE246RMXW3ZAO4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/IU5FLDZ2Q5GL7IC466R5Q2CCOM.jpg?smart=true&auth=00f12ecc59f588d1a69905fe0e1beb334f70535eaa2ef4ae00a2af017c4f07a9&width=1440",
-      "PublishedAt": "2026-05-19T19:53:35Z",
-      "Content": "El tipo de cambio del dólar respecto al colón tocó un nuevo mínimo durante la sesión de este martes 19 de mayo en el Mercado de Monedas Extranjeras (Monex) y registró su valor más bajo de la serie hi… [+758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso tiene ‘bajón’ por aversión a activos de riesgo: ¿Cuánto pierde ante el dólar HOY 19 de mayo?",
-      "Description": "Miembros de la OTAN están 'impacientes' por el cierre del Estrecho de Ormuz y analizan la posibilidad de desplegar brigadas para proteger a barcos de sus países en el canal.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/19/peso-dolar-precio-hoy-19-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ANTGDPUQANEL7JEAUPRGL6J6VM.png?smart=true&auth=ec76aef636385afc8232a9fd11f2e30c72191235c909ec3a81cf989d3384d681&width=1200&height=630",
-      "PublishedAt": "2026-05-19T15:13:08Z",
-      "Content": "El regreso de un menor apetito por los activos de riesgo baja al peso ante el dólar este martes 19 de mayo por las tensiones de la guerra en Medio Oriente.\r\nEU e Irán habían dado señales de avanzar e… [+1806 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Ofrecimiento de Trump a Irán impulsa al peso contra el dólar: Así está el tipo de cambio HOY 18 de mayo",
-      "Description": "La guerra entre EU e Irán está cerca de cumplir tres meses. Durante este tiempo, los precios del petróleo se han disparado por arriba de los 100 dólares debido al cierre del Estrecho de Ormuz.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/18/peso-dolar-precio-hoy-18-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CQSYYHOALZAGPKT64R2NADDBAE.png?smart=true&auth=2e5232a1c9cbdfa2d1b91a682f5c2675aace887a9c562b1b1e3e152926b3fca3&width=1200&height=630",
-      "PublishedAt": "2026-05-18T16:53:46Z",
-      "Content": "El peso avanza ante el dólar este lunes18 de mayo ante noticias que apuntan a un avance en las negociaciones entre Donald Trump e Irán para alcanzar un acuerdo de paz que reabra el Estrecho de Ormuz.… [+1789 chars]"
     }
   ]
 }

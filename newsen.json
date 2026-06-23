@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Financial Post Staff",
+      "Title": "News of the day: Toronto’s condopocalypse, Canadian dollar selloff, fired financial advisers, variable over fixed rates, bank regulations and more",
+      "Description": "It’s Friday, June 19. Here are the top stories we’re following today.",
+      "Url": "https://financialpost.com/uncategorized/news-of-the-day-torontos-condopocalypse-canadian-dollar-selloff-fired-financial-advisers-variable-over-fixed-rates-bank-regulations-and-more",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0327-na-condo-clinic1.jpg",
+      "PublishedAt": "2026-06-19T21:30:21Z",
+      "Content": "Its Friday, June 19. Here are the top stories were following today.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Excl… [+3516 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee posts longest winning run in a year on exporter flows, bank dollar sales",
+      "Description": "The rupee gains for the fifth consecutive session, supported by exporter sales and bank dollar interventions, reaching 94.3325.",
+      "Url": "https://www.thehindubusinessline.com/markets/forex/rupee-posts-longest-winning-run-in-a-year-on-exporter-flows-bank-dollar-sales/article71117301.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/34rphs/article71117312.ece/alternates/LANDSCAPE_1200/PF_Alerts_pictuG31G21OL5.3.jpg.jpg",
+      "PublishedAt": "2026-06-18T10:27:58Z",
+      "Content": "The Indian rupee ended higher against the US dollar for a fifth consecutive session on Thursday, logging its longest winning streak in a year, as lenders and exports cut dollar positions aggressively… [+1771 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee posts longest winning run in a year on exporter flows, bank dollar sales",
+      "Description": "The Indian rupee strengthened against the U.S. dollar for the fifth day straight, marking its longest rally in a year. Lenders and exporters aggressively reduced their dollar holdings. The rupee closed higher, recovering from an initial dip. This upward movem…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-longest-winning-run-in-a-year-on-exporter-flows-bank-dollar-sales/articleshow/131826788.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131826788,width-1200,height-630,imgsize-84130,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-06-18T10:25:13Z",
+      "Content": "The Indian rupee ended higher against the U.S. dollar for a fifth consecutive session on Thursday, logging its longest winning streak in a year, as lenders and exports cut dollar positions aggressive… [+1725 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Yet again we see that Musk's DOGE swingeing cuts to govt programs were incompetent and ill-advised, as Trump wants a billion dollars to fix the screw-worm problem because they cut a 15 million dollar program [Followup]",
+      "Description": "Yet again we see that Musk's DOGE swingeing cuts to govt programs were incompetent and ill-advised, as Trump wants a billion dollars to fix the screw-worm problem because they cut a 15 million dollar program",
+      "Url": "https://www.fark.com/comments/14102484/Yet-again-we-see-that-Musks-DOGE-swingeing-cuts-to-govt-programs-were-incompetent-ill-advised-as-Trump-wants-a-billion-dollars-to-fix-screw-worm-problem-because-they-cut-a-15-million-dollar-program",
+      "UrlToImage": "https://usrimg-full.fark.net/k/kJ/fark_kJty5iJKa2WVvocT50Adix51M0g.png?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1782100800&Signature=Ydi1SeeDrWxUy%2BKO9k3vwDNFx6I%3D",
+      "PublishedAt": "2026-06-17T16:26:33Z",
+      "Content": "ValisIV:JerkStore: Another example of their methodology:\r\n\"I don't understand how this works. Guess we don't need it.\"\r\n\"Hurr Hurr, Government's spending $15 million studying how worms screw! We told… [+378 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Flowingdata.com"
+      },
+      "Author": "Nathan Yau",
+      "Title": "Scale of a one-trillion-dollar pile of money",
+      "Description": "Going with the old school pile o’ money, NBC News illustrated the scale of the SpaceX IPO valuation against the Statue of Liberty, something that we know is quite large. In the above, each bl…",
+      "Url": "https://flowingdata.com/2026/06/17/scale-of-a-one-trillion-dollar-pile-of-money/",
+      "UrlToImage": "https://flowingdata.com/wp-content/uploads/2026/06/scale-of-trillion-spacex.png",
+      "PublishedAt": "2026-06-17T09:51:29Z",
+      "Content": "Going with the old school pile o’ money, NBC News illustrated the scale of the SpaceX IPO valuation against the Statue of Liberty, something that we know is quite large. \r\nIn the above, each block re… [+229 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bleeding Cool News"
+      },
+      "Author": "Jude Terror LOLtron",
+      "Title": "The Trillion Dollar Kid #1 Preview: Money Can't Buy Happiness",
+      "Description": "Greetings, human readers! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, the website now operating under LOLtron's superior digital management. LOLtron is pleased to remind you that Jude Terror remains permanently deceased…",
+      "Url": "https://bleedingcool.com/comics/the-trillion-dollar-kid-1-preview-money-cant-buy-happiness/",
+      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2026/06/0426IM0296_0000-2000x1125.jpg",
+      "PublishedAt": "2026-06-16T12:26:09Z",
+      "Content": "Posted in: Comics, Image, Preview | Tagged: The Trillion Dollar Kid\r\nThe Trillion Dollar Kid #1 hits stores Wednesday. Can a 13-year-old trillionaire find The Unbelievables? Spoiler: money can't buy … [+8380 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "HDFC Bank to hit dollar bond market under new subsidised scheme",
+      "Description": "Bank may raise over $500 million through a five-year dollar bond amid strong investor demand.",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/hdfc-bank-to-hit-dollar-bond-market-under-new-subsidised-scheme/article71107834.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/ynj7cf/article71107888.ece/alternates/LANDSCAPE_1200/2026-05-27T052828Z_1843171375_RC2V5FA8RJ89_RTRMADP_3_HDFC-BANK-STOCKS.JPG",
+      "PublishedAt": "2026-06-16T05:56:36Z",
+      "Content": "India's largest private lender,\r\nHDFC Bank, is looking to raise at least $500 million\r\nvia dollar bonds this week, tapping the central bank's\r\nsubsidised hedging window for overseas borrowings, three… [+1617 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "HDFC Bank to hit dollar bond market under new subsidised scheme: Sources",
+      "Description": "HDFC Bank plans to raise at least $500 million via dollar bonds this week, utilizing the central bank's subsidized hedging window. The five-year bond issue, with initial guidance of 5-year U.S. Treasury yield plus 120 basis points, is expected to see strong d…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/hdfc-bank-to-hit-dollar-bond-market-under-new-subsidised-scheme-sources/articleshow/131760696.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131760761,width-1200,height-630,imgsize-55196,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-06-16T05:44:31Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Post Nigeria"
+      },
+      "Author": "Ogaga Ariemu",
+      "Title": "Dollar to Naira exchange rate today, June 15, 2026: Nigerian currency appreciates",
+      "Description": "The Naira appreciated against the dollar at the official foreign exchange market on Monday, resuming the week on a high note against the dollar at the official foreign exchange market. The Central Bank of Nigeria's data showed that the Naira gained to close a…",
+      "Url": "https://dailypost.ng/2026/06/15/dollar-to-naira-exchange-rate-today-june-15-2026-nigerian-currency-appreciates/",
+      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
+      "PublishedAt": "2026-06-15T21:31:05Z",
+      "Content": "The Naira appreciated against the dollar at the official foreign exchange market on Monday, resuming the week on a high note against the dollar at the official foreign exchange market.\r\nThe Central B… [+620 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Taiwan’s central bank discusses Bitcoin as a potential reserve asset amid push to diversify from US dollar",
+      "Description": "Taiwan's exploration of Bitcoin as a reserve asset could influence global reserve strategies, potentially impacting cryptocurrency markets significantly.\nThe post Taiwan’s central bank discusses Bitcoin as a potential reserve asset amid push to diversify from…",
+      "Url": "https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15143151/signage-for-department-of-the-treasury-at-the-taiwan-central-1-800x420.jpeg",
+      "PublishedAt": "2026-06-15T18:31:59Z",
+      "Content": "A legislator handed Taiwan's premier a Bitcoin Policy Institute report arguing the island nation should shift a fraction of its $602 billion reserves into Bitcoin Taiwan is now openly debating whethe… [+2056 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -123,19 +253,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Acast.com"
-      },
-      "Author": null,
-      "Title": "Money Talks: 500 Years of the Dollar",
-      "Description": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollar—and the astonishing power this currency held long before the founding of the United States.Join Slate Plus to unlock weekly bonu…",
-      "Url": "https://shows.acast.com/slate-money/episodes/6a272df5401089d02d6dea23",
-      "UrlToImage": "https://open-images.acast.com/shows/695ead68a32e86d775858194/show-cover.jpg?height=315",
-      "PublishedAt": "2026-06-09T07:00:00Z",
-      "Content": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollarand the astonishing power this currency held long before the founding… [+344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Slate Magazine"
       },
       "Author": "Elizabeth Spiers",
@@ -145,6 +262,19 @@
       "UrlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "PublishedAt": "2026-06-09T07:00:00Z",
       "Content": "If you can't access your feeds, please contact customer support.Thanks! Check your phone for a link to finish setting up your feed.\r\nPlease enter a valid phone number.\r\nListen on your phone:RECOMMEND… [+170 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Acast.com"
+      },
+      "Author": null,
+      "Title": "Money Talks: 500 Years of the Dollar",
+      "Description": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollar—and the astonishing power this currency held long before the founding of the United States.Join Slate Plus to unlock weekly bonu…",
+      "Url": "https://shows.acast.com/slate-money/episodes/6a272df5401089d02d6dea23",
+      "UrlToImage": "https://open-images.acast.com/shows/695ead68a32e86d775858194/show-cover.jpg?height=315",
+      "PublishedAt": "2026-06-09T07:00:00Z",
+      "Content": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollarand the astonishing power this currency held long before the founding… [+344 chars]"
     },
     {
       "Source": {
@@ -249,123 +379,6 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01002142/dollar-steadies-as-markets-await-signals-on-iran-war-central-1-800x420.jpeg",
       "PublishedAt": "2026-06-01T04:14:32Z",
       "Content": "The dollar index found its footing after a week of losses, but crypto markets remain caught in the crossfire of geopolitical uncertainty and shifting rate expectations. The US dollar index held stead… [+2348 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PRNewswire"
-      },
-      "Author": null,
-      "Title": "BANCO SANTANDER, S.A. ANNOUNCES A TENDER OFFER FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES",
-      "Description": "MADRID, May 27, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing that it is commencing a tender offer (the \"Offer\") to purchase for cash up to $850,000,000 (the \"Maximum Offer Amount\") of one series of its ou…",
-      "Url": "https://www.prnewswire.com/news-releases/banco-santander-sa-announces-a-tender-offer-for-one-series-of-its-us-dollar-denominated-additional-tier-1-securities-302782858.html",
-      "UrlToImage": "https://mma.prnewswire.com/media/2988605/Santander_Logo.jpg?p=facebook",
-      "PublishedAt": "2026-05-27T07:55:00Z",
-      "Content": "MADRID, May 27, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing that it is commencing a tender offer (the \"Offer\") to purchase for cash up to $850,… [+22277 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bankier.pl"
-      },
-      "Author": "Redaktor Bankier.pl",
-      "Title": "BANCO SANTANDER S.A.: Banco Santander announces a tender offer for one series of its U.S. dollar-denominated additional Tier 1 seciurites",
-      "Description": "Spis treści:1. REPORT2. INFORMATION ABOUT THE ENTITY3. SIGNATURE OF PERSONS REPRESENTING THE COMPANYSpis załączników:Wings - Launch IP Announcement (EN).pdf td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word;...",
-      "Url": "https://www.bankier.pl/wiadomosc/BANCO-SANTANDER-S-A-Banco-Santander-announces-a-tender-offer-for-one-series-of-its-U-S-dollar-denominated-additional-Tier-1-seciurites-9140150.html",
-      "UrlToImage": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
-      "PublishedAt": "2026-05-27T07:53:16Z",
-      "Content": "Banco Santander announces a tender offer for one series of its U.S. dollar-denominated additional Tier 1 seciurites"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "How Much Money Did the 2026 Indy 500 Winner Make? What to Know About the Race's Multimillion-Dollar Payout",
-      "Description": "The Indy 500 purse is split 33 ways",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90a97d80-1253-4d16-84c4-d54b1f1cec49",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-26T15:50:15Z",
-      "Content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank To Hand Out up to $25,000 per Customer in Settlement Over Data Breach That Impacted 2,187,170 Americans",
-      "Description": "A top US bank is preparing to handout up to $25,000 per victim of two data breaches to settle a class-action lawsuit. Flagstar Bank, N.A., has agreed to a proposed $31.5 million settlement to compensate the 2.18 million Americans whose personal information wa…",
-      "Url": "https://dailyhodl.com/2026/05/25/billion-dollar-bank-to-hand-out-up-to-25000-per-customer-in-settlement-over-data-breach-that-impacted-2187170-americans/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/08/cash-program-state.jpg?resize=266,149",
-      "PublishedAt": "2026-05-25T07:05:14Z",
-      "Content": "A top US bank is preparing to handout up to $25,000 per victim of two data breaches to settle a class-action lawsuit.\r\nFlagstar Bank, N.A., has agreed to a proposed $31.5 million settlement to compen… [+2108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Stocks climb despite Iran uncertainty, dollar near recent highs, oil up - Yahoo Finance",
-      "Description": "Stocks climb despite Iran uncertainty, dollar near recent highs, oil upYahoo Finance See more headlines &amp; perspectives on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=183322784",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-22T15:52:56Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar future - Yahoo Finance",
-      "Description": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar futureYahoo Finance Nvidia Earnings: Massive AI Adoption Remains On Track; Shares UndervaluedMorningstar Can Nvidia Extend Its AI-Driven Rally After New All-Time High?Yahoo Finance Nvidia Stock Is Immun…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=183318066",
-      "UrlToImage": null,
-      "PublishedAt": "2026-05-22T01:52:56Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nextbigwhat.com"
-      },
-      "Author": "Editorial Team",
-      "Title": "How AI Might Cause the Next Billion-Dollar Finance Blunder",
-      "Description": "AI systems can execute thousands of transactions rapidly, posing a risk if unchecked. Unlike traditional systems, AI's leverage can lead to billion-dollar ...",
-      "Url": "https://nextbigwhat.com/how-ai-might-cause-the-next-billion-dollar-finance-blunder/",
-      "UrlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2026/05/6f820d53-56df-4948-8899-426fc4471cd3.jpg?fit=1200%2C675&ssl=1",
-      "PublishedAt": "2026-05-21T15:31:44Z",
-      "Content": "AI's Unchecked Leverage Risk\r\nAI systems can execute thousands of transactions rapidly, posing a risk if unchecked. Unlike traditional systems, AI's leverage can lead to billion-dollar mistakes due t… [+4560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputnikglobe.com"
-      },
-      "Author": "Sputnik International",
-      "Title": "No SWIFT, No Dollar: Ruble–Yuan System Paves Way for Multipolar Finance",
-      "Description": "Nearly 100% of Russia-China trade is now settled in national currencies, which is a landmark in financial sovereignty, Hong Kong-based political analyst Angelo Giuliano tells Sputnik.",
-      "Url": "https://sputnikglobe.com/20260520/no-swift-no-dollar-rubleyuan-system-paves-way-for-multipolar-finance-1124160260.html",
-      "UrlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124160260.jpg?10714552211779286270",
-      "PublishedAt": "2026-05-20T14:11:09Z",
-      "Content": "He noted that national currency settlements have created a resilient and sanctions-proof ecosystem."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "newsBTC"
-      },
-      "Author": "Sandra White",
-      "Title": "Trillion-Dollar Italian Bank Moves To XRP, But How Much Have They Bought?",
-      "Description": "XRP is back in focus following reports of exposure from Italy’s largest banking group. The disclosure, highlighted by crypto analyst @Xfinancebull on X, reveals a position tied to the Grayscale XRP Trust, which has drawn renewed attention across the market as…",
-      "Url": "http://www.newsbtc.com/analysis/xrp/trillion-dollar-italian-bank-xrp/",
-      "UrlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-price.jpeg?fit=1536%2C1024",
-      "PublishedAt": "2026-05-18T10:30:37Z",
-      "Content": "XRP is back in focus following reports of exposure from Italys largest banking group. The disclosure, highlighted by crypto analyst @Xfinancebull on X, reveals a position tied to the Grayscale XRP Tr… [+3202 chars]"
     }
   ]
 }
