@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso queda inmóvil ante el dólar: Así está el tipo de cambio este lunes 22 de junio",
+      "Description": "La semana pasada, la Fed dio a entender al mercado que analiza un aumento a la tasa de interés debido a que la inflación en EU no cede.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/22/peso-dolar-precio-hoy-22-de-junio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/37QC6XRGYZD2PAEWACVHO7GBAY.png?smart=true&auth=c94cd0c09b9a1c2ebb714f3274ab24973befead611d449982cf14306f734df3c&width=1200&height=630",
+      "PublishedAt": "2026-06-22T16:18:39Z",
+      "Content": "Elpeso mexicano arranca sin cambios ante el dólar este lunes 22 de junio. El mercado aún evalúa las expectativas de ver un incremento en la tasa de interés de la Reserva Federal después de que el nue… [+1693 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BQ56YY3J6FAVZKXSSQG7ZPYYHU.png?smart=true&auth=901bdd117b3dbf6a185c9f0e8ce5ab6233980c8f0cb33e0eae35a55f0a0d520a&width=1200&height=630",
       "PublishedAt": "2026-05-27T17:22:49Z",
       "Content": "El peso mexicano se deprecia ante el dólar este miércoles 27 de mayo, mientras los mercados asimilian las noticias de la guerra entre Estados Unidos e Irán. \r\nEl Gobierno de Estados Unidos negó que y… [+1559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Dólar corrige sus pérdidas ante el peso: Así está el tipo de cambio HOY 26 de mayo",
-      "Description": "Estados Unidos e Irán 'metieron dudas' al mercado sobre si están cerca o no de cerrar un acuerdo de paz para acabar con su conflicto en Medio Oriente.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/05/26/peso-dolar-precio-hoy-26-de-mayo-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LDI2MWNLZNFTDIIOOTATBDY2VY.png?smart=true&auth=8e18e266091b73d2e5f1aee88b43818633f89d388638a31849e2e03048398754&width=1200&height=630",
-      "PublishedAt": "2026-05-26T16:57:43Z",
-      "Content": "El dólar se aprecia ante el peso este martes 26 de mayo gracias a correcciones en el mercado mientras Estados Unidos e Irán dan señales contradictorias en su negociación sobre un acuerdo de paz. \r\nA … [+1650 chars]"
     }
   ]
 }
