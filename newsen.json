@@ -1,8 +1,281 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 3, 2026",
+      "Description": "The Nigerian Naira maintained a steady path against the United States Dollar at the start of Friday’s trading session, reflecting subtle shifts across both the official window and the parallel market. \nThe post Dollar to Naira exchange rate today, July 3, 202…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-3-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/06/dollar-naira.jpg",
+      "PublishedAt": "2026-07-03T05:47:21Z",
+      "Content": "The Nigerian Naira maintained a steady path against the United States Dollar at the start of Fridays trading session, reflecting subtle shifts across both the official window and the parallel market.… [+1360 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Joel Rebello",
+      "Title": "IIFL Finance raises $300 million via dollar bonds",
+      "Description": "IIFL Finance has successfully raised $300 million through a four-year dollar bond sale to international investors, marking its second such issuance recently. The bonds were priced at 7.60%, reflecting strong overseas demand. This move allows the company to qu…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/iifl-finance-raises-300-million-via-dollar-bonds/articleshow/132150378.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-132150383,width-1200,height-630,imgsize-33632,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-07-03T00:44:14Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 2, 2026",
+      "Description": "The Nigerian naira traded with relative stability against the United States dollar on Thursday, July 2, 2026, across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as the gap between both segments remained narrow.\nThe post Dolla…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-2-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-07-02T06:03:00Z",
+      "Content": "The Nigerian naira traded with relative stability against the United States dollar on Thursday, July 2, 2026, across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as t… [+1608 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Dilasha Seth",
+      "Title": "UAE central bank restrictions may dampen NRI dollar mobilisation",
+      "Description": "New UAE Central Bank rules are creating hurdles for Indian banks seeking to attract NRI dollar deposits. Restrictions on representative offices, including documentation support and cross-selling, are expected to slow down deposit mobilization, particularly fo…",
+      "Url": "https://economictimes.indiatimes.com/nri/invest/uae-central-bank-restrictions-may-dampen-nri-dollar-mobilisation/articleshow/132126704.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-132124234,width-1200,height-630,imgsize-71464,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-07-01T20:09:19Z",
+      "Content": "Dubai: A recent UAE Central Bank circular that restricts certain facilitative activities by representative offices, including documentation support and cross-selling has thrown a spanner into hopes o… [+3053 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 1, 2026",
+      "Description": "The Nigerian naira traded relatively stable against the United States dollar at both the official and parallel foreign exchange markets on Wednesday, July 1, 2026, as the gap between the two markets remained narrow.\nThe post Dollar to Naira exchange rate toda…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-1-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
+      "PublishedAt": "2026-07-01T05:49:03Z",
+      "Content": "The Nigerian naira traded relatively stable against the United States dollar at both the official and parallel foreign exchange markets on Wednesday, July 1, 2026, as the gap between the two markets … [+1544 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Reserve Bank of India’s short dollar book hits record $107B in May",
+      "Description": "The RBI's aggressive currency defense strategy highlights potential risks of increased financial instability and challenges in sustaining economic resilience.\nThe post Reserve Bank of India’s short dollar book hits record $107B in May appeared first on Crypto…",
+      "Url": "https://cryptobriefing.com/rbi-short-dollar-book-record-107b/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01003009/https-upload-wikimedia-org-wikipedia-commons-8-8f-tower-and--800x420.jpeg",
+      "PublishedAt": "2026-07-01T04:30:17Z",
+      "Content": "India's central bank is burning through its derivatives playbook to defend the rupee, and the scale of the bet is starting to raise eyebrows The Reserve Bank of India has built up a net short dollar … [+2548 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "New Jersey Man Sentenced in Multi-Million Dollar Bank Fraud Conspiracy",
+      "Description": "A New Jersey man is heading to federal prison for his role in a multi-million-dollar bank fraud conspiracy. Rajendra G. Parikh has been sentenced to two years in prison, convicted of fraudulently obtaining more than $35 million in SBA-guaranteed loans from fi…",
+      "Url": "https://dailyhodl.com/2026/06/30/new-jersey-man-sentenced-in-multi-million-dollar-bank-fraud-conspiracy/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/09/bank-bb-breach.jpg?resize=1365,800",
+      "PublishedAt": "2026-06-30T07:04:43Z",
+      "Content": "A New Jersey man is heading to federal prison for his role in a multi-million-dollar bank fraud conspiracy.\r\nRajendra G. Parikh has been sentenced to two years in prison, convicted of fraudulently ob… [+1597 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 30, 2026",
+      "Description": "The Nigerian naira began trading at an official exchange rate of ₦1,379.80 per United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Tuesday, June 30, 2026, according to the latest available market data.\nThe post Dollar to Naira exchange rate…",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-30-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
+      "PublishedAt": "2026-06-30T05:55:27Z",
+      "Content": "The Nigerian naira began trading at an official exchange rate of 1,379.80 per United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Tuesday, June 30, 2026, according to the latest av… [+1156 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "China’s interbank dollar lending sentiment index climbs to record 74 as PBOC reshapes liquidity landscape",
+      "Description": "The PBOC's liquidity strategy may tighten global dollar availability, increasing the risk of dollar squeezes in Asian financial networks.\nThe post China’s interbank dollar lending sentiment index climbs to record 74 as PBOC reshapes liquidity landscape appear…",
+      "Url": "https://cryptobriefing.com/china-interbank-dollar-lending-sentiment-record/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29212325/pboc-debuts-overnight-repo-at-1-25-below-estimates-signals-e-800x420.jpeg",
+      "PublishedAt": "2026-06-30T01:23:32Z",
+      "Content": "The reading signals improved dollar liquidity conditions inside China's banking system, even as the central bank tightens its grip on interbank lending activity China’s interbank dollar lending senti… [+1793 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 29, 2026",
+      "Description": "The Nigerian naira traded at an official exchange rate of ₦1,379.22 per United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Monday, June 29, 2026, according to the latest available market data.\nThe post Dollar to Naira exchange rate today, …",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-29-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/10/Earning-Dollars-made-easy-for-Nigerians-in-2025.jpeg",
+      "PublishedAt": "2026-06-29T06:18:31Z",
+      "Content": "The Nigerian naira traded at an official exchange rate of 1,379.22 per United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Monday, June 29, 2026, according to the latest available … [+1228 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Post Nigeria"
+      },
+      "Author": "Ogaga Ariemu",
+      "Title": "Dollar to Naira Exchange Rate Today, June 26, 2026: Nigerian currency depreciates to end week negative",
+      "Description": "The Naira extended depreciation against the dollar to end the week on a negative note at the official foreign exchange market on Friday. The Central Bank of Nigeria's data showed the Naira weakened to N1,380.93 per dollar on Friday from N1,380.11 exchanged on…",
+      "Url": "https://dailypost.ng/2026/06/26/dollar-to-naira-exchange-rate-today-june-26-2026-nigerian-currency-depreciates-to-end-week-negative/",
+      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2024/02/Naira.jpg",
+      "PublishedAt": "2026-06-26T21:10:45Z",
+      "Content": "The Naira extended depreciation against the dollar to end the week on a negative note at the official foreign exchange market on Friday.\r\nThe Central Bank of Nigeria’s data showed the Naira weakened … [+571 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 26, 2026",
+      "Description": "The Nigerian naira remained relatively stable against the United States dollar on Friday, June 26, 2026, across both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor liquidity conditions and foreign…",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-26-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-06-26T05:49:38Z",
+      "Content": "The Nigerian naira remained relatively stable against the United States dollar on Friday, June 26, 2026, across both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as t… [+1856 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar hits 13-month highs as investors bank on rate hikes",
+      "Description": "The US dollar is on a remarkable rise, approaching its most significant monthly increase in a year, fueled by expectations of upcoming rate hikes from the Federal Reserve. This surge has propelled the euro to a 13-month low and pushed the pound and yen down t…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hits-13-month-highs-as-investors-bank-on-rate-hikes/articleshow/131994192.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131994192,width-1200,height-630,imgsize-95078,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-06-25T12:38:21Z",
+      "Content": "The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that could support many investors' growing belief that the Federal Reserve will need to raise… [+2653 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "By Amanda Cooper",
+      "Title": "Dollar hits 13-month highs as investors bank on rate hikes",
+      "Description": "By Amanda Cooper LONDON, June 25 (Reuters) - The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that c...",
+      "Url": "https://finance.yahoo.com/news/dollar-rides-high-fed-rate-012635389.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/B3A6485ACF65D4FD7FEFBC2A2027D1DCE88161D99AB7B55214521987302B8450/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b2c1cb9fdc877bee0658bf8fb7b8617",
+      "PublishedAt": "2026-06-25T11:52:57Z",
+      "Content": "By Amanda Cooper\r\nLONDON, June 25 (Reuters) - The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that could support many investors' growing beli… [+2334 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 25, 2026",
+      "Description": "The naira traded relatively stable against the United States dollar on Thursday, June 25, 2026, across both the official and parallel foreign exchange markets as market participants continued to monitor liquidity conditions and foreign exchange supply.\nThe po…",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-25-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
+      "PublishedAt": "2026-06-25T05:43:48Z",
+      "Content": "The naira traded relatively stable against the United States dollar on Thursday, June 25, 2026, across both the official and parallel foreign exchange markets as market participants continued to moni… [+1462 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Sachin Kumar",
+      "Title": "Bank of India eyes $3.5 billion foreign currency inflows on RBI's dollar push",
+      "Description": "Bank of India aims to raise approximately $3.5 billion through foreign currency deposits and overseas borrowings, leveraging recent RBI measures. This strategic move, including $1 billion from FCNR(B) deposits and $1.5 billion via concessional swap facilities…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-eyes-3-5-billion-foreign-currency-inflows-on-rbis-dollar-push/articleshow/131965982.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131965940,width-1200,height-630,imgsize-1428354,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-06-24T11:12:08Z",
+      "Content": "Bank of India expects to mobilise about $3.5 billion through FCNR(B) deposits, overseas borrowings and external commercial borrowings after the Reserve Bank of India unveiled measures to boost foreig… [+2371 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Rupee cushioned by central bank hand even as dollar strength dents Asia FX",
+      "Description": "The Indian rupee defied regional weakness on Wednesday, supported by likely Reserve Bank of India intervention against a strengthening dollar. While Asian peers faltered, the rupee held steady as traders braced for potential US Federal Reserve rate hikes. Con…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-cushioned-by-central-bank-hand-even-as-dollar-strength-dents-asia-fx/articleshow/131964489.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-131964489,width-1200,height-630,imgsize-34240,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-06-24T10:16:20Z",
+      "Content": "The Indian rupee bucked the weakness seen in most Asian peers on Wednesday as likely central bank intervention shielded the currency from a stronger dollar that rose as traders positioned for potenti… [+1779 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 24, 2026",
+      "Description": "The naira continued to trade within a relatively stable range against the United States dollar on Wednesday, June 24, 2026, across both the official and parallel foreign exchange markets.\nThe post Dollar to Naira exchange rate today, June 24, 2026 appeared fi…",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-24-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
+      "PublishedAt": "2026-06-24T05:54:04Z",
+      "Content": "The naira continued to trade within a relatively stable range against the United States dollar on Wednesday, June 24, 2026, across both the official and parallel foreign exchange markets.\r\nData from … [+1347 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Yen nears 40-year low as dollar strength overpowers Bank of Japan moves",
+      "Description": "The yen's decline highlights vulnerabilities in Japan's economic strategy, potentially triggering global market volatility and impacting crypto liquidity.\nThe post Yen nears 40-year low as dollar strength overpowers Bank of Japan moves appeared first on Crypt…",
+      "Url": "https://cryptobriefing.com/yen-40-year-low-dollar-strength-boj/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23093346/bank-of-japan-wikipedia-800x420.jpeg",
+      "PublishedAt": "2026-06-23T13:33:53Z",
+      "Content": "Japan's currency hovers around 161 per dollar despite a historic rate hike and $73 billion in interventions, with ripple effects reaching crypto markets through carry-trade dynamics. The Japanese yen… [+2400 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "PFC becomes first non-bank lender to tap dollar debt after RBI subsidy, bankers say",
+      "Description": "PFC becomes the first non-bank lender to issue dollar bonds, raising $300 million under RBI's subsidised hedging facility.",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/pfc-becomes-first-non-bank-lender-to-tap-dollar-debt-after-rbi-subsidy-bankers-say/article71136344.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/j9xmb4/article71116872.ece/alternates/LANDSCAPE_1200/Industrial-slumGGHFJ0NOJ.4.jpg.jpg",
+      "PublishedAt": "2026-06-23T06:32:21Z",
+      "Content": "Power Finance Corp has accepted bids worth $300 million for a five-year dollar bond issue, becoming the first non-bank lender to tap the central banks subsidised hedging facility for overseas borrowi… [+1348 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, June 23, 2026",
+      "Description": "The Nigerian naira traded at relatively stable levels against the United States dollar on Tuesday, June 23, 2026, across both the official and parallel foreign exchange markets, as market participants continued to monitor liquidity conditions and foreign exch…",
+      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-23-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/02/dollar-e1549281283839.jpg",
+      "PublishedAt": "2026-06-23T06:06:40Z",
+      "Content": "The Nigerian naira traded at relatively stable levels against the United States dollar on Tuesday, June 23, 2026, across both the official and parallel foreign exchange markets, as market participant… [+1668 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -80,305 +353,6 @@
       "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2026/06/0426IM0296_0000-2000x1125.jpg",
       "PublishedAt": "2026-06-16T12:26:09Z",
       "Content": "Posted in: Comics, Image, Preview | Tagged: The Trillion Dollar Kid\r\nThe Trillion Dollar Kid #1 hits stores Wednesday. Can a 13-year-old trillionaire find The Unbelievables? Spoiler: money can't buy … [+8380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "HDFC Bank to hit dollar bond market under new subsidised scheme",
-      "Description": "Bank may raise over $500 million through a five-year dollar bond amid strong investor demand.",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/hdfc-bank-to-hit-dollar-bond-market-under-new-subsidised-scheme/article71107834.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/ynj7cf/article71107888.ece/alternates/LANDSCAPE_1200/2026-05-27T052828Z_1843171375_RC2V5FA8RJ89_RTRMADP_3_HDFC-BANK-STOCKS.JPG",
-      "PublishedAt": "2026-06-16T05:56:36Z",
-      "Content": "India's largest private lender,\r\nHDFC Bank, is looking to raise at least $500 million\r\nvia dollar bonds this week, tapping the central bank's\r\nsubsidised hedging window for overseas borrowings, three… [+1617 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "HDFC Bank to hit dollar bond market under new subsidised scheme: Sources",
-      "Description": "HDFC Bank plans to raise at least $500 million via dollar bonds this week, utilizing the central bank's subsidized hedging window. The five-year bond issue, with initial guidance of 5-year U.S. Treasury yield plus 120 basis points, is expected to see strong d…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/hdfc-bank-to-hit-dollar-bond-market-under-new-subsidised-scheme-sources/articleshow/131760696.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131760761,width-1200,height-630,imgsize-55196,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-06-16T05:44:31Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Post Nigeria"
-      },
-      "Author": "Ogaga Ariemu",
-      "Title": "Dollar to Naira exchange rate today, June 15, 2026: Nigerian currency appreciates",
-      "Description": "The Naira appreciated against the dollar at the official foreign exchange market on Monday, resuming the week on a high note against the dollar at the official foreign exchange market. The Central Bank of Nigeria's data showed that the Naira gained to close a…",
-      "Url": "https://dailypost.ng/2026/06/15/dollar-to-naira-exchange-rate-today-june-15-2026-nigerian-currency-appreciates/",
-      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
-      "PublishedAt": "2026-06-15T21:31:05Z",
-      "Content": "The Naira appreciated against the dollar at the official foreign exchange market on Monday, resuming the week on a high note against the dollar at the official foreign exchange market.\r\nThe Central B… [+620 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Taiwan’s central bank discusses Bitcoin as a potential reserve asset amid push to diversify from US dollar",
-      "Description": "Taiwan's exploration of Bitcoin as a reserve asset could influence global reserve strategies, potentially impacting cryptocurrency markets significantly.\nThe post Taiwan’s central bank discusses Bitcoin as a potential reserve asset amid push to diversify from…",
-      "Url": "https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15143151/signage-for-department-of-the-treasury-at-the-taiwan-central-1-800x420.jpeg",
-      "PublishedAt": "2026-06-15T18:31:59Z",
-      "Content": "A legislator handed Taiwan's premier a Bitcoin Policy Institute report arguing the island nation should shift a fraction of its $602 billion reserves into Bitcoin Taiwan is now openly debating whethe… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Times Of India",
-      "Title": "Diamond trader cheated of Rs 9.11L in dollar exchange scam",
-      "Description": "Diamond trader in Surat alleges Rs 9.11 lakh fraud in Vadodara dollar exchange; six accused including a doctor booked after giving fake bundle with $1 notes.",
-      "Url": "https://timesofindia.indiatimes.com/city/surat/diamond-trader-cheated-of-rs-9-11l-in-dollar-exchange-scam/articleshow/131727803.cms",
-      "UrlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "PublishedAt": "2026-06-14T18:47:21Z",
-      "Content": "Follow Us On Social Media\r\nMerces creek cries for revival as sewage, waste choke watersA second chance on the menu for Vadodara inmatesIndustries hit by delayed groundwater extraction approvals as re… [+1195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Jayne Elliott",
-      "Title": "‘Every Last Dollar’: Woman Empties Her Account After Bank Hits Her With Unexplained Service Fees",
-      "Description": "Nobody likes banking fees.\nThe post ‘Every Last Dollar’: Woman Empties Her Account After Bank Hits Her With Unexplained Service Fees appeared first on TwistedSifter.",
-      "Url": "http://twistedsifter.com/2026/06/every-last-dollar-woman-empties-her-account-after-bank-hits-her-with-unexplained-service-fees/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2026/04/too-many-banking-fees.jpg",
-      "PublishedAt": "2026-06-12T22:55:27Z",
-      "Content": "Shutterstock\r\nImagine having all of your bank accounts and credit cards with one bank. If you looked at your account and noticed that the bank had suddenly taken $200 out of your account for unpaid s… [+2672 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "SBI, Bank of Baroda eye first dollar bonds since RBI subsidy, sources say",
-      "Description": "The RBI said this week that external\ncommercial borrowings with an average ‌maturity of at least three\nyears by state-run ​companies would qualify for a swap facility\nat a fixed rate of ⁠1.5% per annum, compounded semi-annually",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/sbi-bank-of-baroda-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/article71092977.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/vsbzmh/article71093130.ece/alternates/LANDSCAPE_1200/Coordinated-CenGUBG2T5QF.4.jpg.jpg",
-      "PublishedAt": "2026-06-12T10:02:42Z",
-      "Content": "State Bank of India and Bank of Baroda are set to become the first users of the\r\nReserve Bank of India's subsidised hedging window for overseas\r\nborrowings, with plans to raise about $1 billion throu… [+1520 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PRNewswire"
-      },
-      "Author": null,
-      "Title": "BANCO SANTANDER, S.A. ANNOUNCES RESULTS OF TENDER OFFER FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES",
-      "Description": "SANTANDER, Spain, June 10, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing the results of its tender offer (the \"Offer\") to purchase for cash up to $850,000,000 (the \"Maximum Offer Amount\") of its outstandin…",
-      "Url": "https://www.prnewswire.com/news-releases/banco-santander-sa-announces-results-of-tender-offer-for-one-series-of-its-us-dollar-denominated-additional-tier-1-securities-302796619.html",
-      "UrlToImage": "https://mmx.prnewswire.com/media/MS1849403/Santander-Logo.jpg?id=OA2695564&p=facebook",
-      "PublishedAt": "2026-06-10T10:45:00Z",
-      "Content": "SANTANDER, Spain, June 10, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing the results of its tender offer (the \"Offer\") to purchase for cash up to… [+8309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "BL Mumbai Bureau",
-      "Title": "Karur Vysya Bank hikes FCNR (B) US Dollar interest rate by 437 bps for maturities of 3-5 years",
-      "Description": "Karur Vysya Bank raises FCNR(B) US Dollar deposit rates to 7% for 3-5 years, boosting foreign currency inflows.",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/karur-vysya-bank-hikes-fcnr-b-us-dollar-interest-rate-by-437-bps-for-maturities-of-3-5-years/article71084128.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/news/d9ise3/article70956249.ece/alternates/LANDSCAPE_1200/Karur-Vysya-Bank_2_1_AP8KC8F9.jpg",
-      "PublishedAt": "2026-06-10T08:55:55Z",
-      "Content": "Karur Vysya Bank has increased its FCNR(B) US Dollar (USD) deposit rates for maturities of 3 years to 5 years to 7 per cent per annum from the earlier rate of 2.63% per annum with effect from June 10… [+1091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bankier.pl"
-      },
-      "Author": "Redaktor Bankier.pl",
-      "Title": "BANCO SANTANDER S.A.: Banco Santander announces results of tender offer for one series of its U.S. dollar-denominated additional Tier 1 securities",
-      "Description": "Spis treści:1. REPORT2. INFORMATION ABOUT THE ENTITY3. SIGNATURE OF PERSONS REPRESENTING THE COMPANYSpis załączników:Wings - Results OIR Announcement (EN).pdf td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word;...",
-      "Url": "https://www.bankier.pl/wiadomosc/BANCO-SANTANDER-S-A-Banco-Santander-announces-results-of-tender-offer-for-one-series-of-its-U-S-dollar-denominated-additional-Tier-1-securities-9148777.html",
-      "UrlToImage": "https://galeria.bankier.pl/p/6/9/663ed7264204bb-thumb-1000.jpg",
-      "PublishedAt": "2026-06-10T08:10:57Z",
-      "Content": "Banco Santander announces results of tender offer for one series of its U.S. dollar-denominated additional Tier 1 securities"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Post Nigeria"
-      },
-      "Author": "Ogaga Ariemu",
-      "Title": "Dollar to Naira exchange rate today, June 9, 2026: Nigerian currency extends appreciation",
-      "Description": "The naira extended appreciation against the dollar at the official foreign exchange market on Tuesday. The Central Bank of Nigeria's data showed that the Naira strengthened on Tuesday to N1,360.55 per dollar up from N1,362.84 traded on Monday. This means that…",
-      "Url": "https://dailypost.ng/2026/06/09/dollar-to-naira-exchange-rate-today-june-9-2026-nigerian-currency-extends-appreciation/",
-      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2019/07/naira-dollar-4-1.jpg",
-      "PublishedAt": "2026-06-09T21:11:06Z",
-      "Content": "The naira extended appreciation against the dollar at the official foreign exchange market on Tuesday.\r\nThe Central Bank of Nigeria’s data showed that the Naira strengthened on Tuesday to N1,360.55 p… [+513 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Canadian dollar slides to 2026 low as traders expect Bank of Canada to hold rates",
-      "Description": "The Canadian dollar's decline highlights vulnerabilities in Canada's economy, affecting trade dynamics and inflation, while benefiting exporters.\nThe post Canadian dollar slides to 2026 low as traders expect Bank of Canada to hold rates appeared first on Cryp…",
-      "Url": "https://cryptobriefing.com/canadian-dollar-slides-2026-low-bank-of-canada/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/09164906/canadian-dollar-cad-the-canadian-encyclopedia-800x420.jpeg",
-      "PublishedAt": "2026-06-09T20:49:14Z",
-      "Content": "The loonie hit its weakest level since December as speculators pile into bearish bets, with the central bank widely expected to keep rates frozen at 2.25%. The Canadian dollar dropped to 1.3969 again… [+2764 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Canada Dollar Hits 2026 Low as Traders See Central Bank on Hold",
-      "Description": "The Canadian dollar slid to its lowest level since December on Tuesday, as traders anticipated the Bank of Canada will be slower than its global peers to raise interest rates.",
-      "Url": "https://financialpost.com/pmn/business-pmn/canada-dollar-hits-2026-low-as-traders-see-central-bank-on-hold",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/canadian-dollar-falls-to-a-fresh-2026-low-near-term-support.jpg",
-      "PublishedAt": "2026-06-09T17:20:09Z",
-      "Content": "(Bloomberg) The Canadian dollar slid to its lowest level since December on Tuesday, as traders anticipated the Bank of Canada will be slower than its global peers to raise interest rates.\r\nTHIS CONTE… [+3538 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slate Magazine"
-      },
-      "Author": "Elizabeth Spiers",
-      "Title": "Old Money: The Long History of the Dollar",
-      "Description": "Brendan Greeley offers up the surprising origin story of our favorite currency.",
-      "Url": "https://slate.com/podcasts/slate-money/2026/06/business-the-500-year-history-of-the-dollar",
-      "UrlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "PublishedAt": "2026-06-09T07:00:00Z",
-      "Content": "If you can't access your feeds, please contact customer support.Thanks! Check your phone for a link to finish setting up your feed.\r\nPlease enter a valid phone number.\r\nListen on your phone:RECOMMEND… [+170 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Acast.com"
-      },
-      "Author": null,
-      "Title": "Money Talks: 500 Years of the Dollar",
-      "Description": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollar—and the astonishing power this currency held long before the founding of the United States.Join Slate Plus to unlock weekly bonu…",
-      "Url": "https://shows.acast.com/slate-money/episodes/6a272df5401089d02d6dea23",
-      "UrlToImage": "https://open-images.acast.com/shows/695ead68a32e86d775858194/show-cover.jpg?height=315",
-      "PublishedAt": "2026-06-09T07:00:00Z",
-      "Content": "In this Money Talks: Author and financial journalist Brendan Greeley tells Elizabeth Spiers about his new book The Almighty Dollarand the astonishing power this currency held long before the founding… [+344 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Gigi Suhanic",
-      "Title": "Canadian dollar hits fresh 2026 low as currency is buffeted by several headwinds, says National Bank of Canada",
-      "Description": "The Canadian dollar slumped to a new closing low for 2026 of 71.67 cents US as the currency is buffeted by several headwinds. Find out more.",
-      "Url": "https://financialpost.com/news/economy/canadian-dollar-2026-low-headwinds-national-bank",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/no0608loonie.jpg",
-      "PublishedAt": "2026-06-08T21:33:11Z",
-      "Content": "The Canadian dollar on Monday slumped to a new closing low for 2026 of 71.67 cents U.S., with economists at National Bank of Canada singling out gold as a key factor behind the loonies weakness.\r\nTHI… [+4837 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "ProCap Finance CEO Anthony Pompliano predicts Bitcoin will rise as dollar weakens",
-      "Description": "Bitcoin's potential rise amid dollar weakening could drive institutional demand, but investors must weigh risks of echo chamber predictions.\nThe post ProCap Finance CEO Anthony Pompliano predicts Bitcoin will rise as dollar weakens appeared first on Crypto Br…",
-      "Url": "https://cryptobriefing.com/pompliano-bitcoin-dollar-weakens-prediction/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05140106/bitcoin-price-prediction-btc-and-usd-fractal-reappearance-tr-1-800x420.jpeg",
-      "PublishedAt": "2026-06-05T18:01:07Z",
-      "Content": "The outspoken Bitcoin advocate argues that $40 trillion in national debt and a declining dollar make a million-dollar BTC inevitable. Anthony Pompliano has never been accused of underselling Bitcoin.… [+2659 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Rhodilee Jean Dolor",
-      "Title": "Billion-Dollar Bank Paying $4,919,631 To Settle Accusations of Unjust Enrichment After Forgiving Ineligible Payment Protection Program Loan",
-      "Description": "An Alabama-headquartered bank with $157.4 billion in consolidated assets has agreed to settle allegations stemming from its forgiveness of a pandemic-era business loan. The US Department of Justice says that on or about August 3rd, 2021, Regions Bank approved…",
-      "Url": "https://dailyhodl.com/2026/06/05/billion-dollar-bank-paying-4919631-to-settle-accusations-of-unjust-enrichment-after-forgiving-ineligible-payment-protection-program-loan/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2025/06/sparked-bank-withdraw.jpg?resize=1365,800",
-      "PublishedAt": "2026-06-05T15:40:04Z",
-      "Content": "An Alabama-headquartered bank with $157.4 billion in consolidated assets has agreed to settle allegations stemming from its forgiveness of a pandemic-era business loan.\r\nThe US Department of Justice … [+1926 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Israelnationalnews.com"
-      },
-      "Author": null,
-      "Title": "US Dollar exchange rate climbs to 2.91 shekels",
-      "Description": "The US dollar continues to strengthen this morning (Friday) against the shekel. The US dollar is up 0.5% and is trading at 2.91 shekels. The euro is up 0.6% to 3.383 shekels, and the pound is up 0.6% and is trading at 3.911 shekels.",
-      "Url": "https://www.israelnationalnews.com/flashes/687039",
-      "UrlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "PublishedAt": "2026-06-05T07:35:59Z",
-      "Content": "The US dollar continues to strengthen this morning (Friday) against the shekel. The US dollar is up 0.5% and is trading at 2.91 shekels. The euro is up 0.6% to 3.383 shekels, and the pound is up 0.6%… [+32 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dailymail.com"
-      },
-      "Author": "Benjamin Curry",
-      "Title": "A $6,700 Social Security pay cut? The trillion-dollar timebomb that could slash your benefits by 25% or more if Congress doesn't fix the problem",
-      "Description": "An ominous, multi-trillion-dollar time bomb is quietly ticking under the retirement dreams of nearly 70 million Americans.",
-      "Url": "https://www.dailymail.com/yourmoney/article-15874413/social-security-pay-cut-trillion-dollar-timebomb-slash-benefits.html",
-      "UrlToImage": "https://i.dailymail.com/1s/2026/06/04/19/109132075-0-image-m-20_1780596638663.jpg",
-      "PublishedAt": "2026-06-04T23:33:35Z",
-      "Content": "An ominous, multi-trillion-dollar time bomb is quietly ticking under the retirement dreams of nearly 70 million Americans.\r\nA terrifying new analysis reveals that if Congress fails to step in, the vi… [+3845 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dailymail.com"
-      },
-      "Author": "Nick Allen",
-      "Title": "Inside Trump's plan to put himself on money forever: The $250 'Don dollar,' a secret artist... and why George Washington would not approve",
-      "Description": "It seems part of a wider effort to secure President Trump's enduring legacy.",
-      "Url": "https://www.dailymail.com/news/article-15865961/Trump-plan-money-forever-dollar.html",
-      "UrlToImage": "https://i.dailymail.com/1s/2026/06/04/20/109025647-0-image-a-1_1780601369226.jpg",
-      "PublishedAt": "2026-06-04T19:29:40Z",
-      "Content": "In 1864, amid the Civil War, an ambitious government official made a very Trumpian move.\r\nSpencer Clark, the first Superintendent of the National Currency Bureau, had been instructed to put the face … [+10640 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Central bank hand contains rupee's fall, shrinks dollar-rupee forward premiums",
-      "Description": "The Indian rupee and dollar-rupee forward premiums declined as importer hedging, foreign portfolio outflows, and likely central bank interventions across FX market segments exerted opposing forces. Despite Reserve Bank of India's dollar-selling interventions …",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/central-bank-hand-contains-rupees-fall-shrinks-dollar-rupee-forward-premiums/articleshow/131461572.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131461681,width-1200,height-630,imgsize-41836,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-06-02T10:32:21Z",
-      "Content": "The Indian rupee and dollar-rupee forward premiums fell on Tuesday, driven by opposing forces of importer hedging, foreign portfolio outflows and likely central bank intervention across FX market seg… [+1877 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "US dollar steadies as markets await Iran war signals and central bank moves",
-      "Description": "Geopolitical tensions and oil price volatility are reshaping market dynamics, influencing inflation expectations and crypto valuations.\nThe post US dollar steadies as markets await Iran war signals and central bank moves appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/us-dollar-steadies-iran-war-central-banks/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/01002142/dollar-steadies-as-markets-await-signals-on-iran-war-central-1-800x420.jpeg",
-      "PublishedAt": "2026-06-01T04:14:32Z",
-      "Content": "The dollar index found its footing after a week of losses, but crypto markets remain caught in the crossfire of geopolitical uncertainty and shifting rate expectations. The US dollar index held stead… [+2348 chars]"
     }
   ]
 }
