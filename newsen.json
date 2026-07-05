@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Homeandawaymedia.com"
+      },
+      "Author": "Ogechukwu Okeke",
+      "Title": "Naira Loses Ground Again as Dollar Demand Pushes Exchange Rates Higher",
+      "Description": "The naira fell in both the official and parallel markets, widening the exchange rate gap and raising fresh concerns over forex liquidity in Nigeria.",
+      "Url": "https://homeandawaymedia.com/business/naira-weakens-against-dollar-as-gap-between-official-and-black-market-rates-widens/",
+      "UrlToImage": "https://homeandawaymedia.com/wp-content/uploads/2026/07/JULY-DOLLAR-EXCHANGE-RATE.jpg",
+      "PublishedAt": "2026-07-03T08:49:46Z",
+      "Content": "Naira Weakens Against Dollar as Gap Between Official and Parallel Market Rates Widens\r\nNigerias currency recorded fresh losses against the United States dollar on Thursday, extending recent volatilit… [+4838 chars]"
+    },
+    {
+      "Source": {
+        "Id": "bloomberg",
+        "Name": "Bloomberg"
+      },
+      "Author": "Bloomberg",
+      "Title": "ICICI Bank mulls first benchmark dollar bond sale since 2017",
+      "Description": "ICICI Bank Ltd is in talks to raise at least $500 million in offshore bonds as it seeks to capitalise on a recent Reserve Bank of India concession for overseas borrowings",
+      "Url": "https://www.bloomberg.com/news/articles/2026-07-03/icici-bank-mulls-first-benchmark-dollar-bond-sale-since-2017",
+      "UrlToImage": "https://bl-i.thgim.com/public/news/4eprfq/article71062112.ece/alternates/LANDSCAPE_1200/IMG_ICICI_Bank_new.jpg",
+      "PublishedAt": "2026-07-03T06:54:24Z",
+      "Content": "ICICI Bank Ltd is in talks to raise at least $500 million in offshore bonds as it seeks to capitalise on a recent Reserve Bank of India concession for overseas borrowings, according to people familia… [+1466 chars]"
+    },
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "ICICI Bank Mulls First Benchmark Dollar Bond Sale Since 2017",
+      "Description": "ICICI Bank Ltd., India’s second-largest private-sector lender, is in talks to raise at least $500 million in offshore bonds as it seeks to capitalize on a recent Reserve Bank of India concession for overseas borrowings, according to people familiar with the m…",
+      "Url": "https://financialpost.com/pmn/business-pmn/icici-bank-mulls-first-benchmark-dollar-bond-sale-since-2017",
+      "UrlToImage": null,
+      "PublishedAt": "2026-07-03T06:09:03Z",
+      "Content": "(Bloomberg) ICICI Bank Ltd., Indias second-largest private-sector lender, is in talks to raise at least $500 million in offshore bonds as it seeks to capitalize on a recent Reserve Bank of India conc… [+3655 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Bloomberg",
+      "Title": "ICICI Bank mulls first benchmark dollar bond sale since 2017",
+      "Description": "ICICI Bank is planning its first benchmark US dollar bond sale since 2017, aiming to raise at least $500 million through offshore bonds. The proposed issuance comes after the RBI introduced a concessional foreign exchange swap facility, encouraging Indian len…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-mulls-first-benchmark-dollar-bond-sale-since-2017/articleshow/132153926.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-132153910,width-1200,height-630,imgsize-51692,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-07-03T06:08:06Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,58 +353,6 @@
       "UrlToImage": "https://bl-i.thgim.com/public/incoming/34rphs/article71117312.ece/alternates/LANDSCAPE_1200/PF_Alerts_pictuG31G21OL5.3.jpg.jpg",
       "PublishedAt": "2026-06-18T10:27:58Z",
       "Content": "The Indian rupee ended higher against the US dollar for a fifth consecutive session on Thursday, logging its longest winning streak in a year, as lenders and exports cut dollar positions aggressively… [+1771 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee posts longest winning run in a year on exporter flows, bank dollar sales",
-      "Description": "The Indian rupee strengthened against the U.S. dollar for the fifth day straight, marking its longest rally in a year. Lenders and exporters aggressively reduced their dollar holdings. The rupee closed higher, recovering from an initial dip. This upward movem…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-longest-winning-run-in-a-year-on-exporter-flows-bank-dollar-sales/articleshow/131826788.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131826788,width-1200,height-630,imgsize-84130,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-06-18T10:25:13Z",
-      "Content": "The Indian rupee ended higher against the U.S. dollar for a fifth consecutive session on Thursday, logging its longest winning streak in a year, as lenders and exports cut dollar positions aggressive… [+1725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Yet again we see that Musk's DOGE swingeing cuts to govt programs were incompetent and ill-advised, as Trump wants a billion dollars to fix the screw-worm problem because they cut a 15 million dollar program [Followup]",
-      "Description": "Yet again we see that Musk's DOGE swingeing cuts to govt programs were incompetent and ill-advised, as Trump wants a billion dollars to fix the screw-worm problem because they cut a 15 million dollar program",
-      "Url": "https://www.fark.com/comments/14102484/Yet-again-we-see-that-Musks-DOGE-swingeing-cuts-to-govt-programs-were-incompetent-ill-advised-as-Trump-wants-a-billion-dollars-to-fix-screw-worm-problem-because-they-cut-a-15-million-dollar-program",
-      "UrlToImage": "https://usrimg-full.fark.net/k/kJ/fark_kJty5iJKa2WVvocT50Adix51M0g.png?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1782100800&Signature=Ydi1SeeDrWxUy%2BKO9k3vwDNFx6I%3D",
-      "PublishedAt": "2026-06-17T16:26:33Z",
-      "Content": "ValisIV:JerkStore: Another example of their methodology:\r\n\"I don't understand how this works. Guess we don't need it.\"\r\n\"Hurr Hurr, Government's spending $15 million studying how worms screw! We told… [+378 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Flowingdata.com"
-      },
-      "Author": "Nathan Yau",
-      "Title": "Scale of a one-trillion-dollar pile of money",
-      "Description": "Going with the old school pile o’ money, NBC News illustrated the scale of the SpaceX IPO valuation against the Statue of Liberty, something that we know is quite large. In the above, each bl…",
-      "Url": "https://flowingdata.com/2026/06/17/scale-of-a-one-trillion-dollar-pile-of-money/",
-      "UrlToImage": "https://flowingdata.com/wp-content/uploads/2026/06/scale-of-trillion-spacex.png",
-      "PublishedAt": "2026-06-17T09:51:29Z",
-      "Content": "Going with the old school pile o’ money, NBC News illustrated the scale of the SpaceX IPO valuation against the Statue of Liberty, something that we know is quite large. \r\nIn the above, each block re… [+229 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bleeding Cool News"
-      },
-      "Author": "Jude Terror LOLtron",
-      "Title": "The Trillion Dollar Kid #1 Preview: Money Can't Buy Happiness",
-      "Description": "Greetings, human readers! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, the website now operating under LOLtron's superior digital management. LOLtron is pleased to remind you that Jude Terror remains permanently deceased…",
-      "Url": "https://bleedingcool.com/comics/the-trillion-dollar-kid-1-preview-money-cant-buy-happiness/",
-      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2026/06/0426IM0296_0000-2000x1125.jpg",
-      "PublishedAt": "2026-06-16T12:26:09Z",
-      "Content": "Posted in: Comics, Image, Preview | Tagged: The Trillion Dollar Kid\r\nThe Trillion Dollar Kid #1 hits stores Wednesday. Can a 13-year-old trillionaire find The Unbelievables? Spoiler: money can't buy … [+8380 chars]"
     }
   ]
 }

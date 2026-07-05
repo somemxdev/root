@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Real de a ocho: la moneda española que financió la independencia de EE.UU. y originó el dólar",
+      "Description": "En 2007, escribió Carmen Marcos Alonso , jefa del Departamento de Numismática del Museo Arqueológico Nacional, en ABC: «El real de a ocho , acuñado desde mediados del siglo XVI, fue, sin duda, la moneda más internacional que ha tenido España». Y añadía: «La c…",
+      "Url": "https://www.abc.es/historia/real-ocho-moneda-espanola-financio-independencia-eeuu-20260704014047-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/07/04/real-ocho-U62203366414GtS-1200x630@diario_abc.jpg",
+      "PublishedAt": "2026-07-03T23:40:47Z",
+      "Content": "En 2007, escribió Carmen Marcos Alonso, jefa del Departamento de Numismática del Museo Arqueológico Nacional, en ABC: «El real de a ocho, acuñado desde mediados del siglo XVI, fue, sin duda, la moned… [+5843 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3ALD74GS7RCGVH7FUUSLLQRO7M.png?smart=true&auth=8123dbb4b6ab11d1bfc88bf613bf3ba1caf7765d66d4679c0249d18ccadc7af2&width=1200&height=630",
       "PublishedAt": "2026-06-09T15:59:22Z",
       "Content": "El peso mexicano gana ante el dólar este martes 9 de junio gracias a una menor aversión al riesgo entre el mercado. En el mercado local, los inversionista asimilan el dato de inflación de mayo que fu… [+1600 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "RÉCORD",
-      "Title": "Dólar hoy 9 de junio de 2026: así amaneció el tipo de cambio frente al peso",
-      "Description": "Así amaneció el tipo de cambio frente al peso",
-      "Url": "https://www.record.com.mx/historia/dolar-hoy-9-de-junio-de-2026-asi-amanecio-el-tipo-de-cambio-frente-al-peso-2026060213222637801",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/03062026/e0611fb3-bbd1-475b-9dd0-509c8e29ca44.jpg?operations=autocrop(1200:630)",
-      "PublishedAt": "2026-06-09T13:20:00Z",
-      "Content": "El precio del dólar hoy 9 de junio de 2026 se ubica alrededor de los 17.38 pesos por unidad.\r\nPara quienes tienen previsto comprar dólares, realizar pagos en moneda extranjera o viajar a Estados Unid… [+505 chars]"
     }
   ]
 }
