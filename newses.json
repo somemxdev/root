@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso gana ante el dólar en una semana crucial para el T-MEC",
+      "Description": "El peso mexicano terminó prácticamente estable frente a la sesión anterior, en medio de un debilitamiento del dólar y al cierre de una semana con menor liquidez en los mercados, debido al feriado en Estados Unidos por el Día de la Independencia, y la confirma…",
+      "Url": "https://www.jornada.com.mx/2026/07/04/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-07-04T08:02:05Z",
+      "Content": "Periódico La JornadaSábado 4 de julio de 2026, p. 16\r\nEl peso mexicano terminó prácticamente estable frente a la sesión anterior, en medio de un debilitamiento del dólar y al cierre de una semana con… [+2202 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Www.abc.es"
       },
       "Author": "(abc)",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BV2UQ5IQX5D2RO5SJGQC7X5FZ4.png?smart=true&auth=40d77f0955d966524d19cb9bdacded76054a0fd3e4dfa8682f05e6f6e2980994&width=1200&height=630",
       "PublishedAt": "2026-06-10T16:12:41Z",
       "Content": "El retroceso del dólar en los mercados se extiende a este miércoles 10 de junio después de que la inflación en Estados Unidos se ubicó en su punto más alto de los últimos tres años, en parte por la g… [+1840 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Rublo ruso pega una ‘paliza’ al dólar: ¿Cuándo se aprecia el peso HOY 9 de junio?",
-      "Description": "En los bancos, el peso mexicano se cotiza debajo de las 18 unidades, reportó el banco Banamex. El rublo ruso se aprecia casi 2% en la sesión de este martes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/09/peso-dolar-precio-hoy-9-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3ALD74GS7RCGVH7FUUSLLQRO7M.png?smart=true&auth=8123dbb4b6ab11d1bfc88bf613bf3ba1caf7765d66d4679c0249d18ccadc7af2&width=1200&height=630",
-      "PublishedAt": "2026-06-09T15:59:22Z",
-      "Content": "El peso mexicano gana ante el dólar este martes 9 de junio gracias a una menor aversión al riesgo entre el mercado. En el mercado local, los inversionista asimilan el dato de inflación de mayo que fu… [+1600 chars]"
     }
   ]
 }
