@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 6, 2026",
+      "Description": "The Nigerian naira traded around ₦1,370.33 against the United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Monday, July 6, 2026, reflecting relative stability in the country's foreign exchange market. \nThe post Dollar to Naira exch…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-6-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/10/Earning-Dollars-made-easy-for-Nigerians-in-2025.jpeg",
+      "PublishedAt": "2026-07-06T06:08:32Z",
+      "Content": "The Nigerian naira traded around 1,370.33 against the United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Monday, July 6, 2026, reflecting relative stability in the countr… [+1105 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,19 +353,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/02/dollar-e1549281283839.jpg",
       "PublishedAt": "2026-06-23T06:06:40Z",
       "Content": "The Nigerian naira traded at relatively stable levels against the United States dollar on Tuesday, June 23, 2026, across both the official and parallel foreign exchange markets, as market participant… [+1668 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Financial Post Staff",
-      "Title": "News of the day: Toronto’s condopocalypse, Canadian dollar selloff, fired financial advisers, variable over fixed rates, bank regulations and more",
-      "Description": "It’s Friday, June 19. Here are the top stories we’re following today.",
-      "Url": "https://financialpost.com/uncategorized/news-of-the-day-torontos-condopocalypse-canadian-dollar-selloff-fired-financial-advisers-variable-over-fixed-rates-bank-regulations-and-more",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/0327-na-condo-clinic1.jpg",
-      "PublishedAt": "2026-06-19T21:30:21Z",
-      "Content": "Its Friday, June 19. Here are the top stories were following today.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Excl… [+3516 chars]"
     }
   ]
 }
