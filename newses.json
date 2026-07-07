@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso se recupera de la ‘cruda’ mundialista y avanza ante el dólar: Así está el tipo de cambio HOY",
+      "Description": "El peso está 'en compañía' de monedas como el rublo ruso y el yen japonés que también tienen ganancias ante el dólar, según datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/06/peso-dolar-precio-hoy-6-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/37QC6XRGYZD2PAEWACVHO7GBAY.png?smart=true&auth=c94cd0c09b9a1c2ebb714f3274ab24973befead611d449982cf14306f734df3c&width=1200&height=630",
+      "PublishedAt": "2026-07-06T16:30:57Z",
+      "Content": "El peso mexicano inicia la semana con ligeras ganancias ante el dólar en una sesión marcada por pocos datos económicos. \r\nEn el mercado, operadores de mercados emergentes recurren cada vez más a mone… [+1847 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TFMBGXWAOBAAFD5BIJMWNGOVX4.png?smart=true&auth=f7abf551d3eeb19ba362feb702cff00de6dbc01224278f155774d812b5145948&width=1200&height=630",
       "PublishedAt": "2026-06-11T16:07:04Z",
       "Content": "El peso mexicano extiende sus ganancias ante el dólar este jueves 11 de junio, día de inauguración del Mundial 2026, en un entorno influido por la publicación de datos de inflación en Estados Unidos … [+1484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Inflació en EU ‘echa una mano’ al peso: ¿Cuánto gana al dólar HOY 10 de junio?",
-      "Description": "La guerra en Irán, el principal factor que ha 'erosionado' los salarios en EU, se complicó aún más después de que Irán derribara un helicóptero con dos soldados estadounidenses.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/10/peso-dolar-precio-hoy-10-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BV2UQ5IQX5D2RO5SJGQC7X5FZ4.png?smart=true&auth=40d77f0955d966524d19cb9bdacded76054a0fd3e4dfa8682f05e6f6e2980994&width=1200&height=630",
-      "PublishedAt": "2026-06-10T16:12:41Z",
-      "Content": "El retroceso del dólar en los mercados se extiende a este miércoles 10 de junio después de que la inflación en Estados Unidos se ubicó en su punto más alto de los últimos tres años, en parte por la g… [+1840 chars]"
     }
   ]
 }
