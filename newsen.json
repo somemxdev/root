@@ -1,8 +1,125 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Deutsche Bank warns geopolitics and AI are increasing risks to the US dollar",
+      "Description": "Geopolitical tensions and AI risks could prompt a long-term shift away from USD assets, impacting global capital flows and reserve strategies.\nThe post Deutsche Bank warns geopolitics and AI are increasing risks to the US dollar appeared first on Crypto Brief…",
+      "Url": "https://cryptobriefing.com/deutsche-bank-dollar-risks-geopolitics-ai/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09073851/deutsche-bank-warns-ai-risks-in-u-s-equities-is-undermining--800x420.jpeg",
+      "PublishedAt": "2026-07-09T11:38:53Z",
+      "Content": "The bank's FX research head says the dollar is losing its safe-haven shine, and a long-term capital rotation away from USD assets could follow The US dollar has long been the financial world’s securi… [+2809 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Decrypt"
+      },
+      "Author": "Emre Yilmaz",
+      "Title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
+      "Description": "The lender's new US subsidiary, Connectia Trust, would issue a dollar-pegged stablecoin once it clears the regulator's final conditions.",
+      "Url": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
+      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/sony-logo-gID_7.png",
+      "PublishedAt": "2026-07-09T11:03:08Z",
+      "Content": "In brief\r\n<ul><li>Japan's Sony Bank has won conditional approval from the U.S. Office of the Comptroller of the Currency to set up a national trust bank, Connectia Trust, to issue a dollar-backed sta… [+3551 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "US Dollar Price Forecast: Dollar Reacts to FOMC Minutes on Policy Divergence — GBP/USD and EUR/USD Next Move?",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f649d9e9-fcea-4f4a-bed4-930aca11512a",
+      "UrlToImage": null,
+      "PublishedAt": "2026-07-09T07:51:05Z",
+      "Content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 9, 2026",
+      "Description": "The Nigerian naira traded at approximately ₦1,373.99 per United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Thursday, July 9, 2026, according to the latest available market data.\nThe post Dollar to Naira exchange rate today, July …",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-9-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/06/dollar-naira.jpg",
+      "PublishedAt": "2026-07-09T06:06:00Z",
+      "Content": "The Nigerian naira traded at approximately 1,373.99 per United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Thursday, July 9, 2026, according to the latest available marke… [+888 chars]"
+    },
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Ashley Archambault",
+      "Title": "I started grocery shopping at Dollar Tree to save money. Now, I swear by these 11 items I've found for under $1.50.",
+      "Description": "Grocery shopping at Dollar Tree has helped me save money on frozen vegetables, pantry staples, and snacks for my son. I've found great budget items.",
+      "Url": "https://www.businessinsider.com/best-groceries-to-buy-dollar-tree-saving-money-staples-2026-7#article",
+      "UrlToImage": "https://i.insider.com/6a4bd85594175b768171f36c?width=1200&format=jpeg",
+      "PublishedAt": "2026-07-08T14:31:01Z",
+      "Content": "I've saved a ton of money by grocery shopping at Dollar Tree.Ashley Archambault\r\n<ul><li>I was surprised to find that Dollar Tree has a great food section, with many quality items under $2.</li><li>N… [+5653 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "US Dollar Price Forecast: DXY Nears $101 Ahead of FOMC Meeting Minutes — Can GBP/USD and EUR/USD Recover?",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_939aa8e2-32e5-4b20-9567-517821bc9a30",
+      "UrlToImage": null,
+      "PublishedAt": "2026-07-08T07:34:24Z",
+      "Content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 8, 2026",
+      "Description": "The Nigerian naira traded at ₦1,372.96 against the United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Wednesday, July 8, 2026, according to official market data. \nThe post Dollar to Naira exchange rate today, July 8, 2026 appeared first on…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-8-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Middle-East-US-dollar-e1773418604972.jpg",
+      "PublishedAt": "2026-07-08T06:03:23Z",
+      "Content": "The Nigerian naira traded at 1,372.96 against the United States dollar at the Nigerian Foreign Exchange Market (NFEM) on Wednesday, July 8, 2026, according to official market data. The latest rate re… [+1275 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "24/7 Wall St."
+      },
+      "Author": "Rich Duprey",
+      "Title": "Why the Smart Money Could Be Wrong About Energy’s Next Trillion-Dollar Opportunity",
+      "Description": "The conflict between the U.S. and Iran reminded investors how quickly energy markets can dominate the headlines. Oil prices surged above $100 per barrel as f...",
+      "Url": "https://247wallst.com/investing/2026/07/07/why-the-smart-money-could-be-wrong-about-energys-next-trillion-dollar-opportunity/",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/2A15FBF1281BFFC84DC2D7AC9A17819309537AE7FC4C9991BFD46277A13F4D15/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbeaee8a0b7f4e1b3a557b2bb8b6010cf",
+      "PublishedAt": "2026-07-07T14:04:52Z",
+      "Content": "Quick Read\r\n<ul><li>Energy funds shed $3.2 billion in a single week, but falling oil prices are masking AI's unprecedented structural surge in electricity demand.\r\n</li><li>Global data center electri… [+5613 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, July 7, 2026",
+      "Description": "The Nigerian naira traded with mixed performance against the United States dollar on Tuesday, July 7, 2026, as the official Nigerian Foreign Exchange Market (NFEM) remained relatively stable while the parallel market recorded a slight weakening.\nThe post Doll…",
+      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-7-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-07-07T06:02:00Z",
+      "Content": "The Nigerian naira traded with mixed performance against the United States dollar on Tuesday, July 7, 2026, as the official Nigerian Foreign Exchange Market (NFEM) remained relatively stable while th… [+1288 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -236,123 +353,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
       "PublishedAt": "2026-06-26T05:49:38Z",
       "Content": "The Nigerian naira remained relatively stable against the United States dollar on Friday, June 26, 2026, across both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as t… [+1856 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar hits 13-month highs as investors bank on rate hikes",
-      "Description": "The US dollar is on a remarkable rise, approaching its most significant monthly increase in a year, fueled by expectations of upcoming rate hikes from the Federal Reserve. This surge has propelled the euro to a 13-month low and pushed the pound and yen down t…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hits-13-month-highs-as-investors-bank-on-rate-hikes/articleshow/131994192.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131994192,width-1200,height-630,imgsize-95078,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-06-25T12:38:21Z",
-      "Content": "The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that could support many investors' growing belief that the Federal Reserve will need to raise… [+2653 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "By Amanda Cooper",
-      "Title": "Dollar hits 13-month highs as investors bank on rate hikes",
-      "Description": "By Amanda Cooper LONDON, June 25 (Reuters) - The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that c...",
-      "Url": "https://finance.yahoo.com/news/dollar-rides-high-fed-rate-012635389.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/B3A6485ACF65D4FD7FEFBC2A2027D1DCE88161D99AB7B55214521987302B8450/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b2c1cb9fdc877bee0658bf8fb7b8617",
-      "PublishedAt": "2026-06-25T11:52:57Z",
-      "Content": "By Amanda Cooper\r\nLONDON, June 25 (Reuters) - The dollar headed on Thursday for its biggest monthly gain in almost a year, ahead of U.S. inflation data that could support many investors' growing beli… [+2334 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, June 25, 2026",
-      "Description": "The naira traded relatively stable against the United States dollar on Thursday, June 25, 2026, across both the official and parallel foreign exchange markets as market participants continued to monitor liquidity conditions and foreign exchange supply.\nThe po…",
-      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-25-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
-      "PublishedAt": "2026-06-25T05:43:48Z",
-      "Content": "The naira traded relatively stable against the United States dollar on Thursday, June 25, 2026, across both the official and parallel foreign exchange markets as market participants continued to moni… [+1462 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Sachin Kumar",
-      "Title": "Bank of India eyes $3.5 billion foreign currency inflows on RBI's dollar push",
-      "Description": "Bank of India aims to raise approximately $3.5 billion through foreign currency deposits and overseas borrowings, leveraging recent RBI measures. This strategic move, including $1 billion from FCNR(B) deposits and $1.5 billion via concessional swap facilities…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-eyes-3-5-billion-foreign-currency-inflows-on-rbis-dollar-push/articleshow/131965982.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131965940,width-1200,height-630,imgsize-1428354,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-06-24T11:12:08Z",
-      "Content": "Bank of India expects to mobilise about $3.5 billion through FCNR(B) deposits, overseas borrowings and external commercial borrowings after the Reserve Bank of India unveiled measures to boost foreig… [+2371 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Rupee cushioned by central bank hand even as dollar strength dents Asia FX",
-      "Description": "The Indian rupee defied regional weakness on Wednesday, supported by likely Reserve Bank of India intervention against a strengthening dollar. While Asian peers faltered, the rupee held steady as traders braced for potential US Federal Reserve rate hikes. Con…",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-cushioned-by-central-bank-hand-even-as-dollar-strength-dents-asia-fx/articleshow/131964489.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-131964489,width-1200,height-630,imgsize-34240,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-06-24T10:16:20Z",
-      "Content": "The Indian rupee bucked the weakness seen in most Asian peers on Wednesday as likely central bank intervention shielded the currency from a stronger dollar that rose as traders positioned for potenti… [+1779 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, June 24, 2026",
-      "Description": "The naira continued to trade within a relatively stable range against the United States dollar on Wednesday, June 24, 2026, across both the official and parallel foreign exchange markets.\nThe post Dollar to Naira exchange rate today, June 24, 2026 appeared fi…",
-      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-24-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-      "PublishedAt": "2026-06-24T05:54:04Z",
-      "Content": "The naira continued to trade within a relatively stable range against the United States dollar on Wednesday, June 24, 2026, across both the official and parallel foreign exchange markets.\r\nData from … [+1347 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Yen nears 40-year low as dollar strength overpowers Bank of Japan moves",
-      "Description": "The yen's decline highlights vulnerabilities in Japan's economic strategy, potentially triggering global market volatility and impacting crypto liquidity.\nThe post Yen nears 40-year low as dollar strength overpowers Bank of Japan moves appeared first on Crypt…",
-      "Url": "https://cryptobriefing.com/yen-40-year-low-dollar-strength-boj/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23093346/bank-of-japan-wikipedia-800x420.jpeg",
-      "PublishedAt": "2026-06-23T13:33:53Z",
-      "Content": "Japan's currency hovers around 161 per dollar despite a historic rate hike and $73 billion in interventions, with ripple effects reaching crypto markets through carry-trade dynamics. The Japanese yen… [+2400 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "PFC becomes first non-bank lender to tap dollar debt after RBI subsidy, bankers say",
-      "Description": "PFC becomes the first non-bank lender to issue dollar bonds, raising $300 million under RBI's subsidised hedging facility.",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/pfc-becomes-first-non-bank-lender-to-tap-dollar-debt-after-rbi-subsidy-bankers-say/article71136344.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/j9xmb4/article71116872.ece/alternates/LANDSCAPE_1200/Industrial-slumGGHFJ0NOJ.4.jpg.jpg",
-      "PublishedAt": "2026-06-23T06:32:21Z",
-      "Content": "Power Finance Corp has accepted bids worth $300 million for a five-year dollar bond issue, becoming the first non-bank lender to tap the central banks subsidised hedging facility for overseas borrowi… [+1348 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, June 23, 2026",
-      "Description": "The Nigerian naira traded at relatively stable levels against the United States dollar on Tuesday, June 23, 2026, across both the official and parallel foreign exchange markets, as market participants continued to monitor liquidity conditions and foreign exch…",
-      "Url": "https://www.vanguardngr.com/2026/06/dollar-to-naira-exchange-rate-today-june-23-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/02/dollar-e1549281283839.jpg",
-      "PublishedAt": "2026-06-23T06:06:40Z",
-      "Content": "The Nigerian naira traded at relatively stable levels against the United States dollar on Tuesday, June 23, 2026, across both the official and parallel foreign exchange markets, as market participant… [+1668 chars]"
     }
   ]
 }
