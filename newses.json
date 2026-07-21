@@ -1,8 +1,268 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 46,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso recorta más de 10 centavos al dólar en semana de revisión del T-MEC",
+      "Description": "El peso mexicano lidera las ganancias de monedas emergentes ante el dólar en la sesión de este lunes 20 de julio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/20/peso-dolar-precio-hoy-20-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KRZRMZBZMBDQZNNEPXDP654KCM.png?smart=true&auth=39d344c8c0b122d20309117f1cff8fb573a7cad2e850fb45e218623e1e1213bf&width=1200&height=630",
+      "PublishedAt": "2026-07-20T17:18:17Z",
+      "Content": "El peso mexicano abre con fuerza ante el dólar este 20 de julio, mientras los operadores están a la espera de la publicación de información económica tanto de México como de Estados Unidos. \r\nSobre e… [+1726 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "Maximiliano Villena",
+      "Title": "El dólar no baja de los $900 y las apuestas en contra del peso por parte de extranjeros llegan a niveles récord",
+      "Description": "En lo que va del año el dólar se empina más de $36, a pesar de que el precio del cobre se ubica en un promedio de US$5,946 por libra. A nivel global, la divisa de EE.UU. solo se empina 2,6%. Según datos del Banco Central, el 14 de julio las posiciones en cont…",
+      "Url": "https://www.latercera.com/pulso/noticia/el-dolar-no-baja-de-los-900-y-las-apuestas-en-contra-del-peso-por-parte-de-extranjeros-llegan-a-niveles-record/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/D3WYN23JUFDE3OCQGRUMSEPJZY.jpg?auth=bdeeac4a5400e29e67295646104c9b366850c0a24955aeadddc5f119ff8dddfd&height=630&width=1200&smart=true",
+      "PublishedAt": "2026-07-20T15:58:29Z",
+      "Content": "Desde los primeros días de marzo el precio del dólar se ha mantenido casi de forma constante sobre los $900 en Chile, pese a que el valor del cobre, el principal soporte del peso chileno, transa en t… [+5250 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Cede el peso ante el dólar en cierre de la semana por conflicto en Medio Oriente",
+      "Description": "El peso mexicano retrocedió 10 centavos en su cotización frente a dólar ayer, presionado por la escalada militar en Medio Oriente, que impulsó la demanda de activos de refugio, incluida la moneda estadunidense.",
+      "Url": "https://www.jornada.com.mx/2026/07/18/economia/015n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2026/07/18/fotos/015n1eco-1.jpg",
+      "PublishedAt": "2026-07-18T08:08:08Z",
+      "Content": "Periódico La JornadaSábado 18 de julio de 2026, p. 15\r\nEl peso mexicano retrocedió 10 centavos en su cotización frente a dólar ayer, presionado por la escalada militar en Medio Oriente, que impulsó l… [+2463 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "Evolución del dólar y riesgo país en Uruguay: balance de la semana y cotización de la moneda estadounidense",
+      "Description": "El billete verde bajó 0,10% y se cotizó en promedio en $ 40,189 y cerró la jornada en en $ 40,18; 0,02% por debajo del cierre anterior.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/evolucion-del-dolar-y-riesgo-pais-en-uruguay-balance-de-la-semana-y-cotizacion-de-la-moneda-estadounidense",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
+      "PublishedAt": "2026-07-18T06:00:00Z",
+      "Content": "En la comparación punta a punta, en relación al viernes anterior, el dólartuvo una variación negativa de 0,09%. Este comportamiento se asemeja al de la semana previa cuando había caído 0,01%.\r\nDurant… [+1849 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cae por debajo de ¢450",
+      "Description": "El precio del dólar cayó a ¢449,95 en Monex, un nivel similar al de hace más de 20 años, según datos del Banco Central.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cae-por-debajo-de-450/N67IMQBXPVGA5NRQ6GJ3O7BGCE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/OODJ6EAM6RHKXOIU3XFIXC4W2I.jpg?smart=true&auth=7ad0d851aac52d9347b22f79fa7e7513f754e7ba7546955ebc8ef9402fb0626f&width=1440",
+      "PublishedAt": "2026-07-17T19:52:52Z",
+      "Content": "El tipo de cambio del dólar respecto al colón se situó por debajo de ¢450 en la sesión de este viernes 17 de julio, marcando un nuevo mínimo histórico por quinta jornada consecutiva en el Mercado de … [+1354 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Dólar ‘domina’ al peso mientras EU intensifica ataques contra Irán: ¿Cómo está el tipo de cambio HOY?",
+      "Description": "El dólar 'amenaza' con venderse de nuevo por arriba de los 18 pesos en bancos, esto mientras EU e Irán no dan señales de avanzar en un nuevo acuerdo para cesar sus hostilidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/17/peso-dolar-precio-hoy-17-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5PONTBFORBCRHHS63ZW7BMYVRU.png?smart=true&auth=dcbf24c82298d4d3cb71152cdae76b46dec4b7630a3d9b57326c233d6ad2de0f&width=1200&height=630",
+      "PublishedAt": "2026-07-17T16:20:08Z",
+      "Content": "El peso mexicano pierde más terreno ante el dólar en la sesión de este viernes 17 de julio debido a una mayor incertidumbre en las negociaciones entre Estados Unidos e Irán para terminar su conflicto… [+1891 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Se viene: EE.UU. comenzó a producir una moneda de un dólar con el rostro de Trump",
+      "Description": "Conoce la moneda de un dólar con el rostro de Donald Trump que EE.UU. comenzó a acuñar por sus 250 años y el debate legal que generó.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/se-viene-eeuu-comenzo-a-producir-una-moneda-de-un-dolar-con-el-rostro-de-trump-nid16072026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/esta-moneda-presenta-la-imagen-de-trump-y-tiene-NKLUHHNCBFGJ5CPP2MV4E7CIZM.jpg?auth=abe5d6230707e869b980dfd04136d2d08e810a0fddcb53dd8e7f8d39b6104270&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-07-16T18:37:05Z",
+      "Content": "Estados Unidos puso en marcha la fabricación de unanueva moneda de un dólarque lleva el retrato del presidente Donald Trump. La emisión forma parte de las actividades previstas para conmemorar los 25… [+3477 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Aranceles de Trump a Brasil ‘despiertan miedo’ en el peso: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/16/peso-dolar-precio-hoy-16-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/S7LDLNTJFREXLGM6I5WHYYYLKU.png?smart=true&auth=434b9d22711b734a35e4806cd084c26e2813d81671488013dc2ec08cbc46881f&width=1200&height=630",
+      "PublishedAt": "2026-07-16T16:06:39Z",
+      "Content": "A la tercera fue la vencida para el dólar, que recupera terreno después de dos sesiones con pérdidas ante el peso mexicano. En el mercado, los inversionistas asimilan los nuevos aranceles anunciados … [+1662 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "AP",
+      "Title": "Emite EU moneda de un dólar con la cara de Trump",
+      "Description": "EU comenzó a producir una nueva moneda con el rostro del Presidente Trump con motivo del Aniversario 250 de la independencia del país.",
+      "Url": "https://www.reforma.com/emite-eu-moneda-de-un-dolar-con-la-cara-de-trump/ar3240790",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/235/6234189.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-07-15T18:53:34Z",
+      "Content": "02 MIN 30 SEG\r\nAP\r\nWashington DC, Estados Unidos (15 julio 2026) .-12:51 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "La Voz",
+      "Title": "Trump tendrá una moneda de un dólar con su imagen",
+      "Description": "El secretario del Tesoro confirma que se acuñará una pieza conmemorativa de los 250 años de la declaración de independencia",
+      "Url": "https://www.lavozdegalicia.es/noticia/economia/2026/07/15/trump-tendra-moneda-dolar-imagen/00031784137331590225474.htm",
+      "UrlToImage": "https://img.lavdg.com/sc/6V-p117uNy6n8CGF5sAc7FCdmx0=/1280x/2026/07/15/00121784136781481866135/Foto/efe_20260715_160352987.jpg",
+      "PublishedAt": "2026-07-15T17:46:00Z",
+      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump, qu… [+1182 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘exprime’ debilitamiento del dólar en miércoles de quincena: ¿Cómo está el tipo de cambio HOY?",
+      "Description": "La Reserva Federal tiene menos margen para subir la tasa de interés de este año por el dato de inflación más reciente en EU, señalaron analistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/15/peso-dolar-precio-hoy-15-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E2CZHGYBW5AOZDIKGOWT46WK54.png?smart=true&auth=441e77cc167e1b576b606f092c03f1d05621748c4faeeae88fcf720da4639c7d&width=1200&height=630",
+      "PublishedAt": "2026-07-15T16:39:15Z",
+      "Content": "El retroceso del dólar ante el peso se extendió por segunda sesión consecutiva mientras el mercado analiza los datos de inflación al productor en Estados Unidos en este miércoles de quincena. \r\nEl im… [+1700 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Huffingtonpost.es"
+      },
+      "Author": "Redacción HuffPost",
+      "Title": "Ya es oficial: Trump cambia las normas y su rostro aparecerá en una moneda de oro de un dólar",
+      "Description": "<![CDATA[<p>El secretario del Tesoro de Estados Unidos, Scott Bessent, ha presentado una nueva moneda de oro de 24 quilates con el rostro de Donald Trump.]]>",
+      "Url": "https://www.huffingtonpost.es/economia/ya-oficial-trump-cambia-normas-rostro-aparecera-moneda-oro-dolar-f202607.html",
+      "UrlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/07/15/moneda-de-un-dolar-de-donald-trump-7683.jpeg",
+      "PublishedAt": "2026-07-15T15:45:43Z",
+      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, ha presentado una nueva moneda de oro de 24 quilates con el rostro de Donald Trump. \r\nLa moneda será acuñada por la Casa de la Moneda de Est… [+1649 chars]"
+    },
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "EE. UU. acuñará una nueva moneda de oro de 1 dólar con la imagen de Trump (FOTO)",
+      "Description": "",
+      "Url": "https://actualidad.rt.com/actualidad/616923-eeuu-acunara-moneda-oro-dolar-imagen-trump",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/original/6a5789b259bf5b01436e2d40.jpg",
+      "PublishedAt": "2026-07-15T13:22:58Z",
+      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, anunció que la Casa de la Moneda comenzará a acuñar una nueva moneda de oro de 1 dólar  con la imagen del presidente Donald Trump con motivo… [+798 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Mónica Cerdas Gómez",
+      "Title": "Dólar continúa bajando: tipo de cambio marcó un nuevo mínimo en Costa Rica",
+      "Description": "El tipo de cambio en el Monex se ha mantenido por debajo de los ¢455 desde el pasado 29 de junio",
+      "Url": "https://www.nacion.com/economia/dolar-continua-bajando-tipo-de-cambio-marco-un/KDO5GMFVZVHYPP5Q5U5R4Y5VWM/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/I4GQGQVYYFDAHA6LBZLXDJ222Y.jpg?smart=true&auth=ffd64ef06b768ada84eef510f535d232a8d4e0ef25cbaadd80abc74c8ff35500&width=1440",
+      "PublishedAt": "2026-07-14T22:54:09Z",
+      "Content": "El tipo de cambio volvió a marcar un nuevo mínimohistórico en el Mercado de Monedas Extranjeras (Monex). \r\nEl promedio ponderado del precio del dólar cerró la sesión de este martes 14 de julio en ¢45… [+1803 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Caída de precios en EU ‘infla’ al peso: ¿Cuánto gana al dólar HOY 14 de julio?",
+      "Description": "La desaceleración de la inflación en EU redujo las expectativas de que la Fed suba la tasa de interés este año.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/14/peso-dolar-precio-hoy-14-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GAUGJYWB2JGDJKYGJPSRVNJBYE.png?smart=true&auth=5daaba6406bccb22ed4c7b6281e05deffc0e919d8d4df53d26c7edee0bf1cf93&width=1200&height=630",
+      "PublishedAt": "2026-07-14T17:19:11Z",
+      "Content": "El peso mexicano pisa fuerte ante el dólar en la sesión de este martes 14 de julio después de que los datos de inflación en Estados Unidos se ubicaron por debajo de lo esperado por el mercado. \r\nEl Í… [+1537 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Lautaro Brum",
+      "Title": "Dólar en Uruguay: el comportamiento de la moneda norteamericana al comenzar la semana",
+      "Description": "El dólar inició la semana prácticamente estable y cerró con una leve suba. Mientras, el riesgo país volvió a bajar y se ubicó en 50 puntos básicos, uno de los niveles más bajos del año.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/dolar-en-uruguay-el-comportamiento-de-la-moneda-norteamericana-al-comenzar-la-semana",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
+      "PublishedAt": "2026-07-13T22:35:19Z",
+      "Content": "Al comenzar la semana, el dólarse mantuvo casi estable (con unavariación de apenas 0,01%) y se negoció en promedio en $ 40,232. En julio, la moneda norteamericana viene aumentando 0,29% y en 2026 aum… [+1340 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Trancazos’ entre Trump e Irán en Medio Oriente afectan al peso: ¿Cuánto se deprecia ante el dólar HOY?",
+      "Description": "Felipe Mendoza, analista de mercados en EBC Financial Group, prevé que el tipo de cambio presente cambios acotados. El dólar se vende en 17.95 pesos en bancos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/13/peso-dolar-precio-hoy-13-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4SCPD2DV6BBMRGJIXXD4V64S5Y.png?smart=true&auth=4803423e8d7c620ea8f81170d837fc64d9c380a96fed84bf4ddaf899eceb6f18&width=1200&height=630",
+      "PublishedAt": "2026-07-13T15:17:37Z",
+      "Content": "El peso mexicano pierde terreno ante el dólar este lunes 13 de julio, ante el nerviosismo del mercado por los últimos ataques entre Estados Unidos e Irán en Medio Oriente. \r\nLa situación se descontro… [+1560 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar abre con leve alza por mayor tensión en Medio Oriente y la apuesta de los extranjeros contra el peso marca máximo del año",
+      "Description": "Los no residentes ya mantienen posiciones superiores a los US$ 17.000 millones en contra del peso chileno, explicó el director general de BeFX, Rodrigo Castillo",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-cwcuj",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260713/imag/foto_0000000420260713085346/Dolar2_RTRS.jpg",
+      "PublishedAt": "2026-07-13T12:54:59Z",
+      "Content": "El dólar abrió el lunes con un leve avance en Chile, mientras la divisa se mantenía plana a nivel global a medida que los inversionistas centraban su atención en el recrudecimiento de las hostilidade… [+2122 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Se aprecia el peso ante retroceso global del dólar",
+      "Description": "El peso mexicano avanzó 0.38 por ciento ayer, impulsado por un repliegue global del dólar, en un mercado con la atención puesta en el conflicto de Medio Oriente.",
+      "Url": "https://www.jornada.com.mx/2026/07/11/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-07-11T07:43:24Z",
+      "Content": "Periódico La JornadaSábado 11 de julio de 2026, p. 16\r\nEl peso mexicano avanzó 0.38 por ciento ayer, impulsado por un repliegue global del dólar, en un mercado con la atención puesta en el conflicto … [+2224 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso busca rescatar la semana ante el dólar: Así abre el tipo de cambio este viernes 10 de julio",
+      "Description": "Los pesos mexicanos, colombianos y chilenos lideran a las monedas con ganancias en la sesión de este 10 de julio, de acuerdo con datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/10/peso-dolar-precio-hoy-10-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3GZ3ENIFMBCBZCBSUCVZSZWRU4.png?smart=true&auth=c338c625671dcf48e1f0bf23b4fe6f17a6e6ed5de4315a24fbb50a417005f578&width=1200&height=630",
+      "PublishedAt": "2026-07-10T16:01:15Z",
+      "Content": "Una disminución en la fortaleza del dólar dio paso a que la mayoría de las divisas emergentes, entre ellas el peso mexicano, se aprecien este viernes 10 de julio. \r\nEn EU, los precios del petróleo su… [+2171 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -132,266 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Y64HDGOU2BE65C6YTRCKYAGRVY.png?smart=true&auth=3648f7acec0cb7f35100c0c95773f7eb4a28a3270c2489cfb1ffcde849c98e40&width=1200&height=630",
       "PublishedAt": "2026-07-02T15:42:17Z",
       "Content": "El peso mexicano recupera terreno ante el dólar este jueves 2 de julio, mientras los participantes del mercado asimilan el más reciente reporte de la economía de Estados Unidos. \r\nLa contratación en … [+1606 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Por la suba del dólar, el Banco Central redujo la compra de reservas en junio",
-      "Description": "Adquirió US$1418 millones, 47% menos en abril y mayo, y el monto mensual más bajo desde febrero; cayó el ritmo para no agregar presión a la divisa estadounidense",
-      "Url": "https://www.lanacion.com.ar/economia/por-la-suba-del-dolar-el-banco-central-redujo-la-compra-de-reservas-en-junio-nid30062026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/banco-central-de-la-republica-WNFHIWBYJRG4LI7XHUGHDEN42A.jpg?auth=41351aafb856a02d22211731c9e4cde0c3e8e54e9720f7539226c12204dbb4af&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-06-30T21:28:23Z",
-      "Content": "El sólido rebote que ensayó el dólar en la plaza local, acompañando en buena medida el fortalecimiento que esa moneda mostró a nivel global, obligó al Banco Central (BCRA) a dosificar la compra de re… [+4521 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Ruth Carson",
-      "Title": "Aguas, México y ‘superpeso’: HSBC advierte de repunte ‘explosivo’ del dólar",
-      "Description": "El repunte del dólar podría ser una 'operación dolorosa' para los mercados, según la advertencia de HSBC.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/06/30/aguas-mexico-y-superpeso-hsbc-advierte-de-repunte-explosivo-del-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IO7U55QXK5BZLMP3ZP4YSTZFZM.png?smart=true&auth=ca4d1115c62817205a96e0b3d6a60ddf6c4b23e51e33f24bbb0be1e4ce256f25&width=1200&height=630",
-      "PublishedAt": "2026-06-30T17:17:20Z",
-      "Content": "Un fuerte repunte del dólar podría convertirse en una de las mayores operaciones dolorosas (pain trade) para los mercados durante la segunda mitad del año, según HSBC.\r\nEl banco prevé que el dólar se… [+3203 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso, con leve ganancia ante el dólar en cierre de junio: Así está el tipo de cambio HOY 30 de junio",
-      "Description": "Contrario al peso, la moneda que más pierde ante el dólar es el rublo ruso, que se deprecia más de 1%.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/30/peso-dolar-precio-hoy-30-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GAUGJYWB2JGDJKYGJPSRVNJBYE.png?smart=true&auth=5daaba6406bccb22ed4c7b6281e05deffc0e919d8d4df53d26c7edee0bf1cf93&width=1200&height=630",
-      "PublishedAt": "2026-06-30T16:33:20Z",
-      "Content": "El peso mexicano tiene ganancias marginales ante el dólar en la sesión de este martes 30 de junio. \r\nIrán reiteró que busca controlar el tráfico marítimo que cruza el Estrecho de Ormuz y negó que una… [+1740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso no se ‘inmuta’ en inicio de operaciones ante el dólar: ¿En cuánto está el tipo de cambio HOY?",
-      "Description": "Estados Unidos e Irán retomarán las negociaciones en Qatar esto después de intercambios de ataques durante el fin de semana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/29/peso-dolar-precio-hoy-29-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/K6MEPDPOKZGG3FFGMHOWV2SAMQ.png?smart=true&auth=ca9d8e72f5197b636de89cba4667bd0ce45848d15c98c74310c580432de578aa&width=1200&height=630",
-      "PublishedAt": "2026-06-29T16:54:45Z",
-      "Content": "El peso mexicano no registra cambios ante el dólar en la sesión de este lunes 29 de junio. El mercado analiza los bombardeos que Estados Unidos realizó contra Irán durante el fin de semana, esto desp… [+1681 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Gobierno de Bolivia elimina el tipo de cambio fijo para el dólar y lo flexibiliza",
-      "Description": "El Gobierno boliviano dispuso que el valor de la divisa estadounidense se determinará en función de la oferta y demanda diaria en el sistema financiero. De acuerdo con el Ministerio de Economía, esta medida busca \"fortalecer la estabilidad macroeconómica, pre…",
-      "Url": "https://noticiaslatam.lat/20260627/gobierno-de-bolivia-elimina-el-tipo-de-cambio-fijo-para-el-dolar-y-lo-flexibiliza-1174081826.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1174081826.jpg?11729749661782601226",
-      "PublishedAt": "2026-06-27T23:00:25Z",
-      "Content": "\"El tránsito al nuevo régimen cambiario será ejecutado por el Banco Central, en el ejercicio de las atribuciones y competencias conferidas por la Ley n.º 1670 de 31 de octubre de 1995, teniendo como … [+121 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Serie “Draped Bust”: la moneda de un dólar de EE.UU. que en realidad vale casi US$1 millón",
-      "Description": "Un error en la ubicación del busto de la Libertad convirtió esta pieza de plata en una de las más buscadas por los coleccionistas",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/serie-draped-bust-la-moneda-de-un-dolar-de-eeuu-que-en-realidad-vale-casi-us1-millon-nid27062026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/su-valor-depende-del-estado-de-conservacion-y-de-LGBHHCCTGVB23FLZ74OAKWT6KE.jpg?auth=f2dff35b724b5abff91cc0de7215fe71294adea6eb280c6cc4731324d33d7557&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-06-27T20:23:00Z",
-      "Content": "Algunas monedas antiguas de Estados Unidos alcanzan cifras elevadas en el mercado numismático debido a variantes de fabricación que las distinguen del resto de los ejemplares emitidos en la misma épo… [+3018 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Gustavo Ortega Campos",
-      "Title": "Tipo de cambio del dólar cierra la semana por encima de ¢455",
-      "Description": "El precio del dólar en el Monex se incrementó en Costa Rica con respecto al cierre de la semana anterior",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-la-semana-por/EY63HUTZDFCBFKZZRA5B2PPEVM/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/6YKNCNUSDVD7NLYYCMJ3OJZRVE.jpg?smart=true&auth=501032eb054138f769f7bfba3ea16a57ada8f59db5c4571f873b527c5643b6b2&width=1440",
-      "PublishedAt": "2026-06-26T19:08:00Z",
-      "Content": "El tipo de cambio del colón frente al dólar se colocó este viernes 26 de junio por encima de los ¢455 en el Mercado de Monedas Extranjeras (Monex).\r\nEl precio de la divisa cerró en ¢455,14, lo que re… [+103 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso se perfila para perder la semana ante el dólar: Así está el tipo de cambio HOY",
-      "Description": "Felipe Mendoza, analista de mercados de EBC Financial Group, puntualizó que la decisión del Banxico de no hacer cambios a la tasa de interés puede beneficiar a la divisa.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/26/peso-dolar-precio-hoy-26-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3GZ3ENIFMBCBZCBSUCVZSZWRU4.png?smart=true&auth=c338c625671dcf48e1f0bf23b4fe6f17a6e6ed5de4315a24fbb50a417005f578&width=1200&height=630",
-      "PublishedAt": "2026-06-26T18:16:48Z",
-      "Content": "El peso se deprecia levemente ante el dólar este viernes 26 de junio, en un mercado que mantiene la atención sobre la postura de política monetaria de Banco de México y la evolución del entorno comer… [+1824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay sube por tercera jornada consecutiva y se afianza sobre los $ 40 a nivel interbancario",
-      "Description": "La moneda estadounidense avanzó hasta un promedio de $ 40,216 en el mercado local, al tiempo que el riesgo país bajó a 51 puntos básicos y la tasa call se ubicó cerca del objetivo del BCU.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-por-tercera-jornada-consecutiva-y-se-afianza-sobre-los-40-a-nivel-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
-      "PublishedAt": "2026-06-26T06:00:00Z",
-      "Content": "El dólaren Uruguay subió por tercer día consecutivo, en esta oportunidad 0,22%, y se negoció en promedio en $ 40,216. En la jornada, el billete verde cotizó entre $ 40,15 y $ 40,25 para finalizar en … [+1266 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso recupera terreno ante el dólar en día de decisión del Banxico",
-      "Description": "Los mercados 'digieren' el nuevo dato de inflación en Estados Unidos que aún se ve 'marcado' por los efectos de la guerra en Irán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/25/peso-dolar-precio-hoy-25-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/R4W6MWWBTBG4XLHNHKKL4YC3XQ.png?smart=true&auth=fce977d702ddda4b04e73bbd3e86e5ecec524f71f0ffadc6c115d82f77b2f9b3&width=1200&height=630",
-      "PublishedAt": "2026-06-25T15:38:46Z",
-      "Content": "El peso mexicano borra pérdidas de la semana ante el dólar, luego de que la lectura más reciente de inflación en Estados Unidos estuvo en línea con lo anticipado este jueves 25 de junio. \r\nEl índice … [+2107 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso profundiza sus pérdidas ante el dólar previo a decisión de Banxico: ¿Cuánto cae HOY?",
-      "Description": "En noticias locales, la presidenta Sheinbaum destacó que la inflación se ubicó en 3.55%, y subrayó el trabajo hecho por su Gobierno para controlar los precios.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/24/peso-dolar-precio-hoy-24-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BAPOPPKRXNC75NY5GB5KKZJ5TE.png?smart=true&auth=c0dff23c7c71aa8c9dfd358e0acccb7e187850795739e9e6e57c1c2e40db2bf3&width=1200&height=630",
-      "PublishedAt": "2026-06-24T17:30:57Z",
-      "Content": "El peso mexicano retrocede ante el dólar en la sesión de este miércoles 24 de junio, mientras los analistas asimilan el nuevo dato de inflación en México. \r\nEl Índice Nacional de Precios al Consumido… [+1684 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay sube y vuelve al nivel de los $ 40 en el interbancario, al tiempo que aumenta también en la región",
-      "Description": "A través de las pantallas de la Bolsa Electrónica de Valores (Bevsa) ayer se hicieron 122 transacciones por un monto de US$ 60,8 millones.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-sube-y-vuelve-al-nivel-de-los-40-en-el-interbancario-al-tiempo-que-aumenta-tambien-en-la-region",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/35f5d18/2147483647/strip/true/crop/1024x640+0+20/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2020%2F09%2F18%2F5f65204fc205c.jpeg",
-      "PublishedAt": "2026-06-24T06:00:00Z",
-      "Content": "El dólar en Uruguay subió ayer 0,49% y se negoció en promedio en $ 40,105. En la jornada, el billete verde cotizó entre $ 40,05 y $ 40,15 para finalizar en el mínimo. El valor de cierre aumentó 0,5% … [+1275 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿¡Nani!? Peso cae con fuerza ante el dólar por posible intervención cambiaria en Japón",
-      "Description": "El Banco de Japón advirtió que considerará tomar 'medidas audaces' sobre su moneda en caso de ser necesario. Esto 'despertó' un sentimiento de temor en los mercados.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/23/peso-dolar-precio-hoy-23-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2JGT2O5YZZGP7PBIDFWJRW25DE.png?smart=true&auth=3d54b803afe5cfeefef59a971f9b150766e719266e3ca30813446dc1766c47c6&width=1200&height=630",
-      "PublishedAt": "2026-06-23T17:51:24Z",
-      "Content": "El peso mexicano experimenta una difícil sesión ante el dólar este martes 23 de junio, debido a que los inversionistas muestran una postura más cautelosa por la expectativa de que el Banco de Japón h… [+1996 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cae peso 0.21% ante el avance global del dólar",
-      "Description": "El peso mexicano se depreció el lunes ante un avance global del dólar, mientras los inversionistas evalúan una primera ronda de conversaciones entre Estados Unidos e Irán en torno al fin del conflicto en Medio Oriente.",
-      "Url": "https://www.jornada.com.mx/2026/06/23/economia/018n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-06-23T08:09:20Z",
-      "Content": "Periódico La JornadaMartes 23 de junio de 2026, p. 18\r\nEl peso mexicano se depreció el lunes ante un avance global del dólar, mientras los inversionistas evalúan una primera ronda de conversaciones e… [+1536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay comienza la semana a la baja y vuelve a caer por debajo del nivel de los $ 40 en el interbancario",
-      "Description": "La moneda estadounidense retrocedió ayer en Uruguay, luego que el viernes no hubiera operativa por el feriado debido al natalicio de José Gervasio Artigas.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-comienza-la-semana-a-la-baja-y-vuelve-a-caer-por-debajo-del-nivel-de-los-40-en-el-interbancario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/4439386/2147483647/strip/true/crop/962x601+31+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2021%2F10%2F25%2F61773c0c62499.jpeg",
-      "PublishedAt": "2026-06-23T06:00:00Z",
-      "Content": "El dólar en Uruguay empezó la semana con una caída de 0,47% y se negoció en promedio $39,908. En la jornada el billete verde cotizó entre $ 39,85 y $ 40,05 para finalizar en el mínimo. El valor de ci… [+1231 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso queda inmóvil ante el dólar: Así está el tipo de cambio este lunes 22 de junio",
-      "Description": "La semana pasada, la Fed dio a entender al mercado que analiza un aumento a la tasa de interés debido a que la inflación en EU no cede.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/22/peso-dolar-precio-hoy-22-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/37QC6XRGYZD2PAEWACVHO7GBAY.png?smart=true&auth=c94cd0c09b9a1c2ebb714f3274ab24973befead611d449982cf14306f734df3c&width=1200&height=630",
-      "PublishedAt": "2026-06-22T16:18:39Z",
-      "Content": "Elpeso mexicano arranca sin cambios ante el dólar este lunes 22 de junio. El mercado aún evalúa las expectativas de ver un incremento en la tasa de interés de la Reserva Federal después de que el nue… [+1693 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Correcciones en el valor del dólar ayudan al peso: ¿En cuánto está el tipo de cambio HOY?",
-      "Description": "Además del peso mexicano, otras monedas que se aprecian ante el dólar este viernes 19 de junio son el won surcoreano y la corona noruega.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/19/peso-dolar-precio-hoy-19-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4UL6ZKNTSRBHTABAFACVS4HP6I.png?smart=true&auth=4bba3299b59f79920de7f33527569f341befa4b978a275f9af262ff6659ac6e3&width=1200&height=630",
-      "PublishedAt": "2026-06-19T16:50:16Z",
-      "Content": "Luego de que el dólar avanzó gracias a la expectativa de un aumento en la tasa de la Fed, el tipo de cambio tiene correcciones este viernes 19 de junio, lo que beneficia a monedas emergentes como el … [+1464 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Tono ‘serio’ de la Fed sobre aumento a tasa afecta a peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Kevin Warsh, nuevo presidente de la Fed, remarcó en conferencia que la Reserva Federal no 'tolerará' una inflación elevada, lo que aumentó las apuestas sobre un aumento a la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/18/peso-dolar-precio-hoy-18-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2AIXLGIJPREXXP5OIEU7FRBR6M.png?smart=true&auth=f64824bad38b14acb54766aebaadd2833af0bf41d0a62a30c3ef8272edfd34b9&width=1200&height=630",
-      "PublishedAt": "2026-06-18T15:49:11Z",
-      "Content": "La expectativa de que la Reserva Federal subirá su tasa de interés este año debilitó al peso frente al dólar este jueves 18 de junio. \r\nEn su primera decisión de política monetaria al frente de la Fe… [+1843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso baja de las 17.20 unidades ante el dólar: ¿En cuánto se cotiza HOY 17 de junio?",
-      "Description": "Los inversionistas reciben con ánimo, pero también con cautela, el acuerdo de paz entre EU e Irán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/06/17/peso-dolar-precio-hoy-17-de-junio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E2CZHGYBW5AOZDIKGOWT46WK54.png?smart=true&auth=441e77cc167e1b576b606f092c03f1d05621748c4faeeae88fcf720da4639c7d&width=1200&height=630",
-      "PublishedAt": "2026-06-17T16:27:53Z",
-      "Content": "El peso mexicano se perfila para ligar su octava jornada de ganancias ante el dólar este 17 de junio, aunque persiste la cautela entre los inversionistas previo a que se firme el acuerdo entre Estado… [+1630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre con leve alza tras reunión de política del Banco Central y previo al anuncio de la Reserva Federal",
-      "Description": "El tipo de cambio viene de acumular seis jornadas consecutivas a la baja en el compilado de Bloomberg. De sumar otra, sería su racha de caídas más extensa desde mayo de 2024.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-pg6yr",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260617/imag/foto_0000000720260617080349/2023-08-03T211934Z_1994381855_RC2KG2ABEPUU_RTRMADP.jpg",
-      "PublishedAt": "2026-06-17T12:40:19Z",
-      "Content": "Tras varios días cayendo, el dólar abrió levemente al alza este miércoles. Luego de que el Banco Central de Chile mantuviera las tasas de interés y la Reserva Federal (Fed) publique más adelante en l… [+2960 chars]"
     }
   ]
 }
