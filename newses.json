@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 46,
+  "TotalResults": 48,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso amplia ganancias ante el dólar: Así está el tipo de cambio HOY 21 de julio",
+      "Description": "Trump anunció un arancel de 50% contra ciertos productos de Canadá por lo que consideró un trato injusto a los autos y lácteos de EU.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/21/peso-dolar-precio-hoy-21-de-julio-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KQU4NM2UGNDELNUFXWAOHUI4VY.png?smart=true&auth=12127d94e96fa991c046ce5e264e0113d2bce99726fd2b0df1b1c0cc200b3491&width=1200&height=630",
+      "PublishedAt": "2026-07-21T17:06:34Z",
+      "Content": "El mercado despertó con un mayor apetito por activos de riesgo este martes 21 de julio, mientras analiza los nuevos aranceles que el presidente Donald Trump impondrá a Canadá. \r\nEU anunció una tarifa… [+1752 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "El dólar baja en la apertura por fuerte alza del cobre y pese a las apuestas de extranjeros contra el peso",
+      "Description": "Las apuestas contra el peso chileno alcanzan los US$17.845 millones, el nivel más alto del año y superior al máximo registrado el pasado 9 de julio, dijo Rodrigo Castillo, director general de BeFX.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-z39pu",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260721/imag/foto_0000000320260721082811/Dolar_RTRS2.jpg",
+      "PublishedAt": "2026-07-21T12:45:45Z",
+      "Content": "El dólar abrió en baja este martes en el mercado cambiario chileno, favorecido por un fuerte repunte en la cotización del cobre y pese a un nuevo máximo en las apuestas contra el peso por parte de ex… [+2731 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2026-07-04T08:02:05Z",
       "Content": "Periódico La JornadaSábado 4 de julio de 2026, p. 16\r\nEl peso mexicano terminó prácticamente estable frente a la sesión anterior, en medio de un debilitamiento del dólar y al cierre de una semana con… [+2202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Real de a ocho: la moneda española que financió la independencia de EE.UU. y originó el dólar",
-      "Description": "En 2007, escribió Carmen Marcos Alonso , jefa del Departamento de Numismática del Museo Arqueológico Nacional, en ABC: «El real de a ocho , acuñado desde mediados del siglo XVI, fue, sin duda, la moneda más internacional que ha tenido España». Y añadía: «La c…",
-      "Url": "https://www.abc.es/historia/real-ocho-moneda-espanola-financio-independencia-eeuu-20260704014047-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/07/04/real-ocho-U62203366414GtS-1200x630@diario_abc.jpg",
-      "PublishedAt": "2026-07-03T23:40:47Z",
-      "Content": "En 2007, escribió Carmen Marcos Alonso, jefa del Departamento de Numismática del Museo Arqueológico Nacional, en ABC: «El real de a ocho, acuñado desde mediados del siglo XVI, fue, sin duda, la moned… [+5843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso avanza tras débil reporte de empleo en EU: ¿Cuánto gana al dólar HOY?",
-      "Description": "El mercado local también analiza la decisión de Donald Trump de no renovar el T-MEC. Marcelo Ebrard descartó que la medida disminuya la confianza en México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/02/peso-dolar-precio-hoy-2-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Y64HDGOU2BE65C6YTRCKYAGRVY.png?smart=true&auth=3648f7acec0cb7f35100c0c95773f7eb4a28a3270c2489cfb1ffcde849c98e40&width=1200&height=630",
-      "PublishedAt": "2026-07-02T15:42:17Z",
-      "Content": "El peso mexicano recupera terreno ante el dólar este jueves 2 de julio, mientras los participantes del mercado asimilan el más reciente reporte de la economía de Estados Unidos. \r\nLa contratación en … [+1606 chars]"
     }
   ]
 }
