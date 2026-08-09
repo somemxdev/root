@@ -1,8 +1,164 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Jennifer McDermott, The Associated Press",
+      "Title": "Trump hates offshore wind so much that he’s using taxpayer money for billion-dollar settlements to kill projects",
+      "Description": "President Donald Trump, who often talks about his hatred of wind power, has said his goal is to not let any “windmills” be built.",
+      "Url": "https://fortune.com/2026/08/07/trump-wind-buyback-scam-whitehouse-rwe/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2226873170-e1786105736235.jpg?resize=1200,600",
+      "PublishedAt": "2026-08-07T12:29:09Z",
+      "Content": "An offshore wind company said Thursday that it reached a $1.2 billion settlement with the Trump administration to walk away from projects under development off New York, California and Louisiana. Thi… [+3709 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "ICICI Bank, Axis Bank tap dollar debt again in less than two months: Report",
+      "Description": "ICICI Bank and Axis Bank have returned to the U.S. dollar debt market, each looking to raise $300 million through upcoming bond issues, set to close for subscription next week. Notably, last month saw ICICI Bank raise a substantial $1 billion while Axis Bank …",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-axis-bank-tap-dollar-debt-again-in-less-than-two-months-report/articleshow/133031429.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133031470,width-1200,height-630,imgsize-82706,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-07T10:43:55Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+      "Description": "US Dollar Price Forecast: DXY trades near key support ahead of Friday’s U.S. Nonfarm Payrolls report, while EUR/USD tests resistance and GBP/USD consolidates...",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-081652466.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/DF371E5738D0E0156E59B48F63F70CD7B2D914203940D63A87A83909269B6A71/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F8993a1e93cf35e31e5fc7edfd9bcdcf3",
+      "PublishedAt": "2026-08-07T08:16:52Z",
+      "Content": "US Dollar News: Payrolls Countdown and Global Central Banks Shape FX Outlook\r\nThe U.S. dollar's value continues to fluctuate in anticipation of the U.S. Nonfarm Payrolls (NFP) report, the final signi… [+4707 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 7, 2026",
+      "Description": "The naira remained relatively stable against the United States dollar across both the official and parallel foreign exchange markets as traders monitored liquidity conditions and demand pressures.\nThe post Dollar to Naira exchange rate today, August 7, 2026 a…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-7-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-08-07T05:53:49Z",
+      "Content": "The naira remained relatively stable against the United States dollar across both the official and parallel foreign exchange markets as traders monitored liquidity conditions and demand pressures.\r\nA… [+1547 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "ICICI Bank, Axis Bank tap dollar debt again in less than two months, bankers say",
+      "Description": "ICICI Bank and Axis Bank raise $300 million each in U.S. dollar debt market for the second time in two months.",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/icici-bank-axis-bank-tap-dollar-debt-again-in-less-than-two-months-bankers-say/article71316304.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/nq2mvx/article71302495.ece/alternates/LANDSCAPE_1200/2023-07-17T100043Z_343820862_RC2X42AM1340_RTRMADP_3_MONEY-RATES.JPG",
+      "PublishedAt": "2026-08-07T05:08:31Z",
+      "Content": "Two Indian private sector lenders have tapped US dollar denominated debt market for the second time in less than two months, to raise $300 million each, two merchant bankers said on Friday.\r\n* ICICI … [+1144 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+      "Description": "US Dollar Price Forecast: DXY trades near key support ahead of Friday’s U.S. Nonfarm Payrolls report, while EUR/USD tests resistance and GBP/USD consolidates...",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-080927300.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/E0A0C101FD76D73ADC095F74C99C69C3EE884302C5603CE4C9CD7D265FDF4FC6/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F1fbff7d9fb2ccd21ef5e8281ed7c980e",
+      "PublishedAt": "2026-08-06T08:09:27Z",
+      "Content": "US Dollar News: Payrolls Countdown and Global Central Banks Shape FX Outlook\r\nThe U.S. dollar's value continues to fluctuate in anticipation of the U.S. Nonfarm Payrolls (NFP) report, the final signi… [+4707 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 6, 2026",
+      "Description": "The naira maintained a relatively stable position against the United States dollar in the official foreign exchange market on Thursday, August 6, 2026, while the gap between the Nigerian Foreign Exchange Market (NFEM) and the parallel market remained noticeab…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-6-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2024/03/Naira-Dollar.png",
+      "PublishedAt": "2026-08-06T06:05:51Z",
+      "Content": "The naira maintained a relatively stable position against the United States dollar in the official foreign exchange market on Thursday, August 6, 2026, while the gap between the Nigerian Foreign Exch… [+1589 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: NFP Week Keeps DXY, EUR/USD and GBP/USD in Focus",
+      "Description": "The US dollar trades cautiously ahead of Friday’s Nonfarm Payrolls report as investors assess Fed rate expectations, cooling labor market data, and the outlo...",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-064558902.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/CFC1D014BCDC6C269F629940F930D35E19001484E00D0B6273BAC4184BC92984/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fa15d510a2eb3d2f99704a3fcde7b892a",
+      "PublishedAt": "2026-08-05T06:45:58Z",
+      "Content": "US Dollar News: NFP Forecasts and Fed Outlook Drive FX Markets\r\nChanges in Federal Reserve policy are the primary drivers of U.S. Dollar trading as market participants analyze upcoming U.S. Labor mar… [+4955 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 5, 2026",
+      "Description": "The naira traded around ₦1,362.55 per dollar at the Nigerian Foreign Exchange Market (NFEM) as the official market remained relatively stable at the start of the new trading day.\nThe post Dollar to Naira exchange rate today, August 5, 2026 appeared first on V…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-5-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
+      "PublishedAt": "2026-08-05T06:21:04Z",
+      "Content": "The naira traded around 1,362.55 per dollar at the Nigerian Foreign Exchange Market (NFEM) as the official market remained relatively stable at the start of the new trading day.\r\nData published by th… [+1653 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: U.S. Data in Focus as DXY, EUR/USD and GBP/USD Test Key Levels",
+      "Description": "The U.S. dollar steadies ahead of JOLTS job openings and ISM Services PMI, while EUR/USD and GBP/USD react to key economic data and central bank expectations...",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-u-070935176.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/CAF77CF6824445E56C66EAB7F14A8C62CF341539FA2605E030E6614A9B5D5358/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fa6c8d70e34ba2982ddd20d4282211d54",
+      "PublishedAt": "2026-08-04T07:09:35Z",
+      "Content": "US Dollar News: Fed Outlook and Global Data Keep FX Markets on Edge\r\nThe U.S. dollar starts the day as traders focus on a series of major U.S. economic announcements that may influence expectations o… [+5372 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 4, 2026",
+      "Description": "The naira traded around the ₦1,368 level against the United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Tuesday, August 4, 2026, while the parallel market continued to quote the dollar above ₦1,400.\nThe post Dollar to Naira exchan…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-4-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-08-04T06:14:08Z",
+      "Content": "The naira traded around the 1,368 level against the United States dollar at the official Nigerian Foreign Exchange Market (NFEM) on Tuesday, August 4, 2026, while the parallel market continued to quo… [+1589 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: NFP Week Puts DXY, EUR/USD and GBP/USD in Focus",
+      "Description": "US Dollar Index, EUR/USD and GBP/USD await NFP, JOLTS, ADP and ISM Services PMI as traders assess the Fed’s next move after last week’s rate hold.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-085644640.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/569788E6105CAB7346789A55B7B78829A9CB88B69A55838B18EF320F7D55A90F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F78cd5a3a715242d5bd6eca4bdf0fced3",
+      "PublishedAt": "2026-08-03T08:56:44Z",
+      "Content": "US Dollar News: NFP Week Puts Dollar, Euro and Pound in Focus\r\nIt's a crucial week for the dollar, with the market bracing for the July Non-Farm Payrolls on Friday. This is the most important data re… [+4363 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -24,10 +180,10 @@
       "Author": "Joel Rebello",
       "Title": "HDFC, ICICI Bank rates up for dollar deposits",
       "Description": "Banks are raising FCNR(B) deposit rates to attract dollars amid global rate increases. ICICI Bank and HDFC Bank have already adjusted their offerings for dollar deposits. Higher overseas borrowing costs and market competition necessitate these rate adjustment…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132813226.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-132813236,width-1200,height-630,imgsize-94362,overlay-economictimes/articleshow.jpg",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132816042.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-132813236,width-1200,height-630,imgsize-94362,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2026-08-02T18:58:58Z",
-      "Content": "Mumbai: Hardening overseas rates, tough competition and strong client demand is forcing banks to tweak their FCNR (B) offerings to attract maximum dollars as banks get into the busy season of the spe… [+2069 chars]"
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
     },
     {
       "Source": {
@@ -37,10 +193,10 @@
       "Author": "Joel Rebello",
       "Title": "HDFC, ICICI Bank rates up for dollar deposits",
       "Description": "Banks are raising FCNR(B) deposit rates to attract dollars amid global rate increases. ICICI Bank and HDFC Bank have already adjusted their offerings for dollar deposits. Higher overseas borrowing costs and market competition necessitate these rate adjustment…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132816042.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-132813236,width-1200,height-630,imgsize-94362,overlay-etmarkets/articleshow.jpg",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132813226.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-132813236,width-1200,height-630,imgsize-94362,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2026-08-02T18:58:58Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+      "Content": "Mumbai: Hardening overseas rates, tough competition and strong client demand is forcing banks to tweak their FCNR (B) offerings to attract maximum dollars as banks get into the busy season of the spe… [+2069 chars]"
     },
     {
       "Source": {
@@ -223,162 +379,6 @@
       "UrlToImage": "https://s.yimg.com/lo/mysterio/api/720286522A6F24BEE5C7BEA6F7458E88ABB7EE993DAF37B773C816C26A3798BC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Ffbaf41c590b9aa826b32397c1a6db755",
       "PublishedAt": "2026-07-28T08:41:56Z",
       "Content": "US Dollar News: Fed Meeting and Key Data Take Centre Stage\r\nThe U.S. dollar, euro and British pound are heading into a pivotal week ahead of the Federal Reserve's July 29-30 meeting where rate-holder… [+4114 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, July 28, 2026",
-      "Description": "The naira opened trading on Tuesday, July 28, 2026, with a relatively narrow gap between the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor dollar liquidity and demand across the banking and Bureau de…",
-      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-28-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2020/12/Naira-To-Dollar-Exchange-Rates.png",
-      "PublishedAt": "2026-07-28T06:10:49Z",
-      "Content": "The naira opened trading on Tuesday, July 28, 2026, with a relatively narrow gap between the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor … [+1420 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed, PCE and NFP in Focus – What’s Next for DXY, GBP/USD and EUR/USD?",
-      "Description": "The Fed, GDP, PCE inflation and payrolls headline a pivotal week for forex markets. Explore the latest outlook for DXY, EUR/USD and GBP/USD.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-082815423.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/FAD422559A121DCF9B16627D9D30A221E978BA60E82B540C614F71A14E967FDC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F758083e6478affd5b880d727604b2e2c",
-      "PublishedAt": "2026-07-27T08:28:15Z",
-      "Content": "US Dollar News: Fed and ECB Outlook Shape FX Markets\r\nThe U.S. dollar, euro and British pound enter a pivotal week as investors prepare for the Federal Reserve's July 29 to 30 meeting and the ECB's d… [+3878 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, July 27, 2026",
-      "Description": "The Nigerian naira maintained a relatively stable position against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market as trading opened on Monday, July 27, 2026.\nThe post Dollar to Naira exchange rate …",
-      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-27-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/06/dollar-naira.jpg",
-      "PublishedAt": "2026-07-27T05:54:09Z",
-      "Content": "The Nigerian naira maintained a relatively stable position against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market as trading opened on Mo… [+1237 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Khabarhub.com"
-      },
-      "Author": "Khabarhub",
-      "Title": "Dollar, euro and pound exchange rates fluctuate in Nepal",
-      "Description": "KATHMANDU: Nepal Rastra Bank (NRB) has fixed the foreign exchange rates for Monday. According to the central bank, the buying rate of one US dollar has been set at Rs 154.21 and the selling rate at Rs 154.81. Similarly, the buying rate of one euro has been fi…",
-      "Url": "https://english.khabarhub.com/2026/27/560427/",
-      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX-e1764984075308.webp",
-      "PublishedAt": "2026-07-27T01:24:02Z",
-      "Content": "KATHMANDU: Nepal Rastra Bank (NRB) has fixed the foreign exchange rates for Monday.\r\nAccording to the central bank, the buying rate of one US dollar has been set at Rs 154.21 and the selling rate at … [+689 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "ICICI Bank prices $1 billion debt in largest dollar issue by Indian private lender",
-      "Description": "ICICI Bank successfully issued a five-year dollar bond worth $1 billion, achieving a notably tighter spread. This offering stands as the largest for an Indian bank in almost fourteen years. With a coupon set at 100 basis points above U.S. Treasuries, it surpa…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-prices-1-billion-debt-in-largest-dollar-issue-by-indian-private-lender/articleshow/132603402.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-132603402,width-1200,height-630,imgsize-82706,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-07-24T10:59:26Z",
-      "Content": "India's ICICI Bank has priced a $1 billion five-year dollar bond at a much tighter spread than initially indicated, in the largest such issue by an Indian lender in nearly 14 years, three bankers sai… [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Meet the Trillion-Dollar Company Retail Investors Have Spent More Money Buying Than Any Other Stock in July",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9fea0af-f784-413e-9127-cc0ca685d562",
-      "UrlToImage": null,
-      "PublishedAt": "2026-07-24T09:26:00Z",
-      "Content": "If you click 'Accept all', we and our partners, including 250 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: ECB Holds Steady, PMI Data in Focus – Can DXY Extend Gains Against GBP/USD and EUR/USD?",
-      "Description": "The ECB kept rates unchanged as traders turn to U.S. PMI data and the Fed meeting. Explore the latest outlook for DXY, EUR/USD and GBP/USD.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-ecb-080448089.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/D5FFC902B8A0BF3EC2CC1F9C4CA4F20A4BA2730B44DD7870B7BB3CC0ABE58337/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fd8de8e06c6531c6a0321e0fc756837de",
-      "PublishedAt": "2026-07-24T08:04:48Z",
-      "Content": "US Dollar News: ECB Hold Shifts Focus to Fed and PMI Data\r\nMarkets were recalibrating after the European Central Bank kept its benchmark rates unchanged. It maintained the deposit rate at 2.25%, the … [+4511 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, July 24, 2026",
-      "Description": "The Nigerian naira traded within a relatively stable range against the United States dollar on Friday, July 24, 2026, at both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor foreign exchange liquid…",
-      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-24-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-      "PublishedAt": "2026-07-24T05:50:41Z",
-      "Content": "The Nigerian naira traded within a relatively stable range against the United States dollar on Friday, July 24, 2026, at both the official Nigerian Foreign Exchange Market (NFEM) and the parallel mar… [+1168 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "ICICI Bank prices $1 billion five-year dollar bond at tighter spread",
-      "Description": "Largest such issue by an Indian lender in nearly 14 years; attracts $3 billion in bids",
-      "Url": "https://www.thehindubusinessline.com/markets/icici-bank-prices-1-billion-five-year-dollar-bond-at-tighter-spread/article71260840.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/jdemls/article71241401.ece/alternates/LANDSCAPE_1200/2026-07-18T101633Z_1905004370_RC2YI0APFNQE_RTRMADP_3_ICICI-BANK-RESULTS.JPG",
-      "PublishedAt": "2026-07-24T04:10:42Z",
-      "Content": "Indias ICICI Bank has priced a $1 billion five-year dollar bond at a much tighter spread than initially indicated, in the largest such issue by an Indian lender in nearly 14 years, three bankers said… [+2224 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Ethan Shanfeld",
-      "Title": "‘Weird Al’ Yankovic Turned Down Million-Dollar Offer to Perform in Saudi Arabia: ‘I Don’t Need to Take Any Money if It Makes Me Feel Icky’",
-      "Description": "After “Weird Al” Yankovic made headlines this month for backing out of an ad for AI software, the musical satirist revealed he also turned down an offer worth at least $1 million to perform at the Riyadh Comedy Festival in Saudi Arabia last year. “I wish peop…",
-      "Url": "https://variety.com/2026/tv/news/weird-al-yankovic-turned-down-million-offer-saudi-arabia-1236819281/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2026/07/2259318543-e1784815966293.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2026-07-23T14:38:26Z",
-      "Content": "After “Weird Al” Yankovic made headlines this month for backing out of an ad for AI software, the musical satirist revealed he also turned down an offer worth at least $1 million to perform at the Ri… [+2758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: ECB Decision Looms – Can GBP/USD and EUR/USD Break Out?",
-      "Description": "The ECB rate decision and strong U.S. data keep forex markets on edge. Explore the latest outlook for DXY, EUR/USD and GBP/USD.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-ecb-065701625.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/512E5F23022F88A257D6FCD49C4B2FE9EB34FAB5328E49CA12812E22B004B6FE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F98edfba40296524cf22fdf2fc1b40ecc",
-      "PublishedAt": "2026-07-23T06:57:01Z",
-      "Content": "US Dollar News: ECB Decision Takes Centre Stage\r\nAttention has shifted to the ECB's July 23 decision as the US economy is weighed against the backdrop of upcoming Federal Reserve deliberations in the… [+4741 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, July 23, 2026",
-      "Description": "The naira traded within a relatively stable range against the United States dollar on Thursday, July 23, 2026, across both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market.\nThe post Dollar to Naira exchange rate today, July 23, 202…",
-      "Url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-23-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
-      "PublishedAt": "2026-07-23T06:51:55Z",
-      "Content": "The naira traded within a relatively stable range against the United States dollar on Thursday, July 23, 2026, across both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market… [+1148 chars]"
     }
   ]
 }

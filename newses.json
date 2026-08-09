@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra semana al alza",
+      "Description": "El precio de la divisa aumentó en ¢0,93 respecto al cierre de la semana pasada",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/T33GGZPOOFBL3OVSYXSWDNNDHY/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
+      "PublishedAt": "2026-08-07T21:28:00Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró este viernes 7 de agosto ligeramente al alza en el Mercado de Monedas Extranjeras (Monex), respecto al mismo día de la semana anterior.\r\nEl precio … [+2148 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Por el dólar más demandado, el Banco Central hizo la menor compra semanal del año",
+      "Description": "Adquirió US$16 millones hoy; sumó US$111 millones en la semana, el menor saldo desde fines de enero",
+      "Url": "https://www.lanacion.com.ar/economia/por-el-dolar-mas-demandado-el-banco-central-hizo-la-menor-compra-semanal-del-ano-nid07082026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-peso-argentino-sufre-por-reduccion-de-la-X2LNEJNLNNCQVAVIL6MLTAV2EY.jpg?auth=324524ce1e3afa148527a2ec6c329c3e9141cbaea7e0a827ffc41e1876c17310&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-08-07T20:54:40Z",
+      "Content": "El Banco Central (BCRA) adquirió hoy otros US$16 millones para sus reservas mediante intervenciones sobre el mercado. De este modo, al cabo de las primeras cinco ruedas de agosto acumuló compras por … [+4070 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "MartinPixel",
+      "Title": "PlayStation aclara los precios de la PS Store en México: el tipo de cambio de 20 pesos por dólar, solo aplicará al saldo y tarjetas de regalo",
+      "Description": "El próximo 18 de agosto, PlayStation realizará uno de los cambios más importantes de su historia reciente en México: dejará de cobrar en dólares y comenzará a mostrar los precios de PlayStation Store directamente en pesos mexicanos. Desde que Sony anunció la …",
+      "Url": "https://www.xataka.com.mx/videojuegos/playstation-aclara-precios-ps-store-mexico-tipo-cambio-20-pesos-dolar-solo-aplicara-al-saldo-tarjetas-regalo",
+      "UrlToImage": "https://i.blogs.es/9b9a50/playstation-gift-cards/840_560.jpeg",
+      "PublishedAt": "2026-08-07T19:45:15Z",
+      "Content": "El próximo 18 de agosto, PlayStation realizará uno de los cambios más importantes de su historia reciente en México: dejará de cobrar en dólares y comenzará a mostrar los precios de PlayStation Store… [+4372 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘agarra vuelo’ ante el dólar en cierre de primera semana de agosto",
+      "Description": "En ventanillas bancarias, el dólar se vende en alrededor de las 17.50 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/07/peso-dolar-precio-hoy-7-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/RJKMPCON5NCW3M5UL6X3NYHIFY.jpg?smart=true&auth=7e2effbc4ad36138939db2c5108495a34004455da97258c70aa668f63a43df82&width=1200&height=630",
+      "PublishedAt": "2026-08-07T16:42:00Z",
+      "Content": "El peso mexicano amplía sus ganancias ante el dólar gracias a un mayor debilitamiento del billete estadounidense. Los operadores siguen ajustando sus perspectivas de política monetaria hacia adelante… [+1494 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se alista para ganar la sesión al dólar: Así cotiza en la apertura",
+      "Description": "El dólar se vende en 17.69 pesos por billete verde en ventanillas bancarias, según datos de Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/06/peso-dolar-tipo-de-cambio-hoy-6-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PXGH64SPOZEYLNT2M2LXDZWDI4.jpeg?smart=true&auth=d2f6c0390137ffd1f26d75ca8d932e73fd457d175df1e5735bf83c0540beb66c&width=1200&height=630",
+      "PublishedAt": "2026-08-06T16:02:20Z",
+      "Content": "El peso mexicano anticipa una tercera jornada de avances frente al dólar, mientras los inversionistas se preparan para conocer la decisión de política monetaria del Banco de México (Banxico) más tard… [+1735 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza en espera de reanudación del diálogo de EU e Irán: Así cotiza ante el dólar",
+      "Description": "Hay una moderación de aversión al riesgo a nivel global, ante señales de que se reanudará el diálogo de EU e Irán.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/03/peso-mexicano-dolar-tipo-de-cambio-hoy-3-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OUVWQEZ5TJBBPFAHYOUJQ4V4AA.png?smart=true&auth=e9ea9d085f944da891f0b7251cd5672eaa54d4ed69a97b2d80d8cd860fd8aa88&width=1200&height=630",
+      "PublishedAt": "2026-08-03T15:42:09Z",
+      "Content": "El peso mexicano reporta ganancias marginales frente al dólar, como resultado de una disminución del nerviosismo entre los inversionistas ante la posibilidad de ver avances en las conversaciones dipl… [+1657 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/original/6a5789b259bf5b01436e2d40.jpg",
       "PublishedAt": "2026-07-15T13:22:58Z",
       "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, anunció que la Casa de la Moneda comenzará a acuñar una nueva moneda de oro de 1 dólar  con la imagen del presidente Donald Trump con motivo… [+798 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Mónica Cerdas Gómez",
-      "Title": "Dólar continúa bajando: tipo de cambio marcó un nuevo mínimo en Costa Rica",
-      "Description": "El tipo de cambio en el Monex se ha mantenido por debajo de los ¢455 desde el pasado 29 de junio",
-      "Url": "https://www.nacion.com/economia/dolar-continua-bajando-tipo-de-cambio-marco-un/KDO5GMFVZVHYPP5Q5U5R4Y5VWM/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/I4GQGQVYYFDAHA6LBZLXDJ222Y.jpg?smart=true&auth=ffd64ef06b768ada84eef510f535d232a8d4e0ef25cbaadd80abc74c8ff35500&width=1440",
-      "PublishedAt": "2026-07-14T22:54:09Z",
-      "Content": "El tipo de cambio volvió a marcar un nuevo mínimohistórico en el Mercado de Monedas Extranjeras (Monex). \r\nEl promedio ponderado del precio del dólar cerró la sesión de este martes 14 de julio en ¢45… [+1803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Caída de precios en EU ‘infla’ al peso: ¿Cuánto gana al dólar HOY 14 de julio?",
-      "Description": "La desaceleración de la inflación en EU redujo las expectativas de que la Fed suba la tasa de interés este año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/14/peso-dolar-precio-hoy-14-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GAUGJYWB2JGDJKYGJPSRVNJBYE.png?smart=true&auth=5daaba6406bccb22ed4c7b6281e05deffc0e919d8d4df53d26c7edee0bf1cf93&width=1200&height=630",
-      "PublishedAt": "2026-07-14T17:19:11Z",
-      "Content": "El peso mexicano pisa fuerte ante el dólar en la sesión de este martes 14 de julio después de que los datos de inflación en Estados Unidos se ubicaron por debajo de lo esperado por el mercado. \r\nEl Í… [+1537 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Lautaro Brum",
-      "Title": "Dólar en Uruguay: el comportamiento de la moneda norteamericana al comenzar la semana",
-      "Description": "El dólar inició la semana prácticamente estable y cerró con una leve suba. Mientras, el riesgo país volvió a bajar y se ubicó en 50 puntos básicos, uno de los niveles más bajos del año.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/dolar-en-uruguay-el-comportamiento-de-la-moneda-norteamericana-al-comenzar-la-semana",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
-      "PublishedAt": "2026-07-13T22:35:19Z",
-      "Content": "Al comenzar la semana, el dólarse mantuvo casi estable (con unavariación de apenas 0,01%) y se negoció en promedio en $ 40,232. En julio, la moneda norteamericana viene aumentando 0,29% y en 2026 aum… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Trancazos’ entre Trump e Irán en Medio Oriente afectan al peso: ¿Cuánto se deprecia ante el dólar HOY?",
-      "Description": "Felipe Mendoza, analista de mercados en EBC Financial Group, prevé que el tipo de cambio presente cambios acotados. El dólar se vende en 17.95 pesos en bancos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/13/peso-dolar-precio-hoy-13-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4SCPD2DV6BBMRGJIXXD4V64S5Y.png?smart=true&auth=4803423e8d7c620ea8f81170d837fc64d9c380a96fed84bf4ddaf899eceb6f18&width=1200&height=630",
-      "PublishedAt": "2026-07-13T15:17:37Z",
-      "Content": "El peso mexicano pierde terreno ante el dólar este lunes 13 de julio, ante el nerviosismo del mercado por los últimos ataques entre Estados Unidos e Irán en Medio Oriente. \r\nLa situación se descontro… [+1560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar abre con leve alza por mayor tensión en Medio Oriente y la apuesta de los extranjeros contra el peso marca máximo del año",
-      "Description": "Los no residentes ya mantienen posiciones superiores a los US$ 17.000 millones en contra del peso chileno, explicó el director general de BeFX, Rodrigo Castillo",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-cwcuj",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260713/imag/foto_0000000420260713085346/Dolar2_RTRS.jpg",
-      "PublishedAt": "2026-07-13T12:54:59Z",
-      "Content": "El dólar abrió el lunes con un leve avance en Chile, mientras la divisa se mantenía plana a nivel global a medida que los inversionistas centraban su atención en el recrudecimiento de las hostilidade… [+2122 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Se aprecia el peso ante retroceso global del dólar",
-      "Description": "El peso mexicano avanzó 0.38 por ciento ayer, impulsado por un repliegue global del dólar, en un mercado con la atención puesta en el conflicto de Medio Oriente.",
-      "Url": "https://www.jornada.com.mx/2026/07/11/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-07-11T07:43:24Z",
-      "Content": "Periódico La JornadaSábado 11 de julio de 2026, p. 16\r\nEl peso mexicano avanzó 0.38 por ciento ayer, impulsado por un repliegue global del dólar, en un mercado con la atención puesta en el conflicto … [+2224 chars]"
     }
   ]
 }
