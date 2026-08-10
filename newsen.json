@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Ally Perry, Ally Perry",
+      "Title": "22 Money Memes for People Who Struggle to Understand the Value of a Dollar",
+      "Description": "Have you never cared about material wealth, or are you normal?\r\nBuddhism may be right in teaching that desire is the root of all suffering, but in the kind of world we live in, it is pretty natural to want to have enough money to do the things we want. There …",
+      "Url": "https://cheezburger.com/46373893/22-money-memes-for-people-who-struggle-to-understand-the-value-of-a-dollar",
+      "UrlToImage": "https://i.chzbgr.com/original/46373893/h2DFAA463/cash-money-problems-memes-money-funny-memes-46373893",
+      "PublishedAt": "2026-08-09T13:15:00Z",
+      "Content": "Buddhism may be right in teaching that desire is the root of all suffering, but in the kind of world we live in, it is pretty natural to want to have enough money to do the things we want. There are … [+1091 chars]"
+    },
     {
       "Source": {
         "Id": "fortune",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://cdn.c21media.net/wp-content/uploads/2026/07/joyn-die-millionenidee-3374017.jpg",
       "PublishedAt": "2026-07-28T09:59:46Z",
       "Content": "The Million Dollar Idea (Die Millionenidee) turns inventions into products\r\nGerman commercial broadcaster ProSiebenSat.1 has commissioned new primetime entertainment format The Million Dollar Idea (D… [+1007 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed, GDP and PCE Data in Focus – What’s Next for DXY, GBP/USD and EUR/USD?",
-      "Description": "The Fed meeting, GDP, PCE inflation and payrolls could drive major forex moves this week. Explore the latest outlook for DXY, EUR/USD and GBP/USD.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-084156178.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/720286522A6F24BEE5C7BEA6F7458E88ABB7EE993DAF37B773C816C26A3798BC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Ffbaf41c590b9aa826b32397c1a6db755",
-      "PublishedAt": "2026-07-28T08:41:56Z",
-      "Content": "US Dollar News: Fed Meeting and Key Data Take Centre Stage\r\nThe U.S. dollar, euro and British pound are heading into a pivotal week ahead of the Federal Reserve's July 29-30 meeting where rate-holder… [+4114 chars]"
     }
   ]
 }
