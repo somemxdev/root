@@ -1,8 +1,229 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Precio del dólar hoy 17 de agosto: el peso se acerca a las 16 unidades",
+      "Description": "El peso mexicano inicia la semana con fuerza y vuelve a colocarse cerca de las 17 unidades por dólar",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-17-de-agosto-el-peso-se-acerca-a-las-16-unidades-2026081705483051847",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17082026/ea39b36e-cf50-42d0-9c15-71575c6ee8cc.jpg",
+      "PublishedAt": "2026-08-17T05:48:30Z",
+      "Content": "El peso mexicano inicia la semana con fuerza y vuelve a colocarse cerca de las 17 unidades por dólarEl precio del dólar hoy lunes 17 de agosto de 2026 se ubica alrededor de 17.02 pesos por unidad, de… [+1300 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso mexicano se fortalece 3.4% desde junio: ¿Qué impulsa su apreciación frente al dólar?",
+      "Description": "Víctor Piz explica cuáles son los factores que han favorecido al peso mexicano desde junio: la manufactura, la guerra en Medio Oriente y la tasa de interés de la Fed, son algunos de los aspectos.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/08/15/peso-mexicano-se-fortalece-34-desde-junio-que-impulsa-su-apreciacion-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5R43XFZFJRESRGQDYWSZQAPZOY.jpg?smart=true&auth=cc751d5a6b0bf16ec03febaa90d10c9f2af0865c0dad08c72347066fbd743163&width=1200&height=630",
+      "PublishedAt": "2026-08-15T17:50:51Z",
+      "Content": "El peso mexicano tuvo una buena racha en junio: esta semana se acercó a los 17 pesos por dólar, números no vistos desde mayo del 2024.\r\nAdemás, se apreció en un 3.4 por ciento y recuperó cerca de 60 … [+1822 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cierra estable tras pasar barrera de 17 unidades por dólar",
+      "Description": "El peso mexicano cerró estable, tras ceder alzas previas que lo llevaron a perforar la marca de 17 unidades por dólar por primera vez desde 2024; mientras, la bolsa cayó a su menor nivel desde mediados de marzo.",
+      "Url": "https://www.jornada.com.mx/2026/08/15/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-08-15T08:27:03Z",
+      "Content": "Periódico La JornadaSábado 15 de agosto de 2026, p. 16\r\nEl peso mexicano cerró estable, tras ceder alzas previas que lo llevaron a perforar la marca de 17 unidades por dólar por primera vez desde 202… [+2182 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar toca nuevo mínimo por tercer día consecutivo en Monex",
+      "Description": "El precio de la divisa cerró por debajo de ¢449 a pesar de la intervención del BCCR en el mercado para evitar una caída mayor",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-toca-nuevo-minimo-por/6LNN5MTADVGZVCTESSWEC7GKDU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/HPDLLRQB3JAH5MGM2LNRSVAUVU.jpg?smart=true&auth=816f97ac739168a48ffb16000631256618b0cd395f61214a8b275c2e6211552d&width=1440",
+      "PublishedAt": "2026-08-14T23:08:26Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó en la sesión de este viernes 14 de agosto un nuevo mínimo en el Mercado de Monedas Extranjeras (Monex) por tercer día consecutivo. \r\nEl precio de… [+3231 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso regrese a las 16 unidades por dólar: ‘Vamos bien y vamos a ir mejor’, reacciona Sheinbaum",
+      "Description": "El peso acumula una apreciación de 15 centavos en la semana, de acuerdo con datos del Banxico y Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/14/peso-dolar-precio-hoy-14-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AGIQXKW5QFGGVFNHUC4YNF3ZRI.png?smart=true&auth=5a378bdb47fae88b4b29cee7b337f0d4e7678c9e7137653bea959cf55d7b9eec&width=1200&height=630",
+      "PublishedAt": "2026-08-14T14:49:31Z",
+      "Content": "Después de coquetear con las 16 unidades ante el dólar durante la semana, el peso mexicano regresó a ese nivel durante la jornada de este viernes 14 de agosto. \r\nEl tipo de cambio se ubica en los 16.… [+422 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Perfora peso la barrera de los 17.00 por dólar",
+      "Description": "En el mercado internacional, el tipo de cambio cotizaba en 16.9805 pesos por dólar, un máximo para la moneda mexicana desde mayo de 2024.",
+      "Url": "https://www.reforma.com/perfora-peso-la-barrera-de-los-17-00-por-dolar/ar3257944",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/932/5931426.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-08-14T13:57:07Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (14 agosto 2026) .-07:54 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso extiende racha positiva; se acerca a las 17 unidades por dólar",
+      "Description": "Con una inflación en Estados Unidos contenida, el peso mexicano extendió su racha positiva frente a la debilidad del dólar, y se acercó nuevamente a romper el piso de 17 por dólar.",
+      "Url": "https://www.jornada.com.mx/2026/08/14/economia/018n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-08-14T08:07:56Z",
+      "Content": "Periódico La JornadaViernes 14 de agosto de 2026, p. 18\r\nCon una inflación en Estados Unidos contenida, el peso mexicano extendió su racha positiva frente a la debilidad del dólar, y se acercó nuevam… [+2188 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar toca nuevo mínimo por segundo día consecutivo en Monex",
+      "Description": "El precio de la divisa continúa por debajo de ¢450;  BCCR intervino en el mercado para evitar una caída mayor",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-toca-nuevo-minimo-por/ONWC7E3VHJAIVDTYNDROUA5QDU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/BV6SAQGORBBN3LHFCSAFAR6LAM.jpg?smart=true&auth=9eda88a3caba909db663e47f75920c69997434248ffc04584ffe6c3c9dd8a28d&width=1440",
+      "PublishedAt": "2026-08-13T22:26:27Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo en el Mercado de Monedas Extranjeras (Monex) por segundo día consecutivo durante la sesión del jueves 13 de agosto.\r\nEl precio de… [+2112 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Lento, pero seguro: Tipo de cambio se mueve hacia los 16 pesos por dólar",
+      "Description": "El dato de inflación en EU, que disminuyó la presión sobre la Reserva Federal para bajar la tasa de interés, debilita al dólar este jueves 13 de agosto.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/13/peso-dolar-precio-hoy-13-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CWY4TGK32FGGLBSR4OX54RCZ6U.png?smart=true&auth=3b651e0dd889ae2ec83cbe5f70ed481ea9675611150806d459360339e38d57f9&width=1200&height=630",
+      "PublishedAt": "2026-08-13T15:34:49Z",
+      "Content": "El peso mexicano se perfila para acercarse más a las 16 unidades por dólar este jueves 13 de agosto, a medida que el mercado ajusta sus expectativas de política monetaria.\r\nLa inflación mayorista en … [+1641 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Sigue la apreciación del peso; el dólar revierte su caída",
+      "Description": "El peso mexicano extendió ayer su apreciación, pese a que el dólar revirtió su caída, en un contexto en donde la inflación de Estados Unidos se moderó marginalmente a 3.4 por ciento anual en julio, frente al alza de los precios al consumidor de 3.5 por ciento…",
+      "Url": "https://www.jornada.com.mx/2026/08/13/economia/017n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2026-08-13T09:25:26Z",
+      "Content": "Periódico La JornadaJueves 13 de agosto de 2026, p. 17\r\nEl peso mexicano extendió ayer su apreciación, pese a que el dólar revirtió su caída, en un contexto en donde la inflación de Estados Unidos se… [+1677 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar toca nuevo mínimo en el Monex",
+      "Description": "El tipo de cambio del dólar bajó a ¢449,51 en el Monex, alcanzando su valor más bajo desde el 2007.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-toca-nuevo-minimo-en-el/T6XXBGBK3RAJPC4O6GPZ66I5KI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/ENSOU2ZVBNCN7FJLSFMD6BQXDE.jpg?smart=true&auth=6e6e4bd77c5df90405b284b7c36bea69e8d3877e5e5ecfbe62c7970433c86a6b&width=1440",
+      "PublishedAt": "2026-08-12T21:12:16Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo en el Mercado de Monedas Extranjeras (Monex) durante la sesión de este miércoles 12 de agosto.\r\nEl precio del dólar cerró la jorn… [+2339 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘eclipsa’ al dólar gracias a dato de inflación en EU: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "El informe de inflación en EU publicado este miércoles 12 de agosto 'pinta' un mejor panorama para el nivel de los precios en la economía más grande del mundo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/12/peso-dolar-precio-hoy-12-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BAPOPPKRXNC75NY5GB5KKZJ5TE.png?smart=true&auth=c0dff23c7c71aa8c9dfd358e0acccb7e187850795739e9e6e57c1c2e40db2bf3&width=1200&height=630",
+      "PublishedAt": "2026-08-12T17:37:56Z",
+      "Content": "El peso mexicano se acerca aún más al nivel de las 16 unidades ante el dólar gracias al dato de inflación de Estados Unidos que mostró una desaceleración en el precio de la energía. \r\nLos nuevos dato… [+1748 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tipo de cambio se acerca al nivel de los 16 pesos por dólar: Así cotiza HOY",
+      "Description": "El peso mexicano está entre las monedas que más se aprecian ante el dólar junto con el won surcoreano, el peso chileno y el shekel israelí.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/11/peso-dolar-precio-hoy-11-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/33PV34HLQBB45BDKTYTJ74YEF4.png?smart=true&auth=0debd016cdbe9477b47d676230f11cd58200ac9a91d5b1e575812ee1069c2518&width=1200&height=630",
+      "PublishedAt": "2026-08-11T15:28:57Z",
+      "Content": "El peso mexicano avanza en la jornada de este martes 11 de agosto gracias a un mayor optimismo entre los inversionistas sobre un acuerdo de paz entre Estados Unidos e Irán. \r\nEl ministro de Defensa d… [+1663 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Benito Solís",
+      "Title": "¿Por qué se fortalece el peso mexicano frente al dólar ?",
+      "Description": "Para entender lo que está sucediendo hay que ver el precio de la divisa norteamericana como una mercancía más que opera en el mercado, como son el café, el petróleo y muchos más y no como un símbolo de la fortaleza o debilidad de la economía mexicana, como al…",
+      "Url": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/08/11/por-que-se-fortalece-el-peso-mexicano-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4GRUO6JQ3JEQRJTCJGWCSC3ST4.jpg?smart=true&auth=4f12b4fc40c21d8f157c74263d6d5f50a6592cff9c866e822b6e2ec95216602c&width=1200&height=630",
+      "PublishedAt": "2026-08-11T13:49:50Z",
+      "Content": "El peso mexicano ha tenido una importante apreciación o fortalecimiento frente al dólar norteamericano en los pasados meses. Así, el tipo de cambio ha pasado de 18.60 pesos por un dólar hace doce mes… [+4060 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Precio del dólar hoy 11 de agosto: así cotiza frente al peso mexicano",
+      "Description": "El peso mexicano mantiene una posición sólida frente al dólar en el comienzo de la jornada de este martes; en RÉCORD estamos atentos al mercado con nuevos datos económicos",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-11-de-agosto-asi-cotiza-frente-al-peso-mexicano-2026081113443422916",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/11082026/c0bc00ac-9c72-4f6a-a587-adcd1a54224b.jpg",
+      "PublishedAt": "2026-08-11T13:44:34Z",
+      "Content": "El peso mexicano mantiene una posición sólida frente al dólar en el comienzo de la jornada de este martes; en RÉCORD estamos atentos al mercado con nuevos datos económicosEl precio del dólar hoy 11 d… [+1646 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar se fortalece y ‘opaca’ al peso: Así cotiza el tipo de cambio HOY 10 de agosto",
+      "Description": "El dólar se vende en 17.57 pesos por billete verde en ventanillas bancarias, de acuerdo con datos de Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/10/peso-dolar-tipo-de-cambio-hoy-10-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VPPABIJVJFCXZELZKPTGYMWUWY.jpeg?smart=true&auth=0d1fabd61dcecf7e7904390a3e2ead6b99cd79fe72294de3a05292061d0ef8a8&width=1200&height=630",
+      "PublishedAt": "2026-08-10T17:36:14Z",
+      "Content": "El incremento en la aversión al riesgo, derivado de las tensiones geopolíticas, generó un fortalecimiento del dólar estadounidense, lo que se tradujo en un inicio de jornada con pérdidas para el peso… [+1729 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Precio del dólar hoy 10 de agosto: el peso gana terreno contra la divisa estadounidense",
+      "Description": "La moneda mexicana inicia la jornada con avances frente a la divisa estadounidense a la espera de indicadores de inflación",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-10-de-agosto-el-peso-gana-terreno-contra-la-divisa-estadounidense-2026081015193392314",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/09072026/7635fe4e-78d2-464e-83fe-3b63a5dc546f.jpg",
+      "PublishedAt": "2026-08-10T15:19:33Z",
+      "Content": "La moneda mexicana inicia la jornada con avances frente a la divisa estadounidense a la espera de indicadores de inflaciónEl peso mexicano arrancó la jornada de este lunes 10 de agosto con un balance… [+1649 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -171,227 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3GZ3ENIFMBCBZCBSUCVZSZWRU4.png?smart=true&auth=c338c625671dcf48e1f0bf23b4fe6f17a6e6ed5de4315a24fbb50a417005f578&width=1200&height=630",
       "PublishedAt": "2026-07-24T15:26:49Z",
       "Content": "El peso mexicano se recupera ante el dólar en la sesión de este viernes 24 de julio, mientras los participantes del mercado analizan los aranceles anunciados por Jamieson Greer, representante comerci… [+1894 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "El debate sobre el dólar en Uruguay: un estudio revela qué factores definen realmente el valor de la moneda estadounidense",
-      "Description": "¿Qué suceden con las intervenciones en el mercado de cambios del Banco Central (BCU)? Un estudio que se presentará en las Jornadas Anuales de Economía del BCU da las respuestas.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-debate-sobre-el-dolar-en-uruguay-un-estudio-revela-que-factores-definen-realmente-el-valor-de-la-moneda-estadounidense",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/8d10e03/2147483647/strip/true/crop/600x375+0+7/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2017%2F09%2F08%2F59b34dc64db71.jpeg",
-      "PublishedAt": "2026-07-24T06:20:00Z",
-      "Content": "En Uruguay, una economía pequeña, abierta y dolarizada, la variación del tipo de cambio suele estar en el debate público y no pocas veces es objeto de polémica (esencialmente cuando cae o está \"planc… [+10126 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Jueves de rebote para el peso ante el dólar por guerra en Medio Oriente: ¿Cuánto pierde HOY?",
-      "Description": "La incertidumbre entre los inversionistas lleva a que el rand sudafricano y el peso chileno se deprecien más de 1% en la sesión de este jueves 23 de julio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/23/peso-dolar-precio-hoy-23-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/R4W6MWWBTBG4XLHNHKKL4YC3XQ.png?smart=true&auth=fce977d702ddda4b04e73bbd3e86e5ecec524f71f0ffadc6c115d82f77b2f9b3&width=1200&height=630",
-      "PublishedAt": "2026-07-23T16:23:56Z",
-      "Content": "El peso mexicano rebota con fuerza ante el dólar este jueves 23 de julio por la cautela de los inversionistas ante la posibilidad de que la guerra en Irán empeore tras una nueva amenaza de los hutíes… [+1687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso amplia ganancias ante el dólar: Así está el tipo de cambio HOY 21 de julio",
-      "Description": "Trump anunció un arancel de 50% contra ciertos productos de Canadá por lo que consideró un trato injusto a los autos y lácteos de EU.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/21/peso-dolar-precio-hoy-21-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KQU4NM2UGNDELNUFXWAOHUI4VY.png?smart=true&auth=12127d94e96fa991c046ce5e264e0113d2bce99726fd2b0df1b1c0cc200b3491&width=1200&height=630",
-      "PublishedAt": "2026-07-21T17:06:34Z",
-      "Content": "El mercado despertó con un mayor apetito por activos de riesgo este martes 21 de julio, mientras analiza los nuevos aranceles que el presidente Donald Trump impondrá a Canadá. \r\nEU anunció una tarifa… [+1752 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "El dólar baja en la apertura por fuerte alza del cobre y pese a las apuestas de extranjeros contra el peso",
-      "Description": "Las apuestas contra el peso chileno alcanzan los US$17.845 millones, el nivel más alto del año y superior al máximo registrado el pasado 9 de julio, dijo Rodrigo Castillo, director general de BeFX.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-z39pu",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260721/imag/foto_0000000320260721082811/Dolar_RTRS2.jpg",
-      "PublishedAt": "2026-07-21T12:45:45Z",
-      "Content": "El dólar abrió en baja este martes en el mercado cambiario chileno, favorecido por un fuerte repunte en la cotización del cobre y pese a un nuevo máximo en las apuestas contra el peso por parte de ex… [+2731 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso recorta más de 10 centavos al dólar en semana de revisión del T-MEC",
-      "Description": "El peso mexicano lidera las ganancias de monedas emergentes ante el dólar en la sesión de este lunes 20 de julio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/20/peso-dolar-precio-hoy-20-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/KRZRMZBZMBDQZNNEPXDP654KCM.png?smart=true&auth=39d344c8c0b122d20309117f1cff8fb573a7cad2e850fb45e218623e1e1213bf&width=1200&height=630",
-      "PublishedAt": "2026-07-20T17:18:17Z",
-      "Content": "El peso mexicano abre con fuerza ante el dólar este 20 de julio, mientras los operadores están a la espera de la publicación de información económica tanto de México como de Estados Unidos. \r\nSobre e… [+1726 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Maximiliano Villena",
-      "Title": "El dólar no baja de los $900 y las apuestas en contra del peso por parte de extranjeros llegan a niveles récord",
-      "Description": "En lo que va del año el dólar se empina más de $36, a pesar de que el precio del cobre se ubica en un promedio de US$5,946 por libra. A nivel global, la divisa de EE.UU. solo se empina 2,6%. Según datos del Banco Central, el 14 de julio las posiciones en cont…",
-      "Url": "https://www.latercera.com/pulso/noticia/el-dolar-no-baja-de-los-900-y-las-apuestas-en-contra-del-peso-por-parte-de-extranjeros-llegan-a-niveles-record/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/D3WYN23JUFDE3OCQGRUMSEPJZY.jpg?auth=bdeeac4a5400e29e67295646104c9b366850c0a24955aeadddc5f119ff8dddfd&height=630&width=1200&smart=true",
-      "PublishedAt": "2026-07-20T15:58:29Z",
-      "Content": "Desde los primeros días de marzo el precio del dólar se ha mantenido casi de forma constante sobre los $900 en Chile, pese a que el valor del cobre, el principal soporte del peso chileno, transa en t… [+5250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cede el peso ante el dólar en cierre de la semana por conflicto en Medio Oriente",
-      "Description": "El peso mexicano retrocedió 10 centavos en su cotización frente a dólar ayer, presionado por la escalada militar en Medio Oriente, que impulsó la demanda de activos de refugio, incluida la moneda estadunidense.",
-      "Url": "https://www.jornada.com.mx/2026/07/18/economia/015n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2026/07/18/fotos/015n1eco-1.jpg",
-      "PublishedAt": "2026-07-18T08:08:08Z",
-      "Content": "Periódico La JornadaSábado 18 de julio de 2026, p. 15\r\nEl peso mexicano retrocedió 10 centavos en su cotización frente a dólar ayer, presionado por la escalada militar en Medio Oriente, que impulsó l… [+2463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "Evolución del dólar y riesgo país en Uruguay: balance de la semana y cotización de la moneda estadounidense",
-      "Description": "El billete verde bajó 0,10% y se cotizó en promedio en $ 40,189 y cerró la jornada en en $ 40,18; 0,02% por debajo del cierre anterior.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/evolucion-del-dolar-y-riesgo-pais-en-uruguay-balance-de-la-semana-y-cotizacion-de-la-moneda-estadounidense",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
-      "PublishedAt": "2026-07-18T06:00:00Z",
-      "Content": "En la comparación punta a punta, en relación al viernes anterior, el dólartuvo una variación negativa de 0,09%. Este comportamiento se asemeja al de la semana previa cuando había caído 0,01%.\r\nDurant… [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cae por debajo de ¢450",
-      "Description": "El precio del dólar cayó a ¢449,95 en Monex, un nivel similar al de hace más de 20 años, según datos del Banco Central.",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cae-por-debajo-de-450/N67IMQBXPVGA5NRQ6GJ3O7BGCE/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/OODJ6EAM6RHKXOIU3XFIXC4W2I.jpg?smart=true&auth=7ad0d851aac52d9347b22f79fa7e7513f754e7ba7546955ebc8ef9402fb0626f&width=1440",
-      "PublishedAt": "2026-07-17T19:52:52Z",
-      "Content": "El tipo de cambio del dólar respecto al colón se situó por debajo de ¢450 en la sesión de este viernes 17 de julio, marcando un nuevo mínimo histórico por quinta jornada consecutiva en el Mercado de … [+1354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Dólar ‘domina’ al peso mientras EU intensifica ataques contra Irán: ¿Cómo está el tipo de cambio HOY?",
-      "Description": "El dólar 'amenaza' con venderse de nuevo por arriba de los 18 pesos en bancos, esto mientras EU e Irán no dan señales de avanzar en un nuevo acuerdo para cesar sus hostilidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/17/peso-dolar-precio-hoy-17-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5PONTBFORBCRHHS63ZW7BMYVRU.png?smart=true&auth=dcbf24c82298d4d3cb71152cdae76b46dec4b7630a3d9b57326c233d6ad2de0f&width=1200&height=630",
-      "PublishedAt": "2026-07-17T16:20:08Z",
-      "Content": "El peso mexicano pierde más terreno ante el dólar en la sesión de este viernes 17 de julio debido a una mayor incertidumbre en las negociaciones entre Estados Unidos e Irán para terminar su conflicto… [+1891 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Se viene: EE.UU. comenzó a producir una moneda de un dólar con el rostro de Trump",
-      "Description": "Conoce la moneda de un dólar con el rostro de Donald Trump que EE.UU. comenzó a acuñar por sus 250 años y el debate legal que generó.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/se-viene-eeuu-comenzo-a-producir-una-moneda-de-un-dolar-con-el-rostro-de-trump-nid16072026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/esta-moneda-presenta-la-imagen-de-trump-y-tiene-NKLUHHNCBFGJ5CPP2MV4E7CIZM.jpg?auth=abe5d6230707e869b980dfd04136d2d08e810a0fddcb53dd8e7f8d39b6104270&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-07-16T18:37:05Z",
-      "Content": "Estados Unidos puso en marcha la fabricación de unanueva moneda de un dólarque lleva el retrato del presidente Donald Trump. La emisión forma parte de las actividades previstas para conmemorar los 25… [+3477 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Aranceles de Trump a Brasil ‘despiertan miedo’ en el peso: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/16/peso-dolar-precio-hoy-16-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/S7LDLNTJFREXLGM6I5WHYYYLKU.png?smart=true&auth=434b9d22711b734a35e4806cd084c26e2813d81671488013dc2ec08cbc46881f&width=1200&height=630",
-      "PublishedAt": "2026-07-16T16:06:39Z",
-      "Content": "A la tercera fue la vencida para el dólar, que recupera terreno después de dos sesiones con pérdidas ante el peso mexicano. En el mercado, los inversionistas asimilan los nuevos aranceles anunciados … [+1662 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "AP",
-      "Title": "Emite EU moneda de un dólar con la cara de Trump",
-      "Description": "EU comenzó a producir una nueva moneda con el rostro del Presidente Trump con motivo del Aniversario 250 de la independencia del país.",
-      "Url": "https://www.reforma.com/emite-eu-moneda-de-un-dolar-con-la-cara-de-trump/ar3240790",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/235/6234189.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2026-07-15T18:53:34Z",
-      "Content": "02 MIN 30 SEG\r\nAP\r\nWashington DC, Estados Unidos (15 julio 2026) .-12:51 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "La Voz",
-      "Title": "Trump tendrá una moneda de un dólar con su imagen",
-      "Description": "El secretario del Tesoro confirma que se acuñará una pieza conmemorativa de los 250 años de la declaración de independencia",
-      "Url": "https://www.lavozdegalicia.es/noticia/economia/2026/07/15/trump-tendra-moneda-dolar-imagen/00031784137331590225474.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/6V-p117uNy6n8CGF5sAc7FCdmx0=/1280x/2026/07/15/00121784136781481866135/Foto/efe_20260715_160352987.jpg",
-      "PublishedAt": "2026-07-15T17:46:00Z",
-      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump, qu… [+1182 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘exprime’ debilitamiento del dólar en miércoles de quincena: ¿Cómo está el tipo de cambio HOY?",
-      "Description": "La Reserva Federal tiene menos margen para subir la tasa de interés de este año por el dato de inflación más reciente en EU, señalaron analistas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/15/peso-dolar-precio-hoy-15-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/E2CZHGYBW5AOZDIKGOWT46WK54.png?smart=true&auth=441e77cc167e1b576b606f092c03f1d05621748c4faeeae88fcf720da4639c7d&width=1200&height=630",
-      "PublishedAt": "2026-07-15T16:39:15Z",
-      "Content": "El retroceso del dólar ante el peso se extendió por segunda sesión consecutiva mientras el mercado analiza los datos de inflación al productor en Estados Unidos en este miércoles de quincena. \r\nEl im… [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Redacción HuffPost",
-      "Title": "Ya es oficial: Trump cambia las normas y su rostro aparecerá en una moneda de oro de un dólar",
-      "Description": "<![CDATA[<p>El secretario del Tesoro de Estados Unidos, Scott Bessent, ha presentado una nueva moneda de oro de 24 quilates con el rostro de Donald Trump.]]>",
-      "Url": "https://www.huffingtonpost.es/economia/ya-oficial-trump-cambia-normas-rostro-aparecera-moneda-oro-dolar-f202607.html",
-      "UrlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/07/15/moneda-de-un-dolar-de-donald-trump-7683.jpeg",
-      "PublishedAt": "2026-07-15T15:45:43Z",
-      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, ha presentado una nueva moneda de oro de 24 quilates con el rostro de Donald Trump. \r\nLa moneda será acuñada por la Casa de la Moneda de Est… [+1649 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "EE. UU. acuñará una nueva moneda de oro de 1 dólar con la imagen de Trump (FOTO)",
-      "Description": "",
-      "Url": "https://actualidad.rt.com/actualidad/616923-eeuu-acunara-moneda-oro-dolar-imagen-trump",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/original/6a5789b259bf5b01436e2d40.jpg",
-      "PublishedAt": "2026-07-15T13:22:58Z",
-      "Content": "El secretario del Tesoro de Estados Unidos, Scott Bessent, anunció que la Casa de la Moneda comenzará a acuñar una nueva moneda de oro de 1 dólar  con la imagen del presidente Donald Trump con motivo… [+798 chars]"
     }
   ]
 }
