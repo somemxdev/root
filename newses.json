@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cotiza peso en 16.95 por dólar, mínimo desde junio de 2024",
+      "Description": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
+      "Url": "https://www.reforma.com/cotiza-dolar-en-16-95-minimo-desde-junio-de-2024/ar3260495",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/928/5927705.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-08-19T13:51:39Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (19 agosto 2026) .-07:49 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Fabián Tiscornia",
+      "Title": "El Banco Central mantuvo la tasa de interés en 5,75%: qué impacto tiene en los créditos y el dólar",
+      "Description": "El directorio del BCU decidió dejar estable \"el precio del dinero\" por cuarta ocasión consecutiva. La medida busca mantener la inflación bajo control, aunque abre la puerta a posibles subas ante la incertidumbre internacional.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/bcu-mantiene-tasa-interes-575-impacto-credito-dolar",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/59717a3/2147483647/strip/true/crop/1719x1074+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fd4%2Fd1f78f1147518dd2c3b63e75ae51%2Fimagen-para-cms-el-pais-2026-06-30t103226-468.jpg",
+      "PublishedAt": "2026-08-19T06:05:00Z",
+      "Content": "El directorio del Banco Central (BCU) resolvió ayer por unanimidad mantener la tasa de interés de referencia, es decir el precio del dinero, en 5,75% por cuarta ocasión consecutiva. Es que el Central… [+5645 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Precio del dólar hoy 18 de agosto: el peso mexicano se mantiene estable",
+      "Description": "Siguiendo de cerca los movimientos en la moneda internacional, el peso mexicano mantiene una cotización cercana a las 17 unidades por dólar en el mercado",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-18-de-agosto-el-peso-mexicano-se-mantiene-estable-2026081814291444789",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/09072026/e899746e-b777-409d-9bef-2003f3e5a811.jpg",
+      "PublishedAt": "2026-08-18T14:29:14Z",
+      "Content": "Siguiendo de cerca los movimientos en la moneda internacional, el peso mexicano mantiene una cotización cercana a las 17 unidades por dólar en el mercadoEl precio del dólar hoy, martes 18 de agosto d… [+2128 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay inicia la semana a la baja, mientras el mercado espera que el Banco Central mantenga la tasa hoy",
+      "Description": "Tras la variación que se dio el día lunes, la moneda estadounidense está prácticamente estable (con una mínima baja de 0,03%) en lo que va del mes de agosto.",
+      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-inicia-la-semana-a-la-baja-mientras-el-mercado-espera-que-el-banco-central-mantenga-la-tasa-hoy",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/0c219dc/2147483647/strip/true/crop/792x495+4+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2017%2F09%2F09%2F59b35a132b1e1.jpeg",
+      "PublishedAt": "2026-08-18T06:00:00Z",
+      "Content": "El dólar en Uruguay comenzó la semana con una caída de 0,17%, y se negoció en promedio en $ 40,261. En la jornada el billete verde cotizó entre $ 40,23 y $ 40,29 para finalizar en $ 40,27. Así bajó 0… [+1698 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar frena seguidilla de mínimos históricos en Monex",
+      "Description": "El tipo de cambio del dólar en Costa Rica frenó su racha a la baja en Monex tras subir este lunes. Conozca los datos del BCCR y las cotizaciones en bancos.",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-frena-seguidilla-de/NI3NYQ5WYBC4THZHDHSRVDJ4NE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/TFHGEUKEFRDTNPHZ22BLMQHU6M.jpg?smart=true&auth=7fdf9d0eae5aec1b900a85150a3e0a7509f34474051c9314b3eca7c79f5f333e&width=1440",
+      "PublishedAt": "2026-08-17T21:25:06Z",
+      "Content": "El tipo de cambio del dólar respecto al colón frenó este lunes 17 de agosto una seguidilla de tres sesiones seguidas marcando mínimos históricos en el Mercado de Monedas Exntrajeras (Monex). \r\nEl pre… [+2213 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tipo de cambio ‘finta’ con regresar a los 16 pesos por dólar: ¿Cuánto gana el peso al dólar?",
+      "Description": "El peso mexicano regresó mometáneamente al nivel de las 16 unidades durante el viernes 14 de agosto.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/17/peso-dolar-precio-hoy-17-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ULXEUVYZVFDHFOOCMNJ525ZWQM.png?smart=true&auth=6c12079105c6dff1dcda9c95e9611b7530d689d1aedb24e977fc749bd9300034&width=1200&height=630",
+      "PublishedAt": "2026-08-17T15:37:39Z",
+      "Content": "El peso mexicano se aprecia marginalmente ante el dólar este lunes 17 de agosto, ante un mayor debilitamiento del dólar y el atractivo de operaciones de carry trade.\r\nEn el plano internacional, las p… [+1899 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Se mantiene fortaleza del peso; opera en 17.01 por dólar",
+      "Description": "El peso mexicano se estabilizaba apenas por encima de 17 por dólar, favorecido por un declive generalizado del billete verde.",
+      "Url": "https://www.reforma.com/se-mantiene-fortaleza-del-peso-opera-en-17-01-por-dolar/ar3259144",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/986/5985942.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-08-17T14:07:47Z",
+      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 agosto 2026) .-08:03 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,97 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OUVWQEZ5TJBBPFAHYOUJQ4V4AA.png?smart=true&auth=e9ea9d085f944da891f0b7251cd5672eaa54d4ed69a97b2d80d8cd860fd8aa88&width=1200&height=630",
       "PublishedAt": "2026-08-03T15:42:09Z",
       "Content": "El peso mexicano reporta ganancias marginales frente al dólar, como resultado de una disminución del nerviosismo entre los inversionistas ante la posibilidad de ver avances en las conversaciones dipl… [+1657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar se acerca de nuevo a ¢450",
-      "Description": "El precio de la divisa se redujo en ¢2,56 respecto al cierre de la semana pasada",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-se-acerca-de-nuevo-a-450/LEGRILPMGJF5RD2APQLZY5KE4U/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/2UIYPPO2AVGLVLPNCR2CQRCVYE.jpg?smart=true&auth=81537dddab4419d703edeb6426d085ea58b4643c52a41819aa2429ee8b777dc9&width=1440",
-      "PublishedAt": "2026-07-31T21:01:30Z",
-      "Content": "El tipo de cambio del dólar respecto al colón retomó la tendencia a la baja en el Mercado de Monedas Extranjeras (Monex) y volvió a acercarse a los ¢450, luego de rozar los ¢454 la semana anterior. \r… [+2139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, en ‘modo caracol’ en última sesión de julio: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "El dólar se fortalece después del 'tropezón' que le metió la Fed, que dejó sin cambios la tasa de interés y da a entender que no subirá el referencial en su reunión de septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/31/peso-dolar-precio-hoy-31-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5PONTBFORBCRHHS63ZW7BMYVRU.png?smart=true&auth=dcbf24c82298d4d3cb71152cdae76b46dec4b7630a3d9b57326c233d6ad2de0f&width=1200&height=630",
-      "PublishedAt": "2026-07-31T15:42:02Z",
-      "Content": "El peso mexicano tiene una leve depreciación en la última sesión de julio. Esto se da después de una corrección en la cotización del dólar que perdió en los mercados tras las declaraciones de la Rese… [+1672 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso gana más de 10 centavos al dólar en el día después de la decisión de la Fed",
-      "Description": "El comunicado de la Fed tras dejar la tasa de interés en el rango de 3.5-3.75% hace pensar al mercado que no habrá un aumento en la próxima reunión de septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/30/peso-dolar-precio-hoy-30-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CWY4TGK32FGGLBSR4OX54RCZ6U.png?smart=true&auth=3b651e0dd889ae2ec83cbe5f70ed481ea9675611150806d459360339e38d57f9&width=1200&height=630",
-      "PublishedAt": "2026-07-30T15:29:15Z",
-      "Content": "El peso mexicano avanza ante el dólar en la sesión de este jueves 30 de julio mientras el mercado digiere los comentarios de Kevin Warsh tras la decisión de la Fed de no hacer cambios a la tasa de in… [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "EU e Irán llevan 3 días sin atacarse: ¿Cómo reacciona el peso ante el dólar HOY?",
-      "Description": "La pausa en los ataques de Estados Unidos contra Irán provoca que el dólar se debilite en los mercados. ¿Cómo se beneficia el peso?",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/27/peso-dolar-precio-hoy-27-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/Y64HDGOU2BE65C6YTRCKYAGRVY.png?smart=true&auth=3648f7acec0cb7f35100c0c95773f7eb4a28a3270c2489cfb1ffcde849c98e40&width=1200&height=630",
-      "PublishedAt": "2026-07-27T16:24:29Z",
-      "Content": "El peso mexicano avanza ante el dólar en la sesión de este lunes 27 de julio gracias a la pausa en los ataques de Estados Unidos contra Irán, un comportamiento que debilita al billete verde. \r\nEstado… [+1819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Gustavo Ortega Campos",
-      "Title": "Alberto Trejos, sobre el precio del dólar: ‘Es histórico, es volver al tipo de cambio que teníamos hace 22 años’",
-      "Description": "Alberto Trejos, exministro del Comex y presidente de Cuestamoras, analiza las causas de la caída del dólar en Costa Rica y lanza una importante advertencia.",
-      "Url": "https://www.nacion.com/economia/alberto-trejos-sobre-el-precio-del-dolar-es/5XAJM2TDIZG3PODNKE6PMNTZPU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/VTNAIXJ7JVE2RFCIH4O7Z4N4NU.jpeg?smart=true&auth=cc8bfb306189a106375aef0fcbf2f96ef75144a97da3bda993fc47ac179f4b1e&width=1440",
-      "PublishedAt": "2026-07-27T11:15:00Z",
-      "Content": "La tendencia a la baja del precio del dólar con respecto al colón ya suma cuatro años. Durante julio, el valor de la divisa ha roto, en varias ocasiones, el mínimo histórico en el Mercado de Monedas … [+4247 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central hizo otra fuerte compra, pese a la suba del dólar: ya adquirió más de US$13.000 millones en el año",
-      "Description": "Su nivel de intervención generó ruido tras los dichos del vocero presidencial, Adrián Ravier, sobre la cotización que podría alcanzar el billete.",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-hizo-otra-fuerte-compra-pese-a-la-suba-del-dolar-ya-adquirio-mas-de-us13000-nid24072026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-banco-central-bcra-adquirio-hoy-otros-JEAMBBZ6UVAAJKEI3L4V2AMIW4.jpg?auth=6e55f8207df11e96c0d1d3efb6eaec9a7a96f3c911779a97972645c3db3fbf02&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-07-24T21:08:47Z",
-      "Content": "El Banco Central (BCRA) adquirió hoy otros US$345 millones para sus reservas, la mayor compra diaria desde los US$532 millones que había sumado hace diez días. De este modo, ya acumuló US$13.101 mill… [+3307 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘analiza’ arancel actualizado de Trump a México: ¿Cómo reacciona el dólar HOY?",
-      "Description": "Especialistas advierten que el desempeño del peso ante el dólar estará condicionado al 'apetito' por los activos de riesgo del mercado y datos de empleo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/07/24/peso-dolar-precio-hoy-24-de-julio-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3GZ3ENIFMBCBZCBSUCVZSZWRU4.png?smart=true&auth=c338c625671dcf48e1f0bf23b4fe6f17a6e6ed5de4315a24fbb50a417005f578&width=1200&height=630",
-      "PublishedAt": "2026-07-24T15:26:49Z",
-      "Content": "El peso mexicano se recupera ante el dólar en la sesión de este viernes 24 de julio, mientras los participantes del mercado analizan los aranceles anunciados por Jamieson Greer, representante comerci… [+1894 chars]"
     }
   ]
 }

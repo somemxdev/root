@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 19, 2026",
+      "Description": "The Nigerian naira remained relatively firm against the United States dollar on Wednesday, August 19, 2026, with the currency trading around the N1,350 per dollar level at the official Nigerian Foreign Exchange Market (NFEM), while the parallel market maintai…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-19-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-08-19T06:04:45Z",
+      "Content": "The Nigerian naira remained relatively firm against the United States dollar on Wednesday, August 19, 2026, with the currency trading around the N1,350 per dollar level at the official Nigerian Forei… [+1968 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: DXY Near 99.38 as Fed Minutes and UK Inflation Loom; EUR/USD and GBP/USD Hold Firm",
+      "Description": "DXY tests critical support as traders await Fed minutes, while ECB rate expectations and UK inflation shape the outlook for EUR/USD and GBP/USD.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-060023874.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/729E12DE30278E72EE7B3A3A1D022A32B8D83D80C661634CC846856EB11300CF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F7b648f838ce96d2212ff73453582b398.jpg",
+      "PublishedAt": "2026-08-19T06:00:23Z",
+      "Content": "US Dollar News: Fed Minutes, ECB Hike Bets and UK Inflation Drive FX\r\nOpening today, the focus is on upcoming minutes from the July Fed meeting. These will offer insight on how divided members were o… [+4558 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Kotak Mahindra Bank joins peers in tapping dollar debt before RBI window shuts",
+      "Description": "Kotak Mahindra Bank successfully raised $650 million through its five-year dollar bonds. This issuance occurred at a coupon rate 27 basis points below initial guidance. Indian lenders have collectively raised $6.95 billion since June 5. These funds will diver…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-joins-peers-in-tapping-dollar-debt-before-rbi-window-shuts/articleshow/133336555.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133336660,width-1200,height-630,imgsize-86116,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-08-19T03:45:58Z",
+      "Content": "MUMBAI - India's Kotak Mahindra Bank has accepted bids worth $650 million for its U.S. dollar bonds maturing in five years at a coupon rate 27 basis points lower than the initial price guidance, thre… [+1009 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Joel Rebello",
+      "Title": "Kotak Mahindra Bank raises $650 million in debut dollar bond sale",
+      "Description": "Kotak Mahindra Bank raised $650 million through its debut five-year dollar bond, pricing notes at 108 basis points over US Treasuries. Strong demand from Asian and European investors helped tighten pricing from initial guidance, with orders reaching $2.1 bill…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/kotak-mahindra-bank-raises-650-million-in-debut-dollar-bond-sale/articleshow/133327166.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133327178,width-1200,height-630,imgsize-79648,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-18T16:10:42Z",
+      "Content": "Kotak Mahindra Bank raised $650 million in its debut dollar bond issue from investors in Asia and Europe on Tuesday, pricing the five-year notes at 108 basis points over the benchmark five-year US tr… [+1827 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 18, 2026",
+      "Description": "The Nigerian naira continued to trade relatively firmly against the United States dollar on Tuesday, August 18, 2026, following its recent appreciation at the official Nigerian Foreign Exchange Market (NFEM) and relative stability in the parallel market.\nThe …",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-18-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/03/dollars.gif",
+      "PublishedAt": "2026-08-18T06:09:01Z",
+      "Content": "The Nigerian naira continued to trade relatively firmly against the United States dollar on Tuesday, August 18, 2026, following its recent appreciation at the official Nigerian Foreign Exchange Marke… [+2030 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "ICICI Bank dollar debt fundraising tops $2 billion in a month: Bankers",
+      "Description": "ICICI Bank triumphantly secured $750 million through a fresh dollar bond issuance, making it the bank's third successful fundraising attempt in just one month. The bond was priced at a tighter spread than initially anticipated. The funds generated will be uti…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-dollar-debt-fundraising-tops-2-billion-in-a-month-bankers/articleshow/133310849.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133310873,width-1200,height-630,imgsize-54536,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-18T03:49:53Z",
+      "Content": "ICICI Bank has accepted bids worth $750 million for a new five-year U.S. dollar bond at a spread tighter than initial guidance, two merchant bankers said on Tuesday, extending a wave of offshore fund… [+1833 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Joel Rebello",
+      "Title": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
+      "Description": "ICICI Bank raised $750 million through five-year dollar bonds at 105 basis points over US Treasuries, marking its second dollar issuance in a month. Strong institutional demand helped tighten pricing, while Kotak Mahindra Bank and Yes Bank prepare internation…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-raises-750-million-as-indian-banks-tap-dollar-bond-market/articleshow/133300962.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133300998,width-1200,height-630,imgsize-119678,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-17T15:49:10Z",
+      "Content": "ICICI Bank has raised $750 million by selling five year bonds to investors at 105 basis points above the five year US treasury, its second dollar bond within a month.The final bond pricing is expecte… [+3773 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -15,6 +106,19 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/17073600/bank-of-america-logo-downloadable-transparent-3-1-800x420.png",
       "PublishedAt": "2026-08-17T11:36:01Z",
       "Content": "Bank of America has advised that investors are increasingly turning to gold as a key hedge against the potential weakening of the U.S. dollar and ongoing inflation concerns. This aligns with the bank… [+1371 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Hike Bets Fade as EUR/USD and GBP/USD Rally",
+      "Description": "DXY comes under pressure as Fed hike expectations fade, while EUR/USD and GBP/USD strengthen on narrowing policy divergence and domestic data.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-073820762.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/A290F91DC52B05EB65A048348EEB670EC22D63131EC86FA497454410570225B4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fc5cbafe9890fe0a3c0e8e2850987e867.jpg",
+      "PublishedAt": "2026-08-17T07:38:20Z",
+      "Content": "US Dollar News: Fed Hike Bets Fade as Euro and Pound Gain Support\r\nThe U.S. dollar begins the day on Wednesday, August 17, under pressure after a slow release of economic data reduced the likelihood … [+4901 chars]"
     },
     {
       "Source": {
@@ -288,110 +392,6 @@
       "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/16/thumb/fitandfill/1200X628/1752689101-0452.jpg",
       "PublishedAt": "2026-08-11T16:25:32Z",
       "Content": "SBI plans to raise funds through five-year dollar bonds, with the final issue size hinging on its ability to compress the initial pricing guidance\r\nState Bank of India\r\nSubrata PandaMumbai2 min read … [+2322 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "Aoyon Ashraf",
-      "Title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
-      "Description": "Collectors are spending millions on trading cards, while blockchain startups are turning physical Pokémon cards into digital assets. The harder task is creating enough liquidity to compete with established marketplaces.",
-      "Url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/800c6fe6e3c91b04429f89f7d1800b84095103a7-5777x3851.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "PublishedAt": "2026-08-11T13:06:07Z",
-      "Content": "\"There has never been a central registry or clearing house for this market,\" ATH argued in a recent research report. That fragmentation, the firm said, creates an opportunity for blockchain-based own… [+1516 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "State Bank of India returns to dollar debt market, bankers see strong demand",
-      "Description": "State Bank of India is set to re-enter the dollar bond market, marking its first appearance in nearly a year. The nation's leading financial institution foresees strong investor interest in its five-year bond offer. This decision comes in the wake of the Rese…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-returns-to-dollar-debt-market-bankers-see-strong-demand/articleshow/133154390.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133154411,width-1200,height-630,imgsize-64024,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-11T12:26:17Z",
-      "Content": "State Bank of India, the country's largest lender, is returning to the public dollar bond market after nearly a year and is expected to see strong demand for its planned five-year issue, three mercha… [+1655 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Will CPI Revive DXY as EUR/USD and GBP/USD Test Resistance?",
-      "Description": "DXY, EUR/USD and GBP/USD trade near key technical levels as markets await U.S. CPI for fresh clues on inflation and the Fed’s September policy outlook.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-080528660.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/6A299FFF24379FB4C744B2D96A4FD34DAB6D8AF073C2730C6AF9FF894FD0BA65/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F7f36e1776526a56402289b306d3fd904",
-      "PublishedAt": "2026-08-11T08:05:28Z",
-      "Content": "US Dollar News: CPI Test Puts Fed and FX Policy in Focus\r\nAs we enter August 11, attentions are on the anticipated July CPI data to be released on Wednesday. The result of this CPI data will ultimate… [+5459 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 11, 2026",
-      "Description": "The naira traded around ₦1,368 to the US dollar in the official Nigerian Foreign Exchange Market (NFEM) on Tuesday, August 11, 2026, as the Central Bank of Nigeria’s reference rate continued to hover within the ₦1,360–₦1,370 range.\nThe post Dollar to Naira ex…",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-11-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-08-11T05:58:40Z",
-      "Content": "The naira traded around 1,368 to the US dollar in the official Nigerian Foreign Exchange Market (NFEM) on Tuesday, August 11, 2026, as the Central Bank of Nigerias reference rate continued to hover w… [+1351 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "State Bank of India taps dollar bond market with five-year issue: Report",
-      "Description": "The State Bank of India is set to tap into the dollar debt market, aiming to raise a minimum of $500 million by issuing five-year bonds. Marketing for this public offering is underway, with expectations to finalize the sale within the week. This move follows …",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-taps-dollar-bond-market-with-five-year-issue-report/articleshow/133141420.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133141439,width-1200,height-630,imgsize-31312,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-11T03:46:35Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "State Bank of India taps dollar bond market with five-year issue",
-      "Description": "SBI is tapping ​the dollar debt ⁠market through the public issue and plans to raise funds through ‌a sale\nof five-year bonds",
-      "Url": "https://www.thehindubusinessline.com/markets/state-bank-of-india-taps-dollar-bond-market-with-five-year-issue/article71330917.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/ven2fl/article71324078.ece/alternates/LANDSCAPE_1200/SBI-completes-G7HETMAPQ.4.jpg.jpg",
-      "PublishedAt": "2026-08-11T03:13:23Z",
-      "Content": "State Bank of India, the\r\nlargest lender in the country, is tapping the dollar debt market\r\nthrough the public issue and plans to raise funds through a sale\r\nof five-year bonds, two merchant bankers … [+737 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Jobs Data Weaken DXY – Will CPI Lift EUR/USD and GBP/USD?",
-      "Description": "Weak U.S. payrolls pressure the dollar as markets turn to July CPI for fresh Fed clues, while EUR/USD and GBP/USD test major resistance.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-jobs-080330349.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/19AD8278E435AE322E6A1C518C92FFE67AA557975F1B88D784F0BB589ECE125E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F4a8f08e24811dae4b06502c3c2d2b5ad",
-      "PublishedAt": "2026-08-10T08:03:30Z",
-      "Content": "US Dollar News: Weak Payrolls Shift Focus onto CPI\r\nThe U.S. dollar starts the week from a drastically changed fundamental position after Friday's U.S. employment report showed that nonfarm payrolls … [+4469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 10, 2026",
-      "Description": "The naira opened the new week relatively steady against the United States dollar across both the official Nigerian Foreign Exchange Market and the parallel market, with traders monitoring liquidity conditions and Central Bank interventions.\nThe post Dollar to…",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-10-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/US-dollar-Middle-East.jpg",
-      "PublishedAt": "2026-08-10T05:58:43Z",
-      "Content": "The naira opened the new week relatively steady against the United States dollar across both the official Nigerian Foreign Exchange Market and the parallel market, with traders monitoring liquidity c… [+1691 chars]"
     }
   ]
 }
