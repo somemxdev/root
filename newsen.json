@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6744df8-1928-4cd5-aa88-55eb058192a1",
+      "UrlToImage": null,
+      "PublishedAt": "2026-08-21T06:17:36Z",
+      "Content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 21, 2026",
+      "Description": "The Nigerian naira is trading around ₦1,349.06 to the US dollar on Friday, August 21, 2026, according to the latest available live USD/NGN indication.\nThe post Dollar to Naira exchange rate today, August 21, 2026 appeared first on Vanguard News.",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-21-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-08-21T05:31:57Z",
+      "Content": "The Nigerian naira is trading around 1,349.06 to the US dollar on Friday, August 21, 2026, according to the latest available live USD/NGN indication.\r\nAt the Nigerian Foreign Exchange Market (NFEM), … [+1772 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "BL Bengaluru Bureau",
+      "Title": "HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale",
+      "Description": "The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05",
+      "Url": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-rise-1-after-175-billion-record-dollar-bond-sale/article71372234.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/lwfg6v/article71372271.ece/alternates/LANDSCAPE_1200/2026-05-27T052828Z_1843171375_RC2V5FA8RJ89_RTRMADP_3_HDFC-BANK-STOCKS.JPG",
+      "PublishedAt": "2026-08-21T05:10:00Z",
+      "Content": "HDFC Bank shares rose 1 per cent in early trade on Friday after the private lender, acting through its GIFT City Branch, completed the issue of total US$ 1,750 million Senior Unsecured Bonds.\r\nThe st… [+1255 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "TNN",
+      "Title": "HDFC Bank raises record $1.8 billion via dollar bond issue",
+      "Description": "India Business News: MUMBAI: HDFC Bank has raised $1.75 billion through a dual-tranche dollar bond issue from its GIFT City branch to fund overseas lending and general ban.",
+      "Url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-raises-record-1-8-billion-via-dollar-bond-issue/articleshow/133390382.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-133390387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "PublishedAt": "2026-08-21T00:40:25Z",
+      "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Online",
+      "Title": "John Paul DeJoria was once homeless and recycled soda bottles for money; then he turned $700 into a billion-dollar empire",
+      "Description": "John Paul DeJoria's inspiring journey from the depths of poverty and homelessness to co-founding both John Paul Mitchell Systems and Patrón Spirits exemplifies triumph. His immense success hasn't dulled his commitment to philanthropy; he donates half of his w…",
+      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/john-paul-dejoria-was-once-homeless-and-recycled-soda-bottles-for-money-then-he-turned-700-into-a-billion-dollar-empire/articleshow/133382603.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133383048,width-1200,height-630,imgsize-805808,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-08-20T16:23:21Z",
+      "Content": "Haircare legend John Paul DeJoria has a classic rags-to riches life that defines the so-called American dream. The co-founder of John Paul Mitchell Systems and Patrón Spirits, went from growing up in… [+4347 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "BS Reporter",
+      "Title": "HDFC Bank returns to dollar bond market, eyes at least $1 billion issue",
+      "Description": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window",
+      "Url": "https://www.business-standard.com/markets/news/hdfc-bank-returns-to-dollar-bond-market-eyes-at-least-1-billion-issue-126082001486_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/04/thumb/fitandfill/1200X628/1751652135-1644.jpg",
+      "PublishedAt": "2026-08-20T16:19:17Z",
+      "Content": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window\r\nHDFC Bank\r\nBS Reporte… [+1971 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, August 20, 2026",
+      "Description": "The Nigerian naira continued to strengthen against the US dollar on Thursday, August 20, 2026, as improved dollar liquidity supported the local currency across the foreign exchange market.\nThe post Dollar to Naira exchange rate today, August 20, 2026 appeared…",
+      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-20-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-08-20T06:49:32Z",
+      "Content": "The Nigerian naira continued to strengthen against the US dollar on Thursday, August 20, 2026, as improved dollar liquidity supported the local currency across the foreign exchange market.\r\nAt the Ni… [+1627 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Falling Treasury Yields Sink DXY as EUR/USD Breaks Higher",
+      "Description": "DXY remains under pressure as Treasury buybacks push long-term yields lower, while EUR/USD and GBP/USD extend gains amid shifting rate expectations.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-falling-063304096.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/9F0A63168B6CE364F8617E1C6F2E4D7794EBB759265A23F05B845742BCD52BF4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F1db3c187696660115dcb17374b49d61c.jpg",
+      "PublishedAt": "2026-08-20T06:33:04Z",
+      "Content": "US Dollar News: Treasury Buybacks Weaken Dollar as ECB and BoE Stay Cautious\r\nThe U.S. dollar began August 20 with added pressure as bond market stress eased after the Treasury Department unexpectedl… [+4885 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Reuters",
+      "Title": "HDFC Bank taps dollar bond market again, eyes $1 bn overseas debt raise",
+      "Description": "India's largest private lender plans to raise at least $500 million each through three-year and five-year bonds as banks rush to complete overseas fundraising",
+      "Url": "https://www.business-standard.com/industry/banking/hdfc-bank-taps-dollar-bond-market-again-eyes-1-bn-overseas-debt-raise-126082000216_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/thumb/fitandfill/1200X628/1782666822-9257.jpg",
+      "PublishedAt": "2026-08-20T04:35:18Z",
+      "Content": "If completed, the latest bond sale would take HDFC Bank's total proceeds from such issues to $1.75 billion, the most after ICICI Bank"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Bitcoin.com integrates USDU, the UAE’s first central bank-registered dollar stablecoin, into its wallet",
+      "Description": "The integration of USDU into Bitcoin.coms wallet could enhance stablecoin adoption, bridging regulatory compliance with consumer accessibility.\nThe post Bitcoin.com integrates USDU, the UAE’s first central bank-registered dollar stablecoin, into its wallet ap…",
+      "Url": "https://cryptobriefing.com/bitcoin-com-integrates-usdu-uae-stablecoin/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19165400/ae-coin-and-usdu-launch-regulated-uae-stablecoin-conversion--800x420.jpeg",
+      "PublishedAt": "2026-08-19T20:54:05Z",
+      "Content": "The partnership with Universal Digital brings a regulated UAE stablecoin to millions of self-custodial wallet users, marking USDU's first major retail distribution channel Bitcoin.com has added USDU,… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -262,136 +392,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
       "PublishedAt": "2026-08-13T06:05:17Z",
       "Content": "The naira remained relatively stable against the United States dollar on Thursday, August 13, 2026, in both the official Nigerian Foreign Exchange Market and the parallel market, as traders continued… [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Reuters",
-      "Title": "SBI's dollar debt sale prompts Bank of Baroda to test waters: Bankers",
-      "Description": "The bank ​has offered a spread of 120 basis points above US Treasury for ​the three-year option and 130 bps on the five-year sale, the bankers added",
-      "Url": "https://www.business-standard.com/industry/banking/sbi-s-dollar-debt-sale-prompts-bank-of-baroda-to-test-waters-bankers-126081300660_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/thumb/fitandfill/1200X628/1778735877-0873.jpg",
-      "PublishedAt": "2026-08-13T05:38:24Z",
-      "Content": "The bank has offered a spread of 120 basis points above US Treasury for the three-year option and 130 bps on the five-year sale, the bankers added\r\nBank of Baroda | Image: Bloomberg\r\nReutersMumbai2 m… [+2193 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "State Bank of India's successful dollar debt sale prompts Bank of Baroda to test waters, bankers say",
-      "Description": "Bank of Baroda is actively seeking dollar funding avenues to bolster its operations, inspired by the successful foreign-currency bond issuance led by State Bank of India. The bank is considering a dual-tranche bond sale with maturities of three and five years…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-indias-successful-dollar-debt-sale-prompts-bank-of-baroda-to-test-waters-bankers-say/articleshow/133197886.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133197988,width-1200,height-630,imgsize-2300529,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-13T04:40:02Z",
-      "Content": "India's Bank of Baroda is considering dollar funding, a day after its peer State Bank of India, the country's largest lender by assets, received strong demand for its foreign-currency bonds, two merc… [+1616 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Atmadip Ray",
-      "Title": "Bank deposits hit decade-high growth as NRI dollar inflows cross $37 billion",
-      "Description": "Bank deposits saw their fastest growth in nearly ten years by July. Overseas Indians deposited about $37 billion in foreign currency accounts. Bank credit growth also accelerated to its fastest pace since June 2024. This surge was driven by corporate demand a…",
-      "Url": "https://economictimes.indiatimes.com/news/economy/finance/bank-deposits-hit-decade-high-growth-as-nri-dollar-inflows-cross-37-billion/articleshow/133195343.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133188171,width-1200,height-630,imgsize-235217,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-12T16:30:47Z",
-      "Content": "Kolkata: Bank deposits rose 15.4% year-on-year at the end of July, marking the fastest pace in nearly 10 years, as overseas Indians parked about $37 billion in foreign currency-linked non-resident de… [+1789 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Atmadip Ray",
-      "Title": "Bank deposits hit decade-high growth as NRI dollar inflows cross $37 billion",
-      "Description": "Bank deposits saw their fastest growth in nearly ten years by July. Overseas Indians deposited about $37 billion in foreign currency accounts. Bank credit growth also accelerated to its fastest pace since June 2024. This surge was driven by corporate demand a…",
-      "Url": "https://economictimes.indiatimes.com/news/economy/finance/bank-deposits-hit-decade-high-growth-as-nri-dollar-inflows-cross-37-billion/articleshow/133188027.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133188171,width-1200,height-630,imgsize-235217,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-08-12T16:30:47Z",
-      "Content": "Kolkata: Bank deposits rose 15.4% year-on-year at the end of July, marking the fastest pace in nearly 10 years, as overseas Indians parked about $37 billion in foreign currency-linked non-resident de… [+1791 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Russia created largest non-dollar stablecoin – bank boss",
-      "Description": "Russia has issued the largest non-dollar stablecoin via its A7 cross-border payment system, PSB ban chairman Pyotr Fradkov has said Read Full Article at RT.com",
-      "Url": "https://www.rt.com/russia/644169-stablecoin-frabkov-psb-a7/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2026.08/article/6a7c712985f540549e027dc9.jpg",
-      "PublishedAt": "2026-08-12T13:29:20Z",
-      "Content": "Russia has created the largest stablecoin not pegged to the US dollar through its A7 cross-border payment system, the chairman of Promsvyazbank (PSB), Pyotr Fradkov, has said.\r\nPSB launched A7 in Oct… [+2087 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: CPI Test Looms as DXY, EUR/USD and GBP/USD Hold Key Levels",
-      "Description": "DXY, EUR/USD and GBP/USD trade near key technical levels as markets await U.S. CPI for fresh clues on inflation and the Fed’s September policy outlook.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-081412880.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/89519C87300A8DA8FD2F8B7DC2702AC0A4DFEF8A0B180C85BB4B58AFD56C41D0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fc4a19b2cf820b007bb0bcd811dceadae.jpg",
-      "PublishedAt": "2026-08-12T08:14:12Z",
-      "Content": "US Dollar News: CPI Test Puts Fed, Euro and Pound in Focus\r\nThe U.S. dollar begins the week with July CPI due out later today. The data release may dictate whether the Federal Reserve pauses its inte… [+5093 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 12, 2026",
-      "Description": "The naira remained broadly stable against the United States dollar on Wednesday, August 12, 2026, with the official Nigerian Foreign Exchange Market (NFEM) rate trading around the mid-₦1,360 band while the parallel market hovered in the low-₦1,400 range.\nThe …",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-12-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
-      "PublishedAt": "2026-08-12T05:51:52Z",
-      "Content": "The naira remained broadly stable against the United States dollar on Wednesday, August 12, 2026, with the official Nigerian Foreign Exchange Market (NFEM) rate trading around the mid-1,360 band whil… [+2046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputnikglobe.com"
-      },
-      "Author": "Sputnik International",
-      "Title": "Head of Top Russian Bank Details Revolutionary Payment System Invulnerable to Weaponized Dollar",
-      "Description": "In an interview with Russian business media, Petr Fradkov, CEO of Promsvyazbank, revealed how the bank’s ground-breaking payment system, A7, facilitates transnational payments without using Western architecture like SWIFT or dollar-based instruments, all with…",
-      "Url": "https://sputnikglobe.com/20260811/head-of-top-russian-bank-details-revolutionary-payment-system-invulnerable-to-weaponized-dollar-1124563549.html",
-      "UrlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124563549.jpg?11245633721786476229",
-      "PublishedAt": "2026-08-11T19:23:48Z",
-      "Content": "Get breaking stories and analysis on the global economy from Sputnik.\r\nhttps://sputnikglobe.com/20260811/head-of-top-russian-bank-details-revolutionary-payment-system-invulnerable-to-weaponized-dolla… [+4260 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Nwafor",
-      "Title": "TUC urges urgent action on food imports, demands N1,000 to dollar exchange rate",
-      "Description": "—Says stronger Naira will cut food prices—-Calls for fast tracking of state police By Johnbosco Agbakwuru ABUJA — THE Trade Union Congress of Nigeria (TUC) on Tuesday, pressed the federal government yto sustain food import policies, fast-track state police, a…",
-      "Url": "https://www.vanguardngr.com/2026/08/tuc-urges-urgent-action-on-food-imports-demands-n1000-to-dollar-exchange-rate/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Osifo.png",
-      "PublishedAt": "2026-08-11T18:26:07Z",
-      "Content": "—Says stronger Naira will cut food prices—-Calls for fast tracking of state police\r\nBy Johnbosco Agbakwuru\r\nABUJA — THE Trade Union Congress of Nigeria (TUC) on Tuesday, pressed the federal governmen… [+4375 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Subrata Panda",
-      "Title": "State Bank of India set to raise funds through 5-year dollar bond",
-      "Description": "SBI plans to raise funds through five-year dollar bonds, with the final issue size hinging on its ability to compress the initial pricing guidance",
-      "Url": "https://www.business-standard.com/markets/news/state-bank-of-india-set-to-raise-funds-through-5-year-dollar-bond-126081101993_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/16/thumb/fitandfill/1200X628/1752689101-0452.jpg",
-      "PublishedAt": "2026-08-11T16:25:32Z",
-      "Content": "SBI plans to raise funds through five-year dollar bonds, with the final issue size hinging on its ability to compress the initial pricing guidance\r\nState Bank of India\r\nSubrata PandaMumbai2 min read … [+2322 chars]"
     }
   ]
 }

@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso apunta a llevarse la semana ante el dólar: Tipo de cambio está en 16.89 unidades",
+      "Description": "La diferente entre las tasas de interés de México y EU benefica al peso, señalan especialistas. La tasa del Banxico es de 6.5% y la de la Fed, 3.5%",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/21/peso-dolar-precio-hoy-21-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/72YIRKUCV5F3XPOFAAJ3TBYGEA.png?smart=true&auth=ee756cedcfdc6705a9a8c6959f38faff18fc78d10eb5178d91d367f3c83232d4&width=1200&height=630",
+      "PublishedAt": "2026-08-21T16:41:31Z",
+      "Content": "El peso mexicano aprovecha el debilitamiento del dólar este viernes 21 de agosto, gracias a que los inversionistas confían que en que el diferencial de tasas entre el Banco de México y la Reserva Fed… [+1575 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le baja’ a ganancias ante el dólar: ¿Cuánto pierde este jueves 20 de agosto?",
+      "Description": "Las minutas del Banxico mostraron que no habrá cambios en la tasa de interés en los próximos meses, lo que mantendrá el atractivo de la moneda ante el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/20/peso-dolar-precio-hoy-20-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AMMWOAU3ZVCVXKJTJQUSSW7KF4.png?smart=true&auth=8faee4797d36227e1b28b0e3a7ef99524ec0d41818623c0756e77467488e8f3c&width=1200&height=630",
+      "PublishedAt": "2026-08-20T17:09:33Z",
+      "Content": "El peso mexicano se deprecia ante el dólar en la sesión de este jueves 20 de agosto, mientras el mercado está a la espera de las minutas de la última reunión de política monetaria del Banco de México… [+1890 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / KC",
+      "Title": "Dólar baja de 17 pesos y Sheinbaum lo atribuye a confianza en México",
+      "Description": "Sheinbaum reconoció que un peso fuerte reduce el valor en moneda nacional de las remesas y resta ventajas a los exportadores mexicanos.",
+      "Url": "https://aristeguinoticias.com/2008/dinero-y-economia/dolar-baja-de-17-pesos-y-sheinbaum-lo-atribuye-a-confianza-en-mexico/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/11/dolar-peso-25112024.jpg",
+      "PublishedAt": "2026-08-20T17:01:57Z",
+      "Content": "La presidenta Claudia Sheinbaum atribuyó la fortaleza del peso mexicano frente al dólar a la confianza internacional en la economía del país, después de que la moneda estadounidense cotizara por deba… [+2735 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘rompe el piso’ de las 17 unidades por dólar, a mínimos desde 2024",
+      "Description": "El avance del peso sobre el dólar es también por el diferencial de tasas y la estabilidad macroeconómica del país.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/08/20/peso-rompe-el-piso-de-las-17-unidades-por-dolar-a-minimos-desde-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3EZ5RJBHZBEONJH54XWJWL4TAA.jpg?smart=true&auth=7c108caa5cb56fc1c492ec8132ace98c3e3c972af6bbe9e2c7646630301e60b7&width=1200&height=630",
+      "PublishedAt": "2026-08-20T08:33:15Z",
+      "Content": "El peso mexicano rompió el piso de las 17 unidades por dólar\r\n por primera vez desde finales de mayo de 2024, después del anuncio del Tesoro de Estados Unidos, que informó que aumentará la recompra d… [+3960 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "“Tenemos dólar para rato”: el diagnóstico de Emilio Ocampo sobre los riesgos y el futuro de la moneda que más obsesiona a los argentinos",
+      "Description": "El experto analizó el nuevo escenario geopolítico, el reposicionamiento de Estados Unidos en América Latina y el papel que podría desempeñar el dólar en los próximos años",
+      "Url": "https://www.lanacion.com.ar/economia/tenemos-dolar-para-rato-el-diagnostico-de-emilio-ocampo-sobre-los-riesgos-y-el-futuro-de-la-moneda-nid19082026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/emilio-ocampo-el-economista-que-le-habia-acercado-LQR4ZUO5TJB2PACMWTTNL2MNOM.JPG?auth=8c2af576b0fe2dd2077edb5829c3bcce6ddfbb6e5e3f837ce51c69c8378dca44&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-08-19T21:40:33Z",
+      "Content": "Riesgos hay, pero el dólar sigue siendo la moneda del mundo y lo seguirá siendo por un tiempo, aseguró el economista Emilio Ocampo, uno de los principales impulsores del proyecto de dolarización que … [+4612 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘farmea aura’ ante el dólar: Gana 10 centavos y tipo de cambio regresa a las 16 unidades",
+      "Description": "El dólar se vio debilitado por un anuncio del Departamento del Tesoro sobre recompras para beneficiar la liquidez de sus bonos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/19/peso-dolar-precio-hoy-19-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LK7S6ISVKVG6HEE7SY7C5LWYVU.png?smart=true&auth=12baf1d4abc6916e2cf88431e3f3ccee4f3faaa57f93869c529ee9664ce9dbfc&width=1200&height=630",
+      "PublishedAt": "2026-08-19T14:45:09Z",
+      "Content": "El peso mexicano comenzó la jornada de este miércoles 19 de agosto con una fuerte apreciación ante el dólar que llevó el tipo de cambio de nuevo a las 16 unidades. \r\nEl dólar se debilitó tras el anun… [+1853 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/09072026/7635fe4e-78d2-464e-83fe-3b63a5dc546f.jpg",
       "PublishedAt": "2026-08-10T15:19:33Z",
       "Content": "La moneda mexicana inicia la jornada con avances frente a la divisa estadounidense a la espera de indicadores de inflaciónEl peso mexicano arrancó la jornada de este lunes 10 de agosto con un balance… [+1649 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra semana al alza",
-      "Description": "El precio de la divisa aumentó en ¢0,93 respecto al cierre de la semana pasada",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/T33GGZPOOFBL3OVSYXSWDNNDHY/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
-      "PublishedAt": "2026-08-07T21:28:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró este viernes 7 de agosto ligeramente al alza en el Mercado de Monedas Extranjeras (Monex), respecto al mismo día de la semana anterior.\r\nEl precio … [+2148 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Por el dólar más demandado, el Banco Central hizo la menor compra semanal del año",
-      "Description": "Adquirió US$16 millones hoy; sumó US$111 millones en la semana, el menor saldo desde fines de enero",
-      "Url": "https://www.lanacion.com.ar/economia/por-el-dolar-mas-demandado-el-banco-central-hizo-la-menor-compra-semanal-del-ano-nid07082026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-peso-argentino-sufre-por-reduccion-de-la-X2LNEJNLNNCQVAVIL6MLTAV2EY.jpg?auth=324524ce1e3afa148527a2ec6c329c3e9141cbaea7e0a827ffc41e1876c17310&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-08-07T20:54:40Z",
-      "Content": "El Banco Central (BCRA) adquirió hoy otros US$16 millones para sus reservas mediante intervenciones sobre el mercado. De este modo, al cabo de las primeras cinco ruedas de agosto acumuló compras por … [+4070 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "MartinPixel",
-      "Title": "PlayStation aclara los precios de la PS Store en México: el tipo de cambio de 20 pesos por dólar, solo aplicará al saldo y tarjetas de regalo",
-      "Description": "El próximo 18 de agosto, PlayStation realizará uno de los cambios más importantes de su historia reciente en México: dejará de cobrar en dólares y comenzará a mostrar los precios de PlayStation Store directamente en pesos mexicanos. Desde que Sony anunció la …",
-      "Url": "https://www.xataka.com.mx/videojuegos/playstation-aclara-precios-ps-store-mexico-tipo-cambio-20-pesos-dolar-solo-aplicara-al-saldo-tarjetas-regalo",
-      "UrlToImage": "https://i.blogs.es/9b9a50/playstation-gift-cards/840_560.jpeg",
-      "PublishedAt": "2026-08-07T19:45:15Z",
-      "Content": "El próximo 18 de agosto, PlayStation realizará uno de los cambios más importantes de su historia reciente en México: dejará de cobrar en dólares y comenzará a mostrar los precios de PlayStation Store… [+4372 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘agarra vuelo’ ante el dólar en cierre de primera semana de agosto",
-      "Description": "En ventanillas bancarias, el dólar se vende en alrededor de las 17.50 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/07/peso-dolar-precio-hoy-7-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/RJKMPCON5NCW3M5UL6X3NYHIFY.jpg?smart=true&auth=7e2effbc4ad36138939db2c5108495a34004455da97258c70aa668f63a43df82&width=1200&height=630",
-      "PublishedAt": "2026-08-07T16:42:00Z",
-      "Content": "El peso mexicano amplía sus ganancias ante el dólar gracias a un mayor debilitamiento del billete estadounidense. Los operadores siguen ajustando sus perspectivas de política monetaria hacia adelante… [+1494 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se alista para ganar la sesión al dólar: Así cotiza en la apertura",
-      "Description": "El dólar se vende en 17.69 pesos por billete verde en ventanillas bancarias, según datos de Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/06/peso-dolar-tipo-de-cambio-hoy-6-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PXGH64SPOZEYLNT2M2LXDZWDI4.jpeg?smart=true&auth=d2f6c0390137ffd1f26d75ca8d932e73fd457d175df1e5735bf83c0540beb66c&width=1200&height=630",
-      "PublishedAt": "2026-08-06T16:02:20Z",
-      "Content": "El peso mexicano anticipa una tercera jornada de avances frente al dólar, mientras los inversionistas se preparan para conocer la decisión de política monetaria del Banco de México (Banxico) más tard… [+1735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso avanza en espera de reanudación del diálogo de EU e Irán: Así cotiza ante el dólar",
-      "Description": "Hay una moderación de aversión al riesgo a nivel global, ante señales de que se reanudará el diálogo de EU e Irán.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/03/peso-mexicano-dolar-tipo-de-cambio-hoy-3-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OUVWQEZ5TJBBPFAHYOUJQ4V4AA.png?smart=true&auth=e9ea9d085f944da891f0b7251cd5672eaa54d4ed69a97b2d80d8cd860fd8aa88&width=1200&height=630",
-      "PublishedAt": "2026-08-03T15:42:09Z",
-      "Content": "El peso mexicano reporta ganancias marginales frente al dólar, como resultado de una disminución del nerviosismo entre los inversionistas ante la posibilidad de ver avances en las conversaciones dipl… [+1657 chars]"
     }
   ]
 }
