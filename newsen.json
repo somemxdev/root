@@ -1,8 +1,112 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Estefano Gomez",
+      "Title": "US to end dollar access for Iran money launderers: Bessent",
+      "Description": "The U.S. move to restrict dollar access for Iran-linked money launderers may hinder diplomatic resolutions and impact global financial markets.\nThe post US to end dollar access for Iran money launderers: Bessent appeared first on Crypto Briefing.",
+      "Url": "https://cryptobriefing.com/us-to-end-dollar-access-for-iran-money-launderers-bessent/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24131526/us-treasury-secretary-scott-bessent-speaks-to-reporters-outs-1-1-800x420.jpeg",
+      "PublishedAt": "2026-08-24T17:15:27Z",
+      "Content": "The United States is set to intensify its financial measures against entities suspected of laundering money for Iran. According to a statement by Bessent, the U.S. will restrict access to the dollar … [+1439 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Joel Rebello",
+      "Title": "ICICI raises $1 billion, Union Bank $600 million through dollar bonds",
+      "Description": "ICICI Bank raised $1 billion through a five-year private dollar bond, while Union Bank of India secured $600 million in its first international dollar issue in over a decade, benefiting from RBI’s special swap window. UCO Bank also approved a $1 billion progr…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-raises-1-billion-union-bank-600-million-through-dollar-bonds/articleshow/133470684.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133470715,width-1200,height-630,imgsize-119678,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-24T14:27:07Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "India lenders' dollar debt sales top $10 billion since RBI window, ICICI Bank beats peer to lead pack",
+      "Description": "ICICI Bank is set to raise one billion dollars through the issuance of five-year bonds, marking its fourth bond sale this month. With over three billion dollars already raised via the RBI window, this move contributes to the collective bond issuance of over t…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/india-lenders-dollar-debt-sales-top-10-billion-since-rbi-window-icici-bank-beats-peer-to-lead-pack/articleshow/133466165.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133466183,width-1200,height-630,imgsize-121016,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-08-24T12:30:31Z",
+      "Content": "ICICI Bank, India's second-largest private lender, is tapping the U.S. dollar-denominated bond market for the fourth time in a month, under the central bank's discounted window, which will push overa… [+1793 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Rajendra Saxena",
+      "Title": "Citigroup, Axis Bank team up to leverage NRI deposits and boost dollar inflows",
+      "Description": "Under the arrangement, Axis Bank will issue standby letters of credit to support financing provided by Citigroup through its offshore operations",
+      "Url": "https://www.livemint.com/money/personal-finance/citigroup-axis-bank-team-up-to-leverage-nri-deposits-and-boost-dollar-inflows-11787562860472.html",
+      "UrlToImage": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/INDIA-DEBT-AXIS-BANK-0_1787563090228_1787563122746_2c76e3c0-b77a-4a51-a070-2dd552fd2a08.JPG",
+      "PublishedAt": "2026-08-24T10:28:49Z",
+      "Content": "Citigroup Inc has entered into an arrangement with Axis Bank Ltd to finance non-resident Indians investing in foreign-currency deposits with the Indian lender, according to Bloomberg, citing people f… [+2266 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "Moneycontrol News",
+      "Title": "Federal Bank latest lender to tap dollar debt market via GIFT City: Report",
+      "Description": "The private sector lender is looking to raise $500 million through a five-year dollar bond sale via its branch in GIFT City",
+      "Url": "https://www.moneycontrol.com/news/business/banks/federal-bank-latest-lender-to-tap-dollar-debt-market-via-gift-city-report-14013587.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260429111844_Federal-Bank.jpeg",
+      "PublishedAt": "2026-08-24T04:40:39Z",
+      "Content": "Market Mastery\r\nWebinar by Vishal Malkan\r\nFind the weak links\r\nin your portfolio by Vishal Malkan\r\nFederal Bank has become the latest Indian lender to tap the offshore dollar debt market, joining a g… [+1619 chars]"
+    },
+    {
+      "Source": {
+        "Id": "bloomberg",
+        "Name": "Bloomberg"
+      },
+      "Author": "Bloomberg",
+      "Title": "Citi, Axis Bank team up on leveraged India dollar deposit boom",
+      "Description": "Citigroup and Axis Bank partner to leverage NRI dollar deposits, enhancing cross-border financing amidst RBI's push for foreign inflows.",
+      "Url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/ncwvxf/article71357308.ece/alternates/LANDSCAPE_1200/Axis-Bank-losesG8UG7LEBK.4.jpg.jpg",
+      "PublishedAt": "2026-08-24T03:43:16Z",
+      "Content": "Citigroup Inc. has tied up with Axis Bank Ltd. to finance non-resident Indians investing in foreign-currency deposits with the local lender, according to people familiar with the matter.\r\nAxis Bank w… [+1998 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Bloomberg",
+      "Title": "Citigroup, Axis Bank team up on leveraged dollar deposit boom in India",
+      "Description": "The trade is emerging as RBI seeks to bolster foreign-exchange reserves and ease pressure on rupee, while creating opportunities for global banks to provide financing offshore",
+      "Url": "https://www.business-standard.com/finance/news/citigroup-axis-bank-team-up-on-leveraged-dollar-deposit-boom-in-india-126082400086_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/fitandfill/1200X628/1787540824-0977.jpg",
+      "PublishedAt": "2026-08-24T03:08:24Z",
+      "Content": "The trade is emerging as RBI seeks to bolster foreign-exchange reserves and ease pressure on rupee, while creating opportunities for global banks to provide financing offshore\r\nAxis Bank will provide… [+2533 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Bloomberg",
+      "Title": "Citigroup, Axis Bank team up to leverage NRI deposits as RBI dollar inflows surge",
+      "Description": "Citigroup and Axis Bank have tied up to finance non-resident Indians investing in foreign-currency deposits, leveraging RBI rules that allow standby letters of credit against such deposits. The arrangement could amplify dollar inflows through offshore financi…",
+      "Url": "https://economictimes.indiatimes.com/nri/invest/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449833.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133449803,width-1200,height-630,imgsize-87146,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-08-24T02:48:36Z",
+      "Content": "Citigroup Inc. has tied up with Axis Bank Ltd. to finance non-resident Indians investing in foreign-currency deposits with the local lender, according to people familiar with the matter.Axis Bank wil… [+1961 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -288,110 +392,6 @@
       "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137618870.jpg?quality=75&strip=all&w=1200",
       "PublishedAt": "2026-08-16T18:15:38Z",
       "Content": "Talk about catching a lucky break.\r\nThe lucky collector who acquired the one-of-a-kind NBA Debut Patch card of Mavericks star Cooper Flagg has come forward to describe the moment he took ownership of… [+3945 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Rs 24,000 crore man who built a multi-billion dollar empire shares one leadership advice from Steve Jobs which has stayed with him: ‘If something isn’t right, my first reaction isn’t to fix it…'",
-      "Description": "In a viral post on LinkedIn, British business tycoon Richard Branson wrote about the need for humility, patience and team-building when it comes to leadership. He spoke extensively on how he once believed that a leader needed to have all the answers and what …",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/rs-24000-crore-man-who-built-a-multi-billion-dollar-empire-shares-one-leadership-advice-from-steve-jobs-which-has-stayed-with-him-if-something-isnt-right-my-first-reaction-isnt-to-fix-it/articleshow/133267457.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133267461,width-1200,height-630,imgsize-51887,overlay-etpanache/articleshow.jpg",
-      "PublishedAt": "2026-08-15T19:29:40Z",
-      "Content": "He is a seasoned entrepreneur who has been wildly successful at launching businesses since 16. Taking to LinkedIn, billionaire Richard Branson, the founder of the Virgin Group, one of the largest MNC… [+2709 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Aniket Verma",
-      "Title": "Tim Draper Says Bitcoin Is Headed for ‘Infinity’ Against Dollar as Growing BTC Payments Could Trigger Bank Runs",
-      "Description": "Venture capitalist Tim Draper projected on Tuesday that Bitcoin will go to infinity against the dollar in a fundamental global shift. Draper Confident About...",
-      "Url": "https://finance.yahoo.com/markets/crypto/articles/tim-draper-says-bitcoin-headed-094511603.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/2CC61B4D9BD013956CB7AAB665451B6A2F494E05786C16C4F69E5C26DFF5695A/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F61580235f1fd7ae378efa84350da69de.jpg",
-      "PublishedAt": "2026-08-14T09:45:11Z",
-      "Content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nVenture capitalist Tim Draper projected on Tuesday that Bitcoin will go to infinity against the d… [+5057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets – Can EUR/USD and GBP/USD Rally?",
-      "Description": "Softer U.S. inflation strengthens Fed easing expectations as DXY holds key support while EUR/USD and GBP/USD test important resistance levels.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-softer-070021827.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/BBCCA8C7606D6C4DCFF1DBA2A46FF79706D0217E46E1A79CABB271609F710656/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F666425ca521b1883fdc5bbd51e30d589.jpg",
-      "PublishedAt": "2026-08-14T07:00:21Z",
-      "Content": "US Dollar News: Fed Rate Cut Bets Rise as Euro and Pound Navigate Domestic Risks\r\nAs of August 14, the U.S. dollar is facing pressure due to changing expectations for the Fed after release of slower … [+5353 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 14, 2026",
-      "Description": "The naira maintained relative stability against the United States dollar on Friday, August 14, 2026, in both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor foreign currency liquidity and demand co…",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-14-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-08-14T05:54:25Z",
-      "Content": "The naira maintained relative stability against the United States dollar on Friday, August 14, 2026, in both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders c… [+1983 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Bloomberg",
-      "Title": "ICICI Bank joins Indian banks chasing dollar loans as demand swells",
-      "Description": "The nation's second-largest private lender first signed a loan agreement with Bank of America Corp. for about $1 billion",
-      "Url": "https://www.business-standard.com/industry/banking/icici-bank-joins-indian-banks-chasing-dollar-loans-as-demand-swells-126081400747_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/14/thumb/fitandfill/1200X628/1786685091-7787.jpg",
-      "PublishedAt": "2026-08-14T05:41:32Z",
-      "Content": "The nation's second-largest private lender first signed a loan agreement with Bank of America Corp. for about $1 billion\r\nThe syndicated loan follows the Mumbai-based lenders sale of $1 billion in fi… [+2760 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "India's Bank of Baroda raises $700 million via dollar bonds at tighter spreads",
-      "Description": "Bank of Baroda has successfully accepted bids totaling seven hundred million dollars for its debt offering, achieving narrower spreads than anticipated for its bonds. This marks the bank's first foray into the dollar bond market in seven years. Supported by a…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/indias-bank-of-baroda-raises-700-million-via-dollar-bonds-at-tighter-spreads/articleshow/133228678.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133228697,width-1200,height-630,imgsize-187790,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-14T04:01:45Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Can PPI Revive DXY as EUR/USD and GBP/USD Retreat?",
-      "Description": "DXY, EUR/USD and GBP/USD test key levels as traders turn to U.S. PPI after softer CPI and assess the latest UK GDP data.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-ppi-073806684.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/3F4CBF7DAE2AB85799E99C0DE3DEC0F2F1E91D640722A5811E1D33C4BEF97680/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fb2715b42340dd341c01fec678bdc5ebb.jpg",
-      "PublishedAt": "2026-08-13T07:38:06Z",
-      "Content": "US Dollar News: PPI and UK GDP Reshape FX Outlook\r\nToday's main driver of the US dollar is the reassessment of FED policy after the soft US consumer inflation numbers for July. The headline CPI incre… [+4644 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 13, 2026",
-      "Description": "The naira remained relatively stable against the United States dollar on Thursday, August 13, 2026, in both the official Nigerian Foreign Exchange Market and the parallel market, as traders continued to monitor foreign exchange liquidity and demand pressures.…",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-13-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-08-13T06:05:17Z",
-      "Content": "The naira remained relatively stable against the United States dollar on Thursday, August 13, 2026, in both the official Nigerian Foreign Exchange Market and the parallel market, as traders continued… [+1646 chars]"
     }
   ]
 }

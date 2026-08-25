@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 45,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘ve de reojo’ dato de inflación en México: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "Los riesgos geopolíticos reducirán el espacio para que el tipo de cambio avance en el terreno de las 16 unidades, consideró Felipe Mendoza, analista de mercados en EBC Financial Group.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/24/peso-dolar-precio-hoy-24-de-agosto-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ES43KZJ2SFDAVKVOYEBXZVKWW4.png?smart=true&auth=41e4635827acc31be4d4cc9ee5b7b2e865340df4e7419cc62fd1fe3cc4b7bc61&width=1200&height=630",
+      "PublishedAt": "2026-08-24T15:47:48Z",
+      "Content": "El peso mexicano inicia la semana con una leve depreciación ante el dólar, mientras el mercado local analiza el dato de inflación de la primera quincena de agosto publicado por el Instituto Nacional … [+1691 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Precio del dólar hoy 24 de agosto: el peso se mantiene debajo de los 17 pesos",
+      "Description": "El peso mexicano arrancó la semana con una posición favorable frente al dólar y se mantiene por debajo de una barrera importante para el mercado",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-24-de-agosto-el-peso-se-mantiene-debajo-de-los-17-pesos-2026082414092295179",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/10082026/ae994a85-c0e1-4c4b-8d66-dd9f5529093e.jpg",
+      "PublishedAt": "2026-08-24T14:09:22Z",
+      "Content": "El peso mexicano arrancó la semana con una posición favorable frente al dólar y se mantiene por debajo de una barrera importante para el mercadoEl precio del dólar hoy, lunes 24 de agosto de 2026, se… [+1752 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diariobitcoin.com"
+      },
+      "Author": "Canuto",
+      "Title": "Standard Chartered es el primer banco en distribuir una stablecoin del dólar de Hong Kong",
+      "Description": "Standard Chartered Bank (Hong Kong) Limited fue designado distribuidor autorizado de HKDAP, una stablecoin regulada respaldada por el dólar de Hong Kong. La entidad prevé probarla en fondos del mercado monetario tokenizados, liquidaciones intragrupo y pagos t…",
+      "Url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/standard-chartered-impulsara-hkdap-la-stablecoin-regulada-vinculada-al-dolar-de-hong-kong/",
+      "UrlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/08/canuto-imagine-1787573737.jpg",
+      "PublishedAt": "2026-08-24T12:15:43Z",
+      "Content": "Por Canuto   Standard Chartered Bank (Hong Kong) Limited fue designado distribuidor autorizado de HKDAP, una stablecoin regulada respaldada por el dólar de Hong Kong. La entidad prevé probarla en fon… [+8997 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4GRUO6JQ3JEQRJTCJGWCSC3ST4.jpg?smart=true&auth=4f12b4fc40c21d8f157c74263d6d5f50a6592cff9c866e822b6e2ec95216602c&width=1200&height=630",
       "PublishedAt": "2026-08-11T13:49:50Z",
       "Content": "El peso mexicano ha tenido una importante apreciación o fortalecimiento frente al dólar norteamericano en los pasados meses. Así, el tipo de cambio ha pasado de 18.60 pesos por un dólar hace doce mes… [+4060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "REDACCIÓN RÉCORD",
-      "Title": "Precio del dólar hoy 11 de agosto: así cotiza frente al peso mexicano",
-      "Description": "El peso mexicano mantiene una posición sólida frente al dólar en el comienzo de la jornada de este martes; en RÉCORD estamos atentos al mercado con nuevos datos económicos",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-11-de-agosto-asi-cotiza-frente-al-peso-mexicano-2026081113443422916",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/11082026/c0bc00ac-9c72-4f6a-a587-adcd1a54224b.jpg",
-      "PublishedAt": "2026-08-11T13:44:34Z",
-      "Content": "El peso mexicano mantiene una posición sólida frente al dólar en el comienzo de la jornada de este martes; en RÉCORD estamos atentos al mercado con nuevos datos económicosEl precio del dólar hoy 11 d… [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar se fortalece y ‘opaca’ al peso: Así cotiza el tipo de cambio HOY 10 de agosto",
-      "Description": "El dólar se vende en 17.57 pesos por billete verde en ventanillas bancarias, de acuerdo con datos de Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/10/peso-dolar-tipo-de-cambio-hoy-10-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VPPABIJVJFCXZELZKPTGYMWUWY.jpeg?smart=true&auth=0d1fabd61dcecf7e7904390a3e2ead6b99cd79fe72294de3a05292061d0ef8a8&width=1200&height=630",
-      "PublishedAt": "2026-08-10T17:36:14Z",
-      "Content": "El incremento en la aversión al riesgo, derivado de las tensiones geopolíticas, generó un fortalecimiento del dólar estadounidense, lo que se tradujo en un inicio de jornada con pérdidas para el peso… [+1729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "REDACCIÓN RÉCORD",
-      "Title": "Precio del dólar hoy 10 de agosto: el peso gana terreno contra la divisa estadounidense",
-      "Description": "La moneda mexicana inicia la jornada con avances frente a la divisa estadounidense a la espera de indicadores de inflación",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-10-de-agosto-el-peso-gana-terreno-contra-la-divisa-estadounidense-2026081015193392314",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/09072026/7635fe4e-78d2-464e-83fe-3b63a5dc546f.jpg",
-      "PublishedAt": "2026-08-10T15:19:33Z",
-      "Content": "La moneda mexicana inicia la jornada con avances frente a la divisa estadounidense a la espera de indicadores de inflaciónEl peso mexicano arrancó la jornada de este lunes 10 de agosto con un balance… [+1649 chars]"
     }
   ]
 }
