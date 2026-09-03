@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Laura Reyes Medrano",
+      "Title": "Dólar hoy 2 de septiembre de 2026: así cotiza frente al peso mexicano",
+      "Description": "El dólar se mantiene cerca de las 17 unidades este miércoles; revisa el tipo de cambio y cuánto cuesta en bancos de México.",
+      "Url": "https://www.record.com.mx/historia/dolar-hoy-2-de-septiembre-de-2026-asi-cotiza-frente-al-peso-mexicano-2026090213553865683",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/10082026/ae994a85-c0e1-4c4b-8d66-dd9f5529093e.jpg",
+      "PublishedAt": "2026-09-02T13:55:38Z",
+      "Content": "El dólar se mantiene cerca de las 17 unidades este miércoles; revisa el tipo de cambio y cuánto cuesta en bancos de México.El precio del dólar hoy, miércoles 2 de septiembre de 2026, se mantiene alre… [+2410 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2026-08-15T08:27:03Z",
       "Content": "Periódico La JornadaSábado 15 de agosto de 2026, p. 16\r\nEl peso mexicano cerró estable, tras ceder alzas previas que lo llevaron a perforar la marca de 17 unidades por dólar por primera vez desde 202… [+2182 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar toca nuevo mínimo por tercer día consecutivo en Monex",
-      "Description": "El precio de la divisa cerró por debajo de ¢449 a pesar de la intervención del BCCR en el mercado para evitar una caída mayor",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-toca-nuevo-minimo-por/6LNN5MTADVGZVCTESSWEC7GKDU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/HPDLLRQB3JAH5MGM2LNRSVAUVU.jpg?smart=true&auth=816f97ac739168a48ffb16000631256618b0cd395f61214a8b275c2e6211552d&width=1440",
-      "PublishedAt": "2026-08-14T23:08:26Z",
-      "Content": "El tipo de cambio del dólar respecto al colón alcanzó en la sesión de este viernes 14 de agosto un nuevo mínimo en el Mercado de Monedas Extranjeras (Monex) por tercer día consecutivo. \r\nEl precio de… [+3231 chars]"
     }
   ]
 }

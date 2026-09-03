@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Hike Bets Lift DXY as EUR/USD and GBP/USD Fall",
+      "Description": "DXY strengthens as Iran escalation lifts inflation risks and Fed hike bets, while EUR/USD and GBP/USD extend their bearish breakdowns.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-053753979.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/2e2849e5de18ff61b797c67a317e9d796bed3c7adce49dfafdc19d14829f6230/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fe0190f36d8f4ccbc2504c029ccab838d.jpg",
+      "PublishedAt": "2026-09-02T05:37:53Z",
+      "Content": "US Dollar News: Iran Escalation and Fed Hike Bets Lift Dollar\r\nBeginning September 2, the dollar will be stronger against multiple currencies due to new concerns arising from Iran dealing with the U.… [+5192 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/04/thumb/fitandfill/1200X628/1751652135-1644.jpg",
       "PublishedAt": "2026-08-20T16:19:17Z",
       "Content": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window\r\nHDFC Bank\r\nBS Reporte… [+1971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 20, 2026",
-      "Description": "The Nigerian naira continued to strengthen against the US dollar on Thursday, August 20, 2026, as improved dollar liquidity supported the local currency across the foreign exchange market.\nThe post Dollar to Naira exchange rate today, August 20, 2026 appeared…",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-20-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
-      "PublishedAt": "2026-08-20T06:49:32Z",
-      "Content": "The Nigerian naira continued to strengthen against the US dollar on Thursday, August 20, 2026, as improved dollar liquidity supported the local currency across the foreign exchange market.\r\nAt the Ni… [+1627 chars]"
     }
   ]
 }
