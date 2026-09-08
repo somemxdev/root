@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Isaac Alfie",
+      "Title": "Tipo de cambio real (TCR): el problema no es el dólar, es el gasto",
+      "Description": "Hay que bajar la relación entre gasto público y producto, y reorientar las exoneraciones fiscales hacia los sectores transables, que son quienes de verdad pueden mejorar la competitividad del país en el tiempo.",
+      "Url": "https://www.elpais.com.uy/economia-y-mercado/tipo-de-cambio-real-tcr-el-problema-no-es-el-dolar-es-el-gasto",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/85b20a5/2147483647/strip/true/crop/1250x781+0+34/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2F02%2F0b96c58a4b7c82d277d522707911%2Fimagen-para-cms-el-pais-7.jpg",
+      "PublishedAt": "2026-09-07T07:00:00Z",
+      "Content": "Haz clic en el icono de la extensión del bloqueador de anuncios instalada en tu navegador.Generalmente, se encuentra en la esquina superior derecha de la pantalla. Es posible que tengas más de un blo… [+29 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra semana al alza",
+      "Description": "El precio de la divisa aumentó en la sesión del Monex de este viernes en comparación al mismo día de la semana pasada",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/OI7WLEF25ND43GX6CG46JGGUBE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/OODJ6EAM6RHKXOIU3XFIXC4W2I.jpg?smart=true&auth=7ad0d851aac52d9347b22f79fa7e7513f754e7ba7546955ebc8ef9402fb0626f&width=1440",
+      "PublishedAt": "2026-09-04T21:29:20Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró al alza este viernes 4 de setiembre en el Mercado de Monedas Extranjeras (Monex), respecto al mismo día de la semana anterior.\r\nEl precio del dólar… [+2259 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso podría rondar 17.50 por dólar; Sura ve poco probable una depreciación desordenada",
+      "Description": "Uno de los factores que podría continuar favoreciendo al peso mexicano es la situación económica y fiscal de EU, señaló el directivo de Sura Investments, Joaquín Barrera.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/09/03/peso-podria-rondar-1750-por-dolar-sura-ve-poco-probable-una-depreciacion-desordenada/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GGYBKLWEKZAIPDBVPJGUVWTYOM.png?smart=true&auth=d824f6f696dbda3349fe2cb7ec5dced5596082880dd7c4147edcb36e702ed122&width=1200&height=630",
+      "PublishedAt": "2026-09-03T19:49:22Z",
+      "Content": "El peso mexicano podría mantenerse fuerte frente al dólar durante los próximos meses y ubicarse alrededor de las 17.50 unidades, ya que existen diversos factores que están debilitando a la moneda est… [+3999 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "REDACCIÓN RÉCORD",
+      "Title": "Moneda de Trump: ¿cuánto cuesta y cómo comprar la nueva pieza de 1 dólar?",
+      "Description": "La Casa de Moneda de Estados Unidos puso a la venta la pieza creada para conmemorar los 250 años de la independencia del país; esto cuesta y así puedes adquirirla",
+      "Url": "https://www.record.com.mx/historia/moneda-de-trump-cuanto-cuesta-y-como-comprar-la-nueva-pieza-de-1-dolar-2026090216460350767",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/02092026/531603cf-9f6b-48d0-8ab3-94d1bf77c002.png",
+      "PublishedAt": "2026-09-02T16:46:03Z",
+      "Content": "La Casa de Moneda de Estados Unidos puso a la venta la pieza creada para conmemorar los 250 años de la independencia del país; esto cuesta y así puedes adquirirla¿Te imaginas tener una moneda de un d… [+3222 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El Tesoro de EE.UU. emitió una moneda de 1 dólar con la cara de Trump",
+      "Description": "Las monedas se acuñaron con motivo del aniversario 250 de la fundación de Estados Unidos, que se celebra este año",
+      "Url": "https://www.lanacion.com.ar/el-mundo/el-tesoro-de-eeuu-emitio-una-moneda-de-1-dolar-con-la-cara-de-trump-nid02092026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-presidente-donald-trump-en-la-oficina-oval-en-6DH7EC4NKRATJBS4FPK643PVE4.jpg?auth=7ae63cdbc06423256431df131f6cdc6dec18196a1191dd705c8069e03bea667f&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-09-02T16:12:26Z",
+      "Content": "El Departamento del Tesoro de Estados Unidos emitió este miércoles moneda\r\ns de 1 dólar con el rostro de Donald Trump, en el marco de la inédita campaña que emprendió el presidente republicano para d… [+2203 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/TFHGEUKEFRDTNPHZ22BLMQHU6M.jpg?smart=true&auth=7fdf9d0eae5aec1b900a85150a3e0a7509f34474051c9314b3eca7c79f5f333e&width=1440",
       "PublishedAt": "2026-08-17T21:25:06Z",
       "Content": "El tipo de cambio del dólar respecto al colón frenó este lunes 17 de agosto una seguidilla de tres sesiones seguidas marcando mínimos históricos en el Mercado de Monedas Exntrajeras (Monex). \r\nEl pre… [+2213 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Tipo de cambio ‘finta’ con regresar a los 16 pesos por dólar: ¿Cuánto gana el peso al dólar?",
-      "Description": "El peso mexicano regresó mometáneamente al nivel de las 16 unidades durante el viernes 14 de agosto.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/17/peso-dolar-precio-hoy-17-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ULXEUVYZVFDHFOOCMNJ525ZWQM.png?smart=true&auth=6c12079105c6dff1dcda9c95e9611b7530d689d1aedb24e977fc749bd9300034&width=1200&height=630",
-      "PublishedAt": "2026-08-17T15:37:39Z",
-      "Content": "El peso mexicano se aprecia marginalmente ante el dólar este lunes 17 de agosto, ante un mayor debilitamiento del dólar y el atractivo de operaciones de carry trade.\r\nEn el plano internacional, las p… [+1899 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Se mantiene fortaleza del peso; opera en 17.01 por dólar",
-      "Description": "El peso mexicano se estabilizaba apenas por encima de 17 por dólar, favorecido por un declive generalizado del billete verde.",
-      "Url": "https://www.reforma.com/se-mantiene-fortaleza-del-peso-opera-en-17-01-por-dolar/ar3259144",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/986/5985942.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2026-08-17T14:07:47Z",
-      "Content": "01 MIN 00 SEG\r\nReuters\r\nCd. de México (17 agosto 2026) .-08:03 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "REDACCIÓN RÉCORD",
-      "Title": "Precio del dólar hoy 17 de agosto: el peso se acerca a las 16 unidades",
-      "Description": "El peso mexicano inicia la semana con fuerza y vuelve a colocarse cerca de las 17 unidades por dólar",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-17-de-agosto-el-peso-se-acerca-a-las-16-unidades-2026081705483051847",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17082026/ea39b36e-cf50-42d0-9c15-71575c6ee8cc.jpg",
-      "PublishedAt": "2026-08-17T05:48:30Z",
-      "Content": "El peso mexicano inicia la semana con fuerza y vuelve a colocarse cerca de las 17 unidades por dólarEl precio del dólar hoy lunes 17 de agosto de 2026 se ubica alrededor de 17.02 pesos por unidad, de… [+1300 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso mexicano se fortalece 3.4% desde junio: ¿Qué impulsa su apreciación frente al dólar?",
-      "Description": "Víctor Piz explica cuáles son los factores que han favorecido al peso mexicano desde junio: la manufactura, la guerra en Medio Oriente y la tasa de interés de la Fed, son algunos de los aspectos.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/08/15/peso-mexicano-se-fortalece-34-desde-junio-que-impulsa-su-apreciacion-frente-al-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5R43XFZFJRESRGQDYWSZQAPZOY.jpg?smart=true&auth=cc751d5a6b0bf16ec03febaa90d10c9f2af0865c0dad08c72347066fbd743163&width=1200&height=630",
-      "PublishedAt": "2026-08-15T17:50:51Z",
-      "Content": "El peso mexicano tuvo una buena racha en junio: esta semana se acercó a los 17 pesos por dólar, números no vistos desde mayo del 2024.\r\nAdemás, se apreció en un 3.4 por ciento y recuperó cerca de 60 … [+1822 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cierra estable tras pasar barrera de 17 unidades por dólar",
-      "Description": "El peso mexicano cerró estable, tras ceder alzas previas que lo llevaron a perforar la marca de 17 unidades por dólar por primera vez desde 2024; mientras, la bolsa cayó a su menor nivel desde mediados de marzo.",
-      "Url": "https://www.jornada.com.mx/2026/08/15/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-08-15T08:27:03Z",
-      "Content": "Periódico La JornadaSábado 15 de agosto de 2026, p. 16\r\nEl peso mexicano cerró estable, tras ceder alzas previas que lo llevaron a perforar la marca de 17 unidades por dólar por primera vez desde 202… [+2182 chars]"
     }
   ]
 }

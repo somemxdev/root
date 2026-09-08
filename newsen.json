@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Bank of Maharashtra, Canara Bank eye dollar debt issuance this month, bankers say",
+      "Description": "Canara Bank and Bank of Maharashtra will raise $500 million each through dollar bonds.  These lenders will issue three-year or five-year papers under a concessional swap window.  This move aims to lower the cost of hedging currency exchange rate risks.  Bank …",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say/articleshow/133878355.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133878401,width-1200,height-630,imgsize-183283,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-09-07T11:14:38Z",
+      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Federal Reserve Bank of New York study finds dollar reserve decline driven by handful of countries, not global trend",
+      "Description": "The decline in dollar reserves, driven by a few countries, highlights the need for nuanced analysis over broad de-dollarization narratives.\nThe post Federal Reserve Bank of New York study finds dollar reserve decline driven by handful of countries, not global…",
+      "Url": "https://cryptobriefing.com/fed-study-dollar-reserve-decline-overstated/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07064547/library-federal-reserve-bank-of-new-york-study-finds-dollar-rese-800x450.png",
+      "PublishedAt": "2026-09-07T10:45:56Z",
+      "Content": "The dollar's share of global reserves fell from 64% to 56% over a decade, but most central banks haven't actually changed their minds about the greenback. The de-dollarization narrative has become on… [+3681 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 7, 2026",
+      "Description": "The dollar-to-naira exchange rate opened the new week with the naira trading at about ₦1,321.68 per US dollar at the official rate, while the parallel market rate stood at ₦1,390 per dollar for buying and ₦1,400 for selling, according to available market data…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-7-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
+      "PublishedAt": "2026-09-07T05:47:32Z",
+      "Content": "The dollar-to-naira exchange rate opened the new week with the naira trading at about 1,321.68 per US dollar at the official rate, while the parallel market rate stood at 1,390 per dollar for buying … [+1459 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "South Korea’s trillion-dollar pension fund pauses foreign exchange hedging as won strengthens",
+      "Description": "The NPS's hedging pause highlights a shift towards adaptive currency management, influencing global FX strategies and market dynamics.\nThe post South Korea’s trillion-dollar pension fund pauses foreign exchange hedging as won strengthens appeared first on Cry…",
+      "Url": "https://cryptobriefing.com/south-korea-pension-fund-fx-hedging-pause/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06223140/library-south-korea-s-trillion-dollar-pension-fund-pauses-foreig-800x450.png",
+      "PublishedAt": "2026-09-07T02:31:43Z",
+      "Content": "The world's third-largest public pension fund is stepping back from dollar hedging as currency conditions shift, with ripple effects across FX markets. South Korea’s National Pension Service, the wor… [+3020 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "HuffPost",
+      "Title": "Trump Boasts About 'Billion'-Dollar Super PAC War Chest: 'This Is My Money'",
+      "Description": "Republicans have grown increasingly concerned that the president is using MAGA Inc. funds to highlight himself over candidates running in the midterms.",
+      "Url": "https://www.huffpost.com/entry/trump-maga-inc-super-pac-war-chest-this-is-my-money_n_6a9c22a6e4b0783b3d92b9b7",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/6a9c3fe71700005369d4498e.jpeg?cache=TzjMQUCOjq&ops=500_281%2Cscalefit_1200_630",
+      "PublishedAt": "2026-09-05T16:53:47Z",
+      "Content": "President Donald Trump said the MAGA Inc. Super PAC has amassed around a billion dollars on Friday, also adding, This is my money, before claiming that he will spend around half of those funds on var… [+2234 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Tanmaya Nanda",
+      "Title": "Best of BS Opinion: India's tightrope walk on the dollar, BRICS finance",
+      "Description": "Today's opinions examine India's cautious move away from dollar dependence, questions around the new GDP series, middle-class anger over ethanol-blended petrol and the societal risks posed by AI.",
+      "Url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-dollar-gdp-ethanol-ai-risks-126090401348_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787936837-8295.jpg",
+      "PublishedAt": "2026-09-05T00:45:19Z",
+      "Content": "Hello, and welcome to the Best of BS Opinion, our wrap of the day's Opinion page. Shyam Saran examines Indias difficult balancing act as the BRICS summit approaches, arguing that New Delhi wants to r… [+1381 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Editorial Team",
+      "Title": "Coatue in talks to form multibillion-dollar joint venture with MatX to finance chip purchases",
+      "Description": "The potential joint venture could disrupt the AI chip market, challenging Nvidia's dominance and accelerating innovation in AI hardware.\nThe post Coatue in talks to form multibillion-dollar joint venture with MatX to finance chip purchases appeared first on C…",
+      "Url": "https://cryptobriefing.com/coatue-matx-joint-venture-ai-chips/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04135318/library-coatue-in-talks-to-form-multibillion-dollar-joint-ventur-800x450.png",
+      "PublishedAt": "2026-09-04T17:53:22Z",
+      "Content": "The hedge fund giant and ex-Google TPU engineers could team up to bankroll a serious challenge to Nvidia's AI chip dominance Coatue Management, the hedge fund powerhouse led by Philippe Laffont, is i… [+3317 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: DXY Weakens Ahead of NFP; EUR/USD and GBP/USD Recover",
+      "Description": "U.S. NFP takes center stage as DXY weakens, while EUR/USD and GBP/USD recover amid diverging Fed, ECB and BoE rate expectations.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063755377.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/9a9d78c10a717ebd4d34004b61f502568e30bdf62ee03136ed8f309264c6e7f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F81df4e3aaba8e7c639bed79dc54ff3b9.jpg",
+      "PublishedAt": "2026-09-04T06:37:55Z",
+      "Content": "Dollar Index, EUR &amp; GBP News: Payrolls Take Center Stage as Fed, ECB and BoE Rate Paths Diverge\r\nAfter the July job numbers integration and with the August numbers yet to be released, the dollar … [+5544 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "India's bank liquidity surplus hits all-time high riding flood of dollar deposits",
+      "Description": "India’s banking system liquidity surplus has surged to a record ₹9.7 trillion ($102.67 billion), surpassing the previous peak seen in September 2021. The sharp increase follows Indian banks raising $127.23 billion through non-resident foreign-currency deposit…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-bank-liquidity-surplus-hits-all-time-high-riding-flood-of-dollar-deposits/articleshow/133729404.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-133729614,width-1200,height-630,imgsize-66214,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-09-03T07:53:59Z",
+      "Content": "MUMBAI: India's banking system liquidity surplus has jumped to a record high, with rupee liquidity surpassing levels witnessed in the aftermath of Covid-19, as lenders collected more dollars than exp… [+1029 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Weak ADP Hits DXY as NFP Becomes the Next Test; Key Levels for EUR/USD and GBP/USD Today",
+      "Description": "Soft ADP hiring data challenge Fed hike expectations as DXY weakens, while traders turn to Friday’s NFP for the next major dollar catalyst.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-weak-074726240.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/0b8146980c0a2c244baca701dba57ef7d6fa7f98f7c46defec54604665a6ce93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F7b863401ee92dd7083b2df8300c84593.jpg",
+      "PublishedAt": "2026-09-03T07:47:26Z",
+      "Content": "US Dollar News: Soft ADP Data Tests Fed Hike Conviction\r\nThe greenback has begun the month with its momentum challenged by the more recent labor data. The August ADP report was 38,000 compared to the… [+5254 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -262,136 +392,6 @@
       "UrlToImage": "https://s.yimg.com/lo/mysterio/api/ebacb991b86679791645c42bdfcc0e882ddb821f3dfb4e263e29552aa651b9bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F907d1fc8e52461e9d011a4ae6e07426a.jpg",
       "PublishedAt": "2026-08-24T07:50:10Z",
       "Content": "US Dollar News: Debt Fears Weigh as Euro and Pound Hold Firm\r\nWith the focus of global investors shifting away from the short-term economy to long-term fiscal credibility, the US dollar started its d… [+5339 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "Moneycontrol News",
-      "Title": "Federal Bank latest lender to tap dollar debt market via GIFT City: Report",
-      "Description": "The private sector lender is looking to raise $500 million through a five-year dollar bond sale via its branch in GIFT City",
-      "Url": "https://www.moneycontrol.com/news/business/banks/federal-bank-latest-lender-to-tap-dollar-debt-market-via-gift-city-report-14013587.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260429111844_Federal-Bank.jpeg",
-      "PublishedAt": "2026-08-24T04:40:39Z",
-      "Content": "Market Mastery\r\nWebinar by Vishal Malkan\r\nFind the weak links\r\nin your portfolio by Vishal Malkan\r\nFederal Bank has become the latest Indian lender to tap the offshore dollar debt market, joining a g… [+1619 chars]"
-    },
-    {
-      "Source": {
-        "Id": "bloomberg",
-        "Name": "Bloomberg"
-      },
-      "Author": "Bloomberg",
-      "Title": "Citi, Axis Bank team up on leveraged India dollar deposit boom",
-      "Description": "Citigroup and Axis Bank partner to leverage NRI dollar deposits, enhancing cross-border financing amidst RBI's push for foreign inflows.",
-      "Url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/ncwvxf/article71357308.ece/alternates/LANDSCAPE_1200/Axis-Bank-losesG8UG7LEBK.4.jpg.jpg",
-      "PublishedAt": "2026-08-24T03:43:16Z",
-      "Content": "Citigroup Inc. has tied up with Axis Bank Ltd. to finance non-resident Indians investing in foreign-currency deposits with the local lender, according to people familiar with the matter.\r\nAxis Bank w… [+1998 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Bloomberg",
-      "Title": "Citigroup, Axis Bank team up on leveraged dollar deposit boom in India",
-      "Description": "The trade is emerging as RBI seeks to bolster foreign-exchange reserves and ease pressure on rupee, while creating opportunities for global banks to provide financing offshore",
-      "Url": "https://www.business-standard.com/finance/news/citigroup-axis-bank-team-up-on-leveraged-dollar-deposit-boom-in-india-126082400086_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/fitandfill/1200X628/1787540824-0977.jpg",
-      "PublishedAt": "2026-08-24T03:08:24Z",
-      "Content": "The trade is emerging as RBI seeks to bolster foreign-exchange reserves and ease pressure on rupee, while creating opportunities for global banks to provide financing offshore\r\nAxis Bank will provide… [+2533 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Bloomberg",
-      "Title": "Citigroup, Axis Bank team up to leverage NRI deposits as RBI dollar inflows surge",
-      "Description": "Citigroup and Axis Bank have tied up to finance non-resident Indians investing in foreign-currency deposits, leveraging RBI rules that allow standby letters of credit against such deposits. The arrangement could amplify dollar inflows through offshore financi…",
-      "Url": "https://economictimes.indiatimes.com/nri/invest/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449833.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133449803,width-1200,height-630,imgsize-87146,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-08-24T02:48:36Z",
-      "Content": "Citigroup Inc. has tied up with Axis Bank Ltd. to finance non-resident Indians investing in foreign-currency deposits with the local lender, according to people familiar with the matter.Axis Bank wil… [+1961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6744df8-1928-4cd5-aa88-55eb058192a1",
-      "UrlToImage": null,
-      "PublishedAt": "2026-08-21T06:17:36Z",
-      "Content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, August 21, 2026",
-      "Description": "The Nigerian naira is trading around ₦1,349.06 to the US dollar on Friday, August 21, 2026, according to the latest available live USD/NGN indication.\nThe post Dollar to Naira exchange rate today, August 21, 2026 appeared first on Vanguard News.",
-      "Url": "https://www.vanguardngr.com/2026/08/dollar-to-naira-exchange-rate-today-august-21-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-08-21T05:31:57Z",
-      "Content": "The Nigerian naira is trading around 1,349.06 to the US dollar on Friday, August 21, 2026, according to the latest available live USD/NGN indication.\r\nAt the Nigerian Foreign Exchange Market (NFEM), … [+1772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "BL Bengaluru Bureau",
-      "Title": "HDFC Bank shares rise 1% after $1.75 billion record dollar bond sale",
-      "Description": "The stock traded at ₹729.35 on the NSE at 10.09 am, after rising to ₹732.60 from the previous close of ₹725.05",
-      "Url": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-rise-1-after-175-billion-record-dollar-bond-sale/article71372234.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/lwfg6v/article71372271.ece/alternates/LANDSCAPE_1200/2026-05-27T052828Z_1843171375_RC2V5FA8RJ89_RTRMADP_3_HDFC-BANK-STOCKS.JPG",
-      "PublishedAt": "2026-08-21T05:10:00Z",
-      "Content": "HDFC Bank shares rose 1 per cent in early trade on Friday after the private lender, acting through its GIFT City Branch, completed the issue of total US$ 1,750 million Senior Unsecured Bonds.\r\nThe st… [+1255 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TNN",
-      "Title": "HDFC Bank raises record $1.8 billion via dollar bond issue",
-      "Description": "India Business News: MUMBAI: HDFC Bank has raised $1.75 billion through a dual-tranche dollar bond issue from its GIFT City branch to fund overseas lending and general ban.",
-      "Url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-raises-record-1-8-billion-via-dollar-bond-issue/articleshow/133390382.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-133390387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "PublishedAt": "2026-08-21T00:40:25Z",
-      "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "John Paul DeJoria was once homeless and recycled soda bottles for money; then he turned $700 into a billion-dollar empire",
-      "Description": "John Paul DeJoria's inspiring journey from the depths of poverty and homelessness to co-founding both John Paul Mitchell Systems and Patrón Spirits exemplifies triumph. His immense success hasn't dulled his commitment to philanthropy; he donates half of his w…",
-      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/john-paul-dejoria-was-once-homeless-and-recycled-soda-bottles-for-money-then-he-turned-700-into-a-billion-dollar-empire/articleshow/133382603.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133383048,width-1200,height-630,imgsize-805808,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-08-20T16:23:21Z",
-      "Content": "Haircare legend John Paul DeJoria has a classic rags-to riches life that defines the so-called American dream. The co-founder of John Paul Mitchell Systems and Patrón Spirits, went from growing up in… [+4347 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "BS Reporter",
-      "Title": "HDFC Bank returns to dollar bond market, eyes at least $1 billion issue",
-      "Description": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window",
-      "Url": "https://www.business-standard.com/markets/news/hdfc-bank-returns-to-dollar-bond-market-eyes-at-least-1-billion-issue-126082001486_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/04/thumb/fitandfill/1200X628/1751652135-1644.jpg",
-      "PublishedAt": "2026-08-20T16:19:17Z",
-      "Content": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window\r\nHDFC Bank\r\nBS Reporte… [+1971 chars]"
     }
   ]
 }
