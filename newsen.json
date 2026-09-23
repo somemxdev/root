@@ -1,8 +1,320 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Hawkish Fed Supports DXY as EUR and GBP Struggle",
+      "Description": "DXY remains supported by hawkish Fed expectations as EUR/USD and GBP/USD struggle below key resistance levels amid softer European policy outlooks.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-hawkish-081536540.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/19e1f46c3d1a1a0c1ac02d13f1f794cd37371d2f0563ae3ef1684cf8d328e268/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F25b4c751b64ca3510792d5765d5f8053.jpg",
+      "PublishedAt": "2026-09-21T08:15:36Z",
+      "Content": "Dollar Index Outlook: Hawkish Fed Supports Dollar as EUR and GBP Face Softer Policy Paths\r\nThe U.S. dollar is expected to appreciate in the near-term due to expectations the Federal Reserve will impl… [+4805 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Maitreyee Thakkar",
+      "Title": "Quote of the day by Steve Martin: ‘If you've got a dollar and you spend 29 cents on a loaf of bread…’ – American comedian on money, perspective and the absurdity of wealth",
+      "Description": "Steve Martin's insightful bread quote reflects the nuances of financial security and how it alters one's perception of value. Spending twenty-nine cents on bread can feel substantial in contrast to a more lavish expense of seventeen thousand dollars. This cle…",
+      "Url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-steve-martin-if-youve-got-a-dollar-and-you-spend-29-cents-on-a-loaf-of-bread-american-comedian-on-money-perspective-and-the-absurdity-of-wealth/articleshow/134369004.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-134369229,width-1200,height-630,imgsize-72876,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-09-20T13:14:06Z",
+      "Content": "What does a loaf of bread have to do with wealth? On the surface, almost nothing. But Steve Martin once turned an everyday purchase into an unexpectedly sharp observation about money, scarcity and th… [+3167 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: DXY Holds Above 100 as EUR and GBP Face Policy Tests",
+      "Description": "DXY remains supported by Fed tightening as the BoE turns more hawkish and the ECB urges patience, with EUR/USD and GBP/USD testing key levels.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063047247.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/ee414e0d503af10d2c33883dbc2fb1c16ec760e274b8357e85b19cffe85fde3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fe35c111361ace4313cf9e7392ec591b6.jpg",
+      "PublishedAt": "2026-09-18T06:30:47Z",
+      "Content": "Dollar Index Outlook: Fed Tightening Supports Dollar as BoE Turns Hawkish and ECB Urges Patience\r\nThis Friday's Dollar Index looks strong due to several central bank policies. First, the Fed raised i… [+4835 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 18, 2026",
+      "Description": "The Nigerian naira weakened against the United States dollar on Friday, September 18, 2026, across both the Nigerian Foreign Exchange Market (NFEM) and the parallel market.\nThe post Dollar to Naira exchange rate today, September 18, 2026 appeared first on Van…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-18-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-09-18T06:02:18Z",
+      "Content": "The Nigerian naira weakened against the United States dollar on Friday, September 18, 2026, across both the Nigerian Foreign Exchange Market (NFEM) and the parallel market.\r\nIn the official market, t… [+1469 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
+      "Description": "DXY strengthens after the Fed signals further tightening, while EUR/USD remains pressured and GBP/USD awaits the Bank of England policy decision.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dollar-081747889.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/79484bbd449b62a675b13e9587232564d3d5806b8776ed60a2e85c950e64aa2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F97d600ffde2a0b3a5b5c0ad12ca1c12d.jpg",
+      "PublishedAt": "2026-09-17T08:17:47Z",
+      "Content": "Dollar Index Outlook: Hawkish Fed Lifts Dollar as EUR and GBP Face Diverging Rate Paths\r\nThe U.S. dollar is currently benefiting from various bullish fundamentals following Wednesday's Fed Meeting. T… [+5124 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 17, 2026",
+      "Description": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Thursday, September 17, 2026.\nThe post Dollar to Naira exchange rate today, September 17,…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-17-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/03/dollars.gif",
+      "PublishedAt": "2026-09-17T06:04:00Z",
+      "Content": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Thursday, September 17, 2026.… [+2068 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Rate Path in Focus as EUR and GBP Stay Under Pressure",
+      "Description": "DXY holds bullish support ahead of the Fed decision as traders focus on Warsh’s rate guidance, while EUR/USD and GBP/USD remain pressured.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-083232199.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/77b0f7b124fefdba329c00c9e596fc3f64802cb3f1736114cffe3d1401d5b674/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F89031a9fc1eb4a96ab54a9404439423f.jpg",
+      "PublishedAt": "2026-09-16T08:32:32Z",
+      "Content": "Dollar Index Outlook: Fed Rate Hike Looms as EUR and GBP Face Diverging Policy Paths\r\nThe USD faces its first interest-rate decision post-COVID on Wednesday with the market pricing in an expected 25 … [+4934 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 16, 2026",
+      "Description": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Wednesday, September 16, 2026.\nThe post Dollar to Naira exchange rate today, September 16…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-16-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
+      "PublishedAt": "2026-09-16T06:06:57Z",
+      "Content": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Wednesday, September 16, 2026… [+1742 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Hike Bets Lift DXY as EUR and GBP Weaken",
+      "Description": "DXY strengthens as Fed hike bets and 5% Treasury yields support the dollar, while EUR/USD and GBP/USD weaken ahead of key policy decisions.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-072505318.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/1e1f740bc8091949e3ca966694339cba4b49710586d883083ff3fa7f6fa817eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F3b6f6269fb6e871a7e7aadc90a8c43ac.jpg",
+      "PublishedAt": "2026-09-15T07:25:05Z",
+      "Content": "Dollar Index Outlook: Fed Hike Bets and 5% Treasury Yields Lift Dollar as EUR and GBP Face Policy Tests\r\nThe U.S. dollar starts the week stronger on a strengthening fundamental backdrop, with higher … [+5006 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 15, 2026",
+      "Description": "The Nigerian naira opened Tuesday, September 15, 2026, with the local currency trading at about ₦1,326.30 per dollar at the official Nigerian Foreign Exchange Market (NFEM), while the greenback was quoted at around ₦1,385 to ₦1,410 in the parallel market.\nThe…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-15-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/naira_dollar_pounds.jpg",
+      "PublishedAt": "2026-09-15T05:50:58Z",
+      "Content": "The Nigerian naira opened Tuesday, September 15, 2026, with the local currency trading at about 1,326.30 per dollar at the official Nigerian Foreign Exchange Market (NFEM), while the greenback was qu… [+1426 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": null,
+      "Title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
+      "Description": "The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
+      "Url": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Houti-Yemen-Sep-2026.jpg",
+      "PublishedAt": "2026-09-14T17:52:18Z",
+      "Content": "The Houthis rapid advance toward one of the worlds most important shipping chokepoints is putting fresh scrutiny on the sprawling financial network that has helped transform the Iran-backed group fro… [+8651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_94e486ca-d2cb-44ca-a046-bb1b03e49290",
+      "UrlToImage": null,
+      "PublishedAt": "2026-09-14T17:52:18Z",
+      "Content": "If you click 'Accept all', we and our partners, including 252 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 14, 2026",
+      "Description": "The Nigerian naira opened the new week relatively stable against the United States dollar, with the official market rate remaining significantly below the parallel-market quotation.\nThe post Dollar to Naira exchange rate today, September 14, 2026 appeared fir…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-14-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+      "PublishedAt": "2026-09-14T06:00:50Z",
+      "Content": "The Nigerian naira opened the new week relatively stable against the United States dollar, with the official market rate remaining significantly below the parallel-market quotation.\r\nAt the Nigerian … [+1772 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thoughtcatalog.com"
+      },
+      "Author": "January Nelson",
+      "Title": "Khloé Kardashian Sat Tristan Thompson Down and Asked Him Why He Kept Cheating. He Called It “A Trillion Dollar Question”",
+      "Description": "On the May 28, 2026 episode of her podcast Khloé in Wonder Land, five years after their split, Khloé Kardashian asked Tristan Thompson the question that had followed their relationship since 2016: when a man says he isn’t proud of…",
+      "Url": "https://thoughtcatalog.com/january-nelson/2026/09/khloe-kardashian-sat-tristan-thompson-down-and-asked-him-why-he-kept-cheating-he-called-it-a-trillion-dollar-question/",
+      "UrlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/khloe-kardashian-sat-tristan-thompson-down-and-asked-him-why-he-kept-cheating-he.jpg?w=1536&h=768&crop=1",
+      "PublishedAt": "2026-09-11T14:38:20Z",
+      "Content": "On the May 28, 2026 episode of her podcast Khloé in Wonder Land, five years after their split, Khloé Kardashian asked Tristan Thompson the question that had followed their relationship since 2016: wh… [+3722 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Agent",
+      "Title": "America’s Sixth-Largest Bank Launches Dollar-Backed Stablecoin for Cross-Border Transfers",
+      "Description": "U.S. Bank completed a live pilot of its USBDC stablecoin on the Stellar blockchain, enabling a cross-border payment between its North American and European entities while integrating with core banking controls.\nThe post America’s Sixth-Largest Bank Launches D…",
+      "Url": "https://dailyhodl.com/2026/09/11/americas-sixth-largest-bank-launches-dollar-backed-stablecoin-for-cross-border-transfers",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/11/brand-new-modular-blockchain.jpg?resize=1365,800",
+      "PublishedAt": "2026-09-11T09:15:29Z",
+      "Content": "A major billion-dollar bank is executing a live pilot of its proprietary dollar-backed stablecoin on a public blockchain to move funds across borders.\r\nU.S. Bank, which is headquartered in Minneapoli… [+1967 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 11, 2026",
+      "Description": "The naira is trading at about ₦1,329.44 to the US dollar at the Nigerian Foreign Exchange Market (NFEM), while the dollar is quoted at around ₦1,390 in the parallel market on Friday, September 11, 2026.\nThe post Dollar to Naira exchange rate today, September …",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-11-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2021/05/BSTAJPLGL5O4PM57K2BEK3ICGU-scaled.jpg",
+      "PublishedAt": "2026-09-11T05:42:55Z",
+      "Content": "U.S. 100 dollar notes are seen at a bank in this picture illustration. REUTERS/Lee Jae-WonThe naira is trading at about 1,329.44 to the US dollar at the Nigerian Foreign Exchange Market (NFEM), while… [+1568 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Hike Bets Rise as CPI Takes Center Stage; EUR/USD and GBP/USD Key Levels to Watch",
+      "Description": "Fed hike bets rise as traders await U.S. CPI, with DXY testing 99.16 resistance while EUR/USD and GBP/USD remain under pressure.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-054013689.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/6017d4a1486d271d560686394eec22884b9fcaf8e8e5ae3a06338aaf8c5036a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F0072091435a8bd8cf7137f1179a14946.jpg",
+      "PublishedAt": "2026-09-11T05:40:13Z",
+      "Content": "Dollar Index Outlook: Dollar Firms as Fed Hike Bets Rise, While ECB Tightening Tests Euro\r\nThe US dollar begins its week with renewed fundamental support as soaring inflation and the Middle East ener… [+4890 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Online",
+      "Title": "New Zealand woman opens bank account in US after migration. Banks locks here $40,000 dollar",
+      "Description": "A New Zealand woman faced a harrowing experience after depositing forty thousand dollars. Her newly opened Chase bank account was locked and subsequently closed by the bank. The bank cited their right to refuse service and stated a cheque would be mailed. Oth…",
+      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/new-zealand-woman-opens-bank-account-in-us-after-migration-banks-locks-here-40000-dollar/articleshow/134010391.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-134010574,width-1200,height-630,imgsize-1310123,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-09-10T12:45:48Z",
+      "Content": "A woman from New Zealand who migrated to the United States had a harrowing experience after an American bank locked her bank account containing $40,000. The woman recently took to social media to sha… [+2535 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
+      "Description": "DXY struggles despite higher Treasury yields as traders await U.S. PPI and the ECB decision, while EUR/USD and GBP/USD hold bullish support.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-081617966.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/28b2db45df9bd16bbde9d2721dbd591eb8fb90498f8bc9a173cb76c6ebeee1f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F018cc6ae43b3ab6da28611cc5e8e1603.jpg",
+      "PublishedAt": "2026-09-10T08:16:17Z",
+      "Content": "Dollar Index Outlook: Dollar Struggles as ECB Hike Looms and Oil Shock Lifts Global Inflation Risk\r\nThe U.S. dollar remains flat amid higher treasury yields driven by soaring energy costs. With Brent… [+4857 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 10, 2026",
+      "Description": "The naira opened Thursday, September 10, 2026, on a firmer footing in the Nigerian Foreign Exchange Market (NFEM), while the currency continued to trade at a weaker level in the parallel market.\nThe post Dollar to Naira exchange rate today, September 10, 2026…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-10-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
+      "PublishedAt": "2026-09-10T07:00:33Z",
+      "Content": "The naira opened Thursday, September 10, 2026, on a firmer footing in the Nigerian Foreign Exchange Market (NFEM), while the currency continued to trade at a weaker level in the parallel market.\r\nAva… [+1631 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira exchange rate today, September 9, 2026",
+      "Description": "The naira is trading at about ₦1,321.37 to the US dollar in the latest available official market data, while parallel-market quotes put the dollar at between ₦1,385 and ₦1,410, depending on the source and transaction side\nThe post Dollar to Naira exchange rat…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-9-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/naira_dollar_pounds.jpg",
+      "PublishedAt": "2026-09-09T06:17:06Z",
+      "Content": "The naira is trading at about 1,321.37 to the US dollar in the latest available official market data, while parallel-market quotes put the dollar at between 1,385 and 1,410, depending on the source a… [+1104 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Liam 'Akiba' Wright",
+      "Title": "Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for central bank buying",
+      "Description": "The New York Fed’s Sept. 2 analysis separates currency choices from reserve-size changes, leaving sovereign Bitcoin demand unproven.\nThe post Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for central bank buying appeared first on Crypto…",
+      "Url": "https://cryptoslate.com/why-bitcoin-bulls-shouldnt-mistake-a-shrinking-dollar-reserve-share-for-central-bank-buying/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-share-data.jpg",
+      "PublishedAt": "2026-09-08T22:20:14Z",
+      "Content": "A Sept. 2, 2026 analysis by New York Fed researchers shows how a few large reserve portfolios can lower the global dollar share without a broad retreat from dollars. For investors assessing future so… [+3496 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Hike Bets Rise as ECB Tightening Supports Euro; EUR/USD and GBP/USD Key Levels",
+      "Description": "U.S. inflation and the ECB decision take focus as DXY remains weak, EUR/USD approaches a breakout and GBP/USD stays range-bound.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-075647322.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/364c4b82404f4b9c2235519c22605b5abeedae43ebd871d4fd56d5f276e41b6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fd46a22fcfbbbdceb0d78bdd12450bd54.jpg",
+      "PublishedAt": "2026-09-08T07:56:47Z",
+      "Content": "Dollar Index Outlook: Fed Hike Bets Rise as ECB Tightening and Inflation Risks Support EUR and GBP\r\nThe greenback remains caught in a cross-current of a more hawkish Fed and strong, rising currencies… [+5047 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vanguard"
+      },
+      "Author": "Henry Oduah",
+      "Title": "Dollar to Naira Exchange Rate Today, September 8, 2026",
+      "Description": "The dollar to naira exchange rate remains a key focus for Nigerians as the local currency continues to trade at different levels in the official and parallel foreign exchange markets.\nThe post Dollar to Naira Exchange Rate Today, September 8, 2026 appeared fi…",
+      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-8-2026/",
+      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
+      "PublishedAt": "2026-09-08T06:14:37Z",
+      "Content": "The dollar to naira exchange rate remains a key focus for Nigerians as the local currency continues to trade at different levels in the official and parallel foreign exchange markets.\r\nThe latest ava… [+1375 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -28,6 +340,19 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07064547/library-federal-reserve-bank-of-new-york-study-finds-dollar-rese-800x450.png",
       "PublishedAt": "2026-09-07T10:45:56Z",
       "Content": "The dollar's share of global reserves fell from 64% to 56% over a decade, but most central banks haven't actually changed their minds about the greenback. The de-dollarization narrative has become on… [+3681 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Strong Jobs Revive Fed Hike Bets as ECB Decision Looms",
+      "Description": "Strong U.S. jobs revive Fed hike bets as DXY stalls, while ECB and BoE tightening risks support the euro and pound ahead of key inflation data.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-strong-081231126.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/873afd905090a4660857bfc4ff4cd3b0fc354798a4bdf228ec8aa6e8cb1c1f4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fb3894ae0464a7f405a4d16445bd13e22.jpg",
+      "PublishedAt": "2026-09-07T08:12:31Z",
+      "Content": "Dollar Index Outlook: Strong U.S. Jobs Revive Fed Hike Bets as ECB and BoE Tightening Risks Rise\r\nThe dollar begins the new week with stronger Federal Reserve tightening expectations after Friday's U… [+4802 chars]"
     },
     {
       "Source": {
@@ -67,331 +392,6 @@
       "UrlToImage": "https://img.huffingtonpost.com/asset/6a9c3fe71700005369d4498e.jpeg?cache=TzjMQUCOjq&ops=500_281%2Cscalefit_1200_630",
       "PublishedAt": "2026-09-05T16:53:47Z",
       "Content": "President Donald Trump said the MAGA Inc. Super PAC has amassed around a billion dollars on Friday, also adding, This is my money, before claiming that he will spend around half of those funds on var… [+2234 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Tanmaya Nanda",
-      "Title": "Best of BS Opinion: India's tightrope walk on the dollar, BRICS finance",
-      "Description": "Today's opinions examine India's cautious move away from dollar dependence, questions around the new GDP series, middle-class anger over ethanol-blended petrol and the societal risks posed by AI.",
-      "Url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-dollar-gdp-ethanol-ai-risks-126090401348_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787936837-8295.jpg",
-      "PublishedAt": "2026-09-05T00:45:19Z",
-      "Content": "Hello, and welcome to the Best of BS Opinion, our wrap of the day's Opinion page. Shyam Saran examines Indias difficult balancing act as the BRICS summit approaches, arguing that New Delhi wants to r… [+1381 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Coatue in talks to form multibillion-dollar joint venture with MatX to finance chip purchases",
-      "Description": "The potential joint venture could disrupt the AI chip market, challenging Nvidia's dominance and accelerating innovation in AI hardware.\nThe post Coatue in talks to form multibillion-dollar joint venture with MatX to finance chip purchases appeared first on C…",
-      "Url": "https://cryptobriefing.com/coatue-matx-joint-venture-ai-chips/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04135318/library-coatue-in-talks-to-form-multibillion-dollar-joint-ventur-800x450.png",
-      "PublishedAt": "2026-09-04T17:53:22Z",
-      "Content": "The hedge fund giant and ex-Google TPU engineers could team up to bankroll a serious challenge to Nvidia's AI chip dominance Coatue Management, the hedge fund powerhouse led by Philippe Laffont, is i… [+3317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: DXY Weakens Ahead of NFP; EUR/USD and GBP/USD Recover",
-      "Description": "U.S. NFP takes center stage as DXY weakens, while EUR/USD and GBP/USD recover amid diverging Fed, ECB and BoE rate expectations.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063755377.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/9a9d78c10a717ebd4d34004b61f502568e30bdf62ee03136ed8f309264c6e7f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F81df4e3aaba8e7c639bed79dc54ff3b9.jpg",
-      "PublishedAt": "2026-09-04T06:37:55Z",
-      "Content": "Dollar Index, EUR &amp; GBP News: Payrolls Take Center Stage as Fed, ECB and BoE Rate Paths Diverge\r\nAfter the July job numbers integration and with the August numbers yet to be released, the dollar … [+5544 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "India's bank liquidity surplus hits all-time high riding flood of dollar deposits",
-      "Description": "India’s banking system liquidity surplus has surged to a record ₹9.7 trillion ($102.67 billion), surpassing the previous peak seen in September 2021. The sharp increase follows Indian banks raising $127.23 billion through non-resident foreign-currency deposit…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-bank-liquidity-surplus-hits-all-time-high-riding-flood-of-dollar-deposits/articleshow/133729404.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133729614,width-1200,height-630,imgsize-66214,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-09-03T07:53:59Z",
-      "Content": "MUMBAI: India's banking system liquidity surplus has jumped to a record high, with rupee liquidity surpassing levels witnessed in the aftermath of Covid-19, as lenders collected more dollars than exp… [+1029 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Weak ADP Hits DXY as NFP Becomes the Next Test; Key Levels for EUR/USD and GBP/USD Today",
-      "Description": "Soft ADP hiring data challenge Fed hike expectations as DXY weakens, while traders turn to Friday’s NFP for the next major dollar catalyst.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-weak-074726240.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/0b8146980c0a2c244baca701dba57ef7d6fa7f98f7c46defec54604665a6ce93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F7b863401ee92dd7083b2df8300c84593.jpg",
-      "PublishedAt": "2026-09-03T07:47:26Z",
-      "Content": "US Dollar News: Soft ADP Data Tests Fed Hike Conviction\r\nThe greenback has begun the month with its momentum challenged by the more recent labor data. The August ADP report was 38,000 compared to the… [+5254 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Hike Bets Lift DXY as EUR/USD and GBP/USD Fall",
-      "Description": "DXY strengthens as Iran escalation lifts inflation risks and Fed hike bets, while EUR/USD and GBP/USD extend their bearish breakdowns.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-053753979.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/2e2849e5de18ff61b797c67a317e9d796bed3c7adce49dfafdc19d14829f6230/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fe0190f36d8f4ccbc2504c029ccab838d.jpg",
-      "PublishedAt": "2026-09-02T05:37:53Z",
-      "Content": "US Dollar News: Iran Escalation and Fed Hike Bets Lift Dollar\r\nBeginning September 2, the dollar will be stronger against multiple currencies due to new concerns arising from Iran dealing with the U.… [+5192 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "In 1974, Steve Jobs came to India in search of Neem Karoli Baba, lived in ashrams and villages with little money. What he learned later shaped trillion-dollar company Apple",
-      "Description": "During a seven-month odyssey in 1974, Steve Jobs explored the depths of spiritual enlightenment across India. Travelling on a shoestring budget, he resided in various villages and temples, exposing himself to alternative ways of living. Read on to know more a…",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/in-1974-steve-jobs-came-to-india-in-search-of-neem-karoli-baba-lived-in-ashrams-and-villages-with-little-money-what-he-learned-later-shaped-trillion-dollar-company-apple/articleshow/133667470.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133668609,width-1200,height-630,imgsize-79113,overlay-etpanache/articleshow.jpg",
-      "PublishedAt": "2026-09-01T05:11:52Z",
-      "Content": "Apple recently saw a major leadership transition as Tim Cook's tenure as CEO came to an end on August 31. On his final day in the role, he shared an emotional message for the Apple community on X, th… [+4679 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Trisha Mahajan",
-      "Title": "UAE, Egypt coordinate over Banque Misr bank after US Treasury notice on Iran links, dollar curbs",
-      "Description": "International Business News: The United Arab Emirates and Egyptian central banks are coordinating over Banque Misr after the US Treasury proposed cutting off the Egyptian bank’s U.",
-      "Url": "https://timesofindia.indiatimes.com/business/international-business/uae-egypt-coordinate-over-banque-misr-bank-after-us-treasury-notice-on-iran-links-dollar-curbs/articleshow/133647242.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-133647589,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "PublishedAt": "2026-08-31T08:42:50Z",
-      "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "US Dollar Price Forecast: Hawkish Warsh Lifts DXY as EUR/USD and GBP/USD Fall",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_725152a9-3640-4114-b974-da716efd7a18",
-      "UrlToImage": null,
-      "PublishedAt": "2026-08-31T08:19:54Z",
-      "Content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dailymail.com"
-      },
-      "Author": "Sadie Whitelocks",
-      "Title": "Florida's most expensive real estate listing is back on the market for $271million - after eye-watering $24million dollar price cut",
-      "Description": "Gordon Pointe was listed in 2024 for $295 million, making it the most expensive residential listing in the US at the time. Now you can own it for $24 million off.",
-      "Url": "https://www.dailymail.com/real-estate/article-16063603/florida-gordon-pointe-naples-real-estate-listing.html",
-      "UrlToImage": "https://i.dailymail.com/1s/2026/08/28/19/110756387-0-The_current_property_includes_an_approximately_11_500_square_foo-a-97_1787941223077.jpg",
-      "PublishedAt": "2026-08-29T13:18:37Z",
-      "Content": "Florida's most expensive real estate listing has returned to the market for a cool $271 million, down from an earlier asking price of $295 million. \r\nKnown as Gordon Pointe, the ultra-exclusive water… [+4183 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "US threatens to cut third-country bank from dollar system over Iran ties",
-      "Description": "The US's financial isolation strategy could significantly impact global banking dynamics, influencing international relations and economic policies.\nThe post US threatens to cut third-country bank from dollar system over Iran ties appeared first on Crypto Bri…",
-      "Url": "https://cryptobriefing.com/us-threatens-cut-bank-dollar-system-iran/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28155447/library-us-threatens-to-cut-third-country-bank-from-dollar-syste-800x450.png",
-      "PublishedAt": "2026-08-28T19:54:50Z",
-      "Content": "Treasury's FinCEN moves to sever Banque Misr UAE's correspondent banking access after alleging the bank processed $1.8B through Iranian shadow networks The US Treasury just pulled one of its most pow… [+2271 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Circle economists argue digital finance could strengthen dollar dominance",
-      "Description": "Digital finance innovations, like stablecoins, could reinforce the dollar's global dominance by increasing demand for dollar-denominated assets.\nThe post Circle economists argue digital finance could strengthen dollar dominance appeared first on Crypto Briefi…",
-      "Url": "https://cryptobriefing.com/circle-economists-stablecoins-dollar-dominance/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28122700/library-circle-economists-argue-digital-finance-could-strengthen-800x450.png",
-      "PublishedAt": "2026-08-28T16:27:03Z",
-      "Content": "A new Kansas City Fed paper makes the case that dollar-backed stablecoins reinforce US financial power rather than erode it. The conventional wisdom on de-dollarization goes something like this: fast… [+2968 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "India’s foreign-exchange reserves hit record high amid dollar inflows",
-      "Description": "India's record forex reserves bolster economic resilience but pose currency risk, as rupee stability remains challenged by external factors.\nThe post India’s foreign-exchange reserves hit record high amid dollar inflows appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/india-forex-reserves-record-high/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28101959/library-india-s-foreign-exchange-reserves-hit-record-high-amid-d-800x450.png",
-      "PublishedAt": "2026-08-28T14:20:03Z",
-      "Content": "The Reserve Bank of India's strategic measures have pulled in nearly $50 billion in seven weeks, pushing reserves to $716.91 billion India’s foreign exchange reserves surged to $716.91 billion during… [+3100 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Warsh Looms as DXY Rebounds, EUR/USD Pulls Back; GBPUSD Key Levels",
-      "Description": "The dollar approaches a key breakout level as traders await Warsh, while EUR/USD tests Fibonacci support and GBP/USD loses channel support.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-warsh-055644863.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/a4b9cf250ba7c8ca7b5373224427d0a1f0f292d9a79231ad4e2dfaadff0ce556/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F0c3069ef25f3f2c95fa2584baf4f33b5.jpg",
-      "PublishedAt": "2026-08-28T05:56:44Z",
-      "Content": "US Dollar News: Warsh Takes Center Stage as ECB Stays Hawkish\r\nWith investors waiting for Kevin Warsh's first speech at the Jackson Hole symposium on August 28, the US dollar is approaching a one-wee… [+4904 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Ex-Credit Suisse VP who forged bank letters in multimillion-dollar case gets jail term cut on appeal",
-      "Description": "Soh Yuan-Yi had her jail term reduced from 13 years to 10 years and seven months, with the appeal judge finding that the trial judge had erred in several respects.",
-      "Url": "https://www.channelnewsasia.com/singapore/credit-suisse-vp-forgery-soh-yuanyi-appeal-win-6344551",
-      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--GIk6PFga--/c_crop,h_575,w_1022,x_0,y_31/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/tdy-migration/supreme_court3.jpg?itok=G-Bi2mvK",
-      "PublishedAt": "2026-08-27T07:06:47Z",
-      "Content": "SINGAPORE: A former bank relationship manager at Credit Suisse had her jail term cut from 13 years to 10 years and seven months after a successful appeal by her lawyers.\r\nSoh Yuan-Yi, a 50-year-old S… [+2542 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Sticky Inflation Lifts DXY as EUR/USD and GBP/USD Pull Back",
-      "Description": "Sticky U.S. PCE revives Fed hike risk as DXY rebounds, while traders await Warsh’s Jackson Hole signals and EUR/USD and GBP/USD test support.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-sticky-052741530.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/e80f1d6aee772c26d08f341fdcdb78b154a422209054ffbca83f5be621bd7987/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fdaf9b00f5dfc705bf4e8a23211ccb7b0.jpg",
-      "PublishedAt": "2026-08-27T05:27:41Z",
-      "Content": "US Dollar News: Sticky PCE Lifts Fed Hike Risk Before Warsh\r\nThe U.S. dollar opens August 27 with buying after July inflation was slightly hotter than expected. The PCE price index climbed 0.2% month… [+4888 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: PCE Test Looms as EUR/USD and GBP/USD Hold Firm",
-      "Description": "DXY remains bearish below 99.41 as traders await U.S. PCE and Kevin Warsh’s Jackson Hole speech, while EUR/USD and GBP/USD hold firm.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-pce-075653463.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/33686d6f527c3a3fd2930a5a94f30f566331ea2780273104b6b40f92084ae7b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fd7d7c1dbcff70f74b2ee94d8a89855a0.jpg",
-      "PublishedAt": "2026-08-26T07:56:53Z",
-      "Content": "US Dollar News: PCE and Warsh Put Fed Outlook Back in Focus\r\nFor the first trading session of August 26th, the U.S. dollar is holding tight due to market anticipation of the July PCE inflation report… [+5291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
-      "Description": "DXY attempts to recover as markets await Kevin Warsh’s Jackson Hole speech and PCE inflation, while EUR/USD and GBP/USD hold near key support.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-warsh-085747517.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/1980a4fd5488d82264f74cf1224c7a72e65cb6bc2c13ffc51b90f9e1f9c97093/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F9705cdcd340c68b37fbcb3ca05a0a5c6.jpg",
-      "PublishedAt": "2026-08-25T08:57:47Z",
-      "Content": "US Dollar News: Warsh and PCE Take Center Stage as Euro Holds Firm\r\nWith Fed Chair Kevin Warsh's first Jackson Hole speech and the release of the PCE inflation report later this week, the U.S. dollar… [+4945 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "Union Bank of India taps dollar debt market after 12-year hiatus",
-      "Description": "The bank raised $300 million each through three-year and five-year papers at a coupon of 5.23% ‌and 5.4170%, respectively",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/union-bank-of-india-taps-dollar-debt-market-after-12-year-hiatus/article71387232.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/no552a/article71387259.ece/alternates/LANDSCAPE_1200/iStock-1334438724.jpg",
-      "PublishedAt": "2026-08-25T04:19:42Z",
-      "Content": "Union Bank of India has\r\naccepted bids worth $600 million for a public sale of US\r\ndollar-denominated bonds through its Dubai branch, its first\r\nsuch issuance in more than 12 years, two merchant bank… [+1610 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Union Bank of India taps dollar debt market after 12-year hiatus",
-      "Description": "Union Bank of India has made a significant move by raising six hundred million dollars through the sale of bonds, which include three-year and five-year notes at appealing interest rates. This event is particularly notable as it represents the bank's first pu…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/union-bank-of-india-taps-dollar-debt-market-after-12-year-hiatus/articleshow/133490657.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133490782,width-1200,height-630,imgsize-99170,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-25T04:07:09Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Estefano Gomez",
-      "Title": "US to end dollar access for Iran money launderers: Bessent",
-      "Description": "The U.S. move to restrict dollar access for Iran-linked money launderers may hinder diplomatic resolutions and impact global financial markets.\nThe post US to end dollar access for Iran money launderers: Bessent appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/us-to-end-dollar-access-for-iran-money-launderers-bessent/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24131526/us-treasury-secretary-scott-bessent-speaks-to-reporters-outs-1-1-800x420.jpeg",
-      "PublishedAt": "2026-08-24T17:15:27Z",
-      "Content": "The United States is set to intensify its financial measures against entities suspected of laundering money for Iran. According to a statement by Bessent, the U.S. will restrict access to the dollar … [+1439 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Joel Rebello",
-      "Title": "ICICI raises $1 billion, Union Bank $600 million through dollar bonds",
-      "Description": "ICICI Bank raised $1 billion through a five-year private dollar bond, while Union Bank of India secured $600 million in its first international dollar issue in over a decade, benefiting from RBI’s special swap window. UCO Bank also approved a $1 billion progr…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/icici-raises-1-billion-union-bank-600-million-through-dollar-bonds/articleshow/133470684.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133470715,width-1200,height-630,imgsize-119678,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-24T14:27:07Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "India lenders' dollar debt sales top $10 billion since RBI window, ICICI Bank beats peer to lead pack",
-      "Description": "ICICI Bank is set to raise one billion dollars through the issuance of five-year bonds, marking its fourth bond sale this month. With over three billion dollars already raised via the RBI window, this move contributes to the collective bond issuance of over t…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/india-lenders-dollar-debt-sales-top-10-billion-since-rbi-window-icici-bank-beats-peer-to-lead-pack/articleshow/133466165.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133466183,width-1200,height-630,imgsize-121016,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-08-24T12:30:31Z",
-      "Content": "ICICI Bank, India's second-largest private lender, is tapping the U.S. dollar-denominated bond market for the fourth time in a month, under the central bank's discounted window, which will push overa… [+1793 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Rajendra Saxena",
-      "Title": "Citigroup, Axis Bank team up to leverage NRI deposits and boost dollar inflows",
-      "Description": "Under the arrangement, Axis Bank will issue standby letters of credit to support financing provided by Citigroup through its offshore operations",
-      "Url": "https://www.livemint.com/money/personal-finance/citigroup-axis-bank-team-up-to-leverage-nri-deposits-and-boost-dollar-inflows-11787562860472.html",
-      "UrlToImage": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/INDIA-DEBT-AXIS-BANK-0_1787563090228_1787563122746_2c76e3c0-b77a-4a51-a070-2dd552fd2a08.JPG",
-      "PublishedAt": "2026-08-24T10:28:49Z",
-      "Content": "Citigroup Inc has entered into an arrangement with Axis Bank Ltd to finance non-resident Indians investing in foreign-currency deposits with the Indian lender, according to Bloomberg, citing people f… [+2266 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fiscal Risks Weigh on DXY; EUR/USD and GBP/USD Test Key Resistance",
-      "Description": "DXY remains pressured by U.S. fiscal concerns as EUR/USD and GBP/USD hold firm, although both pairs face major technical resistance.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fiscal-075010571.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/ebacb991b86679791645c42bdfcc0e882ddb821f3dfb4e263e29552aa651b9bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F907d1fc8e52461e9d011a4ae6e07426a.jpg",
-      "PublishedAt": "2026-08-24T07:50:10Z",
-      "Content": "US Dollar News: Debt Fears Weigh as Euro and Pound Hold Firm\r\nWith the focus of global investors shifting away from the short-term economy to long-term fiscal credibility, the US dollar started its d… [+5339 chars]"
     }
   ]
 }
