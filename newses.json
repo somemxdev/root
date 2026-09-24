@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Geovanni Rodríguez Catarino",
+      "Title": "Precio del dólar hoy 23 de septiembre: así cotiza el peso mexicano",
+      "Description": "El dólar inicia la jornada con movimientos frente al peso mexicano, mientras los mercados mantienen la atención sobre el comportamiento de la moneda internacional",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-23-de-septiembre-asi-cotiza-el-peso-mexicano-2026092312382896636",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
+      "PublishedAt": "2026-09-23T12:38:28Z",
+      "Content": "El dólar inicia la jornada con movimientos frente al peso mexicano, mientras los mercados mantienen la atención sobre el comportamiento de la moneda internacionalEl precio del dólar hoy, miércoles 23… [+1300 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Lautaro Brum",
+      "Title": "El dólar en Uruguay testea el \"piso\" de los $ 40, al tiempo que hay fuerte avidez por deuda en moneda local",
+      "Description": "El dólar volvió a operar prácticamente estable en Uruguay y se mantuvo sobre los $ 40, mientras subió levemente en Brasil y quedó sin cambios en Argentina.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-testea-el-piso-de-los-40-al-tiempo-que-hay-fuerte-avidez-por-deuda-en-moneda-local",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
+      "PublishedAt": "2026-09-23T06:05:00Z",
+      "Content": "El dólaren Uruguay cotizó prácticamente estable ayer (con unamínima bajade 0,03%) y se negoció en promedio en $ 40,052 y hubo fuerte avidez por deuda en moneda local. Este valor es el mínimo en tres … [+1971 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Amanda Santillán",
+      "Title": "Consejero del Banco Central anticipa un impacto \"acotado\" en el dólar ante el alza de la tasa de interés de la Fed",
+      "Description": "“No es que es una variable que no reconozcamos que afecte el tipo de cambio. Pero en el horizonte política, el efecto debería ser más bien acotado”, señaló Kevin Cowan.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-anticipa-un-impacto-acotado-en-el-dolar-ante",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260922/imag/foto_0000001420260922133845/55445587358_9a9004bdb4_o.jpg",
+      "PublishedAt": "2026-09-22T18:08:06Z",
+      "Content": "El consejero del Banco Central, Kevin Cowan, se refirió a la estrategia monetaria del ente rector y el impacto que podría tener sobre la economía chilena la reciente alza de la tasa de interés por pa… [+3004 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Échenle paja: Tipo de cambio alarga su caída a los 17.31 pesos por dólar",
+      "Description": "Especialistas advierten que la menor diferencia entre las tasas de interés de la Fed y el Banxico será un factor que continuará afectando al tipo de cambio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/22/peso-dolar-precio-hoy-22-de-septiembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3S64RUBYDRHJBFL5CQOIJ6RLAA.png?smart=true&auth=710e76601aefd3514ad2c476b9d06057fde4f127055de935be7f1e47f34d2b13&width=1200&height=630",
+      "PublishedAt": "2026-09-22T16:49:59Z",
+      "Content": "El peso mexicano alargó sus pérdidas ante el dólar en la sesión de este martes 22 de septiembre ante el reforzamiento de las expectativas de otro aumento en la tasa de interés de la Fed para combatir… [+1544 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IALBJJIRDFAJLJA2RFDKUFTNFQ.png?smart=true&auth=c1cae29847db586f56b9ddcf7b861d95cfe8e626c6b34cd522dd3aa9823eb945&width=1200&height=630",
       "PublishedAt": "2026-08-26T15:46:14Z",
       "Content": "El peso mexicano se perfila para registrar una jornada de pérdidas, mientras que en paralelo los inversionistas asimilan cifras económicas en Estados Unidos, que podrían incidir en las futuras decisi… [+1672 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Cuánto se aprecia el peso ante el dólar HOY martes 25 de agosto? Mercado espera más ‘pistas’ de la Fed",
-      "Description": "El mercado en EU espera que el discurso de Kevin Warsh en el simposio de Jackson Hole dé más pistas sobre los siguientes movimientos de la Reserva Federal en la recta final de 2026.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/08/25/peso-dolar-precio-hoy-25-de-agosto-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VA6I7XTX7FCWPPZTF3GTNZ2IQE.png?smart=true&auth=9cc10b312f069dd39da25138906ddfb0c8666da2a98261ac005db508b938fdec&width=1200&height=630",
-      "PublishedAt": "2026-08-25T16:46:53Z",
-      "Content": "El peso mexicano se aprecia ante el dólar en la sesión de este martes 25 de agosto, mientras el mercado espera más datos de la economía de EU que permitan predecir los movimientos de la Fed. \r\nEste v… [+1617 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "REDACCIÓN RÉCORD",
-      "Title": "Precio del dólar hoy 25 de agosto: el peso mantiene firmeza frente a la divisa estadounidense",
-      "Description": "El peso mexicano comenzó la jornada con una ligera ventaja frente al dólar y se mantiene cerca de uno de sus niveles más relevantes",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-25-de-agosto-el-peso-mantiene-firmeza-frente-a-la-divisa-estadounidense-2026082515335117120",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/08042026/75d78bca-d5b0-46dc-83d9-842991382bcf.jpg",
-      "PublishedAt": "2026-08-25T15:33:51Z",
-      "Content": "El peso mexicano comenzó la jornada con una ligera ventaja frente al dólar y se mantiene cerca de uno de sus niveles más relevantesEl precio del dólar hoy martes 25 de agosto de 2026 se ubica en 16.9… [+2080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Pepu Ricca",
-      "Title": "Joaquim Miranda Sarmento, ministro de Finanzas de Portugal: \"El euro digital es muy importante para consolidar al euro como competidor del dólar\"",
-      "Description": "El proyecto para crear una moneda virtual respaldada por el Banco Central Europeo sigue su curso en los despachos de Bruselas. Europa quiere, y dice necesitar, este Euro Digital que pretende cambiar cómo pagamos con el móvil. Y lo cierto es que se ha converti…",
-      "Url": "https://www.xatakamovil.com/movil-y-sociedad/joaquim-miranda-sarmento-ministro-finanzas-portugal-euro-digital-muy-importante-para-consolidar-al-euro-como-competidor-dolar",
-      "UrlToImage": "https://i.blogs.es/383022/miranda-sarmento-euro-digital/840_560.jpeg",
-      "PublishedAt": "2026-08-25T14:01:04Z",
-      "Content": "El proyecto para crear una moneda virtual respaldada por el Banco Central Europeo sigue su curso en los despachos de Bruselas. Europa quiere, y dice necesitar, este Euro Digital que pretende cambiar … [+2965 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso baja frente al dólar; la bolsa avanza",
-      "Description": "El peso mexicano enfrentó ayer una depreciación de 0.24 por ciento frente a la moneda estadunidense, para cerrar la sesión en 16.9602 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2026/08/25/economia/019n4eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2026-08-25T09:33:51Z",
-      "Content": "Periódico La JornadaMartes 25 de agosto de 2026, p. 19\r\nEl peso mexicano enfrentó ayer una depreciación de 0.24 por ciento frente a la moneda estadunidense, para cerrar la sesión en 16.9602 unidades … [+832 chars]"
     }
   ]
 }

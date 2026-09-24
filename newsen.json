@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Arslan Ali Butt",
+      "Title": "US Dollar Price Forecast: Fed Rate Path Supports Dollar as EUR/USD and GBP/USD Diverge",
+      "Description": "DXY remains supported by Fed tightening expectations as it targets 100.53, while EUR/USD stays pressured and GBP/USD attempts to stabilize.",
+      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-064320722.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/3ab2d09aba39b7ce849bc02ad2caada99e6cceba25d71e8c7a6b3fa0055e1784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F2c414d93e15ef946ba0844155c0916b3.jpg",
+      "PublishedAt": "2026-09-22T06:43:20Z",
+      "Content": "Dollar Index Outlook: Fed Hike Bets Support Dollar as EUR and GBP Face Diverging Policy Paths\r\nThe Federal Reserve's hawkish stance on inflation has strengthened the U.S. dollar on Monday as investor… [+5351 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06223140/library-south-korea-s-trillion-dollar-pension-fund-pauses-foreig-800x450.png",
       "PublishedAt": "2026-09-07T02:31:43Z",
       "Content": "The world's third-largest public pension fund is stepping back from dollar hedging as currency conditions shift, with ripple effects across FX markets. South Korea’s National Pension Service, the wor… [+3020 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "HuffPost",
-      "Title": "Trump Boasts About 'Billion'-Dollar Super PAC War Chest: 'This Is My Money'",
-      "Description": "Republicans have grown increasingly concerned that the president is using MAGA Inc. funds to highlight himself over candidates running in the midterms.",
-      "Url": "https://www.huffpost.com/entry/trump-maga-inc-super-pac-war-chest-this-is-my-money_n_6a9c22a6e4b0783b3d92b9b7",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/6a9c3fe71700005369d4498e.jpeg?cache=TzjMQUCOjq&ops=500_281%2Cscalefit_1200_630",
-      "PublishedAt": "2026-09-05T16:53:47Z",
-      "Content": "President Donald Trump said the MAGA Inc. Super PAC has amassed around a billion dollars on Friday, also adding, This is my money, before claiming that he will spend around half of those funds on var… [+2234 chars]"
     }
   ]
 }
