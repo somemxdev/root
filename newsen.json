@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 45,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Vivian Nguyen",
+      "Title": "Bank-backed AllUnity launches MiCA-compliant US dollar stablecoin USDAU",
+      "Description": "USDAU's launch under MiCA could enhance cross-border transactions, integrating stablecoins with traditional banking, boosting institutional adoption.\nThe post Bank-backed AllUnity launches MiCA-compliant US dollar stablecoin USDAU appeared first on Crypto Bri…",
+      "Url": "https://cryptobriefing.com/bank-backed-allunity-launches-mica-compliant-us-dollar-stablecoin-usdau/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30094829/Bank-backed-AllUnity-launches-MiCA-compliant-US-dollar-stablecoin-USDAU-800x419.jpg",
+      "PublishedAt": "2026-09-30T13:51:26Z",
+      "Content": "The company's multicurrency platform is designed to support cross-border payments, treasury management and settlement with regulated digital money infrastructure. Payments infrastructure provider All… [+1319 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Reuters",
+      "Title": "SP Group's Mercury Finance taps dollar debt to meet another unit's dues",
+      "Description": "The real estate conglomerate plans to use the ​proceeds to invest in rupee-denominated bonds to be issued later by a local group entity.",
+      "Url": "https://www.business-standard.com/companies/news/sp-group-s-mercury-finance-taps-dollar-debt-to-meet-another-unit-s-dues-126092900815_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/21/thumb/fitandfill/1200X628/1711001688-7713.jpg",
+      "PublishedAt": "2026-09-29T11:27:44Z",
+      "Content": "The real estate conglomerate plans to use the proceeds to invest in rupee-denominated bonds to be issued later by a local group entity.\r\nShapoorji Pallonji Group logo\r\nReuters2 min read Last Updated … [+1985 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "Shapoorji Pallonji’s Mercury Finance plans $125 million dollar bond reissue",
+      "Description": "The planned transaction follows a similar $650-million fundraising in July, when proceeds were invested in rupee debt issued by another group entity",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/shapoorji-pallonjis-mercury-finance-plans-125-million-dollar-bond-reissue/article71523349.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/7ci3kx/article71523403.ece/alternates/LANDSCAPE_1200/BL29Shapoorji-Pallonji",
+      "PublishedAt": "2026-09-29T10:11:15Z",
+      "Content": "An unit of India's Shapoorji\r\nPallonji Group, Mercury Finance, is raising $125 million through\r\nthe reissue of a U.S. dollar bond maturing in nearly three\r\nyears, three sources aware of the matter sa… [+1655 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Piyush Shukla",
+      "Title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom",
+      "Description": "Bond investors are actively hedging against Oracle. The cost to insure the software company's debt reached a record high this week. Its 6.7% bonds maturing in 2056 crossed an 8% yield for the first time. It sits half a percentage point higher than the average…",
+      "Url": "https://economictimes.indiatimes.com/news/international/us/why-is-oracles-debt-suddenly-flashing-warning-signs-its-8-bond-yield-raises-a-bigger-question-about-who-will-finance-the-trillion-dollar-ai-data-center-boom/articleshow/134507749.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-134507933,width-1200,height-630,imgsize-39118,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-09-26T18:32:08Z",
+      "Content": "Oracles credit market is sending a signal that is harder to ignore. On Thursday, the cost of insuring Oracles debt through credit default swaps reached a record high. At the same time, the yield on t… [+3697 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Agent",
+      "Title": "Illinois Farmer Defrauds Billion-Dollar Bank Using False Paperwork, Sentenced to Prison and Ordered To Pay $4,966,624 in Restitution",
+      "Description": "An Illinois farmer received 42 months in prison and nearly $5 million in restitution after securing about $8.4 million in UMB Bank loans with false grain-complex paperwork and tax returns. The scheme surfaced in bankruptcy court.\nThe post Illinois Farmer Defr…",
+      "Url": "https://dailyhodl.com/2026/09/25/illinois-farmer-defrauds-billion-dollar-bank-using-false-paperwork-sentenced-to-prison-and-ordered-to-pay-4966624-in-restitution/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2026/09/former-bank-fraud_pink.jpg?resize=1365,800",
+      "PublishedAt": "2026-09-25T11:45:42Z",
+      "Content": "An Illinois farmer has been sentenced to 42 months in prison and ordered to repay nearly $5 million after securing about $8.4 million in bank loans with false paperwork.\r\nTravis L. Murphy, 55, of Cha… [+1990 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nakedcapitalism.com"
+      },
+      "Author": "Yves Smith",
+      "Title": "The Truth About the Dollar Dividend and the U.S. Global Central Bank Economic Model",
+      "Description": "Recognizing the US as the global central bank explains why it can get away with running sustained trade deficits.",
+      "Url": "https://www.nakedcapitalism.com/?p=316800",
+      "UrlToImage": null,
+      "PublishedAt": "2026-09-24T06:39:36Z",
+      "Content": "This is Naked Capitalism fundraising week. 397 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+7566 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Post Nigeria"
+      },
+      "Author": "Ogaga Ariemu",
+      "Title": "Dollar to Naira exchange rate today, September 23, 2026: Naira depreciates against USD",
+      "Description": "The naira recorded a depreciation against the dollar at the official foreign exchange market on Wednesday. The naira weakened on Wednesday to N1,328.50 per dollar from N1,327.78 exchanged on Tuesday. This means that, on a day-to-day basis, the naira fell by N…",
+      "Url": "https://dailypost.ng/2026/09/23/dollar-to-naira-exchange-rate-today-september-23-2026-naira-depreciates-against-usd/",
+      "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/01/Naira.jpg",
+      "PublishedAt": "2026-09-23T21:06:47Z",
+      "Content": "The naira recorded a depreciation against the dollar at the official foreign exchange market on Wednesday.\r\nThe naira weakened on Wednesday to N1,328.50 per dollar from N1,327.78 exchanged on Tuesday… [+562 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,97 +392,6 @@
       "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-share-data.jpg",
       "PublishedAt": "2026-09-08T22:20:14Z",
       "Content": "A Sept. 2, 2026 analysis by New York Fed researchers shows how a few large reserve portfolios can lower the global dollar share without a broad retreat from dollars. For investors assessing future so… [+3496 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Hike Bets Rise as ECB Tightening Supports Euro; EUR/USD and GBP/USD Key Levels",
-      "Description": "U.S. inflation and the ECB decision take focus as DXY remains weak, EUR/USD approaches a breakout and GBP/USD stays range-bound.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-075647322.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/364c4b82404f4b9c2235519c22605b5abeedae43ebd871d4fd56d5f276e41b6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fd46a22fcfbbbdceb0d78bdd12450bd54.jpg",
-      "PublishedAt": "2026-09-08T07:56:47Z",
-      "Content": "Dollar Index Outlook: Fed Hike Bets Rise as ECB Tightening and Inflation Risks Support EUR and GBP\r\nThe greenback remains caught in a cross-current of a more hawkish Fed and strong, rising currencies… [+5047 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira Exchange Rate Today, September 8, 2026",
-      "Description": "The dollar to naira exchange rate remains a key focus for Nigerians as the local currency continues to trade at different levels in the official and parallel foreign exchange markets.\nThe post Dollar to Naira Exchange Rate Today, September 8, 2026 appeared fi…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-8-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/NAIRA-DOLLAR-SCHEME.webp",
-      "PublishedAt": "2026-09-08T06:14:37Z",
-      "Content": "The dollar to naira exchange rate remains a key focus for Nigerians as the local currency continues to trade at different levels in the official and parallel foreign exchange markets.\r\nThe latest ava… [+1375 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Bank of Maharashtra, Canara Bank eye dollar debt issuance this month, bankers say",
-      "Description": "Canara Bank and Bank of Maharashtra will raise $500 million each through dollar bonds.  These lenders will issue three-year or five-year papers under a concessional swap window.  This move aims to lower the cost of hedging currency exchange rate risks.  Bank …",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say/articleshow/133878355.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-133878401,width-1200,height-630,imgsize-183283,overlay-etmarkets/articleshow.jpg",
-      "PublishedAt": "2026-09-07T11:14:38Z",
-      "Content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "Federal Reserve Bank of New York study finds dollar reserve decline driven by handful of countries, not global trend",
-      "Description": "The decline in dollar reserves, driven by a few countries, highlights the need for nuanced analysis over broad de-dollarization narratives.\nThe post Federal Reserve Bank of New York study finds dollar reserve decline driven by handful of countries, not global…",
-      "Url": "https://cryptobriefing.com/fed-study-dollar-reserve-decline-overstated/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07064547/library-federal-reserve-bank-of-new-york-study-finds-dollar-rese-800x450.png",
-      "PublishedAt": "2026-09-07T10:45:56Z",
-      "Content": "The dollar's share of global reserves fell from 64% to 56% over a decade, but most central banks haven't actually changed their minds about the greenback. The de-dollarization narrative has become on… [+3681 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Strong Jobs Revive Fed Hike Bets as ECB Decision Looms",
-      "Description": "Strong U.S. jobs revive Fed hike bets as DXY stalls, while ECB and BoE tightening risks support the euro and pound ahead of key inflation data.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-strong-081231126.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/873afd905090a4660857bfc4ff4cd3b0fc354798a4bdf228ec8aa6e8cb1c1f4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fb3894ae0464a7f405a4d16445bd13e22.jpg",
-      "PublishedAt": "2026-09-07T08:12:31Z",
-      "Content": "Dollar Index Outlook: Strong U.S. Jobs Revive Fed Hike Bets as ECB and BoE Tightening Risks Rise\r\nThe dollar begins the new week with stronger Federal Reserve tightening expectations after Friday's U… [+4802 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 7, 2026",
-      "Description": "The dollar-to-naira exchange rate opened the new week with the naira trading at about ₦1,321.68 per US dollar at the official rate, while the parallel market rate stood at ₦1,390 per dollar for buying and ₦1,400 for selling, according to available market data…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-7-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/US-dollar-scaled-1.jpg",
-      "PublishedAt": "2026-09-07T05:47:32Z",
-      "Content": "The dollar-to-naira exchange rate opened the new week with the naira trading at about 1,321.68 per US dollar at the official rate, while the parallel market rate stood at 1,390 per dollar for buying … [+1459 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Editorial Team",
-      "Title": "South Korea’s trillion-dollar pension fund pauses foreign exchange hedging as won strengthens",
-      "Description": "The NPS's hedging pause highlights a shift towards adaptive currency management, influencing global FX strategies and market dynamics.\nThe post South Korea’s trillion-dollar pension fund pauses foreign exchange hedging as won strengthens appeared first on Cry…",
-      "Url": "https://cryptobriefing.com/south-korea-pension-fund-fx-hedging-pause/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06223140/library-south-korea-s-trillion-dollar-pension-fund-pauses-foreig-800x450.png",
-      "PublishedAt": "2026-09-07T02:31:43Z",
-      "Content": "The world's third-largest public pension fund is stepping back from dollar hedging as currency conditions shift, with ripple effects across FX markets. South Korea’s National Pension Service, the wor… [+3020 chars]"
     }
   ]
 }
