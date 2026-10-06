@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 45,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dailymail.com"
+      },
+      "Author": "Sophia Baum",
+      "Title": "Million Dollar Highway death trap: 'America's scariest road' causes horrific crashes and forces daring rescues... but no-one wants to fix the 'attractive nuisance'",
+      "Description": "For tourists, it is a breathtaking bucket-list drive. For locals, it is a road to be treated with caution, a moment's distraction can send a vehicle tumbling into the wilderness below.",
+      "Url": "https://www.dailymail.com/news/article-16169805/Million-Dollar-Highway-death-trap-Americas-scariest-road-causes-horrific-crashes-forces-daring-rescues-no-one-wants-fix-attractive-nuisance.html",
+      "UrlToImage": "https://i.dailymail.com/1s/2026/10/01/22/111597645-0-There_are_few_roads_in_America_quite_like_Colorado_s_Million_Dol-a-15_1790888920113.jpg",
+      "PublishedAt": "2026-10-03T03:00:40Z",
+      "Content": "There are roads that make your knees shake. And then there is the Million Dollar Highway. \r\nHigh above Colorados Uncompahgre Gorge climbs more than 2,000 feet in just six miles near the mountain town… [+6432 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": null,
+      "Title": "How a hidden scam plaguing college campuses has racked up a multimillion-dollar price tag",
+      "Description": "A fraud expert reveals the red flags students and parents must watch for as ghost students drain millions from the federal student aid system.",
+      "Url": "https://www.foxnews.com/politics/hidden-scam-plaguing-college-campuses-racked-multimillion-dollar-price-tag",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/College-Campus.jpg",
+      "PublishedAt": "2026-10-02T09:00:04Z",
+      "Content": "A hidden scheme draining millions from the federal student aid system and infiltrating college campuses has emerged as a key target of the Trump administration's fraud crackdown, with officials fault… [+4721 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
       "PublishedAt": "2026-09-10T07:00:33Z",
       "Content": "The naira opened Thursday, September 10, 2026, on a firmer footing in the Nigerian Foreign Exchange Market (NFEM), while the currency continued to trade at a weaker level in the parallel market.\r\nAva… [+1631 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 9, 2026",
-      "Description": "The naira is trading at about ₦1,321.37 to the US dollar in the latest available official market data, while parallel-market quotes put the dollar at between ₦1,385 and ₦1,410, depending on the source and transaction side\nThe post Dollar to Naira exchange rat…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-9-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/naira_dollar_pounds.jpg",
-      "PublishedAt": "2026-09-09T06:17:06Z",
-      "Content": "The naira is trading at about 1,321.37 to the US dollar in the latest available official market data, while parallel-market quotes put the dollar at between 1,385 and 1,410, depending on the source a… [+1104 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Liam 'Akiba' Wright",
-      "Title": "Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for central bank buying",
-      "Description": "The New York Fed’s Sept. 2 analysis separates currency choices from reserve-size changes, leaving sovereign Bitcoin demand unproven.\nThe post Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for central bank buying appeared first on Crypto…",
-      "Url": "https://cryptoslate.com/why-bitcoin-bulls-shouldnt-mistake-a-shrinking-dollar-reserve-share-for-central-bank-buying/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-share-data.jpg",
-      "PublishedAt": "2026-09-08T22:20:14Z",
-      "Content": "A Sept. 2, 2026 analysis by New York Fed researchers shows how a few large reserve portfolios can lower the global dollar share without a broad retreat from dollars. For investors assessing future so… [+3496 chars]"
     }
   ]
 }

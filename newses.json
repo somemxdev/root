@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg/Anya Andrianova",
+      "Title": "¿Por qué el reporte de empleo en EU ‘tiró paró’ al peso en su ‘pelea’ contra el dólar?",
+      "Description": "El dólar registró el viernes su peor jornada en un mes, después de que un reporte mostró que EU creó menos empleos de los esperados en septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/02/por-que-el-reporte-de-empleo-en-eu-tiro-paro-al-peso-en-su-pelea-contra-el-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WP3JMNGBQRFLVGK5U5EWBZGHLY.jpg?smart=true&auth=31063c9af522a53f6e63029cc3c386f4110370db2d11ab8cac41f0df7b0ccb02&width=1200&height=630",
+      "PublishedAt": "2026-10-02T23:03:59Z",
+      "Content": "El dólar registró el viernes su peor jornada en un mes, después de que un reporte mostró que Estados Unidos creó menos empleos de los esperados en septiembre, lo que llevó brevemente a los operadores… [+2698 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘El resplandor’ del peso: Gana al dólar tras ‘débil’ dato de empleo en EU",
+      "Description": "Especialistas señalan que el dato de empleo en EU puede influir en la Fed para que no aumente su tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7KTDCSDRYVBJNNYWHI632HSB2E.png?smart=true&auth=fb444021229ab8b1988d6cd8e12dd212e9ad34c0dfcb9b3ca6937d5f8b47a97c&width=1200&height=630",
+      "PublishedAt": "2026-10-02T16:13:18Z",
+      "Content": "El peso mexicano frena su racha de cuatro sesiones con pérdidas ante el dólar este viernes 2 de octubre, mientras el mercado analiza el dato de empleo en Estados Unidos. \r\nLa cifra de trabajos creado… [+1457 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Héctor Usla",
+      "Title": "México tiene petróleo, pero debe ganarse cada dólar de inversión: Petroleras de Reino Unido y Australia",
+      "Description": "México cuenta con recursos petroleros, infraestructura y experiencia para atraer nuevas inversiones, pero cada dólar destinado al desarrollo de proyectos en el país compite con otros países del mundo.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/01/mexico-tiene-petroleo-pero-debe-ganarse-cada-dolar-de-inversion-petroleras-de-reino-unido-y-australia/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/O2SDMKYB65DTHOCFOMTAJEBRQA.jpg?smart=true&auth=1d0c6acb13ad00c7e96d05afce59f0b2cee9a6b4044a0b14f5938481fc2eb618&width=1200&height=630",
+      "PublishedAt": "2026-10-01T21:33:08Z",
+      "Content": "México cuenta con recursos petroleros, infraestructura y experiencia para atraer nuevas inversiones; sin embargo, cada dólar destinado al desarrollo de proyectos en el país compite con oportunidades … [+3303 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘El conjuro’ del dólar: Peso arranca octubre con caída ‘infernal’ de 1.58%",
+      "Description": "El peso perdió 107 centavos ante el dólar en septiembre, e inicia octubre con una caída de casi 30 centavos, según datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/01/peso-dolar-precio-hoy-1-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2BSDRWE5ANGP7CCU34AZWDVPRE.png?smart=true&auth=8bc669657f1bc53814889f07b2efd823172ba128b5c82a2c05a456075c5ce3d2&width=1200&height=630",
+      "PublishedAt": "2026-10-01T16:24:35Z",
+      "Content": "Después de ser la moneda más depreciada del mundo en septiembre, el peso arranca octubre con una pérdida superior al 1 por ciento frente al dólar. \r\nEl mercado está a la espera del dato de empleo en … [+1591 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "Maximiliano Villena",
+      "Title": "El peso chileno cierra su peor trimestre frente al dólar desde 2024: pierde $50 y la paridad avanza hacia $980",
+      "Description": "El Ipsa, por su parte, cayó 3% en septiembre y en el tercer trimestre del año reporta un retorno de apenas 1,2%, su peor desempeño desde julio-septiembre de 2024.",
+      "Url": "https://www.latercera.com/pulso/noticia/el-peso-chileno-cierra-su-peor-trimestre-frente-al-dolar-desde-2024-pierde-50-y-la-paridad-avanza-hacia-980/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/JW3BHYW5BNGZZFT7ZPBGR6KOUY.jpg?auth=7722a0a2ee8b90f8049075c23651c91b8db30a1e65ab2e1c2de63fff100799a9&height=630&width=1200&smart=true",
+      "PublishedAt": "2026-09-30T23:30:13Z",
+      "Content": "El alza del petróleo, producto del conflicto entre Irán y EE.UU., y su efecto sobre la inflación, sigue poniendo presión a los mercados financieros, y con ello a los bancos centrales y a las economía… [+5715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/62MP7FYWYRCDFLVE45UX7WLRUA.png?smart=true&auth=aa48cc188bb22a9ac36eb30f7b1fa6cc287b58a09701a024d368d3da761ec093&width=1200&height=630",
       "PublishedAt": "2026-09-08T17:12:30Z",
       "Content": "El peso mexicano se aprecia marginalmente ante el dólar en la sesión de este martes 8 de septiembre en la que la atención del mercado local estará en la entrega del Paquete Económico 2027. \r\nClaudia … [+1639 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "REDACCIÓN RÉCORD",
-      "Title": "Precio del dólar hoy 8 de septiembre: moneda mexicana cotiza por debajo de las 17 unidades",
-      "Description": "El dólar se mantiene por debajo de la barrera de los 17 pesos en México, con una cotización promedio durante las primeras operaciones de la jornada",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-8-de-septiembre-moneda-mexicana-cotiza-por-debajo-de-las-17-unidades-2026090813312901634",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17102025/94778199-4733-4543-b41b-ff229492d2ee.jpg",
-      "PublishedAt": "2026-09-08T13:31:29Z",
-      "Content": "El dólar se mantiene por debajo de la barrera de los 17 pesos en México, con una cotización promedio durante las primeras operaciones de la jornadaLa divisa estadounidense registra un ligero avance e… [+1756 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Nicolás Litvinoff",
-      "Title": "El dólar que no está en el banco: siete usos de las stablecoins y los riesgos de tenerlo",
-      "Description": "De cada 100 pesos que se operan contra criptomonedas en la Argentina, más de 94 terminan en stablecoins, esas monedas digitales atadas al valor del dólar de las cuales venimos hablando hace años desde esta columna. El dato surge de un estudio que publicó esta…",
-      "Url": "https://www.lanacion.com.ar/economia/el-dolar-que-no-esta-en-el-banco-siete-usos-de-las-stablecoins-y-los-riesgos-de-tenerlo-nid08092026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-dolar-que-no-esta-en-el-DDDJL6JROJHNVMRA2YFAUDXQLU.jpg?auth=214bb762b11050edb770629e895847bac69539bbc5d0355ca3259e8ded117c60&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-09-08T09:00:00Z",
-      "Content": "De cada 100 pesos que se operan contra criptomonedas en la Argentina, más de 94 terminan en stablecoins, esas monedas digitales atadas al valor del dólar de las cuales venimos hablando hace años desd… [+7967 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El dólar subió y el Banco Central no compró divisas para evitar un aumento mayor",
-      "Description": "Por tercera vez en lo que va del año, la entidad monetaria cerró una rueda sin intervención sobre la plaza cambiaria",
-      "Url": "https://www.lanacion.com.ar/economia/el-dolar-subio-y-el-banco-central-no-compro-divisas-para-evitar-un-aumento-mayor-nid07092026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-idea-oficial-es-que-el-dolar-se-mantenga-calmo-2EAO45ALJBAMNMGH4HW2JSRTWU.jpg?auth=8ce333bad0bdbe31adc10d5444edcc21733aa1a185d13933b319d9e395e47aca&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-09-07T20:54:41Z",
-      "Content": "El Banco Central (BCRA) hoy no sumó dólares a sus reservas por intervenciones en el mercado de cambios. De esta manera, cortó una racha compradora de 27 jornadas para evitar que el dólar mayorista, q… [+2531 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Isaac Alfie",
-      "Title": "Tipo de cambio real (TCR): el problema no es el dólar, es el gasto",
-      "Description": "Hay que bajar la relación entre gasto público y producto, y reorientar las exoneraciones fiscales hacia los sectores transables, que son quienes de verdad pueden mejorar la competitividad del país en el tiempo.",
-      "Url": "https://www.elpais.com.uy/economia-y-mercado/tipo-de-cambio-real-tcr-el-problema-no-es-el-dolar-es-el-gasto",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/85b20a5/2147483647/strip/true/crop/1250x781+0+34/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2F02%2F0b96c58a4b7c82d277d522707911%2Fimagen-para-cms-el-pais-7.jpg",
-      "PublishedAt": "2026-09-07T07:00:00Z",
-      "Content": "Haz clic en el icono de la extensión del bloqueador de anuncios instalada en tu navegador.Generalmente, se encuentra en la esquina superior derecha de la pantalla. Es posible que tengas más de un blo… [+29 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra semana al alza",
-      "Description": "El precio de la divisa aumentó en la sesión del Monex de este viernes en comparación al mismo día de la semana pasada",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/OI7WLEF25ND43GX6CG46JGGUBE/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/OODJ6EAM6RHKXOIU3XFIXC4W2I.jpg?smart=true&auth=7ad0d851aac52d9347b22f79fa7e7513f754e7ba7546955ebc8ef9402fb0626f&width=1440",
-      "PublishedAt": "2026-09-04T21:29:20Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró al alza este viernes 4 de setiembre en el Mercado de Monedas Extranjeras (Monex), respecto al mismo día de la semana anterior.\r\nEl precio del dólar… [+2259 chars]"
     }
   ]
 }
