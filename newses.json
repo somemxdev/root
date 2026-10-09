@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Actualidad-rt.com"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "\"Tenderá a fortalecerse\": Proyectan una moneda latinoamericana que cerrará 2026 por encima del dólar",
+      "Description": "Desde el BBVA hasta Bank of America valoran positivamente su rendimiento para los próximos meses.",
+      "Url": "https://actualidad-rt.com/actualidad/631417-proyectar-moneda-latinoamericana-cerrar-encima-dolar",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/article/6ac68b8a59bf5b08af4b7d29.jpg",
+      "PublishedAt": "2026-10-07T18:47:26Z",
+      "Content": "En los últimos meses del año se espera que el sol peruano se fortalezca y, por ende, que el dólar retroceda paulatinamente, según las estimaciones de importantes instituciones financieras.\r\nLa filial… [+1132 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "El peso ‘grita’ por la aversión al riesgo: Dólar regresa a las 18 unidades",
+      "Description": "El 'miedo' a que los suministros de petróleo se vean otra vez comprometidos tras un aumento en los ataques de Irán en el Estrecho de Ormuz aumentó las apuestas por el dólar como activo de refugio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XPM6RYO5TFG2VOPGNCHUQEFSBY.png?smart=true&auth=870b39666d670748b9fdfdec6ce7205d0eda9ea4b9d162e90ceee93d4c9246ff&width=1200&height=630",
+      "PublishedAt": "2026-10-07T15:24:01Z",
+      "Content": "El dólar no duró en los 18 pesos y el tipo de cambio inició al alza en la sesión de este miércoles 7 de octubre como resultado de una mayor versión al riesgo por las tensiones geopolíticas en Medio O… [+1721 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Laura Reyes Medrano",
+      "Title": "Precio del dólar hoy 7 de octubre de 2026: ¿a cuánto está el tipo de cambio en México?",
+      "Description": "El dólar estadounidense se cotiza alrededor de los 18.03 pesos mexicanos durante las primeras horas de este miércoles 7 de octubre de 2026, de acuerdo con el promedio reportado entre instituciones bancarias",
+      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-7-de-octubre-de-2026-a-cuanto-esta-el-tipo-de-cambio-en-mexico-2026100712251266015",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
+      "PublishedAt": "2026-10-07T12:25:12Z",
+      "Content": "El dólar estadounidense se cotiza alrededor de los 18.03 pesos mexicanos durante las primeras horas de este miércoles 7 de octubre de 2026, de acuerdo con el promedio reportado entre instituciones ba… [+2549 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Arthur Sullivan",
+      "Title": "Caída del euro frente al dólar despierta temores en la eurozona",
+      "Description": "El euro ha caído a su nivel más bajo de los últimos 17 meses frente al dólar. En la Unión Europea, las inquietudes políticas y la preocupación por la deuda francesa ya inquietan a los inversores. El euro ha estado cayendo frente al dólar durante gran parte de…",
+      "Url": "https://www.dw.com/es/ca%C3%ADda-del-euro-frente-al-d%C3%B3lar-despierta-temores-en-la-eurozona/a-79569594",
+      "UrlToImage": "https://static.dw.com/image/72884137_6.jpg",
+      "PublishedAt": "2026-10-06T20:12:00Z",
+      "Content": "El euro ha estado cayendo frente al dólar durante gran parte de 2026, con un descenso de alrededor del 5 por ciento desde principios de año. El cinco de octubre de 2026, alcanzó los 1,12 dólares, su … [+5895 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "El dólar ‘también flota’ en el mercado: Tipo de cambio regresa a las 17 unidades",
+      "Description": "El peso chileno y el peso mexicano son las monedas que más se aprecian ante el dólar este martes 6 de octubre, según datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/06/peso-dolar-precio-hoy-6-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W2Q5BWFY2JHPLBABEGK7WKJ5R4.png?smart=true&auth=5d514258cfc7ac40d4f99a4e444c060373f63d867923132656ef68d08841a7c8&width=1200&height=630",
+      "PublishedAt": "2026-10-06T16:49:26Z",
+      "Content": "El peso mexicanoregresó a las 17 unidades ante el dólar gracias a que se modera la aversión al riesgo que se disparó por presiones a la inflación relacionadas con la guerra en Irán. \r\nEl retroceso de… [+1701 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Mónica Cerdas Gómez",
+      "Title": "Presidente del Banco Central advierte de una ‘amenaza’ que podría presionar el precio del dólar",
+      "Description": "Diferencia entre las tasas de interés de referencia de Costa Rica y Estados Unidos actualmente es de entre 75 y 100 puntos base",
+      "Url": "https://www.nacion.com/economia/presidente-del-banco-central-advierte-de-una/J3XEEVKUSRFORI3KMJAATFJ2KU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/44M44JTGENAHBCTOJ6RNOCSEQY.JPG?smart=true&auth=72da90a68d0206fb9d4a87be53059873ef716c3bbb3d5a1b54a2321fb93d07ef&width=1440",
+      "PublishedAt": "2026-10-05T12:00:00Z",
+      "Content": "La diferencia entre las tasas de interés internas y externas se amplió en los últimos meses, existe una amenaza de que ese margen sea mayor y crezca la demanda de dólares, según Róger Madrigal, presi… [+5250 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17082026/ea39b36e-cf50-42d0-9c15-71575c6ee8cc.jpg",
       "PublishedAt": "2026-09-16T11:00:00Z",
       "Content": "El precio del dólar ronda los 17.15 pesos este miércoles 16 de septiembre; conoce el tipo de cambio de referencia publicado por Banxico.El precio del dólar estadounidense se mantiene alrededor de los… [+1524 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso celebra el Grito de Independencia: ¿Cuánto se aprecia ante el dólar HOY 15 de septiembre?",
-      "Description": "El peso mexicano inició la sesión con avances previo a que se dé a conocer la decisión de política monetaria de la Reserva Federal.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/15/peso-dolar-precio-hoy-15-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ETWOUBSB4BGAHAJH4QNV4P4L2M.png?smart=true&auth=f2ee4f32a9fb802e242f13d1d011f8301773acd80d4dbdd4f1df349171d12e03&width=1200&height=630",
-      "PublishedAt": "2026-09-15T15:50:06Z",
-      "Content": "El peso mexicano inició la sesión con avances marginales, previo a que se dé a conocer la decisión de política monetaria de la Reserva Federal.\r\nHasta el momento, los datos reportados por Bloomberg i… [+1941 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Contra todo pronóstico, tipo de cambio se resiste a cruzar los 17 pesos por dólar",
-      "Description": "La posibilidad de que la Fed suba la próxima semana su tasa de interés aumentaron tras el dato de inflación en EU de agosto, que mostró que el precio de los combustibles sigue como el principal 'dolor de cabeza' para el Banco Central.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/11/peso-dolar-precio-hoy-11-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/RNAJHSS6TJC3HPOW4YNW6DVFY4.png?smart=true&auth=89b309ab32d8968b1f50b118e6fd3efe4af9f597ad65e6105d0fb06bd6fc7ac3&width=1200&height=630",
-      "PublishedAt": "2026-09-11T16:27:54Z",
-      "Content": "El peso mexicano se aprecia marginalmente ante el dólar en la sesión de este viernes 11 de septiembre mientras el mercado analiza el dato de inflación de EU que aceleró más de lo previsto en agosto. … [+1620 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peligroso rebote para el tipo de cambio que lo acerca a los 17 pesos por dólar",
-      "Description": "Entre las monedas que más ganan ante el dólar están el rublo ruso, que avanza 1.42%.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/10/peso-dolar-precio-hoy-10-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7CZUM4HYHZALJBWBB3OAMQGKY4.png?smart=true&auth=6d6e284320eb718c00817a4e56ff5c94efa4a2f30b00d446dea53ec83fac3de8&width=1200&height=630",
-      "PublishedAt": "2026-09-10T19:38:30Z",
-      "Content": "El peso mexicano pierde ante el dólar este jueves 10 de septiembre, a medida que las expectativas se inclinan a favor un incremento en la tasa de interés de la Fed en la reunión de la próxima semana.… [+1485 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sebastián Ochoa",
-      "Title": "\"Una medida desesperada\": Banco Central de Bolivia busca vender oro para evitar que el dólar se dispare",
-      "Description": "En las últimas semanas, la cotización del dólar en Bolivia no dejó de incrementarse hasta llegar a rondar los 12,64 pesos bolivianos. El ente emisor propuso a la Asamblea modificar la ley para tener recursos con los cuales intervenir ante una eventual corrida…",
-      "Url": "https://noticiaslatam.lat/20260909/una-medida-desesperada-banco-central-de-bolivia-busca-vender-oro-para-evitar-que-el-dolar-se-1174990712.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1174990712.jpg?11415296271788985803",
-      "PublishedAt": "2026-09-09T20:30:00Z",
-      "Content": "Desde el BCB argumentaron que Bolivia es el país de la región con mayor porcentaje de reservas en oro. Compararon con Ecuador, que posee el 30%; Brasil, con el 6,1%; Perú, con el 4,6%; Chile, con el … [+29 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, en el top 10 de monedas que más ganan al dólar: Así está el tipo de cambio HOY",
-      "Description": "El rublo ruso es la moneda de mercados emergentes que mayor ganancias tiene ante el dólar este miércoles 9 de septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/09/peso-dolar-precio-hoy-9-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ZHJ4OF6TAZEEHCTY6UA2N4IRDA.png?smart=true&auth=89d99a4599d06befb9a58f1d4de66c6bda45d895faa7df9f9b0d9da923e39eb6&width=1200&height=630",
-      "PublishedAt": "2026-09-09T16:46:27Z",
-      "Content": "El peso mexicano se aprecia ante el dólar este miércoles 9 de septiembre, en una jornada en la que los operadores aún analizan el Paquete Económico 2027 que propone un aumento de la recaudación al co… [+1730 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso está ‘sereno, moreno’ antes de entrega del Paquete Económico 2027: ¿Cuánto gana al dólar?",
-      "Description": "El mercado estará atento a las proyecciones que el Gobierno haga sobre cuánto crecerá la economía en 2026 y 2027, así como a la iniciativa para pagos electrónicos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/08/peso-dolar-precio-hoy-8-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/62MP7FYWYRCDFLVE45UX7WLRUA.png?smart=true&auth=aa48cc188bb22a9ac36eb30f7b1fa6cc287b58a09701a024d368d3da761ec093&width=1200&height=630",
-      "PublishedAt": "2026-09-08T17:12:30Z",
-      "Content": "El peso mexicano se aprecia marginalmente ante el dólar en la sesión de este martes 8 de septiembre en la que la atención del mercado local estará en la entrega del Paquete Económico 2027. \r\nClaudia … [+1639 chars]"
     }
   ]
 }

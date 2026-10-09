@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar climbs ahead of Fed minutes; euro slides towards 17-month lows - Yahoo Finance",
+      "Description": "Dollar climbs ahead of Fed minutes; euro slides towards 17-month lowsYahoo Finance Dollar Nears New High of the Year as Investors Rush to SafetyBloomberg.com The bond market sell-off is helping the dollarThe Economist The Dollar Smile: What the Greenback’s Au…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=186061162",
+      "UrlToImage": null,
+      "PublishedAt": "2026-10-07T16:33:20Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Olivier Acuna",
+      "Title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "Description": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.",
+      "Url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/86b7d790e3f95b56f090e844916368abde0d47da-3300x2524.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "PublishedAt": "2026-10-06T09:02:01Z",
+      "Content": "OKX introduced a consumer app that lets eligible customers convert over 50 local currencies into dollar-backed stablecoins, earn rewards on those balances, and spend from a virtual or physical card.\r… [+893 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Liam 'Akiba' Wright",
+      "Title": "Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails",
+      "Description": "Payward's SGB Net link supports round-the-clock US-dollar funding in eligible jurisdictions, while SGB customer-trade pricing is planned for coming months.\nThe post Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails appeared firs…",
+      "Url": "https://cryptoslate.com/kraken-parent-joins-singapore-gulf-bank-opening-24-7-institutional-dollar-rails/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/payward-sgb-24-7-funding-standard.jpg",
+      "PublishedAt": "2026-10-06T00:30:28Z",
+      "Content": "Kraken's parent company, Payward, has connected to Singapore Gulf Bank's SGB Net clearing network, opening round-the-clock US-dollar funding for selected institutional clients in Asia and the Gulf.\r\n… [+2963 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Kaye Quema",
+      "Title": "Bullish exchange lists Sui Dollar stablecoin for trading",
+      "Description": "The listing of USDsui on Bullish could enhance Sui's DeFi ecosystem, attracting institutional interest and boosting blockchain activity.\nThe post Bullish exchange lists Sui Dollar stablecoin for trading appeared first on Crypto Briefing.",
+      "Url": "https://cryptobriefing.com/bullish-lists-sui-dollar-usdsui-stablecoin/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05101943/library-bullish-exchange-lists-sui-dollar-stablecoin-for-trading-800x450.png",
+      "PublishedAt": "2026-10-05T14:19:49Z",
+      "Content": "The Stripe-backed USDsui, which routes reserve yield into SUI buybacks, is now tradable on Bullish in eligible regions Sui Dollar, the native stablecoin of the Sui blockchain, is now available to tra… [+2656 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Cointelegraph by Zoltan Vardai",
+      "Title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+      "Description": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
+      "Url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+      "UrlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
+      "PublishedAt": "2026-10-05T08:56:10Z",
+      "Content": "Kraken parent company Payward has partnered with Singapore Gulf Bank (SGB) to enable 24/7 US dollar settlement for select institutional clients in Asia and the Gulf region. \r\nPayward has integrated S… [+1049 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/11/brand-new-modular-blockchain.jpg?resize=1365,800",
       "PublishedAt": "2026-09-11T09:15:29Z",
       "Content": "A major billion-dollar bank is executing a live pilot of its proprietary dollar-backed stablecoin on a public blockchain to move funds across borders.\r\nU.S. Bank, which is headquartered in Minneapoli… [+1967 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 11, 2026",
-      "Description": "The naira is trading at about ₦1,329.44 to the US dollar at the Nigerian Foreign Exchange Market (NFEM), while the dollar is quoted at around ₦1,390 in the parallel market on Friday, September 11, 2026.\nThe post Dollar to Naira exchange rate today, September …",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-11-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2021/05/BSTAJPLGL5O4PM57K2BEK3ICGU-scaled.jpg",
-      "PublishedAt": "2026-09-11T05:42:55Z",
-      "Content": "U.S. 100 dollar notes are seen at a bank in this picture illustration. REUTERS/Lee Jae-WonThe naira is trading at about 1,329.44 to the US dollar at the Nigerian Foreign Exchange Market (NFEM), while… [+1568 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Hike Bets Rise as CPI Takes Center Stage; EUR/USD and GBP/USD Key Levels to Watch",
-      "Description": "Fed hike bets rise as traders await U.S. CPI, with DXY testing 99.16 resistance while EUR/USD and GBP/USD remain under pressure.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-054013689.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/6017d4a1486d271d560686394eec22884b9fcaf8e8e5ae3a06338aaf8c5036a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F0072091435a8bd8cf7137f1179a14946.jpg",
-      "PublishedAt": "2026-09-11T05:40:13Z",
-      "Content": "Dollar Index Outlook: Dollar Firms as Fed Hike Bets Rise, While ECB Tightening Tests Euro\r\nThe US dollar begins its week with renewed fundamental support as soaring inflation and the Middle East ener… [+4890 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "New Zealand woman opens bank account in US after migration. Banks locks here $40,000 dollar",
-      "Description": "A New Zealand woman faced a harrowing experience after depositing forty thousand dollars. Her newly opened Chase bank account was locked and subsequently closed by the bank. The bank cited their right to refuse service and stated a cheque would be mailed. Oth…",
-      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/new-zealand-woman-opens-bank-account-in-us-after-migration-banks-locks-here-40000-dollar/articleshow/134010391.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-134010574,width-1200,height-630,imgsize-1310123,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-09-10T12:45:48Z",
-      "Content": "A woman from New Zealand who migrated to the United States had a harrowing experience after an American bank locked her bank account containing $40,000. The woman recently took to social media to sha… [+2535 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
-      "Description": "DXY struggles despite higher Treasury yields as traders await U.S. PPI and the ECB decision, while EUR/USD and GBP/USD hold bullish support.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-081617966.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/28b2db45df9bd16bbde9d2721dbd591eb8fb90498f8bc9a173cb76c6ebeee1f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F018cc6ae43b3ab6da28611cc5e8e1603.jpg",
-      "PublishedAt": "2026-09-10T08:16:17Z",
-      "Content": "Dollar Index Outlook: Dollar Struggles as ECB Hike Looms and Oil Shock Lifts Global Inflation Risk\r\nThe U.S. dollar remains flat amid higher treasury yields driven by soaring energy costs. With Brent… [+4857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 10, 2026",
-      "Description": "The naira opened Thursday, September 10, 2026, on a firmer footing in the Nigerian Foreign Exchange Market (NFEM), while the currency continued to trade at a weaker level in the parallel market.\nThe post Dollar to Naira exchange rate today, September 10, 2026…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-10-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-      "PublishedAt": "2026-09-10T07:00:33Z",
-      "Content": "The naira opened Thursday, September 10, 2026, on a firmer footing in the Nigerian Foreign Exchange Market (NFEM), while the currency continued to trade at a weaker level in the parallel market.\r\nAva… [+1631 chars]"
     }
   ]
 }
