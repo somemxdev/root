@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BusinessLine"
+      },
+      "Author": "Reuters",
+      "Title": "Punjab National Bank eyes debut dollar bond issue, bankers say",
+      "Description": "Punjab National Bank eyes a debut US dollar bond of at least $500 million (potentially up to $1 billion) under RBI’s discounted swap window.",
+      "Url": "https://www.thehindubusinessline.com/money-and-banking/punjab-national-bank-eyes-debut-dollar-bond-issue-bankers-say/article71562500.ece",
+      "UrlToImage": "https://bl-i.thgim.com/public/incoming/651g5z/article71562532.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000204A.jpg",
+      "PublishedAt": "2026-10-09T03:56:06Z",
+      "Content": "One of Indias largest state-run lenders, Punjab National Bank, is set to tap the US dollar-denominated debt market through a debut issue in the coming weeks under the central banks discounted swap wi… [+1627 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +379,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
       "PublishedAt": "2026-09-14T06:00:50Z",
       "Content": "The Nigerian naira opened the new week relatively stable against the United States dollar, with the official market rate remaining significantly below the parallel-market quotation.\r\nAt the Nigerian … [+1772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thoughtcatalog.com"
-      },
-      "Author": "January Nelson",
-      "Title": "Khloé Kardashian Sat Tristan Thompson Down and Asked Him Why He Kept Cheating. He Called It “A Trillion Dollar Question”",
-      "Description": "On the May 28, 2026 episode of her podcast Khloé in Wonder Land, five years after their split, Khloé Kardashian asked Tristan Thompson the question that had followed their relationship since 2016: when a man says he isn’t proud of…",
-      "Url": "https://thoughtcatalog.com/january-nelson/2026/09/khloe-kardashian-sat-tristan-thompson-down-and-asked-him-why-he-kept-cheating-he-called-it-a-trillion-dollar-question/",
-      "UrlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/khloe-kardashian-sat-tristan-thompson-down-and-asked-him-why-he-kept-cheating-he.jpg?w=1536&h=768&crop=1",
-      "PublishedAt": "2026-09-11T14:38:20Z",
-      "Content": "On the May 28, 2026 episode of her podcast Khloé in Wonder Land, five years after their split, Khloé Kardashian asked Tristan Thompson the question that had followed their relationship since 2016: wh… [+3722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Agent",
-      "Title": "America’s Sixth-Largest Bank Launches Dollar-Backed Stablecoin for Cross-Border Transfers",
-      "Description": "U.S. Bank completed a live pilot of its USBDC stablecoin on the Stellar blockchain, enabling a cross-border payment between its North American and European entities while integrating with core banking controls.\nThe post America’s Sixth-Largest Bank Launches D…",
-      "Url": "https://dailyhodl.com/2026/09/11/americas-sixth-largest-bank-launches-dollar-backed-stablecoin-for-cross-border-transfers",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/11/brand-new-modular-blockchain.jpg?resize=1365,800",
-      "PublishedAt": "2026-09-11T09:15:29Z",
-      "Content": "A major billion-dollar bank is executing a live pilot of its proprietary dollar-backed stablecoin on a public blockchain to move funds across borders.\r\nU.S. Bank, which is headquartered in Minneapoli… [+1967 chars]"
     }
   ]
 }

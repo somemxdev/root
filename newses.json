@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Ander Ahuad",
+      "Title": "Erosión del carry trade le pega al peso mexicano: Diferencial de tasas entre México y EU dispara al dólar",
+      "Description": "Impacta caída en el diferencial de tasas entre EU y México que está en mínimos.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/12/erosion-del-carry-trade-le-pega-al-peso-mexicano-diferencial-de-tasas-entre-mexico-y-eu-dispara-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TTVLC3C3OZCAPATQDQV3GYIIDQ.jpg?smart=true&auth=464ed67e9654e959a38f93f230e74e2d369e33ee527d36132a4640c9fe6d72db&width=1200&height=630",
+      "PublishedAt": "2026-10-12T09:18:14Z",
+      "Content": "El peso mexicano extendió sus pérdidas\r\n y se hundió a niveles de hace 10 meses, al mismo tiempo que ligó cinco semanas con pérdidas, ante la expectativa de un menor diferencial de tasas entre México… [+4344 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio en Costa Rica da un giro: dólar vuelve a caer y roza los ¢450",
+      "Description": "El precio de la divisa volvió a bajar tras una seguidilla de sesiones al alza a finales de setiembre e inicios de octubre",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-en-costa-rica-da-un-giro-dolar/J42FFGHC2VAP3J37JOEMCATULA/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/HPDLLRQB3JAH5MGM2LNRSVAUVU.jpg?smart=true&auth=816f97ac739168a48ffb16000631256618b0cd395f61214a8b275c2e6211552d&width=1440",
+      "PublishedAt": "2026-10-10T13:00:00Z",
+      "Content": "El tipo de cambio del dólar respecto al colón retomó su tendencia a la baja en el Mercado de Monedas Extranjeras (Monex), luego de que la divisa superara los ¢460 por primera vez en meses, durante la… [+2456 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Los pájaros’ acechan al peso: Dólar ‘vuela’ a 18.16 unidades afectado por minutas del Banxico",
+      "Description": "El nuevo repunte en los precios del petróleo es uno de los 'protagonistas' de la sesión en los mercados este 8 de octubre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LB6IE7ICKRCFHK2APDTXDBIMHA.png?smart=true&auth=6f793edef59cc669beeaa983a95e7aae8a8b3db23929f9f4cb294ea960046af8&width=1200&height=630",
+      "PublishedAt": "2026-10-08T17:41:52Z",
+      "Content": "El tipo de cambio regresa a los 18 pesos por dólar ante la volatilidad en los precios del crudo y el alza en los rendimientos de los bonos estadounidenses durante la sesión de este jueves 8 de octubr… [+1944 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay queda estable y el mercado espera por una suba de la tasa de interés del Banco Central",
+      "Description": "A través de las pantallas de la Bolsa Electrónica de Valores (Bevsa), ayer se realizaron 49 operaciones por un valor total de US$ 25,5 millones.",
+      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-queda-estable-y-el-mercado-espera-por-una-suba-de-la-tasa-de-interes-del-banco-central",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/aa780d1/2147483647/strip/true/crop/1247x779+0+48/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Ff4%2Fe98144974189bf200dbb301d4b2d%2Fimagen-stock-photo-human-hands-exchanging-money-1.jpg",
+      "PublishedAt": "2026-10-08T06:05:00Z",
+      "Content": "El dólar en Uruguay tuvo ayer una baja mínima de 0,04% y se negoció en promedio en $ 40,15. El billete verde cotizó entre $ 40,12 y $ 40,20 y finalizó en $ 40,16, apenas 0,02% por encima del cierre d… [+1521 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/EJNEZCEUQNECNH3SLJJYDMPOPM.png?smart=true&auth=564cc5fde898ed113a239ea85c39b661120d34951509711d531c3d1880dbfe02&width=1200&height=630",
       "PublishedAt": "2026-09-21T15:53:49Z",
       "Content": "El peso mexicano inicia la semana con correcciones, a medida que los operadores se preparan para conocer la decisión de política monetaria del Banco de México, más tarde esta semana.\r\nDe acuerdo con … [+1479 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso aún no se recupera del ‘golpe’ de la Fed: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "Felipe Mendoza, analista de mercados EBC Financial Group, dijo que el tipo de cambio podría cerrar esta semana en un rango de entre 17.08 y 17.28 pesos por dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/18/peso-dolar-precio-hoy-18-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/54TXIALH7NG4FABVQED5KMQPWQ.png?smart=true&auth=95e61ab9d7802bb553a5d8e23c2fc039e9ee6d1c89ed47f7c08d6d394a506ac4&width=1200&height=630",
-      "PublishedAt": "2026-09-18T16:37:06Z",
-      "Content": "La expectativa de un nuevo aumento a la tasa de la Fed antes de que termine 2026 deprecia al peso ante el dólar en la sesión de este viernes 18 de septiembre. \r\nTras una breve pausa en la venta masiv… [+1790 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diariobitcoin.com"
-      },
-      "Author": "Canuto",
-      "Title": "El dólar se dispara frente al yen tras la división del Banco de Japón",
-      "Description": "La decisión del Banco de Japón de elevar los tipos a 1,25% no logró fortalecer al yen. La división interna del organismo, las señales de la Reserva Federal y el repunte de Bitcoin cambiaron el pulso de los mercados.",
-      "Url": "https://www.diariobitcoin.com/mercados/el-dolar-se-dispara-frente-al-yen-tras-la-division-del-banco-de-japon/",
-      "UrlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/09/canuto-imagine-1789744464.jpg",
-      "PublishedAt": "2026-09-18T15:14:31Z",
-      "Content": "Por Canuto   La decisión del Banco de Japón de elevar los tipos a 1,25% no logró fortalecer al yen. La división interna del organismo, las señales de la Reserva Federal y el repunte de Bitcoin cambia… [+11229 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso necesita un ‘vuelve a la vida’ tras puente: ¿Cuánto pierde ante el dólar HOY 17 de septiembre?",
-      "Description": "Las ganancias ante el dólar son encabezadas por el rand sudafricano, que se aprecia casi 1% según datos de Bloomberg.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/17/peso-dolar-precio-hoy-17-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/AMMWOAU3ZVCVXKJTJQUSSW7KF4.png?smart=true&auth=8faee4797d36227e1b28b0e3a7ef99524ec0d41818623c0756e77467488e8f3c&width=1200&height=630",
-      "PublishedAt": "2026-09-17T16:18:46Z",
-      "Content": "El peso mexicano extiende sus pérdidas ante el dólar después de que la Reserva Federal cumplió con un témido pronóstico esperado por el mercado.\r\nLa Fed de Kevin Warsh subió la tasa de interés por pr… [+1403 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Laura Reyes Medrano",
-      "Title": "Dólar hoy 16 de septiembre: ¿a cuánto se cotiza el dólar en México?",
-      "Description": "El precio del dólar ronda los 17.15 pesos este miércoles 16 de septiembre; conoce el tipo de cambio de referencia publicado por Banxico.",
-      "Url": "https://www.record.com.mx/historia/dolar-hoy-16-de-septiembre-a-cuanto-se-cotiza-el-dolar-en-mexico-2026090813312901634",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/17082026/ea39b36e-cf50-42d0-9c15-71575c6ee8cc.jpg",
-      "PublishedAt": "2026-09-16T11:00:00Z",
-      "Content": "El precio del dólar ronda los 17.15 pesos este miércoles 16 de septiembre; conoce el tipo de cambio de referencia publicado por Banxico.El precio del dólar estadounidense se mantiene alrededor de los… [+1524 chars]"
     }
   ]
 }
