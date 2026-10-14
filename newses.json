@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Ander Ahuad",
+      "Title": "‘Día de la Raza’ empuja al peso y se recupera: ¿Cuánto gana frente al dólar HOY 12 de octubre?",
+      "Description": "El peso recupera terreno ante el dólar, esto luego de haber cerrado en su nivel máximo del año la semana pasada.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/12/peso-dolar-precio-hoy-12-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/FX7HJKOHIVBSTHEMCO72VYOO54.png?smart=true&auth=fbc07030495c6970325e321a3d9e8ae0caff89aa5ba11b38bf93fd3340b86cfe&width=1200&height=630",
+      "PublishedAt": "2026-10-12T16:46:05Z",
+      "Content": "El peso recupera terreno ante el dólar en la apertura de la jornada de este lunes 12 de octubre, esto luego de haber cerrado en su nivel máximo del año la semana pasada.\r\nEl tipo de cambio cotiza en … [+1420 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3S64RUBYDRHJBFL5CQOIJ6RLAA.png?smart=true&auth=710e76601aefd3514ad2c476b9d06057fde4f127055de935be7f1e47f34d2b13&width=1200&height=630",
       "PublishedAt": "2026-09-22T16:49:59Z",
       "Content": "El peso mexicano alargó sus pérdidas ante el dólar en la sesión de este martes 22 de septiembre ante el reforzamiento de las expectativas de otro aumento en la tasa de interés de la Fed para combatir… [+1544 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso inicia la semana ‘con el pie derecho’: ¿Cuánto le gana al dólar HOY 21 de septiembre?",
-      "Description": "El peso mexicano cotiza arriba de las 17 unidades por dólar este lunes, en las primeras operaciones.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/21/peso-dolar-tipo-de-cambio-hoy-21-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/EJNEZCEUQNECNH3SLJJYDMPOPM.png?smart=true&auth=564cc5fde898ed113a239ea85c39b661120d34951509711d531c3d1880dbfe02&width=1200&height=630",
-      "PublishedAt": "2026-09-21T15:53:49Z",
-      "Content": "El peso mexicano inicia la semana con correcciones, a medida que los operadores se preparan para conocer la decisión de política monetaria del Banco de México, más tarde esta semana.\r\nDe acuerdo con … [+1479 chars]"
     }
   ]
 }

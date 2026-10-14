@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Smriti Jain",
+      "Title": "RBI’s ‘bazooka’ sees rupee rising 1.4% versus dollar in two days, but should central bank let it fall?",
+      "Description": "One thought process is that the RBI should allow the market forces to let the rupee find its levels. Indeed the IMF recently said that India should allow the exchange rate to act as a shock absorber. Interestingly, RBI governor Sanjay Malhotra believes that t…",
+      "Url": "https://timesofindia.indiatimes.com/business/india-business/rbis-bazooka-sees-rupee-rising-1-4-versus-dollar-in-two-days-but-should-central-bank-let-it-fall/articleshow/134914850.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-134919638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "PublishedAt": "2026-10-13T13:44:53Z",
+      "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
+    },
     {
       "Source": {
         "Id": null,
