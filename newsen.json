@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Reuters",
+      "Title": "Bank deposits hit record $3 trillion, boosted by dollar deposits scheme",
+      "Description": "India's banking system deposits reached a record ₹284 trillion in September, aided by the RBI's discounted dollar swap scheme, which attracted around $133 billion in inflows.",
+      "Url": "https://www.business-standard.com/industry/banking/bank-deposits-hit-record-3-trillion-boosted-by-dollar-deposits-scheme-126101500967_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/16/thumb/fitandfill/1200X628/1765906741-3834.jpg",
+      "PublishedAt": "2026-10-15T12:22:51Z",
+      "Content": "India's banking system deposits hit a record 284 trillion ($2.99 trillion) in September, boosted by the RBI's discounted dollar swap scheme, which attracted around $133 billion in inflows | Represent… [+10 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Bank deposits hit record $3 trillion in September, boosted by dollar deposits scheme",
+      "Description": "India's banking system deposits hit a record high, reaching approximately 284 trillion rupees by September 2023. The increase was primarily driven by a discounted swap window introduced by the Reserve Bank of India. This scheme attracted around $133 billion i…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-hit-record-3-trillion-in-september-boosted-by-dollar-deposits-scheme/articleshow/134965882.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-134965879,width-1200,height-900,imgsize-325840,overlay-economictimes/articleshow.jpg",
+      "PublishedAt": "2026-10-15T11:14:34Z",
+      "Content": "MUMBAI: India's banking system deposits hit a record high of around 284 trillion rupees ($2.99 trillion) in the second half of September, central bank data showed on Thursday.Deposits rose by 21.67 t… [+1340 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -327,71 +353,6 @@
       "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
       "PublishedAt": "2026-09-16T06:06:57Z",
       "Content": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Wednesday, September 16, 2026… [+1742 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Hike Bets Lift DXY as EUR and GBP Weaken",
-      "Description": "DXY strengthens as Fed hike bets and 5% Treasury yields support the dollar, while EUR/USD and GBP/USD weaken ahead of key policy decisions.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-072505318.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/1e1f740bc8091949e3ca966694339cba4b49710586d883083ff3fa7f6fa817eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F3b6f6269fb6e871a7e7aadc90a8c43ac.jpg",
-      "PublishedAt": "2026-09-15T07:25:05Z",
-      "Content": "Dollar Index Outlook: Fed Hike Bets and 5% Treasury Yields Lift Dollar as EUR and GBP Face Policy Tests\r\nThe U.S. dollar starts the week stronger on a strengthening fundamental backdrop, with higher … [+5006 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 15, 2026",
-      "Description": "The Nigerian naira opened Tuesday, September 15, 2026, with the local currency trading at about ₦1,326.30 per dollar at the official Nigerian Foreign Exchange Market (NFEM), while the greenback was quoted at around ₦1,385 to ₦1,410 in the parallel market.\nThe…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-15-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/naira_dollar_pounds.jpg",
-      "PublishedAt": "2026-09-15T05:50:58Z",
-      "Content": "The Nigerian naira opened Tuesday, September 15, 2026, with the local currency trading at about 1,326.30 per dollar at the official Nigerian Foreign Exchange Market (NFEM), while the greenback was qu… [+1426 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": null,
-      "Title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
-      "Description": "The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
-      "Url": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Houti-Yemen-Sep-2026.jpg",
-      "PublishedAt": "2026-09-14T17:52:18Z",
-      "Content": "The Houthis rapid advance toward one of the worlds most important shipping chokepoints is putting fresh scrutiny on the sprawling financial network that has helped transform the Iran-backed group fro… [+8651 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_94e486ca-d2cb-44ca-a046-bb1b03e49290",
-      "UrlToImage": null,
-      "PublishedAt": "2026-09-14T17:52:18Z",
-      "Content": "If you click 'Accept all', we and our partners, including 252 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 14, 2026",
-      "Description": "The Nigerian naira opened the new week relatively stable against the United States dollar, with the official market rate remaining significantly below the parallel-market quotation.\nThe post Dollar to Naira exchange rate today, September 14, 2026 appeared fir…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-14-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-09-14T06:00:50Z",
-      "Content": "The Nigerian naira opened the new week relatively stable against the United States dollar, with the official market rate remaining significantly below the parallel-market quotation.\r\nAt the Nigerian … [+1772 chars]"
     }
   ]
 }

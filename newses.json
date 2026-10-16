@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Arely Sánchez",
+      "Title": "Esperan mayor depreciación del peso; ven dólar hasta en $19",
+      "Description": "El peso se deprecia frente al dólar y el tipo de cambio podría acercarse a las 19 unidades en el corto plazo, dijo Franklin Templeton.",
+      "Url": "https://www.reforma.com/esperan-mayor-depreciacion-del-peso-ven-dolar-hasta-en-19/ar3294647",
+      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/252/6251087.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
+      "PublishedAt": "2026-10-14T18:42:09Z",
+      "Content": "02 MIN 30 SEG\r\nArely Sánchez\r\nCd. de México (14 octubre 2026) .-12:40 hrs"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Agustina Parise",
+      "Title": "Actualización de la banda cambiaria: a cuánto puede llegar el dólar en noviembre sin intervención del Banco Central",
+      "Description": "A partir del dato del IPC de septiembre, la entidad ajustó los límites del margen de flotación del tipo de cambio oficial para el próximo mes; el tipo de cambio mayorista se ubica en los $1513",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/actualizacion-de-la-banda-cambiaria-a-cuanto-puede-llegar-el-dolar-en-noviembre-sin-intervencion-del-nid14102026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-banda-cambiaria-se-actualizo-para-noviembre-a-UMLSRLLSERHG7NXZIS4JRMYKMY.jpg?auth=0039c64f95e16ebf16d141e18d7387959f7c3aaec87f94832453784a51395834&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-10-14T17:55:56Z",
+      "Content": "Tras la difusión del Índice de Precios al Consumidor (IPC) de septiembre (1,9%), el Banco Central (BCRA) actualizó la banda cambiaria para noviembre, cuyo techo se acercará a los $2000.\r\nEl IPC que d… [+3758 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Inflación de EU ‘espanta’ al tipo de cambio: Peso pierde 14 centavos ante el dólar",
+      "Description": "Se prevé que el creciente costo del diésel en Estados Unidos provoque que los republicanos pierdan el control de la Cámara de Representantes en noviembre próximo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/14/peso-dolar-tipo-de-cambio-precio-hoy-14-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/N5Y3UEMGQ5DXTAYDPYVB66LZIE.png?smart=true&auth=341ac4c49a2080388ab108ccfafcdaea47fc14eedde916bed707ff90f816fb29&width=1200&height=630",
+      "PublishedAt": "2026-10-14T16:19:03Z",
+      "Content": "El peso mexicano se deprecia ante el dólar en la sesión de este miércoles 14 de octubre, mientras el mercado asimila el dato de inflación de EU en septiembre que fue más alto de lo anticipado. \r\nLos … [+1772 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
       "PublishedAt": "2026-09-23T12:38:28Z",
       "Content": "El dólar inicia la jornada con movimientos frente al peso mexicano, mientras los mercados mantienen la atención sobre el comportamiento de la moneda internacionalEl precio del dólar hoy, miércoles 23… [+1300 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Lautaro Brum",
-      "Title": "El dólar en Uruguay testea el \"piso\" de los $ 40, al tiempo que hay fuerte avidez por deuda en moneda local",
-      "Description": "El dólar volvió a operar prácticamente estable en Uruguay y se mantuvo sobre los $ 40, mientras subió levemente en Brasil y quedó sin cambios en Argentina.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-testea-el-piso-de-los-40-al-tiempo-que-hay-fuerte-avidez-por-deuda-en-moneda-local",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
-      "PublishedAt": "2026-09-23T06:05:00Z",
-      "Content": "El dólaren Uruguay cotizó prácticamente estable ayer (con unamínima bajade 0,03%) y se negoció en promedio en $ 40,052 y hubo fuerte avidez por deuda en moneda local. Este valor es el mínimo en tres … [+1971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Amanda Santillán",
-      "Title": "Consejero del Banco Central anticipa un impacto \"acotado\" en el dólar ante el alza de la tasa de interés de la Fed",
-      "Description": "“No es que es una variable que no reconozcamos que afecte el tipo de cambio. Pero en el horizonte política, el efecto debería ser más bien acotado”, señaló Kevin Cowan.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-anticipa-un-impacto-acotado-en-el-dolar-ante",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20260922/imag/foto_0000001420260922133845/55445587358_9a9004bdb4_o.jpg",
-      "PublishedAt": "2026-09-22T18:08:06Z",
-      "Content": "El consejero del Banco Central, Kevin Cowan, se refirió a la estrategia monetaria del ente rector y el impacto que podría tener sobre la economía chilena la reciente alza de la tasa de interés por pa… [+3004 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Échenle paja: Tipo de cambio alarga su caída a los 17.31 pesos por dólar",
-      "Description": "Especialistas advierten que la menor diferencia entre las tasas de interés de la Fed y el Banxico será un factor que continuará afectando al tipo de cambio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/22/peso-dolar-precio-hoy-22-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/3S64RUBYDRHJBFL5CQOIJ6RLAA.png?smart=true&auth=710e76601aefd3514ad2c476b9d06057fde4f127055de935be7f1e47f34d2b13&width=1200&height=630",
-      "PublishedAt": "2026-09-22T16:49:59Z",
-      "Content": "El peso mexicano alargó sus pérdidas ante el dólar en la sesión de este martes 22 de septiembre ante el reforzamiento de las expectativas de otro aumento en la tasa de interés de la Fed para combatir… [+1544 chars]"
     }
   ]
 }
