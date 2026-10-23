@@ -1,8 +1,138 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Cuando la ‘maldad’ del dólar acecha al peso: Se deprecia más de 1% este miércoles",
+      "Description": "Especialistas esperan que la Fed suba su tasa en 25 puntos base en la reunión de diciembre, mientras que el Banxico no tocaría su referencial en todo 2026 y 2027.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OXWZSMXPHREI5FSKZWCG5LARWM.png?smart=true&auth=13b27897bf3acb4ff7b6d0a9fead687846656847113af2bf3c377d609e30dcba&width=1200&height=630",
+      "PublishedAt": "2026-10-21T17:06:02Z",
+      "Content": "El peso mexicano se descalabra ante el dólar debido al nerviosismo del mercado por la guerra en Irán y la expectativa de aumentos a la tasa de interés de la Reserva Federal. \r\nEsos movimientos reduci… [+1840 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Fabián Tiscornia",
+      "Title": "El dólar en Uruguay en su nivel de \"equilibrio\", dice el Banco Central y descarta el \"mal llamado\" atraso cambiario",
+      "Description": "El Banco Central (BCU) incluyó en su Informe de Política Monetaria la evaluación del Tipo de Cambio Real de fundamentos, que es el dólar ajustado por inflación y fundamentos de la economía, comparado con los principales socios comerciales.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-en-su-nivel-de-equilibrio-dice-el-banco-central-y-descarta-el-mal-llamado-atraso-cambiario",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/75f9c75/2147483647/strip/true/crop/1396x873+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fdd%2F1d44317248f6943103bd2b4721f5%2Fcaptura-de-pantalla-2025-11-25-200320.png",
+      "PublishedAt": "2026-10-21T06:15:00Z",
+      "Content": "El dólar en Uruguay (ajustado por inflación y los fundamentos de la economía) estaba en su nivel de \"equilibrio\" comparado con los principales socios comerciales, según los datos del Banco Central (B… [+2680 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Melissa Hernández",
+      "Title": "El dólar en Uruguay baja, queda al borde de salir del \"piso\" de los $ 40 y hubo avidez por deuda en moneda local",
+      "Description": "El billete verde se negoció en promedio en $ 40,077 y cerró la jornada en $ 40,02, lo que significó un 0,02% más respecto al cierre del lunes.",
+      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-baja-queda-al-borde-de-salir-del-piso-de-los-40-y-hubo-avidez-por-deuda-en-moneda-local",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
+      "PublishedAt": "2026-10-21T06:00:00Z",
+      "Content": "El dólar en Uruguaybajó ayer, tras la suba del lunes, en este caso 0,12% y se negoció en promedio en $ 40,077, al borde de salir del piso de $ 40. El billete verde cotizó en la jornada entre $ 40,02 … [+1767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Pesadilla’ para el tipo de cambio al cierre de 2026: ¿En cuánto cerrará el peso frente al dólar?",
+      "Description": "Analistas consultados por Citi prevén que el dólar cierre 2026 en 18.20 pesos, mientras que para 2027 estiman que alcance las 18.60 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/20/pesadilla-para-el-tipo-de-cambio-al-cierre-de-2026-en-cuanto-cerrara-el-peso-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4HNWHQSPVJAE3KY2BTOMBMWCDM.jpeg?smart=true&auth=555bf1b259bd55dd16148ba97a8eeafe5b74ac95d0f74966515993ef381729a8&width=1200&height=630",
+      "PublishedAt": "2026-10-21T00:50:39Z",
+      "Content": "El peso mexicano enfrentará mayores presiones hacia el cierre de 2026. Los analistas consultados por Citi elevaron su pronóstico para el tipo de cambio y ahora esperan que el dólar termine el año en … [+2937 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Tipo de cambio se ‘arrastra’ por movimientos: ¿Cuánto gana el peso al dólar HOY?",
+      "Description": "La guerra en Irán continúa reduciendo el apetito por el riesgo entre los inversionistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/20/peso-dolar-tipo-de-cambio-precio-hoy-20-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TOO6GBWRMJAI5J46WTRFWFV25I.png?smart=true&auth=bb4a1ee2cdf1c8b8cfd7bc8312f075294c394592b8b34ded3912994d53960396&width=1200&height=630",
+      "PublishedAt": "2026-10-20T16:17:29Z",
+      "Content": "El peso mexicano tiene un avance marginal ante el dólar en un entorno marcado por una mayor aversión al riesgo por la guerra en Irán en la sesión de este martes 20 de octubre. \r\nEl conflicto, que cum… [+1665 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "A. Santillán y B. Pescio",
+      "Title": "¿Impacto del alza del dólar? Mercado se abre a la posibilidad de que el Banco Central suba la tasa este año",
+      "Description": "Gemines advierte que el tipo de cambio real está desalineado con sus fundamentos y el ente rector debe considerarlo.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/impacto-del-alza-del-dolar-mercado-se-abre-a-la-posibilidad-de-que-el",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20261019/imag/foto_0000000920261019195002.jpg",
+      "PublishedAt": "2026-10-19T22:52:37Z",
+      "Content": "A una semana de que se conozca una nueva decisión de Tasa de Política Monetaria (TPM) por parte del Banco Central, las proyecciones del mercado siguen esperando una mantención en el nivel actual de 4… [+4229 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "‘Los otros’ eran los fantasmas: Peso ‘asusta’ al dólar y gana 8 centavos",
+      "Description": "Esta semana estará dominada por los datos locales, prevé Felipe Mendoza, analista de mercados en EBC Financial Group, esto en referencia a la publicación de la inflación de la primera quincena de octubre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/19/peso-dolar-tipo-de-cambio-precio-hoy-19-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GG57Q6GBXFEFXIFGVYNKK7OZBQ.png?smart=true&auth=77e799917fa7448752de8287b1e731e566b2b6a71946c4b739f35bb581ce96c5&width=1200&height=630",
+      "PublishedAt": "2026-10-19T17:10:31Z",
+      "Content": "El peso mexicano se aprecia ante el dólar en la sesión de este lunes 19 de octubre, mientras el mercado local está a la espera de la publicación de más datos económicos. \r\nEsta semana se publican el … [+1648 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "El Banco Central volvió a comprar a pesar de que el dólar estuvo más demandado",
+      "Description": "Adquirió US$68 millones y sumó el mayor saldo semanal en tres meses; fue pese a que el billete subió $5, lo que confirmaría que busca sumar dólares para abastecer al Tesoro",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-volvio-a-comprar-a-pesar-de-que-el-dolar-estuvo-mas-demandado-nid16102026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/banco-central-de-la-republica-WNFHIWBYJRG4LI7XHUGHDEN42A.jpg?auth=41351aafb856a02d22211731c9e4cde0c3e8e54e9720f7539226c12204dbb4af&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-10-16T20:29:55Z",
+      "Content": "El Banco Central (BCRA) compró hoy otros US$68 millones para sus reservas, que se consolidaron por encima de los US$50.000 millones. Más precisamente, quedaron en US$50.236 millones, su nivel más alt… [+3610 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso tiene ‘miedo de abrir los ojos’ en el ‘bosque’ del dólar: ¿Cuánto pierde HOY?",
+      "Description": "En ventanillas bancarias, el dólar está a punto de cruzar el techo de los 19 pesos, según datos del banco Banamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/16/peso-dolar-precio-hoy-16-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ASZPGCPNVRHYHH5P66PGHZOKLQ.png?smart=true&auth=6de9b4b3753c6790e22046ff003a0b44128db047dc8f33925d33cc9550139ed8&width=1200&height=630",
+      "PublishedAt": "2026-10-16T16:10:07Z",
+      "Content": "El tipo de cambio reaccionó al alza este viernes 16 de octubre, mientras el mercado reacciona a las declaraciones de Kevin Warsh, presidente de la Fed, en la reunión anual del Fondo Monetario Interna… [+1762 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso sale de su ‘Miseria’ ante el dólar: ¿Cuánto baja el tipo de cambio HOY?",
+      "Description": "El peso venía de constantes jornadas de depreciación ante el dólar por la perspectiva de que la Reserva Federal subirá su tasa de interés a finales de este mes.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/15/peso-dolar-precio-hoy-15-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PZFWINBPXVEYNNZO3Z442QIPD4.png?smart=true&auth=74145140dd9aa20aab1c4bcca2575cd73395d14d2c4fedfdfd64f369d06b39aa&width=1200&height=630",
+      "PublishedAt": "2026-10-15T16:39:26Z",
+      "Content": "El peso mexicano gana al dólar en la sesión de este jueves 15 de octubre, después de uan semana en la que se vio presionado por el reforzamiento de que la posibilidad de que la Reserva Federal suba s… [+1845 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -262,136 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SKNCDNYBM5CE7EU5HD4PRKDVG4.png?smart=true&auth=f1fe9d277bdce236857ffb987f16c4156d32b19c5b464381c332a1cb036678d9&width=1200&height=630",
       "PublishedAt": "2026-09-30T18:04:51Z",
       "Content": "El desplome del peso mexicano provocó que analistas recortaran sus pronósticos de fin de año, después de que la moneda tuvo un desempeño inferior al de todas las demás divisas principales durante sep… [+3413 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar suma tres sesiones seguidas al alza y se acerca a ¢460",
-      "Description": "El precio del dólar repuntó luego de alcanzar un mínimo histórico el pasado 17 de setiembre",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-suma-tres-sesiones/DLYW2JLFKFAIVCE6VXFESB533E/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/67RRXL2UOJAURNJUJEH2PCZGTU.jpg?smart=true&auth=b966cfdc5e8dcb2e71486876bd601e389e5c5821cc7400373a8c6e42106a252f&width=1440",
-      "PublishedAt": "2026-09-29T22:28:39Z",
-      "Content": "El tipo de cambio del dólar respecto al colón sumó tres sesiones consecutivas al alza en el Mercado de Monedas Extranjeras (Monex), lo cual permitió que la divisa se acerque a los ¢460. \r\nEl precio d… [+1817 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Tipo de cambio rebasa los 18 pesos por dólar: ¿Cuáles son los beneficios de la caída del peso?",
-      "Description": "El dólar se vende en 18.52 pesos en ventanillas bancarias, informó el banco Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/29/peso-dolar-precio-hoy-29-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/5RM63AN7PNEPJF3CLG5RK6PSWM.png?smart=true&auth=5a7b2f6389e0ca49bce7386c1c8795ea1d9f8e91303e2ff65139fe9c46ba9c77&width=1200&height=630",
-      "PublishedAt": "2026-09-29T17:08:57Z",
-      "Content": "Un menor atractivo en las operaciones de carry trade, sumado a la aversión al riesgo a nivel global y la posibilidad de que el diferencial de tasas entre México y Estados Unidos se reduzca, llevó al … [+1502 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "La dolarización que no fue: dónde avanzó el dólar y en qué lugares sigue mandando el peso",
-      "Description": "En los últimos tres años hubo un marcado avance del bimonetarismo en el sector bancario, pero no se instaló en las operaciones diarias",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/la-dolarizacion-que-no-fue-donde-avanzo-el-dolar-y-en-que-lugares-sigue-mandando-el-peso-nid28092026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/como-fue-la-economia-bimonetaria-de-WARK575MLNHL7EVKKUY7RO6ZQY.jpg?auth=9f3688c49ba91ef055bc47b30459ccd39a5d898306dd6fa5f644fd159677f5bd&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-09-28T13:54:34Z",
-      "Content": "Durante la campaña electoral de las presidenciales de 2023, Javier Milei describió que el peso no podría valer ni excremento y prometía la dolarización de la economía como la vía de solución a la emi… [+5181 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar sube casi ¢7 en una semana y alcanza su valor más alto en meses",
-      "Description": "El precio del dólar repuntó esta semana luego de alcanzar un mínimo histórico el pasado 17 de setiembre",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-sube-casi-7-en-una-semana/UKVM7GM5MNHV5AJGFAVEWYXM7I/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/ENSOU2ZVBNCN7FJLSFMD6BQXDE.jpg?smart=true&auth=6e6e4bd77c5df90405b284b7c36bea69e8d3877e5e5ecfbe62c7970433c86a6b&width=1440",
-      "PublishedAt": "2026-09-26T12:00:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón subió casi ¢7 esta semana en el Mercado de Monedas Extranjeras (Monex), lo que permitió que la divisa alcanzara su cotización más alta desde finales de j… [+2536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Sorry, peso: Dólar tiene su mejor semana desde marzo",
-      "Description": "El índice Bloomberg Dollar Spot ha ganado cerca de 2 por ciento en las últimas dos semanas, siendo su nivel más alto desde julio pasado.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/09/25/sorry-peso-dolar-tiene-su-mejor-semana-desde-marzo/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GOK5ZQZLXJFBNBWY7SENM4SOOM.jpg?smart=true&auth=b6e1942fe751c65ff0e236ce2ac980b6c5de8715780a9c1bf6401772ff8d4b39&width=1200&height=630",
-      "PublishedAt": "2026-09-26T04:01:50Z",
-      "Content": "El dólar cerró su mejor racha de dos semanas en seis meses, un fuerte repunte que, según los estrategas de Wall Street, podría mantener el respaldo de la divisa hasta fin de año.\r\nMorgan Stanley ha a… [+4318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso por fin ‘respira’ ante el dólar: ¿Cuánto baja el tipo de cambio HOY 25 de septiembre?",
-      "Description": "En la jornada anterior, el Banxico dejó su tasa de interés sin cambios y aclaró que los movimientos que haga no tienen que 'copiar' a los de la Fed.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/25/peso-dolar-precio-hoy-25-de-septiembre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CUDOVG6RXZAALMNUO4ZG7EHZLI.png?smart=true&auth=09ea5292812e01fd76bf3176da5769f34512bccd95866d507a3480e325cc300a&width=1200&height=630",
-      "PublishedAt": "2026-09-25T16:37:54Z",
-      "Content": "El peso mexicano se recupera ante el dólar este viernes 25 de septiembre tras una semana en la que el tipo de cambio acumula un pérdida superior a los 40 centavos.\r\nEl diferencial de tasas, uno de lo… [+1435 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso registra su peor jornada en 6 meses y alcanza 17.5 unidades por dólar",
-      "Description": "Rendimiento de los bonos del Tesoro de EU suben a niveles de 2007, lo que afecta al peso.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/09/24/peso-registra-su-peor-jornada-en-6-meses-y-alcanza-175-unidades-por-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LFQPS7H4LRB5BAOBRLQZYCO3PI.jpeg?smart=true&auth=109d658c20e176531a986057588d2d46fe5f4e6db3072e8fe1d659030313f7af&width=1200&height=630",
-      "PublishedAt": "2026-09-24T09:22:20Z",
-      "Content": "Una aversión al riesgo más marcada en los mercados financieros globales, sumado a la narrativa de que el diferencial de tasas entre México y Estados Unidos\r\n podría seguir reduciéndose, así como la f… [+3885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay continúa en modo \"planchado\" y el interbancario apenas se sostiene en el \"piso\" de $ 40",
-      "Description": "El billete verde se negoció en promedio en $ 40,049 y cerró la jornada en $ 40,12. El valor de cierre subió 0,2% respecto al del martes.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-continua-en-modo-planchado-y-el-interbancario-apenas-se-sostiene-en-el-piso-de-40",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
-      "PublishedAt": "2026-09-24T06:05:00Z",
-      "Content": "El dólar en Uruguayvolvió a quedar prácticamente estable ayer (tuvo una mínima baja de 0,01%) y se negoció en promedio en $ 40,049. En la jornada el billete verde cotizó entre $ 39,99 y $ 40,15 para … [+1326 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿Qué es el diferencial de tasas y por qué hizo que el peso ‘metiera reversa’ ante el dólar?",
-      "Description": "La diferencia entre la tasa de la Fed y la del Banxico disminuye el atractivo de las operaciones de carry trade. Te explicamos.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/09/23/que-es-el-diferencial-de-tasas-y-por-que-hizo-que-el-peso-metiera-reversa-ante-el-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W4SQHFUC7RES7P2P5CNQ4UXPLQ.jpeg?smart=true&auth=bc2440173a896d74306df2751587c1ad40727cd7a26c211ce995a37d8de5945e&width=1200&height=630",
-      "PublishedAt": "2026-09-24T00:53:28Z",
-      "Content": "El peso mexicano perdió terreno ante el dólar estadounidense al cierre de la sesión de este miércoles, ante una mayor aversión al riesgo y ante las expectativas de que el diferencial detasas de inter… [+2813 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Geovanni Rodríguez Catarino",
-      "Title": "Precio del dólar hoy 23 de septiembre: así cotiza el peso mexicano",
-      "Description": "El dólar inicia la jornada con movimientos frente al peso mexicano, mientras los mercados mantienen la atención sobre el comportamiento de la moneda internacional",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-23-de-septiembre-asi-cotiza-el-peso-mexicano-2026092312382896636",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
-      "PublishedAt": "2026-09-23T12:38:28Z",
-      "Content": "El dólar inicia la jornada con movimientos frente al peso mexicano, mientras los mercados mantienen la atención sobre el comportamiento de la moneda internacionalEl precio del dólar hoy, miércoles 23… [+1300 chars]"
     }
   ]
 }

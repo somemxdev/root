@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 20,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dailymail.com"
+      },
+      "Author": "Victor Heller",
+      "Title": "Furious luxury homeowners whose million-dollar properties are being swallowed into the California sea slam Democrat mayor for failing to fix major problems: 'He doesn't give a damn'",
+      "Description": "Ocean Boulevard on the Long Beach peninsula used to be a beloved strip famed for million dollar homes and a picture-perfect beachfront.",
+      "Url": "https://www.dailymail.com/news/article-16199411/California-homeowners-properties-Rachel-Democrat-mayor.html",
+      "UrlToImage": "https://i.dailymail.com/1s/2026/10/16/17/111910355-0-image-m-6_1792168402174.jpg",
+      "PublishedAt": "2026-10-17T14:35:20Z",
+      "Content": "Furious homeowners living on a stunning stretch of California coastline have slammed their mayor as their properties are being swallowed into the sea by monster waves. \r\nOcean Boulevard on the Long B… [+7046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Antaranews.com"
+      },
+      "Author": "Rizka, Kenzu",
+      "Title": "Bank Indonesia vows intervention as rupiah hits 18,000 per US dollar",
+      "Description": "Bank Indonesia will maintain a continuous presence in financial markets to stabilize the rupiah amid global risk-off sentiment after the currency breached the ...",
+      "Url": "https://en.antaranews.com/news/435909/bank-indonesia-vows-intervention-as-rupiah-hits-18000-per-us-dollar",
+      "UrlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/09/07/pasokan-uang-rupiah-beredar-tumbuh-positif-juli-2026-2858865.jpg",
+      "PublishedAt": "2026-10-16T08:23:22Z",
+      "Content": "Jakarta (ANTARA) - Bank Indonesia will maintain a continuous presence in financial markets to stabilize the rupiah amid global risk-off sentiment after the currency breached the 18,000 mark against t… [+2108 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -236,123 +262,6 @@
       "UrlToImage": "https://dailypost.ng/wp-content/uploads/2026/01/Naira.jpg",
       "PublishedAt": "2026-09-23T21:06:47Z",
       "Content": "The naira recorded a depreciation against the dollar at the official foreign exchange market on Wednesday.\r\nThe naira weakened on Wednesday to N1,328.50 per dollar from N1,327.78 exchanged on Tuesday… [+562 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Rate Path Supports Dollar as EUR/USD and GBP/USD Diverge",
-      "Description": "DXY remains supported by Fed tightening expectations as it targets 100.53, while EUR/USD stays pressured and GBP/USD attempts to stabilize.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-064320722.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/3ab2d09aba39b7ce849bc02ad2caada99e6cceba25d71e8c7a6b3fa0055e1784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F2c414d93e15ef946ba0844155c0916b3.jpg",
-      "PublishedAt": "2026-09-22T06:43:20Z",
-      "Content": "Dollar Index Outlook: Fed Hike Bets Support Dollar as EUR and GBP Face Diverging Policy Paths\r\nThe Federal Reserve's hawkish stance on inflation has strengthened the U.S. dollar on Monday as investor… [+5351 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Hawkish Fed Supports DXY as EUR and GBP Struggle",
-      "Description": "DXY remains supported by hawkish Fed expectations as EUR/USD and GBP/USD struggle below key resistance levels amid softer European policy outlooks.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-hawkish-081536540.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/19e1f46c3d1a1a0c1ac02d13f1f794cd37371d2f0563ae3ef1684cf8d328e268/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F25b4c751b64ca3510792d5765d5f8053.jpg",
-      "PublishedAt": "2026-09-21T08:15:36Z",
-      "Content": "Dollar Index Outlook: Hawkish Fed Supports Dollar as EUR and GBP Face Softer Policy Paths\r\nThe U.S. dollar is expected to appreciate in the near-term due to expectations the Federal Reserve will impl… [+4805 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Maitreyee Thakkar",
-      "Title": "Quote of the day by Steve Martin: ‘If you've got a dollar and you spend 29 cents on a loaf of bread…’ – American comedian on money, perspective and the absurdity of wealth",
-      "Description": "Steve Martin's insightful bread quote reflects the nuances of financial security and how it alters one's perception of value. Spending twenty-nine cents on bread can feel substantial in contrast to a more lavish expense of seventeen thousand dollars. This cle…",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-steve-martin-if-youve-got-a-dollar-and-you-spend-29-cents-on-a-loaf-of-bread-american-comedian-on-money-perspective-and-the-absurdity-of-wealth/articleshow/134369004.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-134369229,width-1200,height-630,imgsize-72876,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-09-20T13:14:06Z",
-      "Content": "What does a loaf of bread have to do with wealth? On the surface, almost nothing. But Steve Martin once turned an everyday purchase into an unexpectedly sharp observation about money, scarcity and th… [+3167 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: DXY Holds Above 100 as EUR and GBP Face Policy Tests",
-      "Description": "DXY remains supported by Fed tightening as the BoE turns more hawkish and the ECB urges patience, with EUR/USD and GBP/USD testing key levels.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063047247.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/ee414e0d503af10d2c33883dbc2fb1c16ec760e274b8357e85b19cffe85fde3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fe35c111361ace4313cf9e7392ec591b6.jpg",
-      "PublishedAt": "2026-09-18T06:30:47Z",
-      "Content": "Dollar Index Outlook: Fed Tightening Supports Dollar as BoE Turns Hawkish and ECB Urges Patience\r\nThis Friday's Dollar Index looks strong due to several central bank policies. First, the Fed raised i… [+4835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 18, 2026",
-      "Description": "The Nigerian naira weakened against the United States dollar on Friday, September 18, 2026, across both the Nigerian Foreign Exchange Market (NFEM) and the parallel market.\nThe post Dollar to Naira exchange rate today, September 18, 2026 appeared first on Van…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-18-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-      "PublishedAt": "2026-09-18T06:02:18Z",
-      "Content": "The Nigerian naira weakened against the United States dollar on Friday, September 18, 2026, across both the Nigerian Foreign Exchange Market (NFEM) and the parallel market.\r\nIn the official market, t… [+1469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
-      "Description": "DXY strengthens after the Fed signals further tightening, while EUR/USD remains pressured and GBP/USD awaits the Bank of England policy decision.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dollar-081747889.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/79484bbd449b62a675b13e9587232564d3d5806b8776ed60a2e85c950e64aa2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F97d600ffde2a0b3a5b5c0ad12ca1c12d.jpg",
-      "PublishedAt": "2026-09-17T08:17:47Z",
-      "Content": "Dollar Index Outlook: Hawkish Fed Lifts Dollar as EUR and GBP Face Diverging Rate Paths\r\nThe U.S. dollar is currently benefiting from various bullish fundamentals following Wednesday's Fed Meeting. T… [+5124 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 17, 2026",
-      "Description": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Thursday, September 17, 2026.\nThe post Dollar to Naira exchange rate today, September 17,…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-17-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2019/03/dollars.gif",
-      "PublishedAt": "2026-09-17T06:04:00Z",
-      "Content": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Thursday, September 17, 2026.… [+2068 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Arslan Ali Butt",
-      "Title": "US Dollar Price Forecast: Fed Rate Path in Focus as EUR and GBP Stay Under Pressure",
-      "Description": "DXY holds bullish support ahead of the Fed decision as traders focus on Warsh’s rate guidance, while EUR/USD and GBP/USD remain pressured.",
-      "Url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-083232199.html",
-      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/77b0f7b124fefdba329c00c9e596fc3f64802cb3f1736114cffe3d1401d5b674/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F89031a9fc1eb4a96ab54a9404439423f.jpg",
-      "PublishedAt": "2026-09-16T08:32:32Z",
-      "Content": "Dollar Index Outlook: Fed Rate Hike Looms as EUR and GBP Face Diverging Policy Paths\r\nThe USD faces its first interest-rate decision post-COVID on Wednesday with the market pricing in an expected 25 … [+4934 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanguard"
-      },
-      "Author": "Henry Oduah",
-      "Title": "Dollar to Naira exchange rate today, September 16, 2026",
-      "Description": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Wednesday, September 16, 2026.\nThe post Dollar to Naira exchange rate today, September 16…",
-      "Url": "https://www.vanguardngr.com/2026/09/dollar-to-naira-exchange-rate-today-september-16-2026/",
-      "UrlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-      "PublishedAt": "2026-09-16T06:06:57Z",
-      "Content": "The Nigerian naira is trading at different levels against the United States dollar across the official Nigerian Foreign Exchange Market (NFEM) and the parallel market on Wednesday, September 16, 2026… [+1742 chars]"
     }
   ]
 }
