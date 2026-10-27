@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar cierra semana al alza",
+      "Description": "A pesar de la subida, el precio de la divisa se mantiene por debajo de ¢455",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/X25PKSSVCFCOBKAM2NWAXOQL5Q/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/JE2KD6KQ5VBS5HYNKWLG2VEGB4.jpg?smart=true&auth=6d5ebe44d6743c00a1f82ef36c33d8ff0f69d823086e28f4753fe032554b035e&width=1440",
+      "PublishedAt": "2026-10-23T19:40:24Z",
+      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana al alza en el Mercado de Monedas Extranjeras (Monex) con respecto a la semana anterior; sin embargo, se mantiene por debajo de los ¢455… [+1271 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘resiente’ dato de inflación en México: ¿Cuánto pierde ante el dólar HOY?",
+      "Description": "El dato de inflación fue mayor de lo esperado y aumenta la posibilidad de que el Banxico no recorte su tasa de interés en futuras reuniones.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/22/peso-dolar-tipo-de-cambio-precio-hoy-22-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DU3NY3OPQRDTHKLDY5T53DGUIQ.png?smart=true&auth=712f4785b6bc5f7ccfb06d7ef7f03e1c4cc5ccc884a6efef99fcbba0eab4591e&width=1200&height=630",
+      "PublishedAt": "2026-10-22T17:33:33Z",
+      "Content": "El peso mexicano se deprecia levemente ante el dólar en la sesión de este jueves 22 de octubre, derivado de una mayor aversión al riesgo global por el incremento de las tensiones en la guerra de EU c… [+1422 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2BSDRWE5ANGP7CCU34AZWDVPRE.png?smart=true&auth=8bc669657f1bc53814889f07b2efd823172ba128b5c82a2c05a456075c5ce3d2&width=1200&height=630",
       "PublishedAt": "2026-10-01T16:24:35Z",
       "Content": "Después de ser la moneda más depreciada del mundo en septiembre, el peso arranca octubre con una pérdida superior al 1 por ciento frente al dólar. \r\nEl mercado está a la espera del dato de empleo en … [+1591 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latercera.com"
-      },
-      "Author": "Maximiliano Villena",
-      "Title": "El peso chileno cierra su peor trimestre frente al dólar desde 2024: pierde $50 y la paridad avanza hacia $980",
-      "Description": "El Ipsa, por su parte, cayó 3% en septiembre y en el tercer trimestre del año reporta un retorno de apenas 1,2%, su peor desempeño desde julio-septiembre de 2024.",
-      "Url": "https://www.latercera.com/pulso/noticia/el-peso-chileno-cierra-su-peor-trimestre-frente-al-dolar-desde-2024-pierde-50-y-la-paridad-avanza-hacia-980/",
-      "UrlToImage": "https://www.latercera.com/resizer/v2/JW3BHYW5BNGZZFT7ZPBGR6KOUY.jpg?auth=7722a0a2ee8b90f8049075c23651c91b8db30a1e65ab2e1c2de63fff100799a9&height=630&width=1200&smart=true",
-      "PublishedAt": "2026-09-30T23:30:13Z",
-      "Content": "El alza del petróleo, producto del conflicto entre Irán y EE.UU., y su efecto sobre la inflación, sigue poniendo presión a los mercados financieros, y con ello a los bancos centrales y a las economía… [+5715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Kelsey Butler",
-      "Title": "Dólar ‘arrastra por el suelo’ al peso en septiembre: Es la moneda más depreciada del mundo",
-      "Description": "Las 'penurias' para el peso iniciaron con la decisión de la Fed de subir su tasa de interés. Días después, el Banxico dejó sin cambios la suya y eso redujo el diferencial de tasas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/09/30/peso-es-la-moneda-mas-depreciada-del-mundo-que-provoco-su-caida/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/SKNCDNYBM5CE7EU5HD4PRKDVG4.png?smart=true&auth=f1fe9d277bdce236857ffb987f16c4156d32b19c5b464381c332a1cb036678d9&width=1200&height=630",
-      "PublishedAt": "2026-09-30T18:04:51Z",
-      "Content": "El desplome del peso mexicano provocó que analistas recortaran sus pronósticos de fin de año, después de que la moneda tuvo un desempeño inferior al de todas las demás divisas principales durante sep… [+3413 chars]"
     }
   ]
 }
