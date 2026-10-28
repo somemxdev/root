@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 19,
+  "TotalResults": 21,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play",
+      "Description": "LONDON Oct 27 : The dollar nudged higher on the euro, yen and pound on Tuesday, as traders braced for a barrage of major central bank meetings that will shape the interest rate outlook, as well as key corporate earnings that could ripple through all asset cla…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-firms-ahead-central-bank-meetings-steadier-stocks-stall-safe-haven-play-6495086",
+      "UrlToImage": "https://dam.mediacorp.sg/image/upload/s--lSlz8Pnj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T045754Z_3_LYNXNPEM9Q054_RTROPTP_3_JAPAN-ECONOMY-YEN.JPG?itok=4-9CguXQ",
+      "PublishedAt": "2026-10-27T09:06:55Z",
+      "Content": "LONDON Oct 27 : The dollar nudged higher on the euro, yen and pound on Tuesday, as traders braced for a barrage of major central bank meetings that will shape the interest rate outlook, as well as ke… [+2725 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dailymail.com"
+      },
+      "Author": "Monique Friedlander",
+      "Title": "A court battle for family money, a multimillion-dollar art fraud and a slew of glamorous exes: Inside the mega-rich family of Olivia Jade's new Aussie hunk boyfriend as she debuts her romance with the coffee heir",
+      "Description": "Australian art trader Paul-Charles 'PC' Valmorbida has found himself at the centre of two very different headlines.",
+      "Url": "https://www.dailymail.com/tvshowbiz/article-16241169/paul-charles-valmorbida-olivia-jade-romance-lori-loughlin.html",
+      "UrlToImage": "https://i.dailymail.com/1s/2026/10/27/03/112110995-0-image-m-21_1793071162182.jpg",
+      "PublishedAt": "2026-10-27T06:08:59Z",
+      "Content": "Australian art trader Paul-Charles 'PC' Valmorbida has found himself at the centre of two very different headlines. \r\nThe wealthy heir came into the spotlight this week after debuting his new romance… [+5960 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
+      "Description": "Yen vs Dollar : The Japanese yen fell against the US dollar as market sentiment shifted towards risk-taking. Major banks, including the Bank of Japan, are expected to announce monetary policy decisions this week. A rise in Japan's service-sector inflation sug…",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-slips-ahead-of-central-bank-bonanza-dollar-firms-on-tech-rebound/articleshow/135222721.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-135222727,width-1200,height-900,imgsize-141670,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-10-27T02:15:58Z",
+      "Content": "The Japanese yen eased against the US dollar on Tuesday, further eroding last week's safe-haven gains, underpinned by a risk-on mood and a weaker euro ahead of key central bank meetings this week tha… [+3176 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -236,19 +275,6 @@
       "UrlToImage": "https://bl-i.thgim.com/public/incoming/7ci3kx/article71523403.ece/alternates/LANDSCAPE_1200/BL29Shapoorji-Pallonji",
       "PublishedAt": "2026-09-29T10:11:15Z",
       "Content": "An unit of India's Shapoorji\r\nPallonji Group, Mercury Finance, is raising $125 million through\r\nthe reissue of a U.S. dollar bond maturing in nearly three\r\nyears, three sources aware of the matter sa… [+1655 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Piyush Shukla",
-      "Title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom",
-      "Description": "Bond investors are actively hedging against Oracle. The cost to insure the software company's debt reached a record high this week. Its 6.7% bonds maturing in 2056 crossed an 8% yield for the first time. It sits half a percentage point higher than the average…",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/why-is-oracles-debt-suddenly-flashing-warning-signs-its-8-bond-yield-raises-a-bigger-question-about-who-will-finance-the-trillion-dollar-ai-data-center-boom/articleshow/134507749.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-134507933,width-1200,height-630,imgsize-39118,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-09-26T18:32:08Z",
-      "Content": "Oracles credit market is sending a signal that is harder to ignore. On Thursday, the cost of insuring Oracles debt through credit default swaps reached a record high. At the same time, the yield on t… [+3697 chars]"
     }
   ]
 }

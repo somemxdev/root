@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘exorciza’ las pérdidas ante el dólar: ¿Cuánto gana este lunes 26 de octubre?",
+      "Description": "Pocas monedas se aprecian hoy ante el dólar. Junto con el peso, las únicas que ganan terreno son el shekel israelí y el rublo ruso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/26/peso-dolar-tipo-de-cambio-precio-hoy-26-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IK22IBT5V5GBRDFNL7VQT4BHY4.png?smart=true&auth=9e2b52f89ddf3ecac6cbed0da453feac409da229da60a8c8a2fc3f11f062ce67&width=1200&height=630",
+      "PublishedAt": "2026-10-26T18:29:59Z",
+      "Content": "El peso mexicano inicia la última semana de octubre con ganancias ante el dólar, mientras que en mercados internacionales la reeleción de Lula da Silva tiró la Bolsa de Brasil.\r\nLa Bolsa de Sao Paulo… [+1649 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/O2SDMKYB65DTHOCFOMTAJEBRQA.jpg?smart=true&auth=1d0c6acb13ad00c7e96d05afce59f0b2cee9a6b4044a0b14f5938481fc2eb618&width=1200&height=630",
       "PublishedAt": "2026-10-01T21:33:08Z",
       "Content": "México cuenta con recursos petroleros, infraestructura y experiencia para atraer nuevas inversiones; sin embargo, cada dólar destinado al desarrollo de proyectos en el país compite con oportunidades … [+3303 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘El conjuro’ del dólar: Peso arranca octubre con caída ‘infernal’ de 1.58%",
-      "Description": "El peso perdió 107 centavos ante el dólar en septiembre, e inicia octubre con una caída de casi 30 centavos, según datos de Bloomberg.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/01/peso-dolar-precio-hoy-1-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/2BSDRWE5ANGP7CCU34AZWDVPRE.png?smart=true&auth=8bc669657f1bc53814889f07b2efd823172ba128b5c82a2c05a456075c5ce3d2&width=1200&height=630",
-      "PublishedAt": "2026-10-01T16:24:35Z",
-      "Content": "Después de ser la moneda más depreciada del mundo en septiembre, el peso arranca octubre con una pérdida superior al 1 por ciento frente al dólar. \r\nEl mercado está a la espera del dato de empleo en … [+1591 chars]"
     }
   ]
 }
