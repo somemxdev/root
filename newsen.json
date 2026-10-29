@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": "Chloe Taylor",
+      "Title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+      "Description": "The currency has lost almost 5% against the U.S. dollar in six months.",
+      "Url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/108474407-1793191905277-gettyimages-957398898-100046715.jpeg?v=1793191936&w=1920&h=1080",
+      "PublishedAt": "2026-10-28T12:36:06Z",
+      "Content": "The New Zealand dollar fell sharply on Wednesday, as markets reacted to an unanticipated interest rate decision from the country's central bank.\r\nBy 8 a.m. ET, the currency was down 1.3% intraday aga… [+3023 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",

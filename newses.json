@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latercera.com"
+      },
+      "Author": "Emiliano Carrizo",
+      "Title": "El dólar extiende su caída luego de la señal del Banco Central sobre la tasa de interés y se aleja de los $1.000",
+      "Description": "La moneda de Estados Unidos en Chile buscaba anotar tres jornadas consecutivas a la baja.",
+      "Url": "https://www.latercera.com/pulso/noticia/el-valor-del-dolar-en-chile-el-28-de-octubre-de-2026/",
+      "UrlToImage": "https://www.latercera.com/resizer/v2/NFUJ7WAVQJEMNEYSTRRXUVGSCM.jpg?auth=b0930c653749467820f9f95b292fc2a286b142cc7bd549ab2b047390642ddbf0&height=630&width=1200&smart=true",
+      "PublishedAt": "2026-10-28T12:36:18Z",
+      "Content": "El dólar comenzó la semana casi tocando los $1.000 y en nuevos máximos de más de un año. Sin embargo, con el correr de los días, el tipo de cambio en Chile revirtió su tendencia. \r\nAl inicio de la jo… [+1977 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre a la baja y pierde los $ 980 tras mensaje del Banco Central que aumenta expectativa en el mercado de una posible alza de tasas",
+      "Description": "Las tasas swap nominales veían saltos de hasta 7,5 puntos, mientras los operadores descuentan por completo que a más tardar en enero de 2027 el Central ya habrá anunciado una subida de 25 puntos.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20261028/imag/foto_0000000820261028081632/406231520.jpg",
+      "PublishedAt": "2026-10-28T11:46:27Z",
+      "Content": "El dólar abrió a la baja este miércoles, tras la postura más restrictiva que hicieron ver los consejeros del Banco Central de Chile en su última reunión de política monetaria, y a horas de que la Res… [+1906 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/44M44JTGENAHBCTOJ6RNOCSEQY.JPG?smart=true&auth=72da90a68d0206fb9d4a87be53059873ef716c3bbb3d5a1b54a2321fb93d07ef&width=1440",
       "PublishedAt": "2026-10-05T12:00:00Z",
       "Content": "La diferencia entre las tasas de interés internas y externas se amplió en los últimos meses, existe una amenaza de que ese margen sea mayor y crezca la demanda de dólares, según Róger Madrigal, presi… [+5250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg/Anya Andrianova",
-      "Title": "¿Por qué el reporte de empleo en EU ‘tiró paró’ al peso en su ‘pelea’ contra el dólar?",
-      "Description": "El dólar registró el viernes su peor jornada en un mes, después de que un reporte mostró que EU creó menos empleos de los esperados en septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/02/por-que-el-reporte-de-empleo-en-eu-tiro-paro-al-peso-en-su-pelea-contra-el-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/WP3JMNGBQRFLVGK5U5EWBZGHLY.jpg?smart=true&auth=31063c9af522a53f6e63029cc3c386f4110370db2d11ab8cac41f0df7b0ccb02&width=1200&height=630",
-      "PublishedAt": "2026-10-02T23:03:59Z",
-      "Content": "El dólar registró el viernes su peor jornada en un mes, después de que un reporte mostró que Estados Unidos creó menos empleos de los esperados en septiembre, lo que llevó brevemente a los operadores… [+2698 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘El resplandor’ del peso: Gana al dólar tras ‘débil’ dato de empleo en EU",
-      "Description": "Especialistas señalan que el dato de empleo en EU puede influir en la Fed para que no aumente su tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7KTDCSDRYVBJNNYWHI632HSB2E.png?smart=true&auth=fb444021229ab8b1988d6cd8e12dd212e9ad34c0dfcb9b3ca6937d5f8b47a97c&width=1200&height=630",
-      "PublishedAt": "2026-10-02T16:13:18Z",
-      "Content": "El peso mexicano frena su racha de cuatro sesiones con pérdidas ante el dólar este viernes 2 de octubre, mientras el mercado analiza el dato de empleo en Estados Unidos. \r\nLa cifra de trabajos creado… [+1457 chars]"
     }
   ]
 }
