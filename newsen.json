@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Bank of Canada rate decision will likely determine where the Canadian dollar goes from here, report says",
+      "Description": "The Canadian dollar has risen nearly two per cent this month, mostly on increasing bets for a Bank of Canada rate hike. Find out more here",
+      "Url": "https://financialpost.com/news/economy/bank-of-canada-rate-decision-likely-determine-canadian-dollar",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1028-mg-loonie.jpg",
+      "PublishedAt": "2026-10-27T15:58:43Z",
+      "Content": "The Canadian dollar has risen nearly two per cent this month, mostly on increasing bets for a Bank of Canada rate hike, but where it goes next depends more on the central banks hints of future calls … [+4800 chars]"
+    },
     {
       "Source": {
         "Id": null,

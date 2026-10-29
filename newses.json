@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Pesadilla en la calle’ del tipo de cambio: Peso pierde sus ganancias del lunes ante el dólar",
+      "Description": "El mercado prevé que la Reserva Federal no hará cambios a la tasa de interés en su reunión que comenzó este martes 27 de octubre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/27/peso-dolar-tipo-de-cambio-hoy-27-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/N7SRKB2FSZHP5ANW6QWADHLNYA.png?smart=true&auth=eb7abab6e46296c0094434bb1cb4fc0b53254172bbaede102e3f662b8ea75f68&width=1200&height=630",
+      "PublishedAt": "2026-10-27T16:49:28Z",
+      "Content": "El peso mexicano pierde todas las ganancias que acumuló el lunes ante el dólar, en medio de un mayor fortalecimiento del dólar previó a la nueva decisión de política monetaria de la Reserva Federal. … [+1742 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/7KTDCSDRYVBJNNYWHI632HSB2E.png?smart=true&auth=fb444021229ab8b1988d6cd8e12dd212e9ad34c0dfcb9b3ca6937d5f8b47a97c&width=1200&height=630",
       "PublishedAt": "2026-10-02T16:13:18Z",
       "Content": "El peso mexicano frena su racha de cuatro sesiones con pérdidas ante el dólar este viernes 2 de octubre, mientras el mercado analiza el dato de empleo en Estados Unidos. \r\nLa cifra de trabajos creado… [+1457 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Héctor Usla",
-      "Title": "México tiene petróleo, pero debe ganarse cada dólar de inversión: Petroleras de Reino Unido y Australia",
-      "Description": "México cuenta con recursos petroleros, infraestructura y experiencia para atraer nuevas inversiones, pero cada dólar destinado al desarrollo de proyectos en el país compite con otros países del mundo.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/01/mexico-tiene-petroleo-pero-debe-ganarse-cada-dolar-de-inversion-petroleras-de-reino-unido-y-australia/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/O2SDMKYB65DTHOCFOMTAJEBRQA.jpg?smart=true&auth=1d0c6acb13ad00c7e96d05afce59f0b2cee9a6b4044a0b14f5938481fc2eb618&width=1200&height=630",
-      "PublishedAt": "2026-10-01T21:33:08Z",
-      "Content": "México cuenta con recursos petroleros, infraestructura y experiencia para atraer nuevas inversiones; sin embargo, cada dólar destinado al desarrollo de proyectos en el país compite con oportunidades … [+3303 chars]"
     }
   ]
 }
