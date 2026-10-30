@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Con un dólar más demandado, el Banco Central pausa la compra de reservas",
+      "Description": "Por primera vez desde que puso en marcha el plan de acumulación, la entidad monetaria no intervino sobre el mercado.",
+      "Url": "https://www.lanacion.com.ar/economia/con-un-dolar-mas-demandado-el-banco-central-pausa-la-compra-de-reservas-nid28102026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-banco-central-lleva-tres-dias-sin-comprar-YYLXRLK4JJANVJG2J3YYMSX3XA.JPG?auth=58299417fc45a89e337cc5133fbca779d3369591e24a656a0f80574fe29f2ad0&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-10-28T20:47:02Z",
+      "Content": "En un contexto en el que el dólar se mantiene demandado, el Banco Central (BCRA) se abstuvo de comprar reservas en el mercado cambiario local por tercer día consecutivo, algo inédito desde que comenz… [+4732 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, a la espera de la decisión de la tasa de interés de la Fed: ¿Cuánto gana al dólar?",
+      "Description": "El peso chileno es la moneda más apreciada de la jornada de este jueves 28 de octubre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/28/peso-dolar-tipo-de-cambio-precio-hoy-28-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/JVXPQYCPVFDT5IFSMOG3LJVUGE.png?smart=true&auth=b4b5097fae85f9b77a764974057967cf912c0599a111f5e70c4a0cd52c78e015&width=1200&height=630",
+      "PublishedAt": "2026-10-28T16:52:32Z",
+      "Content": "El peso mexicano cede terreno frente al dólar este jueves 28 de octubre mientras la atención principal del mercado es la decisión de política monetaria de la Fed. \r\nSe prevé que el Comité Federal de … [+1609 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://static.dw.com/image/72884137_6.jpg",
       "PublishedAt": "2026-10-06T20:12:00Z",
       "Content": "El euro ha estado cayendo frente al dólar durante gran parte de 2026, con un descenso de alrededor del 5 por ciento desde principios de año. El cinco de octubre de 2026, alcanzó los 1,12 dólares, su … [+5895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "El dólar ‘también flota’ en el mercado: Tipo de cambio regresa a las 17 unidades",
-      "Description": "El peso chileno y el peso mexicano son las monedas que más se aprecian ante el dólar este martes 6 de octubre, según datos de Bloomberg.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/06/peso-dolar-precio-hoy-6-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/W2Q5BWFY2JHPLBABEGK7WKJ5R4.png?smart=true&auth=5d514258cfc7ac40d4f99a4e444c060373f63d867923132656ef68d08841a7c8&width=1200&height=630",
-      "PublishedAt": "2026-10-06T16:49:26Z",
-      "Content": "El peso mexicanoregresó a las 17 unidades ante el dólar gracias a que se modera la aversión al riesgo que se disparó por presiones a la inflación relacionadas con la guerra en Irán. \r\nEl retroceso de… [+1701 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Mónica Cerdas Gómez",
-      "Title": "Presidente del Banco Central advierte de una ‘amenaza’ que podría presionar el precio del dólar",
-      "Description": "Diferencia entre las tasas de interés de referencia de Costa Rica y Estados Unidos actualmente es de entre 75 y 100 puntos base",
-      "Url": "https://www.nacion.com/economia/presidente-del-banco-central-advierte-de-una/J3XEEVKUSRFORI3KMJAATFJ2KU/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/44M44JTGENAHBCTOJ6RNOCSEQY.JPG?smart=true&auth=72da90a68d0206fb9d4a87be53059873ef716c3bbb3d5a1b54a2321fb93d07ef&width=1440",
-      "PublishedAt": "2026-10-05T12:00:00Z",
-      "Content": "La diferencia entre las tasas de interés internas y externas se amplió en los últimos meses, existe una amenaza de que ese margen sea mayor y crezca la demanda de dólares, según Róger Madrigal, presi… [+5250 chars]"
     }
   ]
 }

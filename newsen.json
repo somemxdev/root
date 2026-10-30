@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New Zealand Herald"
+      },
+      "Author": "Chris Keall",
+      "Title": "Dasset crypto exchange customers receive 5.34 cents per dollar in liquidation",
+      "Description": "The Serious Fraud Office has also closed its investigation.",
+      "Url": "https://www.nzherald.co.nz/business/dasset-crypto-exchange-customers-receive-534-cents-per-dollar-in-liquidation/premium/OU6NOHZMIFBMDIY7KOU4TUEBEQ/",
+      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/WJO2IZ2RTVJMTPX3DSRSRMHES4.jpg?auth=a443bd392125184f2cdd4e172cd77e41945cece113f9e74e62544ef24b475b80&width=1200&height=675&quality=70&smart=true",
+      "PublishedAt": "2026-10-29T04:00:00Z",
+      "Content": "However, they had only been able to locate digital assets worth $610,000.\r\nDasset customer Marco Blum told the Herald this week that he had bought $40,000 worth of the cryptocurrencies Bitcoin and Et… [+5581 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -275,32 +288,6 @@
       "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30094829/Bank-backed-AllUnity-launches-MiCA-compliant-US-dollar-stablecoin-USDAU-800x419.jpg",
       "PublishedAt": "2026-09-30T13:51:26Z",
       "Content": "The company's multicurrency platform is designed to support cross-border payments, treasury management and settlement with regulated digital money infrastructure. Payments infrastructure provider All… [+1319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Reuters",
-      "Title": "SP Group's Mercury Finance taps dollar debt to meet another unit's dues",
-      "Description": "The real estate conglomerate plans to use the ​proceeds to invest in rupee-denominated bonds to be issued later by a local group entity.",
-      "Url": "https://www.business-standard.com/companies/news/sp-group-s-mercury-finance-taps-dollar-debt-to-meet-another-unit-s-dues-126092900815_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/21/thumb/fitandfill/1200X628/1711001688-7713.jpg",
-      "PublishedAt": "2026-09-29T11:27:44Z",
-      "Content": "The real estate conglomerate plans to use the proceeds to invest in rupee-denominated bonds to be issued later by a local group entity.\r\nShapoorji Pallonji Group logo\r\nReuters2 min read Last Updated … [+1985 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "Shapoorji Pallonji’s Mercury Finance plans $125 million dollar bond reissue",
-      "Description": "The planned transaction follows a similar $650-million fundraising in July, when proceeds were invested in rupee debt issued by another group entity",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/shapoorji-pallonjis-mercury-finance-plans-125-million-dollar-bond-reissue/article71523349.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/7ci3kx/article71523403.ece/alternates/LANDSCAPE_1200/BL29Shapoorji-Pallonji",
-      "PublishedAt": "2026-09-29T10:11:15Z",
-      "Content": "An unit of India's Shapoorji\r\nPallonji Group, Mercury Finance, is raising $125 million through\r\nthe reissue of a U.S. dollar bond maturing in nearly three\r\nyears, three sources aware of the matter sa… [+1655 chars]"
     }
   ]
 }
