@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Calaverita’ para el peso: Gana 3 centavos ante el dólar por posible aumento en tasas de la Fed",
+      "Description": "Las presiones al alza para el tipo de cambio se deben a que continúan deshaciéndose posturas de carry trade ante la expectativa de incrementos adicionales.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/30/peso-dolar-tipo-de-cambio-hoy-30-de-octubre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/VRSG7GHRKJEL3K7GLVZJL2ONDA.jpg?smart=true&auth=cc14b6a8365077e5789184ff2f665a4635dc4c1d49fd4b66694176d15996859e&width=1200&height=630",
+      "PublishedAt": "2026-10-30T16:39:44Z",
+      "Content": "El peso mexicano inició la jornada con ganancias marginales frente al dólar; sin embargo, las presiones para el tipo de cambio se mantienen, ya que el mercado espera otro incremento a los tipos de in… [+1837 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
       "PublishedAt": "2026-10-07T12:25:12Z",
       "Content": "El dólar estadounidense se cotiza alrededor de los 18.03 pesos mexicanos durante las primeras horas de este miércoles 7 de octubre de 2026, de acuerdo con el promedio reportado entre instituciones ba… [+2549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DW (English)"
-      },
-      "Author": "Arthur Sullivan",
-      "Title": "Caída del euro frente al dólar despierta temores en la eurozona",
-      "Description": "El euro ha caído a su nivel más bajo de los últimos 17 meses frente al dólar. En la Unión Europea, las inquietudes políticas y la preocupación por la deuda francesa ya inquietan a los inversores. El euro ha estado cayendo frente al dólar durante gran parte de…",
-      "Url": "https://www.dw.com/es/ca%C3%ADda-del-euro-frente-al-d%C3%B3lar-despierta-temores-en-la-eurozona/a-79569594",
-      "UrlToImage": "https://static.dw.com/image/72884137_6.jpg",
-      "PublishedAt": "2026-10-06T20:12:00Z",
-      "Content": "El euro ha estado cayendo frente al dólar durante gran parte de 2026, con un descenso de alrededor del 5 por ciento desde principios de año. El cinco de octubre de 2026, alcanzó los 1,12 dólares, su … [+5895 chars]"
     }
   ]
 }

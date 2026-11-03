@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Ashley Archambault",
+      "Title": "I finished my holiday shopping in October. I saved money by shopping at Dollar Tree, thrift stores, and on clearance racks.",
+      "Description": "Holiday shopping usually takes over my December. This year, I finished in October so I can enjoy more time with my family.",
+      "Url": "https://www.businessinsider.com/finished-christmas-holiday-shopping-early-shop-all-year-budget-tips-2026-11#article",
+      "UrlToImage": "https://i.insider.com/6ae364fff48fadd1d8881d8a?width=1200&format=jpeg",
+      "PublishedAt": "2026-11-01T10:16:01Z",
+      "Content": "The author, shown shopping at Dollar Tree, has been stashing away inexpensive holiday gifts throughout the year.Courtesy of Ashley Archambault.\r\n<ul><li>Every December, I spend more than I expect to … [+4149 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "pymnts.com"
+      },
+      "Author": "PYMNTS",
+      "Title": "Deutsche Bank Warns AI Stock Selloff Threatens Dollar Safe-Haven Status",
+      "Description": "The current artificial intelligence (AI)-driven market correction could impact the dollar’s status as a haven asset, Deutsche Bank’s global head of FX strategy, George Saravelos, said in a Friday (Oct. 30) note to clients, Bloomberg reported. This view is sup…",
+      "Url": "https://www.pymnts.com/economy/2026/deutsche-bank-warns-ai-stock-selloff-threatens-dollar-safe-haven-status/",
+      "UrlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/AI-banking-return-on-investments.jpeg",
+      "PublishedAt": "2026-10-30T16:43:00Z",
+      "Content": "The current artificial intelligence (AI)-driven market correction could impact the dollars status as a haven asset, Deutsche Banks global head of FX strategy, George Saravelos, said in a Friday (Oct.… [+2271 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Rt-english.com"
+      },
+      "Author": "RT",
+      "Title": "World’s largest crypto exchange investigates suspected multibillion-dollar hack",
+      "Description": "Binance is investigating a potential security breach after researchers flagged billions of dollars in suspicious transfers Read Full Article at RT.com",
+      "Url": "https://rt-english.com/news/648102-binance-possible-hack-probe/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/static.en/article/breaking.jpg",
+      "PublishedAt": "2026-10-29T22:30:10Z",
+      "Content": "The world’s largest cryptocurrency exchange, Binance, has launched an investigation into a possible cyberattack after billions of dollars in digital assets were reportedly transferred from wallets li… [+700 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Jay Busbee",
+      "Title": "College football's traditions are for sale. Florida-Georgia shows the multi-million-dollar price tag",
+      "Description": "As Florida-Georgia temporarily leaves Jacksonville for Atlanta and Tampa, the rivalry offers a glimpse into a future where even the most sacred games could be up for grabs.",
+      "Url": "https://sports.yahoo.com/college-football/article/college-footballs-traditions-are-for-sale-florida-georgia-shows-the-multi-million-dollar-price-tag-165843326.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/a727a604ecf51c15c079002e9d11592d658806165229ee825bb7133ff6ebe03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5895d29b-abf1-4a77-ab66-275f69dffd4b",
+      "PublishedAt": "2026-10-29T16:57:40Z",
+      "Content": "College football in the 2020s is a never-ending war between commerce and tradition, between a deep desire to preserve universities' distinctive identities and an even deeper desire to make money off … [+9752 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -275,19 +327,6 @@
       "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/College-Campus.jpg",
       "PublishedAt": "2026-10-02T09:00:04Z",
       "Content": "A hidden scheme draining millions from the federal student aid system and infiltrating college campuses has emerged as a key target of the Trump administration's fraud crackdown, with officials fault… [+4721 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Vivian Nguyen",
-      "Title": "Bank-backed AllUnity launches MiCA-compliant US dollar stablecoin USDAU",
-      "Description": "USDAU's launch under MiCA could enhance cross-border transactions, integrating stablecoins with traditional banking, boosting institutional adoption.\nThe post Bank-backed AllUnity launches MiCA-compliant US dollar stablecoin USDAU appeared first on Crypto Bri…",
-      "Url": "https://cryptobriefing.com/bank-backed-allunity-launches-mica-compliant-us-dollar-stablecoin-usdau/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30094829/Bank-backed-AllUnity-launches-MiCA-compliant-US-dollar-stablecoin-USDAU-800x419.jpg",
-      "PublishedAt": "2026-09-30T13:51:26Z",
-      "Content": "The company's multicurrency platform is designed to support cross-border payments, treasury management and settlement with regulated digital money infrastructure. Payments infrastructure provider All… [+1319 chars]"
     }
   ]
 }
