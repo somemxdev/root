@@ -5,6 +5,32 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Por el dólar demandado, el Banco Central vuelve a pausar la compra de reservas",
+      "Description": "Por primera vez en el año exhibe un saldo de intervenciones nulo tras las dos primeras ruedas cambiaria de un mes",
+      "Url": "https://www.lanacion.com.ar/economia/por-el-dolar-demandado-el-banco-central-vuelve-a-pausar-la-compra-de-reservas-nid03112026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-banco-central-corrido-del-mercado-por-segundo-BAEHBYGDPVFVND2B2GLJLY6NPQ?auth=355a48e39968cc073f689e9d48c90419b6a0b34d3a7fe169e0ab4b8d1455271b&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-11-03T20:41:11Z",
+      "Content": "El Banco Central (BCRA) informó esta tarde que en la jornada de hoy no intervino en el mercado de cambios. De esta manera, repitió una estrategia a la que recurrió en cinco de las últimas siete rueda… [+3729 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "‘La Llorona’ se lleva al dólar: Tipo de cambio baja a las 18.53 unidades en Día de Muertos",
+      "Description": "El tipo de cambio ya está a nada de cruzar al terreno de las 18 unidades en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/02/peso-dolar-tipo-de-cambio-precio-hoy-2-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/CMI53MHNTVGMLMHMNTH4K64GEA.png?smart=true&auth=fe8d5304ab9e4f1852b5ae5889e6906771045b925dfc6e6b0288fc6d0b91f29d&width=1200&height=630",
+      "PublishedAt": "2026-11-02T16:49:05Z",
+      "Content": "Es feriado por el Día de Muertos en México, pero el peso mexicano gana al dólar en las operaciones electrónicas en una jornada caracterizada por un bajo nivel operativo ante la ausencia de negociacio… [+1515 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "El Financiero"
       },
@@ -366,32 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/article/6ac68b8a59bf5b08af4b7d29.jpg",
       "PublishedAt": "2026-10-07T18:47:26Z",
       "Content": "En los últimos meses del año se espera que el sol peruano se fortalezca y, por ende, que el dólar retroceda paulatinamente, según las estimaciones de importantes instituciones financieras.\r\nLa filial… [+1132 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "El peso ‘grita’ por la aversión al riesgo: Dólar regresa a las 18 unidades",
-      "Description": "El 'miedo' a que los suministros de petróleo se vean otra vez comprometidos tras un aumento en los ataques de Irán en el Estrecho de Ormuz aumentó las apuestas por el dólar como activo de refugio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/XPM6RYO5TFG2VOPGNCHUQEFSBY.png?smart=true&auth=870b39666d670748b9fdfdec6ce7205d0eda9ea4b9d162e90ceee93d4c9246ff&width=1200&height=630",
-      "PublishedAt": "2026-10-07T15:24:01Z",
-      "Content": "El dólar no duró en los 18 pesos y el tipo de cambio inició al alza en la sesión de este miércoles 7 de octubre como resultado de una mayor versión al riesgo por las tensiones geopolíticas en Medio O… [+1721 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Laura Reyes Medrano",
-      "Title": "Precio del dólar hoy 7 de octubre de 2026: ¿a cuánto está el tipo de cambio en México?",
-      "Description": "El dólar estadounidense se cotiza alrededor de los 18.03 pesos mexicanos durante las primeras horas de este miércoles 7 de octubre de 2026, de acuerdo con el promedio reportado entre instituciones bancarias",
-      "Url": "https://www.record.com.mx/historia/precio-del-dolar-hoy-7-de-octubre-de-2026-a-cuanto-esta-el-tipo-de-cambio-en-mexico-2026100712251266015",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/record.mx/31082026/8ae58d1a-d829-432a-8809-09458ba4e501.jpg",
-      "PublishedAt": "2026-10-07T12:25:12Z",
-      "Content": "El dólar estadounidense se cotiza alrededor de los 18.03 pesos mexicanos durante las primeras horas de este miércoles 7 de octubre de 2026, de acuerdo con el promedio reportado entre instituciones ba… [+2549 chars]"
     }
   ]
 }

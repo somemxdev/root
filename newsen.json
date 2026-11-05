@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hoover.org"
+      },
+      "Author": "November 4, 2026",
+      "Title": "Money and Power: Historical Lessons for Stablecoins and U.S Dollar Dominance",
+      "Description": null,
+      "Url": "https://www.hoover.org/events/money-and-power-historical-lessons-stablecoins-and-us-dollar-dominance",
+      "UrlToImage": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/2025-09/stablecoins%20iStock-2197822022.jpg?h=b90cbb82&itok=FViv8cTK",
+      "PublishedAt": "2026-11-04T00:00:00Z",
+      "Content": "SUMMARY\r\nThis paper uses the history of private money to assess the conditions under which stablecoins could  function safely at scale and what their growth may imply for U.S. monetary power. Histori… [+1495 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Shlomo Sprung",
+      "Title": "The million-dollar bull business: Forget the cowboys, the bulls are making big money, too",
+      "Description": "From six-figure prize money to lucrative breeding deals, elite bucking bulls have become the stars of a booming, multimillion-dollar business.",
+      "Url": "https://sports.yahoo.com/sports-business/article/the-million-dollar-bull-business-forget-the-cowboys-the-bulls-are-making-big-money-too-172101143.html",
+      "UrlToImage": "https://s.yimg.com/lo/mysterio/api/5a9dbf61acbc7d09b33f9c4148256fa661b0e88afc1d5e0da8f8f3c3694e501f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F80a09112-f65b-4d4f-aabf-3f5294e0db75",
+      "PublishedAt": "2026-11-03T17:21:01Z",
+      "Content": "Eight seconds.\r\nEight seconds is all it takes to determine whether a week of preparation will lead to victory, glory, money and fame or if it leads to your ass getting thrown to the ground, kicking u… [+11300 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "newsBTC"
+      },
+      "Author": "NewsBTC Editorial Team",
+      "Title": "SAT Japan Adds USDT and USDC Payments With Dollar Settlement Through Triple-A",
+      "Description": "SAT Japan’s Triple-A partnership lets eligible overseas vehicle buyers pay in stablecoins while the exporter receives US dollars.",
+      "Url": "https://www.newsbtc.com/news/sat-japan-adds-usdt-and-usdc-payments-with-dollar-settlement-through-triple-a/",
+      "UrlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/05/cropped-favicon-2.png",
+      "PublishedAt": "2026-11-03T02:00:00Z",
+      "Content": "TL;DR\r\n<ul><li>The vehicle-export payment partnership was announced October 29.</li><li>Eligible buyers can use USDT or USDC among supported methods.</li><li>Triple-A handles conversion and settlemen… [+3767 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -301,32 +340,6 @@
       "UrlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
       "PublishedAt": "2026-10-05T08:56:10Z",
       "Content": "Kraken parent company Payward has partnered with Singapore Gulf Bank (SGB) to enable 24/7 US dollar settlement for select institutional clients in Asia and the Gulf region. \r\nPayward has integrated S… [+1049 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dailymail.com"
-      },
-      "Author": "Sophia Baum",
-      "Title": "Million Dollar Highway death trap: 'America's scariest road' causes horrific crashes and forces daring rescues... but no-one wants to fix the 'attractive nuisance'",
-      "Description": "For tourists, it is a breathtaking bucket-list drive. For locals, it is a road to be treated with caution, a moment's distraction can send a vehicle tumbling into the wilderness below.",
-      "Url": "https://www.dailymail.com/news/article-16169805/Million-Dollar-Highway-death-trap-Americas-scariest-road-causes-horrific-crashes-forces-daring-rescues-no-one-wants-fix-attractive-nuisance.html",
-      "UrlToImage": "https://i.dailymail.com/1s/2026/10/01/22/111597645-0-There_are_few_roads_in_America_quite_like_Colorado_s_Million_Dol-a-15_1790888920113.jpg",
-      "PublishedAt": "2026-10-03T03:00:40Z",
-      "Content": "There are roads that make your knees shake. And then there is the Million Dollar Highway. \r\nHigh above Colorados Uncompahgre Gorge climbs more than 2,000 feet in just six miles near the mountain town… [+6432 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": null,
-      "Title": "How a hidden scam plaguing college campuses has racked up a multimillion-dollar price tag",
-      "Description": "A fraud expert reveals the red flags students and parents must watch for as ghost students drain millions from the federal student aid system.",
-      "Url": "https://www.foxnews.com/politics/hidden-scam-plaguing-college-campuses-racked-multimillion-dollar-price-tag",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/College-Campus.jpg",
-      "PublishedAt": "2026-10-02T09:00:04Z",
-      "Content": "A hidden scheme draining millions from the federal student aid system and infiltrating college campuses has emerged as a key target of the Trump administration's fraud crackdown, with officials fault… [+4721 chars]"
     }
   ]
 }
