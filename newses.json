@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Banco Central compra cifra histórica de divisas en 2026 para evitar mayor caída del dólar",
+      "Description": "El Banco Central mantiene una participación activa con la compra de dólares para estabilización cambiaria desde febrero",
+      "Url": "https://www.nacion.com/economia/banco-central-compra-cifra-historica-de-divisas-en/NR6K4RZGHVDHBNHHZO2NLPYWXU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/LOMHF7SEERFCNIHAOOPUHIOOFY.JPG?smart=true&auth=113143df20cd048e5afdd385041932697b43152090ff23362d27fdec2299fd81&width=1440",
+      "PublishedAt": "2026-11-05T08:15:00Z",
+      "Content": "El Banco Central de Costa Rica (BCCR) adquirió durante este año un monto récord de dólares, en operaciones de estabilización cambiaria en el Mercado de Monedas Extranjeras (Monex), en medio de una fu… [+5477 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘hace leña’ de derrota de Trump en elecciones en EU: ¿Cuánto gana al dólar HOY?",
+      "Description": "Las monedas de mercados emergentes se benefician de la perspectiva de un 'Gobierno dividido' en EU en el que Trump y os demócratas chocarán constantemente durante los próximos dos años.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/04/peso-dolar-tipo-de-cambio-hoy-precio-4-de-noviembre-de-2027/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QKHSSH4UPVCCXBUUXVCKUP67WM.png?smart=true&auth=62663f734c541e906d4e7065ea8d27175fd6d4c7a09df1b8a051d33e6f403d2d&width=1200&height=630",
+      "PublishedAt": "2026-11-04T16:39:58Z",
+      "Content": "El dólar se debilita en los mercados después de la victoria de los demócratas en las elecciones en Estados Unidos que les dio el control de la Cámara de Representantes y el Senado. \r\nLas históricas v… [+1745 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LB6IE7ICKRCFHK2APDTXDBIMHA.png?smart=true&auth=6f793edef59cc669beeaa983a95e7aae8a8b3db23929f9f4cb294ea960046af8&width=1200&height=630",
       "PublishedAt": "2026-10-08T17:41:52Z",
       "Content": "El tipo de cambio regresa a los 18 pesos por dólar ante la volatilidad en los precios del crudo y el alza en los rendimientos de los bonos estadounidenses durante la sesión de este jueves 8 de octubr… [+1944 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay queda estable y el mercado espera por una suba de la tasa de interés del Banco Central",
-      "Description": "A través de las pantallas de la Bolsa Electrónica de Valores (Bevsa), ayer se realizaron 49 operaciones por un valor total de US$ 25,5 millones.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-queda-estable-y-el-mercado-espera-por-una-suba-de-la-tasa-de-interes-del-banco-central",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/aa780d1/2147483647/strip/true/crop/1247x779+0+48/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Ff4%2Fe98144974189bf200dbb301d4b2d%2Fimagen-stock-photo-human-hands-exchanging-money-1.jpg",
-      "PublishedAt": "2026-10-08T06:05:00Z",
-      "Content": "El dólar en Uruguay tuvo ayer una baja mínima de 0,04% y se negoció en promedio en $ 40,15. El billete verde cotizó entre $ 40,12 y $ 40,20 y finalizó en $ 40,16, apenas 0,02% por encima del cierre d… [+1521 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Actualidad-rt.com"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "\"Tenderá a fortalecerse\": Proyectan una moneda latinoamericana que cerrará 2026 por encima del dólar",
-      "Description": "Desde el BBVA hasta Bank of America valoran positivamente su rendimiento para los próximos meses.",
-      "Url": "https://actualidad-rt.com/actualidad/631417-proyectar-moneda-latinoamericana-cerrar-encima-dolar",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/article/6ac68b8a59bf5b08af4b7d29.jpg",
-      "PublishedAt": "2026-10-07T18:47:26Z",
-      "Content": "En los últimos meses del año se espera que el sol peruano se fortalezca y, por ende, que el dólar retroceda paulatinamente, según las estimaciones de importantes instituciones financieras.\r\nLa filial… [+1132 chars]"
     }
   ]
 }

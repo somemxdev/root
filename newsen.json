@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,32 +314,6 @@
       "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/payward-sgb-24-7-funding-standard.jpg",
       "PublishedAt": "2026-10-06T00:30:28Z",
       "Content": "Kraken's parent company, Payward, has connected to Singapore Gulf Bank's SGB Net clearing network, opening round-the-clock US-dollar funding for selected institutional clients in Asia and the Gulf.\r\n… [+2963 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crypto Briefing"
-      },
-      "Author": "Kaye Quema",
-      "Title": "Bullish exchange lists Sui Dollar stablecoin for trading",
-      "Description": "The listing of USDsui on Bullish could enhance Sui's DeFi ecosystem, attracting institutional interest and boosting blockchain activity.\nThe post Bullish exchange lists Sui Dollar stablecoin for trading appeared first on Crypto Briefing.",
-      "Url": "https://cryptobriefing.com/bullish-lists-sui-dollar-usdsui-stablecoin/",
-      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05101943/library-bullish-exchange-lists-sui-dollar-stablecoin-for-trading-800x450.png",
-      "PublishedAt": "2026-10-05T14:19:49Z",
-      "Content": "The Stripe-backed USDsui, which routes reserve yield into SUI buybacks, is now tradable on Bullish in eligible regions Sui Dollar, the native stablecoin of the Sui blockchain, is now available to tra… [+2656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Cointelegraph by Zoltan Vardai",
-      "Title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-      "Description": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
-      "Url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
-      "UrlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
-      "PublishedAt": "2026-10-05T08:56:10Z",
-      "Content": "Kraken parent company Payward has partnered with Singapore Gulf Bank (SGB) to enable 24/7 US dollar settlement for select institutional clients in Asia and the Gulf region. \r\nPayward has integrated S… [+1049 chars]"
     }
   ]
 }
