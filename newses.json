@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘rebota’ ante el dólar en el cierre de la semana: ¿En cuánto está el tipo de cambio HOY?",
+      "Description": "El consenso del mercado era que la Junta de Gobierno no iba a hacer movimientos a la tasa de interés en la reunión del 5 de noviembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/06/peso-dolar-tipo-de-cambio-precio-hoy-6-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LKAVSJJXMFEE3PA36Q353EK3CU.png?smart=true&auth=d1628e081ade47d4903aeb4788d5ab337eeaa4503c020d954162b6eff5434710&width=1200&height=630",
+      "PublishedAt": "2026-11-06T16:21:57Z",
+      "Content": "El peso mexicano retoma las ganancias ante el dólar este viernes 6 de noviembre después del sorprendente recorte del Banco de México a la tasa de interés. \r\nUn factor de riesgo de presiones al alza p… [+1510 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "No le ‘duró el gusto’ al peso: Pierde 14 centavos ante el dólar y espera decisión del Banxico",
+      "Description": "El Banxico decide hoy sobre su tasa de interés. El mercado espera que no haya cambios, mientras que en Estados Unidos se espera un incremento en diciembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/05/peso-dolar-tipo-de-cambio-precio-hoy-5-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/JAJLXYKDSVHCHONOPBEBWZK2SQ.png?smart=true&auth=ab5e87cbecc0ff478ca65e153ace7e251e1ddfe64fe1b41b17c826b2e5cacd84&width=1200&height=630",
+      "PublishedAt": "2026-11-05T16:35:58Z",
+      "Content": "La euforia por la victoria de los demócratas en las elecciones se acabó para el peso mexicano, que pierde más de 10 centavos ante el dólar en la sesión de este jueves 5 de noviembre.\r\nEn el mercado l… [+1745 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TTVLC3C3OZCAPATQDQV3GYIIDQ.jpg?smart=true&auth=464ed67e9654e959a38f93f230e74e2d369e33ee527d36132a4640c9fe6d72db&width=1200&height=630",
       "PublishedAt": "2026-10-12T09:18:14Z",
       "Content": "El peso mexicano extendió sus pérdidas\r\n y se hundió a niveles de hace 10 meses, al mismo tiempo que ligó cinco semanas con pérdidas, ante la expectativa de un menor diferencial de tasas entre México… [+4344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio en Costa Rica da un giro: dólar vuelve a caer y roza los ¢450",
-      "Description": "El precio de la divisa volvió a bajar tras una seguidilla de sesiones al alza a finales de setiembre e inicios de octubre",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-en-costa-rica-da-un-giro-dolar/J42FFGHC2VAP3J37JOEMCATULA/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/HPDLLRQB3JAH5MGM2LNRSVAUVU.jpg?smart=true&auth=816f97ac739168a48ffb16000631256618b0cd395f61214a8b275c2e6211552d&width=1440",
-      "PublishedAt": "2026-10-10T13:00:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón retomó su tendencia a la baja en el Mercado de Monedas Extranjeras (Monex), luego de que la divisa superara los ¢460 por primera vez en meses, durante la… [+2456 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Los pájaros’ acechan al peso: Dólar ‘vuela’ a 18.16 unidades afectado por minutas del Banxico",
-      "Description": "El nuevo repunte en los precios del petróleo es uno de los 'protagonistas' de la sesión en los mercados este 8 de octubre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/LB6IE7ICKRCFHK2APDTXDBIMHA.png?smart=true&auth=6f793edef59cc669beeaa983a95e7aae8a8b3db23929f9f4cb294ea960046af8&width=1200&height=630",
-      "PublishedAt": "2026-10-08T17:41:52Z",
-      "Content": "El tipo de cambio regresa a los 18 pesos por dólar ante la volatilidad en los precios del crudo y el alza en los rendimientos de los bonos estadounidenses durante la sesión de este jueves 8 de octubr… [+1944 chars]"
     }
   ]
 }

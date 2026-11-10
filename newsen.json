@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 20,
   "Articles": [
     {
       "Source": {
@@ -262,58 +262,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-134919638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "PublishedAt": "2026-10-13T13:44:53Z",
       "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "Reuters",
-      "Title": "Punjab National Bank eyes debut dollar bond issue, bankers say",
-      "Description": "Punjab National Bank eyes a debut US dollar bond of at least $500 million (potentially up to $1 billion) under RBI’s discounted swap window.",
-      "Url": "https://www.thehindubusinessline.com/money-and-banking/punjab-national-bank-eyes-debut-dollar-bond-issue-bankers-say/article71562500.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/651g5z/article71562532.ece/alternates/LANDSCAPE_1200/PTI04_08_2026_000204A.jpg",
-      "PublishedAt": "2026-10-09T03:56:06Z",
-      "Content": "One of Indias largest state-run lenders, Punjab National Bank, is set to tap the US dollar-denominated debt market through a debut issue in the coming weeks under the central banks discounted swap wi… [+1627 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar climbs ahead of Fed minutes; euro slides towards 17-month lows - Yahoo Finance",
-      "Description": "Dollar climbs ahead of Fed minutes; euro slides towards 17-month lowsYahoo Finance Dollar Nears New High of the Year as Investors Rush to SafetyBloomberg.com The bond market sell-off is helping the dollarThe Economist The Dollar Smile: What the Greenback’s Au…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=186061162",
-      "UrlToImage": null,
-      "PublishedAt": "2026-10-07T16:33:20Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "Olivier Acuna",
-      "Title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "Description": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.",
-      "Url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "UrlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/86b7d790e3f95b56f090e844916368abde0d47da-3300x2524.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "PublishedAt": "2026-10-06T09:02:01Z",
-      "Content": "OKX introduced a consumer app that lets eligible customers convert over 50 local currencies into dollar-backed stablecoins, earn rewards on those balances, and spend from a virtual or physical card.\r… [+893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Liam 'Akiba' Wright",
-      "Title": "Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails",
-      "Description": "Payward's SGB Net link supports round-the-clock US-dollar funding in eligible jurisdictions, while SGB customer-trade pricing is planned for coming months.\nThe post Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails appeared firs…",
-      "Url": "https://cryptoslate.com/kraken-parent-joins-singapore-gulf-bank-opening-24-7-institutional-dollar-rails/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/payward-sgb-24-7-funding-standard.jpg",
-      "PublishedAt": "2026-10-06T00:30:28Z",
-      "Content": "Kraken's parent company, Payward, has connected to Singapore Gulf Bank's SGB Net clearing network, opening round-the-clock US-dollar funding for selected institutional clients in Asia and the Gulf.\r\n… [+2963 chars]"
     }
   ]
 }
