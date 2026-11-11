@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 20,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "TOI World Desk",
+      "Title": "Sting says his six children will not inherit his multimillion-dollar fortune; explains why he believes giving them too much money would be harmful",
+      "Description": "British musician Sting has reiterated that his six children will not inherit a substantial fortune from him, arguing that giving them too much money could",
+      "Url": "https://timesofindia.indiatimes.com/world/uk/sting-says-his-six-children-will-not-inherit-his-multimillion-dollar-fortune-explains-why-he-believes-giving-them-too-much-money-would-be-harmful/articleshow/135707667.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-135707838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "PublishedAt": "2026-11-10T10:30:26Z",
+      "Content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>UK News</li>\r\n<li>Sting says his six children will not inherit his multimillion-dollar fortune; explains why he believes giving them too much money would b… [+2202 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Cointelegraph by Nate Kostar",
+      "Title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "Description": "PNC Bank expands its Coinbase partnership with a USDC payment service on Ethereum, following its launch of Bitcoin trading for private banking clients.",
+      "Url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
+      "UrlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png",
+      "PublishedAt": "2026-11-09T17:48:35Z",
+      "Content": "PNC Bank, the eighth-largest US bank by assets, launched a limited pilot enabling eligible corporate and institutional clients to receive USDC payments through Coinbase.\r\nThe pilot accepts USDC, a US… [+1415 chars]"
+    },
     {
       "Source": {
         "Id": null,

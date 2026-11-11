@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Diariobitcoin.com"
+      },
+      "Author": "Canuto",
+      "Title": "Capitalización de USDT pierde USD $6.600 millones en dos meses, pero la moneda no pierde paridad con el dólar",
+      "Description": "La capitalización de USDT retrocedió unos USD $6.600 millones en 60 días y su oferta registró la mayor caída semanal reportada para 2026. La stablecoin se mantuvo cerca de USD $1 durante el período, mientras la última atestación citada de Tether mostraba un e…",
+      "Url": "https://www.diariobitcoin.com/criptomonedas/capitalizacion-de-usdt-pierde-usd-6-600-millones-en-dos-meses-pero-la-moneda-no-pierde-paridad-con-el-dolar/",
+      "UrlToImage": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/11/canuto-imagine-1794322145.jpg",
+      "PublishedAt": "2026-11-10T14:59:14Z",
+      "Content": "Por Canuto   La capitalización de USDT retrocedió unos USD $6.600 millones en 60 días y su oferta registró la mayor caída semanal reportada para 2026. La stablecoin se mantuvo cerca de USD $1 durante… [+7497 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/FX7HJKOHIVBSTHEMCO72VYOO54.png?smart=true&auth=fbc07030495c6970325e321a3d9e8ae0caff89aa5ba11b38bf93fd3340b86cfe&width=1200&height=630",
       "PublishedAt": "2026-10-12T16:46:05Z",
       "Content": "El peso recupera terreno ante el dólar en la apertura de la jornada de este lunes 12 de octubre, esto luego de haber cerrado en su nivel máximo del año la semana pasada.\r\nEl tipo de cambio cotiza en … [+1420 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Ander Ahuad",
-      "Title": "Erosión del carry trade le pega al peso mexicano: Diferencial de tasas entre México y EU dispara al dólar",
-      "Description": "Impacta caída en el diferencial de tasas entre EU y México que está en mínimos.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/12/erosion-del-carry-trade-le-pega-al-peso-mexicano-diferencial-de-tasas-entre-mexico-y-eu-dispara-al-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TTVLC3C3OZCAPATQDQV3GYIIDQ.jpg?smart=true&auth=464ed67e9654e959a38f93f230e74e2d369e33ee527d36132a4640c9fe6d72db&width=1200&height=630",
-      "PublishedAt": "2026-10-12T09:18:14Z",
-      "Content": "El peso mexicano extendió sus pérdidas\r\n y se hundió a niveles de hace 10 meses, al mismo tiempo que ligó cinco semanas con pérdidas, ante la expectativa de un menor diferencial de tasas entre México… [+4344 chars]"
     }
   ]
 }
