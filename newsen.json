@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 18,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "YouTube"
+      },
+      "Author": null,
+      "Title": "Betway Casino Online Affiliate Sign Up | Affiliation Casino | Money | Dollar | Marketing Programs",
+      "Description": "Betway Casino Online Affiliate Sign Up | Affiliation Casino | Money | Dollar | Marketing Programsyoutube.com",
+      "Url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg7_X2dl1xPI",
+      "UrlToImage": null,
+      "PublishedAt": "2026-11-13T17:08:43Z",
+      "Content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -223,71 +236,6 @@
       "UrlToImage": "https://forkast.news/wp-content/uploads/2026/10/sofi-earn-two-tier-dollar-hero-1024x687.jpg",
       "PublishedAt": "2026-10-22T17:39:54Z",
       "Content": "The most interesting thing about SoFi Earn is not that it exists. It is where it stops.\r\nSoFi Technologies (NASDAQ: SOFI) announced the product, ticker SOFIE, on Oct. 22 via the Business Wire release… [+4426 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dailymail.com"
-      },
-      "Author": "Victor Heller",
-      "Title": "Furious luxury homeowners whose million-dollar properties are being swallowed into the California sea slam Democrat mayor for failing to fix major problems: 'He doesn't give a damn'",
-      "Description": "Ocean Boulevard on the Long Beach peninsula used to be a beloved strip famed for million dollar homes and a picture-perfect beachfront.",
-      "Url": "https://www.dailymail.com/news/article-16199411/California-homeowners-properties-Rachel-Democrat-mayor.html",
-      "UrlToImage": "https://i.dailymail.com/1s/2026/10/16/17/111910355-0-image-m-6_1792168402174.jpg",
-      "PublishedAt": "2026-10-17T14:35:20Z",
-      "Content": "Furious homeowners living on a stunning stretch of California coastline have slammed their mayor as their properties are being swallowed into the sea by monster waves. \r\nOcean Boulevard on the Long B… [+7046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Antaranews.com"
-      },
-      "Author": "Rizka, Kenzu",
-      "Title": "Bank Indonesia vows intervention as rupiah hits 18,000 per US dollar",
-      "Description": "Bank Indonesia will maintain a continuous presence in financial markets to stabilize the rupiah amid global risk-off sentiment after the currency breached the ...",
-      "Url": "https://en.antaranews.com/news/435909/bank-indonesia-vows-intervention-as-rupiah-hits-18000-per-us-dollar",
-      "UrlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/09/07/pasokan-uang-rupiah-beredar-tumbuh-positif-juli-2026-2858865.jpg",
-      "PublishedAt": "2026-10-16T08:23:22Z",
-      "Content": "Jakarta (ANTARA) - Bank Indonesia will maintain a continuous presence in financial markets to stabilize the rupiah amid global risk-off sentiment after the currency breached the 18,000 mark against t… [+2108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Reuters",
-      "Title": "Bank deposits hit record $3 trillion, boosted by dollar deposits scheme",
-      "Description": "India's banking system deposits reached a record ₹284 trillion in September, aided by the RBI's discounted dollar swap scheme, which attracted around $133 billion in inflows.",
-      "Url": "https://www.business-standard.com/industry/banking/bank-deposits-hit-record-3-trillion-boosted-by-dollar-deposits-scheme-126101500967_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/16/thumb/fitandfill/1200X628/1765906741-3834.jpg",
-      "PublishedAt": "2026-10-15T12:22:51Z",
-      "Content": "India's banking system deposits hit a record 284 trillion ($2.99 trillion) in September, boosted by the RBI's discounted dollar swap scheme, which attracted around $133 billion in inflows | Represent… [+10 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Bank deposits hit record $3 trillion in September, boosted by dollar deposits scheme",
-      "Description": "India's banking system deposits hit a record high, reaching approximately 284 trillion rupees by September 2023. The increase was primarily driven by a discounted swap window introduced by the Reserve Bank of India. This scheme attracted around $133 billion i…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-hit-record-3-trillion-in-september-boosted-by-dollar-deposits-scheme/articleshow/134965882.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-134965879,width-1200,height-900,imgsize-325840,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2026-10-15T11:14:34Z",
-      "Content": "MUMBAI: India's banking system deposits hit a record high of around 284 trillion rupees ($2.99 trillion) in the second half of September, central bank data showed on Thursday.Deposits rose by 21.67 t… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Smriti Jain",
-      "Title": "RBI’s ‘bazooka’ sees rupee rising 1.4% versus dollar in two days, but should central bank let it fall?",
-      "Description": "One thought process is that the RBI should allow the market forces to let the rupee find its levels. Indeed the IMF recently said that India should allow the exchange rate to act as a shock absorber. Interestingly, RBI governor Sanjay Malhotra believes that t…",
-      "Url": "https://timesofindia.indiatimes.com/business/india-business/rbis-bazooka-sees-rupee-rising-1-4-versus-dollar-in-two-days-but-should-central-bank-let-it-fall/articleshow/134914850.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-134919638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "PublishedAt": "2026-10-13T13:44:53Z",
-      "Content": "EMI CalculatorDetermine the monthly installment amount for a loan"
     }
   ]
 }

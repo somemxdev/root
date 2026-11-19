@@ -1,8 +1,151 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Violeta N. Quiñonero",
+      "Title": "El euro se debilita frente al dólar y ya pierde más de un 6% anual",
+      "Description": "La divisa europea sufre por la reciente fortaleza del dólar, al calor de la previsión de nuevas subidas de tipos en EEUU. Leer",
+      "Url": "https://www.expansion.com/mercados/divisas/2026/11/17/euro-debilita-frente-dolar-pierde-6-anual.html",
+      "UrlToImage": "https://e00-xlk-ue-expansion.uecdn.es/files/article_main_microformat/uploads/2026/10/15/17768944480307.webp",
+      "PublishedAt": "2026-11-16T23:24:20Z",
+      "Content": "La divisa europea sufre por la reciente fortaleza del dólar, al calor de la previsión de nuevas subidas de tipos en EEUU.El euro sigue debilitándose frente al dólar y ya pierde en el año más de un 6%… [+2922 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Ignacio Grimaldi",
+      "Title": "El Banco Central identificó otros US$15 millones en la ruta que investiga el dólar blue",
+      "Description": "Se trata de una agencia de cambio que movió ese dinero en efectivo entre marzo y junio de 2023, según un sumario del BCRA; un informe judicial previo había estimado en US$607 millones el circuito del rulo financiero",
+      "Url": "https://www.lanacion.com.ar/politica/el-banco-central-identifico-otros-us15-millones-en-la-ruta-que-investiga-el-dolar-blue-nid16112026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-sede-del-banco-central-detecto-mas-fondos-que-JOHOQL23CVG5DA432T7U6QVR74.jpg?auth=fbe9492a1afbde47f43068b2dac81254581fc6a695821cd9ea9de8dcf45a1203&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-11-16T14:29:35Z",
+      "Content": "Durante menos de cuatro meses de 2023, una agencia de cambio domiciliada en el oeste del conurbano bonaerense movió en efectivo más de US$15 millones. No le vendió dólares a ningún ahorrista. Los com… [+5560 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "José María Rodríguez",
+      "Title": "El euro/dólar tiene margen de caída",
+      "Description": "El cruce acumula una caída del 9% desde los altos de enero, en los 1,2083 dólares por cada euro. Leer",
+      "Url": "https://www.expansion.com/mercados/2026/11/16/euro-dolar-margen-caida.html",
+      "UrlToImage": "https://e00-xlk-ue-expansion.uecdn.es/files/article_main_microformat/uploads/2026/11/16/6afac4377a08b.jpeg",
+      "PublishedAt": "2026-11-16T14:16:56Z",
+      "Content": "El cruce acumula una caída del 9% desde los altos de enero, en los 1,2083 dólares por cada euro.A lo largo de los últimos meses hemos hablado en varias ocasiones del importante soporte que el cruce t… [+982 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Mónica Cerdas Gómez",
+      "Title": "¿Incide el bajo precio del dólar en la desaceleración de las zonas francas? Esto dice el Banco Central",
+      "Description": "El PIB del régimen especial se ubicaría en un 3% en 2026, frente al 12,7% registrado en 2025, según cifras del Banco Central",
+      "Url": "https://www.nacion.com/economia/incide-el-bajo-precio-del-dolar-en-la/NOFG6FE7OZBYROZMGYSMPTINBY/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/3NUVE2YZO5BMRDZNZHEF2UFUUU.jpg?smart=true&auth=1189530abb5184e30c382863bb2cdb129fea82cc47f355078050493c1ab01571&width=1440",
+      "PublishedAt": "2026-11-15T09:00:00Z",
+      "Content": "Expertos y organizaciones empresariales tienen varios años de advertir sobre el efecto adverso que tiene el bajo precio del dólar en la competitividad de las empresas de zonas francas en Costa Rica. … [+9348 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar alcanza nuevo mínimo en Monex y se acerca a ¢445",
+      "Description": "El valor mínimo anterior en el precio del dólar se había registrado casi dos meses atrás, el jueves 17 de setiembre",
+      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-alcanza-nuevo-minimo-en/PVZDWM7KSNGQJEGZTUXVARWTSU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?smart=true&auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&width=1440",
+      "PublishedAt": "2026-11-13T19:44:33Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo histórico este viernes 13 de noviembre en el Mercado de Monedas Extranjeras (Monex). Su cotización se acerca a los ¢445. \r\nEl pre… [+1487 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Tipo de cambio HOY: Peso ‘ya quiere puente’ y gana al dólar",
+      "Description": "El dólar se acerca poco a poco a venderse en el nivel de los 18 pesos en bancos. Este es el reporte del viernes 13 de noviembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/13/peso-dolar-tipo-de-cambio-precio-hoy-13-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4HWF4JPSTNEZ5MVXKZFDZIAV7I.png?smart=true&auth=fd9ec7eed442e41f9de8dfd83c844521d44b298dbfac39d034735b017f544737&width=1200&height=630",
+      "PublishedAt": "2026-11-13T17:08:28Z",
+      "Content": "El peso mexicano se aprecia ante el dólar este viernes 13 de noviembre, después de que las cifras de inflación al productor en EU se ubicaron ligeramente por debajo de las expectativas del mercado.\r\n… [+1660 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Agustina Parise",
+      "Title": "A cuánto puede llegar el dólar en diciembre sin intervención del Banco Central a partir de la actualización de la banda cambiaria",
+      "Description": "El BCRA ajustó un 2,2% los límites del margen de flotación del tipo de cambio oficial para el próximo mes, según el último dato del IPC",
+      "Url": "https://www.lanacion.com.ar/economia/a-cuanto-puede-llegar-el-dolar-en-diciembre-sin-intervencion-del-banco-central-a-partir-de-la-nid13112026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-banda-cambiaria-de-diciembre-se-actualizo-a-LQOD7XIRLVADRISTB7ISQEM63A.jpg?auth=72904e726a602679752d243bdc43ccb63c7cb0d9885eba15b02ca5de6a0fdad6&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-11-13T15:10:16Z",
+      "Content": "Ayer se publicó el Índice de Precios al Consumidor (IPC) de octubre: fue 2,2%, por encima de las expectativas del mercado. Este dato impacta directamente en el régimen de bandas cambiarias, dado que … [+4283 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "El Banco Central aprovechó un dólar ofrecido para comprar US$29 millones",
+      "Description": "El billete cerró con una baja a nivel mayorista de $1,50 en una jornada de menor actividad por un feriado en Estados Unidos.",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-aprovecho-un-dolar-ofrecido-para-comprar-us29-millones-nid11112026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/tras-largas-jornadas-de-inactividad-el-dolar-se-CYISRLMWXBCMBCEC4Z766GAOLU.jpg?auth=9dff9040bbf7d61ad0bc62ac229d598407a7b9db6da0ffb1929b7230212017ae&width=1200&height=800&quality=70&smart=true",
+      "PublishedAt": "2026-11-11T20:31:22Z",
+      "Content": "El Banco Central (BCRA) aprovechó la tendencia vendedora que mostró el dólar durante toda la rueda, tras tres jornadas sin operaciones, para comprar US$29 millones y reforzar sus otra vez necesitadas… [+2835 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Tipo de cambio HOY: Peso pierde ante el dólar por probable aumento a tasa de la Fed en diciembre",
+      "Description": "El diferencial de tasas entre México y EU está en un mínimo de 225 puntos, que puede caer todavía más si la Fed incrementa el costo del dinero en diciembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/11/peso-dolar-tipo-de-cambio-precio-hoy-11-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/MDPJKPS2ABAEBCCKBB6BPT5TLY.png?smart=true&auth=69a6d30a515a2d69d52ef61bfc3de1c7a6cf0547b3e93a8708f4f1c4f513a218&width=1200&height=630",
+      "PublishedAt": "2026-11-11T15:18:49Z",
+      "Content": "El peso mexicano extiende sus pérdidas ante el dólar este miércoles 11 de noviembre por el aumento de la probabilidad de un aumento a la tasa de la Fed en la reunión de diciembre. \r\nSi la Reserva Fed… [+1677 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Diario EL PAIS Uruguay"
+      },
+      "Author": "Lautaro Brum",
+      "Title": "El dólar en Uruguay sube y llega a los $ 40,50, mientras la demanda por deuda del gobierno en moneda local triplicó la oferta",
+      "Description": "El dólar mantuvo su tendencia al alza en Uruguay, mientras que el gobierno concretó una nueva emisión de deuda en moneda local y el riesgo país volvió a retroceder, hasta ubicarse en 71 puntos básicos.",
+      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-sube-y-llega-a-los-40-50-mientras-la-demanda-por-deuda-del-gobierno-en-moneda-local-triplico-la-oferta",
+      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/3bb62b2/2147483647/strip/true/crop/1200x750+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fee%2F0d22045a4626971877c7fa1f2931%2Fdolares.jpg",
+      "PublishedAt": "2026-11-11T06:05:00Z",
+      "Content": "El dólaren Uruguaysubió ayer 0,22%, y se negoció en promedio en $ 40,519. Además, hubo fuerte avidez de los inversores por deuda del gobierno en moneda local. En la jornada, la moneda estadounidense … [+2028 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Inflación en EU y declaraciones de la Fed ‘dan baje’ al peso: ¿Cuánto pierde con el dólar?",
+      "Description": "El mercado ya da por descontado que la Fed subirá su tasa en diciembre, lo que llevará el diferencial con la tasa del Banxico a solo 200 puntos base.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/10/peso-dolar-tipo-de-cambio-precio-hoy-10-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/QJYONFCSFJE7XCACLC37ISQCMQ.png?smart=true&auth=890dc2c7897df32d1c5d33efbead2ce534e01a53476f3552a4b6f31ad60a576b&width=1200&height=630",
+      "PublishedAt": "2026-11-10T16:22:11Z",
+      "Content": "El peso mexicano se deprecia ante el dólar después de que la publicación del dato de inflación en Estados Unidos subió casi a 100 por ciento la probabilidad de aumento a la tasa de la Fed en diciembr… [+1724 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -249,149 +392,6 @@
       "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
       "PublishedAt": "2026-10-21T06:00:00Z",
       "Content": "El dólar en Uruguaybajó ayer, tras la suba del lunes, en este caso 0,12% y se negoció en promedio en $ 40,077, al borde de salir del piso de $ 40. El billete verde cotizó en la jornada entre $ 40,02 … [+1767 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Pesadilla’ para el tipo de cambio al cierre de 2026: ¿En cuánto cerrará el peso frente al dólar?",
-      "Description": "Analistas consultados por Citi prevén que el dólar cierre 2026 en 18.20 pesos, mientras que para 2027 estiman que alcance las 18.60 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2026/10/20/pesadilla-para-el-tipo-de-cambio-al-cierre-de-2026-en-cuanto-cerrara-el-peso-frente-al-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/4HNWHQSPVJAE3KY2BTOMBMWCDM.jpeg?smart=true&auth=555bf1b259bd55dd16148ba97a8eeafe5b74ac95d0f74966515993ef381729a8&width=1200&height=630",
-      "PublishedAt": "2026-10-21T00:50:39Z",
-      "Content": "El peso mexicano enfrentará mayores presiones hacia el cierre de 2026. Los analistas consultados por Citi elevaron su pronóstico para el tipo de cambio y ahora esperan que el dólar termine el año en … [+2937 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Tipo de cambio se ‘arrastra’ por movimientos: ¿Cuánto gana el peso al dólar HOY?",
-      "Description": "La guerra en Irán continúa reduciendo el apetito por el riesgo entre los inversionistas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/20/peso-dolar-tipo-de-cambio-precio-hoy-20-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/TOO6GBWRMJAI5J46WTRFWFV25I.png?smart=true&auth=bb4a1ee2cdf1c8b8cfd7bc8312f075294c394592b8b34ded3912994d53960396&width=1200&height=630",
-      "PublishedAt": "2026-10-20T16:17:29Z",
-      "Content": "El peso mexicano tiene un avance marginal ante el dólar en un entorno marcado por una mayor aversión al riesgo por la guerra en Irán en la sesión de este martes 20 de octubre. \r\nEl conflicto, que cum… [+1665 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "A. Santillán y B. Pescio",
-      "Title": "¿Impacto del alza del dólar? Mercado se abre a la posibilidad de que el Banco Central suba la tasa este año",
-      "Description": "Gemines advierte que el tipo de cambio real está desalineado con sus fundamentos y el ente rector debe considerarlo.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/impacto-del-alza-del-dolar-mercado-se-abre-a-la-posibilidad-de-que-el",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20261019/imag/foto_0000000920261019195002.jpg",
-      "PublishedAt": "2026-10-19T22:52:37Z",
-      "Content": "A una semana de que se conozca una nueva decisión de Tasa de Política Monetaria (TPM) por parte del Banco Central, las proyecciones del mercado siguen esperando una mantención en el nivel actual de 4… [+4229 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "‘Los otros’ eran los fantasmas: Peso ‘asusta’ al dólar y gana 8 centavos",
-      "Description": "Esta semana estará dominada por los datos locales, prevé Felipe Mendoza, analista de mercados en EBC Financial Group, esto en referencia a la publicación de la inflación de la primera quincena de octubre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/19/peso-dolar-tipo-de-cambio-precio-hoy-19-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/GG57Q6GBXFEFXIFGVYNKK7OZBQ.png?smart=true&auth=77e799917fa7448752de8287b1e731e566b2b6a71946c4b739f35bb581ce96c5&width=1200&height=630",
-      "PublishedAt": "2026-10-19T17:10:31Z",
-      "Content": "El peso mexicano se aprecia ante el dólar en la sesión de este lunes 19 de octubre, mientras el mercado local está a la espera de la publicación de más datos económicos. \r\nEsta semana se publican el … [+1648 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central volvió a comprar a pesar de que el dólar estuvo más demandado",
-      "Description": "Adquirió US$68 millones y sumó el mayor saldo semanal en tres meses; fue pese a que el billete subió $5, lo que confirmaría que busca sumar dólares para abastecer al Tesoro",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-volvio-a-comprar-a-pesar-de-que-el-dolar-estuvo-mas-demandado-nid16102026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/banco-central-de-la-republica-WNFHIWBYJRG4LI7XHUGHDEN42A.jpg?auth=41351aafb856a02d22211731c9e4cde0c3e8e54e9720f7539226c12204dbb4af&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-10-16T20:29:55Z",
-      "Content": "El Banco Central (BCRA) compró hoy otros US$68 millones para sus reservas, que se consolidaron por encima de los US$50.000 millones. Más precisamente, quedaron en US$50.236 millones, su nivel más alt… [+3610 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso tiene ‘miedo de abrir los ojos’ en el ‘bosque’ del dólar: ¿Cuánto pierde HOY?",
-      "Description": "En ventanillas bancarias, el dólar está a punto de cruzar el techo de los 19 pesos, según datos del banco Banamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/16/peso-dolar-precio-hoy-16-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/ASZPGCPNVRHYHH5P66PGHZOKLQ.png?smart=true&auth=6de9b4b3753c6790e22046ff003a0b44128db047dc8f33925d33cc9550139ed8&width=1200&height=630",
-      "PublishedAt": "2026-10-16T16:10:07Z",
-      "Content": "El tipo de cambio reaccionó al alza este viernes 16 de octubre, mientras el mercado reacciona a las declaraciones de Kevin Warsh, presidente de la Fed, en la reunión anual del Fondo Monetario Interna… [+1762 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso sale de su ‘Miseria’ ante el dólar: ¿Cuánto baja el tipo de cambio HOY?",
-      "Description": "El peso venía de constantes jornadas de depreciación ante el dólar por la perspectiva de que la Reserva Federal subirá su tasa de interés a finales de este mes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/15/peso-dolar-precio-hoy-15-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/PZFWINBPXVEYNNZO3Z442QIPD4.png?smart=true&auth=74145140dd9aa20aab1c4bcca2575cd73395d14d2c4fedfdfd64f369d06b39aa&width=1200&height=630",
-      "PublishedAt": "2026-10-15T16:39:26Z",
-      "Content": "El peso mexicano gana al dólar en la sesión de este jueves 15 de octubre, después de uan semana en la que se vio presionado por el reforzamiento de que la posibilidad de que la Reserva Federal suba s… [+1845 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Arely Sánchez",
-      "Title": "Esperan mayor depreciación del peso; ven dólar hasta en $19",
-      "Description": "El peso se deprecia frente al dólar y el tipo de cambio podría acercarse a las 19 unidades en el corto plazo, dijo Franklin Templeton.",
-      "Url": "https://www.reforma.com/esperan-mayor-depreciacion-del-peso-ven-dolar-hasta-en-19/ar3294647",
-      "UrlToImage": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/252/6251087.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0",
-      "PublishedAt": "2026-10-14T18:42:09Z",
-      "Content": "02 MIN 30 SEG\r\nArely Sánchez\r\nCd. de México (14 octubre 2026) .-12:40 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Agustina Parise",
-      "Title": "Actualización de la banda cambiaria: a cuánto puede llegar el dólar en noviembre sin intervención del Banco Central",
-      "Description": "A partir del dato del IPC de septiembre, la entidad ajustó los límites del margen de flotación del tipo de cambio oficial para el próximo mes; el tipo de cambio mayorista se ubica en los $1513",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/actualizacion-de-la-banda-cambiaria-a-cuanto-puede-llegar-el-dolar-en-noviembre-sin-intervencion-del-nid14102026/",
-      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/la-banda-cambiaria-se-actualizo-para-noviembre-a-UMLSRLLSERHG7NXZIS4JRMYKMY.jpg?auth=0039c64f95e16ebf16d141e18d7387959f7c3aaec87f94832453784a51395834&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2026-10-14T17:55:56Z",
-      "Content": "Tras la difusión del Índice de Precios al Consumidor (IPC) de septiembre (1,9%), el Banco Central (BCRA) actualizó la banda cambiaria para noviembre, cuyo techo se acercará a los $2000.\r\nEl IPC que d… [+3758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Inflación de EU ‘espanta’ al tipo de cambio: Peso pierde 14 centavos ante el dólar",
-      "Description": "Se prevé que el creciente costo del diésel en Estados Unidos provoque que los republicanos pierdan el control de la Cámara de Representantes en noviembre próximo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/14/peso-dolar-tipo-de-cambio-precio-hoy-14-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/N5Y3UEMGQ5DXTAYDPYVB66LZIE.png?smart=true&auth=341ac4c49a2080388ab108ccfafcdaea47fc14eedde916bed707ff90f816fb29&width=1200&height=630",
-      "PublishedAt": "2026-10-14T16:19:03Z",
-      "Content": "El peso mexicano se deprecia ante el dólar en la sesión de este miércoles 14 de octubre, mientras el mercado asimila el dato de inflación de EU en septiembre que fue más alto de lo anticipado. \r\nLos … [+1772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Ander Ahuad",
-      "Title": "‘Día de la Raza’ empuja al peso y se recupera: ¿Cuánto gana frente al dólar HOY 12 de octubre?",
-      "Description": "El peso recupera terreno ante el dólar, esto luego de haber cerrado en su nivel máximo del año la semana pasada.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/12/peso-dolar-precio-hoy-12-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/FX7HJKOHIVBSTHEMCO72VYOO54.png?smart=true&auth=fbc07030495c6970325e321a3d9e8ae0caff89aa5ba11b38bf93fd3340b86cfe&width=1200&height=630",
-      "PublishedAt": "2026-10-12T16:46:05Z",
-      "Content": "El peso recupera terreno ante el dólar en la apertura de la jornada de este lunes 12 de octubre, esto luego de haber cerrado en su nivel máximo del año la semana pasada.\r\nEl tipo de cambio cotiza en … [+1420 chars]"
     }
   ]
 }
