@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso ‘se sacude’ depreciación con el dólar: Tipo de cambio baja a las 18 unidades este viernes",
+      "Description": "El peso está en una pendiente de depreciación desde septiembre  pasado. Las pérdidas para el peso comenzaron por la perspectiva de que el diferencial de tasas entre México y EU caerá más.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/20/peso-dolar-tipo-de-cambio-precio-hoy-20-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/T62Y4UBK6VBFFK3ENTNOUWHJC4.png?smart=true&auth=418128a50f3d90fe041b9fcabef8bfb6902ecb29d8c4658374c34fa9de84396d&width=1440&height=810",
+      "PublishedAt": "2026-11-20T14:42:56Z",
+      "Content": "Tras cerrar en su peor nivel desde junio de 2025, el peso abre con ganancias ante el dólar en la sesión de este viernes 20 de noviembre. \r\nDe acuerdo con Bloomberg, la apreciación del peso ante el dó… [+412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Enrique Quintana",
+      "Title": "Un dólar caro pone a prueba a Banxico",
+      "Description": "El miércoles, las minutas de la Reserva Federal le costaron al peso 2.26 por ciento, su peor día desde abril de 2025. Ayer, la minuta del Banco de México dio el empujón que faltaba para cruzar los 19.",
+      "Url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/20/un-dolar-caro-pone-a-prueba-a-banxico/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/BNVQIYHZSRGB3FC7W3RUPR6ZLI.jpg?smart=true&auth=6b97d93c09b5dda0a1080a2a2d0e0e8fbf0e677d9463c2b6095e2623b22ed058&width=1440&height=810",
+      "PublishedAt": "2026-11-20T08:29:47Z",
+      "Content": "El dólar al mayoreo se cotizó ayer por la tarde en 19.08 pesos. No se veía ese nivel desde junio de 2025. \r\nDesde el mínimo de 16.85 que tocó el pasado 4 de septiembre, se ha encarecido 2 pesos con 2… [+4848 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Al peso le da la ‘chiripiorca’ por minutas de la Fed: ¿Cuánto pierde ante el dólar?",
+      "Description": "Si la Fed sube su tasa de interés, quedará en su nivel más alto de los últimos 12 meses, lo que presionará a empresas apalancadas con créditos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2026/11/18/peso-dolar-tipo-de-cambio-precio-hoy-18-de-noviembre-de-2026/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/S2ITCXH5XRC4DDQ2T25CTDLR2U.png?smart=true&auth=d532d003b29c2cf0bbfccbee3da1b0b731a08fbe1ef49cda747e5e29894c47a8&width=1440&height=810",
+      "PublishedAt": "2026-11-18T16:26:13Z",
+      "Content": "El peso mexicano cae con fuerza este miércoles 18 de noviembre ante el dólar por las minutas de la última reunión de la Reserva Federal, en la que la institución no hizo cambios a la tasa de interés.… [+1681 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +379,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/JE2KD6KQ5VBS5HYNKWLG2VEGB4.jpg?smart=true&auth=6d5ebe44d6743c00a1f82ef36c33d8ff0f69d823086e28f4753fe032554b035e&width=1440",
       "PublishedAt": "2026-10-23T19:40:24Z",
       "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana al alza en el Mercado de Monedas Extranjeras (Monex) con respecto a la semana anterior; sin embargo, se mantiene por debajo de los ¢455… [+1271 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso ‘resiente’ dato de inflación en México: ¿Cuánto pierde ante el dólar HOY?",
-      "Description": "El dato de inflación fue mayor de lo esperado y aumenta la posibilidad de que el Banxico no recorte su tasa de interés en futuras reuniones.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/22/peso-dolar-tipo-de-cambio-precio-hoy-22-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/DU3NY3OPQRDTHKLDY5T53DGUIQ.png?smart=true&auth=712f4785b6bc5f7ccfb06d7ef7f03e1c4cc5ccc884a6efef99fcbba0eab4591e&width=1200&height=630",
-      "PublishedAt": "2026-10-22T17:33:33Z",
-      "Content": "El peso mexicano se deprecia levemente ante el dólar en la sesión de este jueves 22 de octubre, derivado de una mayor aversión al riesgo global por el incremento de las tensiones en la guerra de EU c… [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Cuando la ‘maldad’ del dólar acecha al peso: Se deprecia más de 1% este miércoles",
-      "Description": "Especialistas esperan que la Fed suba su tasa en 25 puntos base en la reunión de diciembre, mientras que el Banxico no tocaría su referencial en todo 2026 y 2027.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OXWZSMXPHREI5FSKZWCG5LARWM.png?smart=true&auth=13b27897bf3acb4ff7b6d0a9fead687846656847113af2bf3c377d609e30dcba&width=1200&height=630",
-      "PublishedAt": "2026-10-21T17:06:02Z",
-      "Content": "El peso mexicano se descalabra ante el dólar debido al nerviosismo del mercado por la guerra en Irán y la expectativa de aumentos a la tasa de interés de la Reserva Federal. \r\nEsos movimientos reduci… [+1840 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Fabián Tiscornia",
-      "Title": "El dólar en Uruguay en su nivel de \"equilibrio\", dice el Banco Central y descarta el \"mal llamado\" atraso cambiario",
-      "Description": "El Banco Central (BCU) incluyó en su Informe de Política Monetaria la evaluación del Tipo de Cambio Real de fundamentos, que es el dólar ajustado por inflación y fundamentos de la economía, comparado con los principales socios comerciales.",
-      "Url": "https://www.elpais.com.uy/negocios/noticias/el-dolar-en-uruguay-en-su-nivel-de-equilibrio-dice-el-banco-central-y-descarta-el-mal-llamado-atraso-cambiario",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/75f9c75/2147483647/strip/true/crop/1396x873+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fdd%2F1d44317248f6943103bd2b4721f5%2Fcaptura-de-pantalla-2025-11-25-200320.png",
-      "PublishedAt": "2026-10-21T06:15:00Z",
-      "Content": "El dólar en Uruguay (ajustado por inflación y los fundamentos de la economía) estaba en su nivel de \"equilibrio\" comparado con los principales socios comerciales, según los datos del Banco Central (B… [+2680 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Diario EL PAIS Uruguay"
-      },
-      "Author": "Melissa Hernández",
-      "Title": "El dólar en Uruguay baja, queda al borde de salir del \"piso\" de los $ 40 y hubo avidez por deuda en moneda local",
-      "Description": "El billete verde se negoció en promedio en $ 40,077 y cerró la jornada en $ 40,02, lo que significó un 0,02% más respecto al cierre del lunes.",
-      "Url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-baja-queda-al-borde-de-salir-del-piso-de-los-40-y-hubo-avidez-por-deuda-en-moneda-local",
-      "UrlToImage": "https://imgs.elpais.com.uy/dims4/default/ade6db2/2147483647/strip/true/crop/1563x977+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F50%2Fcee6cde44ee5b5f110ff37b6e3cc%2Fimagen-para-cms-el-pais-2026-06-29t151333-499.jpg",
-      "PublishedAt": "2026-10-21T06:00:00Z",
-      "Content": "El dólar en Uruguaybajó ayer, tras la suba del lunes, en este caso 0,12% y se negoció en promedio en $ 40,077, al borde de salir del piso de $ 40. El billete verde cotizó en la jornada entre $ 40,02 … [+1767 chars]"
     }
   ]
 }

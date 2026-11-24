@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 18,
+  "TotalResults": 20,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Economictimes.com"
+      },
+      "Author": "Ravindra Sonavane",
+      "Title": "Sensex surges 20% in dollar terms as foreign money chases India",
+      "Description": "The Sensex has increased by 20% in dollar terms this quarter, marking a potential bull market. Foreign fund flows have contributed significantly to this surge, driven by global investors seeking diversification. The rupee's appreciation has also enhanced retu…",
+      "Url": "https://m.economictimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-136086047,resizemode-4,width-1200,height-900,imgsize-191082,overlay-etmarkets/articleshow.jpg",
+      "PublishedAt": "2026-11-23T00:31:08Z",
+      "Content": "Mumbai: The Sensex has surged 20% in dollar terms this quarter, charging into what the Street describes as a bull-market zone, as record foreign fund flows in the fortnights either side of Diwali hav… [+3533 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Global Sports Desk",
+      "Title": "MrBeast promises real money for every dollar stolen in GTA 6 as cameraman wins $44,000 for his mother",
+      "Description": "MrBeast challenged his longtime cameraman, Tareq Salameh, to steal as much money as possible in GTA 6 within 60 minutes, promising real cash for every dollar earned. Despite losing his initial winnings after being killed, Salameh rebuilt his balance and compl…",
+      "Url": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-promises-real-money-for-every-dollar-stolen-in-gta-6-as-cameraman-wins-44000-for-his-mother/articleshow/136085487.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136085492/136085492.jpg",
+      "PublishedAt": "2026-11-22T22:47:11Z",
+      "Content": "A video game robbery rarely leads to a life-changing moment outside the screen. However, MrBeast found a way to make it happen. The YouTube star offered real cash for every dollar his longtime camera… [+2979 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Global Sports Desk",
+      "Title": "Alec Bohm accused his parents of misusing money from his baseball earnings; months later, the Phillies player's multimillion-dollar family lawsuit ended in a confidential settlement",
+      "Description": "Philadelphia Phillies third baseman Alec Bohm has settled a $3 million lawsuit against his parents over alleged financial mismanagement. The MLB star accused them of mishandling his baseball earnings, withholding financial records, and using funds for persona…",
+      "Url": "https://timesofindia.indiatimes.com/sports/international-sports/alec-bohm-accused-his-parents-of-misusing-money-from-his-baseball-earnings-months-later-the-phillies-players-multimillion-dollar-family-lawsuit-ended-in-a-confidential-settlement/articleshow/136059478.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136059625/136059625.jpg",
+      "PublishedAt": "2026-11-22T01:29:10Z",
+      "Content": "Alec Bohm has spent much of his career focused on making a name for himself in Major League Baseball. But away from the field, the Philadelphia Phillies third baseman was dealing with a difficult sit… [+3408 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Briefing"
+      },
+      "Author": "Vivian Nguyen",
+      "Title": "Anthropic’s IPO hits Nasdaq as investors question the trillion-dollar price tag",
+      "Description": "Anthropic's IPO highlights investor caution amid AI sector volatility, competition, and high infrastructure costs, impacting future valuations.\nThe post Anthropic’s IPO hits Nasdaq as investors question the trillion-dollar price tag appeared first on Crypto B…",
+      "Url": "https://cryptobriefing.com/anthropic-ipo-nasdaq-valuation-skepticism/",
+      "UrlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/19102640/library-anthropic-s-ipo-hits-nasdaq-as-investors-question-the-tr-800x450.jpg",
+      "PublishedAt": "2026-11-19T15:26:50Z",
+      "Content": "The Claude maker priced above its range, but cheaper rivals like DeepSeek and a rich valuation have some big investors urging cautionAnthropic is about to find out what public markets think a frontie… [+2633 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -210,32 +262,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-135222727,width-1200,height-900,imgsize-141670,overlay-etmarkets/articleshow.jpg",
       "PublishedAt": "2026-10-27T02:15:58Z",
       "Content": "The Japanese yen eased against the US dollar on Tuesday, further eroding last week's safe-haven gains, underpinned by a risk-on mood and a weaker euro ahead of key central bank meetings this week tha… [+3176 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Bennito L. Kelty",
-      "Title": "Shock as Jared Kushner’s hacked phone exposes secret billion-dollar money trail: 'Insane'",
-      "Description": "Observers were shocked Thursday after a new book excerpt detailed how foreign spies spent months peering into the phone of President Donald Trump's son-in-law.In an excerpt published by Vanity Fair from his upcoming book \"Princes and Thieves,\" investigative r…",
-      "Url": "https://www.rawstory.com/jared-kushner-2678128976/",
-      "UrlToImage": "https://www.rawstory.com/media-library/steve-witkoff-us-president-donald-trumps-special-envoy-and-jared-kushner-u-s-president-donald-trump-s-son-in-law-during-a.jpg?id=68511122&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "PublishedAt": "2026-10-22T20:27:15Z",
-      "Content": "Observers were shocked Thursday after a new book excerpt detailed how foreign spies spent months peering into the phone of President Donald Trump's son-in-law.\r\nIn an excerpt published by Vanity Fair… [+1959 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forkast.news"
-      },
-      "Author": "Nolan Pratt",
-      "Title": "SoFi Just Shipped the Two-Tier Dollar: 4.40% Inside the Bank, Free Movement Outside It",
-      "Description": "The most interesting thing about SoFi Earn is not that it exists. It is where it stops. SoFi Technologies (NASDAQ: SOFI) announced the product, ticker SOFIE, on Oct. 22 via the Business Wire release, billing it as the first and only national bank-issued token…",
-      "Url": "https://forkast.news/sofi-just-shipped-the-two-tier-dollar-4-40-inside-the-bank-free-movement-outside-it/",
-      "UrlToImage": "https://forkast.news/wp-content/uploads/2026/10/sofi-earn-two-tier-dollar-hero-1024x687.jpg",
-      "PublishedAt": "2026-10-22T17:39:54Z",
-      "Content": "The most interesting thing about SoFi Earn is not that it exists. It is where it stops.\r\nSoFi Technologies (NASDAQ: SOFI) announced the product, ticker SOFIE, on Oct. 22 via the Business Wire release… [+4426 chars]"
     }
   ]
 }
