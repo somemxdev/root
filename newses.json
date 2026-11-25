@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Agustín Maza",
+      "Title": "El peso es la moneda emergente más golpeada después de Brasil y crece la demanda de cobertura frente al dólar",
+      "Description": "Solo lo superó el real brasileño; la brecha y el riesgo país son los más altos desde las elecciones de 2025; los inversores aceleran sus posiciones en títulos vinculados al tipo de cambio",
+      "Url": "https://www.lanacion.com.ar/economia/el-peso-es-la-moneda-emergente-mas-golpeada-despues-de-brasil-y-crece-la-demanda-de-cobertura-frente-nid23112026/",
+      "UrlToImage": "https://www.lanacion.com.ar/resizer/v2/el-peso-argentino-es-la-segunda-moneda-emergente-LGWBX4Z4GVG7PNTEPSXN7FQYRE.jpg?auth=a98c514ca109f85f7a425f218380ce4ae97c7e1639ad35813d4c5c8a263fb9a8&width=1200&height=675&quality=70&smart=true",
+      "PublishedAt": "2026-11-23T15:48:34Z",
+      "Content": "El peso argentino es la segunda moneda emergente que más perdió su valor en los últimos 30 días, solo detrás del real brasileño.\r\nA casi un año de las presidenciales de 2027, la tensión cambiaria ya … [+4775 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "El Financiero"
       },
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v2/IK22IBT5V5GBRDFNL7VQT4BHY4.png?smart=true&auth=9e2b52f89ddf3ecac6cbed0da453feac409da229da60a8c8a2fc3f11f062ce67&width=1200&height=630",
       "PublishedAt": "2026-10-26T18:29:59Z",
       "Content": "El peso mexicano inicia la última semana de octubre con ganancias ante el dólar, mientras que en mercados internacionales la reeleción de Lula da Silva tiró la Bolsa de Brasil.\r\nLa Bolsa de Sao Paulo… [+1649 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar cierra semana al alza",
-      "Description": "A pesar de la subida, el precio de la divisa se mantiene por debajo de ¢455",
-      "Url": "https://www.nacion.com/economia/tipo-de-cambio-del-dolar-cierra-semana-al-alza/X25PKSSVCFCOBKAM2NWAXOQL5Q/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/JE2KD6KQ5VBS5HYNKWLG2VEGB4.jpg?smart=true&auth=6d5ebe44d6743c00a1f82ef36c33d8ff0f69d823086e28f4753fe032554b035e&width=1440",
-      "PublishedAt": "2026-10-23T19:40:24Z",
-      "Content": "El tipo de cambio del dólar respecto al colón cerró esta semana al alza en el Mercado de Monedas Extranjeras (Monex) con respecto a la semana anterior; sin embargo, se mantiene por debajo de los ¢455… [+1271 chars]"
     }
   ]
 }
